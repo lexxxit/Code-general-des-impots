@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1985-07-13
+Version Consolidée au 1985-07-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10728,6 +10728,59 @@ l'article précité.
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 18 (V) JORF 30 décembre 1983
 
 
+##### Section XV : Contribution des institutions financières.
+
+###### Article 235 ter Y
+
+I. Les établissements de crédit, les entreprises d'assurances, de capitalisation et de réassurances de toute nature, ainsi
+que les sociétés immobilières pour le financement du commerce et de l'industrie, doivent acquitter une contribution annuelle
+sur certaines dépenses et charges comptabilisées au cours de l'année précédente.
+
+II. Cette contribution est assise sur les dépenses et charges comptabilisées au cours de l'année précédente au titre des
+frais de personnel, des travaux, fournitures et services extérieurs, des frais de transport et de déplacement, des frais
+divers de gestion et des amortissements des immeubles, matériels et véhicules utilisés pour les besoins de l'exploitation
+(1).
+
+III. Le taux de la contribution est fixé à 1 %. Sur son montant ainsi calculé, il est pratiqué un abattement de 20.000 F. 
+
+Elle est établie et recouvrée comme la retenue à la source sur le produit des obligations prévue à l'article 119 bis-1 et
+sous les mêmes garanties et sanctions. 
+
+Elle est payable au plus tard le 15 octobre de chaque année, à la recette des impôts dont relèvent les entreprises. Le
+versement est accompagné du dépôt d'une déclaration établie dans les conditions fixées par le ministre de l'économie, des
+finances et du budget. 
+
+La contribution est exclue des charges déductibles pour la détermination du résultat imposable de l'exercice au titre duquel
+elle est due. 
+
+Si une entreprise soumise à la contribution présente un résultat déficitaire au titre du dernier exercice clos avant le 16
+octobre d'une année, elle peut reporter le paiement de la contribution, dans la limite d'une somme égale au déficit, au 15
+mai de l'année suivante.
+
+(1) Voir annexe III, articles 58 K à 58 N.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 119 bis 1
+	  - CGIAN3 58 K à CGIAN3 58 N
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+	**Créé par**:
+
+	  - Loi n°82-540 du 28 juin 1982 - art. 4 (V) JORF 29 juin 1982 Finances rectificative pour 1982
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+	  - Loi n°84-1208 du 29 décembre 1984 - art. 21 (P) JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+
 #### Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III
 
 ##### Section II : Impôt sur le revenu et impôt sur les sociétés
@@ -11618,6 +11671,46 @@ renonciation ne peut être effectuée qu'avec l'accord de tous les associés.
 	  - Code général des impôts, CGI. - art. 221 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 297 (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 22 (V)
+
+
+##### XI bis : Régime fiscal de certaines sociétés à responsabilité limitée - Option pour le régime des sociétés de personnes
+
+###### Article 239 bis AA
+
+Les sociétés à responsabilité limitée exerçant une activité industrielle, commerciale ou artisanale, et formées uniquement
+entre personnes parentes en ligne directe ou entre frères et soeurs, ainsi que les conjoints, peuvent opter pour le régime
+fiscal des sociétés de personnes mentionné à l'article 8. L'option ne peut être exercée qu'avec l'accord de tous les
+associés. Elle cesse de produire ses effets dès que des personnes autres que celles prévues dans le présent article
+deviennent associées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 8
+
+	**Modifié par**:
+
+	  - Loi n°84-1208 1984-12-29 art. 83 Finances pour 1985 JORF 30 décembre 1984
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 211 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 211 bis (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 62 (V)
+	  - Code général des impôts, CGI. - art. 163 unvicies (P)
+	  - Code général des impôts, CGI. - art. 206 (V)
+	  - Code général des impôts, CGI. - art. 8 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies B (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
 
 
 ##### XIII : Régime fiscal des sociétés civiles ayant pour objet la construction d'immeubles en vue de la vente
@@ -32799,6 +32892,31 @@ principal établissement [*lieu*], avant le 1er octobre de l'année précédant 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 I-0 bis (V)
 
 
+##### Annualité de la taxe
+
+###### Article 1478 bis
+
+Les bases d'imposition afférentes au personnel et aux biens et équipements mobiliers transférés par une entreprise d'une
+commune à une autre, et imposables dans cette dernière l'année suivant celle du transfert, ne sont pas, au titre de la même
+année, imposées dans la commune d'où ces éléments ont été transférés. L'application de cette disposition est subordonnée à
+une déclaration du contribuable effectuée au service des impôts de cette dernière commune, avant le 1er janvier de l'année
+suivant celle du transfert.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+	**Créé par**:
+
+	  - Loi n°84-1208 du 29 décembre 1984 - art. 102 (P) JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+
+
 ##### Section VI : Règles d'évaluation de la valeur locative des biens imposables
 
 ##### I : Évaluation des propriétés bâties
@@ -34181,6 +34299,35 @@ assurée obligatoirement par le service des impôts suivant les règles propres 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 131 A (V)
+
+
+##### 7° : Obligations des exploitants.
+
+###### Article 1565 bis
+
+Les organisateurs de spectacles classés en première et troisième catégories doivent produire, dans le mois qui suit chaque
+manifestation, une déclaration indiquant le montant des recettes imposables. Les recettes relatives aux abonnements sont
+déclarées dans le mois qui suit leur encaissement.
+
+L'impôt est acquitté lors du dépôt de la déclaration.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+	**Créé par**:
+
+	  - Loi n°84-1208 1984-12-29 art. 84 I 3 Finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+
+	**Abrogé par**:
+
+	  - Loi n°2014-1654 du 29 décembre 2014 - art. 21
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 138 (V)
 
 
 ##### Obligations des exploitants.
@@ -37255,6 +37402,62 @@ compter de cette date.
 	**Modifié par**:
 
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 111 () JORF 30 décembre 1983
+
+
+###### Article 1649 quater-0 B
+
+Les valeurs mobilières émises en territoire français et soumises à la législation française, quelle que soit leur forme,
+doivent être inscrites en comptes tenus par la personne morale émettrice ou par un intermédiaire habilité.
+
+Les titres des sociétés par actions qui ne sont pas inscrites à la cote officielle ou à la cote du second marché d'une bourse
+de valeurs et les actions des sociétés autres que les S.I.C.A.V. qui ne répondent pas aux conditions prévues par la première
+phrase du 1° de l'article 163 octies doivent obligatoirement être inscrits à un compte tenu chez elle par la société
+émettrice au nom du propriétaire des titres (1).
+
+(1) Dispositions applicables à compter du 3 novembre 1984. Elles ne concernent, lorsqu'elles ont été émises avant cette date,
+ni les obligations amortissables par tirage au sort de numéros, ni les rentes perpétuelles sur l'Etat détenues sous forme
+nominative.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 octies
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 26 () JORF 12 juillet 1985
+	  - Loi n°85-695 du 11 juillet 1985 - art. 27 () JORF 12 juillet 1985
+
+
+#### Chapitre 0I ter : Entreprises de la batellerie
+
+###### Article 1649 quater BA
+
+Pour l'application de la législation fiscale, les entreprises inscrites au registre de la chambre nationale de la batellerie
+artisanale sont assimilées aux entreprises artisanales immatriculées au répertoire des métiers.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 282, 1468
+
+	**Créé par**:
+
+	  - Loi n°84-1208 1984-12-29 art. 93 I Finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
 
 
 #### Chapitre I ter : Centres de gestion agréés,  associations de gestion et de comptabilité, associations agréées des professions libérales et organismes mixtes de gestion agréés
