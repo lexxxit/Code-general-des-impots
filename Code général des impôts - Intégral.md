@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1982-09-01
+Version Consolidée au 1982-12-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -20940,6 +20940,40 @@ profit du Trésor, à aucune perception.
 	  - CGI 1020
 
 
+###### Article 1030
+
+Les actes, pièces et écrits de toute nature concernant les sociétés coopératives agricoles de céréales et leurs unions sont
+exonérés de tous droits de timbre.
+
+Sous réserve des dispositions de l'article 1020, ils sont également exonérés de tous droits d'enregistrement.
+
+Les moulins coopératifs, les coopératives agricoles de meunerie et de meunerie-boulangerie créés et fonctionnant sous le
+régime prévu par le titre II du livre V (nouveau) du code rural, relatif aux sociétés coopératives agricoles sont considérés
+comme coopératives de blé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1020
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1020 (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 décembre 1982
+
+
 ###### Article 1031
 
 Sous réserve des dispositions de l'article 1020, les actes, pièces et écrits de toute nature, concernant les sociétés
@@ -20951,6 +20985,40 @@ d'enregistrement.
 	**Cite**:
 
 	  - CGI 1020
+
+
+##### Sociétés et caisses d'assurances mutuelles agricoles
+
+###### Article 1032
+
+Les sociétés ou caisses d'assurances mutuelles agricoles, constituées conformément à l'article 1235 du code rural, sont
+exonérées de tous droits d'enregistrement et de timbre.
+
+Toutefois, elles supportent la taxe de publicité foncière ou, le cas échéant, les droits d'enregistrement, au taux de 0,60 %
+à raison des dispositions sujettes à publicité foncière incluses dans les actes les concernant, lorsque ces impositions sont
+légalement à leur charge.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1235
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 décembre 1982
+
+	**Abrogé par**:
+
+	  - Loi n°93-1352 du 30 décembre 1993 - art. 33 () JORF 31 décembre 1993
+
+	**Liens**:
+
+	  - HISTO: abrogation incorporée dans l'édition du 2 septembre 1994
 
 
 ##### III : Divers
@@ -21364,6 +21432,52 @@ perçue sur les actes publiés en vue de l'application de la législation sur le
 	  - Code général des impôts, CGI. - art. 664 (V)
 
 
+###### Article 1052
+
+I. - Sous réserve des dispositions de l'article 827-I, les actes les actes nécessaires à la constitution et à la dissolution
+des organismes d'habitations à loyer modéré définis dans le livre IV du code de la construction et de l'habitation sont
+dispensés du timbre et soumis gratuitement à la publicité foncière ou à l'enregistrement, s'ils remplissent les conditions
+visées à l'article 809-I-1°, c'est-à-dire s'ils ne portent pas transmission de biens meubles ou immeubles entre les associés
+ou autres personnes.
+
+Les pouvoirs en vue de la représentation aux assemblées générales sont dispensés du timbre.
+
+Les sociétés anonymes d'habitations à loyer modéré ne sont admises au bénéfice des exonérations qui précèdent, qu'autant
+qu'elles remplissent les conditions énumérées aux articles L422-2 et L422-5 et suivants du code de la construction et de
+l'habitation.
+
+II. - Ces dispositions sont applicables :
+
+1° Aux sociétés de bains-douches et aux organismes de jardins familiaux visés aux articles L561-1 et L561-2 du code rural ;
+
+2° Aux sociétés coopératives artisanales ainsi qu'aux groupements de ces mêmes coopératives visés à l'article 64 du code de
+l'artisanat.
+
+III. - Les sociétés coopératives artisanales réalisant les opérations désignées à l'article 1er de la loi du 2 août 1932 et
+leurs membres bénéficient des exonérations fiscales prévues au I.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 809 I 1°
+	  - CGI 827 I
+	  - Code de l'artisanat - art. 64 (Ab)
+	  - Code de la construction L422-2
+	  - Code de la construction L422-5
+	  - Code rural L561-1
+	  - Code rural L561-2
+	  - Loi n°1932-08-02 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 décembre 1982
+
+
 ###### Article 1053
 
 A condition de se référer expressément au code de l'urbanisme, les actes, pièces, écrits et formalités qui concernent
@@ -21534,6 +21648,39 @@ dispensés de la formalité.
 Les fonds et placements de la banque des règlements internationaux provenant des paiements de l'Allemagne sont libérés de
 toute charge fiscale.
 
+
+
+##### Caisse nationale de prévoyance
+
+###### Article 1061
+
+I  Sous réserve des dispositions de l'article 679-3°, les certificats, actes de notoriété et autres pièces exclusivement
+relatives à l'exécution des dispositions du chapitre III du titre III du livre IV de la première partie du code des
+assurances, sont exonérés des droits de timbre et d'enregistrement et, le cas échéant, dispensés de la formalité.
+
+II  Il en est de même des certificats, actes de notoriété et de toutes autres pièces exclusivement relatives à la liquidation
+et au paiement des pensions acquittées par l'Etat, comme complément des rentes viagères servies au personnel ouvrier des
+administrations publiques par la caisse nationale de prévoyance.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Abrogation incorporée dans l'édition du 18 août 1993
+	  - Loi n°92-665 du 16 juillet 1992 - art. 8 () JORF 17 juillet 1992, art. 10 pour la date d'entrée en vigueur
+
+	**Cite**:
+
+	  - CGI 679 3°
+	  - Code des assurances Livre IV Titre III chapitre III
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 Décembre 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 10
 
 
 ##### 2° : Caisses d'épargne
@@ -51659,36 +51806,6 @@ dispositions sont soumises à une imposition fixe de 50 F [*montant*].
 	  - Décret n°82-881 1982-10-15
 
 
-###### Article 1030
-
-Les actes, pièces et écrits de toute nature concernant les sociétés coopératives agricoles de céréales et leurs unions sont
-exonérés de tous droits de timbre autres que le droit de timbre de quittances.
-
-Sous réserve des dispositions de l'article 1020, ils sont également exonérés de tous droits d'enregistrement.
-
-Les moulins coopératifs, les coopératives agricoles de meunerie et de meunerie-boulangerie créés et fonctionnant sous le
-régime prévu par le titre II du livre V (nouveau) du code rural, relatif aux sociétés coopératives agricoles sont considérés
-comme coopératives de blé.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1020
-
-	**Modifié par**:
-
-	  - Décret n°81-277 1981-03-18 ART. 2, ART. 3 JORF 27 MARS 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 1020 (V)
-
-
 ##### AGRICULTURE.
 
 ###### Article 1024
@@ -51762,26 +51879,6 @@ Les dispositions du présent article sont applicables dans les départements d'o
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1020 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1032
-
-Les sociétés ou caisses d'assurances mutuelles agricoles, constituées conformément à l'article 1235 du code rural, sont
-exonérées de tous droits d'enregistrement et de timbre autres que le droit de timbre des quittances.
-
-Toutefois, elles supportent la taxe de publicité foncière ou, le cas échéant, les droits d'enregistrement, au taux de 0,60 %
-à raison des dispositions sujettes à publicité foncière incluses dans les actes les concernant, lorsque ces impositions sont
-légalement à leur charge.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 1235
 
 	**Liens**:
 
@@ -51910,78 +52007,7 @@ de crédit immobilier ou leurs unions ;
 	  - Loi n°81-1160 du 30 décembre 1981 - art. 43 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
 
 
-###### Article 1052
-
-I. - Sous réserve du droit de timbre de quittance et des dispositions de l'article 827-I, les actes nécessaires à la
-constitution et à la dissolution des organismes d'habitations à loyer modéré définis dans le livre IV du code de la
-construction et de l'habitation sont dispensés du timbre et soumis gratuitement à la publicité foncière ou à
-l'enregistrement, s'ils remplissent les conditions visées à l'article 809-I-1°, c'est-à-dire s'ils ne portent pas
-transmission de biens meubles ou immeubles entre les associés ou autres personnes.
-
-Les pouvoirs en vue de la représentation aux assemblées générales sont dispensés du timbre.
-
-Les sociétés anonymes d'habitations à loyer modéré ne sont admises au bénéfice des exonérations qui précèdent, qu'autant
-qu'elles remplissent les conditions énumérées aux articles L422-2 et L422-5 et suivants du code de la construction et de
-l'habitation.
-
-II. - Ces dispositions sont applicables :
-
-1° Aux sociétés de bains-douches et aux organismes de jardins familiaux visés aux articles L561-1 et L561-2 du code rural ;
-
-2° Aux sociétés coopératives artisanales ainsi qu'aux groupements de ces mêmes coopératives visés à l'article 64 du code de
-l'artisanat.
-
-III. - Les sociétés coopératives artisanales réalisant les opérations désignées à l'article 1er de la loi du 2 août 1932 et
-leurs membres bénéficient des exonérations fiscales prévues au I.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 809 I 1°
-	  - CGI 827 I
-	  - Code de l'artisanat - art. 64 (Ab)
-	  - Code de la construction L422-2
-	  - Code de la construction L422-5
-	  - Code rural L561-1
-	  - Code rural L561-2
-	  - Loi n°1932-08-02 ART. 1
-
-	**Modifié par**:
-
-	  - Décret n°81-276 1981-03-18 ART. 3, ART. 5 JORF 27 MARS 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
 ##### ETABLISSEMENTS FINANCIERS.
-
-###### Article 1061
-
-I  Sous réserve des dispositions de l'article 679-3°, les certificats, actes de notoriété et autres pièces exclusivement
-relatives à l'exécution des dispositions du chapitre III du titre III du livre IV de la première partie du code des
-assurances, sont exonérés des droits de timbre et d'enregistrement et, le cas échéant, dispensés de la formalité.
-
-II  Il en est de même des certificats, actes de notoriété et de toutes autres pièces exclusivement relatives à la liquidation
-et au paiement des pensions acquittées par l'Etat, comme complément des rentes viagères servies au personnel ouvrier des
-administrations publiques par la caisse nationale de prévoyance.
-
-Les quittances, délivrées en exécution des articles L 433-1 à L 433-11 du code des assurances pour remboursement de capitaux
-réservés et paiement d'arrérages de rentes viagères et de pensions de retraite, bénéficient de l'immunité de timbre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 679 3°
-	  - Code des assurances R433-1 A Code des assurances R433-14
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 1064
 
@@ -52270,48 +52296,6 @@ loi précitée.
 	**Modifié par**:
 
 	  - Loi n°81-1160 du 30 décembre 1981 - art. 43 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
-
-
-### DISPOSITIONS COMMUNES AUX TITRES I, II ET IV *IMPOTS DIRECTS ET TAXES ASSIMILEES, TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES, ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE*.
-
-###### Article 1378 septies
-
-I  1  Les sociétés civiles de moyens - constituées entre membres appartenant à des professions dont l'exercice est réservé
-aux personnes physiques et pour lesquelles le règlement d'administration publique prévu par la loi n° 66-879 du 29 novembre
-1966 n'est pas intervenu - sont réputées ne pas avoir de personnalité distincte de leurs membres pour l'application de
-l'impôt sur le revenu et sont exonérées de la taxe sur la valeur ajoutée, à condition :
-
-a  Que le nombre des associés n'excède pas un chiffre fixé par décret, après avis des organisations professionnelles
-représentatives intéressées;
-
-b  Que, indépendamment des apports, la société ne reçoive de ses membres d'autres sommes que le strict remboursement de la
-part leur incombant dans les dépenses sociales;
-
-c  Que la société opte pour ce régime avant le 1er mars 1973 ou dans le délai prévu à l'article 286-1°.
-
-2  Les sociétés ayant exercé l'option prévue au 1-c conservent le bénéfice du régime prévu au 1 après l'intervention du
-règlement d'administration publique.
-
-3  Les sociétés bénéficiant des dispositions du 1 sont tenues d'adresser au service des impôts, avant le 1er mars de chaque
-année [*date limite*], une déclaration dont le contenu est fixé par décret.
-
-Cette déclaration est vérifiée dans les conditions prévues à l'article 60, deuxième alinéa.
-
-II  Un décret fixe, en tant que de besoin, les conditions d'application du I (1).
-
-1)  Article abrogé à compter du 1er janvier 1976.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 286 1°
-	  - CGI 60 AL. 2
-	  - Loi n°66-879 1966-11-29
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES
