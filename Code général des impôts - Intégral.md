@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1984-07-14
+Version Consolidée au 1984-07-20
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1908,6 +1908,34 @@ des avantages en nature accordés à leur personnel.
 	  - HISTO: Edition du 20 juillet 1984
 
 
+###### Article 54 sexies
+
+Les sociétés débitrices des intérêts prévus à l'article 125 C doivent joindre à leur déclaration de résultats un état des
+sommes mises à leur disposition dans les conditions prévues au même article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 125 C
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 125 C (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Créé par**:
+
+	  - Loi n°83-1179 1983-12-29 art. 11 I 4° finances pour 1984 JORF 30 décembre 1983
+
+
 ###### Article 54 ter
 
 En vue de l'application des dispositions de l'article 39 bis, les entreprises intéressées sont tenues de joindre à chaque
@@ -2133,6 +2161,38 @@ revenu ayant servi de base à la taxe foncière établie sur ces propriétés au
 	  - Code général des impôts, CGI. - art. 64 (Ab)
 
 
+###### Article 65 A
+
+Les exploitants agricoles placés sous le régime du forfait doivent déclarer au service des impôts dont dépend chacune de
+leurs exploitations les renseignements nécessaires au calcul de leur bénéfice. 
+
+Ces déclarations sont souscrites, avant le 1er avril de chaque année, sur des imprimés spéciaux fournis par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 65 B (Ab)
+	  - Code général des impôts, CGI. - art. 69 (V)
+	  - Code général des impôts, CGI. - art. 70 (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Créé par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 85 (V) JORF 30 décembre 1983
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 33
+
+
 ##### 3 : Imposition d'après le bénéfice réel
 
 ##### A : Régimes d'imposition
@@ -2177,7 +2237,119 @@ les faits qui l'ont motivée subsistent.
 	  - Loi n°2015-1786 du 29 décembre 2015 - art. 33
 
 
+###### Article 69 C
+
+Les personnes qui effectuent des opérations commerciales d'importation, de vente, de commission et de courtage portant sur
+des animaux vivants de boucherie et de charcuterie, ainsi que celles qui effectuent des opérations commerciales d'achat
+portant sur des animaux de boucherie et de charcuterie, sont soumises au régime d'imposition d'après le bénéfice réel pour
+les profits qu'elles réalisent, à titre personnel ou comme membres d'une société ne relevant pas de l'impôt sur les sociétés,
+à l'occasion de l'exercice de leurs activités agricoles, quel que soit le montant des recettes tirées de ces activités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°70-1199 1970-12-21 art. 18 V finances pour 1971 JORF 22 décembre 1970
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 69 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+
+###### Article 70
+
+Pour l'application des articles 69, 69 A, 69 C et 72, il est tenu compte des recettes réalisées par les sociétés et
+groupements non soumis à l'impôt sur les sociétés dont le contribuable est membre, à proportion de ses droits dans les
+bénéfices de ces sociétés et groupements. Toutefois le régime fiscal de ceux-ci demeure déterminé uniquement par le montant
+global de leurs recettes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 69, 69 A, 69 C, 72
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Créé par**:
+
+	  - Loi n°70-1199 1970-12-21 art. 11 I Finances pour 1971 JORF 22 décembre 1970
+
+	**Modifié par**:
+
+	  - Loi n°76-1220 du 28 décembre 1976 - art. 3 (V) JORF 29 décembre 1976
+
+
 ##### B : Détermination du résultat imposable
+
+###### Article 72
+
+I. Sous réserve de l'application des articles 71 et 72 A à 73 C, le bénéfice réel de l'exploitation agricole est déterminé et
+imposé selon les principes généraux applicables aux entreprises industrielles et commerciales, conformément à toutes les
+dispositions législatives et à leurs textes d'application, sans restriction ni réserve notamment de vocabulaire, applicables
+aux industriels ou commerçants ayant opté pour le régime réel mais avec des règles et modalités adaptées aux contraintes et
+caractéristiques particulières de la production agricole, et de leur incidence sur la gestion, qui sont notamment :
+
+Le faible niveau du chiffre d'affaires par rapport au capital investi, ce qui se traduit par une lente rotation des
+capitaux ;
+
+La proportion exagérément importante des éléments non amortissables dans le bilan : foncier non bâti, amélioration foncière
+permanente, parts de coopératives et de SICA ;
+
+L'irrégularité importante des revenus.
+
+II. Des décrets précisent les adaptations résultant du I.. De même, les décrets précisent les règles particulières relatives
+aux dates de dépôt des déclarations que doivent souscrire les exploitants agricoles, ainsi qu'aux documents qu'ils doivent
+produire (1).
+
+III. Les dispositions des I et II s'appliquent à tous les contribuables placés sous le régime du bénéfice réel.
+
+(1) Annexe III, art. 38 sexdecies A à 38 sexdecies J, 38 sexdecies JE à 38 sexdecies OD, 38 sexdecies P à 38 sexdecies RA.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 71, 72 A à 73 C
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 2001-02-12 5E-3-01
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Créé par**:
+
+	  - Loi n°70-1199 1970-12-21 art. 9 II 1, 2, art. 10 III finances pour 1971 JORF 22 décembre 1970
+
+	**Modifié par**:
+
+	  - Loi n°72-1121 1972-12-20 art. 5 finances pour 1973 JORF 21 décembre 1972
+	  - Loi n°72-1147 1972-12-23 art. 23 finances rectificative pour 1972 JORF 27 décembre 1972
+	  - Loi n°76-1220 du 28 décembre 1976 - art. 4 () JORF 29 décembre 1976
+
+	**Cité par**:
+
+	  - Décret n°97-1065 du 20 novembre 1997 - art. 7 (M)
+	  - Décret n°2012-484 du 13 avril 2012 - art. 11 (Ab)
+	  - Code général des impôts, CGI. - art. 151 nonies (V)
+	  - Code général des impôts, CGI. - art. 44 quaterdecies (V)
+	  - Code général des impôts, CGI. - art. 70 (V)
+	  - Code général des impôts, CGI. - art. 74 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 73 (V)
+	  - Code rural et de la pêche maritime - art. R731-32 (V)
+	  - Livre des procédures fiscales - art. L135 D (V)
+
 
 ###### Article 72 A
 
@@ -2253,7 +2425,88 @@ du bénéfice réel.
 	  - HISTO: Edition du 1er janvier 2003
 
 
+###### Article 73 C
+
+Les dispositions de l'article 42 septies sont applicables à la dotation d'installation aux jeunes agriculteurs prévue par le
+décret n° 81-246 du 17 mars 1981 lorsqu'elle est affectée à la création ou à l'acquisition d'immobilisations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 42 septies
+	  - Décret n°81-246 1981-03-17
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Créé par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 87 (V) JORF 30 décembre 1983
+
+
 ##### Régime simplifié
+
+###### Article 74
+
+Le bénéfice imposable des exploitants placés sous le régime simplifié d'imposition d'après le bénéfice réel est déterminé
+conformément aux dispositions des articles 72 à 73 C sous réserve des simplifications suivantes :
+
+a. La comptabilité de l'exploitation n'enregistre journellement que les encaissements et les paiements ; les créances et les
+dettes sont constatées à la clôture de l'exercice ;
+
+b. Les stocks, y compris les animaux, mais non compris les matières premières achetées et les avances aux cultures (1) visées
+à l'article 72 A, sont évalués selon une méthode forfaitaire, à partir du cours du jour à la clôture de l'exercice. Le décret
+prévu à l'article 74 B peut définir des méthodes particulières d'évaluation pour les matières premières achetées.
+
+Il n'est pas constitué de provision.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 72
+	  - CGI 72 A
+	  - CGI 72 B
+	  - CGI 72 C
+	  - CGI 73
+	  - CGI 73 A
+	  - CGI 73 B
+	  - CGI 73 C
+	  - CGI 74 B
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Créé par**:
+
+	  - Loi n°76-1220 du 28 décembre 1976 - art. 3 (V) JORF 29 décembre 1976
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 78 (V) JORF 30 décembre 1983
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 79 (V) JORF 30 décembre 1983
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 80 (V) JORF 30 décembre 1983
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 84 (V) JORF 30 décembre 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 44 quaterdecies (V)
+	  - Code général des impôts, CGI. - art. 74 A (V)
+	  - Code général des impôts, CGI. - art. 74 B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies JC (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies RB bis (V)
+
 
 ###### Article 74 A
 
@@ -3039,6 +3292,54 @@ contrôlée du bénéfice net, soit sous le régime de l'évaluation administrat
 
 
 ##### 1 : Régime de la déclaration contrôlée
+
+###### Article 96
+
+I Les contribuables qui réalisent ou perçoivent des bénéfices ou revenus visés à l'article 92 sont obligatoirement soumis au
+régime de la déclaration contrôlée lorsque le montant annuel de leurs recettes excède 175.000 F.
+
+Peuvent également se placer sous ce régime, les contribuables, dont les recettes annuelles ne sont pas supérieures à 175.000
+F, lorsqu'ils sont en mesure de déclarer exactement le montant de leur bénéfice net et de fournir à l'appui de cette
+déclaration toutes les justifications nécessaires.
+
+II Pour l'appréciation de la limite visée au I, il est fait abstraction des opérations portant sur les éléments d'actif
+affectés à l'exercice de la profession ou des indemnités reçues à l'occasion de la cessation de l'exercice de la profession
+ou du transfert d'une clientèle et des honoraires rétrocédés à des confrères selon les usages de la profession.
+
+En revanche, il est tenu compte des recettes réalisées par les sociétés et groupements non soumis à l'impôt sur les sociétés
+dont le contribuable est membre, à proportion de ses droits dans les bénéfices de ces sociétés et groupements.
+
+Toutefois, le régime fiscal de ces sociétés et groupements demeure déterminé uniquement par le montant global de leurs
+recettes.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 3 avril 2015 (V)
+	  - Code général des impôts, CGI. - art. 103 (V)
+	  - Code général des impôts, CGI. - art. 1498 bis (V)
+	  - Code général des impôts, CGI. - art. 44 duodecies (V)
+	  - Code général des impôts, CGI. - art. 44 octies (V)
+	  - Code général des impôts, CGI. - art. 44 octies A (V)
+	  - Code général des impôts, CGI. - art. 44 quaterdecies (V)
+	  - Code général des impôts, CGI. - art. 44 sexies A (V)
+	  - Code général des impôts, CGI. - art. 44 terdecies (V)
+	  - Code général des impôts, CGI. - art. 96 B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 40 A (V)
+
+	**Cite**:
+
+	  - CGI 92
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
 
 ###### Article 97
 
@@ -6018,6 +6319,41 @@ renseignements prévus aux articles 53 A, 97, 101, 302 sexies ou à l'article 38
 	  - HISTO: Edition du 20 juillet 1984
 
 
+###### Article 173
+
+1. Le contenu et la présentation des déclarations sont précisés par un décret (1).
+
+Les noms et adresses des bénéficiaires d'arrérages dont le contribuable demande la déduction doivent être obligatoirement
+déclarés avec l'indication des sommes versées à chacun des intéressés.
+
+2. Les déclarations prévues à l'article 170 mentionnent séparément le montant des revenus, de quelque nature qu'ils soient,
+encaissés directement ou indirectement, d'une part, dans les territoires d'outre-mer ou Etats de l'ancienne Communauté
+[*CEE*] et, d'autre part, à l'étranger. A défaut, le contribuable est réputé les avoir omis et il est tenu de verser le
+supplément d'impôt correspondant.
+
+(1) Annexe III, art. 42 à 46.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 170
+	  - CGIAN3 42 à CGIAN3 46
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1772 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 174 (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+
 ###### Article 174
 
 Pour qu'il puisse être tenu compte de leurs charges de famille, les contribuables doivent faire parvenir à l'administration
@@ -6456,6 +6792,32 @@ exonérés.
 	**Cité par**:
 
 	  - Loi n°2009-431 du 20 avril 2009 - art. 1 (V)
+
+
+###### Article 199
+
+Sous réserve des traités de réciprocité, les dispositions de l'article 193 qui prévoient, pour le calcul de l'impôt sur le
+revenu, la division du revenu imposable en un certain nombre de parts fixé d'après la situation et les charges de famille du
+contribuable ne sont applicables qu'aux citoyens français et aux personnes originaires des territoires d'outre-mer et Etats
+de l'ancienne Communauté.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 193
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 189 (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
 
 
 ##### 1° : Imputation des retenues à la source et crédits d'impôt
@@ -8263,6 +8625,38 @@ provisions constituées, en vertu du même article, au moyen des bénéfices des
 
 ##### Section 0II : Imposition forfaitaire annuelle des sociétés
 
+###### Article 223 decies
+
+Les réclamations concernant l'imposition forfaitaire instituée par l'article 223 septies sont présentées, instruites et
+jugées comme en matière d'impôts directs.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1960 A
+
+	**Cite**:
+
+	  - CGI 223 septies
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Abrogé par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 14 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 20
+
+
 ###### Article 223 octies
 
 Les associations régies par la loi du 1er juillet 1901 dont l'activité consiste à animer la vie sociale au bénéfice de la
@@ -8650,6 +9044,30 @@ recette des impôts compétente pour recevoir cette déclaration (1).
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 230 G
+
+Les réclamations concernant la taxe d'apprentissage sont présentées, instruites et jugées comme en matière de taxes sur le
+chiffre d'affaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1960 bis
+
+	**Nouveaux textes**:
+
+	  - Code général des impôts, CGI. - art. 1599 ter M (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2013-1279 du 29 décembre 2013 - art. 60 (V)
 
 
 ##### Section II : Taxe sur les salaires
@@ -9079,26 +9497,23 @@ Les employeurs sont dispensés de cette justification lorsqu'ils produisent le p
 
 ###### Article 235 ter G
 
-Lorsque les dépenses justifiées par l'employeur en application de l'article L 950-2 du code du travail sont inférieures à la
-participation fixée par l'article 235 ter E, l'employeur est tenu d'effectuer au Trésor un versement égal à la différence
+I. Lorsque les dépenses justifiées par l'employeur en application de l'article L 950-2 du code du travail sont inférieures à
+la participation fixée par l'article 235 ter E, l'employeur est tenu d'effectuer au Trésor un versement égal à la différence
 constatée.
 
 Les sommes engagées par un employeur au titre d'une convention passée avec un organisme formateur n'ont de caractère
 libératoire que dans la mesure où cet organisme effectue les dépenses correspondantes avant la date de la régularisation de
 la convention.
 
-Le versement au Trésor à raison de l'insuffisance éventuelle doit être opéré en même temps que le dépôt de la déclaration de
-l'année de cette régularisation.
-
 Dans le cas où l'employeur ne rapporte pas la preuve mise à sa charge par l'article 235 ter F, le versement auquel il est
-tenu en application du premier alinéa est majoré de 50 % [*pourcentage*]. Cette majoration ne peut être inférieure à la
-moitié de la contribution due au titre de l'année considérée.
+tenu en application du premier alinéa est majoré de 50 %. Cette majoration ne peut être inférieure à la moitié de la
+contribution due au titre de l'année considérée.
 
-Le versement est opéré en même temps que le dépôt de la déclaration prévue à l'article 235 ter J (1).
+II. a. Le versement prévu au I, premier et troisième alinéas, est opéré en même temps que le dépôt de la déclaration prévue à
+l'article 235 ter J ;
 
-1)  Pour les années 1978 et 1979, les employeurs doivent s'acquitter d'une partie de leur obligation en effectuant un
-versement de 0,2 % du montant des salaires versés au cours de l'année précédente, majoré de 8 % (Loi n° 78-653 du 22 juin
-1978, art. 3-II et loi n° 78-1239 du 29 décembre 1978, art. 33).
+b. Le versement au Trésor à raison de l'insuffisance éventuelle résultant de l'application du I, deuxième alinéa, doit être
+opéré en même temps que le dépôt de la déclaration de l'année de la régularisation de la convention.
 
 **Liens relatifs à cet article**
 
@@ -9111,15 +9526,15 @@ versement de 0,2 % du montant des salaires versés au cours de l'année précéd
 	  - Loi n°78-1239 du 29 décembre 1978 - art. 33, v. init.
 	  - Code du travail - art. L950-2 (M)
 
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter H bis (VD)
 	  - Code général des impôts, CGI. - art. 1679 bis B (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 163 quaterdecies A (P)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 235 ter H bis
@@ -9263,6 +9678,38 @@ dirigeants de fait ou de droit, de verser au Trésor public, en application de l
 	**Liens**:
 
 	  - HISTO: Edition du 20 juillet 1984
+
+
+###### Article 235 ter HD
+
+En cas de manoeuvres frauduleuses entraînant l'inexécution totale ou partielle d'une convention de formation professionnelle,
+le ou les co-contractants sont assujettis, en application de l'article L. 920-9 du code du travail, à un versement au profit
+du Trésor public d'un montant égal aux sommes qui, du fait de cette inexécution, n'ont pas été effectivement dépensées ou
+engagées.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGI 235 ter KH
+
+	**Transféré par**:
+
+	  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+
+	**Codifié par**:
+
+	  - décret 2005-330 2005-04-06
+
+	**Cite**:
+
+	  - Code du travail - art. L920-9 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 20 juillet 1984
+	  - SPEC_APPLI: L'article 235 ter HD reprend l'article 1783 quater
 
 
 ###### Article 235 ter K
@@ -9416,6 +9863,40 @@ ministre de la culture et de la communication (2).
 	**Anciens textes**:
 
 	  - Loi n°78-1239 1978-12-29 ART. 14 II 2 et 4, III FINANCES POUR 1979
+
+
+###### Article 235 ter MA
+
+Le prélèvement spécial prévu à l'article 235 ter L s'applique également à la fraction des bénéfices industriels et
+commerciaux qui résulte de la production, de la distribution ou de la représentation publique d'oeuvres pornographiques ou
+d'incitation à la violence diffusées sur support vidéographique.
+
+Un décret en Conseil d'Etat détermine les conditions de classement des oeuvres qui sont diffusées sur support vidéographique
+et qui ne sont pas également soumises à la procédure de désignation des films cinématographiques visée au quatrième alinéa de
+l'article précité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 ter L al. 4
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-389 du 7 avril 2009 - art. 1
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Nouveaux textes**:
+
+	  - Code général des impôts, CGI. - art. 1605 septies (V)
+
+	**Créé par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 18 (V) JORF 30 décembre 1983
 
 
 #### Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III
@@ -11955,6 +12436,37 @@ aura justifié de la destruction des marchandises.
 	  - TXT_ASSOCIE: Instruction 1999-09-14 8A-7-99
 	  - TXT_ASSOCIE: Instruction 1999-09-28 3D-4-99
 	  - TXT_ASSOCIE: Instruction 2001-11-19 8A-2-01
+
+
+###### Article 273 ter
+
+Les concessionnaires d'ouvrage de circulation routière ne peuvent déduire la taxe sur la valeur ajoutée afférente aux travaux
+de construction et aux grosses réparations des ouvrages concédés. Toutefois l'exclusion ne s'applique pas dans le régime
+défini au dernier alinéa du h du 1 de l'article 266.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 266
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+	  - HISTO: Edition du 31 mars 2001
+
+	**Créé par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 109 (V) JORF 30 décembre 1983
+
+	**Abrogé par**:
+
+	  - Loi - art. 2 (V) JORF 31 décembre 2000
+	  - Loi n°2000-1353 2000-12-30 art. 2, I Finances rectificative pour 2001 JORF 31 décembre 2000
 
 
 ##### III : Régime suspensif
@@ -31648,6 +32160,28 @@ Un décret en Conseil d'Etat rendu après avis du conseil général des mines d�
 
 ##### Section I : Droit d'enregistrement et taxe de publicité foncière
 
+##### I : Dispositions générales.
+
+###### Article 1594 B
+
+Les dispositions de l'article 1594 A ne sont pas applicables aux droits dus sur les actes de société, au droit d'échange
+ainsi qu'aux droits ou taxes fixes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1594 A (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 99 (V) JORF 9 janvier 1983
+
+
 ##### IV : Réduction des droits
 
 ###### Article 1595
@@ -31809,6 +32343,81 @@ sanctions. Leur champ d'application respectif est fixé par les articles 662 à 
 
 
 #### Chapitre IV : Autres droits et taxes
+
+###### Article 1599 D
+
+Les véhicules qui donnent lieu au paiement de la taxe spéciale sur certains véhicules routiers établie par l'article 16 de la
+loi n° 67-1114 du 21 décembre 1967 sont dispensés de la taxe différentielle sur les véhicules à moteur établie par l'article
+1599 C.
+
+**Nota:**
+
+Loi 2005-1719 2005-12-30 art. 14 VI :
+
+"Les dispositions prévues aux II, III, IV et VIII s'appliquent à compter de la période d'imposition s'ouvrant le 1er décembre
+2006."
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1599 C
+	  - Loi n°67-1114 1967-12-21 art. 16 finances pour 1968
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 20 juillet 1984
+	  - TXT_ASSOCIE: Instruction 2000-02-16 7M-4-00
+
+	**Créé par**:
+
+	  - Loi n°67-1114 1967-12-21 art. 16 IV finances pour 1968 JORF 22 décembre 1967
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 1983-12-29 art. 24 finances pour 1984 JORF 30 décembre 1983
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
+
+
+###### Article 1599 E
+
+Le locataire d'un véhicule faisant l'objet soit d'un contrat de crédit-bail, soit d'un contrat de location de deux ans ou
+plus, est redevable de la taxe différentielle sur les véhicules à moteur, au lieu et place du propriétaire.
+
+Toutefois, ce dernier est solidairement responsable du paiement de la taxe ainsi que, le cas échéant, de la majoration de
+retard applicable.
+
+**Nota:**
+
+Loi 2005-1719 2005-12-30 art. 14 VI :
+
+"Les dispositions prévues aux II, III, IV et VIII s'appliquent à compter de la période d'imposition s'ouvrant le 1er décembre
+2006."
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Créé par**:
+
+	  - Loi n°74-1114 du 27 décembre 1974 - art. 4 (V) JORF 28 décembre 1974
+
+	**Modifié par**:
+
+	  - Loi n°78-1239 du 29 décembre 1978 - art. 32 () JORF 30 décembre 1978
+	  - Loi n°83-1179 1983-12-29 art. 24 finances pour 1984 JORF 30 décembre 1983
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
+
 
 ###### Article 1599 I
 
@@ -36899,6 +37508,39 @@ préjudice de l'intérêt de retard prévu à l'article 1734 et compté de la da
 	  - CGI 1734
 
 
+###### Article 1756 septies
+
+Sans préjudice des dispositions de l'article 1756 ter, le non-respect de la condition d'affectation ou des termes de la
+convention prévues au deuxième alinéa du b du 2 de l'article 39 quinquies A est sanctionné par une amende fiscale à la charge
+de la société financière d'innovation égale à 12,5 % de la souscription ou de l'augmentation du capital qui n'a pas été
+employée conformément à la condition d'affectation ou à la convention visée audit alinéa. La constatation, le recouvrement et
+le contentieux de cette amende fiscale sont assurés et suivis comme en matière d'impôts directs.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1756 ter
+	  - CGI 39 quinquies A
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Créé par**:
+
+	  - Loi n°84-578 du 9 juillet 1984 - art. 5 (P) JORF 11 juillet 1984, rectificatif JORF 14 juillet 1984
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 16 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+
+
 ###### Article 1756 sexies
 
 1. Sauf en cas de manoeuvres frauduleuses, les majorations fiscales, de quelque nature qu'elles soient, ne sont pas
@@ -41873,73 +42515,6 @@ montant des droits non perçus.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 1783 C
-
-Toute personne qui contrevient à l'interdiction prévue à l'article 242 ter A-II est punie d'une amende de 30.000 F à 300.000
-F par infraction.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 242 ter A II
-
-	**Créé par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 67 (P) JORF 19 JANVIER 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-	  - Décret n°84-875 1984-10-01
-
-
-###### Article 1783 quater
-
-En cas de manoeuvres frauduleuses entraînant l'inexécution totale ou partielle d'une convention de formation professionnelle,
-le ou les co-contractants sont assujettis, en application de l'article L 920-9 du code du travail, à un versement au profit
-du Trésor public d'un montant égal aux sommes qui, du fait de cette inexécution, n'ont pas été effectivement dépensées ou
-engagées.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI 235 ter HD
-
-	**Cite**:
-
-	  - Code du travail - art. L920-9 (M)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1783 quinquies
-
-Lorsque les dépenses faites par le dispensateur de formation pour l'exécution d'une convention du titre II du livre IX du
-code du travail ne sont pas admises parce qu'elles ne peuvent, par leur nature, être rattachées à l'exécution d'une
-convention de formation ou que le prix des prestations est excessif eu égard à leur prix de revient normal, le dispensateur
-de formation est tenu, solidairement avec ses dirigeants de fait ou de droit, de verser au Trésor public, en application de
-l'article L 920-10 du code précité, une somme égale au double du montant de ces dépenses.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI 235 ter HC
-
-	**Cite**:
-
-	  - Code du travail - art. L920-10 (M)
-	  - Code du travail L920-1 A Code du travail L920-11
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 1785 A
 
 Au cas où un contrevenant ayant encouru depuis moins de trois ans une des amendes fiscales prévues aux articles 1725, 1726,
@@ -42986,30 +43561,6 @@ date à laquelle le contribuable a encouru une majoration ou pénalité pour dé
 
 ## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS
 
-###### Article 1960 ter
-
-Les réclamations concernant la participation des employeurs au financement de la formation professionnelle continue prévue à
-l'article 235 ter C ainsi que les versements mentionnés aux articles 1783 quater et 1783 quinquies sont présentées,
-instruites et jugées comme en matière de taxes sur le chiffre d'affaires. Elles sont communiquées pour avis au service chargé
-du contrôle de la formation professionnelle lorsque le litige porte sur le montant de la participation consentie par
-l'employeur ou sur les versements au Trésor public mis à la charge des employeurs ou des dispensateurs de formation en vertu
-des articles L 920-9 et L 920-10 du code du travail.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1783 quater
-	  - CGI 1783 quinquies
-	  - CGI 235 ter C
-	  - Code du travail - art. L920-10 (M)
-	  - Code du travail - art. L920-9 (M)
-
-	**Nouveaux textes**:
-
-	  - CGI 235 ter JA
-
-
 ###### Article 1965 A
 
 1. Les héritiers ou légataires sont admis, dans le délai fixé à l'article R. 196-1 du livre des procédures fiscales, à
@@ -43059,43 +43610,5 @@ procédures fiscales, même avant le 1er janvier 1981.
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
-
-
-### JURIDICTION CONTENTIEUSE.
-
-###### Article 1960 A
-
-Les réclamations concernant l'imposition forfaitaire instituée par l'article 223 septies sont présentées, instruites et
-jugées comme en matière d'impôts directs.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI 223 decies
-
-	**Cite**:
-
-	  - CGI 223 septies
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1960 bis
-
-Les réclamations concernant la taxe d'apprentissage sont présentées, instruites et jugées comme en matière de taxes sur le
-chiffre d'affaires.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI 230 G
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
