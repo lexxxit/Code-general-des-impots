@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1990-01-25
+Version Consolidée au 1990-06-02
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6190,6 +6190,39 @@ d'investissement à capital variable, le gain net est calculé à partir du prix
 	**Abrogé par**:
 
 	  - Loi - art. 94 (V) JORF 31 décembre 1999
+
+
+###### Article 92 I
+
+Les personnes qui concluent un contrat de sous-location d'un logement, conforme aux normes minimales définies par décret en
+Conseil d'Etat, avec des bénéficiaires du revenu minimum d'insertion ou des étudiants bénéficiant d'une bourse à caractère
+social ou avec un organisme sans but lucratif qui met ce logement à la disposition de personnes défavorisées mentionnées à
+l'article 1er de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement et qui est agréé à cet effet
+par le représentant de l'Etat dans le département sont exonérées, pendant les trois premières années de location, de l'impôt
+sur le revenu pour les produits de cette sous-location, sous réserve que le prix de celle-ci soit inférieur à un plafond fixé
+par décret (1).
+
+(1) Les modalités d'agrément ainsi que le contenu des déclarations à souscrire par les personnes et organismes mentionnés au
+présent article sont fixés par décret.
+
+**Nota:**
+
+NOTA : L'article créé n'a pas été repris dans l'édition du 15 juin 1990. Le décret de codification 91-883 le transfère dans
+l'article 92 L dans l'édition du 24 juin 1991.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGI 92 L
+
+	**Cite**:
+
+	  - Loi n°90-449 1990-05-31 art. 1
+
+	**Créé par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 9 () JORF 2 juin 1990
 
 
 ##### B : Détermination des bénéfices imposables
@@ -55294,6 +55327,89 @@ période qui reste à courir à compter de l'année au cours de laquelle ces lot
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1385 (V)
+
+
+##### Autres locaux
+
+###### Article 1387 A
+
+Pour les logements à usage locatif appartenant aux organismes d'habitations à loyer modéré et aux sociétés d'économie mixte,
+le département peut, par une délibération prise dans les conditions prévues à l'article 1639 A bis, prolonger, pendant une
+durée qu'il détermine, la durée des exonérations mentionnées aux articles 1384 et 1384 A et au paragraphe II bis de l'article
+1385 pour la taxe foncière sur les propriétés bâties perçue à son profit (1).
+
+(1) Les obligations déclaratives des personnes et organismes entrant dans le champ d'application du présent article sont
+fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1384
+	  - CGI 1384 A
+	  - CGI 1385 II bis
+	  - CGI 1639 A bis
+
+	**Nouveaux textes**:
+
+	  - CGI 1586 A
+
+	**Créé par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 10 (V) JORF 2 juin 1990
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°91-397 1991-04-23
+
+	**Cité par**:
+
+	  - Décret n°91-397 du 23 avril 1991 - art. 2 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 24 (V)
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+
+###### Article 1387 B
+
+Le département peut, par délibération prise dans les conditions prévues à l'article 1639 A bis, exonérer totalement ou
+partiellement de la taxe foncière sur les propriétés bâties perçue à son profit, pendant une durée qu'il détermine, les
+logements acquis en vue de leur location avec le concours financier de l'Etat en application du 3° de l'article L. 351-2 du
+code de la construction et de l'habitation ainsi que les logements faisant l'objet d'un bail à réhabilitation en application
+de l'article L. 252-1 du même code (1)
+
+(1) Les obligations déclaratives des personnes et organismes entrant dans le champ d'application du présent article sont
+fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGI 1586 B
+
+	**Cite**:
+
+	  - CGI 1639 A bis
+	  - Code de la construction et de l'habitation. - art. L252-1 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+	**Créé par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 10 (V) JORF 2 juin 1990
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°91-397 1991-04-23
+
+	**Cité par**:
+
+	  - Décret n°91-397 du 23 avril 1991 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
 
 
 ##### D : Base d'imposition
