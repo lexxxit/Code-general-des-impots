@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1987-12-31
+Version Consolidée au 1988-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -24248,6 +24248,90 @@ Elle frappe les sommes imposables suivies de franc en franc, l'arrondissement é
 
 ##### II : Déductions
 
+###### Article 271
+
+1  La taxe sur la valeur ajoutée qui a grevé les éléments du prix d'une opération imposable est déductible de la taxe sur la
+valeur ajoutée applicable à cette opération.
+
+2  A cet effet, les assujettis, qui sont autorisés à opérer globalement l'imputation de la taxe sur la valeur ajoutée, sont
+tenus de procéder à une régularisation :
+
+a  Si les marchandises ont disparu;
+
+b  Lorsque l'opération n'est pas effectivement soumise à l'impôt;
+
+c  (Abrogé)
+
+3  La taxe déductible dont l'imputation n'a pu être opérée peut faire l'objet d'un remboursement dans les conditions, selon
+les modalités et dans les limites fixées par décret en Conseil d'Etat (1).
+
+Les limitations particulières qui étaient opposables aux assujettis dont les déclarations de chiffre d'affaires avaient fait
+apparaître des crédits de taxe déductible en 1971, ne s'appliquent plus aux demandes de remboursement présentées à compter du
+1er janvier 1988.
+
+4  Ouvrent droit à déduction dans les mêmes conditions que s'ils étaient soumis à la taxe sur la valeur ajoutée :
+
+a  Les opérations d'assurances et de réassurances et les opérations de courtages d'assurances et de réassurances lorsqu'elles
+concernent :
+
+les assurés ou réassurés domiciliés ou établis en dehors de la Communauté économique européenne;
+
+des exportations de biens à destination de pays également situés en dehors de la Communauté [*CEE*] ;
+
+b  Les services bancaires et financiers exonérés en application des dispositions des a à e du 1 de l'article 261 C lorsqu'ils
+sont rendus à des personnes domiciliées ou établies en dehors de la Communauté économique européenne ou se rapportent à des
+exportations de biens à destination de pays autres que les Etats membres de la Communauté;
+
+c  Les opérations exonérées en application des dispositions des articles 262, 262 bis, 263 et des 1° et 1° bis du II de
+l'article 291;
+
+d  Les opérations non imposables en France réalisées par des assujettis dans la mesure où elles ouvriraient droit à déduction
+si leur lieu d'imposition se situait en France. Un décret en Conseil d'Etat fixe les modalités et les limites du
+remboursement de la taxe déductible au titre de ces opérations; ce décret peut instituer des règles différentes suivant que
+les assujettis sont domiciliés ou établis dans les Etats membres de la Communauté économique européenne ou dans d'autres pays
+(2).
+
+4 bis  (Abrogé).
+
+5  Pour l'application du présent article, une opération légalement effectuée en suspension du paiement de la taxe sur la
+valeur ajoutée est considérée comme en ayant été grevée à concurrence du montant de la somme dont le paiement a été suspendu.
+
+(1)  Annexe II, art. 242-0 A à 242-0 L.    (2)  Annexe II, art. 242-0 M à 242-0 T ; voir également Annexe IV, art. 47.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 261 C 1
+	  - CGI 262
+	  - CGI 262 bis
+	  - CGI 263
+	  - CGI 291 II 1°, 1° bis
+	  - CGIAN2 242-0 A à CGIAN2 242-0 L
+	  - CGIAN2 242-0 M à CGIAN2 242-0 T
+	  - CGIAN4 47
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 25 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1693 ter A (V)
+	  - Code général des impôts, CGI. - art. 272 (V)
+	  - Code général des impôts, CGI. - art. 273 (V)
+	  - Code général des impôts, CGI. - art. 285 bis (V)
+	  - Code général des impôts, CGI. - art. 293 F (V)
+	  - Code général des impôts, CGI. - art. 295 A (V)
+	  - Code général des impôts, CGI. - art. 298 (V)
+	  - Code général des impôts, CGI. - art. 39 (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 15 (V)
+	  - Livre des procédures fiscales - art. L177 (V)
+	  - Livre des procédures fiscales - art. L208 B (V)
+	  - Livre des procédures fiscales - art. L252 B (VD)
+	  - Livre des procédures fiscales - art. L45 C (V)
+
+
 ###### Article 273
 
 1. Des décrets en Conseil d'Etat déterminent les conditions d'application de l'article 271.
@@ -24287,6 +24371,49 @@ aura justifié de la destruction des marchandises.
 	  - TXT_ASSOCIE: Instruction 1999-09-14 8A-7-99
 	  - TXT_ASSOCIE: Instruction 1999-09-28 3D-4-99
 	  - TXT_ASSOCIE: Instruction 2001-11-19 8A-2-01
+
+
+###### Article 273 bis
+
+I. La taxe sur la valeur ajoutée afférente aux résidences de tourisme classées ne peut faire l'objet d'aucun remboursement
+lorsque ces établissements sont placés sous le statut de copropriété des immeubles bâtis fixé par la loi n° 65-557 du 10
+juillet 1965, modifiée ou sous le régime des sociétés constituées en vue de l'attribution d'immeubles aux associés par
+fractions divises défini aux articles L. 212-1 à L. 212-17 du code de la construction et de l'habitation.
+
+II. Toutefois, nonobstant les dispositions de l'article 260 D (1), la taxe sur la valeur ajoutée ayant grevé des locaux
+d'habitation destinés à l'hébergement des touristes et loués par un contrat d'une durée d'au moins neuf ans à un exploitant
+de résidence de tourisme classée qui a souscrit un engagement de promotion touristique à l'étranger dans les conditions
+fixées par décret en Conseil d'Etat (2), qui prévoira également les conséquences du non-respect de l'engagement, peut être
+remboursée à concurrence de 50 % [*pourcentage*] de son montant jusqu'au 31 décembre 1987. Elle peut être remboursée à
+concurrence de son montant à compter du 1er janvier 1988.
+
+(1) Voir également Annexe II, art. 233.
+
+(2) Annexe II, art. 233-0 A à 233-0 C.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 260 D
+	  - CGIAN2 233
+	  - CGIAN2 233-0 A
+	  - CGIAN2 233-0 B
+	  - CGIAN2 233-0 C
+	  - Code de la construction L212-1 à Code de la construction L212-17
+	  - Loi n°65-557 1965-07-10
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 1986-12-30 art. 89 I, II, IV Finances pour 1987 JORF 31 décembre 1986, en vigueur le 1er janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°90-1169 1990-12-30 art. 48 II Finances rectificative pour 1990 JORF 30 décembre 1990
 
 
 ###### Article 273 quinquies
@@ -24538,6 +24665,38 @@ de l'autorisation de mise sur le marché prévue à l'article L 601 du code de l
 	**Codifié par**:
 
 	  - Décret n°87-940 1987-11-23
+
+
+###### Article 278 quinquies
+
+La taxe sur la valeur ajoutée est perçue au taux de 5,50 p. 100 en ce qui concerne les opérations d'achat, d'importation, de
+vente, de livraison, de commission, de courtage ou de façon, portant sur les appareillages pour handicapés visés aux
+chapitres Ier, II, V et VI du titre V du tarif interministériel des prestations sanitaires visé en application de l'article
+L. 314-1 du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 24 (P) JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Arrêté du 15 mars 2010 (Ab)
+	  - Arrêté du 15 mars 2010 - art. 1 (Ab)
+	  - Arrêté du 28 mars 2011 (Ab)
+	  - Arrêté du 28 mars 2011 - art. 1 (Ab)
+	  - Arrêté du 18 février 2015 - art. 2
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 30-0 B (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 30-0 C (V)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L314-1 (M)
 
 
 ###### Article 278 ter
@@ -25057,6 +25216,34 @@ avant le 15 juillet 1991."
 	**Abrogé par**:
 
 	  - Loi n°91-716 du 26 juillet 1991 - art. 10 (V) JORF 27 juillet 1991, en vigueur le 29 juillet 1991, art. 10 VI
+
+
+###### Article 281 septies
+
+La taxe sur la valeur ajoutée est perçue au taux de 28 p. 100 pour les opérations d'achat, d'importation, de vente, de
+livraison, de commission, de courtage ou de façon, ainsi que pour les opérations de location ou de crédit-bail portant sur
+les voitures automobiles conçues pour le transport de personnes ou à usages mixtes et comportant, outre le siège du
+conducteur, huit places assises au maximum. Il en est de même pour leurs équipements et accessoires, même livrés avec un
+supplément de prix facturé distinctement, les châssis équipés de leur moteur et leurs carrosseries, les automobiles livrées
+incomplètes ou non finies dès lors qu'elles présentent les caractéristiques essentielles des mêmes voitures à
+
+l'état complet ou terminé.
+
+La taxe sur la valeur ajoutée est perçue au taux de 28 p. 100 pour les opérations d'achat, d'importation, de vente, de
+livraison, de commission, de courtage ou de façon, portant sur les motocyclettes de plus de 240 cm3 et sur les motos-neige et
+scooters des neiges.
+
+Ces dispositions entrent en vigueur à compter du 17 septembre 1987 [*date*] , sauf en ce qui concerne les locations (1). Pour
+les opérations de crédit-bail, le taux de 33 1/3 p. 100 est maintenu jusqu'à l'expiration des contrats lorsque ceux-ci ont
+été souscrits avant cette date.
+
+(1) Pour les locations, les dispositions s'appliquent à compter du 1er janvier 1988.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 17 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
 
 
 ##### II : Franchise et décote.
@@ -26083,7 +26270,239 @@ d'un quart pour la franchise et de moitié pour la décote (1).
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 296 bis
+
+Dans les départements de la Guadeloupe, de la Martinique et de la Réunion, la taxe sur la valeur ajoutée [*TVA*] est perçue
+au taux de (1) :
+
+a. 1,05 % [*pourcentage*] pour les opérations visées à l'article 281 quater;
+
+b. 1,75 % pour les opérations visées à l'article 281 sexies;
+
+c. 5,25 % pour les opérations visées à l'article 281 quinquies (2).   d. 14 % pour les opérations visées à l'article 281
+septies.
+
+(1) Taux applicables à compter du 1er juillet 1986.
+
+(2) Voir annexe II, art. 255.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 281 quater
+	  - CGI 281 quinquies
+	  - CGI 281 septies
+	  - CGI 281 sexies
+	  - CGIAN2 255
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 17 () JORF 31 décembre 1985 en vigueur le 1er janvier 1988
+
+
+##### II : Corse
+
+###### Article 297
+
+I. 1. Dans les départements de Corse, la taxe sur la valeur ajoutée [*TVA*] est perçue au taux de :
+
+1° O,90 % [*pourcentage*] pour les opérations visées aux articles 281 quater et 281 sexies ;
+
+2° 2,10 % pour les opérations visées à l'article 278 bis portant sur des produits livrés en Corse ;
+
+3° 3,15 % en ce qui concerne :
+
+a. Les opérations visées au 13° du c et aux d et e de l'article 279 portant sur des produits livrés en Corse ;
+
+b. Les prestations de services visées aux a à b nonies de l'article 279 ;
+
+4° 5,5 %pour les opérations visées à l'article 281 quinquies (1) ;
+
+5° 8 % en ce qui concerne :
+
+a. Les travaux immobiliers ainsi que les opérations visées au 7° de l'article 257 ;
+
+b. Les ventes de matériels agricoles livrés en Corse et dont la liste est fixée par arrêté [*autorité compétente*] du
+ministre de l'économie et des finances (2) ;
+
+c. Les fournitures de logement en meublé ou en garni visées au e du 2 de l'article 280 ;
+
+d. Les ventes à consommer sur place visées au d du 2 de l'article 280;
+
+e. Les ventes d'électricité effectuées en basse tension ;
+
+6° 13 % en ce qui concerne :
+
+a. Les ventes de voitures automobiles visées à l'article 281 bis F, immatriculées en Corse ;
+
+b. Les ventes de produits pétroliers énumérés au tableau B de l'article 265 du code des douanes et livrés en Corse ;
+
+7° 25 p. 100 pour les ventes de tabacs manufacturés.
+
+8° 21 p. 100 [*taux applicable*] pour les ventes de voitures automobiles conçues pour le transport de personnes,
+immatriculées en Corse, sous réserve des dispositions du a du 6°.
+
+b. Les ventes de tabacs manufacturés.
+
+2. Les mêmes dispositions sont applicables aux importations en Corse et aux expéditions de France continentale à destination
+de la Corse, des produits qui sont visés au 1.. II (abrogé) (3). III (dispositions périmées).
+
+(1) Voir annexe II, art. 267 quater CB.
+
+(2) Annexe IV, art. 50 duodecies A.
+
+(3) En ce qui concerne les transports entre la France continentale    et la Corse, voir article 262-II-11°.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 257 7° CGI 262 II 11°
+	  - CGI 278 bis
+	  - CGI 279 a à b nonies, c 13°, d, e
+	  - CGI 280 2 d, e
+	  - CGI 281 bis F
+	  - CGI 281 quater
+	  - CGI 281 quinquies
+	  - CGI 281 sexies
+	  - CGIAN2 267 quater CB
+	  - CGIAN4 50 duodecies A
+	  - Code des douanes - art. 265 (M)
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 18 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 duodecies A (V)
+
+
 ##### IV : Exploitants agricoles
+
+###### Article 298 bis
+
+I. Pour leurs opérations agricoles, les exploitants agricoles sont placés sous le régime du remboursement forfaitaire prévu
+aux articles 298 quater et 298 quinquies. Ils sont dispensés du paiement de la taxe sur la valeur ajoutée et des obligations
+qui incombent aux assujettis.
+
+Ils peuvent cependant opter pour leur imposition d'après le régime simplifié ci-après :
+
+1° Ils sont dispensés de l'obligation de déclaration mensuelle prévue à l'article 287-1 et doivent seulement déposer avant le
+5 mai de chaque année [*date limite*] une déclaration indiquant les éléments de liquidation de la taxe sur la valeur ajoutée
+afférente à l'année écoulée;
+
+2° L'exigibilité de la taxe sur la valeur ajoutée due à raison des ventes effectuées par eux intervient lors de
+l'encaissement des acomptes ou du prix ;
+
+3° Ils peuvent opérer immédiatement la déduction de la taxe ayant grevé les biens ne constituant pas des immobilisations et
+les services, par imputation sur la taxe due au titre du trimestre pendant lequel le droit à déduction a pris naissance;
+
+4° Sous réserve des mesures prévues aux 1° à 3° et aux articles 1693 bis et 1785 D, les exploitants agricoles assujettis à la
+taxe sur la valeur ajoutée sont soumis à l'ensemble des dispositions prévues par le présent code. Toutefois, les articles
+265, 282, 302 ter à 302 septies A et 1694 ne leur sont pas applicables.
+
+II  Sont soumis de plein droit au régime simplifié [*obligatoire*] prévu au I :
+
+1° Les exploitants agricoles dont les activités sont, par leur nature ou leur importance, assimilables à celles exercées par
+des industriels ou des commerçants, même si ces opérations constituent le prolongement de l'activité agricole (1);
+
+2° Pour leurs opérations de vente d'animaux vivants de boucherie et de charcuterie, les exploitants agricoles qui, en raison
+des caractéristiques de leur exploitation, exercent une influence notable sur le marché local de ces animaux (2);
+
+3° Pour leurs activités agricoles, les personnes qui effectuent des opérations commerciales d'achat, d'importation, de vente,
+de commission et de courtage portant sur des animaux vivants de boucherie et de charcuterie;
+
+4° Les personnes qui effectuent des opérations commerciales d'importation, de vente, de commission et de courtage portant sur
+des animaux vivants de boucherie et de charcuterie.
+
+5° Les exploitants agricoles, lorsque le montant moyen des recettes de l'ensemble de leurs exploitations, calculé sur deux
+années civiles consécutives, dépasse 300.000 F. L'assujettissement prend effet à compter du 1er janvier de l'année suivante
+et au plus tôt le 1er janvier 1983.
+
+6° Les bailleurs de biens ruraux qui ont exercé l'option autorisée par le 6° de l'article 260.
+
+Lorsque la moyenne des recettes, non comprise la taxe sur la valeur ajoutée, calculée sur trois années civiles consécutives
+d'assujettissement, devient inférieure à 300.000 F, les exploitants agricoles peuvent cesser d'être soumis au régime
+simplifié à compter du 1er janvier suivant, à condition qu'ils le signalent au service des impôts avant le 1er février et
+qu'ils n'aient pas bénéficié, au cours de cette période de trois ans, de remboursement de crédit de taxe.
+
+Pour les groupements agricoles d'exploitation en commun [*GAEC*] dont tous les associés participent effectivement et
+régulièrement à l'activité du groupement par leur travail personnel, la moyenne des recettes mentionnée aux premier et
+deuxième alinéa est fixée à 60 % de la limite prévue pour les exploitants individuels multipliée par le nombre d'associés.
+
+Toutefois, elle est égale à la limite prévue pour les exploitants individuels multipliée par le nombre d'associés lorsque la
+moyenne des recettes du groupement est inférieure ou égale à 900.000 F (3).
+
+III. L'option peut être exercée distinctement pour les ventes d'animaux vivants de boucherie et de charcuterie et pour les
+autres activités agricoles.
+
+Les conditions et les modalités de l'option sont fixées par décret en conseil d'Etat. Ce décret, qui énumère les animaux de
+boucherie et de charcuterie dont la vente peut faire l'objet d'une option spéciale, peut notamment prévoir l'identification
+ou le marquage des animaux et la tenue d'une comptabilité matière les concernant (4).
+
+Les caractéristiques des activités soumises obligatoirement à la taxe sur la valeur ajoutée en application du II sont
+précisées en tant que de besoin par décret en conseil d'Etat, après avis des organisations professionnelles intéressées (1)
+(2).
+
+IV. En cas de cession ou de cessation de leur activité, les exploitants agricoles sont tenus de souscrire dans les trente
+jours la déclaration prévue au 1° du I ou, le cas échéant, au deuxième alinéa du I de l'article 1693 bis.
+
+(1) Annexe II, art. 260 A et 260 B.
+
+(2) Annexe II, art. 260 C.
+
+(3) Disposition applicable à compter du 1er janvier 1987.
+
+(4) Annexe II, art. 260 D à 260 I et 267 quater.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1693 bis
+	  - CGI 1693 bis I al. 2
+	  - CGI 1694
+	  - CGI 260 6°
+	  - CGI 265
+	  - CGI 282
+	  - CGI 287 1
+	  - CGI 298 quater
+	  - CGI 298 quinquies
+	  - CGI 302 septies A
+	  - CGI 302 ter A
+	  - CGI bis I al. 2 CGI 1785 D
+	  - CGIAN2 260 A
+	  - CGIAN2 260 B
+	  - CGIAN2 260 C
+	  - CGIAN2 260 D A CGIAN2 260 I
+	  - CGIAN2 267 quater
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 14 () JORF 31 décembre 1987, en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 septvicies (VD)
+	  - Code général des impôts, CGI. - art. 1605 ter (V)
+	  - Code général des impôts, CGI. - art. 1693 bis (V)
+	  - Code général des impôts, CGI. - art. 1754 (V)
+	  - Code général des impôts, CGI. - art. 293 C (V)
+	  - Code général des impôts, CGI. - art. 302 bis MB (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 H (Ab)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 I-0 bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 O (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 98 bis (V)
+	  - Livre des procédures fiscales - art. L38 (VT)
+	  - Livre des procédures fiscales - art. R214-1 (V)
+	  - Livre des procédures fiscales - art. R235-1 (V)
+	  - Livre des procédures fiscales - art. R236-1 (V)
+	  - Livre des procédures fiscales - art. R238-1 (V)
+	  - Livre des procédures fiscales - art. R24-4 (V)
+	  - Livre des procédures fiscales - art. R26-3 (V)
+
 
 ###### Article 298 bis A
 
@@ -26145,6 +26564,75 @@ de leur part.
 	**Abrogé par**:
 
 	  - Loi n°2004-1485 du 30 décembre 2004 - art. 84 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 298 quater
+
+I. Le remboursement forfaitaire est liquidé sur le montant des livraisons de produits agricoles faites à des redevables de la
+taxe sur la valeur ajoutée ou à l'exportation.
+
+I bis. A partir du 1er janvier 1969 et jusqu'à la date à laquelle les taux de la taxe sur la valeur ajoutée seraient
+modifiés, le taux du remboursement forfaitaire est fixé, sous réserve des dispositions du I ter :
+
+1° A 3,65 % pour les ventes d'oeufs, d'animaux de basse-cour, d'animaux de boucherie et de charcuterie définis par décret
+(1) ;
+
+2° A 2,55 % pour les ventes d'autres produits.
+
+I ter. 1. Lorsque les produits sont commercialisés par l'intermédiaire de groupements de producteurs constitués pour la
+réalisation des objectifs définis par la loi d'orientation agricole n° 60-808 du 5 août 1960, les taux prévus au I bis sont
+portés à :
+
+1° 4,85 % pour les ventes d'oeufs, d'animaux de basse-cour et de porcs faites du 1er janvier 1986 au 31 décembre 1991 ;
+
+2° 3,05 % Pour les ventes de vins, de fruits et légumes, de produits de l'horticulture et des pépinières faites du 1er
+janvier 1986 au 31 décembre 1991 ;
+
+2. Le taux prévu au 2° du I bis est porté à 3,65 % pour les ventes de lait effectuées du 1er janvier 1986 au 31 décembre
+1991.
+
+II. Des décrets en Conseil d'Etat (2) fixent, en tant que de besoin, les conditions d'application des I à I ter, notamment
+les justifications à fournir par les bénéficiaires du remboursement forfaitaire, ainsi que les bases de calcul dudit
+remboursement dans le cas d'exportation d'animaux vivants.
+
+III. La déclaration déposée en vue d'obtenir le bénéfice du remboursement forfaitaire (3) est recevable jusqu'au 31 décembre
+de l'année suivant celle au cours de laquelle le droit au remboursement forfaitaire est né.
+
+IV. Les justifications exigées pour l'octroi du remboursement forfaitaire peuvent être modifiées, pour certains secteurs de
+la production agricole, par décret (4) pris après avis des organisations professionnelles agricoles.
+
+(1) Annexe III, art. 65 A.
+
+(2) Annexe II, art. 261 à 267 bis.
+
+(3) Voir Annexe II, art. 266.
+
+(4) Voir Annexe III, art. 98 bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 261 A CGIAN2 267 bis
+	  - CGIAN3 65 A
+	  - CGIAN3 98 bis
+	  - Loi n°60-808 1960-08-05
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 13 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 256 bis (V)
+	  - Code général des impôts, CGI. - art. 298 bis (V)
+	  - Code général des impôts, CGI. - art. 302 bis MB (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 O (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 98 bis (V)
 
 
 ###### Article 298 quinquies
@@ -38876,6 +39364,73 @@ II. (Transféré sous l'article 816-A-I, premier alinéa).
 	  - Code général des impôts, CGI. - art. 817 A (V)
 	  - Code général des impôts, CGI. - art. 817 B (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 A (V)
+
+
+###### Article 816 A
+
+I  Le régime prévu au I de l'article 816 n'est applicable aux apports faits à des personnes morales étrangères par des
+personnes morales françaises que si ces apports ont été préalablement agréés par le ministre de l'économie et des finances,
+après avis du commissariat général du plan et de la productivité [*condition*].
+
+Toutefois, cet agrément n'est pas exigé lorsque la personne morale bénéficiaire des apports a son siège de direction
+effective ou son siège statutaire soit en France, soit dans un autre Etat membre de la Communauté économique européenne et
+qu'elle y est considérée comme une société de capitaux pour la perception du droit d'apport.
+
+II  Le régime prévu à l'article 816-I-1° et 3° est applicable, même lorsque la société apporteuse n'est pas passible de
+l'impôt sur les sociétés, mais à concurrence seulement des apports autres que ceux assimilés à des mutations à titre onéreux
+en vertu de l'article 809-I-3°.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 809 I 3°
+	  - CGI 815
+	  - CGI 816 I
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 36 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 817 (V)
+	  - Code général des impôts, CGI. - art. 817 A (V)
+
+
+##### 3 : Scissions et apports partiels d'actif
+
+###### Article 817
+
+I Les dispositions des articles 816 et 816 A s'appliquent aux scissions et aux apports partiels d'actif.
+
+II Toutefois, le droit de 1,20 % [*taux*] ne frappe que l'excédent de la valeur nominale des titres reçus en rémunération
+d'un apport partiel d'actif et répartis en franchise d'impôt dans le délai d'un an à compter de la réalisation de l'apport
+sur le montant de la réduction de capital éventuellement opérée par la société apporteuse à l'occasion de cette répartition.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 815
+	  - CGI 816
+	  - CGI 816 A
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 36 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 817 A (V)
 
 
 ##### 4 : Conditions d'application du régime spécial des fusions, scissions et apports partiels d'actif
@@ -52630,6 +53185,30 @@ taxe peut être suspendue en totalité ou en partie par décret pour certains pr
 
 ##### Section IV : Prélèvements et perceptions destinés au budget annexe des prestations sociales agricoles
 
+##### 0A : Cotisation incluse dans la taxe sur la valeur ajoutée.
+
+###### Article 1614
+
+Il est perçu au profit du budget annexe des prestations sociales agricoles [*BAPSA*] une cotisation de 0,60 p. 100 incluse
+dans les taux de la taxe sur la valeur ajoutée fixés aux articles 278 à 281 bis I, 291 quater à 291 septies et 297.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 278 à CGI 281 bis I
+	  - CGI 291 quater à CGI 291 septies
+	  - CGI 297
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 17 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
 ##### A bis : Alcools soumis au droit de consommation.
 
 ###### Article 1615 bis
@@ -55322,6 +55901,215 @@ les mêmes compétences que les adjoints.
 
 ##### II : Commission départementale des impôts directs et des taxes sur le chiffre d'affaires
 
+###### Article 1651
+
+La commission départementale des impôts directs et des taxes sur le chiffre d'affaires, présidée par le président du tribunal
+administratif ou par un membre du tribunal délégué par lui, comprend trois représentants des contribuables et deux
+représentants de l'administration ayant au moins le grade d'inspecteur principal. Pour les matières visées aux articles 1651
+A et 1651 B, l'un des représentants des contribuables est un expert-comptable.
+
+Le président a voix prépondérante.
+
+**Nota:**
+
+[*Nota*] : "Pour la période comprise entre la publication de la présente loi et le 1er janvier 1988, les représentants des
+contribuables au sein de la commission sont choisis par le président parmi les personnes déjà désignées au 1er janvier 1987
+en vertu de l'article 1651 du code général des impôts alors en vigueur".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1651 A
+	  - CGI 1651 B
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 1 I JORF 9 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-502 1987-07-08 art. 1 II
+
+	**Cité par**:
+
+	  - Décret n°2009-1521 du 8 décembre 2009 - art. 2 (V)
+	  - Arrêté du 30 mai 2013 - art. 1
+	  - Décret n°2017-769 du 4 mai 2017 - art. 3
+	  - Code de la construction et de l'habitation. - art. L313-4 (VD)
+	  - Code de la construction et de l'habitation. - art. R313-3 (V)
+	  - Code général des impôts, CGI. - art. 1518 (V)
+	  - Code général des impôts, CGI. - art. 1651 A (VD)
+	  - Code général des impôts, CGI. - art. 1651 M (VD)
+	  - Code général des impôts, CGI. - art. 1652 (Ab)
+	  - Code général des impôts, CGI. - art. 1653 (V)
+	  - Code général des impôts, CGI. - art. 77 (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310 sexdecies (VT)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 347 (VD)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 undecies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 217 (VD)
+	  - Code rural - art. L716-3 (V)
+	  - Code rural et de la pêche maritime - art. R716-29 (V)
+	  - Livre des procédures fiscales - art. L1 (Ab)
+	  - Livre des procédures fiscales - art. L136 (VD)
+	  - Livre des procédures fiscales - art. L59 (VD)
+	  - Livre des procédures fiscales - art. L60 (VD)
+	  - Livre des procédures fiscales - art. R*1-2 (V)
+	  - Livre des procédures fiscales - art. R*200-1 (VD)
+	  - Livre des procédures fiscales - art. R*60-2 (VD)
+	  - Livre des procédures fiscales - art. R*60-3 (VD)
+	  - Livre des procédures fiscales - art. R60-2 A (VD)
+
+
+###### Article 1651 A
+
+Pour la détermination du bénéfice industriel et commercial [*BIC*], les représentants des contribuables sont désignés par la
+chambre de commerce et d'industrie ou la chambre de métiers.
+
+Pour l'évaluation du bénéfice agricole déterminé selon les règles autres que celles du forfait collectif, les représentants
+des contribuables sont désignés par les fédérations départementales des syndicats d'exploitants agricoles.
+
+Pour la détermination du bénéfice non commercial [*BNC*], les représentants des contribuables sont désignés par
+l'organisation ou l'organisme professionnel intéressé.
+
+Pour la détermination du chiffre d'affaires, les mêmes règles sont applicables par catégorie professionnelle.
+
+Les représentants des contribuables, autres que l'expert-comptable mentionné à l'article 1651, sont choisis parmi les
+professionnels de leur catégorie.
+
+Le contribuable peut demander que l'un des représentants des contribuables soit désigné par une organisation ou un organisme
+professionnel ou interprofessionnel, national, régional ou local, de son choix. Ce représentant doit être membre de cette
+organisation ou de cet organisme ou, à défaut, y exercer des fonctions salariées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1651
+
+	**Créé par**:
+
+	  - Loi n°87-502 1987-07-08 art. 1 I JORF 9 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-502 1987-07-08 art. 1 II
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1651 (VD)
+	  - Code général des impôts, CGI. - art. 1651 F (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 347 (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 348 (VD)
+
+
+###### Article 1651 B
+
+Pour l'examen des différends relatifs à la déduction des rémunérations visées au 1° du 1 de l'article 39 ou à l'imposition
+des rémunérations visées au d de l'article 111, les représentants des contribuables comprennent deux membres désignés par la
+chambre de commerce et d'industrie ou par la chambre de métiers et un salarié désigné par les organisations ou organismes les
+plus représentatifs des ingénieurs et des cadres supérieurs.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 1 1° CGI 111 d
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-502 1987-07-08 art. 1 II
+
+	**Créé par**:
+
+	  - Loi n°87-502 1987-07-08 art. 1 JORF 9 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1651 F (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 347 (VD)
+
+
+###### Article 1651 C
+
+Pour la détermination de la valeur vénale retenue pour l'assiette de la taxe sur la valeur ajoutée, dans les cas prévus au 1°
+de l'article L. 59 A du livre des procédures fiscales, la commission comprend , outre le président, trois agents de
+l'administration, un notaire désigné par la chambre des notaires et trois représentants des contribuables.
+
+Les représentants des contribuables sont désignés respectivement par les fédérations départementales des syndicats
+d'exploitants agricoles, les organisations ou organismes représentatifs des propriétaires d'immeubles bâtis et la chambre de
+commerce et d'industrie ou la chambre de métiers.
+
+Le contribuable peut demander que l'un des représentants des contribuables soit désigné par une organisation ou un organisme
+professionnel ou interprofessionnel, national, régional ou local de son choix. Ce représentant doit être membre de cette
+organisation ou de cet organisme ou, à défaut, y exercer des fonctions salariées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L59 A 1°
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-502 1987-07-08 art. 1 II
+
+	**Créé par**:
+
+	  - Loi n°87-502 1987-07-08 art. 1 JORF 8 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 347 (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 348 (VD)
+
+
+###### Article 1651 D
+
+Pour la fixation des éléments à retenir pour le calcul du bénéfice agricole forfaitaire, la commission comprend , outre le
+président, quatre représentants des contribuables désignés par les fédérations départementales des syndicats d'exploitants
+agricoles et trois représentants de l'administration.
+
+Pour la fixation des tarifs des évaluations foncières des propriétés non bâties ou des coefficients d'actualisation, les
+quatre représentants des contribuables sont désignés par la chambre d'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-502 1987-07-08 art. 1 II
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 347 (VD)
+
+	**Créé par**:
+
+	  - Loi n°87-502 1987-08-07 art. 1 JORF 8 juillet 1987 en vigueur 1er janvier 1988
+
+
+###### Article 1651 E
+
+Pour la fixation des valeurs locatives des propriétés bâties et des coefficients d'actualisation, la commission comprend,
+outre le président, quatre représentants de l'administration, un conseiller général et quatre représentants de contribuables.
+Parmi ces derniers, trois sont désignés par les organisations ou organismes représentatifs des propriétaires d'immeubles
+bâtis, le quatrième par les organisations ou organismes représentatifs des locataires.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-502 1987-07-08 art. 1 II
+
+	**Créé par**:
+
+	  - Loi n°87-502 1987-07-08 art. 1 JORF 9 juillet 1987 en vigueur le 1er janvier 1988
+
+
 ###### Article 1651 F
 
 Lorsqu'elle est saisie en application du premier alinéa de l'article L 76 du livre des procédures fiscales, la commission
@@ -56007,6 +56795,32 @@ détermine les conditions d'application de l'article 1664.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1664 (V)
+
+
+###### Article 1668 bis
+
+La société mère visée à l'article 223 A acquitte immédiatement l'impôt correspondant au redressement du résultat d'une
+société du groupe dans les conditions prévues au 2 de l'article 1668.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1668 2
+	  - CGI 223 A
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+	  - TXT_ASSOCIE: Instruction 1995-03-03 13L-2-95
+
+	**Abrogé par**:
+
+	  - Loi n°94-1163 1994-12-30 art. 31 Finances rectificative pour 1994 JORF 30 décembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 68 (P) JORF 31 décembre 1987 en vigueur le 1er janvier 1988
 
 
 ##### 3 bis : Retenues à la source sur les salaires, rémunérations, pensions, rentes, produits, et gains versés à des personnes non-domiciliés fiscalement en France.
@@ -58862,6 +59676,47 @@ l'importance de la fraude peut être évaluée
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZK (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 207 quater A bis (V)
 	  - Livre des procédures fiscales - art. L80 H (V)
+
+
+###### Article 1739
+
+1. Sont constatées, poursuivies (1) et sanctionnées comme en matière de contributions indirectes :
+
+1° Les infractions aux dispositions de l'article 1649 ter C et du décret en Conseil d'Etat prévu pour son application,
+relevées lors des contrôles matériels effectués chez les assujettis ;
+
+2° Les infractions aux obligations imposées en vertu des articles 268 ter-1, 298 bis-II-2° et III, en vue du contrôle des
+opérations d'importation, d'achat, de vente, de commission et de courtage portant sur les animaux vivants de boucherie et de
+charcuterie.
+
+2. (Abrogé).
+
+(1) En ce qui concerne la constatation et la poursuite des infractions, voir livre des procédures fiscales, art. L 24 et L26.
+
+(2) Annexe II, art. 370 B.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1649 ter C
+	  - CGI 268 ter 1
+	  - CGI 298 bis II 2°, III
+	  - CGI L24
+	  - CGI L26
+	  - CGIAN2 370 B
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R221-123 (VD)
 
 
 ###### Article 1740
@@ -64260,48 +65115,6 @@ l'article 223 A, l'insuffisance des chiffres déclarés s'apprécie au niveau de
 	**Codifié par**:
 
 	  - Décret n°88-1001 1988-10-20
-
-
-###### Article 1739
-
-1. Sont constatées, poursuivies (1) et sanctionnées comme en matière de contributions indirectes :
-
-1° Les infractions aux dispositions des articles 1649 ter-1 et 1649 ter A à 1649 ter C, et du décret en Conseil d'Etat prévu
-pour leur application (2), relevées lors des contrôles matériels effectués chez les assujettis ou à la circulation ;
-
-2° Les infractions aux obligations imposées en vertu des articles 268 ter-1, 298 bis-II-2° et III, en vue du contrôle des
-opérations d'importation, d'achat, de vente, de commission et de courtage portant sur les animaux vivants de boucherie et de
-charcuterie.
-
-2. (Abrogé).
-
-(1) En ce qui concerne la constatation et la poursuite des infractions, voir livre des procédures fiscales, art. L 24 et L
-26.
-
-(2) Annexe I, art. 310 quinquies à 310 octies et 310 decies à 310 terdecies, et livre des procédures fiscales, art. R 24-1.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1649 ter 1
-	  - CGI 1649 ter A
-	  - CGI 1649 ter B
-	  - CGI 1649 ter C
-	  - CGI 268 ter 1
-	  - CGI 298 bis II 2°, III
-	  - CGI L24
-	  - CGI L26
-	  - CGIAN1 310 decies A CGIAN1 310 terdecies
-	  - CGIAN1 310 quinquies A CGIAN1 310 octies
-
-	**Modifié par**:
-
-	  - Loi n°80-514 1980-07-07 ART. 1 JORF 9 JUILLET 1980
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R221-123 (VD)
 
 
 ### DISPOSITIONS PARTICULIERES.
