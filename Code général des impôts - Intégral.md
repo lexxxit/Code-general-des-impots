@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1981-10-20
+Version Consolidée au 1981-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3808,6 +3808,33 @@ hors de France ;
 	**Cite**:
 
 	  - CGI 170 1
+
+
+###### Article 174
+
+Pour qu'il puisse être tenu compte de leurs charges de famille, les contribuables doivent faire parvenir à l'administration
+une déclaration indiquant les nom, prénoms, date et lieu de naissance de chacun des enfants et des personnes à leur charge.
+
+Les déclarations sont valables tant que leurs indications n'ont pas cessé d'être exactes ; dans le cas contraire, elles
+doivent être renouvelées.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2015-965 du 31 juillet 2015 (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 12 (P) JORF 31 décembre 1981
 
 
 ##### Section V : Calcul de l'impôt
@@ -26363,8 +26390,10 @@ ou la taxe additionnelle au droit d'apport.
 d'une fonction et sont valablement comprises dans les charges déductibles pour l'assiette de l'impôt sur les sociétés.
 
 5° (Abrogé)     6° Les sommes ou valeurs attribuées aux actionnaires au titre de rachat de leurs actions, lorsque ce rachat
-est effectué dans les conditions prévues soit à l'article 217-1, soit aux articles 217-2 à 217-4 de la loi n° 66-537 du 24
-juillet 1966 sur les sociétés commerciales.
+est effectué dans les conditions prévues soit à l'article 217-1, soit aux articles 217-2 à 217-5 de la loi n° 66-537 du 24
+juillet 1966 sur les sociétés commerciales, modifiés par la loi n° 81-1162 du 30 décembre 1981 relative à la mise en harmonie
+du droit des sociétés commerciales avec la deuxième directive adoptée par le Conseil des communautés européennes le 13
+décembre 1976.
 
 1)  Annexe III, art. 41 bis à 41 quinquies.
 
@@ -26377,6 +26406,12 @@ juillet 1966 sur les sociétés commerciales.
 	  - CGIAN3 41 quinquies
 	  - CGIAN3 41 ter
 	  - Loi n°66-537 1966-07-24 ART. 217-1, 217-2, 217-3, 217-4
+	  - Loi n°81-1162 1981-12-30
+	  - Directive CEE 1976-12-13
+
+	**Modifié par**:
+
+	  - Loi n°81-1162 du 30 décembre 1981 - art. 17 () JORF 31 DECEMBRE 1981
 
 	**Cité par**:
 
@@ -26387,9 +26422,9 @@ juillet 1966 sur les sociétés commerciales.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 bis (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 quinquies (V)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°82-881 1982-10-15
 
 
 ###### Article 115
@@ -31414,18 +31449,26 @@ II. (Disposition périmée).
 ###### Article 160 ter
 
 Les sommes ou valeurs attribuées aux actionnaires au titre du rachat de leurs actions ne donnent pas lieu à la perception de
-l'impôt sur le revenu lorsque ce rachat est effectué dans les conditions prévues soit à l'article 217-1, soit aux articles
-217-2 à 217-4 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales.
+l'impôt sur le revenu lorsque ce rachat est effectué dans les conditions prévues soit à l'article 217-1, soit  aux articles
+217-2 à 217-5 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, modifiés par la loi n° 81-1162 du 30
+décembre 1981 relative à la mise en harmonie du droit des sociétés commerciales avec la deuxième directive adoptée par le
+Conseil des communautés européennes le 13 décembre 1976.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 	**Cite**:
 
-	  - Loi n°66-537 1966-07-24 ART. 217-1, ART. 217-2, ART. 217-3, ART. 217-4
+	  - Directive CEE 1976-12-13
+	  - Loi n°66-537 1966-07-24 ART. 217-1, ART. 217-2, ART. 217-3, ART. 217-4, ART. 217-5
+	  - Loi n°81-1162 1981-12-30
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Loi n°81-1162 du 30 décembre 1981 - art. 17 () JORF 31 DECEMBRE 1981
 
 
 ###### Article 162
@@ -33772,25 +33815,6 @@ d'impôt correspondant.
 
 	  - Code général des impôts, CGI. - art. 1772 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 174 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 174
-
-Pour qu'il puisse être tenu compte de leurs charges de famille, les contribuables doivent faire parvenir à l'administration
-une déclaration indiquant les nom, prénoms, date et lieu de naissance de chacun des enfants à leur charge.
-
-Les déclarations sont valables tant que leurs indications n'ont pas cessé d'être exactes; dans le cas contraire, elles
-doivent être renouvelées.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2015-965 du 31 juillet 2015 (V)
 
 	**Liens**:
 
@@ -43748,6 +43772,31 @@ précédent.
 
 
 ### DISPOSITIONS COMMUNES A L'ENSEMBLE DES CONTRIBUTIONS INDIRECTES
+
+###### Article 630
+
+Sous réserve des dispositions spécialement prévues, les visites et exercices que les agents sont autorisés à faire ne peuvent
+avoir lieu que pendant le jour.
+
+Les visites et vérifications que les agents sont autorisés à faire pendant le jour seulement ne peuvent avoir lieu que dans
+les intervalles de temps ci-après :
+
+Pendant les mois de janvier, février, novembre et décembre, depuis 7 heures du matin jusqu'à 6 heures du soir;
+
+Pendant les mois de mars, avril, septembre et octobre depuis 6 heures du matin jusqu'à 7 heures du soir;
+
+Pendant les mois de mai, juin, juillet et août, depuis 5 heures du matin jusqu'à 8 heures du soir.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGI L27
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
 
 #### ACQUITS-A-CAUTION.
 
