@@ -1,26 +1,29 @@
 # Article 239 quater B
 
-Les groupements d'intérêt public constitués et fonctionnant dans les conditions prévues à ((l'article 21 modifié de la loi n°
-82-610 du 15 juillet 1982)) (M) n'entrent pas dans le champ d'application de l'article 206 1, mais chacun de leurs membres
-est personnellement passible, pour la part des excédents correspondant à ses droits dans le groupement, soit de l'impôt sur
-le revenu, soit de l'impôt sur les sociétés s'il s'agit d'une personne morale relevant de cet impôt.
-
-(M) Modification.
+Les groupements d'intérêt public constitués et fonctionnant dans les conditions prévues à l'article 21 modifié de la loi n°
+82-610 et aux articles L. 1112-2 et L. 1112-3 du code général des collectivités territoriales n'entrent pas dans le champ
+d'application de l'article 206 1, mais chacun de leurs membres est personnellement passible, pour la part des excédents
+correspondant à ses droits dans le groupement, soit de l'impôt sur le revenu, soit de l'impôt sur les sociétés s'il s'agit
+d'une personne morale relevant de cet impôt.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 206 1
+	  - CGI 206
 	  - Loi n°82-610 1982-07-15 art. 21
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Code général des collectivités territoriales - art. L1112-2 (T)
+	  - Code général des collectivités territoriales - art. L1112-3 (T)
 
 	**Modifié par**:
 
-	  - Décret n°95-1281 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995
+	  - Loi n°96-142 1996-02-21 art. 1, art. 11, art. 12 111° JORF 24 février 1996
+	  - Loi n°96-142 du 21 février 1996 - art. 1 (V) JORF 24 février 1996
+	  - Loi n°96-142 du 21 février 1996 - art. 11 (V) JORF 24 février 1996
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
 
 	**Cité par**:
 
@@ -42,4 +45,4 @@ le revenu, soit de l'impôt sur les sociétés s'il s'agit d'une personne morale
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 11 avril 1997

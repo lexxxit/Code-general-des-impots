@@ -42,8 +42,8 @@ courir jusqu'à l'application d'un taux de taxe professionnelle unique dans le g
 ne peut toutefois avoir pour effet de supprimer cet écart dans un délai plus court que celui résultant des dispositions du a.
 
 II. Pour l'application des dispositions du I, le taux de taxe professionnelle de la commune doit, lorsque celle-ci appartient
-également à une communauté urbaine, à un district à fiscalité propre ou à une communauté de communes, être majoré du taux de
-taxe professionnelle voté par ces groupements l'année au cours de laquelle le rattachement est décidé.
+également à une communauté urbaine, à un district, ou à une communauté de communes, être majoré du taux de taxe
+professionnelle voté par ces groupements l'année au cours de laquelle le rattachement est décidé.
 
 III. Les dispositions des I et II sont également applicables dans les communes ou parties de communes qui sont incorporées
 dans une zone d'activités économiques où il est fait application des dispositions du II de l'article 1609 quinquies C.
@@ -58,13 +58,13 @@ dès la première année, celui fixé par le groupement.
 
 	  - CGI 1609 nonies C, 1609 quinquies C
 
-	**Créé par**:
-
-	  - Loi n°93-1352 du 30 décembre 1993 - art. 93 (V) JORF 31 décembre 1993
-
 	**Codifié par**:
 
-	  - Décret n°94-899 1994-10-17
+	  - Décret n°97-661 1997-05-28
+
+	**Modifié par**:
+
+	  - Décret n°97-661 du 28 mai 1997 - art. 1 () JORF 1er juin 1997
 
 	**Cité par**:
 
@@ -75,4 +75,4 @@ dès la première année, celui fixé par le groupement.
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - HISTO: Edition du 11 avril 1997
