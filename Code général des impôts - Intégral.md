@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1980-12-31
+Version Consolidée au 1981-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5994,9 +5994,9 @@ de la réalisation de cette cession.
 
 ###### Article 239
 
-1. Les sociétés en nom collectif, les sociétés en commandite simple et les sociétés en participation peuvent opter, dans des
-conditions qui sont fixées par arrêté ministériel (1), pour le régime applicable aux sociétés de capitaux. Dans ce cas,
-l'impôt sur le revenu dû par les associés en nom, commandités et coparticipants est établi suivant les règles prévues à
+1. Les sociétés en nom collectif [*SNC*], les sociétés en commandite simple et les sociétés en participation peuvent opter,
+dans des conditions qui sont fixées par arrêté ministériel (1), pour le régime applicable aux sociétés de capitaux. Dans ce
+cas, l'impôt sur le revenu dû par les associés en nom, commandités et coparticipants est établi suivant les règles prévues à
 l'article 162.
 
 L'option peut être notifiée dans les trois premiers mois de chaque année [*délai*]. Elle est valable à partir de l'année en
@@ -6004,11 +6004,16 @@ cours [*validité, point de départ*]. Dans tous les cas, elle est irrévocable.
 
 Les dispositions du présent paragraphe ne sont pas applicables :
 
-- aux sociétés immobilières de copropriété visées à l'article 1655 ter ;
-
-- aux sociétés de personnes issues de la transformation antérieure de sociétés de capitaux.
+- aux sociétés immobilières de copropriété visées à l'article 1655 ter,    - aux sociétés de personnes issues de la
+transformation antérieure de sociétés de capitaux.
 
 2. (Disposition périmée).
+
+3. Jusqu'au 31 décembre 1985 [*date limite*], les sociétés de personnes qui ont opté avant le 1er janvier 1981 pour
+l'imposition selon le régime fiscal des sociétés de capitaux mentionné au 1 et exerçant une activité industrielle,
+commerciale ou artisanale peuvent renoncer à leur option si elles sont formées entre personnes parentes en ligne directe ou
+entre frères et soeurs, ainsi que les conjoints. La renonciation ne peut être effectuée qu'avec l'accord de tous les
+associés.
 
 (1) Annexe IV, art. 22 et 23.
 
@@ -6021,6 +6026,14 @@ Les dispositions du présent paragraphe ne sont pas applicables :
 	  - CGIAN4 22
 	  - CGIAN4 23
 
+	**Modifié par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 52 (P) JORF 31 DECEMBRE 1980 en vigueur le 1er JANVIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1663 bis (V)
@@ -6028,10 +6041,6 @@ Les dispositions du présent paragraphe ne sont pas applicables :
 	  - Code général des impôts, CGI. - art. 221 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 297 (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 22 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### XIII : Régime fiscal des sociétés civiles ayant pour objet la construction d'immeubles en vue de la vente
@@ -6547,6 +6556,102 @@ dater du paiement de l'indemnité ou, le cas échéant, de la notification de sa
 	**Liens**:
 
 	  - HISTO: Edition 1979-07-01
+
+
+##### Section III : Déduction fiscale pour investissement
+
+##### Régime applicable du 1er octobre 1980 au 31 décembre 1982.
+
+###### Article 244 duodecies
+
+Les investissements ouvrant droit à la déduction prévue à l'article 244 undecies sont les créations ou acquisitions à l'état
+neuf de biens d'équipement amortissables selon le mode dégressif en vertu du 1 de l'article 39 A ainsi que d'agencements et
+installations de locaux commerciaux habituellement ouverts à la clientèle. Seules sont prises en compte les immobilisations
+exploitées en France. N'ouvrent pas droit à la déduction les investissements réalisés en emploi d'une provision pour
+reconstitution des gisements.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 A, 244 undecies
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°2003-298 2003-03-31
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 1 () JORF 2 avril 2003
+	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er juillet 1981
+
+	**Créé par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 6 (P) JORF 31 décembre 1980 en vigueur le 1er janvier 1981
+
+
+###### Article 244 sexdecies
+
+Un décret en Conseil d'Etat fixe les conditions d'application des articles 244 undecies à 244 quindecies, les déclarations et
+justifications à produire ainsi que les conditions dans lesquelles les locataires de biens faisant l'objet d'un contrat de
+crédit-bail bénéficient des dispositions de ces articles (1).
+
+**Nota:**
+
+(1) Voir les articles 171 R à 171 AA de l'annexe II.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 undecies à 244 quindecies
+	  - CGIAN2 171 R à 171 AA
+
+	**Créé par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 6 (P) JORF 31 décembre 1980 en vigueur le 1er janvier 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°2003-298 2003-03-31
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 1 () JORF 2 avril 2003
+	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er juillet 1981
+
+
+###### Article 244 terdecies
+
+Pour bénéficier de la déduction prévue à l'article 244 undecies, les entreprises doivent être soumises à l'impôt sur les
+sociétés ou à l'impôt sur le revenu, selon un régime réel, dans la catégorie des bénéfices industriels et commerciaux en
+application de l'article 34. La déduction ne peut être pratiquée par les institutions financières, les compagnies
+d'assurances de toute nature, les entreprises de location et de gestion d'immeubles et les sociétés civiles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 undecies, 34
+
+	**Créé par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 6 (P) JORF 31 décembre 1980 en vigueur le 1er janvier 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°2003-298 2003-03-31
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 1 () JORF 2 avril 2003
+	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er juillet 1981
 
 
 ##### Section V : Impôt sur le revenu, impôt sur les sociétés et taxes visées au chapitre III
@@ -9041,6 +9146,31 @@ syndicales.
 
 
 ##### II bis : Droit de fabrication
+
+###### Article 406 D
+
+Les impositions prévues à l'article 406 A sont applicables dans les départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 406 A
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 1er juillet 1981
+	  - HISTO: Edition du 31 mars 1999
+
+	**Modifié par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 13 (P) JORF 31 décembre 1980 en vigueur le 1er janvier 1981
+
+	**Abrogé par**:
+
+	  - Loi - art. 47 (V) JORF 31 décembre 1998
+
 
 ###### Article 406 E
 
@@ -31001,6 +31131,123 @@ bis.
 	  - Code général des impôts, CGI. - art. 199 (V)
 
 
+###### Article 194
+
+Le nombre de parts à prendre en considération pour la division du revenu imposable prévue à l'article 193 est fixé comme
+suit :
+
+Célibataire, divorcé ou veuf sans enfant à charge      1    Marié sans enfant à charge                             2
+Célibataire ou divorcé ayant un enfant à charge        2    Marié ou veuf ayant un enfant à charge                 2,5
+Célibataire ou divorcé ayant deux enfants à charge     2,5    Marié ou veuf ayant deux enfants à charge              3
+Célibataire ou divorcé ayant trois enfants à charge    3,5 (1)    Marié ou veuf ayant trois enfants à charge             4
+(1)    Célibataire ou divorcé ayant quatre enfants à charge   4   (1)    Marié ou veuf ayant quatre enfants à charge
+4,5 (2)    Célibataire ou divorcé ayant cinq enfants à charge     4,5 (2)    Marié ou veuf ayant cinq enfants à charge
+5   (2)    Célibataire ou divorcé ayant six enfants à charge      5   (2)     et ainsi de suite, en augmentant d'une demi-
+part par enfant à charge du contribuable.
+
+En cas d'imposition séparée des époux par application de l'article 6-3, chaque époux est considéré comme un célibataire ayant
+à sa charge les enfants dont il a la garde.
+
+Le veuf qui a à sa charge un ou plusieurs enfants non issus de son mariage avec le conjoint décédé est traité comme un
+célibataire ayant à sa charge le même nombre d'enfants.
+
+Pour l'application des dispositions du premier alinéa, sont assimilées à des enfants à charge [*définition*] les personnes
+considérées comme étant à la charge du contribuable en vertu de l'article 196 A.
+
+(1) Disposition applicable à compter de l'imposition des revenus de 1980.
+
+(2) Disposition applicable à compter de l'imposition des revenus de 1979.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 193
+	  - CGI 196 A
+	  - CGI 6 3
+
+	**Modifié par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 3 (P) JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Décret n°2009-1670 du 28 décembre 2009 - art. 6 (V)
+	  - Arrêté du 18 novembre 2010 - art. 4 (V)
+	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+	  - Code de l'énergie - art. R124-1 (VD)
+	  - Code de la construction et de l'habitation. - art. L442-12 (V)
+	  - Code de la sécurité sociale. - art. R861-2 (V)
+	  - Code de la sécurité sociale. - art. R861-3 (V)
+	  - Code général des impôts, CGI. - art. 193 (VD)
+	  - Code général des impôts, CGI. - art. 195 (V)
+	  - Code général des impôts, CGI. - art. 197 (V)
+	  - Code général des impôts, CGI. - art. 200 sexies (Ab)
+	  - Livre des procédures fiscales - art. L252 B (VD)
+
+
+###### Article 195
+
+1. Par dérogation aux dispositions qui précèdent, le revenu imposable des contribuables célibataires, divorcés ou veufs
+n'ayant pas d'enfant à leur charge est divisé par 1,5 lorsque ces contribuables :
+
+a. Ont un ou plusieurs enfants majeurs ou faisant l'objet d'une imposition distincte ;
+
+b. Ont eu un ou plusieurs enfants qui sont morts, à la condition que l'un d'eux au moins ait atteint l'âge de 16 ans ou que
+l'un d'eux au moins soit décédé par suite de faits de guerre ;
+
+c. Sont titulaires, soit pour une invalidité de 40 % ou au-dessus, soit à titre de veuve, d'une pension prévue par les
+dispositions du code des pensions militaires d'invalidité et des victimes de la guerre reproduisant celles des lois des 31
+mars et 24 juin 1919 ;
+
+d. Sont titulaires d'une pension d'invalidité pour accident du travail de 40 % ou au-dessus ;
+
+d bis. Sont titulaires de la carte d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale ;
+
+e. Ont adopté un enfant, à la condition que, si l'adoption a eu lieu alors que l'enfant était âgé de plus de 10 ans, cet
+enfant ait été à la charge de l'adoptant comme enfant recueilli dans les conditions prévues à l'article 196 depuis l'âge de
+10 ans. Cette disposition n'est pas applicable si l'enfant adopté est décédé avant d'avoir atteint l'âge de 16 ans.
+
+2. Le quotient familial prévu à l'article 194 est augmenté d'une part entière, au lieu d'une demi-part, pour chaque enfant
+titulaire de la carte d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale.
+
+3. (Abrogé).
+
+4. Le quotient familial prévu à l'article 194 est augmenté d'une part pour les contribuables mariés invalides lorsque chacun
+des conjoints remplit l'une des conditions fixées au 1 c, d et d bis (1).
+
+(1) Disposition nouvelle applicable, pour la première fois, pour l'imposition des revenus de l'année 1980.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 194
+	  - CGI 196
+	  - Code de la famille et de l'aide sociale. - art. 173 (M)
+	  - Loi n°1919-03-31
+	  - Loi n°1919-06-24
+
+	**Modifié par**:
+
+	  - Loi n°80-1094 1980-12-30 ART. 2 II 1, 2 FINANCES POUR 1981 JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 2 (P) JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 92 (V)
+	  - Code général des impôts, CGI. - art. 157 bis (V)
+	  - Code général des impôts, CGI. - art. 197 (V)
+
+
 ###### Article 199 ter A
 
 Les porteurs de parts d'un fonds commun de placement régi par la loi n° 79-594 du 13 juillet 1979 peuvent effectuer
@@ -31402,6 +31649,191 @@ les sources d'énergie de remplacement des hydrocarbures ou à promouvoir les ut
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
+
+
+###### Article 210 A
+
+1. Les plus-values nettes dégagées sur l'ensemble des éléments de l'actif immobilisé apporté du fait d'une fusion ne sont pas
+soumises à l'impôt sur les sociétés [*exonération*].
+
+Il en est de même, jusqu'au 31 décembre 1981 [*date limite*], de la plus-value éventuellement dégagée par la société
+absorbante lors de l'annulation des actions ou parts de son propre capital qu'elle reçoit ou qui correspondent à ses droits
+dans la société absorbée.
+
+2. L'impôt sur les sociétés n'est applicable aux provisions figurant au bilan de la société absorbée que si elles deviennent
+sans objet.
+
+3. L'application de ces dispositions est subordonnée à la condition que la société absorbante s'engage, dans l'acte de
+fusion, à respecter les prescriptions suivantes :
+
+a. Elle doit reprendre à son passif :
+
+- d'une part, les provisions dont l'imposition est différée ;
+
+- d'autre part, la réserve spéciale où la société absorbée a porté les plus-values à long terme soumises antérieurement au
+taux réduit de 10 %, de 15 % ou de 25 %.
+
+b. Elle doit se substituer à la société absorbée pour la réintégration des plus-values dont l'imposition avait été différée
+chez cette dernière.
+
+c. Elle doit calculer les plus-values réalisées ultérieurement à l'occasion de la cession des immobilisations non
+amortissables qui lui sont apportées d'après la valeur qu'elles avaient, du point de vue fiscal, dans les écritures de la
+société absorbée.
+
+d. Elle doit réintégrer dans ses bénéfices imposables les plus-values dégagées lors de l'apport des biens amortissables.
+Cette réintégration peut être étalée sur une période n'excédant pas cinq ans, sans que la somme réintégrée chaque année
+puisse être inférieure au cinquième des plus-values. En contrepartie, les amortissements et les plus-values ultérieurs
+afférents aux éléments amortissables sont calculés d'après la valeur qui leur a été attribuée lors de l'apport.
+
+4. Par dérogation aux dispositions qui précèdent, la société absorbée peut opter pour l'imposition au taux réduit, prévu à
+l'article 219-I-a, des plus-values à long terme afférentes à ses éléments amortissables. Dans ce cas, le montant des
+réintégrations visées au 3-d est réduit à due concurrence.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 219 I a
+
+	**Modifié par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 57 (P) JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 31 (VD)
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 68 (V)
+	  - Arrêté du 16 décembre 2016 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 undecies A (VD)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater J (V)
+	  - Code général des impôts, CGI. - art. 115 (V)
+	  - Code général des impôts, CGI. - art. 121 (V)
+	  - Code général des impôts, CGI. - art. 145 (V)
+	  - Code général des impôts, CGI. - art. 151 octies (V)
+	  - Code général des impôts, CGI. - art. 1763 (V)
+	  - Code général des impôts, CGI. - art. 1768 (V)
+	  - Code général des impôts, CGI. - art. 199 ter D (V)
+	  - Code général des impôts, CGI. - art. 208 C (V)
+	  - Code général des impôts, CGI. - art. 208 septies (V)
+	  - Code général des impôts, CGI. - art. 209 (V)
+	  - Code général des impôts, CGI. - art. 210-0 A (V)
+	  - Code général des impôts, CGI. - art. 217 undecies (V)
+	  - Code général des impôts, CGI. - art. 219 (VD)
+	  - Code général des impôts, CGI. - art. 220 septies (P)
+	  - Code général des impôts, CGI. - art. 223 F (V)
+	  - Code général des impôts, CGI. - art. 223 I (V)
+	  - Code général des impôts, CGI. - art. 223 R (V)
+	  - Code général des impôts, CGI. - art. 235 ter ZD (VT)
+	  - Code général des impôts, CGI. - art. 238 quindecies (V)
+	  - Code général des impôts, CGI. - art. 244 quater W (V)
+	  - Code général des impôts, CGI. - art. 39 quaterdecies (V)
+	  - Code général des impôts, CGI. - art. 54 septies (V)
+	  - Code général des impôts, CGI. - art. 726 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 F (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZH (V)
+
+
+###### Article 211
+
+I. Dans les sociétés à responsabilité limitée n'ayant pas opté pour le régime fiscal des sociétés de personnes dans les
+conditions prévues à l'article 3-IV du décret n° 55-594 du 20 mai 1955 modifié et dont les gérants sont majoritaires, dans
+les sociétés en commandite par actions, de même que dans les sociétés en commandite simple, les sociétés en nom collectif et
+les sociétés en participation ayant exercé l'option prévue à l'article 206-3, les traitements, remboursements forfaitaires de
+frais et toutes autres rémunérations sont, sous réserve des dispositions des articles 39-3 et 211 bis, admis en déduction du
+bénéfice de la société pour l'établissement de l'impôt, à la condition que ces rémunérations correspondent à un travail
+effectif.
+
+Les sommes retranchées du bénéfice de la société en vertu de l'alinéa précédent sont soumises à l'impôt sur le revenu au nom
+des bénéficiaires dans les conditions prévues à l'article 62.
+
+Pour l'application du présent article, les gérants qui n'ont pas personnellement la propriété de parts sociales sont
+considérés comme associés si leur conjoint ou leurs enfants non émancipés ont la qualité d'associé.
+
+Dans ce cas, comme dans celui où le gérant est associé, les parts appartenant en toute propriété ou en usufruit au conjoint
+et aux enfants non émancipés du gérant sont considérées comme possédées par ce dernier.
+
+II. Les dispositions du I ne sont pas applicables :
+
+a. Aux sociétés par actions ou à responsabilité limitée admises au régime fiscal des sociétés de personnes prévu à l'article
+239 bis A ;
+
+b. Aux sociétés immobilières de copropriété visées à l'article 1655 ter.
+
+c. Aux sociétés à responsabilité limitée ayant opté pour le régime fiscal prévu par l'article 239 bis AA.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1655 ter
+	  - CGI 206 3
+	  - CGI 211 bis
+	  - CGI 239 bis A
+	  - CGI 239 bis AA
+	  - CGI 39 3
+	  - CGI 62
+	  - Décret n°55-594 1955-05-20 ART. 3 IV
+
+	**Modifié par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 52 (P) JORF 31 DECEMBRE 1980 en vigueur le 1 JANVIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 62 (V)
+
+
+###### Article 211 bis
+
+Pour l'application des dispositions de l'article 39-3, premier alinéa, relatives à la déduction des allocations forfaitaires
+qu'une société attribue à ses dirigeants ou aux cadres de son entreprise pour frais de représentation et de déplacement, les
+dirigeants [*définition*] s'entendent, dans les sociétés de personnes et sociétés en participation qui ont opté pour le
+régime fiscal des sociétés de capitaux, des associés en nom et des membres de ces sociétés, dans les sociétés à
+responsabilité limitée qui n'ont pas opté pour le régime fiscal des sociétés de personnes et les sociétés en commandite par
+actions, des gérants et, en ce qui concerne les sociétés anonymes, du président du conseil d'administration, du directeur
+général, de l'administrateur provisoirement délégué, des membres du directoire et de tout administrateur ou membre du conseil
+de surveillance chargé de fonctions spéciales.
+
+Ces dispositions ne sont pas applicables :
+
+a. Aux sociétés par actions ou à responsabilité limitée admises au régime fiscal des sociétés de personnes prévu à l'article
+239 bis A ;
+
+b. Aux sociétés immobilières de copropriété visées à l'article 1655 ter.
+
+c. Aux sociétés à responsabilité limitée ayant opté pour le régime fiscal prévu par l'article 239 bis AA.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1655 ter
+	  - CGI 239 bis A
+	  - CGI 239 bis AA
+	  - CGI 39 3 AL. 1
+
+	**Modifié par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 52 (P) JORF 31 DECEMBRE 1980 en vigueur le 1 JANVIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 211 (V)
+	  - Code de la construction et de l'habitation. - art. R313-17 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 B (V)
+	  - Code rural et de la pêche maritime - art. R716-33 (V)
 
 
 ##### CALCUL DE L'IMPOT.
@@ -32960,105 +33392,6 @@ charge en démontrant son caractère exagéré.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 194
-
-Le nombre de parts à prendre en considération pour la division du revenu imposable prévue à l'article 193 est fixé comme
-suit :
-
-Célibataire, divorcé ou veuf sans enfant à charge          1     Marié sans enfant à charge                                 2
-Célibataire ou divorcé ayant un enfant à charge            2     Marié ou veuf ayant un enfant à charge
-2,5     Célibataire ou divorcé ayant deux enfants à charge         2,5     Marié ou veuf ayant deux enfants à charge
-3     Célibataire ou divorcé ayant trois enfants à charge        3     Marié ou veuf ayant trois enfants à charge
-3,5     Célibataire ou divorcé ayant quatre enfants à charge      3,5     et ainsi de suite en augmentant d'une demi-part par
-enfant à la charge du contribuable.
-
-En cas d'imposition séparée des époux par application de l'article 6-3, chaque époux est considéré comme un célibataire ayant
-à sa charge les enfants dont il a la garde.
-
-Le veuf qui a à sa charge un ou plusieurs enfants non issus de son mariage avec le conjoint décédé est traité comme un
-célibataire ayant à sa charge le même nombre d'enfants.
-
-Pour l'application des dispositions du premier alinéa, sont assimilées à des enfants à charge [*définition*] les personnes
-considérées comme étant à la charge du contribuable en vertu de l'article 196 A.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 193
-	  - CGI 196 A
-	  - CGI 6 3
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 195
-	  - HISTO: EDITION 1979-07-01
-
-	**Cité par**:
-
-	  - Décret n°2009-1670 du 28 décembre 2009 - art. 6 (V)
-	  - Arrêté du 18 novembre 2010 - art. 4 (V)
-	  - Décret n°2016-555 du 6 mai 2016 - art. 1
-	  - Code de l'énergie - art. R124-1 (VD)
-	  - Code de la construction et de l'habitation. - art. L442-12 (V)
-	  - Code de la sécurité sociale. - art. R861-2 (V)
-	  - Code de la sécurité sociale. - art. R861-3 (V)
-	  - Code général des impôts, CGI. - art. 193 (VD)
-	  - Code général des impôts, CGI. - art. 195 (V)
-	  - Code général des impôts, CGI. - art. 197 (V)
-	  - Code général des impôts, CGI. - art. 200 sexies (Ab)
-	  - Livre des procédures fiscales - art. L252 B (VD)
-
-
-###### Article 195
-
-1  Par dérogation aux dispositions qui précèdent, le revenu imposable des contribuables célibataires, divorcés ou veufs
-n'ayant pas d'enfant à leur charge est divisé par 1,5 lorsque ces contribuables :
-
-a  Ont un ou plusieurs enfants majeurs ou faisant l'objet d'une imposition distincte;
-
-b  Ont eu un ou plusieurs enfants qui sont morts, à la condition que l'un d'eux au moins ait atteint l'âge de 16 ans ou que
-l'un d'eux au moins soit décédé par suite de faits de guerre;
-
-c  Sont titulaires, soit pour une invalidité de 40 % [*taux*] ou au-dessus, soit à titre de veuve, d'une pension prévue par
-les dispositions du code des pensions militaires d'invalidité et des victimes de la guerre reproduisant celles des lois des
-31 mars et 24 juin 1919;
-
-d  Sont titulaires d'une pension d'invalidité pour accident du travail de 40 % ou au-dessus;
-
-d bis  Sont titulaires de la carte d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale;
-
-e  Ont adopté un enfant, à la condition que, si l'adoption a eu lieu alors que l'enfant était âgé de plus de 10 ans, cet
-enfant ait été à la charge de l'adoptant comme enfant recueilli dans les conditions prévues à l'article 196 depuis l'âge de
-10 ans. Cette disposition n'est pas applicable si l'enfant adopté est décédé avant d'avoir atteint l'âge de 16 ans.
-
-2  Le quotient familial prévu à l'article 194 est augmenté d'une part entière, au lieu d'une demi-part, pour chaque enfant
-titulaire de la carte d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale.
-
-3  Le quotient familial prévu à l'article 194 est augmenté d'une demi-part pour les contribuables mariés invalides lorsque
-chacun des conjoints remplit l'une des conditions fixées au 1-c, d et d bis [*majoration*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 194
-	  - CGI 196
-	  - Code de la famille et de l'aide sociale. - art. 173 (M)
-	  - Loi n°1919-03-31
-	  - Loi n°1919-06-24
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 157 bis (V)
-	  - Code général des impôts, CGI. - art. 197 (V)
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 92 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 196 A
 
 Tout contribuable peut considérer comme étant à sa charge, au sens de l'article 196, à la condition qu'ils vivent sous son
@@ -34099,91 +34432,6 @@ de jetons de présence [*conditions*].
 	  - Décret n°87-940 1987-11-23
 
 
-###### Article 210 A
-
-1  Les plus-values nettes dégagées sur l'ensemble des éléments de l'actif immobilisé apporté du fait d'une fusion ne sont pas
-soumises à l'impôt sur les sociétés [*exonération*].
-
-Il en est de même, jusqu'au 31 décembre 1980 [*date limite*], de la plus-value éventuellement dégagée par la société
-absorbante lors de l'annulation des actions ou parts de son propre capital qu'elle reçoit ou qui correspondent à ses droits
-dans la société absorbée.
-
-2  L'impôt sur les sociétés n'est applicable aux provisions figurant au bilan de la société absorbée que si elles deviennent
-sans objet [*conditions*].
-
-3  L'application de ces dispositions est subordonnée à la condition que la société absorbante s'engage, dans l'acte de
-fusion, à respecter les prescriptions suivantes :
-
-a  Elle doit reprendre à son passif :
-
-- d'une part, les provisions dont l'imposition est différée;
-
-- d'autre part, la réserve spéciale où la société absorbée a porté les plus-values à long terme soumises antérieurement au
-taux réduit de 10 %, de 15 % ou de 25 %.
-
-b  Elle doit se substituer à la société absorbée pour la réintégration des plus-values dont l'imposition avait été différée
-chez cette dernière.
-
-c  Elle doit calculer les plus-values réalisées ultérieurement à l'occasion de la cession des immobilisations non
-amortissables qui lui sont apportées d'après la valeur qu'elles avaient, du point de vue fiscal, dans les écritures de la
-société absorbée.
-
-d  Elle doit réintégrer dans ses bénéfices imposables les plus-values dégagées lors de l'apport des biens amortissables.
-Cette réintégration peut être étalée sur une période n'excédant pas cinq ans, sans que la somme réintégrée chaque année
-puisse être inférieure au cinquième des plus-values [*montant minimum*]. En contrepartie, les amortissements et les plus-
-values ultérieurs afférents aux éléments amortissables sont calculés d'après la valeur qui leur a été attribuée lors de
-l'apport.
-
-4  Par dérogation aux dispositions qui précèdent, la société absorbée peut opter pour l'imposition au taux réduit, prévu à
-l'article 219-I-a, des plus-values à long terme afférentes à ses éléments amortissables. Dans ce cas, le montant des
-réintégrations visées au 3-d est réduit à due concurrence.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 16 décembre 2016 (V)
-	  - Loi n°99-532 du 25 juin 1999 - art. 31 (VD)
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 68 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 undecies A (VD)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater J (V)
-	  - Code général des impôts, CGI. - art. 115 (V)
-	  - Code général des impôts, CGI. - art. 121 (V)
-	  - Code général des impôts, CGI. - art. 145 (V)
-	  - Code général des impôts, CGI. - art. 151 octies (V)
-	  - Code général des impôts, CGI. - art. 1763 (V)
-	  - Code général des impôts, CGI. - art. 1768 (V)
-	  - Code général des impôts, CGI. - art. 199 ter D (V)
-	  - Code général des impôts, CGI. - art. 208 C (V)
-	  - Code général des impôts, CGI. - art. 208 septies (V)
-	  - Code général des impôts, CGI. - art. 209 (V)
-	  - Code général des impôts, CGI. - art. 210-0 A (V)
-	  - Code général des impôts, CGI. - art. 217 undecies (V)
-	  - Code général des impôts, CGI. - art. 219 (VD)
-	  - Code général des impôts, CGI. - art. 220 septies (P)
-	  - Code général des impôts, CGI. - art. 223 F (V)
-	  - Code général des impôts, CGI. - art. 223 I (V)
-	  - Code général des impôts, CGI. - art. 223 R (V)
-	  - Code général des impôts, CGI. - art. 235 ter ZD (VT)
-	  - Code général des impôts, CGI. - art. 238 quindecies (V)
-	  - Code général des impôts, CGI. - art. 244 quater W (V)
-	  - Code général des impôts, CGI. - art. 39 quaterdecies (V)
-	  - Code général des impôts, CGI. - art. 54 septies (V)
-	  - Code général des impôts, CGI. - art. 726 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 F (P)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZH (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 210 B
-	  - TXT_ASSOCIE: CGI 210 C
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - CGI 219 I a, 3 d
-
-
 ###### Article 210 ter
 
 Sous réserve des dispositions de l'article 207-1-4°, les sociétés et autres personnes morales sont exonérées de l'impôt sur
@@ -34199,86 +34447,6 @@ bâties.
 
 	  - CGI 207 1 4°
 	  - Loi n°63-254 1963-03-15
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 211
-
-I  Dans les sociétés à responsabilité limitée n'ayant pas opté pour le régime fiscal des sociétés de personnes dans les
-conditions prévues à l'article 3-IV du décret n° 55-594 du 20 mai 1955 modifié et dont les gérants sont majoritaires, dans
-les sociétés en commandite par actions, de même que dans les sociétés en commandite simple, les sociétés en nom collectif et
-les sociétés en participation ayant exercé l'option prévue à l'article 206-3, les traitements, remboursements forfaitaires de
-frais et toutes autres rémunérations sont, sous réserve des dispositions des articles 39-3 et 211 bis, admis en déduction du
-bénéfice de la société pour l'établissement de l'impôt, à la condition que ces rémunérations correspondent à un travail
-effectif.
-
-Les sommes retranchées du bénéfice de la société en vertu de l'alinéa précédent sont soumises à l'impôt sur le revenu au nom
-des bénéficiaires dans les conditions prévues à l'article 62.
-
-Pour l'application du présent article, les gérants qui n'ont pas personnellement la propriété de parts sociales sont
-considérés comme associés si leur conjoint ou leurs enfants non émancipés ont la qualité d'associé.
-
-Dans ce cas, comme dans celui où le gérant est associé, les parts appartenant en toute propriété ou en usufruit au conjoint
-et aux enfants non émancipés du gérant sont considérées comme possédées par ce dernier.
-
-II  Les dispositions du I ne sont pas applicables :
-
-a  Aux sociétés par actions ou à responsabilité limitée admises au régime fiscal des sociétés de personnes prévu à l'article
-239 bis A ;
-
-b  Aux sociétés immobilières de copropriété visées à l'article 1655 ter.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 206-3, 39-3, 211 bis, 62, 239 bis A, 1655 ter
-	  - Décret n°55-594 1955-05-20 art. 3
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 62 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 211 bis
-
-Pour l'application des dispositions de l'article 39-3, premier alinéa, relatives à la déduction des allocations forfaitaires
-qu'une société attribue à ses dirigeants ou aux cadres de son entreprise pour frais de représentation et de déplacement, les
-dirigeants [*définition*] s'entendent, dans les sociétés de personnes et sociétés en participation qui ont opté pour le
-régime fiscal des sociétés de capitaux, des associés en nom et des membres de ces sociétés, dans les sociétés à
-responsabilité limitée qui n'ont pas opté pour le régime fiscal des sociétés de personnes et les sociétés en commandite par
-actions, des gérants et, en ce qui concerne les sociétés anonymes, du président du conseil d'administration, du directeur
-général, de l'administrateur provisoirement délégué, des membres du directoire et de tout administrateur ou membre du conseil
-de surveillance chargé de fonctions spéciales.
-
-Ces dispositions ne sont pas applicables :
-
-a  Aux sociétés par actions ou à responsabilité limitée admises au régime fiscal des sociétés de personnes prévu à l'article
-239 bis A ;
-
-b  Aux sociétés immobilières de copropriété visées à l'article 1655 ter.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1655 ter
-	  - CGI 239 bis A
-	  - CGI 39 3 AL. 1
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 211 (V)
-	  - Code de la construction et de l'habitation. - art. R313-17 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 B (V)
-	  - Code rural et de la pêche maritime - art. R716-33 (V)
 
 	**Liens**:
 
@@ -36710,193 +36878,6 @@ Pour l'application de ces dispositions les donations entre vifs ne sont pas oppo
 	  - Livre des procédures fiscales L172 C (3è al. du CGI 244 bis)
 
 
-##### DEDUCTION FISCALE POUR INVESTISSEMENT.
-
-###### Article 244 decies
-
-Les conditions et modalités d'application des articles 244 septies à 244 nonies sont fixées par décret (1). Ce décret fixe
-notamment les conditions d'exercice de l'option prévue à l'article 244 nonies  ainsi que les conditions dans lesquelles les
-entreprises de crédit-bail régies par la loi n° 66-455 du 2 juillet 1966 sont admises à transférer le bénéfice de la
-déduction aux entreprises locataires de biens y ouvrant droit.
-
-1)  Annexe III, art. 49 duodecies à 49 quindecies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 nonies
-	  - CGI 244 octies
-	  - CGI 244 septies
-	  - CGIAN3 49 duodecies à CGIAN3 49 quindecies
-	  - Loi n°66-455 1966-07-02
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 244 nonies
-
-Les entreprises peuvent opter pour l'imputation de la déduction visée à l'article 244 septies sur la taxe sur la valeur
-ajoutée dont elles sont redevables.
-
-Dans ce cas, le taux de la déduction est fixé à 5 %.
-
-L'option est irrévocable et globale.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 septies
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 244 octies
-
-Les matériels neufs désignés ci-après ouvrent droit à la déduction pour investissement dans les conditions définies à
-l'article 244 septies :
-
-1° Matériels susceptibles d'être admis au régime de l'amortissement dégressif en vertu de l'article 39 A-1, lorsque la durée
-d'utilisation de ces matériels servant de base au calcul des amortissements fiscaux est au moins égale à huit ans;
-
-2° Matériels spécialisés pour l'industrie textile et machines-outils dont la liste est fixée par décret (1);
-
-3° Camions dont le poids total maximal autorisé est compris entre deux tonnes et demie et treize tonnes et tracteurs routiers
-dérivés de ces camions.
-
-1) Voir Annexe III, art. 49 terdecies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 septies
-	  - CGI 39 A 1
-	  - CGIAN3 49 terdecies
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 244 quinquies
-
-1 Les entreprises industrielles, commerciales ou artisanales exerçant leur activité en France métropolitaine ou dans les
-départements d'outre-mer ont droit à une déduction pour investissement imputable sur le montant de l'impôt sur le revenu, de
-l'impôt sur les sociétés ou du précompte dont elles sont redevables.
-
-2 Cette déduction est fixée à 10 % du montant des investissements réalisés en des matériels répondant à des conditions
-définies par décret (1).
-
-Le montant des investissements s'entend du prix de revient pour l'entreprise qui investit du matériel mis en place, diminué,
-le cas échéant, de la taxe sur la valeur ajoutée dont l'entreprise peut opérer l'imputation sur la taxe applicable à ses
-propres opérations (2).
-
-1) Annexe III, art. 49 octies.
-
-2) Annexe III, art. 49 nonies.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 244 septies
-	  - TXT_ASSOCIE: CGI 244 sexies
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - CGIAN3 49 nonies
-	  - CGIAN3 49 octies
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 244 septies
-
-Sous réserve des dispositions des articles 244 octies à 244 decies, la déduction prévue à l'article 244 quinquies est
-accordée aux entreprises à raison des matériels ayant fait l'objet d'une commande ferme après le 30 avril 1968 et avant le 4
-septembre 1969, à condition que ces matériels soient livrés entre le 1er septembre 1968 et le 31 mars 1970.
-
-Pour les matériels dont la mise en place nécessite plus de sept mois, la date limite de livraison est reportée du 31 mars
-1970 au 31 décembre 1970, à condition que ces matériels aient fait l'objet d'une commande ferme entre le 1er mai 1968 et le
-31 mai 1969.
-
-Les matériels répondant aux conditions définies à l'alinéa précédent qui ne sont pas livrés au 31 décembre 1970 ouvrent
-cependant droit à déduction; mais la base de calcul de cette déduction est limitée au montant des acomptes versés au 31
-décembre 1970 en vertu d'engagements régulièrement souscrits lors de la commande.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 decies
-	  - CGI 244 nonies
-	  - CGI 244 octies
-	  - CGI 244 quinquies
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 244 sexies
-
-Le bénéfice de la déduction visée à l'article 244 quinquies est accordé aux entreprises à raison :
-
-1° Des matériels livrés en 1966 postérieurement au 15 février ;
-
-2° Des matériels qui auront fait l'objet d'une commande ferme entre le 15 février et le 31 décembre 1966.
-
-Lorsque ces derniers matériels n'auront pas été livrés avant le 1er janvier 1968, la base de calcul de la déduction ne pourra
-pas excéder le montant des acomptes payés à cette date. Toutefois, la date du 1er janvier 1969 sera substituée à celle du 1er
-janvier 1968, lorsque la mise en place du matériel nécessitera un délai supérieur à un an;
-
-3° Des matériels commandés avant le 15 février 1966 et livrés après le 31 décembre de la même année. Dans ce cas, la
-déduction est calculée sur la base des seuls acomptes payés entre ces deux dates en vertu d'engagements régulièrement
-souscrits avant le 15 février 1966 (1).
-
-1) Voir Annexe III, art. 49 decies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 quinquies
-	  - CGIAN3 49 decies
-
-	**Codifié par**:
-
-	  - Décret n°66-866 1966-09-15
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ##### IMPOT SUR LE REVENU, IMPOT SUR LES SOCIETES ET TAXES VISEES AU CHAPITRE III.
 
 ###### Article 247 bis
@@ -37000,6 +36981,64 @@ matière d'impôt sur les sociétés aux bénéfices des exercices clos à compt
 	  - Décret n°81-866 1981-09-15
 
 
+###### Article 238 bis HC
+
+Les revenus et les bénéfices investis dans les territoires d'outre-mer [*TOM*] et dans la collectivité territoriale de
+Mayotte peuvent, dans les mêmes conditions, bénéficier du régime prévu par les articles 238 bis HA et 238 bis HB (1).
+
+(1) Disposition applicable à compter du 1er janvier 1980 [*date, point de départ*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HA
+	  - CGI 238 bis HB
+
+	**Créé par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 7 (P) JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 239 bis AA
+
+A compter du 1er janvier 1981 [*date, point de départ*] et jusqu'au 31 décembre 1985 [*période*], les sociétés à
+responsabilité limitée exerçant une activité industrielle, commerciale ou artisanale, et formées uniquement entre personnes
+parentes en ligne directe ou entre frères et soeurs, ainsi que les conjoints, peuvent opter pour le régime fiscal des
+sociétés de personnes mentionné à l'article 8. L'option ne peut être exercée qu'avec l'accord de tous les associés
+[*condition*]. Elle cesse de produire ses effets dès que des personnes autres que celles prévues dans le présent article
+deviennent associées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 8
+
+	**Créé par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 52 (P) JORF 31 DECEMBRE 1980 en vigueur le 1er JANVIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 211 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 211 bis (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 62 (V)
+	  - Code général des impôts, CGI. - art. 163 unvicies (P)
+	  - Code général des impôts, CGI. - art. 206 (V)
+	  - Code général des impôts, CGI. - art. 8 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies B (V)
+
+
 ###### Article 242 ter A
 
 1. Lorsque le bénéficiaire d'intérêts de bons et titres communique aux établissements payeurs son identité et son domicile
@@ -37028,6 +37067,82 @@ obligations des établissements payeurs.
 	**Créé par**:
 
 	  - Loi n°80-30 du 18 janvier 1980 - art. 67 (P) JORF 19 JANVIER 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+##### DEDUCTION FISCALE POUR INVESTISSEMENT.
+
+###### Article 244 quaterdecies
+
+La déduction prévue à l'article 244 undecies s'applique aux investissements réalisés entre le 1er octobre 1980 et le 31
+décembre 1985 [*période*]. Toutefois, en ce qui concerne les investissements réalisés du 1er octobre au 31 décembre 1980, la
+déduction ne peut être pratiquée que si l'entreprise renonce pour l'année 1980 à celle instituée par l'article premier de la
+loi n° 79-525 du 3 juillet 1979 relative au soutien de l'investissement productif industriel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 undecies
+	  - Loi n°79-525 du 3 juillet 1979 - art. 1, v. init.
+
+	**Créé par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 6 (P) JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 244 quindecies
+
+La déduction prévue à l'article 244 undecies est opérée sur les résultats de l'exercice au cours duquel l'investissement a
+été réalisé, au prorata du temps écoulé entre la date de cette réalisation et la clôture de l'exercice. Le solde est déduit
+des résultats de l'exercice suivant.
+
+En cas de cession d'une immobilisation créée ou acquise avec le bénéfice de la déduction avant l'expiration d'un délai de
+cinq ans, la déduction est rapportée au résultat imposable de l'exercice de la cession dans la limite de 10 % de la valeur
+non amortie du bien ou de 10 % de son prix de vente si ce dernier est supérieur à cette valeur. Il en est de même lorsque le
+local commercial dont l'aménagement a ouvert droit à la déduction cesse de remplir les conditions prévues au présent article.
+
+Lorsque l'immobilisation est cédée à une entreprise qui l'a prise en location de manière continue depuis sa création ou son
+acquisition à l'état neuf, le locataire peut, s'il remplit les conditions prévues au présent article et en contrepartie de la
+réintégration effectuée par le loueur, pratiquer la déduction. Celle-ci est calculée sur le prix de cession du bien.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 undecies
+
+	**Créé par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 6 (P) JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 244 undecies
+
+Pour la détermination de leur résultat imposable, les entreprises industrielles, commerciales ou artisanales répondant aux
+conditions posées à l'article 244 terdecies peuvent déduire de leur résultat une somme égale à 10 % [*pourcentage*] de leurs
+investissements.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 terdecies
+
+	**Créé par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 6 (P) JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
 
 	**Codifié par**:
 
@@ -37739,28 +37854,6 @@ la base d'imposition lorsque les emballages n'ont pas été rendus au terme des 
 
 	  - Code du tourisme. - art. L421-4 (V)
 	  - Loi n°2004-639 du 2 juillet 2004 - art. 45 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 268 ter
-
-I  Des décrets en Conseil d'Etat (1) peuvent fixer des modalités particulières de détermination de la base d'imposition pour
-l'imposition des ventes d'animaux de grande valeur.
-
-II  Jusqu'au 31 décembre 1980 [*date limite*], la base d'imposition à la taxe sur la valeur ajoutée des ventes d'animaux
-vivants de boucherie et de charcuterie fait l'objet d'une réfaction de 50 % [*pourcentage*] lorsque ces ventes sont faites à
-des personnes non assujetties à cette taxe.
-
-1)  Annexe II, art. 204 bis.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 204 bis
 
 	**Liens**:
 
@@ -39238,65 +39331,6 @@ activité à la composition ou à l'impression des publications mentionnées à 
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 298 quater
-
-I  Le remboursement forfaitaire est liquidé sur le montant des livraisons de produits agricoles faites à des redevables de la
-taxe sur la valeur ajoutée ou à l'exportation.
-
-Son taux est fixé, pour les ventes faites à partir du 1er janvier 1969 et jusqu'à la date à laquelle les taux de la taxe sur
-la valeur ajoutée seraient modifiés :
-
-A 3,50 % pour les oeufs, les animaux de basse-cour et les animaux de boucherie et de charcuterie définis par décret (1); ce
-taux est porté, jusqu'au 31 décembre 1980, à 4,70 % pour les oeufs, les animaux de basse-cour et les porcs, lorsque ces
-produits sont commercialisés par l'intermédiaire de groupements de producteurs constitués pour la réalisation des objectifs
-définis par la loi d'orientation agricole n° 60-808 du 5 août 1960;
-
-A 2,40 % pour les autres produits; ce taux est porté à 2,90 % pour les vins et les fruits et légumes et pour les produits de
-l'horticulture et des pépinières commercialisés, en 1977 et les deux années suivantes, par l'intermédiaire des groupements de
-producteurs constitués pour la réalisation des objectifs définis par la loi d'orientation agricole n° 60-808 du 5 août 1960.
-
-II  Des décrets en conseil d'Etat (2) fixent, en tant que de besoin, les conditions d'application du I, notamment les
-justifications à fournir par les bénéficiaires du remboursement forfaitaire, ainsi que les bases de calcul dudit
-remboursement dans le cas d'exportation d'animaux vivants.
-
-III  La déclaration déposée en vue d'obtenir le bénéfice du remboursement forfaitaire (3) est recevable jusqu'au 31 décembre
-de l'année suivant celle au cours de laquelle le droit au remboursement forfaitaire est né [*date limite*].
-
-IV  Les justifications exigées pour l'octroi du remboursement forfaitaire peuvent être modifiées, pour certains secteurs de
-la production agricole, par décret (4) pris après avis des organisations professionnelles agricoles.
-
-1)  Annexe III, art. 65 A.
-
-2)  Annexe II, art. 261 à 267 bis.
-
-3)  Voir Annexe II, art. 266.
-
-4)  Voir Annexe III, art. 98 bis.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 298 quinquies (bénéficiaires du remboursement forfaitaire)
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - CGIAN2 261 A CGIAN2 267 bis
-	  - CGIAN2 266
-	  - CGIAN3 65 A
-	  - CGIAN3 98 bis
-	  - Loi n°60-808 1960-08-05
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 256 bis (V)
-	  - Code général des impôts, CGI. - art. 298 bis (V)
-	  - Code général des impôts, CGI. - art. 302 bis MB (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 O (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 98 bis (V)
-
-
 ###### Article 298 septies
 
 Les ventes, commissions et courtages portant sur les publications qui remplissent les conditions prévues par les articles 72
@@ -39517,6 +39551,100 @@ Pour le calcul des droits à déduction, les opérations ci-dessus sont considé
 	**Cité par**:
 
 	  - Loi n°91-1 du 3 janvier 1991 - art. 22 (V)
+
+
+#### TAXE SUR LA VALEUR AJOUTEE *TVA*
+
+##### ASSIETTE DE LA TAXE
+
+###### Article 268 ter
+
+I° Des décrets en Conseil d'Etat (1) peuvent fixer des modalités particulières de détermination de la base d'imposition pour
+l'imposition des ventes d'animaux de grande valeur.
+
+II° Jusqu'au 31 décembre 1981 [*date limite*], la base d'imposition à la taxe sur la valeur ajoutée des ventes d'animaux
+vivants de boucherie et de charcuterie fait l'objet d'une réfaction de 50 % [*pourcentage*] lorsque ces ventes sont faites à
+des personnes non assujetties à cette taxe.
+
+(1) Annexe II, art. 204 bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 204 bis
+
+	**Modifié par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 57 (P) JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+##### REGIMES SPECIAUX.
+
+###### Article 298 quater
+
+I° Le remboursement forfaitaire est liquidé sur le montant des livraisons de produits agricoles faites à des redevables de la
+taxe sur la valeur ajoutée ou à l'exportation.
+
+Son taux est fixé, pour les ventes faites à partir du 1er janvier 1969 et jusqu'à la date à laquelle les taux de la taxe sur
+la valeur ajoutée seraient modifiés :
+
+A 3,50 % pour les oeufs, les animaux de basse-cour et les animaux de boucherie et de charcuterie définis par décret (1) ; ce
+taux est porté, jusqu'au 31 décembre 1980, à 4,70 % pour les oeufs, les animaux de basse-cour et les porcs, lorsque ces
+produits sont commercialisés par l'intermédiaire de groupements de producteurs constitués pour la réalisation des objectifs
+définis par la loi d'orientation agricole n° 60-808 du 5 août 1960 ;
+
+A 2,40 % pour les autres produits ; ce taux est porté à 2,90 % pour les vins et les fruits et légumes et pour les produits de
+l'horticulture et des pépinières commercialisés, en 1977 et les trois années suivantes, par l'intermédiaire des groupements
+de producteurs constitués pour la réalisation des objectifs définis par la loi d'orientation agricole n° 60-808 du 5 août
+1960.
+
+II° Des décrets en Conseil d'Etat (2) fixent, en tant que de besoin, les conditions d'application du I, notamment les
+justifications à fournir par les bénéficiaires du remboursement forfaitaire, ainsi que les bases de calcul dudit
+remboursement dans le cas d'exportation d'animaux vivants.
+
+III° La déclaration déposée en vue d'obtenir le bénéfice du remboursement forfaitaire (3) est recevable jusqu'au 31 décembre
+de l'année suivant celle au cours de laquelle le droit au remboursement forfaitaire est né.
+
+IV° Les justifications exigées pour l'octroi du remboursement forfaitaire peuvent être modifiées, pour certains secteurs de
+la production agricole, par décret (4) pris après avis des organisations professionnelles agricoles.
+
+(1) Annexe III, art. 65 A.
+
+(2) Annexe II, art. 261 à 267 bis.
+
+(3) Voir Annexe II, art. 266.
+
+(4) Voir Annexe III, art. 98 bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 261 A CGIAN2 267 bis
+	  - CGIAN3 65 A
+	  - CGIAN3 98 bis
+	  - Loi n°60-808 1960-08-05 ORIENTATION AGRICOLE
+
+	**Modifié par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 57 (P) JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 256 bis (V)
+	  - Code général des impôts, CGI. - art. 298 bis (V)
+	  - Code général des impôts, CGI. - art. 302 bis MB (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 O (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 98 bis (V)
 
 
 #### TAXE SUR LES METAUX PRECIEUX, LES BIJOUX, LES OBJETS D'ART, DE COLLECTION ET D'ANTIQUITE.
@@ -41220,65 +41348,156 @@ b  (Première phrase, transférée sous l'article 395, deuxième alinéa; deuxi�
 	  - CGI 395 AL. 2
 
 
-###### Article 406 A
+###### Article 403
 
-Les produits alcooliques ci-après supportent un droit de fabrication dont le tarif par hectolitre d'alcool pur est fixé à
-(1) :
+En dehors de l'allocation en franchise de 10 litres d'alcool pur accordée aux bouilleurs de cru, les alcools supportent un
+droit de consommation dont le tarif par hectolitre d'alcool pur est fixé :
 
-1° 2.110 F [*montant*] pour les boissons alcooliques provenant de la distillation des céréales et les spiritueux vendus sous
-la même dénomination que ces boissons, à l'exception des genièvres produits dans les conditions prévues par l'article 360 et
-des genièvres importés, ainsi que pour les apéritifs à l'exception des apéritifs à base de vin définis par le décret du 31
-janvier 1930. Pour l'application de ce tarif, sont considérés comme apéritifs [*définition*], à condition qu'ils titrent au
-moins 18 degrés d'alcool et qu'ils contiennent plus d'un demi-gramme d'essence par litre, les spiritueux anisés renfermant
-moins de 400 grammes de sucre par litre, les bitters, amers, goudrons, gentianes et tous produits similaires dont la teneur
-en sucre est inférieure à 200 grammes par litre;
+I. A compter du 1er février 1982 [*date, point de départ*], à :
 
-2° 710 F pour toutes les autres boissons à base d'alcool susceptibles d'être consommées comme apéritifs ainsi que pour les
-apéritifs à base de vin, les vermouths, les vins de liqueurs et assimilés ne bénéficiant pas d'une appellation d'origine
-contrôlée, les vins doux naturels soumis au régime fiscal de l'alcool et les genièvres;
+1° 2.355 F [*montant*] pour les quantités ajoutées pour la préparation des vins mousseux et des vins doux naturels mentionnés
+à l'article 417 ;
 
-3° 545 F pour les produits de parfumerie et de toilette;
+2° 4.075 F pour les rhums, à l'exclusion des rhums légers, et pour les crèmes de cassis ;
 
-4° 210 F pour les produits à base d'alcool ayant un caractère exclusivement médicamenteux ou impropres à la consommation de
-bouche, figurant sur une liste établie par arrêté (2) du ministre de l'économie et des finances, ainsi que pour les alcools
-et les produits à base d'alcool impropres à la consommation en l'état destinés à des usages également déterminés par arrêtés
-(2).
+3° 6.285 F pour les apéritifs à base de vin, les vermouths et les vins de liqueur et assimilés ;
 
-1)  Tarifs applicables à compter du 1er février 1979.
+4° 7.655 F pour tous les autres produits à l'exception de ceux mentionnés à l'article 406 A-II-1° et 2°.
 
-2)  Annexe IV, art. 53 et 54.
+II. Pour la période du 1er février 1981 au 31 janvier 1982, les droits sont portés ou ramenés à (1) :
+
+1° 2.395 F pour les quantités ajoutées pour la préparation des vins mousseux et des vins doux naturels mentionnés à l'article
+417 ;
+
+2° 4.150 F pour les rhums, à l'exclusion des rhums légers, et pour les crèmes de cassis ;
+
+3° 6.400 F pour les apéritifs à base de vin, les vermouths et les vins de liqueur et assimilés ;
+
+4° 8.220 F pour les boissons alcooliques provenant de la distillation des céréales et les spiritueux vendus sous la même
+dénomination que ces boissons, à l'exception des genièvres produits dans les conditions prévues par l'article 360 et des
+genièvres importés, ainsi que pour les apéritifs à l'exception des apéritifs à base de vin définis par le décret du 31
+janvier 1930 ;
+
+Pour l'application de ce tarif sont considérés comme apéritifs [*définition*] à condition qu'ils titrent au moins 18 %
+volumique [*degré*] et qu'ils contiennent plus d'un demi-gramme d'essence par litre, les spiritueux anisés renfermant moins
+de 400 grammes de sucre par litre, les bitters, amers, goudrons, gentianes et tous produits similaires dont la teneur en
+sucre est inférieure à 200 grammes par litre.
+
+5° 6.635 F pour tous les autres produits à l'exception de ceux mentionnés à l'article 406 A-III-1° et 2°.
+
+III. Le droit de consommation prévu au titre II est réduit, le cas échéant, à concurrence du droit de fabrication liquidé sur
+le même produit.
+
+IV. A l'égard des alcools bénéficiant d'un tarif réduit, l'administration peut prescrire toutes mesures de contrôle,
+d'identification ou autres, afin d'assurer l'utilisation de ces alcools aux usages comportant l'application dudit tarif.
+
+(1) Compte tenu de l'intégration des surtaxes prévues aux articles 3-II-1 et 13-I-3 de la loi de finances pour 1981, n°
+80-1094 du 30 décembre 1980 et des dispositions de l'article 13-II de la même loi.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°79-200 1979-03-05 ART. 4 JORF 11 MARS 1979
+	  - Loi n°80-1094 1980-12-30 ART. 3 II, V, ART. 13 I, II, V JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 13 (P) JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 3 (P) JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
+
 	**Cite**:
 
+	  - Loi n°80-1094 1980-12-30 ART. 3 II 1, ART. 13 I 3, II FINANCES POUR 1981
 	  - CGI 360
-	  - CGIAN4 53
-	  - CGIAN4 54
+	  - CGI 406 A II 1°, 2°
+	  - CGI 406 A III 1°, 2°
+	  - CGI 417
 	  - Décret n°1930-01-31
 
-	**Liens**:
+	**Codifié par**:
 
-	  - TXT_ASSOCIE: CGI 406 D, 406 QUINQUIES (DOM - CORSE)
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 55 (VT)
+	  - Arrêté du 19 décembre 2008 (V)
+	  - Arrêté du 19 décembre 2008 - art. 1 (V)
+	  - Arrêté du 29 décembre 2008 (V)
+	  - Arrêté du 19 octobre 2009 - art. 1 (V)
+	  - Arrêté du 7 novembre 2011 - art. 9 (V)
+	  - Arrêté du 22 décembre 2011 - art. 1 (V)
+	  - Arrêté du 15 décembre 2012 (V)
+	  - Arrêté du 15 décembre 2012 - art. 1 (V)
+	  - Arrêté du 29 décembre 2013 (V)
+	  - Arrêté du 29 décembre 2013 - art. 1 (V)
+	  - Arrêté du 19 décembre 2014 - art. 1 (V)
+	  - Arrêté du 18 décembre 2015 (V)
+	  - Arrêté du 18 décembre 2015 - art. 1 (V)
+	  - Décret n°2016-1585 du 24 novembre 2016 (V)
+	  - Code de commerce - art. L443-1 (V)
+	  - Code de commerce - art. L914-2 (V)
+	  - Code de commerce - art. L924-6 (V)
+	  - Code de commerce - art. L954-7 (V)
+	  - Code général des impôts annexe 1, CGIAN1. - art. 59 (V)
+	  - Code général des impôts, CGI. - art. 1698 C (VD)
+	  - Code général des impôts, CGI. - art. 1698 D (M)
+	  - Code général des impôts, CGI. - art. 302 B (VD)
+	  - Code général des impôts, CGI. - art. 302 D (V)
+	  - Code général des impôts, CGI. - art. 317 (V)
+	  - Code général des impôts, CGI. - art. 406 quinquies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H septies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 169-0 A (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 C (V)
+	  - Code rural - art. L731-3 (V)
+	  - Code rural - art. L732-58 (V)
 
 
-###### Article 406 D
+###### Article 406 A
 
-Les impositions prévues à l'article 406 A sont applicables dans les départements d'outre-mer. Toutefois, dans ces
-départements, les apéritifs définis à l'article 406 A-1° supportent le tarif du droit de fabrication prévu au 2° du même
-article, et les boissons alcooliques provenant de la distillation des céréales et les spiritueux vendus sous la même
-dénomination que ces boissons, le tarif prévu à l'article 406 A-1° diminué de 100 F.
+Les produits alcooliques ci-après supportent un droit de fabrication dont le tarif par hectolitre d'alcool pur est fixé à :
+
+I. 1° et 2° (Abrogés).
+
+II. A compter du 1er février 1982 [*date, point de départ*], à :
+
+1° 715 F [*montant*] pour les produits de parfumerie et de toilette ;
+
+2° 275 F pour les produits à base d'alcool ayant un caractère exclusivement médicamenteux ou impropres à la consommation de
+bouche, figurant sur une liste établie par arrêté (1) du ministre de l'économie et des finances, ainsi que pour les alcools
+et les produits à base d'alcool impropres à la consommation en l'état destinés à des usages également déterminés par arrêtés
+(1).
+
+III. Pour la période du 1er février 1981 au 31 janvier 1982, le droit de fabrication sur les produits énumérés au II est
+porté à (2) :
+
+1° 730 F pour les produits de parfumerie et de toilette ;
+
+2° 280 F pour les produits à base d'alcool ayant un caractère exclusivement médicamenteux ou impropres à la consommation de
+bouche, figurant sur une liste établie par arrêté (1) du ministre de l'économie et des finances, ainsi que pour les alcools
+et les produits à base d'alcool impropres à la consommation en l'état destinés à des usages également déterminés par arrêtés
+(1).
+
+(1) Annexe IV, art. 53 et 54.
+
+(2) Compte tenu de l'intégration de la surtaxe prévue à l'article 3-II-2 de la loi de finances pour 1981, n° 80-1094 du 30
+décembre 1980.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 406 A 1°, 2°
+	  - CGIAN4 53
+	  - CGIAN4 54
+	  - Loi n°80-1094 1980-12-30 ART. 3 II 2 FINANCES POUR 1981
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°80-1094 1980-12-30 ART. 3 II, V, ART. 13 III FINANCES POUR 1981 JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 13 (P) JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 3 (P) JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 ##### VINS.
@@ -41507,23 +41726,57 @@ fraîches utilisés pour l'édulcoration des cidres et poirés.
 
 ###### Article 438
 
-1  Il est perçu un droit de circulation, dont le tarif est fixé, par hectolitre, à l'exclusion de toute majoration, à :
+Il est perçu un droit de circulation, dont le tarif est fixé, par hectolitre :
 
-- 22,50 F pour les vins doux naturels soumis au régime fiscal des vins et les vins mousseux bénéficiant de l'appellation
-d'origine contrôlée "Champagne";
+I. 1. A compter du 1er février 1982 [*date, point de départ*], à :
 
-- 9 F pour tous les autres vins;
+- 50,70 F pour les vins doux naturels mentionnés à l'article 417 et les vins mousseux bénéficiant de l'appellation d'origine
+contrôlée "Champagne" ;
 
-- 3,10 F pour les cidres, les poirés, les hydromels et les jus de raisin légèrement fermentés dénommés "pétillants de
+- 20,30 F pour tous les autres vins ;
+
+- 7 F pour les cidres, les poirés, les hydromels et les jus de raisin légèrement fermentés dénommés "pétillants de raisin".
+
+2. Le droit de circulation prévu au 1 est ramené à :
+
+- 11,70 F [*montant*] pour l'ensemble des vins ;
+
+- 5 F pour les cidres, poirés, hydromels et "pétillants de raisin", transportés ou expédiés par un récoltant de l'une à
+l'autre de ses caves en dehors du rayon de franchise ou cédés par lui à titre gratuit à ses parents en ligne directe.
+
+II. Pour la période du 1er février 1981 au 31 janvier 1982, le droit est porté à (1) :
+
+- 67,60 F pour les vins doux naturels mentionnés à l'article 417 et les vins mousseux bénéficiant de l'appellation d'origine
+contrôlée ;
+
+- 27,00 F pour tous les autres vins ;
+
+- 9,40 F pour les cidres, les poirés, les hydromels et les jus de raisin légèrement fermentés dénommés "pétillants de
 raisin".
 
-2  Le droit de circulation prévu au 1 est ramené à :
+Dans le cas prévu au I-2, le droit est porté à :
 
-5,20 F [*montant*] pour l'ensemble des vins,      2,20 F pour les cidres, poirés, hydromels et "pétillants de raisin",
-transportés ou expédiés par un récoltant de l'une à l'autre de ses caves en dehors du rayon de franchise ou cédés par lui à
-titre gratuit à ses parents en ligne directe.
+- 15,60 F pour l'ensemble des vins ;
+
+- 6,60 F pour les cidres, les poirés, les hydromels et les jus de raisin légèrement fermentés dénommés "pétillants de
+raisin".
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°80-1094 1980-12-30 ART. 3 III FINANCES POUR 1981
+	  - CGI 417
+
+	**Modifié par**:
+
+	  - Loi n°80-1094 1980-12-30 ART. 3 III, V, ART. 13 IV FINANCES POUR 1981 JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 13 (P) JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 3 (P) JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 	**Cité par**:
 
@@ -41560,10 +41813,6 @@ titre gratuit à ses parents en ligne directe.
 	  - Code rural - art. L731-3 (V)
 	  - Code rural et  de la pêche maritime - art. L664-8 (T)
 	  - Code rural et de la pêche maritime - art. L731-2 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### CIRCULATION.
@@ -42015,31 +42264,53 @@ du service des impôts.
 
 ###### Article 520 A
 
-I  Il est institué sur les bières et les boissons non alcoolisées énumérées ci-après un droit spécifique dont le tarif, par
+I. Il est institué sur les bières et les boissons non alcoolisées énumérées ci-après un droit spécifique dont le tarif, par
 hectolitre en volume, est fixé à :
 
-3,50 F [*montant*] pour les eaux minérales naturelles ou artificielles, eaux de table, eaux de laboratoire filtrées,
+1. 3,50 F [*montant*] pour les eaux minérales naturelles ou artificielles, eaux de table, eaux de laboratoire filtrées,
 stérilisées ou pasteurisées, ainsi que pour les boissons gazéifiées ou non, ne renfermant pas plus d'un degré d'alcool,
 commercialisées en fûts, bouteilles ou boîtes à l'exception des sirops et des jus de fruits et de légumes et des nectars de
-fruits;
+fruits ;
 
-4,50 F pour les bières dont le degré est inférieur ou égal à 4,6°. ou qui sont conditionnées en récipients d'une contenance
-comprise entre 65 centilitres et 1 litre;
+2. A compter du 1er février 1982 [*date, point de départ*] :
 
-8 F pour les bières autres que celles visées ci-dessus.
+- 10,20 F pour les bières dont le degré est inférieur ou égal à 4,6 degrés ou qui sont conditionnées en récipients d'une
+contenance comprise entre 65 centilitres et 1 litre ;
 
-II  Le droit est dû par les fabricants, exploitants de sources ou importateurs sur toutes les quantités commercialisées sur
-le marché intérieur, y compris la Corse et les départements d'outre-mer [*redevables*].
+- 18 F pour les bières autres que celles visées ci-dessus.
+
+3. Pour la période du 1er février 1981 au 31 janvier 1982, le droit spécifique sur les bières est porté à (1) :
+
+- 13,60 F pour les bières dont le degré est inférieur ou égal à 4,6 degrés ou qui sont conditionnées en récipients d'une
+contenance comprise entre 65 centilitres et 1 litre ;
+
+- 24 F pour les bières autres que celles visées ci-dessus.
+
+II. Le droit est dû par les fabricants, exploitants de sources ou importateurs sur toutes les quantités commercialisées sur
+le marché intérieur, y compris la Corse et les départements d'outre-mer [*DOM*].
 
 Les industriels ou grossistes qui reçoivent des bières en vrac sont substitués aux fabricants ou importateurs pour le
 paiement de l'impôt sur les quantités qu'ils conditionnent en fûts, bouteilles ou autres récipients.
 
 Le droit est liquidé lors du dépôt, au service des impôts dont dépend le redevable, du relevé des quantités commercialisées
-au cours du mois précédent. Ce relevé doit être déposé et l'impôt acquitté avant le 25 de chaque mois [*date limite*].
+au cours du mois précédent. Ce relevé doit être déposé et l'impôt acquitté avant le 25 de chaque mois [*périodicité, date
+limite*].
 
-III  Les modalités d'application des dispositions qui précèdent seront, en tant que de besoin, fixées par décret.
+III. Les modalités d'application des dispositions qui précèdent seront, en tant que de besoin, fixées par décret.
+
+(1) Compte tenu de l'intégration de la surtaxe prévue à l'article 3-III, troisième alinéa, de la loi de finances pour 1981,
+n° 80-1094 du 30 décembre 1980.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 13 (P) JORF 31 DECEMBRE 1980 en vigueur le 1er JANVIER 1981
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 3 (P) JORF 31 DECEMBRE 1980 en vigueur le 1er JANVIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 	**Cité par**:
 
@@ -42073,9 +42344,9 @@ III  Les modalités d'application des dispositions qui précèdent seront, en ta
 	  - Code rural - art. L731-3 (V)
 	  - Code rural et de la pêche maritime - art. L731-2 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°81-1094 1981-12-30 ART. 3 III AL. 3 FINANCES POUR 1981
 
 
 #### GARANTIE DES MATIERES D'OR, D'ARGENT ET DE PLATINE
@@ -53819,18 +54090,26 @@ la taxe sur la valeur ajoutée fixés aux articles 278 à 281 bis I.
 ###### Article 1615 bis
 
 Il est effectué au profit du budget annexe des prestations sociales agricoles un prélèvement de 100 F [*montant*] par
-hectolitre d'alcool pur sur le produit du droit de fabrication visé à l'article 406-A-1° perçu dans les départements
-métropolitains.
+hectolitre d'alcool pur sur le produit du droit de consommation mentionné aux articles 403-I-4° et 403-II-4° et 5° perçu dans
+les départements métropolitains.
+
+(1) Disposition applicable à compter du 1er février 1982.
+
+(2) Pour la période du 1er février 1981 au 31 janvier 1982.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 406 A 1°
+	  - CGI 403 I 4°, II 4°, 5°
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 13 (P) JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 ###### Article 1618 bis
