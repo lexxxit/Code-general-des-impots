@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1991-06-24
+Version Consolidée au 1991-07-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9206,6 +9206,110 @@ Le bénéfice est arrêté dans les conditions prévues à l'article L 7 du livr
 	**Abrogé par**:
 
 	  - Loi - art. 7 (V) JORF 31 décembre 1998
+
+
+##### 2 bis : Régime déclaratif spécial - Recettes annuelles n'excédant pas 70.000 F
+
+###### Article 102 ter
+
+1 Le bénéfice imposable des contribuables qui perçoivent des revenus non commerciaux d'un montant annuel n'excédant pas 70
+000 F est égal au montant brut des recettes annuelles diminué d'une réfaction forfaitaire de 25 p. 100 avec un minimum de 2
+000 F.
+
+La limite de 70 000 F s'apprécie abstraction faite de la taxe sur la valeur ajoutée. Le cas échéant, elle est ajustée au
+prorata du temps d'activité au cours de l'année civile.
+
+2 Les contribuables visés au 1 portent directement le montant des recettes brutes annuelles sur la déclaration prévue à
+l'article 170.
+
+3 Les dispositions prévues aux 1 et 2 demeurent applicables pour l'établissement de l'imposition due au titre de la première
+année au cours de laquelle le chiffre d'affaires limite défini au 1 est dépassé sans toutefois qu'il excède 100 000 F.
+
+4 Les dispositions prévues à l'article 101 bis demeurent applicables.
+
+5 Les contribuables qui souhaitent renoncer au bénéfice du présent article peuvent opter pour le régime visé à l'article 101
+ou celui visé à l'article 97.
+
+Cette option doit être exercée dans les délais prévus pour le dépôt de la déclaration visée à l'article 97 ou à l'article 101
+selon que le contribuable souhaite bénéficier de l'un ou l'autre de ces régimes.
+
+Les contribuables dont le chiffre d'affaires d'une année provenant d'une activité non commerciale est inférieur à 70 000 F,
+qui ont opté au titre de l'année précédente pour l'un des régimes visés à l'alinéa ci-dessus, ne peuvent bénéficier du régime
+défini au présent article.
+
+6 Les contribuables qui ne bénéficient pas des dispositions des I et II de l'article 293 B sont exclus du bénéfice du présent
+article à compter du 1er janvier de l'année de leur assujettissement à la taxe sur la valeur ajoutée.
+
+7 Les dispositions des 1 à 6 ci-dessus sont applicables pour la détermination des bénéfices des années 1991 et suivantes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 170, 101 bis, 101, 97, 293 B
+
+	**Créé par**:
+
+	  - Loi - art. 20 () JORF 31 décembre 1991
+
+	**Cité par**:
+
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 56 (V)
+	  - Décret n°2014-1531 du 17 décembre 2014 - art. 4
+	  - Décret n°2015-1709 du 21 décembre 2015 - art. 1
+	  - Décret n°2015-1709 du 21 décembre 2015 - art. 2
+	  - Loi n°2015-1702 du 21 décembre 2015 - art. 15
+	  - Décret n°2016-193 du 25 février 2016 - art. 4
+	  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+	  - Décret n°2017-301 du 8 mars 2017 - art. 2
+	  - Décret n°2017-301 du 8 mars 2017 - art. 4
+	  - Décret n°2017-700 du 2 mai 2017 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1740 B (V)
+	  - Code de commerce - art. L526-13 (V)
+	  - Code de commerce - art. R526-10-1 (V)
+	  - Code de l'action sociale et des familles - art. R262-19 (VD)
+	  - Code de la défense. - art. L4139-6-1 (V)
+	  - Code de la sécurité sociale. - art. D131-6-1 (M)
+	  - Code de la sécurité sociale. - art. D131-6-4 (V)
+	  - Code de la sécurité sociale. - art. D133-17 (VD)
+	  - Code de la sécurité sociale. - art. D161-1-1-2 (M)
+	  - Code de la sécurité sociale. - art. L131-6 (M)
+	  - Code de la sécurité sociale. - art. L131-6-2 (VT)
+	  - Code de la sécurité sociale. - art. L133-6-8 (VD)
+	  - Code de la sécurité sociale. - art. L161-1-1 (V)
+	  - Code de la sécurité sociale. - art. R133-30-1 (V)
+	  - Code de la sécurité sociale. - art. R133-30-2 (V)
+	  - Code de la sécurité sociale. - art. R133-30-5 (V)
+	  - Code de la sécurité sociale. - art. R845-2 (VD)
+	  - Code général des impôts, CGI. - art. 103 (V)
+	  - Code général des impôts, CGI. - art. 1417 (V)
+	  - Code général des impôts, CGI. - art. 151-0 (VD)
+	  - Code général des impôts, CGI. - art. 163 quatervicies (V)
+	  - Code général des impôts, CGI. - art. 1647 B sexies (VD)
+	  - Code général des impôts, CGI. - art. 1649-0 A (P)
+	  - Code général des impôts, CGI. - art. 1655 sexies (V)
+	  - Code général des impôts, CGI. - art. 199 quater B (V)
+	  - Code général des impôts, CGI. - art. 200 sexies (Ab)
+	  - Code général des impôts, CGI. - art. 202 (VD)
+	  - Code général des impôts, CGI. - art. 204 G (VD)
+	  - Code général des impôts, CGI. - art. 44 duodecies (V)
+	  - Code général des impôts, CGI. - art. 44 octies (V)
+	  - Code général des impôts, CGI. - art. 44 octies A (V)
+	  - Code général des impôts, CGI. - art. 44 quaterdecies (V)
+	  - Code général des impôts, CGI. - art. 44 sexies A (V)
+	  - Code général des impôts, CGI. - art. 44 terdecies (V)
+	  - Code général des impôts, CGI. - art. 75 (V)
+	  - Code général des impôts, CGI. - art. 96 (V)
+	  - Code général des impôts, CGI. - art. 96 B (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 QA (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 W (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis L (V)
+	  - Livre des procédures fiscales - art. L252 B (VD)
+	  - Livre des procédures fiscales - art. L73 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### 3 : Dispositions communes
@@ -58335,49 +58439,6 @@ période qui reste à courir à compter de l'année au cours de laquelle ces lot
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1385 (V)
-
-
-##### Autres locaux
-
-###### Article 1387 A
-
-Pour les logements à usage locatif appartenant aux organismes d'habitations à loyer modéré et aux sociétés d'économie mixte,
-le département peut, par une délibération prise dans les conditions prévues à l'article 1639 A bis, prolonger, pendant une
-durée qu'il détermine, la durée des exonérations mentionnées aux articles 1384 et 1384 A et au paragraphe II bis de l'article
-1385 pour la taxe foncière sur les propriétés bâties perçue à son profit (1).
-
-(1) Les obligations déclaratives des personnes et organismes entrant dans le champ d'application du présent article sont
-fixées par décret.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1384
-	  - CGI 1384 A
-	  - CGI 1385 II bis
-	  - CGI 1639 A bis
-
-	**Nouveaux textes**:
-
-	  - CGI 1586 A
-
-	**Créé par**:
-
-	  - Loi n°90-449 du 31 mai 1990 - art. 10 (V) JORF 2 juin 1990
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°91-397 1991-04-23
-
-	**Cité par**:
-
-	  - Décret n°91-397 du 23 avril 1991 - art. 2 (V)
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 24 (V)
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
 
 
 ##### D : Base d'imposition
