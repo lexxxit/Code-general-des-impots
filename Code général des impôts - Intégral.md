@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1984-01-01
+Version Consolidée au 1984-01-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3758,6 +3758,55 @@ finances.
 	  - CGI 125 A
 
 
+###### Article 131 sexies
+
+I Les produits d'actions, de parts sociales ou de parts bénéficiaires distribués par des sociétés françaises, ainsi que les
+produits mentionnés à l'article 118 qui bénéficient à des organisations internationales, à des Etats souverains étrangers ou
+aux banques centrales de ces Etats, sont exonérés des retenues ou du prélèvement prévus aux articles 119 bis et 125 A.
+
+Ces placements ne doivent pas constituer un investissement direct au sens de la loi n° 66-1008 du 28 décembre 1966 relative
+aux relations financières avec l'étranger et des textes réglementaires pris pour son application. Les titres doivent revêtir
+la forme nominative ou être déposés auprès d'un établissement de crédit établi en France.
+
+II Sur agrément du ministre de l'économie et des finances, les retenues ou le prélèvement prévus aux articles 119 bis et 125
+A peuvent être réduits ou supprimés en ce qui concerne :
+
+Les produits mentionnés au I qui bénéficient à des institutions publiques étrangères;
+
+Les produits mentionnés aux articles 124 et 1678 bis et ceux afférents à des placements constituant des investissements
+directs en France au sens du I qui bénéficient à des organisations internationales, à des Etats souverains étrangers, aux
+banques centrales de ces Etats ou à des institutions financières publiques étrangères.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 118
+	  - CGI 119 bis
+	  - CGI 124
+	  - CGI 125 A
+	  - CGI 1678 bis
+	  - Loi n°66-1008 1966-12-28
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 244 bis A (V)
+	  - Code général des impôts, CGI. - art. 244 bis B (V)
+	  - Code général des impôts, CGI. - art. 244 bis C (V)
+
+
 ##### 10° : Obligations reçues en échange d'actions de sociétés concernées par l'extension du secteur public
 
 ###### Article 132 ter
@@ -3850,6 +3899,35 @@ de la loi du 28 juin 1941 ou pour le compte de ces organismes (1).
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### 13° : Financement de certaines opérations d'exportation
+
+###### Article 136
+
+Sont dispensés de la retenue à la source les intérêts, arrérage s et tous autres produits des emprunts obligataires
+contractés avant le 1er janvier 1965 par les établissements de crédit, dans la mesure où il est justifié que le montant de
+ces emprunts est et demeure affecté au financement des opérations d'exportation bénéficiant des garanties prévues par la
+législation relative à l'assurance crédit d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 135 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 138 (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
 
 
 ##### 15° : Habitations à loyer modéré
@@ -8279,6 +8357,33 @@ d'apprentissage et pris en compte pour la détermination de la fraction de taxe 
 	  - Loi n°77-767 1977-07-12 art. 4, art. 5
 
 
+###### Article 227 bis
+
+En application de l'article L 118-3-1 du code du travail, les employeurs relevant du secteur des établissements de crédit et
+des assurances où existaient, avant le 1er janvier 1977, des centres de formation qui leur étaient propres, peuvent
+s'exonérer de la fraction de taxe d'apprentissage indiquée à l'article 227 en apportant des concours financiers à ces centres
+s'ils prennent l'engagement défini par l'article L 118-3-1 du code précité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 227
+	  - Code du travail - art. L118-3-1 (T)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+
 ###### Article 228
 
 Les exonérations ne peuvent être accordées qu'à concurrence des dépenses réellement exposées en vue de favoriser les
@@ -10835,6 +10940,32 @@ d'incessibilité auprès d'un intermédiaire agréé choisi sur une liste fixée
 	**Créé par**:
 
 	  - Loi n°82-155 du 11 février 1982 - art. 50 (V) JORF 13 février 1982
+
+
+##### 4° : Redevances versées par les sociétés nationalisées
+
+###### Article 248 D
+
+Les redevances versées à la caisse nationale de l'industrie ou à la caisse nationale des banques en application des articles
+11 et 26 de la loi de nationalisation n° 82-155 du 11 février 1982 par les sociétés et les établissements de crédit
+nationalisés ainsi que par les compagnies mentionnées à l'article 29 de la même loi ne sont pas déductibles du résultat
+imposable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Cite**:
+
+	  - Loi n°82-155 du 11 février 1982 - art. 11 (Ab)
+	  - Loi n°82-155 du 11 février 1982 - art. 26 (Ab)
+	  - Loi n°82-155 du 11 février 1982 - art. 29 (V)
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 26 janvier 1984
 
 
 ### Titre II : Taxes sur le chiffre d'affaires et taxes assimilées
@@ -26552,6 +26683,33 @@ des caisses d'épargne et de prévoyance et des textes d'application, sont exon�
 	  - Loi n°83-557 du 1 juillet 1983 - art. 26 (Ab) JORF 2 juillet 1983
 
 
+##### 3° : Entreprises de crédit différé
+
+###### Article 1064
+
+Les transferts de leurs engagements et des actifs correspondants effectués par les entreprises de crédit différé à une autre
+société fonctionnant conformément aux dispositions de la loi n° 52-332 du 24 mars 1952 modifiée sont exonérés de tous droits
+d'enregistrement et de taxe de publicité foncière. 
+
+Les actes et documents, les formalités et, d'une manière générale, toutes les opérations nécessaires à l'exécution des
+conventions passées en application du I de l'article 1er de la loi n° 54-417 du 15 avril 1954, relative aux sociétés de
+crédit différé en liquidation ou en faillite sont exonérés de taxe de publicité foncière lorsqu'ils se réfèrent à ce texte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Cite**:
+
+	  - Loi n°52-332 du 24 mars 1952 (V)
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 XIV JORF 25 janvier 1984
+
+
 ##### Entreprises d'assurances et de capitalisation
 
 ###### Article 1065
@@ -34073,6 +34231,54 @@ en Conseil d'Etat prévu à l'article 1681 E.
 	  - Code général des impôts, CGI. - art. 199 novodecies (P)
 
 
+###### Article 1681 D
+
+Les prélèvements mensuels sont opérés à l'initiative du Trésor public, sur un compte qui, sous réserve du décret en Conseil
+d'Etat prévu à l'article 1681 E, peut être :
+
+1° Un compte de dépôt dans un établissement de crédit, une caisse de crédit agricole régie par le livre V du code rural, une
+caisse de crédit mutuel, une caisse de crédit municipal, un centre de chèques postaux, ou chez un comptable du Trésor ;
+
+2° Un compte d'épargne dans une caisse d'épargne.
+
+Ces opérations n'entraîneront aucun frais pour le contribuable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1681 E
+	  - Décret n°71-661 1971-08-11
+	  - Décret n°72-540 1972-06-29
+	  - Décret n°73-592 1973-06-29
+	  - Décret n°74-609 1974-06-25
+	  - Décret n°75-730 1975-08-04
+	  - Décret n°76-778 1976-08-13
+	  - Décret n°78-858 1978-08-10
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1681 quater A (V)
+	  - Code général des impôts, CGI. - art. 1681 sexies (M)
+	  - Code général des impôts, CGI. - art. 199 novodecies (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 382 C (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 382 D (VD)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 188 bis (Ab)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 188 ter (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+
 ###### Article 1681 E
 
 Un décret en Conseil d'Etat fixe les modalités d'application des dispositions des articles 1681 A à 1681 D et, notamment en
@@ -35319,8 +35525,7 @@ constructions.
 
 Sont tenus solidairement au versement prévu à l'article L 112-2 du code de l'urbanisme :
 
-a° Les banques, établissements financiers ou sociétés de caution mutuelle qui sont garants de l'achèvement de la
-construction ;
+a° Les établissements de crédit ou sociétés de caution mutuelle qui sont garants de l'achèvement de la construction ;
 
 b° Les titulaires successifs de l'autorisation de construire ainsi que leurs ayants cause autres que les personnes qui ont
 acquis les droits sur l'immeuble à construire en vertu d'un contrat régi par les articles L 261-9 à L 261-22 du code de la
@@ -35340,15 +35545,15 @@ construction et de l'habitation.
 	  - CGIAN4 204
 	  - Code de l'urbanisme - art. L112-2 (M)
 	  - Code de l'urbanisme - art. L333-11 (Ab)
-	  - Code de la construction L261-9 A Code de la construction L261-22
+	  - Code de la construction L261-9 à Code de la construction L261-22
 
 	**Modifié par**:
 
-	  - Décret n°78-621 1978-05-31 ART. 2 JORF 8 JUIN 1978
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 	**Codifié par**:
 
-	  - Décret n°82-881 1982-10-15
+	  - Décret n°84-875 1984-10-01
 
 
 ###### Article 1723 duodecies
@@ -38125,6 +38330,36 @@ de chèque en blanc, payables à leur caisse, doivent, sous peine, pour chaque c
 	  - HISTO: Edition du 11 avril 1997
 
 
+###### Article 1840 N sexies
+
+Les infractions aux dispositions de l'article 1er de la loi du 22 octobre 1940 relatives aux règlements par chèques et
+virements, modifiée, qui prescrit d'effectuer certains règlements par chèque barré ou par virement bancaire ou postal, sont
+punies d'une amende fiscale dont le montant est fixé à 5 % des sommes indûment réglées en numéraire. Cette amende, qui est
+recouvrée comme en matière de timbre, incombe pour moitié au débiteur et au créancier, mais chacun d'eux est solidairement
+tenu d'en assurer le règlement total.
+
+(1) En ce qui concerne la constatation des infractions, voir livre des procédures fiscales, art. L. 225 A.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L225 A (M)
+	  - Loi n°1940-10-22 art. 1
+
+
 ###### Article 1840 N ter
 
 Les infractions à l'article 1004 sont punies d'une amende de 100 F [*montant*].
@@ -38534,6 +38769,75 @@ préjudicier aux droits et privilèges de l'administration.
 	**Modifié par**:
 
 	  - Loi n°83-1159 du 24 décembre 1983 - art. 16 () JORF 28 décembre 1983
+
+
+### Section IV : Droits d'enregistrement, taxe de publicité foncière, droits de timbre, autres droits et taxes assimilés
+
+###### Article 1929
+
+1. Pour les recouvrements confiés au service des impôts en vertu de la présente codification, l'Etat a, lorsque les
+dispositions prévues aux articles 1920, 1923 à 1928 ne leur sont pas applicables, un privilège sur tous les meubles et effets
+mobiliers des redevables.
+
+Ce privilège s'exerce immédiatement après celui de l'impôt sur le chiffre d'affaires et des taxes instituées en remplacement
+de cet impôt.
+
+2. Indépendamment du privilège visé au 1, le Trésor dispose, pour le recouvrement des droits de mutation par décès, d'une
+hypothèque légale sur les immeubles de la succession qui prend rang du jour de son inscription à la conservation des
+hypothèques dans la forme et de la manière prescrite par la loi.
+
+3. Pour la garantie du paiement des droits complémentaires et supplémentaires éventuellement exigibles en vertu de l'article
+1840 G bis, le Trésor possède sur les immeubles du groupement forestier ou sur l'immeuble objet de la mutation une hypothèque
+légale qui prend rang du jour de son inscription à la conservation des hypothèques sur tout ou partie de ces biens dans la
+forme et de la manière prescrite par la loi.
+
+En cas de cession à l'Etat d'un bois ou d'une forêt grevé de l'hypothèque légale, celle-ci s'éteint de plein droit. Lorsque
+la sûreté a été cantonnée sur le bien cédé, les droits complémentaires et supplémentaires correspondant à d'autres biens
+deviennent exigibles et sont colloqués sur le prix de vente au rang de l'inscription si l'hypothèque légale n'a pu être
+inscrite en rang utile sur ces autres biens préalablement à la cession.
+
+4. Sont tenus solidairement au paiement de la taxe locale d'équipement :
+
+a. Les établissements de crédit ou sociétés de caution mutuelle qui sont garants de l'achèvement de la construction ;
+
+b. Les titulaires successifs de l'autorisation de construire ainsi que leurs ayants cause autres que les personnes qui ont
+acquis les droits sur l'immeuble à construire en vertu d'un contrat régi par le titre VI du livre II de la première partie du
+code de la construction et de l'habitation [*art. L.261-1 à L.261-22 et art. R.261-1 à R.261-33*] relatif aux ventes
+d'immeubles à construire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1840 G bis
+	  - CGI 1920
+	  - CGI 1923
+	  - CGI 1924
+	  - CGI 1925
+	  - CGI 1926
+	  - CGI 1927
+	  - CGI 1928
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 95 () JORF 30 décembre 1983
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+	**Cité par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - Code de l'urbanisme - art. L331-27 (V)
+	  - Code du patrimoine. - art. L524-10 (Ab)
+	  - Code général des impôts, CGI. - art. 1723 decies (Ab)
+	  - Code général des impôts, CGI. - art. 1723 quater (VT)
+	  - Code général des impôts, CGI. - art. 1723 ter-00 A (VD)
+	  - Code général des impôts, CGI. - art. 644 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 406 ter (VT)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
 
 
 ### Section V : Dispositions communes
@@ -39210,46 +39514,6 @@ conditions fixées par les articles 1663 et 1761.
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1681 ter B (VT)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1681 D
-
-Les prélèvements mensuels sont opérés à l'initiative du Trésor public, sur un compte qui, sous réserve du décret en Conseil
-d'Etat prévu à l'article 1681 E, peut être :
-
-1° Un compte de dépôt dans une banque, une caisse de crédit agricole régie par le livre V du code rural, une caisse de crédit
-mutuel, une caisse de crédit municipal, un centre de chèques postaux, ou chez un comptable du Trésor;
-
-2° Un compte d'épargne dans une caisse d'épargne.
-
-Ces opérations n'entraîneront aucun frais pour le contribuable.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1681 E
-	  - Décret n°71-661 1971-08-11
-	  - Décret n°72-540 1972-06-29
-	  - Décret n°73-592 1973-06-29
-	  - Décret n°74-609 1974-06-25
-	  - Décret n°75-730 1975-08-04
-	  - Décret n°76-778 1976-08-13
-	  - Décret n°78-858 1978-08-10
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 1681 quater A (V)
-	  - Code général des impôts, CGI. - art. 1681 sexies (M)
-	  - Code général des impôts, CGI. - art. 199 novodecies (P)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 382 C (VD)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 382 D (VD)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 188 bis (Ab)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 188 ter (Ab)
 
 	**Liens**:
 
@@ -40441,18 +40705,16 @@ ne donne caution suffisante jusqu'à la production des justifications exigibles.
 
 ###### Article 1756 bis
 
-I. Nonobstant toutes dispositions contraires, mais sans préjudice des règles particulières concernant les caisses d'épargne,
-les entreprises, établissements ou organismes qui reçoivent du public, sous forme de dépôt ou autrement, des fonds
-remboursables à vue ou à moins de trois ans ne peuvent, sans contrevenir à l'interdiction faite par l'article 17 de la loi n°
-56-760 du 2 août 1956, directement ou indirectement, par quelque moyen que ce soit, payer sur les sommes ainsi reçues des
-intérêts à des taux supérieurs à ceux qui résultent des décisions du conseil national du crédit en ce qui concerne les
-organismes relevant de la compétence de celui-ci, ou qui sont fixés par le ministre de l'économie et des finances après avis
-du conseil national du crédit.
+I. Nonobstant toutes dispositions contraires, il est interdit à tout établissement de crédit qui reçoit du public des fonds à
+vue ou à moins de cinq ans, et par quelque moyen que ce soit, de verser sur ces fonds une rémunération supérieure à celle
+fixée, selon les cas, par le comité de la réglementation bancaire ou par décret ou par le ministre chargé de l'économie et
+des finances ; il lui est également interdit d'ouvrir ou de maintenir ouverts dans des conditions irrégulières des comptes
+bénéficiant d'une aide publique, notamment sous forme d'exonération fiscale, ou d'accepter sur ces comptes des sommes
+excédant les plafonds autorisés.
 
-Sans préjudice, le cas échéant, des sanctions disciplinaires prévues par les textes régissant les entreprises, établissements
-ou organismes intéressés, les infractions aux dispositions du présent article sont punies d'une amende fiscale dont le taux
-est fixé à vingt fois le montant des intérêts payés, sans que cette amende puisse être inférieure à 500 F [*montant
-minimum*].
+Sans préjudice des sanctions disciplinaires qui peuvent être infligées par la commission bancaire, les infractions aux
+dispositions du présent article sont punies d'une amende fiscale dont le taux est fixé à vingt fois le montant des intérêts
+payés, sans que cette amende puisse être inférieure à 500 F [*montant minimum*].
 
 Un décret pris sur le rapport du ministre de l'économie et des finances fixe les modalités d'application du présent article,
 et notamment les conditions dans lesquelles seront constatées et poursuivies les infractions (1).
@@ -40466,17 +40728,16 @@ régime de l'épargne populaire créé par la loi n° 82-357 du 27 avril 1982 po
 
 	**Cite**:
 
-	  - CGIAN3 406 A 16 A A CGIAN3 406 A 16 F
-	  - Loi n°56-760 du 2 août 1956 - art. 17, v. init.
+	  - CGIAN3 406 A 16 A à CGIAN3 406 A 16 F
 	  - Loi n°82-357 1982-04-27
 
 	**Codifié par**:
 
-	  - Décret n°82-881 1982-10-15
+	  - Décret n°84-875 1984-10-01
 
 	**Modifié par**:
 
-	  - Loi n°82-357 du 27 avril 1982 - art. 7 (Ab) JORF 28 AVRIL 1982
+	  - Loi n°84-46 1984-01-24 art. 90 JORF 25 janvier 1984
 
 
 ###### Article 1756 quater
@@ -41679,30 +41940,6 @@ l'amende, liquidées comme il est dit à l'article L. 314-9 précité, sont reco
 	  - Code forestier - art. L312-1 (M)
 	  - Code forestier - art. L314-9 (M)
 	  - Code forestier 314-7
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1840 N sexies
-
-Les infractions aux dispositions de l'article 1er de la loi du 22 octobre 1940 relatives aux règlements par chèques et
-virements modifiée, qui prescrit d'effectuer certains règlements par chèque barré ou par virements en banque ou à un compte
-courant postal, sont punies d'une amende fiscale dont le montant est fixé à 5 % des sommes indûment réglées en numéraire.
-Cette amende, qui est recouvrée comme en matière de timbre, incombe pour moitié au débiteur et au créancier, mais chacun
-d'eux est solidairement tenu d'en assurer le règlement total.
-
-Un arrêté du ministre chargé des finances désigne les agents qualifiés pour constater les contraventions (1).
-
-1)  Annexe IV, art. 207 quater B.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 207 quater B
-	  - Loi n°1940-10-22 ART. 1
 
 	**Liens**:
 
