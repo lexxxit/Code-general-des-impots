@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1991-08-19
+Version Consolidée au 1991-10-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -31655,15 +31655,12 @@ exécutent matériellement les services utilisés par le client ;
 
 f. Pour les travaux immobiliers, par le montant des marchés, mémoires ou factures ;
 
-g. Par la différence entre le prix de vente et le prix d'achat en ce qui concerne :
-
-- les ventes d'objets d'occasion, autres que celles portant sur les biens visés à l'article 257-13° ou à l'article 261-3-1°-
-A ;
-
-- les ventes d'oeuvres d'art originales répondant aux conditions qui sont fixées par décret, lequel précise également les
-modalités de détermination de l'assiette de la taxe (3).
-
 Des décrets peuvent fixer des bases minimales ou forfaitaires d'imposition pour les achats imposables.
+
+g. Par la différence entre le prix de vente et le prix d'achat pour les ventes de biens acquis auprès d'un particulier ou
+d'un assujetti n'ayant pas eu droit à déduction lors de leur acquisition, importation ou livraison à soi-même, autres que
+celles portant sur les biens visés au 13° de l'article 257. Cette disposition n'est pas applicable aux biens dont
+l'importation est exonérée en application du 9° du II de l'article 291 ;
 
 h. Pour les opérations d'entremise effectuées par les concessionnaires d'ouvrages de circulation routière, par la différence
 entre le montant total des péages et la fraction de ceux-ci affectée au financement des travaux de construction et des
@@ -31717,6 +31714,10 @@ de la législation sur les habitations à loyer modéré [*HLM*].
 détermination de la base d'imposition, de la valeur du droit de reprise des constructions lorsque celles-ci doivent devenir
 la propriété du bailleur en fin de bail.
 
+**Nota:**
+
+NOTA : Ces dispositions s'appliquent à compter du 1er octobre 1991, loi 91-716 art. 3 II.
+
 (1) Voir Annexe III, art. 76-1.
 
 (2) Voir, toutefois, art. 267 bis.
@@ -31750,6 +31751,7 @@ la propriété du bailleur en fin de bail.
 	  - CGI 261 3 1° A
 	  - CGI 267 bis
 	  - CGI 271
+	  - CGI 291
 	  - CGI L17
 	  - CGIAN2 248
 	  - CGIAN3 71
@@ -31757,11 +31759,7 @@ la propriété du bailleur en fin de bail.
 
 	**Modifié par**:
 
-	  - Loi - art. 33 () JORF 30 décembre 1990
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
+	  - Loi n°91-716 du 26 juillet 1991 - art. 3 (V) JORF 27 juillet 1991, en vigueur le 1er octobre 1991, art. 3 II
 
 
 ###### Article 267
@@ -41552,23 +41550,6 @@ peuvent, sous quelque forme que ce soit, être importés, fabriqués, mis en cir
 
 	  - Code général des impôts, CGI. - art. 1816 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 A (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### VI : Dispositions spéciales.
-
-###### Article 519
-
-A l'égard des formalités à la circulation prévues par la réglementation des contributions indirectes, les départements de la
-Guadeloupe, de la Guyane, de la Martinique et de la Réunion [*DOM*], d'une part, et la France métropolitaine, d'autre part,
-sont considérés respectivement comme territoires d'exportation.
-
-Il en est de même pour chacun de ces quatre départements par rapport aux trois autres.
-
-**Liens relatifs à cet article**
 
 	**Liens**:
 
