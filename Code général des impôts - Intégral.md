@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1982-07-13
+Version Consolidée au 1982-09-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5240,6 +5240,90 @@ d'administration ou du conseil de surveillance.
 	  - Loi n°2013-1278 du 29 décembre 2013 - art. 15 (V)
 
 
+###### Article 211
+
+I. Dans les sociétés à responsabilité limitée n'ayant pas opté pour le régime fiscal des sociétés de personnes dans les
+conditions prévues à l'article 3-IV du décret n° 55-594 du 20 mai 1955 modifié et dont les gérants sont majoritaires, dans
+les sociétés en commandite par actions, de même que dans les sociétés en commandite simple, les sociétés en nom collectif et
+les sociétés en participation ayant exercé l'option prévue à l'article 206-3, les traitements, remboursements forfaitaires de
+frais et toutes autres rémunérations sont, sous réserve des dispositions des articles 39-3 et 211 bis, admis en déduction du
+bénéfice de la société pour l'établissement de l'impôt, à la condition que ces rémunérations correspondent à un travail
+effectif.
+
+Les sommes retranchées du bénéfice de la société en vertu de l'alinéa précédent sont soumises à l'impôt sur le revenu au nom
+des bénéficiaires dans les conditions prévues à l'article 62.
+
+Pour l'application du présent article, les gérants qui n'ont pas personnellement la propriété de parts sociales sont
+considérés comme associés si leur conjoint ou leurs enfants non émancipés ont la qualité d'associé.
+
+Dans ce cas, comme dans celui où le gérant est associé, les parts appartenant en toute propriété ou en usufruit au conjoint
+et aux enfants non émancipés du gérant sont considérées comme possédées par ce dernier.
+
+II. Les dispositions du I ne sont pas applicables :
+
+a. (Périmé).
+
+b. Aux sociétés immobilières de copropriété visées à l'article 1655 ter.
+
+c. Aux sociétés à responsabilité limitée ayant opté pour le régime fiscal prévu par l'article 239 bis AA.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 206 3
+	  - CGI 211 bis
+	  - CGI 239 bis AA
+	  - CGI 39 3
+	  - CGI 62
+	  - Décret n°55-594 1955-05-20 ART. 3 IV
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 62 (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+
+###### Article 211 bis
+
+Pour l'application des dispositions du premier alinéa du 3 de l'article 39, relatives à la déduction des allocations
+forfaitaires qu'une société attribue à ses dirigeants ou aux cadres de son entreprise pour frais de représentation et de
+déplacement, les dirigeants s'entendent, dans les sociétés de personnes et sociétés en participation qui ont opté pour le
+régime fiscal des sociétés de capitaux, des associés en nom et des membres de ces sociétés, dans les sociétés à
+responsabilité limitée qui n'ont pas opté pour le régime fiscal des sociétés de personnes et les sociétés en commandite par
+actions, des gérants et, en ce qui concerne les sociétés anonymes, du président du conseil d'administration, du directeur
+général, de l'administrateur provisoirement délégué, des membres du directoire et de tout administrateur ou membre du conseil
+de surveillance chargé de fonctions spéciales.
+
+Ces dispositions ne sont pas applicables :
+
+a. (Périmé) ;
+
+b. Aux sociétés immobilières de copropriété visées à l'article 1655 ter.
+
+c. Aux sociétés à responsabilité limitée ayant opté pour le régime fiscal prévu par l'article 239 bis AA.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 211 (V)
+	  - Code de la construction et de l'habitation. - art. R313-17 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 B (V)
+	  - Code rural et de la pêche maritime - art. R716-33 (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+
 ###### Article 211 ter
 
 Les dispositions de l'article 39 quinquies ne sont applicables qu'aux entreprises industrielles, commerciales ou agricoles.
@@ -7720,6 +7804,83 @@ d'exemplaires de ces déclarations que doit fournir chaque contribuable.
 
 
 
+##### Section VI : Dispositions spéciales applicables aux opérations de nationalisation
+
+##### 1° : Plus-values mobilières réalisées par les entreprises
+
+###### Article 248 A
+
+Lorsque des actions de sociétés nationalisées figurent à l'actif d'une entreprise, la plus-value ou la moins-value résultant
+de l'indemnisation prévue aux articles 4,15,16 et 32 de la loi de nationalisation n° 82-155 du 11 février 1982 n'est pas
+prise en compte pour la détermination du résultat imposable de l'exercice en cours lors de sa réalisation. Les titres reçus
+en échange sont inscrits au bilan pour la même valeur comptable que celle des titres ayant ouvert droit à l'indemnisation.
+Lors de la cession ou du remboursement de tout ou partie des nouveaux titres, d'une part, ceux-ci sont réputés avoir été
+acquis à la date à laquelle les actions des sociétés nationalisées avaient été acquises par l'entreprise, d'autre part, la
+plus-value ou la moins-value est déterminée à partir de la valeur que les actions des sociétés nationalisées avaient du point
+de vue fiscal dans les écritures de l'entreprise.
+
+**Nota:**
+
+Dispositions également applicables en ce qui concerne les opérations d'échange des obligations émises par l'office national
+d'études et de recherches aérospatiales contre des actions de la société Matra (Loi n° 81-1179 du 31 décembre 1981, art. 19
+III).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Cite**:
+
+	  - Loi n°82-155 du 11 février 1982 - art. 15 (V)
+	  - Loi n°82-155 du 11 février 1982 - art. 32 (V)
+	  - Loi n°82-155 du 11 février 1982 - art. 4 (V)
+
+	**Créé par**:
+
+	  - Loi n°82-155 du 11 février 1982 - art. 47 (V) JORF 13 février 1982
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 248 E (V)
+	  - Code général des impôts, CGI. - art. 54 septies (V)
+
+
+##### 3° : Subrogation des obligations
+
+###### Article 248 C
+
+Les obligations de la caisse nationale de l'industrie et de la caisse nationale des banques attribuées aux détenteurs
+d'actions transférées à l'Etat sont subrogées de plein droit à ces actions dans tous les cas où la loi, le règlement ou les
+contrats ont, soit prévu un emploi ou un remploi de fonds en actions, soit créé ou modifié les droits portant sur ces
+actions ; les opérations ainsi intervenues sur ces actions sont réputées avoir été effectuées avec les mêmes effets sur les
+obligations de la caisse nationale de l'industrie et de la caisse nationale des banques. Ces obligations sont également
+subrogées de plein droit aux actions détenues en application des dispositions relatives à l'actionnariat et à la
+participation des salariés. Elles n'ont alors pas à revêtir la forme nominative si elles sont déposées pendant la période
+d'incessibilité auprès d'un intermédiaire agréé choisi sur une liste fixée par décret.
+
+(1) Décret n° 82-401 du 13 mai 1982 (JO du 14).
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 65 (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+	**Créé par**:
+
+	  - Loi n°82-155 du 11 février 1982 - art. 50 (V) JORF 13 février 1982
+
+
 ### Titre II : Taxes sur le chiffre d'affaires et taxes assimilées
 
 #### Chapitre premier : Taxe sur la valeur ajoutée
@@ -8992,6 +9153,31 @@ poursuivies comme en matière de contributions indirectes.
 	  - Livre des procédures fiscales - art. R236-1 (V)
 	  - Livre des procédures fiscales - art. R238-1 (V)
 	  - Livre des procédures fiscales - art. R26-3 (V)
+
+
+##### V : Travaux immobiliers
+
+###### Article 290 quinquies
+
+Toute prestation de services comprenant l'exécution de travaux immobiliers, assortie ou non de vente, fournie à des
+particuliers par un redevable de la taxe sur la valeur ajoutée, doit faire l'objet d'une note mentionnant le nom et l'adresse
+des parties, la nature et la date de l'opération effectuée, le montant de son prix et le montant de la taxe sur la valeur
+ajoutée. L'original de la note est remis au client au plus tard lors du paiement du solde du prix ; le double est conservé
+par le prestataire dans la limite du droit de reprise de l'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+	**Créé par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 91 (P) JORF 31 décembre 1981 en vigueur le 1er janvier 1982
 
 
 ##### Section VIII : Importations
@@ -10775,6 +10961,25 @@ Les vins de marcs, vins de sucre et autres vins artificiels saisis chez le produ
 doivent être transformés en alcool après paiement de leur valeur ou être détruits. En attendant la solution du litige, le
 prévenu est tenu de conserver gratuitement les marchandises intactes.
 
+
+
+##### VIII : Contentieux
+
+###### Article 433 A
+
+Les infractions aux lois et règlements relatifs à l'organisation du marché des vins, aux obligations fixées pour les sorties
+des vins de la propriété et aux mesures prises pour l'amélioration de la qualité des vins sont constatées et poursuivies
+comme en matière de contributions indirectes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
 
 
 ##### B : Régime fiscal
@@ -25922,6 +26127,89 @@ II. Le taux maximum et les conditions d'application de la taxe sont fixés par d
 	  - Code rural et de la pêche maritime - art. L514-1 (M)
 
 
+##### Section X : Impositions perçues au profit des communautés urbaines
+
+###### Article 1609 bis
+
+Les communautés urbaines peuvent percevoir :
+
+1° La taxe foncière sur les propriétés bâties, la taxe foncière sur les propriétés non bâties, la taxe d'habitation et la
+taxe professionnelle ; le montant de ces impositions est fixé par le conseil de communauté en fonction de ses besoins et leur
+répartition s'effectue suivant les modalités définies aux articles 1636 B sexies et 1636 B nonies ;
+
+2° La taxe d'enlèvement des ordures ménagères, dans les conditions fixées par l'article 1520 ;
+
+3° La taxe de balayage, lorsqu'elles assurent le balayage de la superficie des voies livrées à la circulation publique, qui
+incombe aux propriétaires riverains.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1520
+	  - CGI 1609 septies
+	  - CGI 1636 B nonies
+	  - CGI 1636 B sexies
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 1636 B quater
+	  - HISTO: Edition du 1er septembre 1982
+
+	**Cité par**:
+
+	  - Loi n°2003-1311 du 30 décembre 2003 - art. 53 (V)
+	  - Code général des collectivités territoriales - art. L2313-1 (V)
+	  - Code général des collectivités territoriales - art. L5215-20-1 (V)
+	  - Code général des collectivités territoriales - art. L5215-32 (V)
+	  - Code général des impôts, CGI. - art. 1640 B (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+
+##### Section XI : Impositions perçues au profit des syndicats de communes et des syndicats mixtes
+
+###### Article 1609 quater
+
+Le comité d'un syndicat de communes peut décider, dans les conditions prévues à l'article L 251-4 du code des communes, de
+lever les impositions mentionnées aux 1° à 4°  du I de l'article 1379 en remplacement de la contribution des communes
+associées ; la répartition de ces impositions s'effectue suivant les modalités définies au IV de l'article 1636 B octies.
+
+Ces dispositions sont applicables aux syndicats mixtes ne comprenant d'autres personnes morales que des communes, des
+syndicats de communes ou des districts.
+
+Les syndicats de communes et les syndicats mixtes sont substitués aux communes pour l'institution de la taxe d'enlèvement des
+ordures ménagères ou des redevances prévues à l'article 1520, lorsqu'ils assurent la collecte ainsi que la destruction ou le
+traitement des ordures ménagères.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1379 I 1°, 2°, 3°, 4°
+	  - CGI 1520
+	  - CGI 1636 B octies IV
+	  - CODE DES COMMUNES. - art. L251-4 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 1636 B quinquies
+	  - HISTO: Edition  du 1er septembre 1982
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L2313-1 (V)
+	  - Code général des impôts, CGI. - art. 1636 B undecies (M)
+	  - Code général des impôts, CGI. - art. 1636 C (V)
+	  - Code général des impôts, CGI. - art. 1647-0 B septies (MMN)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+
 ##### Section XIII : Impositions perçues par les organismes chargés de la création d'une agglomération nouvelle
 
 ##### I : Syndicats communautaires d'aménagement.
@@ -28036,10 +28324,9 @@ dont les noms et adresses ont été indiqués à l'administration ;
 
 3° Des membres des sociétés à responsabilité limitée qui ont opté pour le régime fiscal des sociétés de personnes dans les
 conditions prévues à l'article 3-IV du décret n° 55-594 du 20 mai 1955 modifié ou dans celles prévues par l'article 239 bis
-AA ;
+AA.
 
-4° Des membres des sociétés par actions ou à responsabilité limitée qui sont admises au régime fiscal des sociétés de
-personnes en application de l'article 239 bis A.
+4° (Périmé).
 
 **Liens relatifs à cet article**
 
@@ -28123,23 +28410,21 @@ personnes en application de l'article 239 bis A.
 
 	**Cite**:
 
-	  - CGI 206 1
-	  - CGI 239
-	  - CGI 239 bis A
 	  - CGI 239 bis AA
 	  - CGI 239 ter
 	  - CGI 34
 	  - CGI 35
+	  - CGI 206 1
 	  - CGI 6
 	  - Décret n°55-594 1955-05-20 ART. 3 IV
 
-	**Modifié par**:
-
-	  - Loi n°80-1094 du 30 décembre 1980 - art. 52 (P) JORF 31 DECEMBRE 1980
-
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Décret n°82-881 1982-10-15 ART. 1 JORF 17 OCTOBRE 1982 date d'entrée en vigueur 1 SEPTEMBRE 1982
 
 
 ##### REVENUS IMPOSABLES.
@@ -30165,7 +30450,7 @@ des collectivités locales, de certains établissements publics ou d'organismes 
 d  Les intérêts de dettes contractées pour la conservation, l'acquisition, la construction, la réparation ou l'amélioration
 des propriétés;
 
-e  Une déduction forfaitaire fixée à 20 % [*pourcentage*] (1) des revenus bruts et représentant les frais de gestion,
+e  Une déduction forfaitaire fixée à 15 % [*pourcentage*] (1) des revenus bruts et représentant les frais de gestion,
 l'assurance et l'amortissement.
 
 2° Pour les propriétés rurales :
@@ -30180,11 +30465,11 @@ destiné à remplacer un bâtiment de même nature, vétuste ou inadapté aux te
 considérées comme des dépenses d'amélioration non rentables à condition que la construction nouvelle n'entraîne pas une
 augmentation du fermage;
 
-d  Une déduction forfaitaire fixée à 15 % (1) des revenus bruts et représentant les frais de gestion et l'amortissement. En
+d  Une déduction forfaitaire fixée à 10 % (1) des revenus bruts et représentant les frais de gestion et l'amortissement. En
 ce qui concerne les constructions nouvelles, reconstructions et additions de construction qui bénéficient de l'exonération de
 vingt-cinq ans de taxe foncière sur les propriétés bâties prévue à l'article 1385, le taux de la déduction forfaitaire est
-porté à 20 % pendant la durée de cette exonération; le taux de 20 % s'applique également aux revenus provenant des biens
-ruraux placés sous le régime des baux à long terme mentionnés à l'article 743-2° (1);
+porté à 15 % pendant la durée de cette exonération; le taux de 15 % s'applique également aux revenus provenant des biens
+ruraux placés sous le régime des baux à long terme mentionnés à l'article 743-2° ;
 
 e  En ce qui concerne les bâtiments servant aux exploitations rurales, les charges énumérées au 2°-a à d, à la condition que
 le propriétaire renonce de façon expresse et définitive, pour l'ensemble de ses propriétés, à l'exemption prévue à l'égard de
@@ -30192,11 +30477,13 @@ ces bâtiments à l'article 15-I.
 
 II  (Transféré sous l'article 156-II-1° ter).
 
-1) Les taux de 15 % et de 20 % s'appliquent pour la première fois aux revenus de l'année 1978. Le taux de 20 % s'applique aux
-revenus provenant des biens placés sous le régime des baux à long terme, que ces baux aient été conclus avant ou après le 1er
-janvier 1979.
+1) Les taux de 10 % et de 15 % s'appliquent pour la première fois aux revenus de l'année 1981.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 15 () JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
 
 	**Cité par**:
 
@@ -30206,12 +30493,12 @@ janvier 1979.
 	  - Loi n°2009-323 du 25 mars 2009 - art. 51 (V)
 	  - Arrêté du 1er août 2014 - art. 3 (V)
 	  - Arrêté du 1er août 2014 - art. Annexe 5 (V)
+	  - Arrêté du 5 mai 2017 (V)
+	  - Arrêté du 5 mai 2017 - art. 1
 	  - Décret n°2014-1102 du 30 septembre 2014 (V)
 	  - Décret n°2015-638 du 8 juin 2015 (V)
 	  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (V)
 	  - Loi n°2016-1918 du 29 décembre 2016 - art. 46 (V)
-	  - Arrêté du 5 mai 2017 (V)
-	  - Arrêté du 5 mai 2017 - art. 1
 	  - Décret n°2017-839 du 5 mai 2017 (V)
 	  - Décret n°2017-839 du 5 mai 2017 - art.
 	  - Décret n°2017-839 du 5 mai 2017 - art. 2
@@ -30280,9 +30567,13 @@ janvier 1979.
 	  - CGI 156 II 1° TER
 	  - CGI 743 2°
 
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 1er septembre 1982
 
 
 ##### DETERMINATION DES BENEFICES NETS INDUSTRIELS ET COMMERCIAUX.
@@ -31058,7 +31349,7 @@ Cette déduction est subordonnée à la condition que le capital ait été enti�
 3° bis (Abrogé) ;
 
 4° Sous réserve des dispositions de l'article 153, les impôts à la charge de l'entreprise, mis en recouvrement au cours de
-l'exercice, à l'exception des taxes prévues aux articles 238 quater et 239 bis B. 
+l'exercice, à l'exception des taxes prévues aux articles 235 ter T, 238 quater et 239 bis B. 
 
 Si des dégrèvements sont ultérieurement accordés sur ces impôts, leur montant entre dans les recettes de l'exercice au cours
 duquel l'exploitant est avisé de leur ordonnancement ; 
@@ -31149,6 +31440,10 @@ Sauf justifications, les dispositions de l'alinéa qui précède sont applicable
 exercices clos à compter du 1er janvier 1975, cette limite est portée à 35.000 F [*montant*] et s'applique à l'ensemble des
 véhicules immatriculés dans la catégorie des voitures particulières ; 
 
+- en cas d'opérations de crédit-bail ou de location au sens de l'article 281 bis C, portant sur des voitures particulières, à
+la part du loyer supportée par le locataire et correspondant à l'amortissement pratiqué par le bailleur pour la fraction du
+prix d'acquisition du véhicule excédant 35.000 F ; 
+
 - aux dépenses de toute nature résultant de l'achat, de la location ou de toute autre opération faite en vue d'obtenir la
 disposition de yachts ou de bateaux de plaisance à voile ou à moteur ainsi que de leur entretien. 
 
@@ -31212,10 +31507,12 @@ En cas de contestation, le désaccord peut être soumis à l'appréciation de la
 	  - CGI 153
 	  - CGI 1651
 	  - CGI 235 ter N
+	  - CGI 235 ter T
 	  - CGI 238 quater
 	  - CGI 239 bis B
 	  - CGI 271
 	  - CGI 273
+	  - CGI 281 bis C
 	  - CGI 39 A
 	  - CGI 39 B
 	  - CGI 39 E
@@ -31242,11 +31539,7 @@ En cas de contestation, le désaccord peut être soumis à l'appréciation de la
 
 	**Modifié par**:
 
-	  - Loi n°79-1102 du 21 décembre 1979 - art. 7 () JORF 22 décembre 1979
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 17 (P) JORF 31 décembre 1981 en vigueur le 1er janvier 1982
 
 	**Cité par**:
 
@@ -31358,9 +31651,13 @@ En cas de contestation, le désaccord peut être soumis à l'appréciation de la
 	  - Code rural et de la pêche maritime - art. R716-33 (V)
 	  - Livre des procédures fiscales - art. L59 A (VD)
 
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
 	**Liens**:
 
-	  - HISTO: Edition du 1er juillet 1981
+	  - HISTO: Edition du 1er septembre 1982
 
 
 ###### Article 39 bis
@@ -32051,24 +32348,27 @@ des assurances ou de la caisse nationale de prévoyance ;
 
 2° La cotisation ouvrière aux assurances sociales ; 
 
+2° bis Les contributions payées par les travailleurs, prévues à l'article L 351-2 du code du travail, destinées à financer le
+régime national interprofessionnel d'aide aux travailleurs privés d'emploi ; 
+
 3° Les frais inhérents à la fonction ou à l'emploi lorsqu'ils ne sont pas couverts par des allocations spéciales. 
 
 La déduction à effectuer du chef des frais professionnels est calculée forfaitairement en fonction du revenu brut, après
 défalcation des retenues visées aux 1° et 2° et des cotisations visées au 1° bis ; elle est fixée à 10 % du montant de ce
 revenu. Elle est limitée à 40.000 F pour l'imposition des rémunérations perçues à compter du 1er janvier 1979 [*date*] ; ce
-plafond est relevé dans la même proportion que la limite supérieure de la septième tranche du barème de l'impôt sur le
-revenu. 
+plafond est relevé dans la même proportion que la limite supérieure de la septième tranche du barème de l'impôt sur le revenu
+(2). 
 
 Toutefois, en ce qui concerne les catégories de professions qui comportent des frais dont le montant est notoirement
-supérieur à celui résultant de l'application des pourcentages prévus à l'alinéa précédent, un arrêté ministériel (2) fixe le
+supérieur à celui résultant de l'application des pourcentages prévus à l'alinéa précédent, un arrêté ministériel (3) fixe le
 taux de la déduction dont les contribuables appartenant à ces professions peuvent bénéficier en sus de la déduction
-forfaitaire visée audit alinéa. Cette déduction supplémentaire est limitée à 50.000 F (3). Elle est calculée sur le montant
+forfaitaire visée audit alinéa. Cette déduction supplémentaire est limitée à 50.000 F (4). Elle est calculée sur le montant
 global des rémunérations et des remboursements et allocations pour frais professionnels perçus par les intéressés, après
 application à ce montant de la déduction forfaitaire pour frais professionnels de 10 %. 
 
 Le montant de la ou des déductions forfaitaires pour frais professionnels ne peut être inférieur à 1.800 F, sans pouvoir
 excéder le montant brut des traitements et salaires. Cette disposition s'applique séparément aux rémunérations perçues par le
-chef de famille, par son conjoint et par les personnes à sa charge (4). 
+chef de famille, par son conjoint et par les personnes à sa charge (5). 
 
 Les bénéficiaires de traitements et salaires sont également admis à justifier du montant de leurs frais réels, soit dans la
 déclaration visée à l'article 170, soit sous forme de réclamation adressée au service des impôts dans le délai prévu aux
@@ -32076,11 +32376,11 @@ articles          R* 196-1 et R* 196-3 du livre des procédures fiscales.
 
 (1) Annexe III, art. 38 septdecies. 
 
-(2) Annexe IV, art. 5 et 5 A. 
+(2) Plafond fixé à 50.900 F pour l'imposition des revenus de 1981. (3) Annexe IV, art. 5 et 5 A. 
 
-(3) Le montant de la déduction supplémentaire a été limité à 40.000 F pour l'imposition des revenus de 1979. 
+(4) Le montant de la déduction supplémentaire a été limité à 40.000 F pour l'imposition des revenus de 1979. 
 
-(4) Montant en vigueur à partir du 1er janvier 1978.
+(5) Montant en vigueur à partir du 1er janvier 1978.
 
 **Liens relatifs à cet article**
 
@@ -32131,16 +32431,29 @@ articles          R* 196-1 et R* 196-3 du livre des procédures fiscales.
 	  - Code rural - art. L321-11 (V)
 	  - Code rural - art. L371-8 (VD)
 
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
 	**Cite**:
 
 	  - CGI 170
+	  - CGI R196-1
+	  - CGI R196-2
+	  - CGI R196-3
 	  - CGIAN3 38 septdecies
-	  - CGIAN4 5, 5 A
-	  - Livre des procédures fiscales R196-1, R196-2, R196-3
+	  - CGIAN4 5
+	  - CGIAN4 5 A
+	  - Code du travail - art. L351-12 (M)
+
+	**Modifié par**:
+
+	  - Code du travail L351-12 (LOI 73-4 1973-01-02 ART. 1 JORF 3 JANVIER 1973)
+	  - Code du travail L352-3 (LOI 79-32 1979-01-16 ART. 3 JORF 17 JANVIER 1979)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°82-881 1982-10-15 art. 1 : édition CGI 1982-09-01
 
 
 ###### Article 92 D
@@ -32818,8 +33131,7 @@ distributrices (2) ;
 b ter. Aux produits des actions à dividende prioritaire sans droit de vote prévues par l'article 177-1 de la loi n° 66-537 du
 24 juillet 1966 (3).
 
-c. Aux produits des actions ou parts de sociétés par actions ou à responsabilité limitée admises au régime fiscal des
-sociétés de personnes prévu à l'article 239 bis A ;
+c. (Périmé);
 
 d. Aux produits des actions des sociétés immobilières pour le commerce et l'industrie [*SICOMI*] visées à l'article 5 de
 l'ordonnance n° 67-837 du 28 septembre 1967 ;
@@ -32866,7 +33178,6 @@ du régime défini au présent article.
 	  - CGI 210 ter
 	  - CGI 214 A
 	  - CGI 216
-	  - CGI 239 bis A
 	  - CGIAN2 102 F
 	  - CGIAN2 54
 	  - CGIAN2 55
@@ -32875,17 +33186,13 @@ du régime défini au présent article.
 	  - Ordonnance 58-876 1958-09-24
 	  - Loi n°63-254 1963-03-15 ART. 33 I
 	  - Décret n°63-683 1963-07-13 ART. 1
-	  - Loi n°66-537 1966-07-24 ART. 177 1
+	  - Loi n°66-537 1966-07-24 ART. 177-1
 	  - Ordonnance n°67-837 du 28 septembre 1967 - art. 5 (V)
 	  - Loi n°69-1160 1969-12-24 ART. 1 FINANCES RECTIFICATIVE POUR 1969
 	  - Loi n°78-741 1978-07-13 ART. 16 ET S.
 	  - Loi n°80-531 1980-07-15 ART. 30
 	  - Loi n°1935-02-09 ART. 3 AL. 2
 	  - Loi n°1941-12-02
-
-	**Modifié par**:
-
-	  - Loi n°80-531 1980-07-15 ART. 30 II b JORF 16 JUILLET 1980
 
 	**Cité par**:
 
@@ -32907,7 +33214,7 @@ du régime défini au présent article.
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°82-881 1982-10-15
 
 
 ###### Article 151 nonies
@@ -33213,9 +33520,14 @@ l'urbanisme, ainsi qu'aux nus-propriétaires effectuant des travaux en applicati
 propriétaires de monuments classés monuments historiques, inscrits à l'inventaire supplémentaire ou ayant fait l'objet d'un
 agrément ministériel.
 
+4° Des déficits réalisés par des personnes, autres que les loueurs professionnels au sens de l'article 151 septies, dernier
+alinéa, louant directement ou indirectement des locaux d'habitation meublés ou destinés à être meublés ; ces déficits
+s'imputent exclusivement sur les bénéfices retirés par le contribuable de cette même activité au cours des années suivantes
+jusqu'à la cinquième inclusivement (2).
+
 I bis. Du déficit correspondant aux frais exposés par un inventeur pour prendre un brevet ou en assurer la maintenance
 lorsqu'il ne perçoit pas de produits imposables ou perçoit des produits inférieurs à ces frais. Ce déficit est déductible du
-revenu global de l'année de prise du brevet et des neuf années suivantes (2).
+revenu global de l'année de prise du brevet et des neuf années suivantes (3).
 
 II. Des charges ci-après lorsqu'elles n'entrent pas en compte pour l'évaluation des revenus des différentes catégories :
 
@@ -33227,45 +33539,59 @@ rentrant de l'étranger ou des Etats ayant accédé à l'indépendance ;
 1° bis a. Intérêts afférents aux dix premières annuités des prêts contractés pour la construction, l'acquisition ou les
 grosses réparations des immeubles dont le propriétaire se réserve la jouissance ainsi que les dépenses de ravalement,
 lesquelles doivent être imputées sur un seul exercice. La déduction est toutefois limitée à 7.000 F, cette somme étant
-augmentée de 1.000 F par personne à la charge du contribuable au sens des articles 196, 196 A et 196 B. Ces dispositions ne
-s'appliquent qu'en ce qui concerne les immeubles affectés à l'habitation principale des redevables ;
+augmentée de 1.000 F par personne à la charge du contribuable au sens des articles 196, 196 A bis et 196 B. Ces dispositions
+ne s'appliquent qu'en ce qui concerne les immeubles affectés à l'habitation principale des redevables ;
 
 b. Les dispositions du a s'appliquent même lorsque l'immeuble n'est pas affecté immédiatement à l'habitation principale, à la
 condition que le propriétaire prenne l'engagement de lui donner cette affectation avant le 1er janvier de la troisième année
-qui suit celle de la conclusion du contrat de prêt ou du paiement des travaux de ravalement. Le non-respect de cet engagement
-entraîne la réintégration des dépenses dans le revenu imposable de l'année au titre de laquelle elles ont été indûment
-déduites, sans préjudice des sanctions prévues aux articles 1728 et 1729 ;
+qui suit celle de la conclusion du contrat de prêt ou du paiement des dépenses. Le non-respect de cet engagement entraîne la
+réintégration des dépenses dans le revenu imposable de l'année au titre de laquelle elles ont été indûment déduites, sans
+préjudice des sanctions prévues aux articles 1728 et 1729 ;
 
 c. Les déductions prévues au a et au b sont étendues aux locaux compris dans des exploitations agricoles et affectés à
 l'habitation des propriétaires exploitants ;
 
-1° ter. Dans les conditions fixées par décret (3), les charges foncières afférentes aux immeubles classés monuments
+1° ter. Dans les conditions fixées par décret (4), les charges foncières afférentes aux immeubles classés monuments
 historiques ou inscrits à l'inventaire supplémentaire, ainsi qu'aux immeubles faisant partie du patrimoine national en raison
 de leur caractère historique ou artistique particulier et qui auront été agréés à cet effet par le ministre de l'économie et
 des finances ;
 
-1° quater. Le régime de déduction prévu au 1° bis a est étendu aux dépenses effectuées par un contribuable pour sa résidence
-principale, qu'il en soit ou non propriétaire, lorsque ces dépenses ont pour objet d'améliorer l'isolation thermique ou la
-mesure et la régulation du chauffage, ou encore de remplacer une chaudière dans des conditions permettant une économie de
-produits pétroliers ; les types de travaux ou d'achats admis sont déterminés par décret en Conseil d'Etat (4) ; la déduction
-peut, pour les contribuables qui échelonnent leurs dépenses sur plusieurs années, être pratiquée au titre de chacune de ces
-années sans que le total des dépenses déduites puisse être supérieur au montant de la déduction qui serait admise en
-l'absence d'échelonnement (5) ; elle est réservée aux logements existant au 1er juillet 1975 (5) et aux logements qui ont
-fait l'objet, avant cette même date, soit d'une demande de permis de construire, soit d'une déclaration préalable de
-travaux ; lorsque le bénéficiaire de la déduction est remboursé en tout ou partie de ses dépenses par un tiers, dans un délai
-de dix ans, le montant remboursé est ajouté à ses revenus de l'année du remboursement ;
+1° quater. a. Dépenses effectuées par un contribuable pour sa résidence principale, qu'il en soit ou non propriétaire,
+lorsque ces dépenses ont pour objet d'améliorer l'isolation thermique ou la mesure et la régulation du chauffage, ou encore
+de remplacer une chaudière dans des conditions permettant une économie de produits pétroliers.
+
+Le montant maximum de cette déduction est fixé à 8.000 F par logement, cette somme étant augmentée de 1.000 F par personne à
+la charge du contribuable au sens des articles 196, 196 A bis et 196 B ; elle peut, pour les contribuables qui échelonnent
+leurs dépenses sur plusieurs années, être pratiquée au titre de chacune de ces années sans que le total des dépenses déduites
+puisse être supérieur au montant de la déduction qui serait admise en l'absence d'échelonnement. La déduction est réservée
+aux logements existant au 1er juillet 1981 et aux logements ayant fait l'objet, avant cette date, soit d'une demande de
+permis de construire, soit d'une déclaration préalable de travaux.
+
+Lorsque le bénéficiaire de la déduction est remboursé en tout ou partie de ses dépenses par un tiers, dans un délai de dix
+ans, le montant remboursé est ajouté à ses revenus de l'année du remboursement ;
+
+b. Le régime de déduction visé au a est étendu aux dépenses relatives à l'installation de pompes à chaleur et à l'utilisation
+des énergies nouvelles pour le chauffage des logements quelle que soit leur date de construction ;
+
+c. Les dispositions du a et du b s'appliquent aux dépenses réalisées du 1er janvier 1982 au 31 décembre 1986. La liste des
+travaux et matériels admis en déduction est fixée par arrêté ministériel (5) ;
+
+d. Les dispositions du 1° bis-b sont étendues aux dépenses visées aux a à c ci-dessus.
 
 2° Arrérages de rentes payés par lui à titre obligatoire et gratuit constituées avant le 2 novembre 1959 ; pensions
 alimentaires répondant aux conditions fixées par les articles 205 à 211 du code civil ; rentes prévues à l'article 276 du
 code civil et pensions alimentaires versées en vertu d'une décision de justice, en cas de séparation de corps ou de divorce,
 ou en cas d'instance en séparation de corps ou en divorce lorsque le conjoint fait l'objet d'une imposition séparée ; dans la
 limite de 18.000 F et, dans les conditions fixées par un décret en Conseil d'Etat (6), les versements destinés à constituer
-le capital de la rente prévue à l'article 294 du code civil.
+le capital de la rente prévue à l'article 294 du code civil. Le contribuable ne peut opérer de déduction pour ses descendants
+mineurs, sauf pour ses enfants dont il n'a pas la garde ;
 
-Toutefois, le contribuable ne peut opérer de déduction pour ses descendants âgés de moins de vingt-cinq ans ou poursuivant
-leurs études sauf pour ses enfants mineurs dont il n'a pas la garde ;
+La déduction est limitée, par enfant majeur, au montant fixé pour l'abattement prévu par l'article 196 B. Lorsque l'enfant
+est marié, cette limite est doublée au profit du parent qui justifie qu'il participe seul à l'entretien du ménage.
 
-2° bis et 3° (Abrogés) ;
+Un contribuable ne peut, au titre d'une même année et pour un même enfant, bénéficier à la fois de la déduction d'une pension
+alimentaire et du rattachement. L'année où l'enfant atteint sa majorité, le contribuable ne peut à la fois déduire une
+pension pour cet enfant et le considérer à charge pour le calcul de l'impôt.
 
 4° Versements effectués à titre de cotisations de sécurité sociale, à l'exception de ceux effectués pour les gens de maison ;
 
@@ -33296,8 +33622,7 @@ des primes mentionnées aux a et b.
 
 8° (Abrogé) ;
 
-9° Les contributions payées par les travailleurs, prévues à l'article L 351-12 du code du travail et destinées à financer le
-versement des allocations spéciales aux travailleurs sans emploi prévues auxdits accords ;
+9° (transféré sous l'article 83-2° bis).
 
 9° bis et 9° ter (Abrogés) ;
 
@@ -33312,13 +33637,13 @@ professionnelles dans l'agriculture.
 
 (1) Voir toutefois le paragraphe I bis ci-dessous.
 
-(2) Disposition applicable à compter de l'imposition des revenus de l'année 1979.
+(2) Cette disposition s'applique pour la première fois aux revenus perçus à compter du 1er janvier 1982.
 
-(3) Annexe III, art. 41 E à 41 J.
+(3) Disposition applicable à compter de l'imposition des revenus de l'année 1979.
 
-(4) Annexe II, art. 75-0 A à 75-0 D.
+(4) Annexe III, art. 41 E à 41 J.
 
-(5) Disposition nouvelle et date limite nouvelle en vigueur à compter du 1er janvier 1979.
+(5) Annexe IV, art. 17 H à 17 L.
 
 (6) Annexe II, art. 91 quinquies.
 
@@ -33330,19 +33655,19 @@ professionnelles dans l'agriculture.
 
 	**Cite**:
 
+	  - CGI 151 septies
+	  - CGI 156
 	  - CGI 1728
 	  - CGI 1729
 	  - CGI 196
-	  - CGI 196 A
+	  - CGI 196 A bis
 	  - CGI 196 B
+	  - CGI 83 2° bis
 	  - CGI 92
-	  - CGIAN2 75-0 A
-	  - CGIAN2 75-0 B
-	  - CGIAN2 75-0 C
-	  - CGIAN2 75-0 D
 	  - CGIAN2 91 quinquies
 	  - CGIAN3 41 E A CGIAN3 41 J
 	  - CGIAN4 17 E
+	  - CGIAN4 17 H à CGIAN4 17 L
 	  - Loi n°66-509 du 12 juillet 1966 - art. 19 (Ab)
 	  - Loi n°66-509 du 12 juillet 1966 - art. 23 (Ab)
 	  - Loi n°66-509 du 12 juillet 1966 - art. 26 (Ab)
@@ -33351,9 +33676,12 @@ professionnelles dans l'agriculture.
 	  - Code civil - art. 294 (M)
 	  - Code civil - art. 605 (V)
 	  - Code civil 205 A Code civil 211
-	  - Code du travail - art. L351-12 (M)
 	  - Code de la mutualité 92
 	  - Code de l'urbanisme L313-1 A Code de l'urbanisme L313-15
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
 
 	**Cité par**:
 
@@ -33420,16 +33748,14 @@ professionnelles dans l'agriculture.
 
 	**Modifié par**:
 
-	  - Loi n°79-32 1979-01-16 ART. 3 JORF 17 JANVIER 1979
-	  - Loi n°79-1102 du 21 décembre 1979 - art. 2 (V) JORF 22 DECEMBRE 1979
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
+	  - Loi n°81-1160 1981-12-30 ART. 88, ART. 89 I 1, 2, ART. 12 II 4 a, b, 3 ab, c FINANCES POUR 1982 JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1er JANVIER 1982
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 12 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1er JANVIER 1982
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 88 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1er JANVIER 1982
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 89 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1er JANVIER 1982
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er juillet 1981
+	  - HISTO: Edition du 1er septembre 1982
 
 
 ###### Article 157
@@ -33660,8 +33986,8 @@ imposable des revenus correspondant à des dividendes d'actions émises en Franc
 aux contribuables dont le revenu net global défini à l'article 156 n'excède pas la limite de la dixième tranche du barème
 prévu à l'article 197-I, ce chiffre étant arrondi à la dizaine de milliers de francs supérieure.
 
-Les abattements prévus aux troisième, quatrième et cinquième alinéas du présent paragraphe peuvent, le cas échéant, être
-utilisés, en tout ou en partie, par les porteurs de parts de fonds communs de placement régis par la loi n° 79-594 du 13
+Les abattements prévus aux troisième, quatrième, cinquième et sixième alinéas du présent paragraphe peuvent, le cas échéant,
+être utilisés, en tout ou en partie, par les porteurs de parts de fonds communs de placement régis par la loi n° 79-594 du 13
 juillet 1979, lors de l'imposition en leur nom des produits répartis par le fonds.
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et ceux de l'exploitation minière sont déterminés
@@ -33680,11 +34006,11 @@ d'exploitations situées hors de France, il est fait état de ces résultats d'e
 entre leurs divers éléments dans la déclaration prévue à l'article 170.
 
 4 bis. Les adhérents des centres de gestion agréés définis aux articles 1649 quater C à 1649 quater E, placés sous un régime
-réel d'imposition et dont le chiffre d'affaires ou de recettes n'excède pas 2.200.000 F pour les agriculteurs et pour les
+réel d'imposition et dont le chiffre d'affaires ou de recettes n'excède pas 2.497.000 F pour les agriculteurs et pour les
 entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à
-consommer sur place ou de fournir le logement et 663.000 F en ce qui concerne les autres entreprises, bénéficient d'un
+consommer sur place ou de fournir le logement et 753.000 F en ce qui concerne les autres entreprises, bénéficient d'un
 abattement de 20 % sur leur bénéfice imposable dans la catégorie des bénéfices industriels et commerciaux [*BIC*] ou des
-bénéfices agricoles [*BA*]. Les chiffres de 2.200.000 F et 663.000 F s'apprécient dans les mêmes conditions que les limites
+bénéfices agricoles [*BA*]. Les chiffres de 2.497.000 F et 753.000 F s'apprécient dans les mêmes conditions que les limites
 fixées pour l'application du régime forfaitaire (3).
 
 Le taux de l'abattement est ramené à 10 % pour la fraction du bénéfice qui excède la limite de 150.000 F prévue au 5-a, ci-
@@ -33704,9 +34030,9 @@ redressement porte exclusivement sur des erreurs de droit ou des erreurs matéri
 le dixième du revenu professionnel déclaré et la somme de 5.000 F.
 
 4 ter. Les adhérents des associations agréées des professions libérales définies aux articles 1649 quater F à 1649 quater H,
-imposés à l'impôt sur le revenu selon le régime de la déclaration contrôlée et dont les recettes n'excèdent pas 773.000 F
+imposés à l'impôt sur le revenu selon le régime de la déclaration contrôlée et dont les recettes n'excèdent pas 900.000 F
 bénéficient d'un abattement de 20 % sur leur bénéfice imposable. Toutefois cet abattement ne peut se cumuler avec d'autres
-déductions forfaitaires ou abattements d'assiette. Le chiffre de 773.000 F s'apprécie dans les mêmes conditions que la limite
+déductions forfaitaires ou abattements d'assiette. Le chiffre de 900.000 F s'apprécie dans les mêmes conditions que la limite
 fixée pour l'application du régime de l'évaluation administrative (5).
 
 Le taux de l'abattement est ramené à 10 % pour la fraction du bénéfice qui excède la limite de 150.000 F prévue au 5-a, ci-
@@ -33737,12 +34063,12 @@ rentes viagères autres que celles mentionnées au 6 sont déterminés conformé
 
 Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut, pour l'imposition des revenus de 1978, excéder
 6.000 F. Ce plafond est applicable au montant des pensions ou retraites perçu par chaque retraité ou pensionné membre du
-foyer fiscal (6) ; il est revalorisé chaque année dans la même proportion que la limite de la première tranche du barème
-prévu à l'article 197 (7).
+foyer fiscal ; il est revalorisé chaque année dans la même proportion que la limite de la première tranche du barème prévu à
+l'article 197 (6).
 
 L'abattement indiqué à l'alinéa précédent ne peut être inférieur à 1.800 F, sans pouvoir excéder le montant brut des pensions
 et retraites. Cette disposition s'applique au montant des pensions ou retraites perçu par chaque retraité ou pensionné membre
-du foyer fiscal (8).
+du foyer fiscal.
 
 Le revenu net obtenu en application de l'article 83 et, en ce qui concerne les pensions et retraites après application des
 dispositions des deuxième et troisième alinéas ci-dessus, n'est retenu dans les bases de l'impôt sur le revenu que pour 80 %
@@ -33750,11 +34076,11 @@ de son montant.
 
 Par exception aux dispositions de l'alinéa précédent, les salaires et indemnités accessoires supérieurs à 150.000 F alloués
 par des sociétés à des personnes qui détiennent, directement ou indirectement, plus de 35 % des droits sociaux sont retenus,
-pour la fraction excédant 150.000 F, à raison de 90 % de leur montant, net de frais professionnels (9).
+pour la fraction excédant 150.000 F, à raison de 90 % de leur montant, net de frais professionnels.
 
 Aucun abattement n'est pratiqué sur la fraction du montant des salaires, net de frais professionnels, et pensions qui excède
 une fois et demie la limite de la dernière tranche du barème prévu à l'article 197-I, ce chiffre étant arrondi à la dizaine
-de milliers de francs supérieure.
+de milliers de francs supérieure (4).
 
 Toutefois, pour l'imposition des revenus des années 1978 et 1979, cette limite est fixée à 360.000 F ;
 
@@ -33776,7 +34102,7 @@ crédirentier lors de l'entrée en jouissance de la rente, est fixée :
 
 - à 40 % s'il est âgé de 60 à 69 ans inclus ;
 
-- à 30 % s'il est âgé de plus de 69 ans (10).
+- à 30 % s'il est âgé de plus de 69 ans.
 
 La fraction de rentes viagères définie ci-dessus est imposée dans les mêmes conditions que les revenus énumérés à l'article
 124.
@@ -33788,87 +34114,24 @@ prévue à l'article 83-1° bis.
 
 (2) Chiffre applicable à compter de l'imposition des revenus de 1978.
 
-(3) Chiffres applicables pour l'imposition des revenus de 1980. Pour l'imposition des revenus de 1979, ces chiffres étaient
-de 1.915.000 F et 577.000 F.
+(3) Chiffres applicables pour l'imposition des revenus de 1981. Pour l'imposition des revenus de 1980, ces chiffres étaient
+de 2.200.000 F et 663.000 F.
 
-(4) Cette limite était fixée à 360.000 F pour l'imposition des revenus de 1978 et de 1979.
+(4) Cette limite était fixée à 410.000 F pour l'imposition des revenus de 1980 et 460.000 pour l'imposition des revenus de
+1981.
 
-(5) Chiffre applicable pour l'imposition des revenus de 1980. Pour l'imposition des revenus de 1979, ce chiffre était de
-672.000 F.
+(5) Chiffre applicable pour l'imposition des revenus de 1981. Pour l'imposition des revenus de 1980, ce chiffre était de
+773.000 F.
 
-(6) Disposition applicable pour l'imposition des revenus de 1979. Pour l'imposition des revenus de 1977 et 1978, le plafond
-était apprécié par foyer fiscal.
-
-(7) Il est ainsi fixé à 6.700 F pour l'imposition des revenus de 1979 et à 7.600 F pour l'imposition des revenus de 1980.
-
-(8) Disposition applicable à compter de l'imposition des revenus de 1978.
-
-(9) Chiffre limite applicable à compter de l'imposition des revenus de l'année 1977.
-
-(10) Pour 1978, le plafond à partir duquel les arrérages de rentes étaient taxables à concurrence de 80 % avait été porté à
-25.000 F (loi n° 77-1467 du 30 décembre 1977, art. 37). Cette disposition, qui constituait le deuxième alinéa de l'article
-158-6, a été abrogée à compter du 1er janvier 1979.
+(6) Il est ainsi fixé à 8.700 F pour l'imposition des revenus. de 1981.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 12
-	  - CGI 124
-	  - CGI 125 A
-	  - CGI 13
-	  - CGI 14
-	  - CGI 15
-	  - CGI 157
-	  - CGI 158 6
-	  - CGI 1649 quater C
-	  - CGI 1649 quater D
-	  - CGI 1649 quater E
-	  - CGI 1649 quater F
-	  - CGI 1649 quater G
-	  - CGI 1649 quater H
-	  - CGI 170
-	  - CGI 197 I
-	  - CGI 231 bis C 1
-	  - CGI 231 bis D
-	  - CGI 28
-	  - CGI 29
-	  - CGI 30
-	  - CGI 302 ter A CGI 302 septies A bis
-	  - CGI 31
-	  - CGI 34 A CGI 61 A
-	  - CGI 39 duodecies
-	  - CGI 39 quindecies
-	  - CGI 39 terdecies 1, 2
-	  - CGI 63 A CGI 78
-	  - CGI 79 A CGI 91
-	  - CGI 83
-	  - CGI 92 A CGI 104 A
-	  - CGI 93 quater
-	  - CGI L1, L2, L3, L4, L5, L6, L7, L8
-	  - CGIAN4 6 ter
-	  - Loi n°77-486 1977-05-13
-	  - Loi n°77-1467 1977-12-30 ART. 37 FINANCES POUR 1978
-	  - Loi n°79-594 1979-07-13
-
-	**Modifié par**:
-
-	  - Loi n°79-594 du 13 juillet 1979 - art. 26 (V) JORF 14 JUILLET 1979
-	  - Loi n°80-30 1980-01-18 ART. 6 III, V, ART. 7 I, FINANCES POUR 1980 JORF JORF 19 JANVIER 1980
-	  - Loi n°80-30 du 18 janvier 1980 - art. 6 (P) JORF JORF 19 JANVIER 1980
-	  - Loi n°80-30 du 18 janvier 1980 - art. 7 (P) JORF JORF 19 JANVIER 1980
-	  - Loi n°80-1094 1980-12-30 ART. 2 I, IV FINANCES POUR 1981 JORF 31 DECEMBRE 1980
-	  - Loi n°80-1094 du 30 décembre 1980 - art. 2 (P) JORF 31 DECEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
 	**Cité par**:
 
+	  - Arrêté du 7 avril 2010 - art. Annexe (Ab)
 	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 15 (V)
 	  - Loi n°2007-1822 du 24 décembre 2007 - art. 6 (V)
-	  - Arrêté du 7 avril 2010 - art. Annexe (Ab)
 	  - Décret n°2012-432 du 30 mars 2012 - art. 151 (VD)
 	  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 	  - Arrêté du 22 novembre 2016 - art. (V)
@@ -33924,9 +34187,63 @@ de 1.915.000 F et 577.000 F.
 	  - Code rural - art. L371-8 (VD)
 	  - Code rural et de la pêche maritime - art. L731-15 (VD)
 
+	**Cite**:
+
+	  - CGI 12
+	  - CGI 124
+	  - CGI 125 A
+	  - CGI 13
+	  - CGI 132 ter
+	  - CGI 14
+	  - CGI 15
+	  - CGI 157
+	  - CGI 158 6
+	  - CGI 1649 quater C
+	  - CGI 1649 quater D
+	  - CGI 1649 quater E
+	  - CGI 1649 quater F
+	  - CGI 1649 quater G
+	  - CGI 1649 quater H
+	  - CGI 170
+	  - CGI 197 I
+	  - CGI 231 bis C 1
+	  - CGI 231 bis D
+	  - CGI 28
+	  - CGI 29
+	  - CGI 30
+	  - CGI 302 ter A CGI 302 septies A bis
+	  - CGI 31
+	  - CGI 34 A CGI 61 A
+	  - CGI 39 duodecies
+	  - CGI 39 quindecies
+	  - CGI 39 terdecies 1, 2
+	  - CGI 6 3 b
+	  - CGI 62
+	  - CGI 63 A CGI 78
+	  - CGI 79 A CGI 91
+	  - CGI 8
+	  - CGI 83
+	  - CGI 92 A CGI 104 A
+	  - CGI 93 quater
+	  - CGI L1, L2, L3, L4, L5, L6, L7, L8
+	  - CGIAN4 6 ter
+	  - Loi n°77-486 1977-05-13
+	  - Loi n°77-1467 1977-12-30 ART. 37 FINANCES POUR 1978
+	  - Loi n°79-594 1979-07-13
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
 	**Liens**:
 
-	  - HISTO: Edition du 1er juillet 1981
+	  - HISTO: Edition du 1er septembre 1982
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 12 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
+	  - Loi n°81-1179 du 31 décembre 1981 - art. 19 (V) JORF 1 JANVIER 1982
+	  - Loi n°82-155 du 11 février 1982 - art. 46 (V) JORF 13 FEVRIER 1982
 
 
 ###### Article 158 quater
@@ -34388,31 +34705,31 @@ l'impôt sur le revenu :
 Sous réserve des dispositions de l'article 160, l'impôt est calculé pour les contribuables mariés sans enfant à charge et les
 contribuables célibataires ayant un enfant à charge, en appliquant le taux de (1) :
 
-0 % à la fraction du revenu qui n'excède pas     19.780 F ;
+0 % à la fraction du revenu qui n'excède pas     22.460 F ;
 
-5 % à la fraction du revenu                          comprise entre 19.780 F et 20.680 F ;
+5 % à la fraction du revenu                          comprise entre 22.460 F et 23.480 F ;
 
-10 % à la fraction du revenu                          comprise entre 20.680 F et 24.540 F ;
+10 % à la fraction du revenu                          comprise entre 23.480 F et 27.860 F ;
 
-15 % à la fraction du revenu                          comprise entre 24.540 F et 38.820 F ;
+15 % à la fraction du revenu                          comprise entre 27.860 F et 44.060 F ;
 
-20 % à la fraction du revenu                          comprise entre 38.820 F et 49.900 F ;
+20 % à la fraction du revenu                          comprise entre 44.060 F et 56.640 F ;
 
-25 % à la fraction du revenu                          comprise entre 49.900 F et 62.720 F ;
+25 % à la fraction du revenu                          comprise entre 56.640 F et 71.180 F ;
 
-30 % à la fraction du revenu                          comprise entre 62.720 F et 75.880 F ;
+30 % à la fraction du revenu                          comprise entre 71.180 F et 86.120 F ;
 
-35 % à la fraction du revenu                          comprise entre 75.880 F et 87.540 F ;
+35 % à la fraction du revenu                          comprise entre 86.120 F et 99.360 F ;
 
-40 % à la fraction du revenu                          comprise entre 87.540 F et 145.880 F ;
+40 % à la fraction du revenu                          comprise entre 99.360 F et 165.580 F ;
 
-45 % à la fraction du revenu                         comprise entre 145.880 F et 200.640 F ;
+45 % à la fraction du revenu                         comprise entre 165.580 F et 227.720 F ;
 
-50 % à la fraction du revenu                         comprise entre 200.640 F et 237.320 F ;
+50 % à la fraction du revenu                         comprise entre 227.720 F et 269.360 F ;
 
-55 % à la fraction du revenu                         comprise entre 237.320 F et 270.000 F ;
+55 % à la fraction du revenu                         comprise entre 269.360 F et 306.400 F ;
 
-60 % à la fraction du revenu supérieure à 270.000 F.
+60 % à la fraction du revenu supérieure à 306.400 F.
 
 Pour les autres contribuables, les chiffres de revenu visés ci-dessus sont augmentés ou diminués en considération de la
 situation et des charges de famille des intéressés dans les mêmes proportions que le nombre de parts fixé aux articles 194 et
@@ -34422,27 +34739,60 @@ Le montant de l'impôt sur le revenu calculé dans les conditions fixées ci-des
 la Guadeloupe, de la Martinique et de la Réunion [*DOM*] et de 40 % dans le département de la Guyane.
 
 Le montant de la réduction d'impôt prévue au quatrième alinéa ne peut excéder 18.000 F dans les départements de la
-Guadeloupe, de la Martinique et de la Réunion et 24.000 F dans le département de la Guyane (2). Ces chiffres évoluent chaque
-année comme la limite supérieure de la dixième tranche du barème prévu au deuxième alinéa.
+Guadeloupe, de la Martinique et de la Réunion [*DOM*] et 24.000 F dans le département de la Guyane (2). Ces chiffres évoluent
+chaque année comme la limite supérieure de la dixième tranche du barème prévu au deuxième alinéa (3).
 
 II, III et IV (Abrogés).
 
 V. (Disposition périmée).
 
-(1) Barème applicable pour l'établissement de l'impôt sur le revenu dû au titre de l'année 1980. Pour l'imposition des
-revenus de l'année 1979, le barème avait été fixé par l'article 3-I de la loi n° 80-30 du 18 janvier 1980.
+VI L'impôt calculé dans les conditions mentionnées au I est diminué, dans la limite de son montant, d'une décote égale à la
+différence entre :
+
+- 2.600 F et son montant pour les contribuables imposés sur une part de quotient familial ;
+
+- 800 F et son montant pour les contribuables imposés sur une  part et demie de quotient familial.
+
+Le montant de la décote est relevé chaque année dans la même  proportion que la limite supérieure de la première tranche du
+barème de l'impôt sur le revenu. Le montant obtenu est arrondi,  s'il y a lieu, à la centaine de francs supérieure.
+
+VII La réduction d'impôt brut résultant de l'application des  dispositions des articles 193 et suivants ne peut excéder 7.500
+F  pour chacune des demi-parts additionnelles au nombre de parts  suivant [*plafonnement des effets du quotient familial*] :
+
+- une part pour les contribuables célibataires, divorcés ou  veufs, ayant ou non des enfants ou des personnes assimilées à
+charge ;
+
+- deux parts pour les contribuables mariés ayant ou non des  enfants ou des personnes assimilées à charge.
+
+(1) Barème applicable pour l'établissement de l'impôt sur le revenu dû au titre de l'année 1981.
 
 (2) Limite applicable pour la première fois pour l'imposition des revenus de 1980.
 
+(3) Chiffres portés à 20.500F et 27.300 F pour 1981.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°80-30 1980-01-18 ART. 3 I FINANCES POUR 1980
+	  - CGI 160
+	  - CGI 193 ET S.
+	  - CGI 194
+	  - CGI 195
+	  - CGI 4 B
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 1981-12-30 ART. 12 I, II 1, III 3, V 1 FINANCES POUR 1982 JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1982
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 12 (P) JORF 31 DECEMBRE 1980 date d'entrée en vigueur 1 JANVIER 1982
 
 	**Cité par**:
 
 	  - Arrêté du 24 décembre 2008 (V)
-	  - Arrêté du 18 novembre 2010 - art. 3 (V)
 	  - Loi n°2009-431 du 20 avril 2009 - art. 1 (V)
 	  - Arrêté du 18 novembre 2010 - art. 1 (M)
 	  - Arrêté du 18 novembre 2010 - art. 2 (V)
+	  - Arrêté du 18 novembre 2010 - art. 3 (V)
 	  - Loi n°2011-1977 du 28 décembre 2011 - art. 8 (V)
 	  - Loi n°2014-891 du 8 août 2014 - art. 1 (V)
 	  - Loi n°2016-1917 du 29 décembre 2016 - art. 2
@@ -34475,28 +34825,13 @@ revenus de l'année 1979, le barème avait été fixé par l'article 3-I de la l
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46-0 B bis (V)
 	  - Livre des procédures fiscales - art. L252 B (VD)
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 160
-	  - CGI 194
-	  - CGI 195
-	  - CGI 4 B
-	  - Loi n°80-30 1980-01-18 ART. 3 I FINANCES POUR 1980
+	  - Décret n°82-881 1982-10-15
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er juillet 1981
-
-	**Modifié par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 3 (P) JORF 19 JANVIER 1980
-	  - Loi n°80-30 du 18 janvier 1980 - art. 72 (P) JORF 19 JANVIER 1980
-	  - Loi n°80-30 du 18 janvier 1980 - art. 79 (P) JORF 19 JANVIER 1980
-	  - Loi n°80-1094 du 30 décembre 1980 - art. 2 (P) JORF 31 DECEMBRE 1980 en vigueur 1 JANVIER 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
+	  - HISTO: Edition du 1er septembre 1982
 
 
 ###### Article 199 ter A
@@ -35450,105 +35785,6 @@ réintégrations visées au 3-d est réduit à due concurrence.
 	**Codifié par**:
 
 	  - Décret n°82-881 1982-10-15
-
-
-###### Article 211
-
-I. Dans les sociétés à responsabilité limitée n'ayant pas opté pour le régime fiscal des sociétés de personnes dans les
-conditions prévues à l'article 3-IV du décret n° 55-594 du 20 mai 1955 modifié et dont les gérants sont majoritaires, dans
-les sociétés en commandite par actions, de même que dans les sociétés en commandite simple, les sociétés en nom collectif et
-les sociétés en participation ayant exercé l'option prévue à l'article 206-3, les traitements, remboursements forfaitaires de
-frais et toutes autres rémunérations sont, sous réserve des dispositions des articles 39-3 et 211 bis, admis en déduction du
-bénéfice de la société pour l'établissement de l'impôt, à la condition que ces rémunérations correspondent à un travail
-effectif.
-
-Les sommes retranchées du bénéfice de la société en vertu de l'alinéa précédent sont soumises à l'impôt sur le revenu au nom
-des bénéficiaires dans les conditions prévues à l'article 62.
-
-Pour l'application du présent article, les gérants qui n'ont pas personnellement la propriété de parts sociales sont
-considérés comme associés si leur conjoint ou leurs enfants non émancipés ont la qualité d'associé.
-
-Dans ce cas, comme dans celui où le gérant est associé, les parts appartenant en toute propriété ou en usufruit au conjoint
-et aux enfants non émancipés du gérant sont considérées comme possédées par ce dernier.
-
-II. Les dispositions du I ne sont pas applicables :
-
-a. Aux sociétés par actions ou à responsabilité limitée admises au régime fiscal des sociétés de personnes prévu à l'article
-239 bis A ;
-
-b. Aux sociétés immobilières de copropriété visées à l'article 1655 ter.
-
-c. Aux sociétés à responsabilité limitée ayant opté pour le régime fiscal prévu par l'article 239 bis AA.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1655 ter
-	  - CGI 206 3
-	  - CGI 211 bis
-	  - CGI 239 bis A
-	  - CGI 239 bis AA
-	  - CGI 39 3
-	  - CGI 62
-	  - Décret n°55-594 1955-05-20 ART. 3 IV
-
-	**Modifié par**:
-
-	  - Loi n°80-1094 du 30 décembre 1980 - art. 52 (P) JORF 31 DECEMBRE 1980 en vigueur le 1 JANVIER 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 62 (V)
-
-
-###### Article 211 bis
-
-Pour l'application des dispositions de l'article 39-3, premier alinéa, relatives à la déduction des allocations forfaitaires
-qu'une société attribue à ses dirigeants ou aux cadres de son entreprise pour frais de représentation et de déplacement, les
-dirigeants [*définition*] s'entendent, dans les sociétés de personnes et sociétés en participation qui ont opté pour le
-régime fiscal des sociétés de capitaux, des associés en nom et des membres de ces sociétés, dans les sociétés à
-responsabilité limitée qui n'ont pas opté pour le régime fiscal des sociétés de personnes et les sociétés en commandite par
-actions, des gérants et, en ce qui concerne les sociétés anonymes, du président du conseil d'administration, du directeur
-général, de l'administrateur provisoirement délégué, des membres du directoire et de tout administrateur ou membre du conseil
-de surveillance chargé de fonctions spéciales.
-
-Ces dispositions ne sont pas applicables :
-
-a. Aux sociétés par actions ou à responsabilité limitée admises au régime fiscal des sociétés de personnes prévu à l'article
-239 bis A ;
-
-b. Aux sociétés immobilières de copropriété visées à l'article 1655 ter.
-
-c. Aux sociétés à responsabilité limitée ayant opté pour le régime fiscal prévu par l'article 239 bis AA.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1655 ter
-	  - CGI 239 bis A
-	  - CGI 239 bis AA
-	  - CGI 39 3 AL. 1
-
-	**Modifié par**:
-
-	  - Loi n°80-1094 du 30 décembre 1980 - art. 52 (P) JORF 31 DECEMBRE 1980 en vigueur le 1 JANVIER 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 211 (V)
-	  - Code de la construction et de l'habitation. - art. R313-17 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 B (V)
-	  - Code rural et de la pêche maritime - art. R716-33 (V)
 
 
 ##### CALCUL DE L'IMPOT.
@@ -39466,25 +39702,6 @@ expirent au plus tard le 31 décembre 1981 [*date limite*].
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 239 bis A
-
-Les sociétés par actions ou à responsabilité limitée qui seront constituées avant le 1er janvier 1971, et dont les objectifs
-seront conformes au plan de développement économique et social, pourront être admises, dans des conditions qui sont fixées
-par décret (1) et pendant une période qui ne pourra excéder cinq ans, au régime fiscal des sociétés de personnes.
-
-(1) Annexe III, art. 46 quinquies à 46 duodecies
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 46 quinquies A CGIAN3 46 duodecies
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 239 bis B
 
 I  Les sociétés françaises visées à l'article 108 qui seront dissoutes avant une date fixée par décret (1) pourront répartir
@@ -42298,12 +42515,13 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 7 % en ce qui conc
 a. Les prestations relatives :
 
 - à la fourniture de logement et aux trois quarts du prix de pension ou de demi-pension dans les établissements d'hébergement
-(1) ; ce taux s'applique aux locations meublées dans les mêmes conditions que pour les établissements d'hébergement (2) ;
+autres que les hôtels de tourisme de catégorie 4 étoiles et 4 étoiles luxe et les relais de tourisme de catégorie 4 étoiles
+(1) (2) ; dans les mêmes conditions que pour les établissements d'hébergement (3) ;
 
 - à la fourniture de logement et de nourriture dans les maisons de retraite ;
 
 a bis. Les recettes provenant de la fourniture des repas dans les cantines d'entreprises et répondant aux conditions qui sont
-fixées par décret (3) ;
+fixées par décret (4) ;
 
 a ter. Les locations d'emplacements sur les terrains de camping classés, à condition que soit délivrée à tout client une note
 d'un modèle agréé par l'administration indiquant les dates de séjour et le montant de la somme due ;
@@ -42333,44 +42551,18 @@ autre que la présence des animaux ;
 b quater. Les transports de voyageurs ;
 
 b quinquies. Les locations et cessions de droits portant sur les films ainsi que les droits d'entrée pour les séances
-cinématographiques (4). Cette disposition n'est pas applicable aux films pornographiques ou d'incitation à la violence
+cinématographiques (5). Cette disposition n'est pas applicable aux films pornographiques ou d'incitation à la violence
 mentionnés à l'article 281 bis A ;
 
 c. Les opérations d'achat, d'importation, de vente, de livraison, de commission, de courtage ou de façon, portant sur les
 produits suivants :
 
-1° Eau ;
-
-2° Produits alimentaires, autres que les boissons, non soumis au taux intermédiaire ;
-
-3° Lait livré pour l'alimentation, soit à l'état naturel, pasteurisé ou homogénéisé, soit à l'état concentré sucré ou non
-sucré, soit en poudre sucré ou non sucré, laits aromatisés ou fermentés ou les deux à la fois, yaourts ou yoghourts, crème de
-lait ;
-
-4° Huiles fluides alimentaires, graines, fruits oléagineux et huiles végétales utilisés pour la fabrication des huiles
-fluides alimentaires ;
-
-5° Vinaigres comestibles, ainsi que les vins et alcools utilisés pour la fabrication de ces vinaigres ;
-
-6° Chocolat à croquer et à cuire en tablettes, fèves de cacao et beurre de cacao ;
-
-7° Cafés, thés, chicorées, succédanés et mélanges de ces produits ;
-
-8° Pâtisserie fraîche dont la définition est fixée par arrêté ministériel (5) ;
-
-9° Farines composées pour enfants, petits déjeuners en poudre, entremets et desserts à préparer même s'ils contiennent du
-chocolat ou du cacao ;
-
-10° Sucre ;
-
-11° Confitures, purées, gelées et marmelades ; pulpes et jus de fruits destinés à la confiturerie ;
-
-12° Produits d'origine agricole, de la pêche, de la pisciculture et de l'aviculture n'ayant subi aucune transformation ;
+1° à 12° (Devenus sans objet) (6) ;
 
 13° Aliments simples ou composés utilisés pour la nourriture du bétail, des animaux de basse-cour, des poissons d'élevage
 destinés à la consommation humaine et des abeilles, ainsi que les produits entrant dans la composition de ces aliments et
 dont la liste est fixée par arrêté du ministre de l'économie et des finances pris après avis des professions intéressées
-(6) ;
+(7) ;
 
 14° Préparations magistrales, produits officinaux et spécialités pharmaceutiques destinées à l'usage de la médecine humaine
 et faisant l'objet de l'autorisation de mise sur le marché prévue à l'article L601 du code de la santé publique, produits
@@ -42379,7 +42571,7 @@ régis par l'article L666 du même code, sous réserve de l'exonération prévue
 d. Les opérations d'achat, d'importation, de vente, de livraison, de commission, de courtage ou de façon portant sur les
 produits suivants :
 
-1° Sous-produits d'origine animale dont la définition est fixée par décret (7) ;
+1° Sous-produits d'origine animale dont la définition est fixée par décret (8);
 
 2° Amendements calcaires ;
 
@@ -42395,20 +42587,21 @@ d'une autorisation de vente délivrée par le ministre de l'agriculture.
 e. Les opérations d'achat, d'importation, de vente, de livraison, de commission, de courtage ou de façon portant sur les
 livres.
 
-(1) Antérieurement au 1er janvier 1978 cette disposition ne s'appliquait qu'aux hôtels classés de tourisme et aux villages de
-vacances classés.
+(1) Du 1er janvier 1978 au 30 septembre 1981 le taux réduit s'appliquait à tous les établissements d'hébergement.
 
-(2) Annexe IV, art. 30.
+(2) Cf. décret n° 66-371 du 13 juin 1966 relatif au classement et aux prix des hôtels et restaurants.
 
-(3) Annexe III, art. 85 bis.
+(3) Annexe IV, art. 30.
 
-(4) A compter du 1er novembre 1979.
+(4) Annexe III, art. 85 bis.
 
-(5) Annexe IV, art. 31 A.
+(5) A compter du 1er novembre 1979.
 
-(6) Annexe IV, art. 31.
+(6) Dispositions abrogées à compter du 1er juillet 1982.
 
-(7) Annexe III, art. 65 B.
+(7) Annexe IV, art. 31.
+
+(8) Annexe III, art. 65 B.
 
 **Liens relatifs à cet article**
 
@@ -42420,22 +42613,14 @@ vacances classés.
 	  - CGIAN3 85 bis
 	  - CGIAN4 30
 	  - CGIAN4 31
-	  - CGIAN4 31 A
+	  - Décret n°66-371 1966-06-13
 	  - Code de la santé publique - art. L601 (M)
 	  - Code de la santé publique - art. L666 (P)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-
 	**Modifié par**:
 
-	  - Loi n°77-1467 du 30 décembre 1977 - art. 12 (P) JORF 31 DECEMBRE 1977 date d'entrée en vigueur 1 JANVIER 1978
-	  - Loi n°78-1240 du 29 décembre 1978 - art. 31 () JORF 30 DECEMBRE 1978
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
+	  - Loi n°81-734 du 3 août 1981 - art. 8 (P) JORF 4 AOUT 1981
+	  - Loi n°82-540 du 28 juin 1982 - art. 3 (V) JORF 29 JUIN 1982
 
 	**Cité par**:
 
@@ -42449,6 +42634,14 @@ vacances classés.
 	  - Code général des impôts, CGI. - art. 302 bis ZO (Ab)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 86 (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 30 (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
 
 
 ##### OBLIGATIONS DES REDEVABLES
@@ -45147,27 +45340,6 @@ de contributions indirectes.
 
 #### TABACS
 
-###### Article 566
-
-Sont assimilés aux tabacs manufacturés les produits destinés à être fumés, prisés ou mâchés, même s'ils ne sont que
-partiellement constitués de tabac.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI 564 decies
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - SPEC_APPLI: L'article 566 est transféré sous l'article 564 decies
-
-	**Cite**:
-
-	  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
-
-
 ###### Article 568
 
 Le monopole de vente au détail est confié à l'administration des impôts qui l'exerce par l'intermédiaire de débitants
@@ -45433,6 +45605,31 @@ saisis sont constitués en contravention.
 	**Abrogé par**:
 
 	  - Loi n°86-1317 du 30 décembre 1986 - art. 32 (P) JORF 31 décembre 1986 en vigueur le 1er mars 1987
+
+
+##### DEFINITION DES TABACS MANUFACTURES (1).
+
+###### Article 564 decies
+
+Sont assimilés aux tabacs manufacturés, les produits destinés à être fumés, prisés ou mâchés, même s'ils ne sont que
+partiellement constitués de tabac.
+
+(1) Voir annexe II, art. 275 A à 275 G.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 275 A A CGIAN2 275 G
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L3816-1 (VT)
+	  - Code de la santé publique - art. L3822-4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
 
 
 #### ALLUMETTES CHIMIQUES.
@@ -47733,23 +47930,6 @@ apports mobiliers.
 	**Codifié par**:
 
 	  - Décret n°82-881 1982-10-15
-
-
-###### Article 829
-
-Les actes constatant les opérations de dissolution et de dévolution d'actif réalisées par les sociétés visées à l'article
-1378 quater, sont soumis à un droit fixe d'enregistrement ou à une taxe fixe de publicité foncière de 300 F, sous réserve que
-ces opérations soient accomplies dans les conditions prévues audit article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1378 quater
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 830
@@ -52094,36 +52274,6 @@ loi précitée.
 
 ### DISPOSITIONS COMMUNES AUX TITRES I, II ET IV *IMPOTS DIRECTS ET TAXES ASSIMILEES, TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES, ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE*.
 
-###### Article 1378 quater
-
-Lorsque les sociétés par actions, les sociétés à responsabilité limitée et les sociétés civiles ayant pour activité
-principale, à la date du 9 juillet 1969, la gestion d'immeubles qui leur appartiennent et qu'elles louent ou affectent à des
-fins charitables, éducatives, sociales, sanitaires, cultuelles ou culturelles, décident leur dissolution et la dévolution de
-leur actif à une ou plusieurs personnes morales constituées aux mêmes fins et soumises à l'un des régimes définis par les
-articles 1er à 31 de la loi du 1er juillet 1901 ou par les articles 18 à 24 de la loi du 9 décembre 1905, ces opérations ne
-donnent lieu à aucun autre impôt ou taxe que la perception sur les actes qui les constatent de l'imposition fixe prévue à
-l'article 829, à condition :
-
-a Que les sociétés qui y procèdent aient leur siège en métropole et dans les départements d'outre-mer;
-
-b Que lesdites opérations aient été préalablement autorisées par un arrêté conjoint du ministre de l'intérieur et du ministre
-de l'économie et des finances;
-
-c Que la demande d'autorisation ait été déposée avant le 31 décembre 1974.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 829
-	  - Loi n°1901-07-01 ART. 1 A ART. 31
-	  - Loi n°1905-12-09 ART. 18 A ART. 24
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 1378 septies
 
 I  1  Les sociétés civiles de moyens - constituées entre membres appartenant à des professions dont l'exercice est réservé
@@ -52890,95 +53040,6 @@ de la population comptée à part.
 
 ##### DISPOSITIONS GENERALES.
 
-###### Article 1636
-
-En 1974 et 1975, les taux des impositions qui sont perçues au profit des départements, des communes et de leurs groupements
-au titre de la taxe foncière sur les propriétés bâties, de la taxe foncière sur les propriétés non bâties, de la taxe
-d'habitation et de la contribution des patentes sont fixés de manière que la répartition constatée en 1973, dans chaque
-commune, entre les quatre anciennes contributions directes, ne soit affectée que par les variations de la matière imposable.
-
-Toutefois, la part assignée à la taxe foncière sur les propriétés bâties est réduite en proportion de l'importance des
-installations industrielles précédemment soumises à la contribution foncière qui sont exonérées de la nouvelle taxe en vertu
-de l'article 1382-11°.
-
-Cette diminution est compensée à due concurrence par une augmentation de la part de la patente acquittée par les entreprises
-industrielles relevant du tableau C du tarif de cet impôt, à l'exclusion de celles qui sont inscrites au répertoire des
-métiers, et, le cas échéant, par une majoration du montant des redevances communale et départementale des mines. Le produit
-de cette dernière majoration est versé aux collectivités locales sur le territoire desquelles sont situées les installations
-industrielles visées à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1382 11°
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1636 A
-
-En 1976, 1977 et 1978, la répartition entre les quatre impôts directs locaux du produit voté par les collectivités et
-groupements s'effectue de la manière prévue à l'article 1636, sous réserve des aménagements suivants :
-
-1° La part de la taxe professionnelle est déterminée d'après les montants produits en 1975 par les impositions et redevances
-supprimées; elle est corrigée en fonction des créations et fermetures d'établissements (1);
-
-2° Les artisans ou détaillants n'employant pas plus de deux salariés sont exonérés de la cotisation départementale de taxe
-professionnelle, lorsqu'ils exercent dans des communes où les bases de patente ou de taxe professionnelle, divisées par le
-nombre d'habitants, étaient l'année précédente inférieures d'au moins 50 % à la moyenne départementale;
-
-3° Un seul taux est applicable pour chacune des taxes revenant à un groupement de communes habilité à percevoir l'impôt ou au
-département; en ce qui concerne la taxe d'habitation perçue pour les communautés urbaines et districts à fiscalité propre,
-l'application de cette disposition est reportée au 1er janvier 1979;
-
-4° Les communes dont le taux de taxe d'habitation pour 1975 dépasse le double de la moyenne départementale des taux de taxe
-d'habitation alors que leur taux de patente pour 1975 est inférieur à la moyenne départementale des taux de patente pourront,
-sur délibération du conseil municipal, abaisser de 10 % par an la part de la taxe d'habitation dans la répartition, entre les
-quatre impôts directs locaux, du produit voté (2).
-
-1) Annexe II, art. 327 bis A.
-
-2) Annexe II, art. 327 bis B.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1636
-	  - CGIAN2 327 bis A
-	  - CGIAN2 327 bis B
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1636 B bis
-
-En 1979, la répartition entre les taxes foncières, la taxe professionnelle et la taxe d'habitation du produit voté par les
-conseils municipaux, les conseils généraux et les instances délibérantes des organismes de coopération intercommunale dotés
-d'une fiscalité propre reste fixée dans les conditions prévues par les articles 1636, 1636 A et 1636 C.
-
-Toutefois, la part de la taxe professionnelle est corrigée du tiers de la variation constatée entre les bases brutes de 1977
-et celles de 1975. Il est fait abstraction des variations déjà prises en compte au titre des créations et fermetures
-d'établissements.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1636
-	  - CGI 1636 A
-	  - CGI 1636 C
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 1636 B octies
 
 I. Le produit de la taxe régionale prévue à l'article 1609 decies [*taxe régionale additionnelle*] est réparti entre les
@@ -53021,60 +53082,6 @@ V. Les dispositions du présent article entreront en vigueur à compter de 1981 
 	  - Code général des impôts, CGI. - art. 1607 ter (V)
 	  - Code général des impôts, CGI. - art. 1609 B (V)
 	  - Code général des impôts, CGI. - art. 1609 quater (VT)
-
-
-###### Article 1636 B quater
-
-En 1980, les taux des taxes foncières, de la taxe d'habitation et de la taxe professionnelle perçues au profit des
-départements, des communes et de leurs groupements dotés d'une fiscalité propre sont fixés de façon que la répartition
-constatée en 1979 du produit de ces quatre taxes ne soit affectée que par les variations de la matière imposable.
-
-Toutefois, pour la taxe professionnelle, seules sont prises en compte les variations résultant des créations et fermetures
-d'établissements. Pour les autres taxes, il est fait abstraction des variations résultant de l'actualisation des valeurs
-locatives prévue à l'article 1518-III.
-
-L'article 1636 A-2° est maintenu en application jusqu'à l'entrée en vigueur de la cotisation minimum prévue à l'article 1647
-D.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1518 III
-	  - CGI 1636 A 2°
-	  - CGI 1647 D
-
-	**Créé par**:
-
-	  - Loi n°80-10 du 10 janvier 1980 - art. 1 (V) JORF 11 JANVIER 1980
-	  - Loi n°80-10 du 10 janvier 1980 - art. 12 (V) JORF 11 JANVIER 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-###### Article 1636 B quinquies
-
-En 1980, la répartition entre les taxes foncières, la taxe professionnelle et la taxe d'habitation des produits de la taxe
-régionale, des taxes spéciales d'équipement perçues au profit de la région d'Ile-de-France, de l'établissement public
-d'aménagement de la Basse-Seine et de l'établissement public foncier de la métropole lorraine, ainsi que du produit fiscal à
-recouvrer dans chacune des communes membres au profit d'un syndicat de communes ou d'un district qui fait application de
-l'article 1609 quater, est effectuée dans les mêmes conditions qu'en 1979.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1609 quater
-
-	**Créé par**:
-
-	  - Loi n°80-10 du 10 janvier 1980 - art. 31 (V) JORF 11 JANVIER 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
 
 
 ###### Article 1636 B sexies
@@ -53133,20 +53140,6 @@ moyens pondérés de chaque taxe dans l'ensemble des communes membres.
 	**Codifié par**:
 
 	  - Décret n°82-881 1982-10-15
-
-
-###### Article 1636 B ter
-
-Dans les communautés urbaines et les districts à fiscalité propre, les différences existant en 1978 entre le taux moyen de la
-taxe d'habitation perçue par le groupement et les taux appliqués au profit de celui-ci dans chaque commune membre sont
-réduites d'un cinquième en 1979 sauf si les conseils délibérants statuant avant le 31 mars 1979 à la majorité simple décident
-de les maintenir totalement.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### DISPOSITIONS PARTICULIERES.
@@ -53713,9 +53706,7 @@ Pour l'application du présent paragraphe, chaque unité de production ou de tra
 IV. A défaut d'accord prévu au II sur le plan interdépartemental et au III, la répartition est effectuée par arrêté du
 ministre de l'intérieur.
 
-IV bis- Dans les communes soumises à un prélèvement au profit du fonds départemental de la taxe professionnelle, la
-répartition entre les quatre taxes directes locales prévue à l'article 1636 B quater est effectuée sans que soient prises en
-compte les bases sur lesquelles porte ce prélèvement.
+IV bis- (Périmé).
 
 V. Une fraction des recettes départementales de la taxe professionnelle peut également être affectée au fonds par décision du
 conseil général. Ce supplément de recettes est réparti par lui entre les communes suivant les critères qu'il détermine.
@@ -53732,12 +53723,16 @@ VI. Les conditions d'application du présent article sont fixées par décret en
 	  - CGIAN2 327 B
 	  - CGIAN2 327 C
 	  - CGIAN2 327 D
-	  - Loi n°70-610 du 10 juillet 1970 - art. 4 (Ab)
 	  - Décret n°81-120 1981-02-06
+	  - Loi n°70-610 du 10 juillet 1970 - art. 4 (Ab)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°80-10 du 10 janvier 1980 - art. 5 (V) JORF 11 JANVIER 1980
+	  - TXT_ASSOCIE: CGI 1636 B quater
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
 
 	**Cité par**:
 
@@ -55306,9 +55301,9 @@ Le montant de cette taxe est arrêté chaque année pour l'année suivante dans 
 conseil d'administration de l'établissement public [*autorité compétente*] et notifié au ministre de l'économie et des
 finances.
 
-Ce montant est réparti, dans les conditions définies aux articles 1636 B quinquies, 1636 B octies-II et 1636 C, entre toutes
-les personnes physiques ou morales assujetties aux taxes foncières sur les propriétés bâties et non bâties, à la taxe
-d'habitation et à la taxe professionnelle dans les communes comprises dans la zone de compétence de l'établissement public.
+Ce montant est réparti, dans les conditions définies aux articles 1636 B octies-II et 1636 C, entre toutes les personnes
+physiques ou morales assujetties aux taxes foncières sur les propriétés bâties et non bâties, à la taxe d'habitation et à la
+taxe professionnelle dans les communes comprises dans la zone de compétence de l'établissement public.
 
 Les cotisations sont établies et recouvrées, les réclamations sont présentées et jugées comme en matière de contributions
 directes.
@@ -55325,25 +55320,23 @@ Les conditions d'application du présent article sont fixées par décret en Con
 	**Cite**:
 
 	  - CGI 1636 B octies II
-	  - CGI 1636 B quinquies
 	  - CGI 1636 C
 	  - Décret n°68-376 1968-04-26
 	  - Décret n°77-8 1977-01-03
 	  - Loi n°80-1094 1980-12-30 ART. 61 II FINANCES POUR 1981
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°80-10 du 10 janvier 1980 - art. 31 (V) JORF 11 JANVIER 1980
-	  - Loi n°80-1094 du 30 décembre 1980 - art. 61 (P) JORF 31 DECEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
+	  - TXT_ASSOCIE: CGI 1636 B quinquies
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1609 (Ab)
 	  - Code général des impôts, CGI. - art. 1647 B sexies (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
 
 
 #### TAXE SPECIALE D'EQUIPEMENT PERCUE AU PROFIT DE L'ETABLISSEMENT PUBLIC FONCIER DE LA METROPOLE LORRAINE.
@@ -55357,8 +55350,7 @@ l'établissement public [*autorité compétente*] et notifié au ministre de l'�
 peut être modifié que par une loi de finances (1).
 
 La taxe est répartie et recouvrée dans la zone de compétence de l'établissement suivant les mêmes règles que la taxe
-régionale mentionnée à l'article 1609 decies et conformément aux modalités définies aux articles 1636 B quinquies, 1636 B
-octies-II et 1636 C.
+régionale mentionnée à l'article 1609 decies et conformément aux modalités définies aux articles 1636 B octies-II et 1636 C.
 
 (1) Montant fixé en dernier lieu, à compter de 1981, par la loi de finances pour 1981, n° 80-1094 du 30 décembre 1980, art.
 61-I.
@@ -55367,120 +55359,29 @@ octies-II et 1636 C.
 
 	**Cite**:
 
-	  - CGI 1609 decies
-	  - CGI 1636 B octies II
-	  - CGI 1636 B quinquies
-	  - CGI 1636 C
+	  - CGI 1609 decies, 1636 B octies II, 1636 C
 	  - Loi n°80-1094 1980-12-30 ART. 61 I FINANCES POUR 1981
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°80-10 du 10 janvier 1980 - art. 31 (V) JORF 11 JANVIER 1980
-	  - Loi n°80-1094 du 30 décembre 1980 - art. 61 (P) JORF 31 DECEMBRE 1980
+	  - TXT_ASSOCIE: CGI 1636 B quinquies
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°82-881 1982-10-15
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1647 B sexies (V)
 
 
-#### IMPOSITIONS PERCUES AU PROFIT DES COMMUNAUTES URBAINES (VOIR EGALEMENT ART. 1609 SEPTIES).
-
-###### Article 1609 bis
-
-Les communautés urbaines peuvent percevoir :
-
-1° La taxe foncière sur les propriétés bâties, la taxe foncière sur les propriétés non bâties, la taxe d'habitation et la
-taxe professionnelle ; le montant de ces impositions est fixé par le conseil de communauté [*autorité compétente*] en
-fonction de ses besoins et leur répartition s'effectue suivant les modalités définies aux articles 1636 B quater, 1636 B
-sexies et 1636 B nonies ;
-
-2° La taxe d'enlèvement des ordures ménagères, dans les conditions fixées par l'article 1520 ;
-
-3° La taxe de balayage, lorsqu'elles assurent le balayage de la superficie des voies livrées à la circulation publique, qui
-incombe aux propriétaires riverains.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1520
-	  - CGI 1609 septies
-	  - CGI 1636 B nonies
-	  - CGI 1636 B quater
-	  - CGI 1636 B sexies
-
-	**Modifié par**:
-
-	  - Loi n°80-10 du 10 janvier 1980 - art. 1 (V) JORF 11 JANVIER 1980
-	  - Loi n°80-10 du 10 janvier 1980 - art. 2 (V) JORF 11 JANVIER 1980
-	  - Loi n°80-10 du 10 janvier 1980 - art. 23 (V) JORF 11 JANVIER 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Cité par**:
-
-	  - Loi n°2003-1311 du 30 décembre 2003 - art. 53 (V)
-	  - Code général des collectivités territoriales - art. L2313-1 (V)
-	  - Code général des collectivités territoriales - art. L5215-20-1 (V)
-	  - Code général des collectivités territoriales - art. L5215-32 (V)
-	  - Code général des impôts, CGI. - art. 1640 B (V)
-
-
-#### IMPOSITIONS PERCUES AU PROFIT DES SYNDICATS DE COMMUNES ET DES SYNDICATS MIXTES.
-
-###### Article 1609 quater
-
-Le comité d'un syndicat de communes peut décider, dans les conditions prévues à l'article L 251-4 du code des communes, de
-lever les impositions mentionnées à l'article 1379-I-1° à 4° en remplacement de la contribution des communes associées ; la
-répartition de ces impositions s'effectue suivant les modalités définies aux articles 1636 B quinquies et 1636 B octies-IV.
-
-Ces dispositions sont applicables aux syndicats mixtes ne comprenant d'autres personnes morales que des communes, des
-syndicats de communes ou des districts.
-
-Les syndicats de communes et les syndicats mixtes sont substitués aux communes pour l'institution de la taxe d'enlèvement des
-ordures ménagères ou des redevances prévues à l'article 1520, lorsqu'ils assurent la collecte ainsi que la destruction ou le
-traitement des ordures ménagères.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1379 I 1°, 2°, 3°, 4°
-	  - CGI 1520
-	  - CGI 1636 B octies IV
-	  - CGI 1636 B quinquies
-	  - CODE DES COMMUNES. - art. L251-4 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°80-10 du 10 janvier 1980 - art. 1 (V) JORF 11 JANVIER 1980
-	  - Loi n°80-10 du 10 janvier 1980 - art. 31 (V) JORF 11 JANVIER 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L2313-1 (V)
-	  - Code général des impôts, CGI. - art. 1636 B undecies (M)
-	  - Code général des impôts, CGI. - art. 1636 C (V)
-	  - Code général des impôts, CGI. - art. 1647-0 B septies (MMN)
-
-
 #### IMPOSITIONS PERCUES AU PROFIT DES DISTRICTS.
 
 ###### Article 1609 quinquies
 
-Les dispositions des articles 1609 quater, 1636 B quinquies et 1636 B octies-IV sont applicables aux districts. Toutefois,
-lorsque la décision en est prise par délibération du conseil de district statuant à la majorité des deux tiers, il est fait
-application de l'article 1609 bis-1°.
+Les dispositions des articles 1609 quater, 1636 B octies-IV sont applicables aux districts. Toutefois, lorsque la décision en
+est prise par délibération du conseil de district statuant à la majorité des deux tiers, il est fait application de l'article
+1609 bis-1°.
 
 Les districts sont substitués aux communes pour l'institution de la taxe d'enlèvement des ordures ménagères ou des redevances
 prévues à l'article 1520, lorsqu'ils assurent la collecte ainsi que la destruction ou le traitement des ordures ménagères.
@@ -55489,20 +55390,15 @@ prévues à l'article 1520, lorsqu'ils assurent la collecte ainsi que la destruc
 
 	**Cite**:
 
-	  - CGI 1520
-	  - CGI 1609 bis 1°
-	  - CGI 1609 quater
-	  - CGI 1636 B octies IV
-	  - CGI 1636 B quinquies
+	  - CGI 1609 quater, 1636 B octies IV, 1609 bis 1°, 1520
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°80-10 du 10 janvier 1980 - art. 1 (V) JORF 11 JANVIER 1980
-	  - Loi n°80-10 du 10 janvier 1980 - art. 31 (V) JORF 11 JANVIER 1980
+	  - TXT_ASSOCIE: CGI 1636 B quinquies
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°82-811 1982-10-15
 
 
 #### IMPOSITIONS PERCUES AU PROFIT DES REGIONS.
@@ -55523,20 +55419,16 @@ de loi de finances de l'année (1).
 Le montant maximal des ressources fiscales par habitant résultant de l'application des dispositions du troisième alinéa est
 fixé chaque année par décret (2).
 
-Le montant par habitant des ressources fiscales inscrites au budget de chaque établissement public régional ne peut
-progresser de plus de 20 % par an.
-
 Lorsque les recouvrements opérés font apparaître que le maximum a été dépassé pour un exercice, le montant de ressources
 excédant de plus de 5 % ce maximum est reporté et vient en déduction du montant maximum de ressources autorisé pour
 l'exercice suivant cette constatation.
 
-La taxe régionale additionnelle est répartie suivant les modalités définies aux articles 1636 B quinquies, 1636 B octies-I et
-1636 C.
+La taxe régionale additionnelle est répartie suivant les modalités définies aux articles 1636 B octies-I et 1636 C.
 
 (1) Disposition applicable à compter de 1981.
 
-(2) Montant maximal fixé pour 1981 à 67,68 F par le décret n° 81-102 du 4 février 1981. Pour 1980, le plafond avait été fixé
-à 60 F (Loi n° 80-30 du 18 janvier 1980, art. 84).
+(2) Montant maximal fixé pour 1982 à 79,32 F par le décret n° 82-44 du 16 janvier 1982. Pour 1981, le montant avait été fixé
+à 67,68 F par le décret n° 81-102 du 4 février 1981.
 
 **Liens relatifs à cet article**
 
@@ -55545,20 +55437,27 @@ La taxe régionale additionnelle est répartie suivant les modalités définies 
 	  - CGI 1635 bis D
 	  - CGI 1635 bis E
 	  - CGI 1636 B octies I
-	  - CGI 1636 B quinquies
 	  - CGI 1636 C
-	  - Loi n°80-30 1980-01-18 ART. 84 FINANCES POUR 1980
 	  - Décret n°81-102 1981-02-04
+	  - Décret n°82-44 1982-01-16
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 1636 B quinquies
 
 	**Modifié par**:
 
-	  - Loi n°80-1094 du 30 décembre 1980 - art. 59 () JORF 31 DECEMBRE 1980
+	  - Loi n°81-1179 du 31 décembre 1981 - art. 16 (P) JORF 1er janvier 1982
 
 	**Cité par**:
 
 	  - Code des postes et des communications électroni... - art. R20-44-20 (V)
 	  - Code général des impôts, CGI. - art. 1681 sexies (VD)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 331 A (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
 
 
 ### CONTRIBUTIONS INDIRECTES
@@ -56877,6 +56776,33 @@ l'article 163 octies-1°, doivent obligatoirement revêtir la forme nominative l
 	**Créé par**:
 
 	  - Loi n°81-1160 1981-12-30 ART. 94 I JORF 31 DECEMBRE 1981 en vigueur le 1er JANVIER 1982
+
+
+###### Article 1649 quater-0 B
+
+Les valeurs mobilières émises en territoire français et soumises à la législation française, quelle que soit leur forme,
+doivent être inscrites en comptes tenus par la personne morale émettrice ou par un intermédiaire habilité.
+
+Les titres des sociétés par actions autres que les SICAV qui ne sont pas inscrits à la cote officielle d'une bourse de
+valeurs ou au compartiment spécial du marché hors cote doivent obligatoirement être inscrits à un compte tenu chez elle par
+la société émettrice au nom du propriétaire des titres (1).
+
+(1) Ces dispositions entreront en vigueur 18 mois après la publication du décret pris pour leur application. Elles ne
+concernent pas les obligations émises avant cette entrée en vigueur et amortissables par tirage au sort de numéros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+	**Créé par**:
+
+	  - Loi n°81-1160 1981-12-30 ART. 94 II JORF 31 DECEMBRE 1981 en vigueur le 1er JANVIER 1982
 
 
 #### ARTISANS
@@ -62470,6 +62396,33 @@ du Trésor, et le privilège créé au profit des taxes communales, immédiateme
 
 	  - Code général des impôts, CGI. - art. 1920 (V)
 	  - Code général des impôts, CGI. - art. 1923 (V)
+
+
+### Section V : Dispositions communes
+
+###### Article 1929 sexies
+
+Le privilège qui s'exerce en matière de taxes sur le chiffre d'affaires, de droits d'enregistrement, de taxe de publicité
+foncière et de droits de timbre ainsi que de contributions indirectes, est étendu dans les mêmes conditions et au même rang
+que les droits en principal à l'ensemble des majorations et pénalités d'assiette et de recouvrement appliquées à ces droits
+(1).
+
+(1) Ces dispositions s'appliquent aux majorations, pénalités et frais accessoires relatifs aux infractions constatées à
+partir du 1er janvier 1982.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+	**Créé par**:
+
+	  - Loi n°81-1179 du 31 décembre 1981 - art. 8 (P) JORF 1er janvier 1981
 
 
 ## Chapitre V : Dégrèvements et restitutions d'impôts
