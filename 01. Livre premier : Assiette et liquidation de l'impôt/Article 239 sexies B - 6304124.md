@@ -4,15 +4,21 @@ Les dispositions des premier et troisième alinéas du paragraphe I et celles du
 applicables aux locataires qui acquièrent des immeubles qui leur sont donnés en crédit-bail par des sociétés ou organismes
 autres que des sociétés immobilières pour le commerce et l'industrie.
 
+Un décret fixe les modalités d'application des dispositions du présent article ainsi que les obligations déclaratives.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 239 sexies
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-935 1989-12-29 art. 22 II 1 Finances pour 1990 JORF 30 décembre 1989, article créé directement et incorporé dans l'édition du 15 juin 1990
+	  - Loi n°89-935 1989-12-29 art. 22 IV Finances pour 1990 JORF 30 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
 
 	**Cité par**:
 
@@ -20,3 +26,7 @@ autres que des sociétés immobilières pour le commerce et l'industrie.
 	  - Code général des impôts, CGI. - art. 239 sexies D (V)
 	  - Code général des impôts, CGI. - art. 39 duodecies A (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 octies E (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
