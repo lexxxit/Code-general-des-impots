@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1968-12-29
+Version Consolidée au 1969-12-27
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -322,5 +322,35 @@ d'Etat, pris après avis du conseil national des assurances (2).
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 322 A (P)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 323 (P)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 323 A (P)
+
+
+# Livre II : Recouvrement de l'impôt
+
+## Chapitre premier : Paiement de l'impôt
+
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées
+
+#### III bis : Régime simplifié
+
+###### Article 1694 bis
+
+Il est institué, par décret en Conseil d'Etat (1), un régime simplifié de recouvrement des taxes sur le chiffre d'affaires
+dues par les personnes mentionnées au I de l'article 302 septies. 
+
+(1) Annexe II, art. 204 ter, 204 quater, 242 quater à 242 septies et 383 ter.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 septies (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Loi n°69-1161 1969-12-24 art. 12 I Finances pour 1970 JORF 27 décembre 1969
 
 
