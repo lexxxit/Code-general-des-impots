@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1987-06-17
+Version Consolidée au 1987-06-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3560,6 +3560,102 @@ métropolitaine à des personnes ayant leur domicile fiscal dans les territoires
 
 
 
+###### Article 83 bis
+
+I Lorsqu'une société est créée dans les conditions prévues à l'article 220 quater, les dispositions du 2° quater de l'article
+83 sont applicables aux emprunts contractés en vue de la souscription au capital de la société créée ou en vue d'acquisition
+des actions ou des parts de la société rachetée à la suite d'options consenties aux salariés, soit en vertu des articles
+208-1 à 208-8, modifiés, de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales , soit par des actionnaires ou
+porteurs de parts à un prix convenu lors de la promesse de vente.
+
+Pour l'acquisition de titres à la suite d'options, l'application des dispositions du premier alinéa est subordonnée aux
+conditions suivantes :
+
+1° Les salariés doivent faire apport des titres ainsi acquis à la société créée dès sa constitution, ou, si celle-ci est
+antérieure à la date de l'agrément prévu par l'article 220 quater, dans un délai de deux mois à compter de cette dernière
+date ;
+
+2° La demande d'agrément visée à l'article 220 quater doit être déposée dans les cinq ans de la date à laquelle les options
+ont été consenties ;
+
+3° Les options ne peuvent être levées qu'après l'octroi de l'agrément.
+
+La déduction des intérêts est pratiquée sur les salaires versés par la société rachetée.
+
+Les conditions énoncées aux quatrième et cinquième alinéas du 2° quater de l'article 83 s'appliquent aux titres de la société
+créée (1).
+
+II Sont déductibles du montant brut des sommes payées, dans les conditions prévues au II de l'article 220 quater A, les
+intérêts des emprunts contractés à compter du 15 avril 1987 par les salariés d'une entreprise pour la constitution du capital
+d'une société ayant pour objet exclusif de racheter tout ou partie du capital de leur entreprise et pour la souscription à
+une augmentation de ce capital effectuée au cours de l'année de la création de cette société, si le montant de cette
+augmentation de capital est affecté à la réduction des emprunts mentionnés au deuxième alinéa du I de l'article 220 quater A
+(2).
+
+Ces intérêts restent déductibles si les titres de la société sont apportés à une société mentionnée au dernier alinéa du c du
+II de l'article 220 quater A.
+
+Les salariés d'une filiale dont le capital est détenu pour plus de 50% par cette entreprise peuvent, s'ils participent au
+rachat de cette dernière, bénéficier de la déduction dans les mêmes conditions.
+
+La déduction ne peut excéder le montant brut du salaire versé à l'emprunteur par l'entreprise. Elle ne peut être supérieure à
+150.000 F. Elle est limitée aux intérêts afférents aux emprunts utilisés pour libérer le capital au cours de l'année de
+création de la société. Les sixième et septième alinéas du 2° quater de l'article 83 s'appliquent à cette déduction (3).
+
+La déduction des intérêts prévue au premier alinéa du présent n'est plus admise à compter de l'année au cours de laquelle une
+des conditions fixées par l'article 220 quater A cesse d'être satisfaite (4).
+
+III Les dispositions du II sont applicables aux intérêts des emprunts contractés par les salariés pour l'acquisition
+d'actions de la société rachetée en exécution d'options qui leur ont été consenties dans le cadre des dispositions des
+articles 208-1 à 208-8 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales et si les conditions suivantes
+sont réunies :
+
+1° Les options ont été consenties au cours des cinq années précédant la constitution de la société créée en vue du rachat;
+
+2° Les options ont été levées au cours des deux mois précédant la constitution de la société créée en vue du rachat;
+
+3° Les salariés font apport des titres ainsi acquis à la société créée dès sa constitution (3).
+
+IV Lorsque le rachat d'une entreprise a été soumis à l'accord du ministre chargé des finances, prévu à l'article 220 quater
+B, le bénéfice des dispositions des II et III est subordonné à cet accord.
+
+(1) Annexe III, art. 38 septdecies A à 38 septdecies E.
+
+(2) Annexe III, art. 38 septdecies F.
+
+(3) Annexe III, art. 38 septdecies G.
+
+(4) Voir également l'article 1740 quinquies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 220 quater, 83 2° quater, 220 quater B
+	  - Loi n°66-537 1966-07-24 art. 208-1 à art. 208-8
+
+	**Modifié par**:
+
+	  - Loi n°87-416 1987-06-17 art. 26 A, D JORF 18 juin 1987
+	  - Loi n°87-416 du 17 juin 1987 - art. 26 () JORF 18 juin 1987
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (M)
+	  - Code du travail - art. L3325-2 (VD)
+	  - Code général des impôts, CGI. - art. 160 A (V)
+	  - Code général des impôts, CGI. - art. 163 bis AA (VD)
+	  - Code général des impôts, CGI. - art. 1757 (V)
+	  - Code général des impôts, CGI. - art. 83 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies A (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies F (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies G (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
 ###### Article 84
 
 Pour les salariés travaillant par intermittence ou dont la profession comporte des embauchages et débauchages fréquents ainsi
@@ -3825,6 +3921,291 @@ prévus à l'article 87, de fournir les indications relatives aux titulaires de 
 
 	  - CGI 87
 	  - CGIAN3 39 A
+
+
+##### 5 : Plan d'épargne en vue de la retraite
+
+###### Article 91
+
+En cas de retrait de tout ou partie des sommes figurant sur un plan d'épargne en vue de la retraite ou de versement d'une
+pension présentant ou non un caractère viager, les sommes retirées ou la pension perçue sont imposables dans les conditions
+prévues au d du 5 de l'article 158, sans préjudice de l'application des dispositions des articles 91 A à 91 G.
+
+La donation de tout ou partie des titres acquis dans le cadre d'un plan d'épargne en vue de la retraite est considérée comme
+un retrait au sens de l'alinéa précédent et donne lieu à imposition sur la base de la valeur atteinte par ces titres à la
+date de la donation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 91 A à 91 G, 158 5 d
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 5 (V) JORF 18 juin 1987
+	  - Loi n°87-416 du 17 juin 1987 - art. 6 (V) JORF 18 juin 1987
+
+	**Abrogé par**:
+
+	  - Loi - art. 12 (V) JORF 31 décembre 1999 en vigueur le 30 juin 2000
+
+
+##### a : Retraits ou versements de pension avant 60 ans.
+
+###### Article 91 A
+
+Lorsque le retrait ou le versement d'une échéance de la pension s'effectue moins de dix ans après l'ouverture du plan et
+avant le soixantième anniversaire du contribuable ou du plus âgé des époux soumis à imposition commune, l'organisme ou
+l'établissement prélève un impôt égal à 10 p. 100 du montant retiré ou de l'échéance de pension. Cet impôt est versé au
+Trésor dans les conditions prévues aux articles 125-0 A et 125 A et sous les mêmes sanctions.
+
+L'imposition prévue à l'article 91 est assise sur la somme, nette de prélèvement, perçue par le contribuable. Toutefois, ces
+dispositions ne s'appliquent qu'à la fraction du retrait ou de l'arrérage de pension qui bénéficie des abattements prévus au
+a du 5 de l'article 158 ; la fraction de prélèvement qui correspond à la partie du retrait ou de l'arrérage de pension qui ne
+bénéficie pas de ces abattements constitue un crédit d'impôt régi par les dispositions des deux derniers alinéas de l'article
+158 bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 125 A
+	  - CGI 125-0 A
+	  - CGI 158
+	  - CGI 158 bis
+	  - CGI 91
+
+	**Créé par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 7 (V) JORF 18 juin 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
+###### Article 91 B
+
+Lorsque le retrait ou le versement d'une échéance de pension s'effectue dix ans ou plus après l'ouverture du plan, mais avant
+le soixantième anniversaire du contribuable ou du plus âgé des époux soumis à imposition commune, il est fait application de
+l'article 91 A, le taux du prélèvement étant toutefois ramené à 5 p. 100.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 91 A
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 2000
+
+	**Créé par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 8 (V) JORF 18 juin 1987
+
+	**Abrogé par**:
+
+	  - Loi - art. 12 (V) JORF 31 décembre 1999 en vigueur le 30 juin 2000
+
+
+##### b : Retraits ou versements de pension à partir de 60 ans
+
+##### 1° : Crédit d'impôt.
+
+###### Article 91 D
+
+Lorsque aucun retrait ou aucune liquidation de pension n'est effectué dans le cadre d'un plan d'épargne en vue de la retraite
+entre les soixantième et soixante-troisième anniversaires du contribuable ou du plus âgé des époux soumis à imposition
+commune, les retraits ou les liquidations de pension ultérieurs ouvrent droit à un crédit d'impôt. Le taux du crédit d'impôt
+est fixé lors du premier retrait ou de la première liquidation intervenant après le soixante-troisième anniversaire de
+l'intéressé.
+
+Lorsque ce premier retrait ou cette première liquidation de pension intervient entre les soixante-troisième et soixante-
+cinquième anniversaires de l'intéressé et cinq ans au moins après l'ouverture du plan, les sommes retirées ou les arrérages
+de pension sont augmentés d'un crédit d'impôt égal à 5 p. 100 de leur montant.
+
+Le crédit d'impôt est porté, sous les mêmes conditions, à 10 p. 100 lorsque ce premier retrait ou cette première liquidation
+intervient après le soixante-cinquième anniversaire de l'intéressé.
+
+Les taux du crédit d'impôt mentionnés aux deuxième et troisième alinéas sont augmentés de trois points lorsque le premier
+retrait ou la première liquidation intervient vingt ans au moins après l'ouverture du plan.
+
+Le crédit d'impôt ne s'applique pas aux arrérages correspondant à une pension liquidée avant le soixantième anniversaire du
+contribuable ou du plus âgé des époux soumis à imposition commune.
+
+Le crédit d'impôt est régi, en toute hypothèse, par les règles de l'article 158 bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 158 bis
+
+	**Créé par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 10 (V) JORF 18 juin 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
+##### 2° : Option pour un prélèvement libératoire.
+
+###### Article 91 E
+
+Le contribuable qui effectue des retraits ou perçoit des arrérages de pension à partir de son soixantième anniversaire peut
+opter pour un prélèvement qui libère les sommes retirées ou les arrérages perçus de l'impôt sur le revenu.
+
+Le taux du prélèvement est fixé à 36 p. 100 du montant retiré ou de l'échéance de pension.
+
+Toutefois, lorsque aucun retrait ou aucune liquidation de pension n'est effectué dans le cadre du plan entre les soixantième
+et soixante-troisième anniversaires du contribuable ou du plus âgé des époux soumis à imposition commune, ce taux est ramené
+à 33 p. 100, 30 p. 100 ou 26 p. 100 en fonction de la date du premier retrait ou de la première liquidation intervenant après
+le soixante-troisième anniversaire de l'intéressé.
+
+Le taux est ramené à :
+
+33 p. 100 lorsque ce premier retrait ou cette première liquidation de pension s'effectue entre les soixante-troisième et
+soixante-cinquième anniversaires du contribuable ou du plus âgé des époux soumis à imposition commune et cinq ans au moins
+après l'ouverture du plan ;
+
+30 p. 100 lorsque ce premier retrait ou cette première liquidation de pension s'effectue entre les soixante-cinquième et
+soixante-septième anniversaires du contribuable ou du plus âgé des époux soumis à imposition commune et cinq ans au moins
+après l'ouverture du plan ;
+
+26 p. 100 lorsque ce premier retrait ou cette première liquidation de pension s'effectue après le soixante-septième
+anniversaire du contribuable ou du plus âgé des époux soumis à imposition commune et cinq ans au moins après l'ouverture du
+plan.
+
+Les taux de 33 p. 100, 30 p. 100 et 26 p. 100 ne s'appliquent pas aux arrérages correspondant à une pension liquidée avant le
+soixantième anniversaire du contribuable ou du plus âgé des époux soumis à imposition commune.
+
+Le prélèvement est liquidé et recouvré dans les mêmes conditions et sous les mêmes garanties et sanctions que celui mentionné
+à l'article 125 A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 125 A
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 2000
+
+	**Créé par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 11 (V) JORF 18 juin 1987
+
+	**Abrogé par**:
+
+	  - Loi - art. 12 (V) JORF 31 décembre 1999 en vigueur le 30 juin 2000
+
+
+##### c : Dispositions particulières.
+
+###### Article 91 F
+
+En cas de décès du titulaire d'un plan d'épargne en vue de la retraite, ses héritiers peuvent affecter les sommes qui y
+figurent à un nouveau plan.
+
+Les dispositions de l'article 91 ne s'appliquent pas à cette opération de transfert lorsque l'ensemble des sommes demeurent
+inscrites sur des plans d'épargne en vue de la retraite. Ces dispositions s'appliquent en cas de retrait ou de versement
+d'une échéance de pension au titre de ce nouveau plan.
+
+Les délais prévus aux articles 91 A, 91 B, 91 D et 91 E s'apprécient pour les héritiers autres que le conjoint survivant à
+compter de la date d'ouverture de ce nouveau plan.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 91, 91 A, 91 B, 91 D, 91 E
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 2000
+
+	**Créé par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 12 (V) JORF 18 juin 1987
+
+	**Abrogé par**:
+
+	  - Loi - art. 12 (V) JORF 31 décembre 1999 en vigueur le 30 juin 2000
+
+
+###### Article 91 G
+
+En cas de divorce, de séparation de corps ou de biens de contribuables titulaires d'un plan d'épargne en vue de la retraite
+soumis à imposition commune et mariés selon l'un des régimes prévus au chapitre II du titre cinquième du livre troisième du
+code civil, chaque contribuable peut affecter les sommes figurant à ce plan qu'il reçoit à la suite de la dissolution de la
+communauté à un nouveau plan. Les dispositions de l'article 91 ne s'appliquent pas à cette opération de transfert. Ces
+dispositions s'appliquent en cas de retrait ou de versement d'une échéance de pension au titre de ce nouveau plan.
+
+Les délais prévus aux articles 91 A, 91 B, 91 D et 91 E s'apprécient à compter de la date d'ouverture du plan antérieure à la
+dissolution de la communauté.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 91, 91 A, 91 B, 91 D, 91 E
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 2000
+
+	**Créé par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 13 (V) JORF 18 juin 1987
+
+	**Abrogé par**:
+
+	  - Loi - art. 12 (V) JORF 31 décembre 1999 en vigueur le 30 juin 2000
+
+
+###### Article 91 H
+
+Un décret précise les modalités d'application des articles 91 à 91 G ainsi que les obligations déclaratives des contribuables
+ou des intermédiaires (1).
+
+(1) Annexe III, art. 41 Z à art. 41 ZP.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 91 à 91 G
+	  - CGIAN2 41 Z à 41 ZP
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 2000
+
+	**Créé par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 70 (V) JORF 18 juin 1987
+
+	**Abrogé par**:
+
+	  - Loi - art. 12 (V) JORF 31 décembre 1999 en vigueur le 30 juin 2000
 
 
 ##### VI : Bénéfices des professions non commerciales
@@ -4558,6 +4939,78 @@ entraîne les mêmes conséquences fiscales que la répartition de son boni de l
 
 
 
+###### Article 112
+
+Ne sont pas considérés comme revenus distribués :
+
+1° Les répartitions présentant pour les associés ou actionnaires le caractère de remboursements d'apports ou de primes
+d'émission. Toutefois, une répartition n'est réputée présenter ce caractère que si tous les bénéfices et les réserves autres
+que la réserve légale ont été auparavant répartis.
+
+Sous réserve des dispositions du 3°, ne sont pas considérés [*non*] comme des apports pour l'application de la présente
+disposition :
+
+a  Les réserves incorporées au capital;
+
+b  Les sommes incorporées au capital ou aux réserves (primes de fusion) à l'occasion d'une fusion de sociétés.
+
+2° Les amortissements de tout ou partie de leur capital social, parts d'intérêt ou commandites, effectués par les sociétés
+concessionnaires de l'Etat, des départements, des communes ou autres collectivités publiques, lorsque ces amortissements sont
+justifiés par la caducité de tout ou partie de l'actif social notamment par dépérissement progressif ou par obligation de
+remise de concessions à l'autorité concédante. Le caractère d'amortissement de l'opération et la légitimité de l'exonération
+seront constatés, dans chaque cas, dans des conditions fixées par décret (1).
+
+3° Les remboursements consécutifs à la liquidation de la société et portant :
+
+a  Sur les réserves incorporées au capital antérieurement au 1er janvier 1949 [*date*] ;
+
+b  Sur le capital amorti, à concurrence de la fraction ayant, lors de l'amortissement, supporté l'impôt sur le revenu des
+valeurs mobilières ou l'impôt sur le revenu;
+
+c  Sur les sommes incorporées au capital ou aux réserves (primes de fusion) à l'occasion d'une fusion antérieure au 1er
+janvier 1949 si et dans la mesure où elles ont supporté, à raison de la fusion, l'impôt sur le revenu des valeurs mobilières
+ou la taxe additionnelle au droit d'apport.
+
+4° Les sommes mises à la disposition des associés dès lors qu'elles constituent la rémunération d'un prêt, d'un service ou
+d'une fonction et sont valablement comprises dans les charges déductibles pour l'assiette de l'impôt sur les sociétés.
+
+5° (Abrogé) 6° Les sommes ou valeurs attribuées aux actionnaires au titre du rachat de leurs actions, lorsque ce rachat est
+effectué dans les conditions prévues aux articles 217-1 ou 217-2 à 217-5, modifiés, de la loi n° 66-537 du 24 juillet 1966
+sur les sociétés commerciales, modifiés par la loi n° 81-1162 du 30 décembre 1981 relative à la mise en harmonie du droit des
+sociétés commerciales avec la deuxième directive adoptée par le Conseil des communautés européennes le 13 décembre 1976.
+
+(1)  Annexe III, art. 41 bis à 41 quinquies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 41 bis
+	  - CGIAN3 41 quater
+	  - CGIAN3 41 quinquies
+	  - CGIAN3 41 ter
+	  - Loi n°66-537 1966-07-24 ART. 217-1, 217-2, 217-3, 217-4
+	  - Loi n°81-1162 1981-12-30
+	  - Directive CEE 1976-12-13
+
+	**Modifié par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 18 () JORF 18 juin 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 113 (V)
+	  - Code général des impôts, CGI. - art. 150-0 A (MMN)
+	  - Code général des impôts, CGI. - art. 210-0 A (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 42 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 quinquies (V)
+
+
 ###### Article 113
 
 Pour l'application des articles 109 et 112, l'incorporation directe de bénéfices au capital est assimilée à une incorporation
@@ -5159,6 +5612,38 @@ exonérées de la retenue à la source définie au 1 de l'article 119 bis.
 	  - Loi n°86-824 du 11 juillet 1986 - art. 28 () JORF 12 juillet 1986
 
 
+##### 7° : Emprunts contractés à l'étranger
+
+###### Article 131 quater
+
+Les produits des emprunts contractés hors de France par des des personnes morales françaises avec l'autorisation du ministre
+de l'économie, des finances et de la privatisation sont exonérés du prélèvement prévu au paragraphe III de l'article 125 A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 125 A III
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - TXT_ASSOCIE: Instruction 1998-09-30 5I-11-98
+	  - TXT_ASSOCIE: Instruction 1999-04-13 4C-1-99
+
+	**Modifié par**:
+
+	  - Loi n°87-416 1987-06-18 art. 30 JORF 18 juin 1987
+
+	**Cité par**:
+
+	  - Loi n°94-665 du 4 août 1994 - art. 5 (V)
+
+
 ##### 8° : Produits financiers bénéficiant aux organisations internationales aux Etats souverains étrangers, à leurs banques centrales ou institutions financières
 
 ###### Article 131 quinquies
@@ -5514,6 +5999,44 @@ Le profit imposable est net des frais et taxes acquittés par le cédant.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies H (V)
 
 
+###### Article 150 quinquies
+
+Les profits nets réalisés dans le cadre de contrats se référant à des emprunts obligataires ou à des actions inscrites à la
+cote officielle ou à la cote du second marché des bourses françaises de valeurs ou négociées sur le marché hors cote français
+sont, sous réserve des dispositions de l'article 150 quater, imposés dans les conditions prévues à l'article 96 A et au taux
+prévu à l'article 200 A.
+
+Les pertes sont soumises aux dispositions du 6 de l'article 94 A.
+
+**Nota:**
+
+Décret 88-1001 1988-10-20 : modification de la table des matières.    Edition du 4 juillet 1992 : modification de la table
+des matières.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 quater
+	  - CGI 200 A
+	  - CGI 94 A 6
+	  - CGI 96 A
+
+	**Modifié par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 45 () JORF 18 juin 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°88-1001 1988-10-20
+	  - SPEC_APPLI: Loi n°91-1323 1991-12-30 art. 43
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies I (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies J (Ab)
+
+
 ###### Article 150 septies
 
 Un décret fixe les conditions d'application des articles 150 ter à 150 sexies, notamment les opérations comptables qu'ils
@@ -5547,6 +6070,44 @@ nécessitent ainsi que les obligations déclaratives des contribuables (1).
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 150 undecies (VD)
+
+
+###### Article 150 ter
+
+Sous réserve des dispositions propres aux bénéfices professionnels, les profits résultant des opérations réalisées en France,
+directement ou par personne interposée, sur un marché à terme d'instruments financiers par des personnes physiques
+fiscalement domiciliées en France sont imposés suivant les règles fixées aux articles 150 quater à 150 septies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 quater à 150 septies
+	  - Loi n°85-695 du 11 juillet 1985 - art. 8 ()
+	  - Loi n°85-695 du 11 juillet 1985 - art. 9, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 44 () JORF 18 juin 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°88-1001 1988-10-20
+	  - SPEC_APPLI: Loi n°91-1323 1991-12-30 art. 43
+
+	**Cité par**:
+
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 43 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (V)
+	  - Code général des impôts, CGI. - art. 150 undecies (VD)
+	  - Code général des impôts, CGI. - art. 155 (VD)
+	  - Code général des impôts, CGI. - art. 1649 bis C (Ab)
+	  - Code général des impôts, CGI. - art. 242 ter E (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies H (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies I (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies K (V)
+	  - Livre des procédures fiscales - art. L96 CA (V)
+	  - Livre des procédures fiscales - art. R96 CA-1 (V)
 
 
 ##### VII ter : Plus-values de cession à titre onéreux de biens ou de droits de toute nature
@@ -6349,6 +6910,81 @@ copropriétaires en proportion de leurs droits afin de déterminer, pour chaque 
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 39 quindecies
+
+I. 1. Sous réserve des dispositions des articles 41, 151 octies et 210 A à 210 C, le montant net des plus-values à long terme
+autres que celles visées au II fait l'objet d'une imposition séparée au taux de 16 % (1).
+
+Il s'entend de l'excédent de ces plus-values sur les moins-values de même nature constatées au cours du même exercice
+[*définition du montant net des plus-values à long terme*].
+
+Toutefois, ce montant net n'est pas imposable lorsqu'il est utilisé à compenser le déficit d'exploitation de l'exercice. Le
+déficit ainsi annulé ne peut plus être reporté sur les bénéfices des exercices ultérieurs.
+
+Par dérogation aux dispositions qui précèdent, l'imposition de la plus-value nette à long terme réalisée à la suite de la
+perception d'indemnités d'assurances ou de l'expropriation d'immeubles figurant à l'actif est différée de deux ans [*délai*].
+Toutefois, en cas de cessation d'activité, l'imposition de la plus-value dont il s'agit est immédiatement établie.
+
+2. L'excédent éventuel des moins-values à long terme ne peut être imputé que sur les plus-values à long terme réalisées au
+cours des dix exercices suivants [*délai*]. Toutefois, en cas de liquidation d'entreprise au cours d'un exercice ouvert à
+compter du 1er janvier 1986 et jusqu'au 31 décembre 1987 , cet excédent peut être déduit du bénéfice de l'exercice de
+liquidation :
+
+A raison de quinze quarante-cinquièmes de son montant pour les moins-values subies au cours d'un exercice clos avant le 1er
+janvier 1984.
+
+A raison de seize quarante-cinquièmes de son montant pour les  moins-values subies au cours d'un exercice clos à compter du
+1er  janvier 1984.
+
+En cas de liquidation d'entreprise au cours d'un exercice ouvert à compter du 1er janvier 1988, l'excédent des moins-values à
+long terme peut être déduit du bénéfice de l'exercice de liquidation à raison des quinze quarante-deuxièmes de son montant
+selon que les moins-values ont été subies au cours d'un exercice clos avant le 1er janvier 1984 ou à compter de cette date.
+
+II. 1. Le montant net des plus-values à long terme qui proviennent de la cession de terrains ou d'immeubles assimilés, tels
+qu'ils sont définis au I de l'article 691, est taxé au taux de 26 % (2).
+
+Ce montant peut être compensé avec le déficit d'exploitation de l'exercice, mais ne peut être diminué du montant des moins-
+values afférentes aux autres éléments de l'actif immobilisé.
+
+2. Les dispositions du 1 sont applicables aux plus-values afférentes aux titres des sociétés dont l'actif est constitué
+principalement par des biens définis au I de l'article 691.
+
+(1) Taux applicable aux plus-values réalisées au cours des exercices clos postérieurement au 31 décembre 1983; il était
+précédemment fixé à 15 %.
+
+(2) Taux applicable aux plus-values réalisées au cours des exercices clos postérieurement au 31 décembre 1983; il était
+précédemment fixé à 25 %.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 151 octies
+	  - CGI 210 A
+	  - CGI 210 B
+	  - CGI 210 C
+	  - CGI 41
+	  - CGI 691
+	  - CGI 691 I
+
+	**Modifié par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 66 (V) JORF 18 juin 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Loi - art. 94 (VD)
+	  - Code général des impôts, CGI. - art. 158 (V)
+	  - Code général des impôts, CGI. - art. 219 (VD)
+	  - Code général des impôts, CGI. - art. 223 D (V)
+	  - Code général des impôts, CGI. - art. 38 (VT)
+	  - Code général des impôts, CGI. - art. 39 (VD)
+
+
 ###### Article 39 quinquies D
 
 I. Les entreprises qui construisent ou font construire des immeubles à usage industriel ou commercial peuvent être autorisées
@@ -6514,6 +7150,49 @@ l'entreprise dont les conditions seront définies par décret.
 
 ##### 1 : Définition des revenus imposables.
 
+###### Article 80 bis
+
+Pour l'établissement de l'impôt, l'avantage correspondant à la différence entre la valeur réelle de l'action à la date de
+levée d'une option accordée dans les conditions prévues aux articles 208-1 à 208-8, modifiés, de la loi n° 66-537 du 24
+juillet 1966 sur les sociétés commerciales et le prix de souscription ou d'achat de cette action constitue, sous réserve des
+dispositions de l'article 163 bis C, un complément de salaire pour le bénéficiaire. 
+
+Il en est de même lorsque l'option est accordée, dans les mêmes conditions, par une société dont le siège est situé à
+l'étranger et qui est mère ou filiale de l'entreprise dans laquelle le bénéficiaire exerce son activité.
+
+**Nota:**
+
+(*) En ce qui concerne la taxe sur les salaires, voir art. 231.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 du 24 juillet 1966 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 19 () JORF 18 juin 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Décret n°2015-966 du 31 juillet 2015 (V)
+	  - Loi n°2015-990 du 6 août 2015 - art. 135
+	  - Code de la sécurité sociale. - art. L137-14 (V)
+	  - Code de la sécurité sociale. - art. L242-1 (VD)
+	  - Code général des impôts, CGI. - art. 150-0 D (M)
+	  - Code général des impôts, CGI. - art. 182 A ter (V)
+	  - Code général des impôts, CGI. - art. 204 D (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (VD)
+	  - Code monétaire et financier - art. L221-31 (V)
+
+
 ###### Article 80 quater
 
 Les rentes prévues à l'article 276 du code civil ainsi que, dans la limite de 18.000 F [*montant*], la rente prévue à
@@ -6540,6 +7219,48 @@ l'article 294 du même code, sont soumises au même régime que les pensions ali
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### 5 : Plan d'épargne en vue de la retraite
+
+##### Retraits ou versements de pension avant 60 ans.
+
+###### Article 91 C
+
+Les dispositions des articles 91 A et 91 B ne s'appliquent pas en cas :
+
+a) De décès du contribuable ou de l'un des époux soumis à imposition commune ;
+
+b) D'invalidité du contribuable ou de l'un des époux soumis à imposition commune correspondant au classement dans la deuxième
+ou la troisième des catégories prévues respectivement aux 2° et 3° de l'article L. 341-4 du code de la sécurité sociale ;
+
+c) De licenciement du contribuable ou de l'un des époux soumis à imposition commune, lorsque celui-ci a plus de cinquante-
+cinq ans et a épuisé ses droits aux allocations d'assurance mentionnées dans le code du travail ;
+
+d) De cessation de l'activité non salariée exercée par le contribuable ou l'un des époux soumis à imposition commune, qui a
+fait l'objet, après cinquante-cinq ans, d'un jugement de liquidation judiciaires en application des dispositions de la loi n°
+85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises.
+
+**Nota:**
+
+(*) En ce qui concerne la taxe sur les salaires, voir art. 231.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 91 A
+	  - CGI 91 B
+	  - Loi n°85-98 1985-01-25
+	  - Code de la sécurité sociale L341-4 2°, 3°
+
+	**Créé par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 9 (V) JORF 18 juin 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
 
 
 ##### VI : Bénéfices des professions non commerciales
@@ -6598,6 +7319,39 @@ du barème de l'impôt sur le revenu (2) (3).
 
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 42 (V)
 	  - Code général des impôts, CGI. - art. 167 bis (V)
+
+
+###### Article 92 B bis
+
+Les dispositions de l'article 92 B sont applicables, sous réserve des dispositions de l'article 80 bis, aux gains retirés des
+cessions d'actions acquises par le bénéficiaire d'une option accordée dans les conditions prévues aux articles 208-1 à 208-8,
+modifiés, de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales relatifs à l'ouverture d'options de
+souscription ou d'achat d'actions au bénéfice du personnel des sociétés.
+
+Les dispositions du présent article s'appliquent aux cessions d'actions acquises à la suite d'options ouvertes à compter du
+1er janvier 1984 [*date d'entrée en vigueur*]. Les titulaires d'options ouvertes antérieurement à cette date peuvent
+également en demander l'application.
+
+(1) Complétée et modifiée par les lois n° 70-1322 du 31 décembre 1970, art. 1er et n° 84-578 du 8 [*9*] juillet 1984, art.
+15-I à VII.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 80 bis
+	  - CGI 92 B
+	  - Loi n°66-537 1966-07-24 art. 208-1 à art. 208-8
+	  - Loi n°70-1322 du 31 décembre 1970 - art. 1 ()
+	  - Loi n°84-578 1984-07-09 art. 15 I à art. 15 VII
+
+	**Modifié par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 19 () JORF 18 juin 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
 
 
 ###### Article 92 G
@@ -7721,6 +8475,47 @@ elles ne sont pas considérées comme revenus distribués par application de l'a
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 160 A
+
+I. Lorsqu'une société a offert aux membres de son personnel salarié des options de souscription ou d'achat d'actions dans les
+conditions définies aux articles 208 1 à 208 8, modifiés, de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
+commerciales ou lorsqu'un ou plusieurs actionnaires ou porteurs de parts d'une société se sont engagés à céder leurs actions
+ou parts à un ou plusieurs salariés de cette même société à un prix convenu lors de l'engagement, l'imposition de la plus-
+value réalisée par les salariés ayant levé l'option, à l'occasion de l'apport des actions ou parts à la société créée dans
+les conditions prévues à l'article 220 quater peut, sur demande expresse des intéressés, être reportée au moment de la
+cession des droits sociaux reçus en rémunération de l'apport.
+
+Le report d'imposition est subordonné aux conditions prévues au I de l'article 83 bis.
+
+II. Lorsqu'un ou plusieurs actionnaires ou porteurs de parts de la société rachetée dans les conditions prévues à l'article
+220 quater apportent, après octroi de l'agrément, leurs actions ou parts à la société créée, l'imposition de la plus-value
+réalisée à cette occasion peut, sur demande expresse des intéressés, être reportée au moment de la cession des droits sociaux
+reçus en rémunération de l'apport.
+
+III. Les dispositions des I et II s'appliquent aux rachats d'entreprises réalisées dans les conditions prévues à l'article
+220 quater A (1). Lorsque le rachat a été soumis à l'accord du ministre chargé des finances, prévu à l'article 220 quater B,
+le bénéfice de ces dispositions est subordonné à cet accord.
+
+(1) Voir également l'article 1740 quinquies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 83 bis, 220 quater, 220 quater A, 220 quater B, 1740 quinquies
+	  - Loi n°66-537 1966-07-24 art. 208-1 à art. 208-8
+	  - Loi n°70-1322 du 31 décembre 1970 - art. 1 ()
+	  - Loi n°84-578 1984-07-09 art. 15 I à VII
+
+	**Modifié par**:
+
+	  - Loi n°87-416 1987-06-17 art. 26 C II JORF 18 juin 1987
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1757 (V)
+
+
 ###### Article 160 quater
 
 Lorsqu'une société procède aux opérations prévues aux articles 48 et 49 de la loi n° 78-763 du 19 juillet 1978 portant statut
@@ -7746,6 +8541,27 @@ comme des cessions taxables dans les conditions prévues à l'article 160.
 	**Créé par**:
 
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 10 (V) JORF 30 décembre 1983
+
+
+###### Article 160 ter
+
+Les sommes ou valeurs attribuées aux actionnaires au titre du rachat de leurs actions ne donnent pas lieu à la perception de
+l'impôt sur le revenu lorsque ce rachat est effectué dans les conditions prévues soit aux articles 217-1 ou 217-2 à 217-5,
+modifiés, de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 art. 217-1, art. 217-2, art. 217-3, art. 217-4, art. 217-5
+
+	**Modifié par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 18 () JORF 18 juin 1987
 
 
 ###### Article 161
@@ -8293,6 +9109,34 @@ suivant celle au titre de laquelle une déduction a été pratiquée.
 	  - Loi n°82-1152 du 30 décembre 1982 - art. 20 (V) JORF 31 DECEMBRE 1982
 
 
+###### Article 163 sexdecies
+
+Sont exclus des valeurs prévues par l'article 163 octies :
+
+a. Les droits sociaux souscrits avec le bénéfice de la réduction d'impôt prévue à l'article 199 undecies ;
+
+b. Les actions des sociétés définies à l'article 238 bis HE.
+
+c. Les titres acquis dans le cadre d'un plan d'épargne en vue de la retraite.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 octies
+	  - CGI 199 undecies
+	  - CGI 238 bis HE
+	  - CGI 248 C
+
+	**Modifié par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 14 (V) JORF 18 juin 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
 ##### Financement en capital d'oeuvres cinématographiques ou audiovisuelles.
 
 ###### Article 163 septdecies
@@ -8651,6 +9495,86 @@ l'article 7 de la loi n° 79-12 du 3 janvier 1979.
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 163 bis C
+
+I  L'avantage [*correspondant à la différence entre la valeur réelle de l'action et le prix de souscription ou d'achat de
+cette action*] défini à l'article 80 bis est exonéré de l'impôt sur le revenu si les actions acquises revêtent la forme
+nominative  t et demeurent indisponibles, suivant des modalités fixées par décret en conseil d'Etat (1), de la date de la
+levée de l'option jusqu'à l'achèvement d'une période de cinq années à compter de la date d'attribution de cette option, et,
+en tout état de cause, pendant au moins un an (2).
+
+Lorsque les actions ont été acquises à la suite d'options consenties par une mère ou une filiale dont le siège social est
+situé à l'étranger, les obligations déclaratives incombent à la filiale ou à la mère française.
+
+Un décret en conseil d'Etat (1) fixe les conditions dans lesquelles ces actions peuvent exceptionnellement être négociées
+avant l'expiration de ce délai sans perte du bénéfice de l'exonération susvisée.
+
+I bis. L'exonération prévue au I est maintenue lorsque les actions acquises font l'objet d'un apport à une société créée
+conformément aux dispositions de l'article 220 quater.
+
+Toutefois les conditions mises à l'octroi de cette exonération, mentionnées au I, continuent à être applicables aux actions
+de la société créée.
+
+II  Si les conditions prévues au I ne sont pas remplies, l'avantage mentionné à l'article 80 bis est ajouté au revenu
+imposable de l'année au cours de laquelle le salarié aura converti les actions au porteur ou en aura disposé.
+
+Toutefois, si les actions sont cédées pour un prix inférieur à leur valeur réelle à la date de levée de l'option, la
+différence est déductible du montant brut de l'avantage mentionné au premier alinéa et dans la limite de ce montant, lorsque
+cet avantage est imposable.
+
+Le montant net imposable de l'avantage est divisé par le nombre d'années entières ayant couru entre la date de l'option et la
+date de la cession des titres ou celle de leur conversion au porteur. Le résultat est ajouté au revenu global net. L'impôt
+correspondant à l'avantage est égal à la cotisation supplémentaire ainsi obtenue multipliée par le nombre utilisé pour
+déterminer le quotient.
+
+Lorsque le revenu global net est négatif, il est compensé, à due concurrence, avec le montant net de l'avantage. L'excédent
+éventuel de ce montant net est ensuite imposé suivant les règles du premier alinéa.
+
+Les dispositions de l'article 163 ne sont pas applicables.
+
+III Les dispositions du I relatives à la durée  d'indisponibilité des actions et les dispositions des I bis et II
+s'appliquent aux cessions d'actions acquises à la suite d'options ouvertes à compter du 1er janvier 1984.
+
+Les titulaires d'options ouvertes antérieurement à cette date peuvent également en demander l'application.
+
+Les titulaires d'options définies à l'article 31 de l'ordonnance n° 86-1134 du 21 octobre 1986 relative à l'intéressement et
+à la participation des salariés aux résultats de l'entreprise et à l'actionnariat des salariés et ouvertes antérieurement au
+1er janvier 1987, peuvent aussi en demander l'application.
+
+(1) Annexe II, art. 91 bis et 91 ter.
+
+(2) Précédemment, la période d'indisponibilité était de cinq années à compter de la date de la levée de l'option.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163
+	  - CGI 220 quater
+	  - CGI 80 bis
+	  - CGIAN2 91 bis
+	  - CGIAN2 91 ter
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 31, v. init.
+
+	**Modifié par**:
+
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 31 () JORF 23 octobre 1986
+	  - Loi n°87-416 du 17 juin 1987 - art. 20 () JORF 18 juin 1987
+	  - Loi n°87-416 du 17 juin 1987 - art. 25 () JORF 18 juin 1987
+
+	**Cité par**:
+
+	  - Décret n°2015-966 du 31 juillet 2015 (V)
+	  - Code de la sécurité sociale. - art. L242-1 (V)
+	  - Code général des impôts, CGI. - art. 182 A ter (V)
+	  - Code général des impôts, CGI. - art. 200 A (V)
+	  - Code général des impôts, CGI. - art. 80 bis (M)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 bis (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 ter (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46-0 B bis (V)
+	  - Code monétaire et financier - art. L221-31 (V)
+
+
 ###### Article 163 quinquies C
 
 Les distributions par les sociétés de capital-risque de produits et plus values nets exonérés en application du 3° septies de
@@ -8698,6 +9622,47 @@ actions de la société de capital-risque.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 60 A (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 60 B (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 DGA (V)
+
+
+##### Plan d'épargne en vue de la retraite.
+
+###### Article 163 novodecies
+
+Les titulaires d'un plan d'épargne en vue de la retraite ouvert en application de la loi n° 87-416 du 17 juin 1987 sur
+l'épargne peuvent y effectuer des versements en numéraire dans une limite globale de 8 000 F par an pour les contribuables
+célibataires, veufs ou divorcés et de 16 000 F par an pour les contribuables mariés soumis à imposition commune. Les limites
+sont majorées de 4 000 F pour les contribuables ayant au moins trois enfants à charge au sens de l'article 196. Ces limites
+évoluent chaque année comme la limite supérieure de la septième tranche du barème de l'impôt sur le revenu de l'année
+précédente.
+
+Ces versements sont déductibles du revenu imposable de leur auteur.
+
+II. Les dispositions du I ne s'appliquent pas aux contribuables qui, après soixante ans, ont effectué un retrait ou reçu une
+échéance de pension, au titre d'un plan d'épargne en vue de la retraite.
+
+III. Lorsque le contribuable fait usage, au cours d'une année donnée, de la réduction d'impôt prévue au deuxième alinéa du 1°
+de l'article 199 septies, les primes ainsi prises en compte s'imputent sur la limite de déduction prévue au I.
+
+IV. Un décret fixe les modalités d'application des I à III ainsi que les obligations déclaratives des contribuables ou des
+intermédiaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 196
+	  - CGI 199 septies
+	  - Loi n°87-416 1987-06-17
+
+	**Modifié par**:
+
+	  - Loi n°87-416 1987-06-17 art. 2, art. 7 JORF 18 juin 1987
+	  - Loi n°87-416 du 17 juin 1987 - art. 7 (V) JORF 18 juin 1987
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 73 () JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
 
 
 ##### II : Revenu imposable des étrangers et des personnes n'ayant pas leur domicile fiscal en France.
@@ -12038,6 +13003,36 @@ d'opérations faites avec eux.
 	  - HISTO: Edition du 1er septembre 1982
 
 
+###### Article 217 quinquies
+
+Pour la détermination de leurs résultats fiscaux, les sociétés peuvent réduire les charges exposées du fait de la levée des
+options de souscription ou d'achat d'actions consenties à leurs salariés en application des articles 208-1 à 208-8, modifiés,
+de la loi n° 66-537 du 21 juillet 1966 sur les sociétés commerciales.
+
+Les dispositions de l'article 39 duodecies s'appliquent aux moins-values qui résultent de la différence entre le prix de
+souscription des actions par les salariés et leur valeur d'origine.
+
+Les dispositions du présent article s'appliquent aux cessions d'actions acquises à la suite d'options ouvertes à compter du
+1er janvier 1984. Les titulaires d'options ouvertes antérieurement à cette date peuvent également en demander l'application.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 duodecies
+	  - Loi n°66-537 1966-07-24 art. 208-1 à art. 208-8
+	  - Loi n°70-1323 du 31 décembre 1970 - art. 1 (V)
+	  - Loi n°84-578 1984-07-09
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YD (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+
 ###### Article 217 septies
 
 Pour l'établissement de l'impôt sur les sociétés, les entreprises peuvent pratiquer, dès l'année de réalisation de
@@ -13459,6 +14454,23 @@ les fonds d'assurance-formation prévus audit article sont exonérées de la tax
 	  - Code du travail - art. L961-9 (M)
 
 
+###### Article 231 bis H
+
+I. L'avantage correspondant à la différence entre la valeur réelle de l'action à la date de levée d'une option accordée dans
+les conditions prévues aux articles 208-1 à 208-8, modifiés, de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
+commerciales et le prix de souscription ou d'achat de cette action est exonéré de la taxe sur les salaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 art. 208-1 à art. 208-8
+
+	**Modifié par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 24 (V) JORF 18 juin 1987
+
+
 ###### Article 231 bis I
 
 Dans les conditions fixées par décret, la partie du salaire versée aux apprentis qui donne lieu à l'exonération de taxe
@@ -14856,11 +15868,22 @@ Pierre-et-Miquelon peuvent, dans les mêmes conditions, bénéficier du régime 
 ###### Article 238 bis HE
 
 Pour l'établissement de l'impôt sur le revenu ou de l'impôt sur les sociétés, les souscriptions en numéraire au capital de
-sociétés anonymes [*SA*] soumises à l'impôt sur les sociétés dans les conditions de droit commun et qui ont pour activité
-exclusive le financement en capital d'oeuvres cinématographiques ou audiovisuelles agréées sont admises en déduction dans les
+sociétés anonymes soumises à l'impôt sur les sociétés dans les conditions de droit commun et qui ont pour activité exclusive
+le financement en capital d'oeuvres cinématographiques ou audiovisuelles agréées sont admises en déduction dans les
 conditions définies aux articles 163 septdecies et 217 septies.
 
+Les titres acquis dans le cadre d'un plan d'épargne en vue de la retraite ne sont pas pris en compte pour l'application du
+présent article.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 14 (V) JORF 18 juin 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
 
 	**Cité par**:
 
@@ -14892,13 +15915,9 @@ conditions définies aux articles 163 septdecies et 217 septies.
 	  - CGI 163 septdecies
 	  - CGI 217 septies
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°85-695 du 11 juillet 1985 - art. 40 (V) JORF 12 juillet 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
+	  - HISTO: Edition du 10 août 1987
 
 
 ###### Article 238 bis HF
@@ -30056,6 +31075,63 @@ rester déposés au service des impôts auprès duquel la formalité est requise
 
 ##### D : Cessions de droits sociaux
 
+##### 1 : Régime normal
+
+###### Article 726
+
+Sont soumis à un droit d'enregistrement de 4,80 % [*taux*] :
+
+1° Les actes portant cessions d'actions, de parts de fondateur ou de parts bénéficiaires;
+
+2° Les cessions, même non constatées par un acte (1), de parts sociales dans les sociétés dont le capital n'est pas divisé en
+actions.
+
+Le droit est assis [*assiette*] sur le prix exprimé et le capital des charges qui peuvent ajouter au prix ou sur une
+estimation des parties si la valeur réelle est supérieure au prix augmenté des charges.
+
+Toutefois, ce droit n'est pas applicable aux acquisitions de droits sociaux effectuées par une société créée en vue de
+racheter une autre société dans les conditions prévues à l'article 220 quater ou 220 quater A. Lorsque le rachat a été soumis
+à l'accord du ministre chargé des finances, prévu à l'article 220 quater B, le bénéfice des présentes dispositions est
+subordonné à cet accord (2).
+
+(1)  Voir art. 639.
+
+(2)  Voir également l'article 1740 quinquies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1740 quinquies
+	  - CGI 220 quater
+	  - CGI 220 quater A
+	  - CGI 220 quater B
+	  - CGI 639
+
+	**Modifié par**:
+
+	  - Loi n°87-416 1987-06-17 art. 26 C II, D JORF 18 juin 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 639 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 749 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 825 (V)
+	  - Code général des impôts, CGI. - art. 1531 (T)
+	  - Code général des impôts, CGI. - art. 1609 nonies F (Ab)
+	  - Code général des impôts, CGI. - art. 1635 ter A (Ab)
+	  - Code général des impôts, CGI. - art. 1757 (V)
+	  - Code général des impôts, CGI. - art. 635 (VD)
+	  - Code général des impôts, CGI. - art. 718 bis (V)
+	  - Code général des impôts, CGI. - art. 730 quinquies (V)
+	  - Code général des impôts, CGI. - art. 885 T ter (V)
+	  - Code monétaire et financier - art. L221-31 (V)
+
+
 ##### 2 : Régimes spéciaux
 
 ###### Article 727
@@ -33221,6 +34297,36 @@ droit fixe de 1.220 F.
 	  - Loi - art. 12 () JORF 31 décembre 1991
 
 
+##### 8 : Conversion en euros du capital des sociétés
+
+###### Article 834 bis
+
+Les actes constatant les apports mobiliers effectués dans les conditions prévues aux articles 83 bis et 160 A sont
+enregistrés gratuitement.
+
+Lorsque le rachat de l'entreprise a été soumis à l'accord du ministre chargé des finances, prévu à l'article 220 quater B, le
+bénéfice des dispositions du présent article est subordonné à cet accord.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 83 bis, 160 A, 220 quater B
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 1992-06-01 7H-1-92
+
+	**Modifié par**:
+
+	  - Loi n°87-416 1987-06-17 art. 26 C II, D JORF 18 juin 1987
+
+	**Abrogé par**:
+
+	  - Loi - art. 12 () JORF 31 décembre 1991
+
+
 ##### IX : Actes des huissiers de justice
 
 ###### Article 843 A
@@ -34492,6 +35598,51 @@ quelconque, soit devant une autorité administrative.
 ##### II : Timbre de dimension
 
 ##### A : Champ d'application
+
+###### Article 899
+
+Sont assujettis au timbre d'après la dimension du papier employé, les minutes, originaux, copies, extraits et expéditions des
+actes et écrits ci-après :
+
+1° Actes, répertoires et registres des officiers publics ou ministériels ;
+
+2° (Abrogé) ;
+
+3° Tous autres actes et écrits qui sont assujettis obligatoirement à l'enregistrement ou à la formalité fusionnée, ou qui
+sont présentés volontairement à l'une de ces formalités, ainsi que ceux déposés au rang des minutes d'un notaire ou annexés à
+un acte notarié ;
+
+4° Actes portant engagement pour le paiement ou le remboursement de sommes ou valeurs mobilières ;
+
+5° Bulletins de souscription d'actions (1) et pouvoirs délivrés par les actionnaires en vue de leur représentation aux
+assemblées générales. Toutefois, à compter du 11 mars 1987, les pouvoirs délivrés par les actionnaires en vue de leur
+représentation aux assemblées générales sont dispensés de ce droit (2) ;
+
+6° (Abrogé)
+
+(1) Voir Annexe IV, art. 93 H bis à 93 H quater.
+
+(2) Voir article 96 C.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 96 C
+	  - CGIAN4 93 H bis à 93 H quater
+
+	**Modifié par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 61 () JORF 18 juin 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
 
 ###### Article 900
 
@@ -39256,6 +40407,35 @@ le cadre du IV de l'article 11 de la loi n° 85-1403 du 30 décembre 1985.
 	**Codifié par**:
 
 	  - Décret n°86-1086 1986-10-07
+
+
+##### Privatisations
+
+###### Article 1136
+
+Les opérations régies par le titre II de la loi n° 86-912 du 6 août 1986 relative aux modalités d'application des
+privatisations décidées par la loi n° 86-793 du 2 juillet 1986 autorisant le Gouvernement à prendre diverses mesures d'ordre
+économique et social ne donnent lieu à la perception d'aucun droit de timbre ou d'enregistrement.
+
+Cette exonération s'applique également aux opérations mentionnées au troisième alinéa de l'article 58 de la loi n° 86-1067 du
+30 septembre 1986 relative à la liberté de communication.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-793 1986-07-02
+	  - Loi n°86-912 1986-08-06
+	  - Loi n°86-1067 1986-09-30 art. 58
+
+	**Créé par**:
+
+	  - Loi n°86-912 du 6 août 1986 - art. 15 (Ab) JORF 7 août 1986
+	  - Loi n°87-416 du 17 juin 1987 - art. 68 (V) JORF 18 juin 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
 
 
 ### Titre V : Dispositions communes aux titres I, II et IV
@@ -48513,57 +49693,6 @@ prévue à l'alinéa qui précède ainsi que la forme et le contenu de cette dé
 	  - CGIAN4 121 Z bis
 
 
-# ASSIETTE ET LIQUIDATION DE L'IMPOT IMPOTS D'ETAT IMPOTS DIRECTS ET TAXES ASSIMILEES IMPOT SUR LE REVENU REVENUS IMPOSABLES
-
-###### Article 150 ter
-
-Sous réserve des dispositions propres aux bénéfices professionnels, les profits résultant des opérations réalisées,
-directement ou par personnes interposées, sur le marché à terme d'instruments financiers mentionné aux articles 8 et 9 de la
-loi n° 85-695 du 11 juillet 1985 par des personnes physiques fiscalement domiciliées en France sont imposés suivant les
-règles fixées aux articles 150 quater à 150 septies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 150 quater à CGI 150 septies
-	  - Loi n°85-695 du 11 juillet 1985 - art. 8 ()
-	  - Loi n°85-695 du 11 juillet 1985 - art. 9, v. init.
-
-	**Créé par**:
-
-	  - Loi n°85-1404 du 30 décembre 1985 - art. 15 (V) JORF 31 décembre 1985 finances rectificative pour 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-
-# ASSIETTE ET LIQUIDATION DE LA TAXE
-
-## IMPOTS D'ETAT
-
-### DROITS D'ENREGISTREMENT
-
-#### LES TARIFS ET LEUR APPLICATION.
-
-###### Article 834 bis
-
-Les actes constatant les apports mobiliers effectués dans les conditions prévues aux articles 83 bis et 160 A sont
-enregistrés gratuitement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 160 A
-	  - CGI 83 bis
-
-	**Créé par**:
-
-	  - Loi n°84-578 du 9 juillet 1984 - art. 14 () JORF 11 juillet 1984, rectificatif JORF 14 juillet 1984
-
-
 # Livre II : Recouvrement de l'impôt
 
 ## Chapitre premier : Paiement de l'impôt
@@ -55473,32 +56602,6 @@ directs.
 	  - Décret n°86-1086 1986-10-07
 
 
-###### Article 1723 undecies
-
-Comme il est dit à l'article L 333-12 du code de l'urbanisme, l'action en recouvrement du versement pour dépassement du
-plafond légal de densité dont dispose l'administration, peut être exercée jusqu'à l'expiration de la quatrième année suivant
-celle au cours de laquelle le permis de construire a été délivré ou considéré comme tacitement accordé [*délai*]. La
-prescription de l'action de l'administration est interrompue dans les conditions indiquées à l'article L 275 du livre des
-procédures fiscales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L275
-	  - CGIAN4 199
-	  - CGIAN4 200
-	  - CGIAN4 201
-	  - CGIAN4 202
-	  - CGIAN4 203
-	  - CGIAN4 204
-	  - Code de l'urbanisme - art. L333-12 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
 ## PENALITES
 
 ### DISPOSITIONS COMMUNES.
@@ -56003,6 +57106,39 @@ renseignements inexacts sera passible de l'amende prévue au 1.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 1740 quinquies
+
+Les avantages prévus aux II et III de l'article 83 bis, au III de l'article 160 A, ainsi qu'aux articles 220 quater A, 726 et
+834 bis, ne sont plus applicables à compter de l'année au cours de laquelle l'une des conditions prévues à l'article 220
+quater A cesse d'être satisfaite.
+
+Lorsque le rachat de l'entreprise a été réalisé avec l'accord préalable du ministre chargé des finances conformément à
+l'article 220 quater B, les droits rappelés et les crédits d'impôt à rembourser en application de l'alinéa précédent sont
+majorés de 20 p. 100, sans préjudice de l'application de l'intérêt de retard prévu à l'article 1734 et, le cas échéant, des
+pénalités pour manoeuvres frauduleuses mentionnées à l'article 1729.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 160 A III
+	  - CGI 1729
+	  - CGI 1734
+	  - CGI 220 quater B
+	  - CGI 220 quatez A
+	  - CGI 726
+	  - CGI 83 bis II, III
+	  - CGI 834 bis
+
+	**Créé par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 26 () JORF 18 juin 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
 
 
 ###### Article 1741
