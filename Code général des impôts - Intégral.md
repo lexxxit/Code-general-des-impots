@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1977-01-01
+Version Consolidée au 1977-12-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -993,6 +993,54 @@ testaments et autres actes de libéralité à cause de mort.
 
 	  - TXT_ASSOCIE: Jurisprudence 1995-10-12 13L-6-95
 	  - TXT_ASSOCIE: Jurisprudence 1997-12-04 13L-6-97
+
+
+## Chapitre II : Pénalités
+
+### Section II : Dispositions particulières
+
+#### C : Contributions indirectes
+
+##### 1 : Sanctions fiscales
+
+###### Article 1800
+
+En matière de contributions indirectes et par application de l'article 463 du code pénal, si les circonstances paraissent
+atténuantes, les tribunaux sont autorisés à modérer le montant des amendes et à libérer le contrevenant de la confiscation,
+sauf pour les objets prohibés, par le paiement d'une somme que le tribunal arbitre.
+
+Le minimum des condamnations encourues est fixé au tiers de la somme servant de base au calcul de la pénalité
+proportionnelle.
+
+Les tribunaux ne peuvent dispenser le redevable du paiement des sommes fraudées ou indûment obtenues.
+
+Les circonstances atténuantes cessent d'être applicables, en cas de récidive, dans le délai d'un an.
+
+**Nota:**
+
+Loi 92-1336 1992-12-16 art. 323 : sont abrogées toutes les dispositions faisant référence à l'article 463 du code pénal. 
+
+La loi 93-913 du 19 juillet 1993 reporte au 1er mars 1994 l'entrée en vigueur des livres I à V du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 14 (M)
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 15 (M)
+
+	**Modifié par**:
+
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 9 (V) JORF 30 décembre 1977
+
+	**Cite**:
+
+	  - Code pénal 463
 
 
 ## Chapitre V : Dégrèvements et restitutions d'impôts
