@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 2001-01-01
+Version Consolidée au 2001-02-20
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9266,12 +9266,12 @@ sociétés commerciales ;
 l'article 40 de la loi n° 78-763 du 19 juillet 1978 portant statut de ces sociétés, à l'occasion de l'émission de parts
 sociales destinées exclusivement à leurs salariés ;
 
-18° Les sommes versées par l'entreprise en application d'un plan d'épargne d'entreprise établi conformément aux dispositions
-du chapitre III du titre IV du livre IV du code du travail ;
+18° Les sommes versées par l'entreprise en application de plans d'épargne constitués conformément aux dispositions du
+chapitre III du titre IV du livre IV du code du travail ;
 
 18° bis Dans la limite d'un montant égal à la moitié du plafond annuel moyen retenu pour le calcul des cotisations de
-sécurité sociale, les sommes reçues au titre de l'intéressement et affectées à la réalisation d'un plan d'épargne
-d'entreprise.
+sécurité sociale, les sommes reçues au titre de l'intéressement et affectées à la réalisation de plans d'épargne constitués
+conformément aux dispositions du chapitre III du titre IV du livre IV du code du travail ;
 
 L'exonération s'applique sous réserve du dépôt de l'accord d'intéressement, dans les conditions prévues au huitième alinéa de
 l'article L. 441-2 du code du travail, à la direction départementale du travail, de l'emploi et de la formation
@@ -9357,13 +9357,13 @@ salarié, apprécié sur l'ensemble de la période couverte par l'accord mention
 	  - Loi n°78-763 du 19 juillet 1978 - art. 40 (V)
 	  - Loi n°80-545 1980-07-17
 	  - Ordonnance 82-283 1982-03-26
+	  - CGI 39, 80 ter b, 220 bis, 81 ter
+	  - Code rural L321-13, L255 à L257, L325-1, L325-2, 1031-3
 	  - Loi n°94-488 1994-06-11
 	  - Loi n°94-679 du 8 août 1994 - art. 17 (M)
 	  - Loi n°96-370 1996-05-03
 	  - Loi n°96-1111 1996-12-19
 	  - Loi n°98-546 du 2 juillet 1998 - art. 51 (M)
-	  - CGI 39, 80 ter b, 220 bis, 81 ter
-	  - Code rural L321-13, L255 à L257, L325-1, L325-2, 1031-3
 	  - Code du service national - art. L104 (M)
 	  - Code du service national L104, L 122-12
 	  - Code du travail - art. L122-14-13 (M)
@@ -9418,19 +9418,19 @@ salarié, apprécié sur l'ensemble de la période couverte par l'accord mention
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 6 A (V)
 	  - Code rural - art. L741-10-3 (Ab)
 
-	**Modifié par**:
-
-	  - Loi - art. 22 () JORF 31 décembre 2000
-	  - Loi - art. 4 (V) JORF 31 décembre 2000
-
 	**Liens**:
 
-	  - TXT_ASSOCIE: Instruction 1999-06-14 5F-14-99
-	  - TXT_ASSOCIE: Instruction 2000-01-21 5F-5-00
 	  - TXT_ASSOCIE: Instruction 2000-05-31 5F-8-00
+	  - TXT_ASSOCIE: Instruction 1999-06-14 5F-14-99
 	  - TXT_ASSOCIE: Instruction 1999-08-30 5F-16-99
+	  - TXT_ASSOCIE: Instruction 2000-01-21 5F-5-00
 	  - TXT_ASSOCIE: Instruction 2000-01-6 5F-2-00
 	  - TXT_ASSOCIE: Instruction 2001-01-04 5F-1-01
+	  - TXT_ASSOCIE: Instruction 2001-02-06 5F-6-01
+
+	**Modifié par**:
+
+	  - Loi n°2001-152 du 19 février 2001 - art. 17 () JORF 20 février 2001
 
 
 ###### Article 81 bis
