@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1983-07-02
+Version Consolidée au 1983-07-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -25230,6 +25230,51 @@ mètres autour de toute agglomération de maisons ou de bâtiments.
 	  - HISTO: EDITION 1979-07-01
 
 
+##### 1 bis : Exonération comprise entre deux et cinq ans
+
+###### Article 1383 A
+
+I. Les entreprises, créées en 1983 et 1984 [*entreprises nouvelles*], visées à l'article 1464 B-I peuvent être exonérées,
+dans les conditions prévues à l'article 1464 C, de la taxe foncière sur les propriétés bâties dont elles sont redevables,
+pour les établissements qu'elles ont créés ou repris à une entreprise en difficulté, au titre des deux années suivant celle
+de leur création. 
+
+II. Les entreprises ne peuvent bénéficier de cette exonération qu'à la condition de déclarer leurs acquisitions au service
+des impôts de la situation des biens dans les quinze jours de la signature de l'acte, ou au plus tard le 15 novembre 1983
+[*date limite*] pour les biens acquis avant le 31 octobre 1983.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1464 B I
+	  - CGI 1464 C
+
+	**Créé par**:
+
+	  - Loi n°83-607 du 8 juillet 1983 - art. 1 (V) JORF 9 JUILLET 1983
+	  - Loi n°83-607 du 8 juillet 1983 - art. 2 (V) JORF 9 JUILLET 1983
+
+	**Cité par**:
+
+	  - Décret n°2007-94 du 24 janvier 2007 - art. 2 (V)
+	  - Code général des impôts, CGI. - art. 1383 B (V)
+	  - Code général des impôts, CGI. - art. 1383 C (V)
+	  - Code général des impôts, CGI. - art. 1383 C bis (V)
+	  - Code général des impôts, CGI. - art. 1383 D (V)
+	  - Code général des impôts, CGI. - art. 1383 E bis (V)
+	  - Code général des impôts, CGI. - art. 1383 F (Ab)
+	  - Code général des impôts, CGI. - art. 1383 I (V)
+	  - Code général des impôts, CGI. - art. 1388 quinquies (V)
+	  - Code général des impôts, CGI. - art. 1464 C (V)
+	  - Code général des impôts, CGI. - art. 1639 A quater (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 315 septies (V)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+
 ##### 2 : Exonérations supérieures à deux ans
 
 ##### 4° : Autres locaux
@@ -38821,27 +38866,6 @@ contravention des dispositions de l'article 979 sont nulles. Toutefois, la nulli
 
 	  - CGI 1840 N
 	  - CGI 979
-
-
-###### Article 1840 W
-
-Quiconque ne s'occupe pas professionnellement de l'achat ou de la vente des marchandises et denrées dont le trafic à livrer
-est réglementé dans les bourses de commerce ne peut traiter des marchés à terme ou à livrer sur ces marchandises et denrées
-aux conditions des règlements établis dans lesdites bourses que par l'entremise d'un courtier ou d'un commissionnaire restant
-soumis aux obligations qui dérivent de sa qualité de mandataire.
-
-Toute opération d'achat ou de vente faite contrairement aux prescriptions du premier alinéa est nulle et ne peut engendrer
-aucun lien de droit.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°83-610 du 8 juillet 1983 - art. 50 () JORF 9 JUILLET 1983
 
 
 ###### Article 1840 W bis
