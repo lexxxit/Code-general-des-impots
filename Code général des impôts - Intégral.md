@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1980-07-09
+Version Consolidée au 1980-07-16
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -26290,154 +26290,6 @@ répartition des actions A et J elles-mêmes, lorsque le blocage de ces titres a
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 145
-
-1  Le régime fiscal des sociétés mères, tel qu'il est défini aux articles 146 et 216, est applicable aux sociétés françaises
-par actions ou à responsabilité limitée [*SARL*] qui détiennent, dans le capital d'autres sociétés revêtant l'une de ces
-formes, des participations satisfaisant aux conditions ci-après :
-
-a  Les titres de participations doivent revêtir la forme nominative ou être déposés dans un établissement désigné par
-l'administration;
-
-b  Ils doivent représenter au moins 10 % du capital de la société émettrice; ce pourcentage s'apprécie à la date de la mise
-en paiement des produits de la participation.
-
-Toutefois :
-
-- aucun pourcentage minimal n'est exigé pour les titres reçus en rémunération d'apports partiels admis au régime fiscal des
-fusions ou d'apports consentis à des groupements d'emprunt professionnels créés pour faciliter le financement des
-investissements dans certains secteurs de l'économie, non plus que pour les participations dont le prix de revient excède 10
-millions F [*montant*] ;
-
-- toute société qui bénéficie du régime fiscal des sociétés mères en conserve le bénéfice dès lors qu'elle ne réduit pas le
-montant de sa participation et que le prix de revient de cette dernière atteint au moins 2 millions F [*montant minimum*] ;
-
-c  Les titres de participations doivent avoir été souscrits à l'émission. A défaut, la personne morale participante doit
-avoir pris l'engagement de les conserver pendant un délai de deux ans.
-
-2  Le régime fiscal des sociétés mères s'applique également aux sociétés françaises par actions ou à responsabilité limitée
-qui ont souscrit à l'émission et conservé sous la forme nominative, quel qu'en soit le nombre :
-
-a  Soit des obligations des anciens grands réseaux français de chemin de fer d'intérêt général ou des chemins de fer de
-grande ceinture de Paris, ou de la société nationale des chemins de fer français [*SNCF*], lorsque la souscription est
-antérieure au 1er décembre 1941 [*date*] ;
-
-b  Soit des obligations de la société nationale des chemins de fer français, lorsque ces obligations proviennent de la
-conversion effectuée en vertu de la loi du 2 décembre 1941 de titres visés à l'alinéa qui précède et souscrits eux-mêmes à
-l'émission.
-
-3  Le même régime s'applique également lorsqu'une société propriétaire de Kuxes de Gewerkschaften a reçu des actions
-nouvelles en échange des Kuxes de Gewerkschaften transformées en exécution de l'article 3, deuxième alinéa, de la loi du 9
-février 1935, relative à l'introduction de la législation minière française dans les départements du Haut-Rhin, du Bas-Rhin
-et de la Moselle.
-
-4  En cas d'absorption par une tierce société d'une société détenant une participation satisfaisant aux conditions exigées
-par le présent article, le bénéfice du régime fiscal des sociétés mères est transporté de plein droit de la société absorbée
-à la société absorbante ou nouvelle. De même, une société participante demeure fondée à se prévaloir du régime de faveur
-lorsque la société dont elle détient les actions ou parts absorbe une tierce société ou est absorbée par celle-ci, sous
-réserve que la fusion ne soit pas réalisée pour faire échec aux conditions susvisées et sans que la participation puisse
-bénéficier d'un traitement plus favorable que si l'opération n'avait pas eu lieu.
-
-4 bis  (Abrogé).
-
-5  (Abrogé)
-
-6  Le régime fiscal des sociétés mères n'est pas applicable :
-
-a  Aux produits des actions des sociétés d'investissement, des sociétés de développement régional, des sociétés financières
-pour le développement économique outre-mer, des sociétés de financement de recherches et d'exploitation des gisements
-d'hydrocarbures liquides ou gazeux et des sociétés sahariennes de développement;
-
-b  Aux dividendes alloués aux actions émises à l'occasion de constitutions ou d'augmentations de capital de sociétés ayant
-reçu l'agrément prévu à l'article 96 de l'annexe II au présent code, dans la mesure où ces dividendes ont été déduits, en
-vertu du même article, pour la détermination du bénéfice imposable desdites sociétés;
-
-b bis  Aux dividendes déduits, en application des dispositions de l'article 214 A, du bénéfice imposable des sociétés
-distributrices (1);
-
-b ter  Aux produits des actions à dividende prioritaire sans droit de vote prévues par l'article 177-1 de la loi n° 66-537 du
-24 juillet 1966 (2);
-
-c  Aux produits des actions ou parts de sociétés par actions ou à responsabilité limitée admises au régime fiscal des
-sociétés de personnes prévu à l'article 239 bis A;
-
-d  Aux produits des actions des sociétés immobilières pour le commerce et l'industrie [*SICOMI*] visées à l'article 5 de
-l'ordonnance no 67-837 du 28 septembre 1967;
-
-e  Aux dividendes distribués aux actionnaires des sociétés agréées pour le financement des télécommunications visées à
-l'article 1er de la loi n° 69-1160 du 24 décembre 1969.
-
-7  Le régime fiscal des sociétés mères ne peut s'appliquer aux produits des actions des sociétés immobilières
-d'investissement régies par l'article 33-I de la loi n° 63-254 du 15 mars 1963 et des sociétés immobilières de gestion régies
-par l'article 1er du décret n° 63-683 du 13 juillet 1963 que dans les cas et pendant les périodes ci-après :
-
-1° Pendant vingt-cinq ans à compter de leur émission [*délai*], pour les actions souscrites en espèces et entièrement
-libérées par les sociétés participantes avant le 1er janvier 1966 [*date*] ;
-
-2° Jusqu'à l'expiration de la vingt-cinquième année suivant celle de l'achèvement des constructions, pour les actions
-attribuées avant le 1er janvier 1966 aux sociétés participantes en rémunération de l'apport d'immeubles dont les revenus sont
-temporairement exonérés de l'impôt sur les sociétés en vertu de l'article 210 ter;
-
-3° Jusqu'au 31 décembre 1985 [*date limite*], pour les actions acquises ou souscrites et libérées par les sociétés
-participantes avant la promulgation de la loi n° 63-254 du 15 mars 1963, dans le capital de sociétés immobilières
-conventionnées admises à bénéficier des dispositions de l'ordonnance n° 58-876 du 24 septembre 1958.
-
-En ce qui concerne les actions visées aux 1° et 2°, aucun pourcentage minimal de participation n'est exigé pour l'application
-du régime défini au présent article.
-
-8  (Transféré sous le paragraphe 6-d ci-dessus).
-
-1) Annexe II, art. 102 F.
-
-Cf. Loi n° 78-741 du 13 juillet 1978, art. 16 et suivants.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 146
-	  - CGI 210 ter
-	  - CGI 214 A
-	  - CGI 216
-	  - CGI 239 bis A
-	  - CGIAN2 102 F
-	  - CGIAN2 54
-	  - CGIAN2 55
-	  - CGIAN2 56
-	  - CGIAN2 96
-	  - Ordonnance 58-876 1958-09-24
-	  - Loi n°63-254 1963-03-15 ART. 33 I
-	  - Décret n°63-683 1963-07-13 ART. 1
-	  - Loi n°66-537 1966-07-24 ART. 177 1
-	  - Ordonnance n°67-837 du 28 septembre 1967 - art. 5 (V)
-	  - Loi n°69-1160 1969-12-24 ART. 1
-	  - Loi n°78-741 1978-07-13 ART. 16 ET S.
-	  - Loi n°1935-02-09 ART. 3
-	  - Loi n°1941-12-02
-
-	**Cité par**:
-
-	  - Loi n°80-531 du 15 juillet 1980 - art. 30 (V)
-	  - Loi n°85-695 du 11 juillet 1985 - art. 1 (V)
-	  - Loi n°93-1444 du 31 décembre 1993 - art. 12 (V)
-	  - Décret n°2017-727 du 3 mai 2017 (V)
-	  - Code général des impôts, CGI. - art. 208 C (V)
-	  - Code général des impôts, CGI. - art. 216 (V)
-	  - Code général des impôts, CGI. - art. 219 (VD)
-	  - Code général des impôts, CGI. - art. 223 B (V)
-	  - Code général des impôts, CGI. - art. 223 O (V)
-	  - Code général des impôts, CGI. - art. 39 (VD)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 C (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 54 (Ab)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 quater (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 quinquies (V)
-	  - Code monétaire et financier - art. L512-92 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 150 A
 
 Sous réserve des dispositions particulières qui sont propres aux bénéfices professionnels et aux profits de construction, les
@@ -29454,6 +29306,166 @@ déclaration des sommes ou valeurs attribuées à chaque porteur de parts (1).
 	  - Décret n°81-866 1981-09-15
 
 
+###### Article 145
+
+1. Le régime fiscal des sociétés mères, tel qu'il est défini aux articles 146 et 216, est applicable aux sociétés françaises
+par actions ou à responsabilité limitée [*SARL*] qui détiennent, dans le capital d'autres sociétés revêtant l'une de ces
+formes, des participations satisfaisant aux conditions ci-après :
+
+a. Les titres de participations doivent revêtir la forme nominative ou être déposés dans un établissement désigné par
+l'administration ;
+
+b. Ils doivent représenter au moins 10 % du capital de la société émettrice ; ce pourcentage s'apprécie à la date de la mise
+en paiement des produits de la participation.
+
+Toutefois :
+
+- aucun pourcentage minimal n'est exigé pour les titres reçus en rémunération d'apports partiels admis au régime fiscal des
+fusions ou d'apports consentis à des groupements d'emprunt professionnels créés pour faciliter le financement des
+investissements dans certains secteurs de l'économie, non plus que pour les participations dont le prix de revient excède 10
+millions F [*montant*] ;
+
+- toute société qui bénéficie du régime fiscal des sociétés mères en conserve le bénéfice dès lors qu'elle ne réduit pas le
+montant de sa participation et que le prix de revient de cette dernière atteint au moins 2 millions F ;
+
+c - Les titres de participations doivent avoir été souscrits à l'émission. A défaut, la personne morale participante doit
+avoir pris l'engagement de les conserver pendant un délai de deux ans.
+
+2. Le régime fiscal des sociétés mères s'applique également aux sociétés françaises par actions ou à responsabilité limitée
+qui ont souscrit à l'émission et conservé sous la forme nominative, quel qu'en soit le nombre :
+
+a. Soit des obligations des anciens grands réseaux français de chemin de fer d'intérêt général ou des chemins de fer de
+grande ceinture de Paris, ou de la société nationale des chemins de fer français, lorsque la souscription est antérieure au
+1er décembre 1941 ;
+
+b. Soit des obligations de la société nationale des chemins de fer français, lorsque ces obligations proviennent de la
+conversion effectuée en vertu de la loi du 2 décembre 1941 de titres visés à l'alinéa qui précède et souscrits eux-mêmes à
+l'émission.
+
+3. Le même régime s'applique également lorsqu'une société propriétaire de Kuxes de Gewerkschaften a reçu des actions
+nouvelles en échange des Kuxes de Gewerkschaften transformées en exécution de l'article 3, deuxième alinéa, de la loi du 9
+février 1935, relative à l'introduction de la législation minière française dans les départements du Haut-Rhin, du Bas-Rhin
+et de la Moselle.
+
+4. En cas d'absorption par une tierce société d'une société détenant une participation satisfaisant aux conditions exigées
+par le présent article, le bénéfice du régime fiscal des sociétés mères est transporté de plein droit de la société absorbée
+à la société absorbante ou nouvelle. De même, une société participante demeure fondée à se prévaloir du régime de faveur
+lorsque la société dont elle détient les actions ou parts absorbe une tierce société ou est absorbée par celle-ci, sous
+réserve que la fusion ne soit pas réalisée pour faire échec aux conditions susvisées et sans que la participation puisse
+bénéficier d'un traitement plus favorable que si l'opération n'avait pas eu lieu.
+
+4 bis (Abrogé).
+
+5. (Abrogé).
+
+6. Le régime fiscal des sociétés mères n'est pas applicable :
+
+a. Aux produits des actions de sociétés d'investissement, des sociétés de développement régional, des sociétés financières
+pour le développement économique outre-mer, des sociétés de financement de recherches et d'exploitation des gisements
+d'hydrocarbures liquides ou gazeux et des sociétés sahariennes de développement ;
+
+b. Aux dividendes alloués aux actions émises à l'occasion de constitutions ou d'augmentations de capital de sociétés ayant
+reçu l'agrément prévu à l'article 96 de l'annexe II au présent code, dans la mesure où ces dividendes ont été déduits, en
+vertu du même article, pour la détermination du bénéfice imposable desdites sociétés ;
+
+b bis. Aux dividendes déduits, en application des dispositions de l'article 214 A, du bénéfice imposable des sociétés
+distributrices (2) ;
+
+b ter. Aux produits des actions à dividende prioritaire sans droit de vote prévues par l'article 177-1 de la loi n° 66-537 du
+24 juillet 1966 (3).
+
+c. Aux produits des actions ou parts de sociétés par actions ou à responsabilité limitée admises au régime fiscal des
+sociétés de personnes prévu à l'article 239 bis A ;
+
+d. Aux produits des actions des sociétés immobilières pour le commerce et l'industrie [*SICOMI*] visées à l'article 5 de
+l'ordonnance n° 67-837 du 28 septembre 1967 ;
+
+e. Aux dividendes distribués aux actionnaires des sociétés agréées pour le financement des télécommunications visées à
+l'article 1er de la loi n° 69-1160 du 24 décembre 1969 ;
+
+f. Aux produits distribués aux associés des sociétés agréées pour le financement d'installations ou de matériels destinés à
+économiser l'énergie, à développer les sources d'énergie de remplacement des hydrocarbures ou à promouvoir les utilisations
+du charbon, mentionnées à l'article 30 de la loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à
+l'utilisation de la chaleur.
+
+7. Le régime fiscal des sociétés mères ne peut s'appliquer aux produits des actions des sociétés immobilières
+d'investissement régies par l'article 33-I de la loi n° 63-254 du 15 mars 1963 et des sociétés immobilières de gestion régies
+par l'article 1er du décret n° 63-683 du 13 juillet 1963 que dans les cas et pendant les périodes ci-après :
+
+1° Pendant vingt-cinq ans à compter de leur émission, pour les action souscrites en espèces et entièrement libérées par les
+sociétés participantes avant le 1er janvier 1966 [*date limite*] ;
+
+2° Jusqu'à l'expiration de la vingt-cinquième année suivant celle de l'achèvement des constructions, pour les actions
+attribuées avant le 1er janvier 1966 aux sociétés participantes en rémunération de l'apport d'immeubles dont les revenus sont
+temporairement exonérés de l'impôt sur les sociétés en vertu de l'article 210 ter.
+
+3° Jusqu'au 31 décembre 1985, pour les actions acquises ou souscrites et libérées par les sociétés participantes avant la
+promulgation de la loi n° 63-254 du 15 mars 1963, dans le capital de sociétés immobilières conventionnées admises à
+bénéficier des dispositions de l'ordonnance n° 58-876 du 24 septembre 1958.
+
+En ce qui concerne les actions visées aux 1° et 2°, aucun pourcentage minimal de participation n'est exigé pour l'application
+du régime défini au présent article.
+
+8. (Transféré sous le paragraphe 6 - d du ci-dessus).
+
+(1) Voir annexe II, art. 54 à 56.
+
+(2) Annexe II, art. 102 F.
+
+(3) Cf. Loi n° 78-741 du 13 juillet 1978, art. 16 et suivants.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 146
+	  - CGI 210 ter
+	  - CGI 214 A
+	  - CGI 216
+	  - CGI 239 bis A
+	  - CGIAN2 102 F
+	  - CGIAN2 54
+	  - CGIAN2 55
+	  - CGIAN2 56
+	  - CGIAN2 96
+	  - Ordonnance 58-876 1958-09-24
+	  - Loi n°63-254 1963-03-15 ART. 33 I
+	  - Décret n°63-683 1963-07-13 ART. 1
+	  - Loi n°66-537 1966-07-24 ART. 177 1
+	  - Ordonnance n°67-837 du 28 septembre 1967 - art. 5 (V)
+	  - Loi n°69-1160 1969-12-24 ART. 1 FINANCES RECTIFICATIVE POUR 1969
+	  - Loi n°78-741 1978-07-13 ART. 16 ET S.
+	  - Loi n°80-531 1980-07-15 ART. 30
+	  - Loi n°1935-02-09 ART. 3 AL. 2
+	  - Loi n°1941-12-02
+
+	**Modifié par**:
+
+	  - Loi n°80-531 1980-07-15 ART. 30 II b JORF 16 JUILLET 1980
+
+	**Cité par**:
+
+	  - Loi n°80-531 du 15 juillet 1980 - art. 30 (V)
+	  - Loi n°85-695 du 11 juillet 1985 - art. 1 (V)
+	  - Loi n°93-1444 du 31 décembre 1993 - art. 12 (V)
+	  - Décret n°2017-727 du 3 mai 2017 (V)
+	  - Code général des impôts, CGI. - art. 208 C (V)
+	  - Code général des impôts, CGI. - art. 216 (V)
+	  - Code général des impôts, CGI. - art. 219 (VD)
+	  - Code général des impôts, CGI. - art. 223 B (V)
+	  - Code général des impôts, CGI. - art. 223 O (V)
+	  - Code général des impôts, CGI. - art. 39 (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 C (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 54 (Ab)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 quater (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 quinquies (V)
+	  - Code monétaire et financier - art. L512-92 (V)
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
 ###### Article 151 septies
 
 Les plus-values réalisées dans le cadre d'une activité agricole, artisanale, commerciale ou libérale par des contribuables
@@ -30226,36 +30238,48 @@ prévue à l'article 83-1° bis.
 
 Les dispositions des articles 158 bis et 158 ter ne sont pas applicables aux produits distribués :
 
-1° Par les sociétés immobilières d'investissement et les sociétés immobilières de gestion;
+1° Par les sociétés immobilières d'investissement et les sociétés immobilières de gestion ;
 
 2° Par les sociétés d'investissement régies par les titres I et II de l'ordonnance n° 45-2710 du 2 novembre 1945 et
 remplissant les conditions prévues au premier alinéa de l'article 208 A, par les sociétés d'investissement à capital variable
-régies par la loi n° 79-12 du 3 janvier 1979 et remplissant les conditions prévues au deuxième alinéa du même article, et par
-les organismes assimilés visés aux articles 207-2, 208-1° ter, 1° quater et 1° quinquies;
+[*SICAV*] régies par la loi n° 79-12 du 3 janvier 1979 et remplissant les conditions prévues au deuxième alinéa du même
+article, et par les organismes assimilés visés aux articles 207-2, 208-1° ter, 1° quater et 1° quinquies ;
 
 3° Par les sociétés immobilières pour le commerce et l'industrie [*SICOMI*] visées à l'article 5 de l'ordonnance n° 67-837 du
-28 septembre 1967;
+28 septembre 1967 ;
 
 4° Par les sociétés agréées pour le financement des télécommunications visées à l'article 1er de la loi n° 69-1160 du 24
-décembre 1969.
+décembre 1969 ;
+
+5° Par les sociétés agréées pour le financement d'installations ou de matériels destinés à économiser l'énergie, à développer
+les sources d'énergie de remplacement des hydrocarbures ou à promouvoir les utilisations de charbon, mentionnées à l'article
+30 de la loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à l'utilisation de la chaleur.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 158 bis
-	  - CGI 158 ter
 	  - CGI 207 2
-	  - CGI 208 1° ter, quater, quinquies
+	  - CGI 208 1° quater
+	  - CGI 208 1° quinquies
+	  - CGI 208 1° ter
 	  - CGI 208 A
+	  - CGIAN2 80
+	  - CGIAN2 81
 	  - Ordonnance 45-2710 1945-11-02
 	  - Ordonnance n°67-837 du 28 septembre 1967 - art. 5 (V)
-	  - Loi n°69-1160 1969-12-24 ART. 1
+	  - Loi n°69-1160 1969-12-24 ART. 1 FINANCES RECTIFICATIVE POUR 1969
 	  - Loi n°79-12 1979-01-03
+	  - Loi n°80-531 1980-07-15 ART. 30
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°80-531 1980-07-15 ART. 30 II b JORF 16 JUILLET 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 ###### Article 159 quinquies
@@ -30876,6 +30900,50 @@ Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'appli
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 A (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 E (V)
 	  - Code monétaire et financier - art. L221-3 (V)
+
+
+##### DETERMINATION DU BENEFICE IMPOSABLE
+
+###### Article 209 ter
+
+Les dispositions de l'article 209 bis-1 ne sont pas applicables aux produits distribués :
+
+1° Par les sociétés immobilières d'investissement et les sociétés immobilières de gestion ;
+
+2° Par les sociétés d'investissement remplissant les conditions prévues, suivant le cas, au premier alinéa ou au deuxième
+alinéa de l'article 208 A et par les organismes assimilés visés aux articles 207-2, 208-1° ter, 1° quater et 1° quinquies ;
+
+3° Par les sociétés immobilières pour le commerce et l'industrie [*SICOMI*] visées à l'article 5 de l'ordonnance n° 67-837 du
+28 septembre 1967 ;
+
+4° Par les sociétés agréées pour le financement des télécommunications visées à l'article 1er de la loi n° 69-1160 du 24
+décembre 1969 ;
+
+5° Par les sociétés agréées pour le financement d'installations ou de matériels destinés à économiser l'énergie, à développer
+les sources d'énergie de remplacement des hydrocarbures ou à promouvoir les utilisations de charbon, mentionnées à l'article
+30 de la loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à l'utilisation de la chaleur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 207 2
+	  - CGI 208 1° quater
+	  - CGI 208 1° quinquies
+	  - CGI 208 1° ter
+	  - CGI 208 A
+	  - CGI 209 bis 1
+	  - Ordonnance n°67-837 du 28 septembre 1967 - art. 5 (V)
+	  - Loi n°69-1160 1969-12-24 FINANCES RECTIFICATIVE POUR 1969
+	  - Loi n°80-531 1980-07-15 ART. 30
+
+	**Modifié par**:
+
+	  - Loi n°80-531 1980-07-15 ART. 30 II b JORF 16 JUILLET 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 ##### CALCUL DE L'IMPOT.
@@ -33604,38 +33672,6 @@ de jetons de présence [*conditions*].
 	  - Décret n°87-940 1987-11-23
 
 
-###### Article 209 ter
-
-Les dispositions de l'article 209 bis-1 [*crédit d'impôt, avoir fiscal*] ne sont pas applicables aux produits distribués :
-
-1° Par les sociétés immobilières d'investissement et les sociétés immobilières de gestion;
-
-2° Par les sociétés d'investissement remplissant les conditions prévues, suivant le cas, au premier alinéa ou au deuxième
-alinéa de l'article 208 A et par les organismes assimilés visés aux articles 207-2, 208-1° ter, 1° quater et 1° quinquies;
-
-3° Par les sociétés immobilières pour le commerce et l'industrie [*SICOMI*] visées à l'article 5 de l'ordonnance n° 67-837 du
-28 septembre 1967;
-
-4° Par les sociétés agréées pour le financement des télécommunications visées à l'article 1er de la loi n° 69-1160 du 24
-décembre 1969.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 207 2
-	  - CGI 208 1° ter, 1° quater, 1° quinquies
-	  - CGI 208 A
-	  - CGI 209 bis I
-	  - Ordonnance n°67-837 du 28 septembre 1967 - art. 5 (V)
-	  - Loi n°69-1160 1969-12-24 ART. 1 FINANCES RECTIFICATIVE POUR 1969
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 223 sexies
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 210 A
 
 1  Les plus-values nettes dégagées sur l'ensemble des éléments de l'actif immobilisé apporté du fait d'une fusion ne sont pas
@@ -34369,35 +34405,39 @@ assemblée générale des actionnaires sous la responsabilité des commissaires 
 
 #### TAXES DIVERSES
 
-##### PRECOMPTE.
+##### PRECOMTE
 
 ###### Article 223 sexies
 
-1  Sous réserve des dispositions des articles 209 quinquies et 209 sexies, lorsque les produits distribués par une société
+1. Sous réserve des dispositions des articles 209 quinquies et 209 sexies, lorsque les produits distribués par une société
 sont prélevés sur des sommes à raison desquelles elle n'a pas été soumise à l'impôt sur les sociétés au taux de 50 %, cette
 société est tenue d'acquitter un précompte égal au montant du crédit [*d'impôt, avoir fiscal*] prévu à l'article 158 bis et
-attaché à ces distributions. Ce précompte est dû quels que soient les bénéficiaires des distributions.
+attaché à ces distributions [*calcul*]. Ce précompte est dû quels que soient les bénéficiaires des distributions.
 
 Il est également exigible lorsque les produits distribués sont prélevés sur les résultats d'exercice clos depuis plus de cinq
-ans [*délai*] ou depuis une date antérieure au 1er janvier 1965 [*conditions d'exigibilité*].
+ans ou depuis une date antérieure au 1er janvier 1965.
 
-2  Un décret fixe les modalités d'application du présent article. Il précise notamment les postes du bilan sur lesquels les
+2. Un décret fixe les modalités d'application du présent article. Il précise notamment les postes du bilan sur lesquels les
 répartitions doivent être imputées ainsi que l'ordre de cette imputation (1).
 
-3  Les dispositions du présent article ne sont pas applicables aux produits distribués :
+3. Les dispositions du présent article ne sont pas applicables aux produits distribués :
 
-1° Par les sociétés immobilières d'investissement et les sociétés immobilières de gestion;
+1° Par les sociétés immobilières d'investissement et les sociétés immobilières de gestion ;
 
 2° Par les sociétés d'investissement remplissant les conditions prévues, suivant le cas, au premier alinéa ou au deuxième
-alinéa de l'article 208 A et par les organismes assimilés visés aux articles 207-2, 208-1° ter, 1° quater et 1° quinquies;
+alinéa de l'article 208 A et par les organismes assimilés visés aux articles 207-2, 208-1° ter, 1° quater et 1° quinquies ;
 
 3° Par les sociétés immobilières pour le commerce et l'industrie [*SICOMI*] visées à l'article 5 de l'ordonnance n° 67-837 du
-28 septembre 1967;
+28 septembre 1967 ;
 
 4° Par les sociétés agréées pour le financement des télécommunications visées à l'article 1er de la loi n° 69-1160 du 24
-décembre 1969.
+décembre 1969 ;
 
-1)  Annexe III, art. 46 quater-0C à 46 quater-0F et 381 T.
+5° Par les sociétés agréées pour le financement d'installations ou de matériels destinés à économiser l'énergie, à développer
+les sources d'énergie de remplacement des hydrocarbures ou à promouvoir les utilisations de charbon, mentionnées à l'article
+30 de la loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à l'utilisation de la chaleur.
+
+(1) Annexe III, art. 46 quater-0C à 46 quater-0F et 381 T.
 
 **Liens relatifs à cet article**
 
@@ -34405,7 +34445,9 @@ décembre 1969.
 
 	  - CGI 158 bis
 	  - CGI 207 2
-	  - CGI 208 1° ter, 1° quater, 1° quinquies
+	  - CGI 208 1° quater
+	  - CGI 208 1° quinquies
+	  - CGI 208 1° ter
 	  - CGI 208 A
 	  - CGI 209 quinquies
 	  - CGI 209 sexies
@@ -34413,11 +34455,15 @@ décembre 1969.
 	  - CGIAN3 46 quater-0 C A CGIAN3 46 quater-0 F
 	  - Ordonnance n°67-837 du 28 septembre 1967 - art. 5 (V)
 	  - Loi n°69-1160 1969-12-24 ART. 1 FINANCES RECTIFICATIVE POUR 1969
+	  - Loi n°80-531 1980-07-15 ART. 30
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: CGI 209 ter
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°80-531 1980-07-15 ART. 30 II b JORF 16 JUILLET 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 ##### IMPOSITION FORFAITAIRE ANNUELLE DES SOCIETES.
@@ -43211,6 +43257,34 @@ concèdent immédiatement la jouissance au vendeur par un contrat de crédit-bai
 	  - HISTO: Edition 1979-07-01
 
 
+###### Article 698 bis
+
+En ce qui concerne les sociétés agréées pour le financement d'installations ou d'immeubles destinés à économiser l'énergie, à
+développer les sources d'énergie de remplacement des hydrocarbures ou à promouvoir les utilisations du charbon, mentionnées à
+l'article 30 de la loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à l'utilisation de la chaleur, le
+taux de la taxe de publicité foncière ou du droit d'enregistrement est réduit :
+
+- à 2 % [*taux, pourcentage*] lorsque le locataire d'une de ces sociétés acquiert tout ou partie des installations de
+caractère immobilier qui lui sont louées en vertu d'un contrat de crédit-bail ;
+
+- à 0,60 % lorsque ces sociétés acquièrent des installations de caractère immobilier dont elles concèdent immédiatement la
+jouissance au vendeur par un contrat de crédit-bail.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°80-531 1980-07-15 ART. 30
+
+	**Créé par**:
+
+	  - Loi n°80-531 1980-07-15 ART. 30 II d JORF 16 JUILLET 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
 ###### Article 701
 
 Sans préjudice de l'application des dispositions des articles 702 à 707, le taux de la taxe de publicité foncière ou du droit
@@ -44528,26 +44602,26 @@ Les droits sont perçus sur la valeur vénale des biens à la date du changement
 
 ###### Article 810
 
-I  Le taux du droit d'enregistrement perçu sur les apports mobiliers est fixé à 1 %.
+I. Le taux du droit d'enregistrement perçu sur les apports mobiliers est fixé à 1 %.
 
-II  Le taux du droit d'enregistrement ou de la taxe de publicité foncière perçus sur les apports immobiliers est fixé à 1 %.
+II. Le taux du droit d'enregistrement ou de la taxe de publicité foncière perçus sur les apports immobiliers est fixé à 1 %.
 
-III  Le taux normal du droit d'enregistrement ou de la taxe de publicité foncière perçus sur les apports visés à l'article
+III. Le taux normal du droit d'enregistrement ou de la taxe de publicité foncière perçus sur les apports visés à l'article
 809-I-3° et II est fixé à 8,60 %.
 
-III bis  Le taux prévu au III est réduit à 1 % lorsqu'un courtier d'assurances maritimes apporte, avant le 1er juillet 1980,
+III bis. Le taux prévu au III est réduit à 1 % lorsqu'un courtier d'assurances maritimes apporte, avant le 1er juillet 1980,
 son entreprise à une société ayant pour objet principal le courtage d'assurances.
 
-IV  Les taux visés au II et au III sont réduits à 0,60 % :
+IV. Les taux visés au II et au III sont réduits à 0,60 % :
 
-a  Pour les apports donnant lieu au paiement de la taxe sur la valeur ajoutée et concernant des immeubles autres que les
-terrains à bâtir et biens assimilés mentionnés à l'article 691-I;
+a. Pour les apports donnant lieu au paiement de la taxe sur la valeur ajoutée et concernant des immeubles autres que les
+terrains à bâtir et biens assimilés mentionnés à l'article 691-I ;
 
-b  Pour les apports immobiliers constatés dans les actes visés aux articles 822-I-1° et 2°, 826-2°, 828-II, 830 et 831-I qui,
-à raison des apports mobiliers, sont exonérés ou soumis à un droit fixe.
+b. Pour les apports immobiliers constatés dans les actes visés aux articles 822-I-1° et 2°, 826-2°, 828-II, 830-a, b, c et
+831-I qui, à raison des apports mobiliers, sont exonérés ou soumis à un droit fixe.
 
-V  Sont exonérés du droit ou de la taxe prévus au II, les apports donnant lieu au paiement de la taxe sur la valeur ajoutée
-et concernant des terrains à bâtir et biens assimilés mentionnés à l'article 691-I.
+V. Sont exonérés du droit ou de la taxe prévus au II, les apports donnant lieu au paiement de la taxe sur la valeur ajoutée
+[*TVA*] et concernant des terrains à bâtir et biens assimilés mentionnés à l'article 691-I.
 
 **Liens relatifs à cet article**
 
@@ -44559,8 +44633,16 @@ et concernant des terrains à bâtir et biens assimilés mentionnés à l'articl
 	  - CGI 822 I 1°, 2°
 	  - CGI 826 2°
 	  - CGI 828 II
-	  - CGI 830
+	  - CGI 830 a, b, c
 	  - CGI 831 I
+
+	**Modifié par**:
+
+	  - Loi n°80-531 1980-07-15 ART. 30 II c JORF 16 JUILLET 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 	**Cité par**:
 
@@ -44574,7 +44656,6 @@ et concernant des terrains à bâtir et biens assimilés mentionnés à l'articl
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code rural - art. L322-15 (V)
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 811
@@ -45178,33 +45259,43 @@ ces opérations soient accomplies dans les conditions prévues audit article.
 
 ###### Article 830
 
-Sont enregistrés au droit fixe de 300 F [*montant*] les actes constatant des apports mobiliers faits :
+Sont enregistrés au droit fixe de 600 F [*montant*] les actes constatant des apports mobiliers faits :
 
-a  Aux sociétés immobilières d'investissement visées à l'article 33-I de la loi n° 63-254 du 15 mars 1963 ou aux sociétés
-immobilières de gestion visées à l'article 1er du décret n° 63-683 du 13 juillet 1963;
+a. Aux sociétés immobilières d'investissement visées à l'article 33-I de la loi n° 63-254 du 15 mars 1963 ou aux sociétés
+immobilières de gestion visées à l'article 1er du décret n° 63-683 du 13 juillet 1963 ;
 
-b  Aux sociétés immobilières pour le commerce et l'industrie visées à l'article 5 de l'ordonnance n° 67-837 du 28 septembre
-1967;
+b. Aux sociétés immobilières pour le commerce et l'industrie [*SICOMI*] visées à l'article 5 de l'ordonnance n° 67-837 du 28
+septembre 1967 ;
 
-c  Aux sociétés agréées pour le financement des télécommunications visées à l'article 1er de la loi n° 69-1160 du 24 décembre
-1969.
+c. Aux sociétés agréées pour le financement des télécommunications visées à l'article 1er de la loi n° 69-1160 du 24 décembre
+1969 ;
+
+d. Aux sociétés agréées pour le financement d'installations ou de matériels destinés à économiser l'énergie, à développer les
+sources d'énergie de remplacement des hydrocarbures ou à promouvoir les utilisations du charbon mentionnées à l'article 30 de
+la loi n° 80-531 du 15 juillet 1980.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 	**Cite**:
 
 	  - Loi n°63-254 1963-03-15 ART. 33 I
-	  - Décret n°63-683 1963-07-13 ART. 1
-	  - Ordonnance n°67-837 du 28 septembre 1967 - art. 5 (V)
-	  - Loi n°69-1160 1969-12-24 ART. 1
+	  - Décret n°63-683 1963-07-13
+	  - Ordonnance 67-837 1967-09-28
+	  - Loi n°69-1160 1969-12-24 ART. 1 FINANCES RECTIFICATIVE POUR 1969
+	  - Loi n°80-531 1980-07-15 ART. 30
+
+	**Modifié par**:
+
+	  - Loi n°80-30 du 18 janvier 1980 - art. 7 (P) JORF 19 JANVIER 1980
+	  - Loi n°80-531 1980-07-15 ART. 30 II c JORF 16 JUILLET 1980
 
 	**Cité par**:
 
 	  - Loi n°80-531 du 15 juillet 1980 - art. 30 (V)
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 ###### Article 831
