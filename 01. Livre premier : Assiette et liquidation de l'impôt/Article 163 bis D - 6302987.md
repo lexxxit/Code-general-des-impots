@@ -1,20 +1,18 @@
 # Article 163 bis D
 
 Les avantages résultant des rabais sur les prix de cession, de la distribution gratuite d'actions et des délais de paiement,
-prévus par les articles 11, 12 et 13 ((modifiés)) (M) de la loi n° 86-912 du 6 août 1986 relative aux modalités d'application
-des privatisations décidées par les lois n° 86-793 du 2 juillet 1986 et 93-923 du 19 juillet 1993, sont exonérés de l'impôt
-sur le revenu.
+prévus par les articles 11, 12 et 13 modifiés de la loi n° 86-912 du 6 août 1986 relative aux modalités d'application des
+privatisations décidées par les lois n° 86-793 du 2 juillet 1986 et 93-923 du 19 juillet 1993, sont exonérés de l'impôt sur
+le revenu.
 
-Cette exonération s'applique sous réserve des dispositions de l'article 94 A pour les avantages accordés à l'occasion des
+Cette exonération s'applique sous réserve des dispositions de l'article 150-0 D pour les avantages accordés à l'occasion des
 opérations de privatisation décidées par la loi n° 93-923 du 19 juillet 1993.
-
-(M) Modification.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 94 A
+	  - CGI 150-0 D
 	  - Loi n°86-793 1986-07-02
 	  - Loi n°86-912 1986-08-06 art. 11, art. 12, art. 13
 	  - Loi n°86-912 du 6 août 1986 - art. 12 (M)
@@ -22,15 +20,11 @@ opérations de privatisation décidées par la loi n° 93-923 du 19 juillet 1993
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - HISTO: Edition du 31 mars 2000
 
 	**Modifié par**:
 
-	  - Décret n°95-1281 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995
+	  - Loi - art. 94 (V) JORF 31 décembre 1999 en vigueur le 1er janvier 2000
 
 	**Cité par**:
 

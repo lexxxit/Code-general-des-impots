@@ -1,23 +1,18 @@
 # Article 163 bis E
 
 Les exonérations d'impôt sur le revenu résultant des 25° et 26° de l'article 81 s'appliquent sous réserve des dispositions de
-l'article 94 A.
+l'article 150-0 D.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 81, 94 A
+	  - CGI 81, 150-0 D
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 mars 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-679 1994-08-08 art. 17 IX, art. 18 VI [*DDOEF*] JORF 10 août 1994
-	  - Loi n°94-679 du 8 août 1994 - art. 18 () JORF 10 août 1994
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Loi - art. 94 (V) JORF 31 décembre 1999 en vigueur le 1er janvier 2000

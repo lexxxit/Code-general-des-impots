@@ -81,8 +81,7 @@ Les droits sont assortis des pénalités prévues à l'article 1728.
 3. Le droit de rectification de la taxe se prescrit en trois ans. Cette prescription est suspendue et interrompue dans les
 conditions de droit commun et notamment par le dépôt d'une déclaration dans les conditions visées au 2.
 
-4. Les sanctions prévues ci-dessus ne peuvent être mises en recouvrement avant l'expiration d'un délai de trente jours à
-compter de leur notification. Durant ce délai, l'entreprise peut présenter toute observation.
+4. (abrogé)
 
 V. - Sous réserve des dispositions qui précèdent, le recouvrement de la taxe est assuré par les agents comptables du budget
 annexe de l'aviation civile selon les procédures, sûretés, garanties et sanctions applicables en matière de taxes sur le
@@ -93,6 +92,20 @@ jugées comme en matière de taxes sur le chiffre d'affaires.
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - Arrêté du 30 décembre 2009 - art. Annexe 1 (V)
+	  - Arrêté du 22 février 2013 (V)
+	  - Arrêté du 25 mars 2014 (V)
+	  - Arrêté du 25 mars 2014 - art. 1 (V)
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 22 (V)
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 5 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 49 (V)
+	  - Décret n°2017-640 du 26 avril 2017 (V)
+	  - Code général des impôts, CGI. - art. 1609 quatervicies A (VD)
+	  - Code général des impôts, CGI. - art. 1647 (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 99 (V)
+
 	**Cite**:
 
 	  - CGI 1729, 1728
@@ -100,27 +113,8 @@ jugées comme en matière de taxes sur le chiffre d'affaires.
 
 	**Modifié par**:
 
-	  - Loi n°98-1266 1998-12-30 art. 51 I Finances pour 1999 JORF 31 décembre 1998
-	  - Décret n°99-382 du 18 mai 1999 - art. 1 () JORF 20 mai 1999
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
-
-	**Cité par**:
-
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 22 (V)
-	  - Arrêté du 30 décembre 2009 - art. Annexe 1 (V)
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 5 (V)
-	  - Arrêté du 22 février 2013 (V)
-	  - Arrêté du 25 mars 2014 (V)
-	  - Arrêté du 25 mars 2014 - art. 1 (V)
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 49 (V)
-	  - Décret n°2017-640 du 26 avril 2017 (V)
-	  - Code général des impôts, CGI. - art. 1609 quatervicies A (VD)
-	  - Code général des impôts, CGI. - art. 1647 (VD)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 99 (V)
+	  - Loi - art. 26 (V) JORF 31 décembre 1999
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2000
