@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1985-07-19
+Version Consolidée au 1985-07-26
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10197,15 +10197,41 @@ de laquelle la cotisation est exigible.
 
 ###### Article 235 ter D
 
-Pour l'application des dispositions de l'article 235 ter C, l'effectif des salariés employés par les entreprises de travail
-temporaire est calculé dans les conditions fixées par l'article 237 bis A-I, troisième alinéa.
+Pour l'appréciation de la condition d'effectif prévue à l'article 235 ter C :
+
+a. Les titulaires de contrats de travail définis aux articles L. 980-2 et L. 980-6 du code du travail ne sont pas pris en
+compte ;
+
+b. Les salariés à temps partiel sont pris en compte dans les conditions fixées par l'article L. 212-4-4 du même code ;
+
+c. L'effectif des salariés employés par les entreprises de travail temporaire est calculé dans les conditions fixées au
+troisième alinéa du I de l'article 237 bis A.
+
+(1) Voir Annexe II, art. 163 nonies.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 235 ter C
-	  - CGI 237 bis A I AL. 3
+	  - CGI 237 bis à I al. 3
+	  - CGIAN2 163 nonies
+	  - Code du travail - art. L212-4-4 (M)
+	  - Code du travail - art. L980-2 (T)
+	  - Code du travail - art. L980-6 (T)
+
+	**Anciens textes**:
+
+	  - CGI 235 ter C (P.)
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 53 () JORF 26 juillet 1985
+	  - Loi n°85-772 du 25 juillet 1985 - art. 54 () JORF 26 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 	**Cité par**:
 
@@ -10220,10 +10246,6 @@ temporaire est calculé dans les conditions fixées par l'article 237 bis A-I, t
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 163 nonies (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 163 undecies A (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 ZB (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### 3° : Calcul et prise en compte de l'effectif salarié
@@ -23511,6 +23533,35 @@ soumises à la taxe de publicité foncière ou, le cas échéant, au droit d'enr
 	  - HISTO: Edition du 31 mars 1999
 
 
+##### f : Acquisitions faites par les mutuelles, associations cultuelles et certaines associations reconnues d'utilité publique
+
+###### Article 713
+
+Sous réserve des dispositions de l'article 1594 D, le taux de la taxe de publicité foncière ou du droit d'enregistrement est
+réduit à 2 % pour les acquisitions, par les mutuelles par les associations cultuelles et par les associations reconnues
+d'utilité publique ayant pour objet l'assistance, la bienfaisance ou l'hygiène sociale, des immeubles nécessaires au
+fonctionnement de leurs services ou de leurs oeuvres sociales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1594 D
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+	  - HISTO: Edition du 31 mars 1999
+
+	**Modifié par**:
+
+	  - Loi n°85-773 du 25 juillet 1985 - art. 1 (V) JORF 26 juillet 1985
+
+	**Abrogé par**:
+
+	  - Loi n°98-1266 1998-12-30 art. 39 I 4 JORF 31 décembre 1998
+
+
 ##### g : Immeubles situés à l'étranger
 
 ###### Article 714
@@ -30404,6 +30455,44 @@ de droits fiscaux.
 
 ##### 11° : Mutuelles
 
+###### Article 1087
+
+Tous les actes intéressant les mutuelles définies par l'article L111-1 du code de la mutualité sont exonérés des droits de
+timbre et, sous réserve de l'article 1020, des droits d'enregistrement.
+
+Cette disposition n'est pas applicable aux transmissions de propriété, d'usufruit ou de jouissance de biens meubles et
+immeubles, soit entre vifs, soit par décès.
+
+Toutefois, les transferts effectués en application des articles L111-2, L126-1 à L126-4, L321-2 à L321-8 et L411-1 à L411-8
+du code de la mutualité sont exonérés de timbre et, sous la réserve indiquée au premier alinéa, des droits d'enregistrement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1020
+	  - Code de la mutualité - art. L111-1 (Ab)
+	  - Code de la mutualité - art. L111-2 (M)
+	  - Code de la mutualité L111-1, L111-2, L126-1 à L126-4, L321-2 à L321-8, L411-1 à L411-8
+
+	**Modifié par**:
+
+	  - Loi n°85-773 du 25 juillet 1985 - art. 1 (V) JORF 26 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1020 (V)
+	  - Code général des impôts, CGI. - art. 995 (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+
 ###### Article 1088
 
 Les certificats, actes de notoriété et autres pièces exclusivement relatifs à l'exécution des dispositions du code de la
@@ -30414,6 +30503,31 @@ mutualité sont exonérés de timbre, et sous réserve de l'article 1020, des dr
 	**Cite**:
 
 	  - CGI 1020
+
+
+###### Article 1089
+
+Les dispositions prévues en ce qui concerne les mutuelles définies par l'article L. 111-1 du code de la mutualité sont
+applicables à leurs unions, à leurs fédérations d'unions et aux associations d'étudiants reconnues d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+	**Modifié par**:
+
+	  - Loi n°85-773 du 25 juillet 1985 - art. 1 (V) JORF 26 juillet 1985
+	  - Loi n°85-773 du 25 juillet 1985 - art. 3 (V) JORF 26 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L111-1 (Ab)
 
 
 ##### Section VII : Juridictions. Procédures diverses
@@ -32480,6 +32594,43 @@ bord des navires de commerce, de pêche et de plaisance.
 	  - Loi n°54-11 1954-01-06 MODIFIEE
 	  - Loi n°59-1557 1959-12-31 MODIFIEE
 	  - Loi n°68-978 du 12 novembre 1968 - art. 5 (Ab)
+
+
+###### Article 1461
+
+Sont exonérés de la taxe professionnelle :
+
+1° Les mutuelles et unions de mutuelles pour les oeuvres régies par les dispositions légales portant statut de la mutualité;
+
+2° Les sociétés d'habitations à loyer modéré;
+
+3° Les offices publics d'aménagement et de construction, pour les opérations faites en application de la législation sur les
+habitations à loyer modéré;
+
+4° Les sociétés de bains-douches, les sociétés de jardins ouvriers et les sociétés de crédit immobilier constituées et
+fonctionnant conformément aux dispositions législatives et réglementaires qui les régissent;
+
+5° Les organismes de jardins familiaux définis à l'article L. 561-2 du code rural, lorsque leur activité, considérée dans son
+ensemble, s'exerce dans des conditions telles qu'elle peut être tenue pour désintéressée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L561-2
+
+	**Modifié par**:
+
+	  - Loi n°85-773 du 25 juillet 1985 - art. 1 (V) JORF 26 juillet 1985) M(Décret 81-276 1981-03-18 art. 1, art. 3 JORF 27 mars 1981
+	  - Loi n°85-773 du 25 juillet 1985 - art. 3 (V) JORF 26 juillet 1985) M(Décret 81-276 1981-03-18 art. 1, art. 3 JORF 27 mars 1981
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-1408 du 20 octobre 2016 - art. 5
 
 
 ###### Article 1462
