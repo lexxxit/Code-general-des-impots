@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1976-12-31
+Version Consolidée au 1977-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -535,39 +535,6 @@ complément de salaire pour le bénéficiaire.
 
 
 ### IMPOTS DIRECTS ET TAXES ASSIMILEES
-
-#### IMPOT SUR LE REVENU
-
-##### REVENUS IMPOSABLES
-
-##### REVENU GLOBAL.
-
-###### Article 164
-
-1 Les contribuables de nationalité étrangère qui ont leur domicile fiscal en France sont imposables conformément aux règles
-édictées par les articles 156 à 163 bis C. Toutefois, sont exclus du revenu imposable de ces contribuables les revenus de
-source étrangère à raison desquels les intéressés justifient avoir été soumis à un impôt personnel sur le revenu global dans
-le pays d'où ils sont originaires. Ces dispositions sont abrogées à compter du 1er janvier 1979 (1).
-
-2 et 3 (Abrogés).
-
-1) Autres dispositions de l'article abrogées à compter du 1er janvier 1977. Pour l'imposition des revenus des années
-antérieures, se reporter à l'édition précédente du code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 156 A CGI 163 bis C
-
-	**Abrogé par**:
-
-	  - Loi n°76-1234 du 29 décembre 1976 - art. 16 () JORF 30 DECEMBRE
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
 
 #### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES
 
