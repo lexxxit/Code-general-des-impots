@@ -3,8 +3,7 @@
 I. Les personnes physiques qui prennent des engagements d'épargne à long terme sont exonérées de l'impôt sur le revenu à
 raison des produits des placements en valeurs mobilières effectués en vertu de ces engagements.
 
-II. Le crédit d'impôt ou l'avoir fiscal attaché à ces produits est porté au crédit du compte d'épargne qui retrace les
-engagements pris.
+II. Le crédit d'impôt attaché à ces produits est porté au crédit du compte d'épargne qui retrace les engagements pris.
 
 III. Le bénéfice des dispositions qui précèdent est subordonné aux conditions suivantes :
 
@@ -59,11 +58,7 @@ possibilité de prendre lui-même les décisions d'achat et de vente des valeurs
 
 	**Modifié par**:
 
-	  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet 1986
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 38 (V) JORF 31 décembre 2004
 
 	**Cité par**:
 
@@ -76,4 +71,4 @@ possibilité de prendre lui-même les décisions d'achat et de vente des valeurs
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 juillet 1986
+	  - HISTO: Edition du 1er janvier 2005

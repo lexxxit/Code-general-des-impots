@@ -3,6 +3,9 @@
 1. Les plus-values soumises à l'impôt au taux réduit prévu au a du I de l'article 219 diminuées du montant de cet impôt, sont
 portées à une réserve spéciale.
 
+L'inscription à cette réserve spéciale cesse pour les plus-values imposées au titre des exercices ouverts à compter du 1er
+janvier 2004.
+
 2. Les sommes prélevées sur cette réserve sont rapportées aux résultats de l'exercice en cours lors de ce prélèvement, sous
 déduction de l'impôt perçu lors de la réalisation des plus-values correspondantes.
 
@@ -10,9 +13,10 @@ déduction de l'impôt perçu lors de la réalisation des plus-values correspond
 
 a. Si la société est dissoute ;
 
-b. En cas d'incorporation au capital ;
+b. En cas d'incorporation au capital intervenue avant le 1er janvier 2005 ;
 
-c. En cas d'imputation de pertes sur la réserve spéciale ; les pertes ainsi annulées cessent d'être reportables.
+c. En cas d'imputation de pertes sur la réserve spéciale avant le 1er janvier 2005 ; les pertes ainsi annulées cessent d'être
+reportables.
 
 **Liens relatifs à cet article**
 
@@ -20,19 +24,14 @@ c. En cas d'imputation de pertes sur la réserve spéciale ; les pertes ainsi an
 
 	  - CGI 219 I
 
-	**Codifié par**:
-
-	  - Décret n°2000-477 2000-06-02
-
-	**Modifié par**:
-
-	  - Décret n°2000-477 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
-
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 219 (VD)
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
-	  - TXT_ASSOCIE: Instruction 2001-07-18 4H-3-01
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Modifié par**:
+
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 39 (V) JORF 31 décembre 2004

@@ -37,7 +37,7 @@ d'insonorisation.
 2e groupe : aérodromes de Bordeaux-Mérignac, Lyon - Saint-Exupéry, Marseille-Provence, Nantes-Atlantique, Nice-Côte d'Azur :
 de 4 Euros à 8 Euros.
 
-3e groupe : les autres aérodromes qui dépassent le seuil fixé au I du présent article : de 0,5 Euros à 3 Euros.
+3e groupe : les autres aérodromes qui dépassent le seuil fixé au I : de 0,5 Euros à 3 Euros.
 
 Un arrêté, pris par les ministres chargés du budget, de l'aviation civile et de l'environnement, fixe le tarif de la taxe
 applicable pour chaque aérodrome.
@@ -94,11 +94,6 @@ et jugées comme en matière de taxes sur le chiffre d'affaires.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 302 bis K, 1728
-	  - Code de l'environnement L571-14 à L571-16
-
 	**Cité par**:
 
 	  - Décret n°2004-1426 du 23 décembre 2004 - art. 1 (V)
@@ -132,6 +127,19 @@ et jugées comme en matière de taxes sur le chiffre d'affaires.
 	  - Code des transports - art. L6362-2 (V)
 	  - Code des transports - art. L6363-1 (V)
 
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
+
 	**Modifié par**:
 
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 119 () JORF 31 décembre 2004
+	  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+
+	**Cite**:
+
+	  - CGI 302 bis K, 1728
+	  - Code de l'environnement L571-14 à L571-16
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
