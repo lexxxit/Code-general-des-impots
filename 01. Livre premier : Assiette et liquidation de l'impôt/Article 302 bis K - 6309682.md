@@ -29,11 +29,11 @@ licences des transporteurs aériens.
 
 II. - Le tarif de la taxe est le suivant :
 
-22,90 F par passager embarqué à destination de la France ou d'un autre Etat membre de la Communauté européenne ;
+3,92 euros par passager embarqué à destination de la France ou d'un autre Etat membre de la Communauté européenne ;
 
-38,90 F par passager embarqué vers d'autres destinations ;
+6,66 euros par passager embarqué vers d'autres destinations ;
 
-6 F par tonne de courrier ou de fret embarquée.
+1,02 euro par tonne de courrier ou de fret embarquée.
 
 Le tarif défini ci-dessus pour le fret et le courrier s'applique au tonnage total déclaré par chaque entreprise le mois
 considéré, arrondi à la tonne inférieure.
@@ -81,7 +81,7 @@ Les droits sont assortis des pénalités prévues à l'article 1728.
 3. Le droit de rectification de la taxe se prescrit en trois ans. Cette prescription est suspendue et interrompue dans les
 conditions de droit commun et notamment par le dépôt d'une déclaration dans les conditions visées au 2.
 
-4. (abrogé)
+4. (abrogé à compter du 1er janvier 2001).
 
 V. - Sous réserve des dispositions qui précèdent, le recouvrement de la taxe est assuré par les agents comptables du budget
 annexe de l'aviation civile selon les procédures, sûretés, garanties et sanctions applicables en matière de taxes sur le
@@ -92,14 +92,23 @@ jugées comme en matière de taxes sur le chiffre d'affaires.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi - art. 30 () JORF 29 décembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II Finances pour 2002
+	  - HISTO: Edition du 31 mars 2002
+
 	**Cité par**:
 
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 22 (V)
 	  - Arrêté du 30 décembre 2009 - art. Annexe 1 (V)
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 5 (V)
 	  - Arrêté du 22 février 2013 (V)
 	  - Arrêté du 25 mars 2014 (V)
 	  - Arrêté du 25 mars 2014 - art. 1 (V)
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 22 (V)
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 5 (V)
 	  - Loi n°2015-1785 du 29 décembre 2015 - art. 49 (V)
 	  - Décret n°2017-640 du 26 avril 2017 (V)
 	  - Code général des impôts, CGI. - art. 1609 quatervicies A (VD)
@@ -110,11 +119,3 @@ jugées comme en matière de taxes sur le chiffre d'affaires.
 
 	  - CGI 1729, 1728
 	  - Règlement CEE 2407/92 1992-07-23 art. 1er (Conseil)
-
-	**Modifié par**:
-
-	  - Loi - art. 26 (V) JORF 31 décembre 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000

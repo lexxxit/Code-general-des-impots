@@ -38,10 +38,14 @@ quater.
 III. En cas de transmission à titre gratuit à une personne physique des titres reçus en rémunération de la fusion, de la
 scission ou des titres de la société ayant réalisé l'apport partiel d'actif, le report d'imposition mentionné aux I et II
 peut être maintenu si le bénéficiaire de la transmission prend l'engagement d'acquitter l'impôt sur les plus-values à la date
-où l'un des événements visés aux troisième, quatrième et cinquième alinéas du I et au II viendrait à se réaliser à nouveau.
+où l'un des événements visés aux 1°, 2° et 3° du I et au II viendrait à se réaliser à nouveau.
 
-IV. Les personnes physiques mentionnées au I sont soumises aux dispositions prévues au quatrième alinéa du II de l'article
-151 octies.
+IV. Les personnes physiques mentionnées au I sont soumises aux dispositions prévues au sixième alinéa du II de l'article 151
+octies.
+
+**Nota:**
+
+NOTA : Les dispositions du présent article s'appliquent aux opérations réalisées à compter du 1er janvier 2000.
 
 **Liens relatifs à cet article**
 
@@ -51,11 +55,11 @@ IV. Les personnes physiques mentionnées au I sont soumises aux dispositions pr�
 
 	**Codifié par**:
 
-	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2002-923 2002-06-06
 
 	**Modifié par**:
 
-	  - Décret n°2000-477 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
+	  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
 
 	**Cité par**:
 
@@ -71,4 +75,4 @@ IV. Les personnes physiques mentionnées au I sont soumises aux dispositions pr�
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2002

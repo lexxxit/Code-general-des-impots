@@ -34,8 +34,8 @@ capital de l'entreprise.
 
 Les entreprises qui versent, au titre du plan partenarial d'épargne salariale volontaire créé à l'article L. 443-1-2 du code
 du travail et dans le cadre des dispositions de l'article L. 443-7 du même code, des sommes complémentaires au montant versé
-par leurs salariés pour l'acquisition de parts de fonds régis par les quatre derniers alinéas de l'article L. 214-39 du code
-monétaire et financier peuvent constituer, en franchise d'impôt, une provision pour investissement égale à 35 % des
+par leurs salariés pour l'acquisition de parts de fonds régis par les quinzième à dix-huitième alinéas de l'article L. 214-39
+du code monétaire et financier peuvent constituer, en franchise d'impôt, une provision pour investissement égale à 35 % des
 versements complémentaires. Les titres d'entreprises solidaires ou d'organismes acquis doivent être conservés pendant deux
 ans au moins par le fonds.
 
@@ -96,17 +96,19 @@ le 23 octobre 1986.
 	  - Code du travail - art. L444-1 (M)
 	  - Code du travail - art. L444-3 (M)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - Décret n°2002-923 2002-06-06
 
 	**Modifié par**:
 
-	  - Loi n°2001-152 2001-02-19 art. 11 I 1°, 2°, art. 17 VI 6°, 7°, 8° art. 19 III JORF 20 février 2001
-	  - Loi n°2001-152 du 19 février 2001 - art. 11 () JORF 20 février 2001
-	  - Loi n°2001-152 du 19 février 2001 - art. 17 () JORF 20 février 2001
+	  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
 
 	**Cité par**:
 
 	  - Décret n°2014-1758 du 31 décembre 2014 (V)
 	  - Code du travail - art. D3325-5 (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2002

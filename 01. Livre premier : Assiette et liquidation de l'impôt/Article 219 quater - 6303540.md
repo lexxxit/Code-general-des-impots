@@ -9,8 +9,6 @@ marché hypothécaire ;
 
 2° Sur le montant brut des intérêts des dépôts qu'elles effectuent.
 
-Ces dispositions ne sont pas applicables aux fonds d'épargne retraite mentionnés au 11 de l'article 206.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -19,8 +17,8 @@ Ces dispositions ne sont pas applicables aux fonds d'épargne retraite mentionn�
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 31 mars 2002
 
 	**Modifié par**:
 
-	  - Loi n°97-277 du 25 mars 1997 - art. 31 () JORF 26 mars 1997
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 48 () JORF 18 janvier 2002

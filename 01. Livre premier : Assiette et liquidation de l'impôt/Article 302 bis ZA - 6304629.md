@@ -1,34 +1,30 @@
 # Article 302 bis ZA
 
-1 Les titulaires d'ouvrages hydroélectriques concédés d'une puissance électrique totale supérieure à 20 000 kilowatts
-acquittent une taxe assise sur le nombre de kilowattheures produits (1).
+1. Les titulaires d'ouvrages hydroélectriques concédés d'une puissance électrique totale supérieure à 20 000 kilowatts
+acquittent une taxe assise sur le nombre de kilowattheures produits.
 
-2 Le tarif de la taxe est de 6 centimes par kilowattheure produit par les ouvrages hydroélectriques implantés sur les voies
-navigables et de 1,5 centime par kilowattheure produit par les autres ouvrages hydroélectriques (2).
+2. Le tarif de la taxe est de 9,15 euros pour 1000 kWh produits par les ouvrages hydroélectriques implantés sur les voies
+navigables et de 2,30 euros pour 1000 kWh produits par les autres ouvrages hydroélectriques.
 
-3 La taxe est constatée, recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties et
+3. La taxe est constatée, recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties et
 privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles
 applicables à cette même taxe.
 
-(1) La limite de 20 000 kilowatts s'applique à compter du 1er janvier 2001. Elle sera de 100 000 kilowatts à compter du 1er
-janvier 2002.
-
-(2) Tarif applicable du 1er janvier au 31 décembre 2001.
-
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi - art. 13 () JORF 31 décembre 2000
-	  - Loi - art. 39 () JORF 31 décembre 2000
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°2000-1353 2000-12-30 art. 39
-	  - HISTO: Edition du 31 mars 2001
-	  - TXT_ASSOCIE: Instruction 1997-02-04 3P-1-97
-	  - TXT_ASSOCIE: Instruction 1998-01-15 3P-1-98
+	  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+	  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 35
+	  - HISTO: Edition du 31 mars 2002
 	  - TXT_ASSOCIE: Instruction 2001-03-23 3P-3-01
+	  - TXT_ASSOCIE: Instruction 2002-03-14 3P-1-02
+	  - TXT_ASSOCIE: Instruction 2002-04-22 3P-2-02
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi - art. 51 (V) JORF 29 décembre 2001
 
 	**Cité par**:
 

@@ -10,7 +10,7 @@ l'article 39.
 
 Pour les sociétés anonymes qui, employant moins de cinq personnes, ne satisfont pas aux conditions définies au 5 de l'article
 39, les jetons de présence alloués au titre d'un exercice aux membres du conseil d'administration ou du conseil de
-surveillance sont déductibles de l'assiette de l'impôt sur les sociétés dans la limite de 3.000 F par membre du conseil
+surveillance sont déductibles de l'assiette de l'impôt sur les sociétés dans la limite de 457 € par membre du conseil
 d'administration ou du conseil de surveillance.
 
 **Liens relatifs à cet article**
@@ -18,6 +18,15 @@ d'administration ou du conseil de surveillance.
 	**Cite**:
 
 	  - CGI 39
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+	  - HISTO: Edition du 31 mars 2002
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
