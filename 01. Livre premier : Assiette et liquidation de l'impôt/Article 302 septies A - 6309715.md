@@ -1,25 +1,25 @@
 # Article 302 septies A
 
-I  Il est institué par décret en conseil d'Etat (1) un régime simplifié de liquidation des taxes sur le chiffre d'affaires
-dues par les personnes qui ne sont pas placées sous le régime du forfait et dont le chiffre d'affaires n'excède pas 1.800.000
+I. Il est institué par décret en conseil d'Etat (1) un régime simplifié de liquidation des taxes sur le chiffre d'affaires
+dues par les personnes qui ne sont pas placées sous le régime du forfait et dont le chiffre d'affaires n'excède pas 3.000.000
 F, s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à
-emporter ou à consommer sur place ou de fournir le logement, ou 540.000 F, s'il s'agit d'autres entreprises. Ces limites
-s'apprécient dans les mêmes conditions que les limites fixées pour l'application du régime forfaitaire.
+emporter ou à consommer sur place ou de fournir le logement, ou 900.000 F, s'il s'agit d'autres entreprises. Ces limites
+s'apprécient en faisant abstraction de la taxe sur la valeur ajoutée et des taxes assimilées.
 
-II  Le régime simplifié prévu au I demeure applicable pour l'établissement de l'imposition due au titre de la première année
+II. Le régime simplifié prévu au I demeure applicable pour l'établissement de l'imposition due au titre de la première année
 au cours de laquelle les chiffres d'affaires limites prévus pour ce régime sont dépassés. Cette imposition est établie compte
 tenu de ces dépassements.
 
 Ces dispositions ne sont pas applicables en cas de changement d'activité.
 
-III  La régularisation de la taxe sur la valeur ajoutée due au titre d'un exercice peut intervenir dans les trois mois qui
+III. La régularisation de la taxe sur la valeur ajoutée due au titre d'un exercice peut intervenir dans les trois mois qui
 suivent la clôture de cet exercice [*délai*]. Un décret en Conseil d'Etat (2) fixe les modalités d'application pratique du
 présent paragraphe; il procède aux adaptations nécessaires de la législation en vigueur, notamment pour les entreprises qui
 bénéficient de la franchise et de la décote et pour celles qui n'ont clôturé aucun exercice au cours d'une année civile.
 
-1)  Annexe II, art. 204 ter, 204 quater, 242 quater à 242 septies, 267 quinquies à 267 septies.
+(1)  Annexe II, art. 204 ter, 204 quater, 242 quater à 242 septies 267 quinquies à 267 septies.
 
-2)  Annexe II, art. 242 septies A à 242 septies L.
+(2)  Annexe II, art. 242 septies A à 242 septies L.
 
 **Liens relatifs à cet article**
 
@@ -30,7 +30,7 @@ bénéficient de la franchise et de la décote et pour celles qui n'ont clôtur�
 	  - CGIAN2 242 quater
 	  - CGIAN2 242 quinquies
 	  - CGIAN2 242 septies
-	  - CGIAN2 242 septies A A CGIAN2 242 septies L
+	  - CGIAN2 242 septies A à CGIAN2 242 septies L
 	  - CGIAN2 242 sexies
 	  - CGIAN2 267 quinquies
 	  - CGIAN2 267 septies
@@ -38,8 +38,7 @@ bénéficient de la franchise et de la décote et pour celles qui n'ont clôtur�
 
 	**Modifié par**:
 
-	  - Loi n°81-1160 1981-12-30 ART. 85 I, II FINANCES POUR 1982 JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 85 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 60 () JORF 31 décembre 1985, en vigueur le 1er janvier 1986
 
 	**Cité par**:
 
@@ -70,7 +69,3 @@ bénéficient de la franchise et de la décote et pour celles qui n'ont clôtur�
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater U (V)
 	  - Livre des procédures fiscales - art. L16 D (V)
 	  - Livre des procédures fiscales - art. L52 (V)
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
