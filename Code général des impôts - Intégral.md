@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1993-07-28
+Version Consolidée au 1993-08-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -66452,6 +66452,34 @@ Les dispositions de l'article 1791 sont applicables aux infractions aux disposit
 	**Abrogé par**:
 
 	  - Loi - art. 27 (V) JORF 30 décembre 1997, en vigueur le 1er janvier 1998
+
+
+###### Article 1560 ter
+
+Lors de l'installation d'un appareil automatique chez un tiers, l'exploitant est tenu de déclarer à l'administration la part
+des recettes revenant à ce tiers. Le modèle de la déclaration est fixé par arrêté.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGI 1565 quinquies
+
+	**Modifié par**:
+
+	  - Décision du Conseil Constitutionnel 92-172L 1992-12-29
+	  - Décret n°92-1431 1993-12-30 art. 1 à 6 JORF 31 décembre 1992
+	  - Décret n°93-309 1993-03-09 art. 14 1° et 22 JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-309 1993-03-09 art. 22
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 22 avril 1998
+
+	**Transféré par**:
+
+	  - Loi - art. 27 (V) JORF 31 décembre 1997, en vigueur le 1er janvier 1998
 
 
 ##### Exonérations
