@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1986-04-01
+Version Consolidée au 1986-07-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15319,6 +15319,24 @@ ces articles.
 
 
 
+###### Article 268 ter
+
+I. Des décrets en Conseil d'Etat peuvent fixer des modalités particulières de détermination de la base d'imposition pour
+l'imposition des ventes d'animaux de grande valeur.
+
+II. (Disposition devenue sans objet).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 204 bis
+
+	**Modifié par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 66 (V) JORF 31 décembre 1985 en vigueur le 1er juillet 1986
+
+
 ##### Section III : Fait générateur
 
 ###### Article 269
@@ -15980,6 +15998,54 @@ Nota : Loi 92-655 1992-07-15 art. 1 c.
 
 	  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 11 XI
 	  - SPEC_APPLI: Loi n°92-655 1992-07-15 art. 1 c
+
+
+##### G : Taux particuliers
+
+###### Article 281 quater
+
+La taxe sur la valeur ajoutée est perçue au taux de 2,10 % [*pourcentage*] (1) en ce qui concerne les recettes réalisées aux
+entrées des premières représentations théâtrales d'oeuvres dramatiques, lyriques, musicales ou chorégraphiques nouvellement
+crées ou d'oeuvres classiques faisant l'objet d'une nouvelle mise en scène, ainsi que des spectacles de cirque comportant
+exclusivement des créations originales conçues et produites par l'entreprise et faisant appel aux services réguliers d'un
+groupe de musiciens.
+
+Un décret définit la nature des oeuvres et fixe le nombre de représentations auxquelles ces dispositions sont applicables
+(2).
+
+Ces dispositions ne s'appliquent pas [*champ d'application*] aux recettes provenant :
+
+a. Des représentations théâtrales à caractère pornographique;
+
+b. De la vente de billets imposés aux taux réduit dans les conditions prévues au b. sexies de l'article 279.
+
+(1) Taux applicable à compter du 1er juillet 1986.
+
+(2) Annexe III, art. 89 ter.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 279 b sexies
+	  - CGIAN3 89 ter
+
+	**Créé par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 66 (V) JORF 31 décembre  1985 en vigueur le 1er juillet 1986
+
+	**Modifié par**:
+
+	  - Décret n°86-414 1986-03-13 art. 1 1° JORF 15 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 296 bis (V)
+	  - Code général des impôts, CGI. - art. 297 (VD)
 
 
 ##### II : Franchise et décote.
