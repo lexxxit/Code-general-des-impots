@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1988-03-20
+Version Consolidée au 1988-06-23
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -30517,6 +30517,25 @@ les excédents sont saisissables dans les mêmes conditions que pour les marchan
 
 ##### I : Alcools dénaturés
 
+##### 1° : Alcools destinés à des usages industriels.
+
+###### Article 508
+
+Bénéficient de la franchise du droit de consommation les alcools dénaturés suivant un procédé autorisé et sous la
+surveillance du ministre chargé des finances, soit dans l'établissement même où ils ont été produits, soit dans tout autre
+établissement dont les installations en vue de la dénaturation ont été agréées par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°88-766 du 22 juin 1988 - art. 1 (V) JORF 23 juin 1988
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 302 D (V)
+
+
 ##### 2° : Mesures d'application
 
 ###### Article 513
@@ -33150,6 +33169,22 @@ ces livraisons lorsqu'il est justifié de l'acquittement antérieur de l'impôt.
 ##### I : Alcools dénaturés
 
 ##### Alcools destinés à des usages industriels.
+
+###### Article 509
+
+Les industriels qui dénaturent l'alcool, soit en vue de la vente, soit pour les besoins de leur industrie, doivent être
+pourvus d'une autorisation personnelle donnée par le ministre chargé des finances.
+
+Les industriels qui ne dénaturent pas exclusivement en vue de la vente sont tenus d'inscrire leurs opérations, ainsi que
+leurs réceptions et livraisons, au moment où ils y procèdent, sur un registre tenu à la disposition du ministre des finances
+[*formalité obligatoire*].
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°88-766 du 22 juin 1988 - art. 1 (V) JORF 23 juin 1988
+
 
 ###### Article 511
 
