@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1986-01-23
+Version Consolidée au 1986-02-20
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5692,6 +5692,55 @@ copropriétaires en proportion de leurs droits afin de déterminer, pour chaque 
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 39 quinquies D
+
+I. Les entreprises qui construisent ou font construire des immeubles à usage industriel ou commercial peuvent être autorisées
+par agrément spécial du ministre de l'économie et des finances, après avis d'un organisme désigné par décret (1) , à
+pratiquer, dès l'achèvement de ces constructions, un amortissement exceptionnel égal à 25 % [*taux*] de leur prix de revient,
+la valeur résiduelle étant amortissable sur la durée normale d'utilisation. Cet amortissement de 25 % ne peut se cumuler avec
+celui de 50 % prévu à l'article 39 quinquies A-1 en faveur des immeubles affectés à la recherche scientifique ou technique.
+Les dispositions du présent article s'appliquent aux constructions commencées avant le 31 décembre 1987 et pour les
+investissements agréés avant la même date. En ce qui concerne les petites entreprises, l'agrément sera accordé selon une
+procédure décentralisée dans les conditions qui seront fixées par un arrêté du ministre de l'économie et des finances (2).
+
+II. (Dispositions devenues sans objet).
+
+III. Un décret en Conseil d'Etat fixe les conditions dans lesquelles les entreprises susceptibles d'être exonérées de taxe
+professionnelle en application de l'article 1465 peuvent bénéficier sans agrément préalable de l'amortissement exceptionnel
+de 25 % prévu au I (3).
+
+(1) Annexe III, art. 10 GB.
+
+(2) Voir annexe IV, art. 05 et 170 quinquies.
+
+(3) Annexe II, art. 32 B.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1465
+	  - CGI 39 quinquies A 1
+	  - CGIAN4 05 CGIAN3 10 GB
+	  - CGIAN4 170 quinquies
+
+	**Modifié par**:
+
+	  - Décret n°86-225 du 14 février 1986 - art. 1 () JORF 20 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°90-798 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L80 B (V)
 
 
 ###### Article 39 terdecies
@@ -41562,6 +41611,64 @@ ministre de l'économie et des finances.
 
 
 #### Chapitre IV : Exonérations fiscales contractuelles et agréments
+
+###### Article 1649 nonies
+
+I  Nonobstant toute disposition contraire, les agréments auxquels est subordonné l'octroi d'avantages fiscaux prévus par la
+loi sont délivrés par le ministre de l'économie et des finances [*autorité compétente*].
+
+Des arrêtés du ministre pourront instituer des procédures simplifiées et déléguer le pouvoir de décision à des agents de
+l'administration des impôts ayant au moins le grade de directeur départemental (1).
+
+II  Des arrêtés du ministre de l'économie et des finances, pris après avis d'un organisme désigné par décret (2), peuvent
+définir, compte tenu de l'importance, de la nature ou du lieu d'exercice des activités considérées, les conditions des
+agréments auxquels des exonérations fiscales sont attachées en vertu des dispositions législatives ou réglementaires.
+
+1) Annexe IV, art. 170 quinquies à 170 octies.
+
+2) Annexe III, art. 344 K.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°86-225 du 14 février 1986 - art. 1 () JORF 20 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Décret n°2010-89 du 22 janvier 2010 - art. 5 (Ab)
+	  - Arrêté du 13 octobre 2014 (V)
+	  - Arrêté du 10 février 2016 (V)
+	  - Code général des impôts, CGI. - art. 115 (V)
+	  - Code général des impôts, CGI. - art. 1465 (V)
+	  - Code général des impôts, CGI. - art. 1466 C (V)
+	  - Code général des impôts, CGI. - art. 155 B (V)
+	  - Code général des impôts, CGI. - art. 200 (V)
+	  - Code général des impôts, CGI. - art. 209 (V)
+	  - Code général des impôts, CGI. - art. 223 I (V)
+	  - Code général des impôts, CGI. - art. 238 bis (V)
+	  - Code général des impôts, CGI. - art. 244 quater E (V)
+	  - Code général des impôts, CGI. - art. 81 C (T)
+	  - Code général des impôts, CGI. - art. 885-0 V bis A (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 140 terdecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 K (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quaterdecies V (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies R (V)
+
+	**Cite**:
+
+	  - CGIAN3 344 K
+	  - CGIAN4 170 quinquies à CGIAN4 170 octies
+
+	**Liens**:
+
+	  - SPEC_APPLI: Cf. décision 83-134 L 1983-10-12 Conseil Constitutionnel JORF 14 octobre 1983
+
 
 ###### Article 1649 octies
 
