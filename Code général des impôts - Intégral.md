@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1993-01-15
+Version Consolidée au 1993-02-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -40689,6 +40689,41 @@ du rhum sont constatées et poursuivies comme en matière de contributions indir
 
 ##### 2° : Assiette
 
+###### Article 404
+
+Le droit de consommation est liquidé lors de l'expédition à la consommation ou de la constatation des manquants. Dans le cas
+d'utilisation de capsules, empreintes ou vignettes représentatives des droits indirects sur l'alcool, le droit de
+consommation est liquidé lors de l'apposition de ces capsules, empreintes ou vignettes sur les récipients.
+
+(Abrogé).
+
+Il est interdit d'altérer la densité des alcools par un mélange opéré dans le but de frauder les droits.
+
+Il est fait état :
+
+1° Pour les vins artificiels et les boissons de raisins secs, de la richesse alcoolique totale, acquise et en puissance;
+
+2° Pour les produits médicamenteux à base d'alcool, de la richesse alcoolique effective, y compris, le cas échéant, celle des
+vins ou des vins doux naturels entrant dans leur composition.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2000
+	  - TXT_ASSOCIE: Loi n°92-1476 1992-12-31 art. 32 XIII Finances rectificative pour 1992
+
+	**Modifié par**:
+
+	  - Loi - art. 32 (V) JORF 5 janvier 1993 en vigueur le 1er février 1993
+
+	**Abrogé par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
+
+
 ###### Article 405
 
 Chez les marchands en gros qui détiennent des alcools appartenant à des catégories différemment imposées, les manquants
@@ -43752,10 +43787,15 @@ accords à cet effet.
 
 ###### Article 401
 
-Pour l'application des articles qui suivent, sont compris sous la dénomination d'alcools, les eaux-de-vie, esprits, liqueurs,
-fruits à l'eau-de-vie, apéritifs, vermouths, vins de liqueur, mistelles et autres spiritueux quelconques, les vins
-artificiels, les vins édulcorés en dehors des conditions et limites permises, les boissons de raisins secs et, en général,
-tous les liquides alcooliques non dénommés, ainsi que toutes préparations à base alcoolique.
+Pour l'application des articles qui suivent sont dénommés :
+
+a) produits intermédiaires : les produits relevant des codes N.C. 2204, 2205, 2206 du tarif des douanes qui ont un titre
+alcoométrique acquis compris entre 1,2 p. 100 vol. et 22 p. 100 vol. et qui ne sont pas des bières, des vins ou des produits
+visés à l'article 438 ;
+
+b) alcools : les produits qui relèvent des codes N.C. 2207 et 2208 du tarif des douanes et qui ont un titre alcoométrique
+acquis supérieur à 1,2 p. 100 vol. ainsi que les produits désignés à l'alinéa précédent qui ont un titre alcoométrique acquis
+supérieur à 22 p. 100 vol.
 
 Sont assimilés au point de vue fiscal à l'alcool éthylique les corps appartenant à la famille chimique des alcools ou
 présentant une fonction chimique alcool, susceptibles de remplacer l'alcool éthylique dans l'un quelconque de ses emplois
@@ -43764,9 +43804,29 @@ présentant une fonction chimique alcool, susceptibles de remplacer l'alcool ét
 Des décisions du ministre de l'économie et des finances déterminent ceux de ces produits auxquels s'applique la disposition
 qui précède.
 
-1)  Annexe III, art. 169.
+(1) Annexe III, art. 169.
+
+**Nota:**
+
+NOTA : cf. Loi 95-1346 1995-12-30 art. 25 I Finances pour 1996 :
+
+"Les deux derniers alinéas sont abrogés à compter du 1er juillet 1996 . Cette abrogation ne fait pas obstacle à la poursuite
+des infractions commises avant son entrée en vigueur sur le fondement des dispositions législatives antérieures."
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi - art. 32 (V) JORF 5 janvier 1993 en vigueur le 1er février 1993
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-1346 1995-12-30 art. 25 I Finances pour 1996
+	  - HISTO: Edition du 18 août 1993
 
 	**Cité par**:
 
@@ -43781,11 +43841,8 @@ qui précède.
 
 	**Cite**:
 
+	  - CGI 438
 	  - CGIAN3 169
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 402
@@ -43812,15 +43869,16 @@ Est interdit tout mélange à l'alcool éthylique des produits qui lui sont assi
 En dehors de l'allocation en franchise de 10 litres d'alcool pur accordée aux bouilleurs de cru, les alcools supportent un
 droit de consommation dont le tarif par hectolitre d'alcool pur est fixé à :
 
-I 1° 2.595 F [*montant*] pour les quantités ajoutées pour la préparation des vins mousseux, des vins doux naturels mentionnés
-à l'article 417 et des vins de liqueur visés à l'article 417 bis ;
+I. 1° 4.495 F pour le rhum tel qu'il est défini à l'article 1er, paragraphe 4, point a, du règlement (C.E.E.) n° 1576-89 du
+Conseil des communautés européennes, et produit à partir de canne à sucre récoltée sur le lieu de fabrication au sens de
+l'article 1er, paragraphe 3, point l, dudit règlement, ayant une teneur en substances volatiles autres que les alcools
+éthylique et méthylique égale ou supérieure à 225 grammes par hectolitre d'alcool pur et un titre alcoométrique acquis égal
+ou supérieur à 40 p. 100 vol.
 
-2° 4.495 F pour les rhums originaires et en provenance des départements d'outre-mer contenant plus de 225 grammes d'élements
-volatils autres que l'alcool par hectolitre d'alcool à 100 p. 100 vol ;
+2° 7.810 F pour les autres produits à l'exception de ceux mentionnés à l'article 406 A.
 
-3° 6.930 F pour les apéritifs à base de vin, de cidre ou de poiré, les vermouths et les vins de liqueur et assimilés (1) ;
-
-4° 7.810 F pour tous les autres produits à l'exception de ceux mentionnés au II de l'article 406 A.
+Toutefois, les crèmes de cassis supportent par hectolitre d'alcool pur, un droit de consommation de 5.600 F du 1er février au
+31 décembre 1993 et de 6.700 F du 1er janvier au 31 décembre 1994.
 
 II. (Périmé).
 
@@ -43831,6 +43889,10 @@ d'identification ou autres, afin d'assurer l'utilisation de ces alcools aux usag
 
 (1) La définition des apéritifs à base de cidre ou de poiré est donnée par le décret n° 86-208 du 11 février 1986 (JO du 16).
 
+**Nota:**
+
+NOTA : Ces dispositions s'appliquent à compter du 1er février 1993.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -43838,10 +43900,7 @@ d'identification ou autres, afin d'assurer l'utilisation de ces alcools aux usag
 	  - Décret n°86-208 1986-02-11
 	  - CGI 406 A II 1°, 2°
 	  - CGI 417 bis
-
-	**Modifié par**:
-
-	  - Loi - art. 29 (V) JORF 30 décembre 1990
+	  - Règlement 1576-89 art. 1er Conseil CEE
 
 	**Cité par**:
 
@@ -43880,38 +43939,12 @@ d'identification ou autres, afin d'assurer l'utilisation de ces alcools aux usag
 	**Liens**:
 
 	  - TXT_ASSOCIE: Loi n°92-1376 1992-12-30 art. 34 Finances pour 1993
-	  - HISTO: Edition du 24 juin 1991
+	  - TXT_ASSOCIE: Loi n°92-1476 1992-12-31 art. 32 XIII Finances rectificative pour 1992
 
+	**Modifié par**:
 
-##### Assiette.
-
-###### Article 404
-
-Le droit de consommation est liquidé lors de l'expédition à la consommation ou de la constatation des manquants. Dans le cas
-d'utilisation de capsules, empreintes ou vignettes représentatives des droits indirects sur l'alcool, le droit de
-consommation est liquidé lors de l'apposition de ces capsules, empreintes ou vignettes sur les récipients.
-
-Le droit de consommation est déterminé en raison de l'alcool pur contenu dans le produit avec un minimum d'imposition
-correspondant à un titre alcoométrique volumique de 15 % pour les liqueurs, les vins de liqueur, les apéritifs et autres
-produits. Un décret en Conseil d'Etat définit les modalités de détermination de l'alcool pur soumis aux droits prévus par la
-loi, la date d'entrée en vigueur des modalités du présent alinéa et les formalités nécessaires à leur application (1).
-
-Il est interdit d'altérer la densité des alcools par un mélange opéré dans le but de frauder les droits.
-
-Il est fait état :
-
-1° Pour les vins artificiels et les boissons de raisins secs, de la richesse alcoolique totale, acquise et en puissance;
-
-2° Pour les produits médicamenteux à base d'alcool, de la richesse alcoolique effective, y compris, le cas échéant, celle des
-vins ou des vins doux naturels entrant dans leur composition.
-
-1)  Décret à émettre.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
+	  - Loi - art. 32 (V) JORF 5 janvier 1993 en vigueur le 1er février 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ##### II bis : Droit de fabrication.
@@ -44124,34 +44157,6 @@ sucre résiduel par litre.
 	  - Décret n°86-1086 1986-10-07
 
 
-###### Article 418
-
-L'alcool employé au mutage des vins doux naturels bénéficiant du régime ordinaire des vins est admis en décharge moyennant le
-paiement du droit de consommation. L'opération doit être effectuée en présence du service des impôts et dans les conditions
-fixées par l'administration chez le viticulteur ou dans les magasins des coopératives agricoles constituées en conformité du
-statut de la coopération agricole.
-
-Les préparateurs de vins doux naturels doivent rembourser à l'administration le montant des frais de surveillance.
-
-Pour les vins de liqueur importés, visés à l'article 417 bis, le droit de consommation est perçu, au moment de l'importation,
-sur la base d'une quantité d'alcool pur de 9 % volumique.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 417 bis
-
-	**Modifié par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 37 () JORF 31 décembre 1981 en vigueur le 1er janvier 1982
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
-
-	**Abrogé par**:
-
-	  - Loi - art. 32 (V) JORF 5 janvier 1993 en vigueur le 1er février 1993
-
-
 ##### V : Sucrages
 
 ##### Déclarations.
@@ -44319,14 +44324,18 @@ oeuvre de procédés physiques ou chimiques d'analyse, soit dans une combinaison
 ###### Article 434
 
 Il est interdit de fabriquer, d'expédier, de vendre, de mettre en vente ou de détenir en vue de la vente, sous le nom de vin,
-cidre, poiré ou hydromel, des produits ne répondant pas à la définition donnée, de ces diverses boissons, par les décrets en
-Conseil d'Etat rendus en exécution de la loi du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de
-services.
+cidre, poiré ou hydromel, des produits ne répondant pas à la définition donnée, pour le vin, par le règlement (CEE) n° 822-87
+du 16 mars 1987 du Conseil des communautés européennes, pour les autres boissons par les décrets en Conseil d'Etat rendus en
+exécution de la loi du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de services.
 
 Les cidres et poirés ne présentant pas la composition prévue pour être considérés comme propres à la consommation, mais
 répondant aux caractéristiques définies à l'annexe III au décret n° 87-600 du 29 juillet 1987 modifiant les dispositions du
 titre II du décret n° 53-978 du 30 septembre 1953, ne peuvent être mis en vente, ou vendus pour la consommation sous quelque
 dénomination que ce soit.
+
+**Nota:**
+
+NOTA : Ces dispositions s'appliquent à compter du 1er février 1993.
 
 **Liens relatifs à cet article**
 
@@ -44335,50 +44344,87 @@ dénomination que ce soit.
 	  - Décret n°53-978 1953-09-30 titre II
 	  - Décret n°87-600 1987-07-29 annexe III
 	  - Loi n°1905-08-01
-
-	**Modifié par**:
-
-	  - Décret n°87-600 du 29 juillet 1987 - art. 1 () JORF 1er août 1987
-
-	**Codifié par**:
-
-	  - Décret n°90-798 1990-09-10
+	  - Règlement 822-87 1987-03-16 Conseil CEE
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1821 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 32 (V) JORF 5 janvier 1993 en vigueur le 1er février 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°92-1476 1992-12-31 art. 32 XIII Finances rectificative pour 1992
 
 
 ##### II : Droit de circulation
 
 ##### Tarifs.
 
-###### Article 438
+###### Article 438 bis
 
-1. Il est perçu un droit de circulation, dont le tarif est fixé, par hectolitre, à :
-
-- 54,80 F pour les vins doux naturels mentionnés à l'article 417, les vins de liqueur visés à l'article 417 bis et les vins
-mousseux bénéficiant de l'appellation d'origine contrôlée "Champagne" ;
-
-- 22 F pour tous les autres vins ;
-
-- 7,60 F pour les cidres, les poirés, les hydromels et les jus de raisin légèrement fermentés dénommés "pétillants de raisin"
-ainsi que pour les boissons aromatisées à base de raisin ou de pomme définies par décret et ne tirant pas plus de 7 p. 100
-volume en alcool acquis et 11,5 p. 100 volume en alcool acquis et en puissance.
-
-2. Le droit de circulation prévu au 1 est ramené à :
-
-- 12,70 F [*montant*] pour l'ensemble des vins ;
-
-- 5,40 F pour les cidres, poirés, hydromels et les jus de raisin légèrement fermentés dénommés "pétillants de raisin",
-transportés ou expédiés par un récoltant de l'une à l'autre de ses caves en dehors du rayon de franchise ou cédés par lui à
-titre gratuit à ses parents en ligne directe.
+Les vins, cidres, poirés, hydromels et les jus de raisin légèrement fermentés dénommés "pétillants de raisin" sont exonérés
+du droit de circulation prévu à l'article 438 lorsqu'ils sont transportés ou expédiés par un récoltant de l'une à l'autre de
+ses caves ou cédés par lui à titre gratuit à ses parents en ligne directe.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 64 (V) JORF 31 décembre 1985, en vigueur le 1er avril 1986
+	  - CGI 438
+
+	**Nouveaux textes**:
+
+	  - CGI 440 bis
+
+	**Créé par**:
+
+	  - Loi - art. 32 (V) JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Transféré par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 1 () JORF 28 septembre 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
+##### 1° : Tarifs.
+
+###### Article 438
+
+Il est perçu un droit de circulation dont le tarif est fixé, par hectolitre, à :
+
+1° 54,80 F pour les vins mousseux ;
+
+2° 22 F ;
+
+a) Pour tous les autres vins ;
+
+b) Pour les autres produits fermentés, autres que le vin et la bière, et les produits visés au 3°, dont l'alcool contenu dans
+le produit résulte entièrement d'une fermentation et dont le titre alcoométrique acquis n'excède pas 15 p. 100 vol. ;
+
+c) Pour les autres produits fermentés autres que le vin et la bière et les produits visés au 3°, dont le titre alcoométrique
+acquis n'excède pas 5,5 p. 100 vol. pour les boissons non mousseuses et 8,5 p. 100 vol. pour les boissons mousseuses.
+
+3° 7,60 F pour les cidres, les poirés, les hydromels et les jus de raisin légèrement fermentés dénommés "pétillants de
+raisin".
+
+**Nota:**
+
+NOTA : Ces dispositions s'appliquent à compter du 1er février 1993. Toutefois, les crèmes de cassis supportent par hectolitre
+d'alcool pur, un droit de consommation de 5.600 F du 1er février au 31 décembre 1993 et de 6.700 F du 1er janvier au 31
+décembre 1994.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
@@ -44416,38 +44462,13 @@ titre gratuit à ses parents en ligne directe.
 	  - Code rural et  de la pêche maritime - art. L664-8 (T)
 	  - Code rural et de la pêche maritime - art. L731-2 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 417 bis
-
-
-###### Article 438 bis
-
-Les vins, cidres, poirés, hydromels et les jus de raisin légèrement fermentés dénommés "pétillants de raisin" sont exonérés
-du droit de circulation prévu à l'article 438 lorsqu'ils sont transportés ou expédiés par un récoltant de l'une à l'autre de
-ses caves ou cédés par lui à titre gratuit à ses parents en ligne directe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 438
-
-	**Nouveaux textes**:
-
-	  - CGI 440 bis
-
-	**Créé par**:
-
-	  - Loi - art. 32 (V) JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+	  - Loi - art. 32 (V) JORF 5 janvier 1993 en vigueur le 1er février 1993
 
 	**Codifié par**:
 
 	  - Décret n°93-1127 1993-09-24
-
-	**Transféré par**:
-
-	  - Décret n°93-1127 du 24 septembre 1993 - art. 1 () JORF 28 septembre 1993
 
 	**Liens**:
 
@@ -44458,10 +44479,9 @@ ses caves ou cédés par lui à titre gratuit à ses parents en ligne directe.
 
 ###### Article 440
 
-Les vins dont le titre alcoométrique acquis et en puissance excède 15 % vol. sont soumis au régime fiscal des vins de liqueur
-sans appellation d'origine, avec minimum d'imposition de 15 % vol..
+(Abrogé).
 
-Toutefois, sont maintenus sous le régime fiscal des vins :
+Bénéficient du régime fiscal des vins :
 
 1° Les vins dont le titre alcoométrique acquis n'excède pas 17 % vol., obtenus sans aucun enrichissement et ne contenant plus
 de sucre résiduel ;
@@ -44474,23 +44494,25 @@ Des décrets pourront, en tant que de besoin, fixer dans la limite de quels volu
 dispositions prévues à l'alinéa précédent pourra être étendu à des vins de qualité, produits dans des régions déterminées,
 originaires des pays de la Communauté économique européenne [*CEE*].
 
-A condition que le titre alcoométrique volumique acquis de ces produits n'excède pas 18 % volumique, les dispositions du
-présent article ne sont applicables ni aux vins doux naturels, tels qu'ils sont définis aux articles 416 et 417, ni aux vins
-de liqueur de qualité produits dans des régions déterminées de la communauté économique européenne [*CEE*] visés à l'article
-417 bis.
+(Abrogé).
+
+**Nota:**
+
+NOTA : Ces dispositions s'appliquent à compter du 1er février 1993.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 416
-	  - CGI 417
-	  - CGI 417 bis
 	  - Loi n°70-601 1970-07-09
 
 	**Modifié par**:
 
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 37 () JORF 30 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
+	  - Loi - art. 32 (V) JORF 5 janvier 1993 en vigueur le 1er février 1993 modification directe incorporée dans l'édition du 18 août 1993
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°92-1476 1992-12-31 art. 32 XIII Finances rectificative pour 1992
 
 
 ##### Exemptions.
