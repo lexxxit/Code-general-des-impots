@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1980-07-05
+Version Consolidée au 1980-07-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5038,6 +5038,74 @@ redevance fixe des mines et précisent les conditions de l'exonération prévue 
 	  - Modification directe incorporée dans l'édition du 4 juillet 1992
 
 
+##### Section VIII : Prélèvement spécial sur les bénéfices réalisés à l'occasion de la création d'une force de dissuasion.
+
+###### Article 235 ter
+
+I. A la fin de chaque période retenue pour l'établissement de l'impôt sur le revenu en ce qui concerne les bénéfices
+industriels et commerciaux, ou de l'impôt sur les sociétés, il est procédé, dans les conditions indiquées ci-dessous, à la
+détermination des bénéfices nets réalisés par chaque entreprise en tant que titulaire, cessionnaire ou sous-traitant
+régulièrement substitué de marchés publics passés à l'occasion de la création d'une force de dissuasion, à l'exception de
+ceux qui se rapportent tant à l'usine de séparation des isotopes qu'aux études et recherches concernant l'énergie nucléaire
+et les engins balistiques.
+
+Lorsque ces bénéfices dépassent 3 % du montant du chiffre d'affaires afférent auxdits marchés, ils font l'objet d'un
+prélèvement calculé d'après le barème ci-après :
+
+50 % de la fraction du bénéfice comprise entre 3 % et 6 % de ce même chiffre d'affaires ;
+
+75 % de la fraction du bénéfice excédant 6 % du montant de ce même chiffre d'affaires.
+
+II. Ne sont pas assujetties au prélèvement les entreprises dont le chiffre d'affaires correspondant aux marchés définis au I
+n'a pas excédé 10.000.000 F pour la période visée au même I, premier alinéa.
+
+Lorsqu'une entreprise est placée sous la dépendance d'autres entreprises ou les a sous sa dépendance, le chiffre d'affaires à
+retenir pour l'application de l'alinéa précédent est celui réalisé par l'ensemble des entreprises considérées.
+
+III. Sauf justification contraire, le bénéfice passible du prélèvement est déterminé forfaitairement en appliquant au
+bénéfice net total de la période visée au I, premier alinéa, le rapport constaté, pour la même période, entre la fraction du
+chiffre d'affaires correspondant aux marchés imposables et le chiffre d'affaires total de l'entreprise.
+
+Le bénéfice net total à prendre en considération pour l'application de l'alinéa précédent est celui qui est retenu pour
+l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés, diminué, le cas échéant, du montant de la rémunération
+normale du chef d'entreprise, lorsque cette rémunération n'est pas admise en déduction pour l'établissement de l'impôt de
+droit commun.
+
+IV. Le prélèvement est déductible pour l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés.
+
+V. Les modalités d'application du présent article seront fixées par un décret en Conseil d'Etat (1) qui définira notamment
+les conditions dans lesquelles les marchés entrant dans le champ d'application du prélèvement seront notifiés à
+l'administration fiscale ainsi que les conditions dans lesquelles ledit prélèvement, sera établi et recouvré, les garanties
+et les sanctions applicables étant celles prévues en matière d'impôt sur le revenu (2).
+
+**Nota:**
+
+(1) Voir les articles 163 bis à 163 octies B de l'annexe II.
+
+(2) En ce qui concerne les règles de prescription, voir l'article L. 169 B du livre des procédures fiscales.
+
+NOTA : Cet article est abrogé pour les bénéfices réalisés au titre des exercices clos à compter du 31 décembre 1999.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN1 23 V 1 à CGIAN1 23 V 12
+	  - Livre des procédures fiscales - art. L169 B (Ab)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 art. 1 JORF 9 juillet 1980
+
+	**Abrogé par**:
+
+	  - Loi - art. 30 () JORF 31 décembre 1999
+
+
 ##### Section X : Participation des employeurs au développement de la formation professionnelle continue
 
 ##### I. : Employeurs occupant dix salariés et plus
@@ -8341,6 +8409,28 @@ des utilisateurs d'appareils ambulants auxquels l'agrément prévu à l'article 
 	  - Code général des impôts, CGI. - art. 311 bis (V)
 
 
+##### 6° : Mesures d'application
+
+###### Article 311
+
+Des décrets en Conseil d'Etat fixent les modalités d'application des dispositions relatives aux alambics (1).
+
+**Nota:**
+
+(1) Annexe I, art. 27, 29, 30, 32, 33 et livre des procédures fiscales, art. R. 29-1 et R. 29-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN1 27, 29, 30, 32, 33
+	  - Livre des procédures fiscales R29-1, R29-2
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 art. 1 JORF 9 juillet 1980
+
+
 ##### III : Compteurs
 
 ###### Article 314
@@ -8479,6 +8569,31 @@ charge.
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 331 (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies-0 A (P)
+
+
+##### 6° : Mesures d'application
+
+###### Article 326
+
+Des décrets en Conseil d'Etat déterminent les modalités d'application des dispositions relatives aux bouilleurs de cru (1).
+
+(1) Annexe I, art. 37 à 42, 44 à 56 et livre des procédures fiscales, art. R30-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI R30-1
+	  - CGIAN1 37 à CGIAN1 42
+	  - CGIAN1 44 à CGIAN1 56
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 ART. 1 JORF 9 JUILLET 1980
+
+	**Cité par**:
+
+	  - Décret n°2012-559 du 24 avril 2012 (V)
 
 
 ##### V : Bouilleurs ambulants
@@ -9365,6 +9480,45 @@ déclaration préalable indiquant la quantité d'eau qui doit être ajoutée et 
 	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 
+##### 5° : Déductions
+
+###### Article 496
+
+Quand les déchets résultant de la fabrication d'extraits alcooliques, de liqueurs ou de la préparation de fruits à l'eau-de-
+vie ne sont pas couverts par la déduction visée à l'article 495, les liquoristes et les fabricants d'eau de senteur
+obtiennent, à cet égard, un supplément de déduction.
+
+Ce supplément est réglé, lors de chaque recensement, dans la limite de 3 % des quantités d'alcool afférentes aux extraits
+alcooliques, aux liqueurs et aux fruits ou jus de fruits à l'eau-de-vie fabriqués par distillation ou par infusion depuis le
+recensement précédent.
+
+Les fabrications des industriels doivent, à cet effet, être précédées de déclarations et sont suivies à des comptes
+distincts.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article (1).
+
+(1) Annexe I, art. 160 à 164.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 495
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 ART. 1 JORF 9 JUILLET 1980
+
+	**Abrogé par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
+
+
 ##### 7° : Crédit d'enlèvement
 
 ###### Article 498
@@ -9489,6 +9643,29 @@ les excédents sont saisissables dans les mêmes conditions que pour les marchan
 
 
 ##### Section V : Régimes particuliers
+
+##### I : Alcools dénaturés
+
+##### 2° : Mesures d'application
+
+###### Article 513
+
+Des décrets en Conseil d'Etat fixent les modalités d'application des dispositions qui précèdent et, notamment, les formalités
+auxquelles sont assujettis la préparation, la circulation, la détention et l'emploi des alcools dénaturés en vue de la
+carburation, soit en nature, soit en mélange avec des hydrocarbures, et la préparation des mélanges carburants (1).
+
+(1) Annexe I, art. 165 à 193.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN1 165 A CGIAN1 193
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 ART. 1 JORF 9 JUILLET 1980
+
 
 ##### II : Matières absorbantes
 
@@ -10056,6 +10233,56 @@ production d'alcools de bouche et d'eaux-de-vie.
 	  - Code général des impôts, CGI. - art. 307 (VD)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
+
+
+##### II : Dispositions générales
+
+##### Déclarations.
+
+###### Article 312
+
+Doivent faire l'objet d'une déclaration au bureau de déclarations de la direction générale des impôts [*lieu*, dans un délai
+fixé par décret en Conseil d'Etat (1) :
+
+1° La préparation en vue de la distillation, de macérations de grains, de matières farineuses ou amylacées, la mise en
+fermentation de matières sucrées, et toute opération chimique ayant pour conséquence directe ou indirecte une production
+d'alcool ;
+
+2° La fabrication ou le repassage d'eaux-de-vie, esprits et liquides alcooliques de toute nature, que ces opérations aient
+lieu par distillation ou par tous autres moyens.
+
+La déclaration doit indiquer le siège de l'établissement ou de la distillerie, la nature et la provenance des produits mis en
+oeuvre *]mentions*. Elle est complétée au fur et à mesure de la préparation et de l'introduction de nouveaux produits.
+
+(1) Voir Annexe I, art. 57 à 63, 65, 91 et livre des procédures fiscales, art. R. 32-1 et R. 32-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI R32-1
+	  - CGI R32-2
+	  - CGIAN1 57
+	  - CGIAN1 58
+	  - CGIAN1 59
+	  - CGIAN1 60
+	  - CGIAN1 61
+	  - CGIAN1 62
+	  - CGIAN1 63
+	  - CGIAN1 65
+	  - CGIAN1 91
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 ART. 1 JORF 9 JUILLET 1980
+
+	**Cité par**:
+
+	  - Code général des impôts annexe 1, CGIAN1. - art. 39 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 313 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 315 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 C (V)
 
 
 ##### IV : Bouilleurs de cru
@@ -10740,6 +10967,37 @@ leur exécution.
 
 
 ##### B : Régime fiscal
+
+##### I : Définition des produits
+
+##### Vins et cidres.
+
+###### Article 434
+
+Il est interdit de fabriquer, d'expédier, de vendre, de mettre en vente ou de détenir en vue de la vente, sous le nom de vin,
+cidre, poiré ou hydromel, des produits ne répondant pas à la définition donnée, de ces diverses boissons, par les décrets en
+Conseil d'Etat rendus en exécution de la loi du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de
+services.
+
+Les cidres et poirés ne présentant pas la composition prévue pour être considérés comme propres à la consommation, mais
+répondant aux caractéristiques fixées par l'article 17 du décret n° 53-978 du 30 septembre 1953, ne peuvent être mis en
+vente, ou vendus pour la consommation sous quelque dénomination que ce soit.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°53-978 du 30 septembre 1953 - art. 17 (V)
+	  - Loi n°1905-08-01
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 ART. 1 JORF 9 JUILLET 1980
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1821 (V)
+
 
 ##### II : Droit de circulation
 
@@ -11579,6 +11837,39 @@ l'autorité municipale le registre dont la tenue leur est prescrite par l'articl
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### Section V : Exportation.
+
+###### Article 543
+
+Les ouvrages d'or, d'argent ou de platine peuvent, dans les conditions fixées par décret en Conseil d'Etat, être exportés
+sans marque des poinçons intérieurs et sans paiement des droits de garantie (1).
+
+(1) Annexe I, art. 204 à 211.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN1 204
+	  - CGIAN1 205
+	  - CGIAN1 206
+	  - CGIAN1 207
+	  - CGIAN1 208
+	  - CGIAN1 209
+	  - CGIAN1 210
+	  - CGIAN1 211
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 ART. 1 JORF 9 JUILLET 1980
+
+	**Cité par**:
+
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
+	  - Code général des impôts, CGI. - art. 1794 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
 
 
 ##### Section VI : Importation.
@@ -14086,6 +14377,43 @@ sont imputés sur l'impôt de transmission par décès exigible à raison de l'i
 	**Liens**:
 
 	  - TXT_ASSOCIE: Jurisprudence 1998-09-25 7G-14-98
+
+
+###### Article 752
+
+Sont présumées, jusqu'à preuve contraire, faire partie de la succession, pour la liquidation et le paiement des droits de
+mutation par décès, les actions, obligations, parts de fondateur ou bénéficiaires, parts sociales et toutes autres créances
+dont le défunt a eu la propriété ou a perçu les revenus ou à raison desquelles il a effectué une opération quelconque moins
+d'un an avant son décès.
+
+La preuve contraire ne peut résulter de la cession à titre onéreux consentie à l'un des héritiers présomptifs ou descendants
+d'eux, même exclu par testament, ou à des donataires ou légataires institués, même par testament postérieur, ou à des
+personnes interposées, telles qu'elles sont désignées par les articles 911, deuxième alinéa, et 1100 du code civil, à moins
+que cette cession ait acquis date certaine avant l'ouverture de la succession.
+
+Les mesures destinées à l'application du présent article sont fixées par décret en Conseil d'Etat (1).
+
+(1) Voir livre des procédures fiscales, art. L19 et R19-1.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 art. 1 JORF 9 juillet 1980
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L19 (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales L19, R19-1
+	  - Code civil - art. 1100 (Ab)
+	  - Code civil - art. 911 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Jurisprudence 2001-06-26 7G-5-01
 
 
 ###### Article 753
@@ -16946,6 +17274,25 @@ des droits applicables à l'opération est payé par elle, sauf son recours cont
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 121 KN (P)
+
+
+###### Article 984
+
+Les mesures d'exécution des articles 978, 979 et 981 à 983 sont fixées par décret en Conseil d'Etat. Ce décret peut aménager
+le mode de liquidation du droit de timbre et instituer une procédure de détermination forfaitaire des sommes que les
+assujettis doivent verser au Trésor au titre de l'impôt (1).
+
+(1) Annexe I, art. 305 à 305 I.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 978, 979, 981 à 983
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 ART. 1 JORF 9 JUILLET 1980
 
 
 ###### Article 985
@@ -21074,6 +21421,37 @@ Des rôles supplémentaires peuvent être établis à raison des faits existants
 
 
 
+##### C : Taxe de balayage
+
+###### Article 1528
+
+Les communes peuvent établir, par les soins de l'administration municipale, une taxe de balayage qui est recouvrée comme en
+matière de contributions directes.
+
+Les conditions d'application de cette taxe sont fixées par un décret en Conseil d'Etat qui peut prévoir plusieurs modes
+d'assiette et de perception entre lesquels les communes ont le choix.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 art. 1 JORF 9 juillet 1980
+
+	**Cité par**:
+
+	  - Loi n°90-568 du 2 juillet 1990 - art. 21 (VD)
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 130 (V)
+	  - Décret n°2012-559 du 24 avril 2012 (V)
+	  - Code général des collectivités territoriales - art. L2331-3 (V)
+	  - Code général des collectivités territoriales - art. L5214-23 (V)
+	  - Code général des collectivités territoriales - art. L5215-32 (VT)
+	  - Code général des collectivités territoriales - art. L5216-8 (V)
+	  - Code général des impôts, CGI. - art. 1379 (V)
+	  - Code général des impôts, CGI. - art. 1379-0 bis (VD)
+	  - Code général des impôts, CGI. - art. 1640 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 326 (V)
+
+
 #### Chapitre II : Contributions indirectes
 
 ##### Section I : Taxes obligatoires
@@ -21450,6 +21828,24 @@ fixées par décret en Conseil d'Etat (1).
 
 	  - CGI 1636
 	  - Décret n°56-297 1956-03-27
+
+
+###### Article 1589
+
+Un décret en Conseil d'Etat rendu après avis du conseil général des mines détermine les modalités d'application des articles
+1587 et 1588 (1).
+
+(1) Annexe II, art. 317 octies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1587, 1588
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 art. 1 JORF 9 juillet 1980
 
 
 #### Chapitre III : Enregistrement
@@ -22767,6 +23163,38 @@ Les infractions aux dispositions du présent article sont recherchées, poursuiv
 comme il est prévu en matière de contributions indirectes, au livre II du présent code. Des décrets en Conseil d'Etat fixent
 les modalités d'application du présent article.
 
+
+
+##### II bis : Façonniers
+
+###### Article 1649 ter C
+
+Les façonniers doivent tenir un registre spécial indiquant les nom et adresse des donneurs d'ordres et mentionnant, pour
+chacun d'eux, la nature et les quantités des matières mises en oeuvre et des produits transformés livrés. Ce registre doit
+être représenté à tout agent de la direction générale des impôts.
+
+Les conditions d'application des dispositions du présent article sont fixées par décret en Conseil d'Etat (1).
+
+(1) Annexe I, art. 310 decies.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Abrogation incorporée dans l'édition du 18 août 1993
+	  - Loi n°92-677 du 17 juillet 1992 - art. 28 () JORF 19 Juillet 1992, art. 121 :
+
+	**Cite**:
+
+	  - CGIAN1 310 decies
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 ART. 1 JORF 9 JUILLET 1980
+
+	**Liens**:
+
+	  - HISTO: en vigueur le 1er janvier 1993)
 
 
 #### Chapitre I ter : Centres de gestion agréés,  associations de gestion et de comptabilité, associations agréées des professions libérales et organismes mixtes de gestion agréés
@@ -34615,59 +35043,6 @@ et de l'habitation sont, dans la mesure où ils n'ont pas procédé à ces inves
 	  - HISTO: EDITION 1979-07-01
 
 
-##### PRELEVEMENT SPECIAL SUR LES BENEFICES REALISES A L'OCCASION DE LA CREATION D'UNE FORCE DE DISSUASION.
-
-###### Article 235 ter
-
-I  A la fin de chaque période retenue pour l'établissement de l'impôt sur le revenu en ce qui concerne les bénéfices
-industriels et commerciaux, ou de l'impôt sur les sociétés, il est procédé, dans les conditions indiquées ci-dessous, à la
-détermination des bénéfices nets réalisés par chaque entreprise en tant que titulaire, cessionnaire ou sous-traitant
-régulièrement substitué de marchés publics passés à l'occasion de la création d'une force de dissuasion, à l'exception de
-ceux qui se rapportent tant à l'usine de séparation des isotopes qu'aux études et recherches concernant l'énergie nucléaire
-et les engins balistiques.
-
-Lorsque ces bénéfices dépassent 3 % [*pourcentage*] du montant du chiffre d'affaires afférent auxdits marchés, ils font
-l'objet d'un prélèvement calculé d'après le barème ci-après :
-
-- 50 % de la fraction du bénéfice comprise entre 3 % et 6 % de ce même chiffre d'affaires;
-
-- 75 % de la fraction du bénéfice excédant 6 % du montant de ce même chiffre d'affaires.
-
-II  Ne sont pas assujetties au prélèvement les entreprises dont le chiffre d'affaires correspondant aux marchés définis au I
-n'a pas excédé 10.000.000 F [*montant plafond*] pour la période visée au même I, premier alinéa.
-
-Lorsqu'une entreprise est placée sous la dépendance d'autres entreprises ou les a sous sa dépendance, le chiffre d'affaires à
-retenir pour l'application de l'alinéa précédent est celui réalisé par l'ensemble des entreprises considérées.
-
-III  Sauf justification contraire, le bénéfice passible du prélèvement est déterminé forfaitairement en appliquant au
-bénéfice net total de la période visée au I, premier alinéa, le rapport constaté, pour la même période, entre la fraction du
-chiffre d'affaires correspondant aux marchés imposables et le chiffre d'affaires total de l'entreprise.
-
-Le bénéfice net total à prendre en considération pour l'application de l'alinéa précédent est celui qui est retenu pour
-l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés, diminué, le cas échéant, du montant de la rémunération
-normale du chef d'entreprise, lorsque cette rémunération n'est pas admise en déduction pour l'établissement de l'impôt de
-droit commun.
-
-IV  Le prélèvement est déductible pour l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés.
-
-V  Les modalités d'application du présent article seront fixées par un règlement d'administration publique (1) qui définira
-notamment les conditions dans lesquelles les marchés entrant dans le champ d'application du prélèvement seront notifiés à
-l'administration fiscale ainsi que les conditions dans lesquelles ledit prélèvement sera établi et recouvré, les garanties et
-les sanctions applicables étant celles prévues en matière d'impôt sur le revenu.
-
-1)  Annexe I, art. 23 V 1 à 23 V 12.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 23 V 1 A CGIAN1 23 V 12
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ##### PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE
 
 ###### Article 235 ter C
@@ -39234,23 +39609,6 @@ l'administration. Cette autorisation peut toujours être révoquée.
 	  - Livre des procédures fiscales L29
 
 
-###### Article 311
-
-Des règlements d'administration publique fixent les modalités d'application des dispositions relatives aux alambics (1).
-
-1)  Annexe I, art. 27 à 33.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 27 A CGIAN1 33
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 311 bis
 
 La profession de distillateur ne peut s'exercer que dans un établissement fixe. Toutefois, des dérogations individuelles
@@ -39282,43 +39640,6 @@ dérogations sont fixées par arrêté du ministre de l'économie et des finance
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 sexies (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 51 A (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 312
-
-Doivent faire l'objet d'une déclaration au bureau de déclarations de la direction générale des impôts, dans un délai fixé par
-règlement d'administration publique (1) :
-
-1° La préparation en vue de la distillation, de macérations de grains, de matières farineuses ou amylacées, la mise en
-fermentation de matières sucrées, et toute opération chimique ayant pour conséquence directe ou indirecte une production
-d'alcool;
-
-2° La fabrication ou le repassage d'eaux-de-vie, esprits et liquides alcooliques de toute nature, que ces opérations aient
-lieu par distillation ou par tous autres moyens.
-
-La déclaration doit indiquer le siège de l'établissement ou de la distillerie, la nature et la provenance des produits mis en
-oeuvre [*mentions obligatoires*]. Elle est complétée au fur et à mesure de la préparation et de l'introduction de nouveaux
-produits.
-
-1)  Voir Annexe I, art. 57 à 91.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 57 A CGIAN1 91
-
-	**Cité par**:
-
-	  - Code général des impôts annexe 1, CGIAN1. - art. 39 (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 313 (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 315 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 C (V)
 
 	**Liens**:
 
@@ -39450,28 +39771,6 @@ condition de se soumettre à toutes les obligations des marchands en gros.
 	**Nouveaux textes**:
 
 	  - Livre des procédures fiscales L31 (al. 4 et 5 du CGI 324)
-
-
-###### Article 326
-
-Des règlements d'administration publique déterminent les modalités d'application des dispositions relatives aux bouilleurs de
-cru (1).
-
-1)  Annexe I, art. 37 à 56.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 37 A CGIAN1 56
-
-	**Cité par**:
-
-	  - Décret n°2012-559 du 24 avril 2012 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 328
@@ -40694,33 +40993,6 @@ pour vérifier les déclarations de récolte ou de stocks et prélever des écha
 	  - Livre des procédures fiscales L28
 
 
-###### Article 434
-
-Il est interdit de fabriquer, d'expédier, de vendre, de mettre en vente ou de détenir en vue de la vente, sous le nom de vin,
-cidre, poiré ou hydromel, des produits ne répondant pas à la définition donnée, de ces diverses boissons, par les règlements
-d'administration publique rendus en exécution de la loi du 1er août 1905 sur les fraudes et falsifications en matière de
-produits ou de services.
-
-Les cidres et poirés ne présentant pas la composition prévue pour être considérés comme propres à la consommation, mais
-répondant aux caractéristiques fixées par l'article 17 du décret n° 53-978 du 30 septembre 1953, ne peuvent être mis en
-vente, ou vendus pour la consommation sous quelque dénomination que ce soit.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°53-978 du 30 septembre 1953 - art. 17 (V)
-	  - Loi n°1905-08-01
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 1821 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 435
 
 Sont compris sous la dénomination de vin, cidre ou poiré [*définition*], dans les dispositions du présent code, le vin, le
@@ -41155,38 +41427,6 @@ l'extérieur.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 496
-
-Quand les déchets résultant de la fabrication d'extraits alcooliques, de liqueurs ou de la préparation de fruits à l'eau-de-
-vie ne sont pas couverts par la déduction ci-dessus, les liquoristes et les fabricants d'eau de senteur obtiennent, à cet
-égard, un supplément de déduction.
-
-Ce supplément est réglé, lors de chaque recensement, dans la limite de 3 % [*pourcentage*] des quantités d'alcool afférentes
-aux extraits alcooliques, aux liqueurs et aux fruits ou jus de fruits à l'eau-de-vie fabriqués par distillation ou par
-infusion depuis le recensement précédent.
-
-Les fabrications des industriels doivent, à cet effet, être précédées de déclarations et sont suivies à des comptes
-distincts.
-
-Un règlement d'administration publique détermine les modalités d'application du présent article (1).
-
-1)  Annexe I, art. 160 à 164.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 160
-	  - CGIAN1 161
-	  - CGIAN1 162
-	  - CGIAN1 163
-	  - CGIAN1 164
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 497
 
 Toutes les quantités de boissons manquantes en sus des déductions sont soumises aux droits indirects. L'inventaire à l'issue
@@ -41283,25 +41523,6 @@ du service des impôts.
 	**Abrogé par**:
 
 	  - Décret n°83-56 du 26 janvier 1983 - art. 1 (V) JORF 29 JANVIER 1983
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 513
-
-Des règlements d'administration publique fixent les modalités d'application des dispositions qui précèdent et, notamment, les
-formalités auxquelles sont assujettis la préparation, la circulation, la détention et l'emploi des alcools dénaturés en vue
-de la carburation, soit en nature, soit en mélange avec des hydrocarbures, et la préparation des mélanges carburants (1).
-
-1)  Annexe I, art. 165 à 193.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 165 A CGIAN1 193
 
 	**Liens**:
 
@@ -41589,30 +41810,6 @@ certificat est établi par la douane de destination.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 543
-
-Les ouvrages d'or, d'argent ou de platine peuvent, dans les conditions fixées par règlement d'administration publique, être
-exportés sans marque des poinçons intérieurs et sans paiement des droits de garantie (1).
-
-1) Annexe I, art. 204 à 211.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 204 A CGIAN1 211
-
-	**Cité par**:
-
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
-	  - Code général des impôts, CGI. - art. 1794 (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 544
 
 Il existe, pour la fabrication des boîtes de montres d'or seulement, destinées exclusivement à l'exportation, un quatrième
@@ -41684,26 +41881,33 @@ Les manquants constatés d'ouvrages fabriqués en vue de l'exportation donnent l
 
 ###### Article 547
 
-Les mesures complémentaires sont déterminées par règlements d'administration publique (1).
+Les mesures complémentaires sont déterminées par décrets en Conseil d'Etat (1).
 
 Sont suspendues, jusqu'à ce qu'il en soit autrement décidé par décret, les facilités accordées aux fabricants, bijoutiers,
 joailliers et orfèvres, par le décret du 31 décembre 1916 qui a complété le décret du 6 juin 1884 pris pour l'exécution de la
 loi du 25 janvier 1884 sur la fabrication des bijoux à tous titres pour l'exportation.
 
-1)  Annexe I, art. 204 à 211.
+(1) Annexe I, art. 204 à 211.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN1 204 A CGIAN1 211
+	  - CGIAN1 204
+	  - CGIAN1 205
+	  - CGIAN1 206
+	  - CGIAN1 207
+	  - CGIAN1 208
+	  - CGIAN1 209
+	  - CGIAN1 210
+	  - CGIAN1 211
 	  - Décret n°1884-06-06
 	  - Décret n°1916-12-31
 	  - Loi n°1884-01-25
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°80-514 1980-07-07 ART. 1 JORF 9 JUILLET 1980
 
 
 ##### FABRICATION DU PLAQUE ET DU DOUBLE D'OR, D'ARGENT ET DE PLATINE SUR TOUS METAUX.
@@ -43348,47 +43552,6 @@ des créances françaises*].
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 752
-
-Sont présumées, jusqu'à preuve contraire, faire partie de la succession, pour la liquidation et le paiement des droits de
-mutation par décès, les actions, obligations, parts de fondateur ou bénéficiaires, parts sociales et toutes autres créances
-dont le défunt a eu la propriété ou a perçu les revenus ou à raison desquelles il a effectué une opération quelconque moins
-d'un an avant son décès [*délai*].
-
-La preuve contraire ne peut résulter de la cession à titre onéreux consentie à l'un des héritiers présomptifs ou descendants
-d'eux, même exclu par testament, ou à des donataires ou légataires institués, même par testament postérieur, ou à des
-personnes interposées, telles qu'elles sont désignées par les articles 911, deuxième alinéa, et 1100 du code civil, à moins
-que cette cession ait acquis date certaine avant l'ouverture de la succession.
-
-Les agents des impôts peuvent demander aux héritiers et autres ayants droit des éclaircissements, ainsi que toutes
-justifications au sujet des titres, valeurs et créances non énoncés dans la déclaration et entrant dans les prévisions du
-premier alinéa.
-
-Les mesures destinées à l'application du présent article sont fixées par règlement d'administration publique (1).
-
-1)  Annexe I, art. 231 à 233.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 231, 232, 233
-	  - Code civil - art. 1100 (Ab)
-	  - Code civil - art. 911 (M)
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. L19 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales L19 (3è et 4è al. du CGI 752)
 
 
 ###### Article 758
@@ -46953,29 +47116,6 @@ commerce, et sur lequel elles inscrivent chaque opération jour par jour, sans b
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 984
-
-Les mesures d'exécution des articles 978, 979 et 981 à 983 sont fixées par règlement d'administration publique. Ce règlement
-peut aménager le mode de liquidation du droit de timbre et instituer une procédure de détermination forfaitaire des sommes
-que les assujettis doivent verser au Trésor au titre de l'impôt (1).
-
-1)  Annexe I, art. 239 à 248.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 978
-	  - CGI 979
-	  - CGI 981
-	  - CGI 983
-	  - CGIAN1 239 A CGIAN1 248
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 986
 
 Les courtiers, les commissionnaires et toutes autres personnes faisant commerce habituel de recueillir des offres et des
@@ -47078,10 +47218,10 @@ La perception du droit s'effectue au vu d'extraits du répertoire déposés pér
 
 ###### Article 989
 
-Les mesures nécessaires pour assurer l'exécution des articles 986 à 988 et 1840 N sont déterminées par règlement
-d'administration publique (1).
+Les mesures nécessaires pour assurer l'exécution des articles 986 à 988 et 1840 N sont déterminées par décret en Conseil
+d'Etat (1).
 
-1)  Annexe I, art. 249 à 255.
+(1) Annexe I, art. 249 à 255.
 
 **Liens relatifs à cet article**
 
@@ -47091,11 +47231,21 @@ d'administration publique (1).
 	  - CGI 986
 	  - CGI 987
 	  - CGI 988
-	  - CGIAN1 249 A CGIAN1 255
+	  - CGIAN1 249
+	  - CGIAN1 250
+	  - CGIAN1 251
+	  - CGIAN1 252
+	  - CGIAN1 253
+	  - CGIAN1 254
+	  - CGIAN1 255
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°80-514 1980-07-07 ART. 1 JORF 9 JUILLET 1980
+
+	**Abrogé par**:
+
+	  - Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988, en vigueur le 1er février 1988
 
 
 ###### Article 990
@@ -49709,35 +49859,6 @@ Les dispositions des articles 1502 et 1508 leur sont applicables.
 	  - Code général des impôts, CGI. - art. 1522 (V)
 
 
-###### Article 1528
-
-Les communes peuvent établir, par les soins de l'administration municipale, une taxe de balayage qui est recouvrée comme en
-matière de contributions directes.
-
-Les conditions d'application de cette taxe sont fixées par un règlement d'administration publique qui peut prévoir plusieurs
-modes d'assiette et de perception entre lesquels les communes ont le choix.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°90-568 du 2 juillet 1990 - art. 21 (VD)
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 130 (V)
-	  - Décret n°2012-559 du 24 avril 2012 (V)
-	  - Code général des collectivités territoriales - art. L2331-3 (V)
-	  - Code général des collectivités territoriales - art. L5214-23 (V)
-	  - Code général des collectivités territoriales - art. L5215-32 (VT)
-	  - Code général des collectivités territoriales - art. L5216-8 (V)
-	  - Code général des impôts, CGI. - art. 1379 (V)
-	  - Code général des impôts, CGI. - art. 1379-0 bis (VD)
-	  - Code général des impôts, CGI. - art. 1640 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 326 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 #### CONTRIBUTIONS INDIRECTES
 
 ##### TAXES OBLIGATOIRES.
@@ -52208,26 +52329,6 @@ III  Les taux visés au II varient dans les conditions prévues à l'article 151
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 1589
-
-Un règlement d'administration publique rendu après avis du conseil général des mines détermine les modalités d'application
-des articles 1587 et 1588 (1).
-
-1)  Annexe I, art. 304.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1587
-	  - CGI 1588
-	  - CGIAN1 304
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 #### ENREGISTREMENT
 
 ##### TAXES FACULTATIVES.
@@ -53644,42 +53745,45 @@ ou au lieu de travail en ce qui concerne l'accomplissement des obligations fisca
 
 ###### Article 1649 ter
 
-1  Les produits figurant sur une liste établie par arrêté du ministre de l'économie et des finances après consultation des
-organisations professionnelles interessées, remis par un fabricant ou par un grossiste et transportés autrement que par un
+1. Les produits figurant sur une liste établie par arrêté du ministre de l'économie et des finances après consultation des
+organisations professionnelles intéressées, remis par un fabricant ou par un grossiste et transportés autrement que par un
 particulier pour les besoins de sa propre consommation, quels que soient le mode et l'auteur du transport, doivent être
 accompagnés d'un bon de remis extrait d'un carnet à souches. Ce bon de remis doit être établi préalablement au chargement des
 marchandises. Il doit être conservé par le destinataire.
 
-Un règlement d'administration publique (1) fixe les modalités d'application du présent article et notamment la teneur ainsi
-que les règles de délivrance, d'utilisation et de contrôle des carnets à souches et de leurs volants. Ce décret met en
-harmonie avec les dispositions de l'alinéa précédent les obligations législatives ou réglementaires existant en matière de
-transport de marchandises, afin d'éviter les doubles emplois.
+Un décret en Conseil d'Etat (1) fixe les modalités d'application du présent article et notamment la teneur ainsi que les
+règles de délivrance, d'utilisation et de contrôle des carnets à souches et de leurs volants. Ce décret met en harmonie avec
+les dispositions de l'alinéa précédent les obligations législatives ou réglementaires existant en matière de transport de
+marchandises, afin d'éviter les doubles emplois.
 
-2  Ces dispositions ne s'appliquent pas aux céréales, à leurs dérivés ainsi qu'aux vins et alcools, et, en général, à tous
+2. Ces dispositions ne s'appliquent pas aux céréales, à leurs dérivés ainsi qu'aux vins et alcools, et, en général, à tous
 transports de produits faisant déjà l'objet d'un titre de mouvement.
 
-1)  Annexe I, art. 310 quinquies à 310 terdecies et 325.
+(1) Annexe I, art. 310 quinquies à 310 octies et 310 decies à 310 terdecies, et livre des procédures fiscales, art. R. 24-1
+et R. 213-3.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 1649 ter A
-	  - TXT_ASSOCIE: CGI 1649 ter B
-	  - HISTO: EDITION 1979-07-01
-
 	**Cite**:
 
+	  - CGI R213-3
+	  - CGI R24-1
 	  - CGIAN1 310 decies
 	  - CGIAN1 310 duodecies
-	  - CGIAN1 310 nonies
 	  - CGIAN1 310 octies
 	  - CGIAN1 310 quinquies
 	  - CGIAN1 310 septies
 	  - CGIAN1 310 sexies
 	  - CGIAN1 310 terdecies
 	  - CGIAN1 310 undecies
-	  - CGIAN1 325
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 ART. 1 JORF 9 JUILLET 1980
+
+	**Abrogé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
 
 
 ###### Article 1649 ter A
@@ -53688,9 +53792,9 @@ Les personnes assujetties à la taxe sur la valeur ajoutée qui transforment, d�
 transport doit être accompagné d'un bon de remis, conformément aux dispositions de l'article 1649 ter, peuvent être
 astreintes à la tenue d'une comptabilité-matières qui doit être représentée à tout agent de la direction générale des impôts.
 
-Les conditions d'application des dispositions du présent article sont fixées par règlement d'administration publique (1).
+Les conditions d'application des dispositions du présent article sont fixées par décret en Conseil d'Etat (1).
 
-1)  Annexe I, art. 310 decies.
+(1) Annexe I, art. 310 decies.
 
 **Liens relatifs à cet article**
 
@@ -53699,9 +53803,13 @@ Les conditions d'application des dispositions du présent article sont fixées p
 	  - CGI 1649 ter
 	  - CGIAN1 310 decies
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°80-514 1980-07-07 ART. 1 JORF 9 JUILLET 1980
+
+	**Abrogé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
 
 
 ###### Article 1649 ter B
@@ -53710,50 +53818,34 @@ Le transporteur des produits visés à l'article 1649 ter peut être astreint à
 dont les caractéristiques seront définies par un arrêté du ministre de l'économie et des finances et du ministre de
 l'équipement et du logement.
 
-Les conditions d'application des dispositions du présent article sont fixées par règlement d'administration publique (1).
+Les conditions d'application des dispositions du présent article sont fixées par décret en Conseil d'Etat (1).
 
-1)  Annexe I, art. 310 quinquies à 310 terdecies et 325.
+(1) Annexe I, art. 310 quinquies à 310 octies et 310 decies à 310 terdecies, et livre des procédures fiscales, art. R. 24-1
+et R. 213-3.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1649 ter
+	  - CGI R213-3
+	  - CGI R24-1
 	  - CGIAN1 310 decies
 	  - CGIAN1 310 duodecies
-	  - CGIAN1 310 nonies
 	  - CGIAN1 310 octies
 	  - CGIAN1 310 quinquies
 	  - CGIAN1 310 septies
 	  - CGIAN1 310 sexies
 	  - CGIAN1 310 terdecies
 	  - CGIAN1 310 undecies
-	  - CGIAN1 325
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°80-514 1980-07-07 ART. 1 JORF 9 JUILLET 1980
 
+	**Abrogé par**:
 
-###### Article 1649 ter C
-
-Les façonniers doivent tenir un registre spécial indiquant les nom et adresse des donneurs d'ordres et mentionnant, pour
-chacun d'eux, la nature et les quantités des matières mises en oeuvre et des produits transformés livrés. Ce registre doit
-être représenté à tout agent de la direction générale des impôts.
-
-Les conditions d'application des dispositions du présent article sont fixées par règlement d'administration publique (1).
-
-1)  Annexe I, art. 310 decies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 310 decies
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
 
 
 ###### Article 1649 ter D
@@ -60738,19 +60830,21 @@ intérêts dont il s'agit constituent une charge de la succession ou de la liqui
 
 ###### Article 1739
 
-1  Sont constatées, poursuivies et sanctionnées comme en matière de contributions indirectes :
+1. Sont constatées, poursuivies (1) et sanctionnées comme en matière de contributions indirectes :
 
-1° Les infractions aux dispositions des articles 1649 ter-1 et 1649 ter A à 1649 ter C, et du règlement d'administration
-publique prévu pour leur application (1), relevées lors des contrôles matériels effectués chez les assujettis ou à la
-circulation;
+1° Les infractions aux dispositions des articles 1649 ter-1 et 1649 ter A à 1649 ter C, et du décret en Conseil d'Etat prévu
+pour leur application (2), relevées lors des contrôles matériels effectués chez les assujettis ou à la circulation ;
 
 2° Les infractions aux obligations imposées en vertu des articles 268 ter-1, 298 bis-II-2° et III, en vue du contrôle des
 opérations d'importation, d'achat, de vente, de commission et de courtage portant sur les animaux vivants de boucherie et de
 charcuterie.
 
-2  (Abrogé)
+2. (Abrogé).
 
-1)  Annexe I, art. 310 quinquies à 310 terdecies.
+(1) En ce qui concerne la constatation et la poursuite des infractions, voir livre des procédures fiscales, art. L 24 et L
+26.
+
+(2) Annexe I, art. 310 quinquies à 310 octies et 310 decies à 310 terdecies, et livre des procédures fiscales, art. R 24-1.
 
 **Liens relatifs à cet article**
 
@@ -60762,20 +60856,18 @@ charcuterie.
 	  - CGI 1649 ter C
 	  - CGI 268 ter 1
 	  - CGI 298 bis II 2°, III
-	  - CGIAN1 310 quinquies A CGIAN1 310 terdecies
+	  - CGI L24
+	  - CGI L26
+	  - CGIAN1 310 decies A CGIAN1 310 terdecies
+	  - CGIAN1 310 quinquies A CGIAN1 310 octies
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 ART. 1 JORF 9 JUILLET 1980
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R221-123 (VD)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales L24
-	  - Livre des procédures fiscales L26
 
 
 ###### Article 1740
