@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1994-09-02
+Version Consolidée au 1994-10-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
