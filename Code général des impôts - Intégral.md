@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1988-01-06
+Version Consolidée au 1988-01-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -54021,6 +54021,47 @@ effectivement versées au titre de l'assurance obligatoire. Son assiette et son 
 	**Codifié par**:
 
 	  - Décret n°90-798 1990-09-10
+
+
+##### Section IV : Taxe perçue au profit de l'Office des migrations internationales.
+
+###### Article 1635 bis
+
+Il est perçu au profit de l'office des migrations internationales l'occasion du renouvellement des autorisations de travail
+aux travailleurs étrangers, une taxe dont le montant et les modalités de perception sont fixés par décret (1).
+
+La participation de l'Etat aux frais d'introduction des familles des travailleurs étrangers et les sommes versées par les
+employeurs à l'office des migrations internationales, à titre de remboursement forfaitaire des frais d'introduction des
+travailleurs étrangers, sont réduites en fonction du rendement de ladite taxe.
+
+La taxe n'est acquittée qu'une fois par période d'un an.
+
+Les dispositions du présent article ne sont pas applicables aux réfugiés politiques placés sous la protection de
+l'organisation internationale des réfugiés, aux bénéficiaires du droit d'asile et aux apatrides.
+
+(1) Annexe III, art. 344 bis à 344 quinquies.
+
+**Nota:**
+
+(1) Voir les articles 344 bis à 344 quinquies de l'annexe III.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 344 bis à 344 quinquies
+
+	**Modifié par**:
+
+	  - Décret n°88-24 du 7 janvier 1988 - art. 1 (V) JORF 8 janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
 
 
 ##### Section V : Fonds national de garantie des calamités agricoles
