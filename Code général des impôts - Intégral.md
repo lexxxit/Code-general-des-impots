@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1988-07-15
+Version Consolidée au 1988-12-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -44070,6 +44070,44 @@ Annexe IV, art. 121 KL bis et 121 KL ter.
 
 
 ##### IV : Timbre des quittances
+
+###### Article 919
+
+Les tickets du pari mutuel sur les hippodromes et hors des hippodromes sont frappés d'un droit de timbre dont le taux est
+fixé à 3,4 % du montant des sommes engagées dans la même course (1).
+
+Les tickets du pari mutuel sur les cynodromes sont frappés, dans les mêmes conditions, du droit de timbre prévu au premier
+alinéa.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 9 (P) JORF 28 décembre 1988 en vigueur le 1er décembre 1988
+
+
+###### Article 919 A
+
+Les bulletins du loto national sont soumis à un droit de timbre fixé à 3,4 % [*taux*] du montant des sommes engagées (1).
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 9 (P) JORF 28 décembre 1988 en vigueur le 1er décembre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 9 mars 2006 - art. 1 (V)
+	  - Arrêté du 5 septembre 2008 (V)
+	  - Arrêté du 2 mars 2009 (V)
+	  - Arrêté du 12 août 2009 (V)
+	  - Arrêté du 1er juillet 2010 (V)
+	  - Arrêté du 23 décembre 2010 (V)
+	  - Arrêté du 8 juin 2011 (V)
+	  - Arrêté du 8 décembre 2011 (V)
+	  - Arrêté du 1er octobre 2012 (V)
+
 
 ###### Article 919 B
 
