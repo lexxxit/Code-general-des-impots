@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1992-12-23
+Version Consolidée au 1992-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -38702,6 +38702,113 @@ toute réquisition des fonctionnaires et magistrats désignés à l'article L. 2
 
 ##### I : Alambics
 
+##### 1° : Obligations des fabricants et des marchands
+
+###### Article 303
+
+Tout fabricant ou marchand d'appareils propres à la distillation, à la fabrication ou au repassage d'eaux-de-vie ou d'esprits
+est tenu, trois jours au moins avant le commencement de la fabrication ou du commerce, de faire la déclaration de sa
+profession à l'administration et de désigner le nombre, la nature et la capacité des appareils ou portions d'appareils qu'il
+a en sa possession dans le lieu de son domicile ou ailleurs (1).
+
+(1) Voir annexe III, art. 350 quater III 1°.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 310
+	  - HISTO: Edition du 18 août 1993
+
+	**Cite**:
+
+	  - CGIAN3 350 quater III 1°
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 5 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 51 sexies (V)
+
+
+###### Article 304
+
+Le fabricant ou marchand doit inscrire, sur un registre spécial dont la présentation peut être exigée par les agents de
+l'administration, ses fabrications et ses réceptions successives, ainsi que les noms et demeures des personnes auxquelles il
+a livré, à quelque titre que ce soit, des appareils ou portions d'appareils. Au fur et à mesure de leur achèvement ou de leur
+réception, les appareils et portions d'appareils en la possession des fabricants et marchands sont pris en compte; les
+excédents sont saisissables; les manquants non justifiés donnent lieu, pour chaque appareil ou portion d'appareil, à
+l'application des pénalités encourues.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 310
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 6 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Code général des impôts annexe 1, CGIAN1. - art. 27 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
+
+
+##### 2° : Obligations des particuliers
+
+###### Article 306
+
+Nul ne peut importer, acquérir à titre gratuit ou onéreux, louer ou faire réparer ou transformer un appareil ou des portions
+d'appareils propres à la distillation, à la fabrication ou au repassage d'eaux-de-vie ou d'esprits sans y avoir été
+préalablement et expressément autorisé par l'administration dans des conditions fixées par arrêté (1). Une justification de
+cette autorisation doit être fournie à l'importateur, au vendeur, au donateur, au loueur ou au réparateur ou transformateur.
+Tout particulier qui cède accidentellement un alambic ou une portion d'alambic est tenu de faire connaître à cette
+administration dans les quinze jours de la cession, les nom et domicile de son acheteur. 
+
+L'autorisation mentionnée ci-dessus est refusée aux personnes physiques autres que les distillateurs de profession, sauf si
+elles justifient de la nécessité d'utiliser des appareils ou portions d'appareils pour des besoins professionnels excluant la
+production d'alcools de bouche et d'eaux-de-vie.
+
+(1) Annexe IV, art. 50 A à 50 E.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI 310
+	  - HISTO: Edition du 18 août 1993
+
+	**Cite**:
+
+	  - CGIAN4 50 A A CGIAN4 50 E
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 1 et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1813 (V)
+	  - Code général des impôts, CGI. - art. 307 (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
+
+
 ##### 3° : Circulation
 
 ###### Article 307
@@ -38724,6 +38831,43 @@ qu'en vertu d'acquits-à-caution. Ces acquits sont seulement déchargés lorsque
 
 
 ##### 4° : Obligations des détenteurs
+
+###### Article 308
+
+Tout détenteur d'appareils ou de portions d'appareils propres à la distillation, à la fabrication ou au repassage d'eaux-de-
+vie ou d'esprits, est tenu de faire à l'administration, dans les cinq jours qui suivent son entrée en possession, une
+déclaration énonçant le nombre, la nature et la capacité de ses appareils ou portions d'appareils.
+
+Les appareils sont, s'il y a lieu, poinçonnés. 
+
+Les appareils doivent demeurer scellés pendant les périodes où il n'en est pas fait usage. Ils peuvent être conservés à
+domicile ou déposés dans un local agréé par l'administration (1).
+
+(1) Voir également livre des procédures fiscales, art. L27 et L29.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 3 et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1825 B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L27 (V)
+	  - Livre des procédures fiscales - art. L29 (M)
+
 
 ###### Article 309
 
@@ -38820,6 +38964,94 @@ Des décrets en Conseil d'Etat fixent les modalités d'application des dispositi
 	**Modifié par**:
 
 	  - Loi n°80-514 1980-07-07 art. 1 JORF 9 juillet 1980
+
+
+##### II : Dispositions générales
+
+##### 1° : Conditions d'exercice de la profession de distillateur
+
+###### Article 311 bis
+
+La profession de distillateur ne peut s'exercer que dans un établissement fixe. Toutefois, des dérogations individuelles
+peuvent être accordées par arrêté de l'autorité désignée par décret sur proposition de l'administration. Les bénéficiaires
+desdites dérogations sont soumis aux obligations prévues aux articles 327 à 331. Les conditions de délivrance et de retrait
+des dérogations sont fixées par arrêté de l'autorité de l'Etat désignée par décret. 
+
+(1) Annexe IV, art. 51 bis à 51 sexies.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 7 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1813 (V)
+	  - Code général des impôts, CGI. - art. 310 bis (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 sexies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 51 A (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 327 (V)
+
+
+##### 2° : Déclarations
+
+###### Article 312
+
+Doivent faire l'objet d'une déclaration à l'administration, dans un délai fixé par décret en Conseil d'Etat (1) :
+
+1° La préparation en vue de la distillation, de macérations de grains, de matières farineuses ou amylacées, la mise en
+fermentation de matières sucrées, et toute opération chimique ayant pour conséquence directe ou indirecte une production
+d'alcool ; 
+
+2° La fabrication ou le repassage d'eaux-de-vie, esprits et liquides alcooliques de toute nature, que ces opérations aient
+lieu par distillation ou par tous autres moyens. 
+
+La déclaration doit indiquer le siège de l'établissement ou de la distillerie, la nature et la provenance des produits mis en
+oeuvre. Elle est complétée au fur et à mesure de la préparation et de l'introduction de nouveaux produits.
+
+(1) Voir Annexe I, art. 57 à 63, 65, 91 et livre des procédures fiscales, art. R. 32-1 et R. 32-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN1 57, 58, 59, 60, 61
+	  - CGIAN1 62
+	  - CGIAN1 63
+	  - CGIAN1 65
+	  - CGIAN1 91
+	  - Livre des procédures fiscales R32-1, R32-2
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 2 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Code général des impôts annexe 1, CGIAN1. - art. 39 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 313 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 315 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 C (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ##### III : Compteurs
@@ -38986,6 +39218,43 @@ par les statuts.
 	  - Livre des procédures fiscales - art. L30 (V)
 
 
+##### 3° : Déclarations
+
+###### Article 321
+
+Pour les distillations faites en atelier public ou dans les locaux des associations coopératives, les bouilleurs de cru sont
+personnellement dispensés de toute déclaration; l'accomplissement de cette formalité, qui doit avoir lieu trois jours avant
+le commencement des travaux, incombe, soit au possesseur de l'alambic (professionnel ou simple particulier), soit au gérant
+de l'association. 
+
+Le transport des matières premières et des produits fabriqués s'effectue sous le lien d'acquits-à-caution ou de laissez-
+passer. 
+
+Les eaux-de-vie ne peuvent être enlevées qu'après reconnaissance du service. A défaut de reconnaissance, l'enlèvement ne peut
+être opéré avant l'heure fixée pour la fin des opérations de la journée. 
+
+Les eaux-de-vie produites en atelier public peuvent être emmagasinées en suspension des droits dans un local commun soumis
+aux visites de l'administration et sans communications intérieures avec d'autres locaux contenant de l'alcool.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 1 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
+
+
 ##### 4° : Cautionnement
 
 ###### Article 322
@@ -39061,6 +39330,37 @@ Des décrets en Conseil d'Etat déterminent les modalités d'application des dis
 
 ##### 1° : Permis de circulation
 
+###### Article 327
+
+Tout alambic utilisé par un loueur ambulant ne peut être mis en circulation ni stationner sur la voie publique, dans une cour
+non fermée ou sur un emplacement non clos n'appartenant pas au possesseur de l'appareil, sans que la déclaration en ait été
+faite à l'administration quarante huit heures d'avance et sans que le conducteur soit muni d'un permis de circulation. 
+
+La déclaration et le permis de circulation doivent indiquer le numéro de poinçonnement de l'alambic, sa capacité, le jour où
+commencera et celui où finira sa mise en circulation, les communes dans lesquelles il doit être conduit.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 2 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
+	  - HISTO: Edition du 18 août 1993
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1825 C (V)
+	  - Code général des impôts, CGI. - art. 311 bis (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
+
+
 ###### Article 328
 
 Le permis de circulation est valable pour un mois au plus et pour les communes comprises dans la circonscription du poste
@@ -39079,7 +39379,66 @@ d'exercice d'où il émane. En cas de passage dans une autre circonscription, il
 	  - Livre des procédures fiscales - art. L24 (M)
 
 
+##### 2° : Déclarations
+
+###### Article 329
+
+Dès son arrivée dans une commune, tout loueur d'alambic ambulant est tenu de déclarer à l'administration le nom et le
+domicile des personnes pour le compte desquelles l'appareil doit être successivement utilisé, ainsi que la date à laquelle
+commencent les opérations chez chacune d'elles. Ces indications peuvent, pendant la durée du séjour du loueur dans la
+commune, être modifiées par des déclarations nouvelles.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 2 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Décret n°2013-1182 du 18 décembre 2013 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
 ##### 3° : Registre journal
+
+###### Article 330
+
+Le loueur d'alambic ambulant est tenu de consigner sur un registre journal dont la remise lui est faite par l'administration,
+le jour, l'heure et le lieu où commence et s'achève chacune de ses distillations, les quantités et espèces de matières mises
+en oeuvre et, dès l'achèvement de chaque chauffe ou repasse, le volume et le titre alcoométrique volumique des produits
+obtenus.
+
+En cas d'emploi d'alambics à marche continue, l'indication du volume et du titre alcoométrique volumique des produits obtenus
+a lieu à chaque interruption des travaux, à chaque visite des employés, ou, à défaut, en fin de journée. 
+
+Le loueur doit représenter le registre à toute réquisition des agents de l'administration, soit à son domicile ordinaire ou
+temporaire, soit en tous autres lieux où il se livre à l'exercice de sa profession.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 8 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 331 (V)
+
 
 ###### Article 331
 
@@ -39229,6 +39588,47 @@ des procédures fiscales (1).
 
 ##### 1° : Mistelles, vermouths, vins de liqueur et produits similaires
 
+###### Article 343
+
+Toute fabrication de mistelles, vermouths, vins de liqueur ou apéritifs à base de vin, de cidre ou de poiré, effectuée en vue
+de la vente par une personne autre qu'un producteur mettant exclusivement en oeuvre des produits de sa récolte, doit être
+précédée d'une déclaration faite à l'administration, quatre heures avant le début des opérations dans les villes et douze
+heures dans les campagnes. Cette déclaration indique le volume et le titre alcoométrique volumique des vins, cidres ou poirés
+à viner et de l'alcool à ajouter ; l'alcool pur contenu naturellement dans les vins, cidres ou poirés est soumis à la prise
+en charge ou au paiement des droits propres à l'alcool. 
+
+Les préparateurs doivent s'engager à rembourser à l'administration le montant des frais de surveillance. 
+
+Les contestations qui peuvent s'élever sur la nature des produits visés au présent article sont déférés à la commission de
+conciliation et d'expertise douanière chargée de statuer sur les contestations portant sur l'espèce, l'origine ou la valeur
+des marchandises déclarées dans les bureaux de douane. 
+
+(1) Voir annexe III art. 350 quinquies 9°.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 350 quinquies 9°
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 3 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 C (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
 ###### Article 344
 
 Il est accordé aux fabricants de mistelles, sur les alcools qu'ils emploient au mutage, pour couvrir les déchets de
@@ -39252,6 +39652,33 @@ Un décret détermine les conditions d'application du présent article (1).
 
 	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
 	  - HISTO: Edition du 31 mars 2000
+
+	**Abrogé par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
+
+
+##### 3° : Liqueurs
+
+###### Article 345
+
+Nul ne peut exercer la profession de fabricant de liqueurs sans en avoir fait préalablement la déclaration à l'administration
+et sans avoir pris la position fiscale de marchand en gros ou de débitant de boissons.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 3 JORF 28 février 1993 en vigueur le 31 décembre 1992
 
 	**Abrogé par**:
 
@@ -39694,6 +40121,71 @@ Des décrets déterminent les modalités d'application du présent article et de
 	  - CGI 413
 
 
+##### 1° : Fabrication
+
+###### Article 413
+
+Toute personne fabriquant, dans la même commune ou dans deux communes limitrophes, des vins mousseux à la fois par la
+fermentation en bouteilles, par le procédé de cuve close, par le procédé de gazéification ou seulement par deux de ces
+procédés, est tenue de souscrire à l'administration une déclaration de chacune de ces fabrications. 
+
+Tout producteur de vins mousseux n'utilisant qu'un seul de ces procédés est dispensé de la déclaration de fabrication. 
+
+Les récoltants doivent souscrire cette déclaration pour toutes les fabrications de vins mousseux effectuées, dans les mêmes
+conditions, à l'intérieur d'un périmètre comprenant le canton de récolte des vins et les cantons limitrophes de ce canton. 
+
+Les titres de mouvement délivrés pour accompagner les vins mentionnent, sur les déclarations des expéditeurs, la nature du
+procédé de fabrication employé.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 2 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+	**Abrogé par**:
+
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 63
+
+
+##### 2° : Appareils à gazéifier
+
+###### Article 415
+
+Les fabricants, importateurs et commerçants d'appareils ou parties d'appareils propres à la fabrication de vins mousseux en
+cuve close ou gazéifiés sont astreints à la tenue d'un répertoire indiquant les dates des livraisons et les noms et adresses
+des destinataires. 
+
+Tout détenteur d'appareils ou parties d'appareils est tenu de faire à l'administration, dans les cinq jours qui suivent son
+entrée en possession, une déclaration énonçant le nombre, la nature et la capacité de ces appareils ou portions d'appareils. 
+
+Les services de l'administration qualifiés pour assurer l'application du présent article sont désignés par décret.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 9 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Abrogé par**:
+
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 63
+
+
 ##### IV : Vins doux naturels
 
 ###### Article 416
@@ -39731,6 +40223,33 @@ récoltées les vendanges.
 
 	  - Code général des impôts, CGI. - art. 417 bis (M)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 C (V)
+
+
+##### V : Sucrages
+
+##### 3° : Mesures d'application
+
+###### Article 427
+
+Des décrets règlent les conditions d'application des articles 422 et 423 ; l'administration est chargée du contrôle de leur
+exécution.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 1 et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1247 du 7 octobre 2015 - art. 4
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 422
 
 
 ##### VI : Piquettes et vins de sucre
@@ -39875,11 +40394,85 @@ compte.
 	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 
+##### 3° : Exonération et exemptions
+
+###### Article 441
+
+Sont exemptés du droit de circulation :
+
+1° Les vins, cidres et poirés qu'un récoltant transporte de son pressoir ou d'un pressoir public à ses caves ou celliers ou
+de l'une à l'autre de ses caves, dans l'étendue du canton de récolte et des cantons limitrophes ou hors de ces limites
+territoriales s'il s'agit d'un changement de domicile; 
+
+2° Les boissons de même espèce qu'un colon partiaire, fermier ou preneur à bail emphytéotique à rente remet au propriétaire
+ou reçoit de lui dans les mêmes limites en vertu de baux authentiques ou d'usages notoires. 
+
+Dans les cas prévus aux deux alinéas précédents, les intéressés sont admis à détacher eux-mêmes des laissez-passer d'un
+registre à souche mis à leur disposition et contrôlé par les agents de l'administration. Pour jouir de l'exemption des
+droits, l'expéditeur est tenu, lors du premier envoi après la récolte, de justifier de ses droits à cette exonération et,
+s'il n'a pas souscrit de déclaration à la mairie, de déclarer la quantité totale par lui obtenue. Il ne peut plus lui être
+délivré de laissez-passer lorsque les expéditions faites depuis la récolte ont épuisé cette quantité; 
+
+3° Les boissons de leur récolte que les propriétaires font transporter de chez eux hors des limites fixées par le 1°, pourvu
+qu'ils se munissent d'un acquit-à-caution et se soumettent, au lieu de destination, à toutes les obligations imposées aux
+marchands en gros; 
+
+4° Dans les conditions fixées par décrets, les quantités de vin disparues au cours d'opérations de concentration par le froid
+régulièrement déclarées (1).
+
+(1) Annexe III, art. 172 à 178.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 172 A CGIAN3 178
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 12 1° et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 302 D (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H ter (V)
+
+
 ##### Section III : Circulation
 
 ##### I : Dispositions communes
 
 ##### 1° : Titres de mouvement
+
+###### Article 443
+
+Sauf le cas où les boissons sont contenues dans des récipients revêtus de capsules, empreintes ou vignettes représentatives
+des droits indirects sur l'alcool, le vin, le cidre, aucun enlèvement, déplacement ou transport d'alcool, vins, cidres,
+poirés, hydromels ou jus de raisin, de pommes ou de poires concentrés ou non, ne peut être fait sans déclaration préalable de
+l'expéditeur ou de l'acheteur et sans que le transporteur soit muni d'un titre de mouvement délivré par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 13 1° et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+
 
 ###### Article 445 A
 
@@ -39994,6 +40587,37 @@ toute déclaration ayant pour but de simuler un enlèvement de boissons non effe
 
 
 
+##### 3° : Boissons warrantées
+
+###### Article 450
+
+Les porteurs de warrants agricoles sur des alcools ou des vins peuvent demander aux agents de l'administration de n'accorder
+qu'avec leur agrément des acquits-à-caution ou des congés permettant le déplacement de ces boissons. 
+
+Si les warrants ne sont pas remboursés à l'échéance, les porteurs peuvent, en outre, demander eux-mêmes les titres de
+mouvement nécessaires à l'enlèvement des produits warrantés.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 1 et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 18 août 1993
+
+
 ##### 4° : Obligations des transporteurs
 
 ###### Article 451
@@ -40009,6 +40633,33 @@ jusqu'à la gare du chemin de fer ou jusqu'au point de départ des véhicules ou
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 I (V)
+
+
+###### Article 454
+
+Toute opération nécessaire à la conservation des boissons (transvasement, ouillage ou rabattement) est permise en cours de
+transport, mais seulement en présence des agents de l'administration qui en font mention au verso des expéditions. Si un
+accident de force majeure nécessite le prompt déchargement d'un véhicule ou d'un bateau ou le transvasement immédiat des
+liquides, ces opérations peuvent avoir lieu sans déclaration préalable, à charge par le conducteur de faire constater
+l'accident par les agents ou, à leur défaut, par le maire ou l'adjoint de la commune dont la mairie est la plus proche.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 1 et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 I (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ##### 5° : Tolérance sur déclarations - Creux de route
@@ -40186,19 +40837,26 @@ hectolitres de pommes ou de poires.
 
 ###### Article 468
 
-Tout expéditeur de marcs de raisins, de lies sèches et de levures alcooliques est tenu de se munir, au bureau de déclarations
-de la direction générale des impôts, d'un laissez-passer indiquant le poids des produits expédiés et l'adresse du
-destinataire.
+Tout expéditeur de marcs de raisins, de lies sèches et de levures alcooliques est tenu de se munir, auprès de
+l'administration, d'un laissez-passer indiquant le poids des produits expédiés et l'adresse du destinataire.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 15 1° et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 nonies (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### V : Titres de mouvement spéciaux
@@ -40227,7 +40885,106 @@ Ils mentionnent la nature et le lieu d'origine des matières premières mises en
 	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 
+###### Article 473
+
+Peuvent seuls obtenir la délivrance de titres de mouvement sur papier blanc, modèle 1909 :
+
+a Les bouilleurs ou distillateurs qui produisent sous le contrôle de l'administration les eaux-de-vie à appellation d'origine
+contrôlée ou réglementée visées à l'article 472, premier alinéa, et qui ne reçoivent du dehors aucune autre espèce de
+spiritueux; 
+
+b Les négociants détenant ces mêmes eaux-de-vie, à la condition que celles-ci aient été emmagasinées distinctement et
+qu'elles soient suivies, à la demande des intéressés, à un compte spécial pour leur volume et l'alcool pur qu'elles
+représentent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 472
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 4 1° et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Abrogé par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
+
+
 ##### 4° : Eaux-de-vie de Cognac et d'Armagnac.
+
+###### Article 474
+
+Peuvent seuls obtenir la délivrance de titres de mouvement sur papier jaune d'or :
+
+a Les bouilleurs ou distillateurs qui, ne recevant du dehors aucune autre espèce de spiritueux, produisent, sous le contrôle
+de l'administration, des eaux-de-vie ayant droit à l'appellation d'origine contrôlée Cognac ou Armagnac ; RL>    b Les
+négociants détenant ces mêmes eaux-de-vie, à la condition que celles-ci soient placées dans un magasin séparé par la voie
+publique de tout local renfermant des spiritueux de toute autre origine.
+
+L'inscription d'une sous-appellation sur les titres de mouvement jaune d'or, avec garantie de l'administration, est
+subordonnée à l'emmagasinement dans des conditions identiques des eaux-de-vie pouvant prétendre à cette sous-appellation.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 4 1° et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Abrogé par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
+
+
+###### Article 475
+
+Les titres de mouvement sur papier jaune d'or ne peuvent, en aucun cas, être délivrés pour les eaux-de-vie provenant de la
+mise en oeuvre de vins chaptalisés. 
+
+La délivrance aux bouilleurs de profession de l'acquit jaune d'or est subordonnée à la justification que les producteurs des
+vins mis en oeuvre ne se sont livrés à aucune opération de sucrage en première cuvée. Cette justification est fournie sous
+forme d'attestations délivrées par l'administration du lieu de production en même temps que le titre de mouvement applicable
+aux vins. Ces attestations sont représentées par le bouilleur avec les acquits-à-caution ayant servi à légitimer le
+transport.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 1 et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Abrogé par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
+
 
 ###### Article 476
 
@@ -40352,6 +41109,42 @@ Cette décision ne peut être prise que sur la proposition de l'Institut nationa
 	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 
+###### Article 481
+
+Les vins de liqueur détenus par des négociants et les eaux-de-vie existant dans les chais des négociants et des producteurs
+lors de l'institution d'une appellation d'origine contrôlée ou réglementée peuvent, s'ils remplissent les conditions requises
+pour bénéficier de ladite appellation, être admis à circuler, respectivement, sous le couvert de titres de mouvement orange
+ou de titres sur papier blanc modèle 1909. 
+
+Pour bénéficier de cette mesure, les intéressés doivent déclarer à l'administration dans les dix jours suivant la publication
+du décret relatif à l'appellation, les quantités de vins de liqueur ou d'eaux-de-vie pour lesquelles ils revendiquent le
+droit aux titres de mouvement spéciaux. Le contrôle qualitatif des produits déclarés est assuré par une commission d'experts
+dont la composition et le fonctionnement sont réglés par décret rendu après avis de l'Institut national des appellations
+d'origine. 
+
+Les mêmes dispositions s'appliquent aux vins détenus par les négociants et admis au bénéfice des titres de mouvement sur
+papier vert.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 2 et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+
+	**Abrogé par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
+
+
 ##### Section IV : Commerce
 
 ##### I : Dispositions générales
@@ -40368,6 +41161,31 @@ boissons.
 	**Liens**:
 
 	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+
+
+##### 2° : Vins, cidres, poirés et hydromels
+
+###### Article 483
+
+Toute personne autre qu'un propriétaire récoltant qui, en vue de la vente en gros ou en détail, fabrique des vins, cidres,
+poirés ou hydromels est tenue d'en faire préalablement la déclaration à l'administration et de se soumettre à toutes les
+obligations imposées aux marchands en gros ou aux débitants. Elle doit, de plus, acquitter les droits immédiatement après
+chaque fabrication si la boisson est destinée à la vente au détail. Les vendanges, fruits à cidre ou à poiré, expédiés en vue
+de ces fabrications peuvent être reçus sous acquits-à-caution par les marchands en gros et les distillateurs.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 3 et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
 
 
 ##### II : Marchands en gros
@@ -40698,6 +41516,37 @@ de ce commerce, sauf si la quantité restante n'excède pas celle reconnue néce
 
 ##### III : Débitants
 
+##### 1 : Débitants récoltants
+
+###### Article 501
+
+Tout propriétaire récoltant qui désire vendre au détail les vins, cidres, poirés et hydromels provenant de sa récolte est
+tenu d'en faire préalablement la déclaration à l'administration, d'acquitter les droits sur les boissons destinées à la vente
+et de se soumettre à toutes les obligations imposées aux débitants.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 2 et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Abrogé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 52
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
 ##### 2 : Autres débitants
 
 ##### 2° : Communications intérieures et recel
@@ -40787,6 +41636,61 @@ surveillance du ministre chargé des finances, soit dans l'établissement même 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 302 D (V)
+
+
+###### Article 511
+
+Les personnes qui veulent se livrer au commerce des alcools dénaturés suivant le procédé général, ou faire usage de ces
+alcools pour les besoins de leur industrie doivent en faire la déclaration à l'administration.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 2 JORF 28 février 1993 en vigueur le 31 décembre 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+
+	**Cité par**:
+
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 7
+	  - Code général des impôts annexe 1, CGIAN1. - art. 165 (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
+	  - Livre des procédures fiscales - art. R*26-1 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2001-766 du 29 août 2001 - art. 15 () JORF 31 août 2001
+
+
+###### Article 511 bis
+
+Lorsque la franchise des droits sur un produit soumis à l'impôt est subordonnée à une dénaturation préalable, l'emploi de
+nouveaux procédés de dénaturation est autorisé par l'autorité administrative désignée par décret.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2002
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 17 1° et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2001-766 du 29 août 2001 - art. 15 () JORF 31 août 2001
 
 
 ##### 2° : Mesures d'application
@@ -41030,6 +41934,39 @@ Réunion.
 
 
 #### Chapitre III : Droits divers
+
+##### Section V : Droits de recherche.
+
+###### Article 560
+
+La délivrance, le visa d'attestations, certificats ou autres pièces analogues par les agents de l'administration donnent lieu
+au versement, par les personnes, services ou organismes intéressés, d'un droit de 0,17 F par attestation, certificat ou
+pièce, augmenté de 0,14 F par année en cas de recherche. 
+
+Toute opération de perception, de contrôle ou autre effectuée par les agents de l'administration pour le compte ou au profit
+de services, organismes, offices ou régies autres que les administrations de l'Etat, des départements ou des communes
+entraîne, sous réserve de dispositions spéciales, le paiement par lesdits services, organismes, offices ou régies, d'une
+somme de 0,17 F par opération. Quand les opérations visées au présent article sont continues ou revêtent un caractère
+permanent ou semi-permanent, des forfaits peuvent être consentis par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2002
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 1 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Abrogé par**:
+
+	  - Loi - art. 60 (V) JORF 29 décembre 2001
+
 
 ##### Section VII : Impôts spéciaux sur les débits de boissons.
 
@@ -41288,6 +42225,37 @@ législatifs ou réglementaires en vigueur.
 
 ##### II : Certificats de décharge.
 
+###### Article 616
+
+Les acquits-à-caution applicables à des marchandises enlevées pour l'intérieur ne sont déchargés qu'après la prise en charge
+des quantités y énoncées, si le destinataire est assujetti aux exercices des agents de l'administration, ou le paiement du
+droit dans le cas où il est dû à l'arrivée, ou enfin la reconnaissance matérielle des marchandises, s'il n'y a ni prise en
+charge ni acquittement des droits. 
+
+Les acquits-à-caution délivrés pour accompagner des marchandises à destination de l'étranger sont déchargés après la sortie
+du territoire ou l'embarquement et après accomplissement, s'il y a lieu, des formalités prévues dans les conventions avec les
+nations voisines.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 1 et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+
+	**Abrogé par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
+
+
 ###### Article 617
 
 Lorsque les acquits-à-caution ont été revêtus de certificats de décharge en bonne forme ou, en cas de perte de ces
@@ -41345,7 +42313,68 @@ Les certificats de décharge, signés par un ou plusieurs agents, sont enregistr
 	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 
+##### III : Refus du certificat de décharge.
+
+###### Article 620
+
+Les agents de l'administration ne peuvent délivrer de certificats de décharge pour les marchandises qui ne sont pas
+représentées, ou qui ne le sont qu'après l'expiration du terme fixé par l'acquit-à-caution, ni pour celles qui ne sont pas de
+l'espèce énoncée dans l'acquit-à-caution ou pour lesquelles les scellements prescrits par la loi ne sont pas intacts.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 1 et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Abrogé par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
+
+
 ##### IV : Prescriptions.
+
+###### Article 621
+
+Si les certificats de décharge ne sont pas rapportés dans les délais fixés par la soumission et s'il n'y a pas eu
+consignation au départ, l'administration délivre un avis de mise en recouvrement contre les soumissionnaires et leurs
+cautions pour le paiement des droits prévus à l'engagement. L'action de l'administration doit être intentée, sous peine de
+déchéance :
+
+1° S'il s'agit d'un acquit-à-caution recommandé en matière de spiritueux, dans le délai de quarante jours après l'expiration
+du délai fixé pour le transport; 
+
+2° S'il s'agit d'un acquit-à-caution non recommandé, dans le délai de six mois après l'expiration du délai fixé pour le
+transport.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 19 1° et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Abrogé par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
+
 
 ###### Article 622
 
@@ -41403,7 +42432,97 @@ lois et règlements en matière de contributions indirectes. Cette action est ex
 	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 
+##### Section III : Registres 
+
+###### Article 625
+
+Les registres portatifs tenus par les agents de l'administration sont cotés et paraphés par les juges des tribunaux
+d'instance; les registres de perception ou de déclaration et tous autres pouvant servir à établir les droits du Trésor et
+ceux des redevables sont cotés et paraphés par un des fonctionnaires publics que l'autorité administrative désigne à cet
+effet.
+
+Les actes inscrits par les agents, au cours de leurs exercices, sur les registres portatifs font foi en justice jusqu'à
+inscription de faux.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 20 1° et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
+
+
+##### Section IV : Entreprises de transport
+
+###### Article 626
+
+Les compagnies de chemins de fer, de même que toutes les entreprises ou compagnies de transport, quelle que soit la voie
+empruntée, doivent déclarer au service de l'administration de leur circonscription les lieux de dépôt des objets dont le
+transport est soumis à l'impôt.
+
+(1) Voir également livre des procédures fiscales, art. L26 et L90.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L26
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 2 1° et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1247 du 7 octobre 2015 - art. 4
+
+
 ##### Section V : Modification des tarifs d'impôts indirects
+
+###### Article 627
+
+Des arrêtés ministériels peuvent modifier les tarifs des impôts indirects et des droits intérieurs de consommation perçus par
+l'administration, afin de maintenir le rapport qui existait, à la date à laquelle ont été fixés les tarifs en vigueur, entre
+les prix des produits et le montant de l'impôt applicable à ces produits.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 21 et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 628 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
 
 ###### Article 628
 
@@ -41418,6 +42537,54 @@ Toute infraction est relevée par procès-verbal.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 627 (V)
+
+
+##### Section VIII : Frais de surveillance
+
+###### Article 631
+
+Les frais d'exercice que les redevables sont tenus de rembourser à l'administration, en vertu de dispositions législatives ou
+réglementaires, consistent dans le versement du traitement brut moyen du grade auquel appartiennent les agents attachés en
+permanence à l'établissement, majoré de 20 % à titre de frais généraux et des différentes indemnités effectivement touchées
+par ces agents.
+
+La rémunération servant de base au calcul des frais de surveillance est celle d'un fonctionnaire ayant deux enfants à charge
+dans la localité où se trouve situé l'établissement. Ces frais sont payables par trimestre indivisible et d'avance.
+
+Dans le cas de surveillance intermittente, la somme à rembourser est calculée, pour chaque heure de vacation, à raison des
+émoluments déterminés comme il est dit ci-dessus, selon des modalités fixées par décret (1). Toute fraction inférieure à
+trente minutes est compté pour une demi-heure. Le remboursement est exigible après chaque opération.
+
+La perception des frais d'exercice décomptés dans les conditions indiquées ci-dessus peut être étendue par décret aux
+vacations effectuées en vue d'accorder les remboursements ou décharges de droits ou tous autres avantages.
+
+(1) Voir annexe II, art. 287.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 287
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 22 1° et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1247 du 7 octobre 2015 - art. 4
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 287 (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 duodecies (P)
 
 
 ##### Section X : Machines à timbrer
@@ -41441,379 +42608,32 @@ empreintes utilisées.
 
 ##### A : Production
 
-##### I : Alambics
-
-##### Obligations des fabricants et des marchands.
-
-###### Article 303
-
-Tout fabricant ou marchand d'appareils propres à la distillation, à la fabrication ou au repassage d'eaux-de-vie ou d'esprits
-est tenu, trois jours au moins avant le commencement de la fabrication ou du commerce [*délai minimum*], de faire la
-déclaration de sa profession au bureau de déclarations de la direction générale des impôts et de désigner le nombre, la
-nature et la capacité des appareils ou portions d'appareils qu'il a en sa possession dans le lieu de son domicile ou
-ailleurs.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 310
-	  - HISTO: EDITION 1979-07-01
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 51 sexies (V)
-
-
-###### Article 304
-
-Le fabricant ou marchand doit inscrire, sur un registre spécial dont la présentation peut être exigée par les agents des
-impôts, ses fabrications et ses réceptions successives, ainsi que les noms et demeures des personnes auxquelles il a livré, à
-quelque titre que ce soit, des appareils ou portions d'appareils. Au fur et à mesure de leur achèvement ou de leur réception,
-les appareils et portions d'appareils en la possession des fabricants et marchands sont pris en compte; les excédents sont
-saisissables; les manquants non justifiés donnent lieu, pour chaque appareil ou portion d'appareil, à l'application des
-pénalités encourues.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 310
-
-	**Cité par**:
-
-	  - Code général des impôts annexe 1, CGIAN1. - art. 27 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
-
-
-##### Obligations des particuliers.
-
-###### Article 306
-
-Nul ne peut importer, acquérir à titre gratuit ou onéreux, louer ou faire réparer ou transformer un appareil ou des portions
-d'appareils propres à la distillation, à la fabrication ou au repassage d'eaux-de-vie ou d'esprits sans y avoir été
-préalablement et expressément autorisé par le service des impôts dans des conditions fixées par arrêté (1). Une justification
-de cette autorisation doit être fournie à l'importateur, au vendeur, au donateur, au loueur ou au réparateur ou
-transformateur. Tout particulier qui cède accidentellement un alambic ou une portion d'alambic est tenu de faire connaître au
-bureau de déclarations de la direction générale des impôts, dans les quinze jours de la cession [*délai*], les nom et
-domicile de son acheteur.
-
-L'autorisation mentionnée ci-dessus est refusée aux personnes physiques autres que les distillateurs de profession, sauf si
-elles justifient de la nécessité d'utiliser des appareils ou portions d'appareils pour des besoins professionnels excluant la
-production d'alcools de bouche et d'eaux-de-vie.
-
-1)  Annexe IV, art. 50 A à 50 E.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 310
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - CGIAN4 50 A A CGIAN4 50 E
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 1813 (V)
-	  - Code général des impôts, CGI. - art. 307 (VD)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
-
-
-##### Obligations des détenteurs.
-
-###### Article 308
-
-Tout détenteur d'appareils ou de portions d'appareils propres à la distillation, à la fabrication ou au repassage d'eaux-de-
-vie ou d'esprits, est tenu de faire au bureau de déclarations de la direction générale des impôts, dans les cinq jours qui
-suivent son entrée en possession [*délai*], une déclaration énonçant le nombre, la nature et la capacité de ses appareils ou
-portions d'appareils [*mentions*].
-
-Les appareils sont, s'il y a lieu, poinçonnés.
-
-Les appareils doivent demeurer scellés pendant les périodes où il n'en est pas fait usage. Ils peuvent être conservés à
-domicile ou déposés dans un local agréé par l'administration (1).
-
-(1) Voir également livre des procédures fiscales, art. L27 et L29.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L27
-	  - CGI L29
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 1825 B (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
-
-
-##### II : Dispositions générales
-
-##### Conditions d'exercice de la profession de distillateur.
-
-###### Article 311 bis
-
-La profession de distillateur ne peut s'exercer que dans un établissement fixe. Toutefois, des dérogations individuelles
-peuvent être accordées par arrêté du préfet sur proposition du directeur des services fiscaux. Les bénéficiaires desdites
-dérogations sont soumis aux obligations prévues aux articles 327 à 331. Les conditions de délivrance et de retrait des
-dérogations sont fixées par arrêté du ministre de l'économie et des finances (1).
-
-1) Annexe IV, art. 51 bis à 51 sexies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 327
-	  - CGI 328
-	  - CGI 329
-	  - CGI 330
-	  - CGI 331
-	  - CGIAN4 51 bis
-	  - CGIAN4 51 quater
-	  - CGIAN4 51 quinquies
-	  - CGIAN4 51 sexies
-	  - CGIAN4 51 ter
-
-	**Modifié par**:
-
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 1813 (V)
-	  - Code général des impôts, CGI. - art. 310 bis (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 sexies (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 51 A (V)
-
-
-##### Déclarations.
-
-###### Article 312
-
-Doivent faire l'objet d'une déclaration au bureau de déclarations de la direction générale des impôts [*lieu*, dans un délai
-fixé par décret en Conseil d'Etat (1) :
-
-1° La préparation en vue de la distillation, de macérations de grains, de matières farineuses ou amylacées, la mise en
-fermentation de matières sucrées, et toute opération chimique ayant pour conséquence directe ou indirecte une production
-d'alcool ;
-
-2° La fabrication ou le repassage d'eaux-de-vie, esprits et liquides alcooliques de toute nature, que ces opérations aient
-lieu par distillation ou par tous autres moyens.
-
-La déclaration doit indiquer le siège de l'établissement ou de la distillerie, la nature et la provenance des produits mis en
-oeuvre *]mentions*. Elle est complétée au fur et à mesure de la préparation et de l'introduction de nouveaux produits.
-
-(1) Voir Annexe I, art. 57 à 63, 65, 91 et livre des procédures fiscales, art. R. 32-1 et R. 32-2.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI R32-1
-	  - CGI R32-2
-	  - CGIAN1 57
-	  - CGIAN1 58
-	  - CGIAN1 59
-	  - CGIAN1 60
-	  - CGIAN1 61
-	  - CGIAN1 62
-	  - CGIAN1 63
-	  - CGIAN1 65
-	  - CGIAN1 91
-
-	**Modifié par**:
-
-	  - Loi n°80-514 1980-07-07 ART. 1 JORF 9 JUILLET 1980
-
-	**Cité par**:
-
-	  - Code général des impôts annexe 1, CGIAN1. - art. 39 (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 313 (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 315 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 C (V)
-
-
 ##### IV : Bouilleurs de cru
 
-##### Lieux de distillation.
+##### 2° : Lieux de distillation.
 
 ###### Article 319
 
 A la demande des conseils municipaux ou des syndicats agricoles et de bouilleurs, il est ouvert au moins un atelier public de
-distillation par commune ou hameau [*nombre*], sur des emplacements ou locaux publics que le service des impôts désigne,
-après avis du conseil municipal, et où les périodes et les heures de travail sont fixées par ce service.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### Déclarations.
-
-###### Article 321
-
-Pour les distillations faites en atelier public ou dans les locaux des associations coopératives, les bouilleurs de cru sont
-personnellement dispensés de toute déclaration; l'accomplissement de cette formalité, qui doit avoir lieu trois jours avant
-le commencement des travaux [*délai*], incombe, soit au possesseur de l'alambic (professionnel ou simple particulier), soit
-au gérant de l'association.
-
-Le transport des matières premières et des produits fabriqués s'effectue sous le lien d'acquits-à-caution ou de laissez-
-passer.
-
-Les eaux-de-vie ne peuvent être enlevées qu'après reconnaissance du service. A défaut de reconnaissance, l'enlèvement ne peut
-être opéré avant l'heure fixée pour la fin des opérations de la journée.
-
-Les eaux-de-vie produites en atelier public peuvent être emmagasinées en suspension des droits dans un local commun soumis
-aux visites du service des impôts et sans communications intérieures avec d'autres locaux contenant de l'alcool.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### V : Bouilleurs ambulants
-
-##### Permis de circulation.
-
-###### Article 327
-
-Tout alambic utilisé par un loueur ambulant ne peut être mis en circulation ni stationner sur la voie publique, dans une cour
-non fermée ou sur un emplacement non clos n'appartenant pas au possesseur de l'appareil, sans que la déclaration en ait été
-faite au bureau de déclarations de la direction générale des impôts quarante huit heures d'avance [*délai*] et sans que le
-conducteur soit muni d'un permis de circulation.
-
-La déclaration et le permis de circulation doivent indiquer le numéro de poinçonnement de l'alambic, sa capacité, le jour où
-commencera et celui où finira sa mise en circulation, les communes dans lesquelles il doit être conduit.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 1825 C (V)
-	  - Code général des impôts, CGI. - art. 311 bis (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### Déclarations.
-
-###### Article 329
-
-Dès son arrivée dans une commune, tout loueur d'alambic ambulant est tenu de déclarer au bureau de déclarations de la
-direction générale des impôts le nom et le domicile des personnes pour le compte desquelles l'appareil doit être
-successivement utilisé, ainsi que la date à laquelle commencent les opérations chez chacune d'elles. Ces indications peuvent,
-pendant la durée du séjour du loueur dans la commune, être modifiées par des déclarations nouvelles.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2013-1182 du 18 décembre 2013 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### Registre journal.
-
-###### Article 330
-
-Le loueur d'alambic ambulant est tenu de consigner sur un registre journal dont la remise lui est faite par l'administration,
-le jour, l'heure et le lieu où commence et s'achève chacune de ses distillations, les quantités et espèces de matières mises
-en oeuvre et, dès l'achèvement de chaque chauffe ou repasse, le volume et le titre alcoométrique volumique [*degré*] des
-produits obtenus [*mentions obligatoires*].
-
-En cas d'emploi d'alambics à marche continue, l'indication du volume et du titre alcoométrique volumique des produits obtenus
-a lieu à chaque interruption des travaux, à chaque visite des employés, ou, à défaut, en fin de journée.
-
-Le loueur doit représenter le registre à toute réquisition des agents des impôts, soit à son domicile ordinaire ou
-temporaire, soit en tous autres lieux où il se livre à l'exercice de sa profession.
+distillation par commune ou hameau, sur des emplacements ou locaux publics que l'administration désigne, après avis du
+conseil municipal, et où les périodes et les heures de travail sont fixées par cette administration.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°79-200 1979-03-05 ART. 3 JORF 11 MARS 1979
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°93-266 du 26 février 1993 - art. 1 (V) JORF 28 février 1993 en vigueur le 31 décembre 1992
 
 	**Cité par**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 331 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ##### VII : Fabrication de produits divers
-
-##### Mistelles, vermouths, vins de liqueur et produits similaires.
-
-###### Article 343
-
-Toute fabrication de mistelles, vermouths, vins de liqueur ou apéritifs à base de vin, de cidre ou de poiré, effectuée en vue
-de la vente par une personne autre qu'un producteur mettant exclusivement en oeuvre des produits de sa récolte, doit être
-précédée d'une déclaration faite au bureau de déclarations de la direction générale des impôts [*lieu*], quatre heures avant
-le début des opérations dans les villes et douze heures dans les campagnes [*délai*]. Cette déclaration indique le volume et
-le titre alcoométrique volumique [*degré*] des vins, cidres ou poirés à viner et de l'alcool à ajouter [*mentions
-obligatoires*] ; l'alcool pur contenu naturellement dans les vins, cidres ou poirés est soumis à la prise en charge ou au
-paiement des droits propres à l'alcool.
-
-Les préparateurs doivent s'engager à rembourser à l'administration le montant des frais de surveillance.
-
-Les contestations qui peuvent s'élever sur la nature des produits visés au présent article sont déférés à la commission de
-conciliation et d'expertise douanière [*autorité compétente*] chargée de statuer sur les contestations portant sur l'espèce,
-l'origine ou la valeur des marchandises déclarées dans les bureaux de douane.
-
-En la circonstance, le représentant du directeur général des douanes et droits indirects est remplacé par un représentant du
-directeur général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°79-200 1979-03-05 ART. 3 JORF 11 MARS 1979
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 A (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 C (V)
-
 
 ##### Produits soumis au droit de fabrication.
 
@@ -41821,21 +42641,6 @@ directeur général des impôts.
 
 Toute fabrication de produits soumis au droit de fabrication sur les alcools doit être précédée d'une déclaration souscrite
 au bureau de déclarations dans les conditions fixées par la direction générale des impôts [*formalité obligatoire*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### Liqueurs.
-
-###### Article 345
-
-Nul ne peut exercer la profession de fabricant de liqueurs sans en avoir fait préalablement la déclaration au bureau de
-déclarations de la direction générale des impôts et sans avoir pris la position fiscale de marchand en gros ou de débitant de
-boissons [*obligations*].
 
 **Liens relatifs à cet article**
 
@@ -42302,71 +43107,26 @@ récolte après la date fixée par l'arrêté du préfet (1).
 
 ###### Article 412
 
-Les vins destinés à l'étranger, aux territoires d'outre-mer ou aux Etats de la Communauté [*CEE*] peuvent, dans tous les
-départements, soit au port d'embarquement ou au point de sortie, soit au lieu d'expédition, recevoir, en franchise des
-droits, une addition d'alcool pourvu que le mélange soit opéré en présence des agents des impôts, dans les conditions fixées
-par arrêté ministériel, et que l'exportation soit opérée immédiatement.
+Les vins destinés à être exportés ou expédiés à destination d'un autre Etat membre de la Communauté économique européenne
+peuvent, dans tous les départements, soit au port d'embarquement ou au point de sortie, soit au lieu d'expédition, recevoir,
+en franchise des droits, une addition d'alcool pourvu que le mélange soit opéré en présence des agents de l'administration,
+dans les conditions fixées par arrêté ministériel, et que l'exportation soit opérée immédiatement.
 
 Si elles ne sont pas effectuées sur un emplacement désigné ou agréé par l'administration, les opérations de vinage donnent
 lieu au paiement des frais de surveillance.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 1 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### III : Vins mousseux
-
-##### Fabrication.
-
-###### Article 413
-
-Toute personne fabriquant, dans la même commune ou dans deux communes limitrophes, des vins mousseux à la fois par la
-fermentation en bouteilles, par le procédé de cuve close, par le procédé de gazéification ou seulement par deux de ces
-procédés, est tenue de souscrire au bureau de déclarations de la direction générale des impôts une déclaration de chacune de
-ces fabrications.
-
-Tout producteur de vins mousseux n'utilisant qu'un seul de ces procédés est dispensé de la déclaration de fabrication.
-
-Les récoltants doivent souscrire cette déclaration pour toutes les fabrications de vins mousseux effectuées, dans les mêmes
-conditions, à l'intérieur d'un périmètre comprenant le canton de récolte des vins et les cantons limitrophes de ce canton.
-
-Les titres de mouvement délivrés pour accompagner les vins mentionnent, sur les déclarations des expéditeurs, la nature du
-procédé de fabrication employé.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### Appareils à gazéifier.
-
-###### Article 415
-
-Les fabricants, importateurs et commerçants d'appareils ou parties d'appareils propres à la fabrication de vins mousseux en
-cuve close ou gazéifiés sont astreints à la tenue d'un répertoire indiquant les dates des livraisons et les noms et adresses
-des destinataires.
-
-Tout détenteur d'appareils ou parties d'appareils est tenu de faire au bureau de déclarations de la direction générale des
-impôts, dans les cinq jours qui suivent son entrée en possession [*délai*], une déclaration énonçant le nombre, la nature et
-la capacité de ces appareils ou portions d'appareils.
-
-Les agents des impôts et du service de la répression des fraudes sont qualifiés pour assurer l'application du présent article
-[*autorités compétentes*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### IV : Vins doux naturels.
@@ -42530,18 +43290,22 @@ marcs de raisins, ferments ou levures.
 ###### Article 424
 
 Tout détenteur d'une quantité de sucre ou de glucose supérieure à 200 kilogrammes et dont le commerce ou l'industrie
-n'implique pas la possession de sucre ou de glucose est tenu d'en faire la déclaration au bureau de déclarations de la
-direction générale des impôts et de se soumettre aux visites des agents des impôts [*formalités obligatoires*].
+n'implique pas la possession de sucre ou de glucose est tenu d'en faire la déclaration à l'administration et de se soumettre
+aux visites de ses agents.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 11 JORF 28 février 1993 en vigueur le 31 décembre 1992
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 425
@@ -42572,16 +43336,15 @@ ledit carnet.
 ###### Article 426
 
 Tout envoi de sucre ou de glucose fait par quantités de 25 kilogrammes au moins à une personne n'en faisant pas le commerce
-ou n'exerçant pas une industrie qui en comporte l'emploi doit être accompagné d'un acquit-à-caution qui est remis au bureau
-de déclarations de la direction générale des impôts par le destinataire dans les quarante-huit heures suivant l'expiration du
-délai de transport. Le négociant convaincu d'avoir, en violation des dispositions du présent article, livré sans acquit-à-
-caution du sucre ou du glucose par quantités supérieures à 25 kilogrammes, est assujetti, pendant la campagne en cours et la
-campagne suivante, à tenir un compte d'entrées et de sorties des sucres et glucoses et à se soumettre aux vérifications de
-l'administration (1).
+ou n'exerçant pas une industrie qui en comporte l'emploi doit être accompagné d'un acquit-à-caution qui est remis à
+l'administration par le destinataire dans les quarante-huit heures suivant l'expiration du délai de transport. Le négociant
+convaincu d'avoir, en violation des dispositions du présent article, livré sans acquit-à-caution du sucre ou du glucose par
+quantités supérieures à 25 kilogrammes, est assujetti, pendant la campagne en cours et la campagne suivante, à tenir un
+compte d'entrées et de sorties des sucres et glucoses et à se soumettre aux vérifications de l'administration (1).
 
-1)  Article abrogé par l'article 5-III de la loi n° 70-576 du 3 juillet 1970. Toutefois, cette abrogation n'entrera en
-vigueur qu'après publication d'un décret en conseil d'Etat, pris sur le rapport du ministre de l'agriculture et du ministre
-de l'économie et des finances, qui pourra prescrire les mesures propres à améliorer le contrôle du sucrage en première cuvée,
+1) Article abrogé par l'article 5-III de la loi n° 70-576 du 3 juillet 1970. Toutefois, cette abrogation n'entrera en vigueur
+qu'après publication d'un décret en conseil d'Etat, pris sur le rapport du ministre de l'agriculture et du ministre de
+l'économie et des finances, qui pourra prescrire les mesures propres à améliorer le contrôle du sucrage en première cuvée,
 lesquelles consisteront, soit dans des compléments à apporter à la déclaration prévue à l'article 422, soit dans la mise en
 oeuvre de procédés physiques ou chimiques d'analyse, soit dans une combinaison de ces deux types de dispositions.
 
@@ -42592,32 +43355,16 @@ oeuvre de procédés physiques ou chimiques d'analyse, soit dans une combinaison
 	  - CGI 422
 	  - Loi n°70-576 1970-07-03 ART. 5 III
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 1 JORF 28 février 1993 en vigueur le 31 décembre 1992
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (M)
-
-
-##### Mesures d'application.
-
-###### Article 427
-
-Des décrets règlent les conditions d'application des articles 422 et 423; le service des impôts est chargé du contrôle de
-leur exécution.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 422
-	  - CGI 423
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### B : Régime fiscal
@@ -42772,48 +43519,6 @@ de liqueur de qualité produits dans des régions déterminées de la communaut�
 
 ##### Exemptions.
 
-###### Article 441
-
-Sont exemptés du droit de circulation [*exonération*] :
-
-1° Les vins, cidres et poirés qu'un récoltant transporte de son pressoir ou d'un pressoir public à ses caves ou celliers ou
-de l'une à l'autre de ses caves, dans l'étendue du canton de récolte et des cantons limitrophes ou hors de ces limites
-territoriales s'il s'agit d'un changement de domicile;
-
-2° Les boissons de même espèce qu'un colon partiaire, fermier ou preneur à bail emphytéotique à rente remet au propriétaire
-ou reçoit de lui dans les mêmes limites en vertu de baux authentiques ou d'usages notoires.
-
-Dans les cas prévus aux deux alinéas précédents, les intéressés sont admis à détacher eux-mêmes des laissez-passer d'un
-registre à souche mis à leur disposition et contrôlé par les agents des impôts. Pour jouir de l'exemption des droits,
-l'expéditeur est tenu, lors du premier envoi après la récolte, de justifier de ses droits à cette exonération et, s'il n'a
-pas souscrit de déclaration à la mairie, de déclarer la quantité totale par lui obtenue. Il ne peut plus lui être délivré de
-laissez-passer lorsque les expéditions faites depuis la récolte ont épuisé cette quantité;
-
-3° Les boissons de leur récolte que les propriétaires font transporter de chez eux hors des limites fixées par le 1°, pourvu
-qu'ils se munissent d'un acquit-à-caution et se soumettent, au lieu de destination, à toutes les obligations imposées aux
-marchands en gros;
-
-4° Dans les conditions fixées par décrets, les quantités de vin disparues au cours d'opérations de concentration par le froid
-régulièrement déclarées (1).
-
-1)  Annexe III, art. 172 à 178.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 172 A CGIAN3 178
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 302 D (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H ter (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 442
 
 Sont également exemptés du droit de circulation, les vins, cidres, poirés et hydromels [*exonération*] :
@@ -42848,21 +43553,6 @@ qu'il soit justifié du paiement antérieur de l'impôt.
 ##### I : Dispositions communes
 
 ##### Titres de mouvement.
-
-###### Article 443
-
-Sauf le cas où les boissons sont contenues dans des récipients revêtus de capsules, empreintes ou vignettes représentatives
-des droits indirects sur l'alcool, le vin, le cidre, aucun enlèvement, déplacement ou transport d'alcool, vins, cidres,
-poirés, hydromels ou jus de raisin, de pommes ou de poires concentrés ou non, ne peut être fait sans déclaration préalable de
-l'expéditeur ou de l'acheteur et sans que le transporteur soit muni d'un titre de mouvement pris au bureau de déclarations de
-la direction générale des impôts.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 444
 
@@ -42910,99 +43600,68 @@ concerne les frais de confection des matrices et de surveillance de leur emploi,
 
 Doivent circuler sous le couvert :
 
-a  D'acquits-à-caution, les boissons enlevées à destination :
+a) D'acquits-à-caution, les boissons enlevées à destination :
 
-1° De négociants, marchands en gros, distillateurs et tous autres soumis aux exercices des agents des impôts avec le bénéfice
-du crédit des droits;
+1° De négociants, marchands en gros, distillateurs et tous autres soumis aux exercices des agents de l'administration avec le
+bénéfice du crédit des droits;
 
 2° Des dénaturateurs et fabricants de vinaigres;
 
-3° De l'étranger, des départements et territoires d'outre-mer et des Etats de la Communauté [*CEE*];
+3° De pays et territoires non compris dans le territoire communautaire défini par l'article 56 de la loi n° 92-677 du 17
+juillet 1992 ;
 
 4° D'ambassadeurs et autres membres du corps diplomatique directement accrédités auprès du chef de l'Etat.
 
 Doivent également circuler sous le couvert d'acquits-à-caution les cidres et poirés visés à l'article 434, deuxième alinéa.
 
-b  De passavants ou de laissez-passer, les boissons pour lesquelles est fournie la justification du paiement antérieur des
+b) De passavants ou de laissez-passer, les boissons pour lesquelles est fournie la justification du paiement antérieur des
 droits, les alcools ramenés par les bouilleurs de cru de la brûlerie au siège de leur exploitation et les vins, cidres,
 poirés et hydromels déplacés par les récoltants dans les conditions prévues à l'article 441-1° et 2°.
 
-c  De congés, les boissons déplacées dans tous les autres cas.
+c) De congés, les boissons déplacées dans tous les autres cas.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 434 al. 2
-	  - CGI 441 1°, 2°
+	  - CGI 434, 441
+	  - Loi n°92-677 1992-07-17 art. 56
 
-	**Nouveaux textes**:
+	**Modifié par**:
 
-	  - CGI 445 A (3 derniers alinéas)
-
-
-##### Boissons warrantées.
-
-###### Article 450
-
-Les porteurs de warrants agricoles sur des alcools ou des vins peuvent demander aux agents des impôts de n'accorder qu'avec
-leur agrément des acquits-à-caution ou des congés permettant le déplacement de ces boissons.
-
-Si les warrants ne sont pas remboursés à l'échéance, les porteurs peuvent, en outre, demander eux-mêmes les titres de
-mouvement nécessaires à l'enlèvement des produits warrantés.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (VD)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (VD)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°92-677 du 17 juillet 1992 - art. 81 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 1, art. 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
 
 
 ##### Obligations des transporteurs.
 
-###### Article 454
-
-Toute opération nécessaire à la conservation des boissons (transvasement, ouillage ou rabattement) est permise en cours de
-transport, mais seulement en présence des agents des impôts qui en font mention au verso des expéditions. Si un accident de
-force majeure nécessite le prompt déchargement d'un véhicule ou d'un bateau ou le transvasement immédiat des liquides, ces
-opérations peuvent avoir lieu sans déclaration préalable, à charge par le conducteur de faire constater l'accident par les
-agents ou, à leur défaut, par le maire ou l'adjoint de la commune dont la mairie est la plus proche.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 I (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 455
 
-Le conducteur d'un chargement dont le transport est suspendu est tenu d'en faire la déclaration au bureau de déclarations de
-la direction générale des impôts, dans les vingt-quatre heures et, en tout cas, avant le déchargement des boissons. Les
-congés, acquits-à-caution, passavants ou laissez-passer sont conservés par les agents jusqu'à la reprise du transport; ils
-sont visés et remis au départ, après vérification des boissons qui doivent être représentées aux agents à toute réquisition.
-Le délai est prolongé de toute la durée pendant laquelle le transport a été interrompu.
+Le conducteur d'un chargement dont le transport est suspendu est tenu d'en faire la déclaration à l'administration, dans les
+vingt-quatre heures et, en tout cas, avant le déchargement des boissons. Les congés, acquits-à-caution, passavants, laissez-
+passer ou documents d'accompagnement mentionnés à l'article 66 de la loi n° 92-677 du 17 juillet 1992, sont conservés par les
+agents jusqu'à la reprise du transport; ils sont visés et remis au départ, après vérification des boissons qui doivent être
+représentées aux agents à toute réquisition. Le délai est prolongé de toute la durée pendant laquelle le transport a été
+interrompu.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°92-677 1992-07-17 art. 66
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 3 et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### Exemption des formalités à la circulation.
@@ -43075,25 +43734,22 @@ Les transports de vin ou de vendanges effectués en totalité à l'intérieur de
 de circulation, doivent être accompagnés de titres de mouvement spéciaux délivrés par les services de la direction générale
 des impôts.
 
-Les titres de mouvement établis pour les vins en provenance de Corse accompagnés de certificats d'origine, délivrés par les
-services de la viticulture de la direction générale des impôts en Corse, doivent reproduire l'appellation d'origine attribuée
-à ces vins.
+[**] Les titres de mouvement établis pour les vins en provenance de Corse accompagnés de certificats d'origine, délivrés par
+l'administration en Corse, doivent reproduire l'appellation d'origine attribuée à ces vins.[**]
+
+**Nota:**
+
+NOTA : Modification non retenue lors de la codification qui fait l'objet de la version suivante.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 443
-	  - CGI 445
-	  - CGI 445 A
+	  - CGI 443, 445, 445 A
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 64 (V) JORF 31 décembre 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°93-264 1993-02-26 art. 14 JORF 28 février 1993 en vigueur le 31 décembre 1992
 
 
 ##### V : Titres de mouvement spéciaux
@@ -43162,13 +43818,13 @@ départements d'outre-mer ou des territoires d'outre-mer ou des Etats de la Comm
 
 Peuvent seuls obtenir la délivrance de titres de mouvement sur papier blanc modèle 1903 :
 
-a  Les bouilleurs ou distillateurs qui produisent sous le contrôle du service des impôts les alcools visés à l'article
-470-1°, et 2° et qui ne reçoivent du dehors aucune autre espèce de spiritueux;
+a Les bouilleurs ou distillateurs qui produisent sous le contrôle de l'administration les alcools visés à l'article 470-1°,
+et 2° et qui ne reçoivent du dehors aucune autre espèce de spiritueux; 
 
-b  Les négociants détenant ces mêmes alcools, à la condition que ceux-ci aient été emmagasinés distinctement et qu'ils soient
-suivis, à la demande des intéressés, à un compte spécial pour leur volume et l'alcool pur qu'ils représentent;
+b Les négociants détenant ces mêmes alcools, à la condition que ceux-ci aient été emmagasinés distinctement et qu'ils soient
+suivis, à la demande des intéressés, à un compte spécial pour leur volume et l'alcool pur qu'ils représentent; 
 
-c  Les importateurs de rhums et tafias naturels fournissant les justifications de provenance prévues à l'article 470-3°.
+c Les importateurs de rhums et tafias naturels fournissant les justifications de provenance prévues à l'article 470-3°.
 
 **Liens relatifs à cet article**
 
@@ -43178,124 +43834,14 @@ c  Les importateurs de rhums et tafias naturels fournissant les justifications d
 
 	**Modifié par**:
 
-	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985 : conséquence de la modification de l'article 470
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
-
-##### Eaux-de-vie et alcools naturels (acquits-à-caution et congés modèle 1909 garantissant la substance et l'origine).
-
-###### Article 473
-
-Peuvent seuls obtenir la délivrance de titres de mouvement sur papier blanc, modèle 1909 :
-
-a  Les bouilleurs ou distillateurs qui produisent sous le contrôle du service des impôts les eaux-de-vie à appellation
-d'origine contrôlée ou réglementée visées à l'article 472, premier alinéa, et qui ne reçoivent du dehors aucune autre espèce
-de spiritueux;
-
-b  Les négociants détenant ces mêmes eaux-de-vie, à la condition que celles-ci aient été emmagasinées distinctement et
-qu'elles soient suivies, à la demande des intéressés, à un compte spécial pour leur volume et l'alcool pur qu'elles
-représentent.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 472
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### Eaux-de-vie de Cognac et d'Armagnac.
-
-###### Article 474
-
-Peuvent seuls obtenir la délivrance de titres de mouvement sur papier jaune d'or :
-
-a  Les bouilleurs ou distillateurs qui, ne recevant du dehors aucune autre espèce de spiritueux, produisent, sous le contrôle
-du service des impôts, des eaux-de-vie ayant droit à l'appellation d'origine contrôlée Cognac ou Armagnac;
-
-b  Les négociants détenant ces mêmes eaux-de-vie, à la condition que celles-ci soient placées dans un magasin séparé par la
-voie publique de tout local renfermant des spiritueux de toute autre origine.
-
-L'inscription d'une sous-appellation sur les titres de mouvement jaune d'or, avec garantie de l'administration, est
-subordonnée à l'emmagasinement dans des conditions identiques des eaux-de-vie pouvant prétendre à cette sous-appellation.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 475
-
-Les titres de mouvement sur papier jaune d'or ne peuvent, en aucun cas, être délivrés pour les eaux-de-vie provenant de la
-mise en oeuvre de vins chaptalisés.
-
-La délivrance aux bouilleurs de profession de l'acquit jaune d'or est subordonnée à la justification que les producteurs des
-vins mis en oeuvre ne se sont livrés à aucune opération de sucrage en première cuvée [*condition*]. Cette justification est
-fournie sous forme d'attestations délivrées par le service des impôts du lieu de production en même temps que le titre de
-mouvement applicable aux vins. Ces attestations sont représentées par le bouilleur avec les acquits-à-caution ayant servi à
-légitimer le transport.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### VI : Dispositions diverses.
-
-###### Article 481
-
-Les vins de liqueur détenus par des négociants et les eaux-de-vie existant dans les chais des négociants et des producteurs
-lors de l'institution d'une appellation d'origine contrôlée ou réglementée peuvent, s'ils remplissent les conditions requises
-pour bénéficier de ladite appellation, être admis à circuler, respectivement, sous le couvert de titres de mouvement orange
-ou de titres sur papier blanc modèle 1909.
-
-Pour bénéficier de cette mesure, les intéressés doivent déclarer au bureau de déclarations de la direction générale des
-impôts dans les dix jours suivant la publication du décret relatif à l'appellation [*délai*], les quantités de vins de
-liqueur ou d'eaux-de-vie pour lesquelles ils revendiquent le droit aux titres de mouvement spéciaux. Le contrôle qualitatif
-des produits déclarés est assuré par une commission d'experts dont la composition et le fonctionnement sont réglés par décret
-rendu après avis de l'Institut national des appellations d'origine.
-
-Les mêmes dispositions s'appliquent aux vins détenus par les négociants et admis au bénéfice des titres de mouvement sur
-papier vert.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 4 1° et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ##### Section IV : Commerce
-
-##### I : Dispositions générales
-
-##### Vins, cidres, poirés et hydromels.
-
-###### Article 483
-
-Toute personne autre qu'un propriétaire récoltant qui, en vue de la vente en gros ou en détail, fabrique des vins, cidres,
-poirés ou hydromels est tenue d'en faire préalablement la déclaration au bureau de déclarations de la direction générale des
-impôts et de se soumettre à toutes les obligations imposées aux marchands en gros ou aux débitants. Elle doit, de plus,
-acquitter les droits immédiatement après chaque fabrication si la boisson est destinée à la vente au détail. Les vendanges,
-fruits à cidre ou à poiré, expédiés en vue de ces fabrications peuvent être reçus sous acquits-à-caution par les marchands en
-gros et les distillateurs.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ##### II : Marchands en gros
 
@@ -43353,27 +43899,6 @@ d'acquits-à-caution, transvaser, mélanger et couper ces boissons hors la prés
 
 
 ##### III : Débitants
-
-##### 1 : Débitants récoltants.
-
-###### Article 501
-
-Tout propriétaire récoltant qui désire vendre au détail les vins, cidres, poirés et hydromels provenant de sa récolte est
-tenu d'en faire préalablement la déclaration au bureau de déclarations de la direction générale des impôts, d'acquitter les
-droits sur les boissons destinées à la vente et de se soumettre à toutes les obligations imposées aux débitants [*formalités
-obligatoires*].
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ##### 2 : Autres débitants
 
@@ -43448,43 +43973,6 @@ leurs réceptions et livraisons, au moment où ils y procèdent, sur un registre
 	**Modifié par**:
 
 	  - Décret n°88-766 du 22 juin 1988 - art. 1 (V) JORF 23 juin 1988
-
-
-###### Article 511
-
-Les personnes qui veulent se livrer au commerce des alcools dénaturés suivant le procédé général, ou faire usage de ces
-alcools pour les besoins de leur industrie doivent en faire la déclaration au service des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 7
-	  - Code général des impôts annexe 1, CGIAN1. - art. 165 (M)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
-	  - Livre des procédures fiscales - art. R*26-1 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 511 bis
-
-Lorsque la franchise des droits sur un produit soumis à l'impôt perçu par le service des impôts est subordonnée à une
-dénaturation préalable, l'emploi de nouveaux procédés de dénaturation est autorisé par le ministre de l'économie et des
-finances, au vu de l'avis du service des laboratoires de la direction générale des douanes et droits indirects.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988
-	  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988
-
-	**Codifié par**:
-
-	  - Décret n°89-801 1989-10-27
 
 
 ##### II bis : Essences pouvant servir à la fabrication de boissons alcooliques.
@@ -44255,27 +44743,6 @@ ouvrages, à l'application des poinçons, à l'organisation et au fonctionnement
 
 
 #### Chapitre III : Droits divers
-
-##### Section V : Droits de recherche.
-
-###### Article 560
-
-La délivrance, le visa d'attestations, certificats ou autres pièces analogues par les agents des impôts donnent lieu au
-versement, par les personnes, services ou organismes intéressés, d'un droit de 0,17 F [*montant*] par attestation, certificat
-ou pièce, augmenté de 0,14 F par année en cas de recherche.
-
-Toute opération de perception, de contrôle ou autre effectuée par les agents des impôts pour le compte ou au profit de
-services, organismes, offices ou régies autres que les administrations de l'Etat, des départements ou des communes entraîne,
-sous réserve de dispositions spéciales, le paiement par lesdits services, organismes, offices ou régies, d'une somme de 0,17
-F par opération. Quand les opérations visées au présent article sont continues ou revêtent un caractère permanent ou semi-
-permanent, des forfaits peuvent être consentis par le service des impôts.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ##### Section VIII : Taxe spéciale sur les sucres et glucoses servant à la préparation d'apéritifs à base de vin et produits assimilables.
 
@@ -45273,185 +45740,6 @@ importateurs (2).
 	**Codifié par**:
 
 	  - Décret n°87-940 1987-11-23
-
-
-#### Chapitre V : Dispositions communes à l'ensemble des contributions indirectes
-
-##### Section II : Acquits-à-caution
-
-##### II : Certificats de décharge.
-
-###### Article 616
-
-Les acquits-à-caution applicables à des marchandises enlevées pour l'intérieur ne sont déchargés qu'après la prise en charge
-des quantités y énoncées, si le destinataire est assujetti aux exercices des agents des impôts, ou le paiement du droit dans
-le cas où il est dû à l'arrivée, ou enfin la reconnaissance matérielle des marchandises, s'il n'y a ni prise en charge ni
-acquittement des droits.
-
-Les acquits-à-caution délivrés pour accompagner des marchandises à destination de l'étranger sont déchargés après la sortie
-du territoire ou l'embarquement et après accomplissement, s'il y a lieu, des formalités prévues dans les conventions avec les
-nations voisines.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### III : Refus du certificat de décharge.
-
-###### Article 620
-
-Les agents des impôts ne peuvent délivrer de certificats de décharge pour les marchandises qui ne sont pas représentées, ou
-qui ne le sont qu'après l'expiration du terme fixé par l'acquit-à-caution, ni pour celles qui ne sont pas de l'espèce énoncée
-dans l'acquit-à-caution ou pour lesquelles les scellements prescrits par la loi ne sont pas intacts.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 64 (V) JORF 31 décembre 1985, en vigueur le 1er janvier 1986
-
-
-##### IV : Prescriptions.
-
-###### Article 621
-
-Si les certificats de décharge ne sont pas rapportés dans les délais fixés par la soumission et s'il n'y a pas eu
-consignation au départ, le service des impôts délivre un avis de mise en recouvrement contre les soumissionnaires et leurs
-cautions pour le paiement des droits prévus à l'engagement. L'action de l'administration doit être intentée, sous peine de
-déchéance :
-
-1° S'il s'agit d'un acquit-à-caution recommandé en matière de spiritueux, dans le délai de quarante jours après l'expiration
-du délai fixé pour le transport;
-
-2° S'il s'agit d'un acquit-à-caution non recommandé, dans le délai de six mois après l'expiration du délai fixé pour le
-transport.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### Section III : Registres portatifs.
-
-###### Article 625
-
-Les registres portatifs tenus par les agents des impôts sont cotés et paraphés par les juges des tribunaux d'instance; les
-registres de perception ou de déclaration et tous autres pouvant servir à établir les droits du Trésor et ceux des redevables
-sont cotés et paraphés par un des fonctionnaires publics que les commissaires de la République ou commissaires adjoints de la
-République désignent à cet effet.
-
-Les actes inscrits par les agents, au cours de leurs exercices, sur les registres portatifs font foi en justice jusqu'à
-inscription de faux.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°82-389 1982-05-10 ART. 1, ART. 4 JORF 11 MAI 1982
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-
-##### Section IV : Entreprises de transport.
-
-###### Article 626
-
-Les compagnies de chemins de fer, de même que toutes les entreprises ou compagnies de transport, quelle que soit la voie
-empruntée, doivent déclarer au bureau de déclarations de la direction générale des impôts de leur circonscription les lieux
-de dépôt des objets dont le transport est soumis à l'impôt [*formalité obligatoire*] (1).
-
-(1) Voir également livre des procédures fiscales, art. L26 et L90.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L26
-	  - CGI L90
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
-
-
-##### Section V : Modification des tarifs d'impôts indirects.
-
-###### Article 627
-
-Des arrêtés ministériels peuvent modifier les tarifs des impôts indirects et des droits intérieurs de consommation perçus par
-le service des impôts, afin de maintenir le rapport qui existait, à la date à laquelle ont été fixés les tarifs en vigueur,
-entre les prix des produits et le montant de l'impôt applicable à ces produits.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 628 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### Section VIII : Frais de surveillance.
-
-###### Article 631
-
-Les frais d'exercice que les redevables sont tenus de rembourser au service des impôts, en vertu de dispositions législatives
-ou réglementaires, consistent dans le versement du traitement brut moyen du grade auquel appartiennent les agents attachés en
-permanence à l'établissement, majoré de 20 % à titre de frais généraux et des différentes indemnités effectivement touchées
-par ces agents.
-
-La rémunération servant de base au calcul des frais de surveillance est celle d'un fonctionnaire ayant deux enfants à charge
-dans la localité où se trouve situé l'établissement. Ces frais sont payables par trimestre indivisible et d'avance.
-
-Dans le cas de surveillance intermittente, la somme à rembourser est calculée, pour chaque heure de vacation, à raison des
-émoluments déterminés comme il est dit ci-dessus, selon des modalités fixées par décret (1). Toute fraction inférieure à
-trente minutes est compté pour une demi-heure. Le remboursement est exigible après chaque opération.
-
-La perception des frais d'exercice décomptés dans les conditions indiquées ci-dessus peut être étendue par décret aux
-vacations effectuées en vue d'accorder les remboursements ou décharges de droits ou tous autres avantages.
-
-(1) Voir annexe II, art. 287.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 287
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-233 1984-03-26 : dans le troisième alinéa, les mots "de 1/2.200" sont supprimés
-	  - SPEC_APPLI: le montant de la somme à rembourser en application du troisième alinéa est calculé en divisant les émoluments mentionnés à cet alinéa par le nombre d'heures de travail égal dans l'année
-
-	**Modifié par**:
-
-	  - Décret n°84-233 du 26 mars 1984 - art. 1 (V) JORF 1er avril 1984
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 287 (P)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 duodecies (P)
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
 
 
 ### Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre
@@ -64868,28 +65156,33 @@ part des recettes revenant à ce tiers. Le modèle de la déclaration est fixé 
 
 Sont exonérés de l'impôt prévu aux trois premières catégories de l'article 1560-I :
 
-1° et 2° (Dispositions devenues sans objet) ;    3° a. Jusqu'à concurrence de 20.000 F [*montant*] de recettes par
-manifestation, les réunions sportives organisées par des associations sportives régies par la loi du 1er juillet 1901 agréées
-par le ministre compétent ou par des sociétés sportives visées à l'article 11 de la loi n° 84-610 du 16 juillet 1984 relative
-à l'organisation et à la promotion des activités physiques et sportives et, jusqu'à concurrence de 5.000 F, les quatre
-premières manifestations annuelles organisées au profit exclusif d'établissements publics ou d'associations légalement
-constituées agissant sans but lucratif ;    b. Toutefois, l'exemption totale pourra être accordée aux compétitions relevant
-d'activités sportives limitativement énumérées par arrêtés des ministres de l'économie et des finances, de l'intérieur et du
-ministre chargé de la jeunesse et des sports (1).    Le conseil municipal peut, par délibération, décider que l'ensemble des
-compétitions sportives organisées pendant l'année sur le territoire de la commune bénéficiera de la même exemption ;
+1° et 2° (Dispositions devenues sans objet) ; 
 
-c. Les organisateurs des réunions visées aux a et b doivent tenir leur comptabilité à la disposition des agents des impôts
-pendant le délai prévu au premier alinéa du I de l'article L102 B ;
+3° a. Jusqu'à concurrence de 20.000 F [*montant*] de recettes par manifestation, les réunions sportives organisées par des
+associations sportives régies par la loi du 1er juillet 1901 agréées par le ministre compétent ou par des sociétés sportives
+visées à l'article 11 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités
+physiques et sportives et, jusqu'à concurrence de 5.000 F, les quatre premières manifestations annuelles organisées au profit
+exclusif d'établissements publics ou d'associations légalement constituées agissant sans but lucratif ; 
+
+b. Toutefois, l'exemption totale pourra être accordée aux compétitions relevant d'activités sportives limitativement
+énumérées par arrêtés des ministres de l'économie et des finances, de l'intérieur et du ministre chargé de la jeunesse et des
+sports (1). 
+
+Le conseil municipal peut, par délibération, décider que l'ensemble des compétitions sportives organisées pendant l'année sur
+le territoire de la commune bénéficiera de la même exemption ; 
+
+c. Les organisateurs des réunions visées aux a et b doivent tenir leur comptabilité à la disposition des agents de
+l'administration pendant le délai prévu au premier alinéa du I de l'article L102 B ;
 
 4° Par délibération du conseil municipal, les sommes versées à des oeuvres de bienfaisance à la suite de manifestations
-organisées dans le cadre de mouvements nationaux d'entraide ;
+organisées dans le cadre de mouvements nationaux d'entraide ; 
 
-5°et 6° (Abrogés) ;
+5°et 6° (Abrogés) ; 
 
 7° Les spectacles des première et troisième catégories pour lesquels il n'est pas exigé de paiement supérieur à 1 F au titre
-d'entrée, redevance ou mise ;
+d'entrée, redevance ou mise ; 
 
-8° et 9° (Dispositions devenues sans objet) ;
+8° et 9° (Dispositions devenues sans objet) ; 
 
 10° Dans les départements d'outre-mer [*DOM*], les spectacles organisés par les entreprises hôtelières qui ont reçu, avant le
 1er janvier 1971, l'agrément prévu par l'article 26-2 de la loi n° 66-10 du 6 janvier 1966.
@@ -64909,11 +65202,11 @@ d'entrée, redevance ou mise ;
 
 	**Modifié par**:
 
-	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
-
-	**Codifié par**:
-
-	  - Décret n°90-798 1990-09-10
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 23 1° et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 	**Cité par**:
 
@@ -65009,48 +65302,88 @@ dispositif mécanique, électrique ou autre, permettant leur mise en marche, leu
 	  - Livre des procédures fiscales - art. A85-1 (P)
 
 
+##### 6° : Assiette et liquidation
+
 ###### Article 1564
 
 Les conditions d'application des articles 1559 à 1563 et notamment le classement des établissements de spectacles soumis à la
-taxe dans l'une ou l'autre des catégories prévues à l'article 1560-I, la communication de la comptabilité des établissements
-assujettis à l'impôt, sont déterminées par voie d'arrêtés ministériels (1).
+taxe dans l'une ou l'autre des catégories prévues au I de l'article 1560, la communication de la comptabilité des
+établissements assujettis à l'impôt, sont déterminées par voie d'arrêtés ministériels (1). 
 
 Des arrêtés ministériels déterminent également les obligations imposées aux fabricants, importateurs ou marchands de billets
-d'entrée dans les salles de spectacles ainsi que les conditions de présentation que doivent remplir ces billets (2).
+d'entrée dans les salles de spectacles ainsi que les conditions de présentation que doivent remplir ces billets (2). 
 
 Sous réserve des dispositions de l'article 1565 bis, la constatation de l'impôt institué par les articles 1559 et 1560 est
-assurée obligatoirement par le service des impôts suivant les règles propres aux contributions indirectes.
+assurée obligatoirement par l'administration suivant les règles propres aux contributions indirectes.
 
-1)  Annexe IV, art. 124 à 126, 132 à 138 et 145 à 155.
+(1) Annexe IV, art. 124 à 126 E, 1372 et 138 et 145 à 155 et les articles A26-1 et A26-2 du livre des procédures fiscales.
 
-2)  Annexe IV, art. 127 à 131.
+(2) Annexe IV, art. 127 à 131 A.
+
+(3) Annexe III, art. 350 quater 1 1°.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1559
-	  - CGI 1560 I
-	  - CGI 1561
-	  - CGI 1562
-	  - CGI 1563
-	  - CGI 1565 bis
-	  - CGIAN4 124
-	  - CGIAN4 126
-	  - CGIAN4 127 A CGIAN4 131
-	  - CGIAN4 132 A CGIAN4 138
-	  - CGIAN4 145 A CGIAN4 155
+	  - CGI 1559 à 1563, 1560, 1565 bis, 1559
+	  - CGI Livre des procédures fiscales A26-1, A26-2
 
 	**Modifié par**:
 
-	  - Loi n°84-1208 1984-12-29 art. 84 I 4 finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 1 JORF 28 février 1993 en vigueur le 31 décembre 1992
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 131 A (V)
 
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
 
 ##### 7° : Obligations des exploitants.
+
+###### Article 1565
+
+Les entrepreneurs ou organisateurs de tous spectacles ou représentations doivent, vingt-quatre heures avant l'ouverture des
+établissements, en faire la déclaration au service de l'administration le plus proche du lieu de la réunion (1). 
+
+Les exploitants des établissements visés à l'article 1563, deuxième alinéa, sont astreints à la présentation d'une caution
+solvable qui s'engage, solidairement avec eux, à payer les droits et pénalités constatés à leur charge par l'administration.
+Toutefois, les exploitants qui justifient de la possession de biens ou de ressources suffisantes pour la garantie de ces
+impôts peuvent être dispensés de l'obligation ci-dessus.
+
+(1) Cf. Annexe IV, art. 124 A.
+
+(2) Cf. Annexe III, art. 350 quinquies 9°.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1563 al. 2
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 3 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1822 (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 124 (V)
+
 
 ###### Article 1565 bis
 
@@ -65077,40 +65410,6 @@ L'impôt est acquitté lors du dépôt de la déclaration.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 138 (V)
-
-
-##### Obligations des exploitants.
-
-###### Article 1565
-
-Les entrepreneurs ou organisateurs de tous spectacles ou représentations doivent, vingt-quatre heures avant l'ouverture des
-établissements [*délai*], en faire la déclaration au bureau de déclarations de la direction générale des impôts le plus
-proche du lieu de la réunion (1).
-
-Les exploitants des établissements visés à l'article 1563, deuxième alinéa, sont astreints à la présentation d'une caution
-solvable qui s'engage, solidairement avec eux, à payer les droits et pénalités constatés à leur charge par le service des
-impôts. Toutefois, les exploitants qui justifient de la possession de biens ou de ressources suffisantes pour la garantie de
-ces impôts peuvent être dispensés de l'obligation ci-dessus.
-
-(1) Cf. Annexe III, art. 219 W et 219 X en ce qui concerne les exploitants d'appareils automatiques.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1563 al. 2
-	  - CGIAN3 219 W
-	  - CGIAN3 219 X
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 1822 (M)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 124 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### 8° : Répartition de l'impôt
@@ -65252,16 +65551,32 @@ Les villes de moins de 100 000 habitants sont autorisées à instituer un tarif 
 
 ###### Article 1570
 
-Les droits sont exigibles au moment où est souscrite la déclaration de profession; pour les débitants déjà installés, ils
+Les droits sont exigibles au moment où est souscrite la déclaration de profession ; pour les débitants déjà installés, ils
 sont payables d'avance le 1er janvier de chaque année. Ils sont dus pour l'année entière, à quelque époque que commencent ou
-se terminent les opérations, et continuent à être réclamés jusqu'à la déclaration de cesser faite au bureau de déclarations
-de la direction générale des impôts.
+se terminent les opérations, et continuent à être réclamés jusqu'à la déclaration de cesser faite auprès de l'administration
+(1).
+
+**Nota:**
+
+(1) Voir le 11° de l'article 350 quinquies de l'annexe III.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 24 1° et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 1er janvier 2003
+
+	**Abrogé par**:
+
+	  - Loi - art. 27 (V) JORF 31 décembre 2002
 
 
 ###### Article 1571
@@ -75453,31 +75768,32 @@ Un décret fixe les modalités d'application du présent article (1).
 La taxe professionnelle et les taxes additionnelles sont recouvrées par voie de rôles suivant les modalités et sous les
 garanties et sanctions prévues en matière de contributions directes.
 
-Elles donnent lieu au versement d'un acompte, égal à 50 % du montant des taxes mises en recouvrement au titre de l'année
-précédente, avant le 1er avril de l'année courante. L'acompte n'est pas dû si ce montant est inférieur à 10.000 F.
+Elles donnent lieu au versement de deux acomptes égaux, le premier à trois huitièmes du montant des taxes mises en
+recouvrement au titre de l'année précédente, le second à un huitième de ce même montant. Les acomptes ne sont pas dus si le
+montant des taxes sur lequel ils sont calculés est inférieur à 10 000 F.
 
-L'acompte est exigible le 31 mai et il est fait application des dispositions du 2 et du 3 de l'article 1664 pour son
-recouvrement et celui du solde de la taxe.
+Les acomptes sont exigibles respectivement le 30 avril et le 31 août. Il est fait application des dispositions du 2 et du 3
+de l'article 1664 pour leur recouvrement et celui du solde de la taxe.
 
 Le redevable qui estime que sa base d'imposition sera réduite d'au moins 25 % ou qui prévoit la cessation de son activité en
-cours d'année, au sens du 1° de l'article 1478, peut réduire le montant de son acompte en remettant au comptable du Trésor,
-chargé du recouvrement de la taxe professionnelle du lieu d'imposition, quinze jours avant la date d'exigibilité de l'acompte
-[*délai*], une déclaration datée et signée.
+cours d'année, au sens du 1° de l'article 1478, peut réduire à la date d'exigibilité des acomptes en remettant au comptable
+du Trésor, chargé du recouvrement de la taxe professionnelle du lieu d'imposition, à la date d'exigibilité des acomptes, une
+déclaration datée et signée.
+
+La même faculté est ouverte au redevable qui a demandé à bénéficier des dispositions de l'article 1647 B sexies pour la
+cotisation de taxe professionnelle établie au titre de l'année précédente, à défaut de décision de dégrèvement à la date de
+paiement des acomptes.
 
 Le versement du solde ne sera exigible qu'à partir du 1er décembre [*date*].
 
-Les contribuables doivent, un mois au moins avant l'échéance, être informés par l'administration du montant de l'acompte
+Les contribuables doivent, un mois au moins avant l'échéance, être informés par l'administration du montant des acomptes
 qu'ils auront à verser.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°86-1318 du 30 décembre 1986 - art. 19 (P) JORF 31 décembre 1986
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
+	  - Loi - art. 27 (V) JORF 31 décembre 1992
 
 	**Cité par**:
 
@@ -77621,16 +77937,16 @@ services effectués pour son compte.
 
 ###### Article 1725
 
-1  Le défaut de production dans les délais prescrits de l'un quelconque des documents, tels que déclarations, états, relevés,
+1. Le défaut de production dans les délais prescrits de l'un quelconque des documents, tels que déclarations, états, relevés,
 extraits, pièces ou copies de pièces, qui doivent être remis à l'administration fiscale donne lieu à l'application d'une
-amende fiscale de 25 F [*montant*].
+amende fiscale de 100 F.
 
-2  L'administration peut adresser, par pli recommandé avec avis de réception, une mise en demeure d'avoir à fournir les
-documents sus-mentionnés dans un délai de trente jours. A défaut de production dans ce délai, l'amende est portée à 200 F.
+2. L'administration peut adresser, par pli recommandé avec avis de réception, une mise en demeure d'avoir à fournir les
+documents sus-mentionnés dans un délai de trente jours. A défaut de production dans ce délai, l'amende est portée à 1.000 F.
 Sauf cas de force majeure, la non-production des documents susmentionnés dans un délai de trente jours après une nouvelle
 mise en demeure notifiée par l'administration dans les mêmes formes, donne lieu aux peines prévues à l'article 1726.
 
-3  Sous réserve que l'infraction soit réparée spontanément ou à la première demande de l'administration, dans les trois mois
+3. Sous réserve que l'infraction soit réparée spontanément ou à la première demande de l'administration, dans les trois mois
 suivant celui au cours duquel le document omis aurait dû être produit, l'amende encourue n'est pas appliquée si le
 contribuable atteste, sous le contrôle de l'administration, n'avoir pas commis depuis au moins quatre ans d'infraction
 relative à un document de même nature.
@@ -77643,7 +77959,11 @@ relative à un document de même nature.
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Loi - art. 46 () JORF 31 décembre 1992
 
 
 ###### Article 1726
@@ -80906,20 +81226,22 @@ jeux à un titre quelconque comme aussi toutes celles qui ont participé à la f
 
 ###### Article 1798
 
-Les infractions mentionnées à l'article 1812 sont punies, à la requête du service des impôts, des peines fiscales prévues à
-l'article 1791.
+Les infractions mentionnées à l'article 1812 sont punies, à la requête de l'administration, des peines fiscales prévues à
+l'article 1791. 
 
 Quiconque met les agents habilités à constater lesdites infractions dans l'impossiblité d'accomplir leurs fonctions soit en
 leur refusant l'entrée de ses locaux de fabrication, de dépôt ou de vente, soit de toute autre manière, est puni
-indépendamment des peines prévues à l'article 1812-1, troisième alinéa, des peines applicables à la fabrication, à la vente
-en gros ou en détail, ainsi qu'à la circulation de 40 litres d'alcool pur du produit prohibé.
+indépendamment des peines prévues au troisième alinéa du 1 de l'article 1812 des peines applicables à la fabrication, à la
+vente en gros ou en détail, ainsi qu'à la circulation de 40 litres d'alcool pur du produit prohibé.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 1791
-	  - CGI 1812 1 AL. 3
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 1 JORF 28 février 1993 en vigueur le 31 décembre 1992
 
 	**Cité par**:
 
@@ -80928,7 +81250,7 @@ en gros ou en détail, ainsi qu'à la circulation de 40 litres d'alcool pur du p
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 1799
@@ -81492,8 +81814,8 @@ d'exercer leur commerce ou leur industrie.
 ###### Article 1825
 
 La fermeture de tout établissement dans lequel aura été constatée l'une des infractions prévues à l'article 1817 peut être
-ordonnée, pour une durée de huit jours, par arrêté préfectoral pris sur proposition du directeur des services fiscaux. Cet
-arrêté est affiché sur la porte de l'établissement pendant la durée de la fermeture.
+ordonnée, pour une durée de huit jours, par arrêté préfectoral pris sur proposition de l'autorité administrative désignée par
+décret. Cet arrêté est affiché sur la porte de l'établissement pendant la durée de la fermeture.
 
 **Liens relatifs à cet article**
 
@@ -81501,13 +81823,17 @@ arrêté est affiché sur la porte de l'établissement pendant la durée de la f
 
 	  - CGI 1817
 
+	**Modifié par**:
+
+	  - Décret n°93-266 1993-02-26 art. 2 1 et 3 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 406 L (V)
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 1825 A
@@ -83115,30 +83441,44 @@ poursuites et de majorations appliquées au titre des articles 1761 et 1762 pour
 	  - Loi n°86-1317 du 30 décembre 1986 - art. 42 (P) JORF 31 décembre 1986 en vigueur le 15 janvier 1987
 
 
-#### II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts.
+#### II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts et de la direction générale des douanes et droits indirects
 
 ###### Article 1917
 
-Les dispositions de l'article 1912 [*concernant les frais de poursuites*] sont applicables à toutes les réclamations
-relatives aux poursuites en matière de droits, taxes, redevances, impositions et sommes quelconques dont la perception
-incombe aux comptables de la direction générale des impôts (1).
+Les dispositions de l'article 1912 sont applicables à toutes les réclamations relatives aux poursuites en matière de droits,
+taxes, redevances, impositions et sommes quelconques dont la perception incombe aux comptables publics désignés par décret
+(1).
 
-(1) Voir également livre des procédures fiscales, art. L 281 et L 282.
+**Nota:**
+
+(1) Voir également livre des procédures fiscales, art. L. 281 et L. 282. 
+
+Loi n° 2010-1658 du 29 décembre 2010, article 55 IV-C : Ces dispositions entrent en vigueur au 1er janvier 2012, à
+l'exception des produits recouvrés par l'administration fiscale pour lesquels ils entrent en vigueur au 1er mars 2011.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-264 1993-02-26 art. 25 1° et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+	**Abrogé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
+
 	**Cite**:
 
-	  - CGI 1912
-	  - CGI L281
-	  - CGI L282
+	  - Code général des impôts, CGI. - art. 1912 (VT)
+	  - Livre des procédures fiscales - art. L281
+	  - Livre des procédures fiscales - art. L282
 
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
-#### II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts et de la direction générale des douanes et droits indirects
 
 ###### Article 1918
 
