@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1984-07-25
+Version Consolidée au 1984-09-16
 
 # Livre premier : Assiette et liquidation de l'impôt
 
