@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1992-04-13
+Version Consolidée au 1992-07-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -806,23 +806,26 @@ I  Les charges de la propriété [*définition*] déductibles pour la détermina
 
 1° Pour les propriétés urbaines :
 
-a  Les dépenses de réparation et d'entretien, les frais de gérance et de rémunération des gardes et concierges, effectivement
+a) Les dépenses de réparation et d'entretien, les frais de gérance et de rémunération des gardes et concierges, effectivement
 supportés par le propriétaire;
 
-b  Les dépenses d'amélioration afférentes aux locaux d'habitation, à l'exclusion des frais correspondant à des travaux de
-construction, de reconstruction ou d'agrandissement;
+b) Les dépenses d'amélioration afférentes aux locaux d'habitation, à l'exclusion des frais correspondant à des travaux de
+construction, de reconstruction ou d'agrandissement, les travaux de démolition prévus par les plans de sauvegarde et de mise
+en valeur, imposés par l'autorité qui délivre le permis de construire et réalisés dans le cadre d'une opération groupée de
+restauration immobilière lorsque la location remplit les conditions mentionnées au 3° du I de l'article 156, à l'exclusion
+des frais correspondant à des travaux de construction, de reconstruction ou d'agrandissement ;
 
-b bis Les dépenses d'amélioration afférentes aux locaux professionnels et commerciaux destinées à faciliter l'accueil des
+b bis) Les dépenses d'amélioration afférentes aux locaux professionnels et commerciaux destinées à faciliter l'accueil des
 handicapés, à l'exclusion des frais correspondant à des travaux de construction, de reconstruction ou d'agrandissement ;
 
-c  Les impositions, autres que celles incombant normalement à l'occupant, perçues, à raison desdites propriétés, au profit
+c) Les impositions, autres que celles incombant normalement à l'occupant, perçues, à raison desdites propriétés, au profit
 des collectivités locales, de certains établissements publics ou d'organismes divers ainsi que la taxe annuelle sur les
 locaux à usage de bureaux perçue dans la région d'Ile-de-France prévue à l'article 231 ter ;
 
-d  Les intérêts de dettes contractées pour la conservation, l'acquisition, la construction, la réparation ou l'amélioration
+d) Les intérêts de dettes contractées pour la conservation, l'acquisition, la construction, la réparation ou l'amélioration
 des propriétés;
 
-e  Une déduction forfaitaire fixée à 8 % [*pourcentage*] des revenus bruts et représentant les frais de gestion, l'assurance
+e) Une déduction forfaitaire fixée à 8 % [*pourcentage*] des revenus bruts et représentant les frais de gestion, l'assurance
 et l'amortissement.
 
 Le taux de cette déduction [*forfaitaire pour certains logements neufs*] est porté à 25 p. 100 pour les revenus des dix
@@ -845,41 +848,36 @@ réduction d'impôt dans les conditions mentionnées au I de l'article 199 decie
 
 2° Pour les propriétés rurales :
 
-a  Les dépenses énumérées au 1°-a à d;
+a) Les dépenses énumérées au 1°-a à d;
 
-b  Les primes d'assurances;
+b) Les primes d'assurances;
 
-c  Les dépenses d'amélioration non rentables afférentes aux éléments autres que les locaux d'habitation et effectivement
+c) Les dépenses d'amélioration non rentables afférentes aux éléments autres que les locaux d'habitation et effectivement
 supportées par le propriétaire. Les dépenses engagées pour la construction d'un nouveau bâtiment d'exploitation rurale,
 destiné à remplacer un bâtiment de même nature, vétuste ou inadapté aux techniques modernes de l'agriculture, sont
 considérées comme des dépenses d'amélioration non rentables à condition que la construction nouvelle n'entraîne pas une
 augmentation du fermage;
 
-d  Une déduction forfaitaire fixée à 10 % des revenus bruts et représentant les frais de gestion et l'amortissement. En ce
+d) Une déduction forfaitaire fixée à 10 % des revenus bruts et représentant les frais de gestion et l'amortissement. En ce
 qui concerne les constructions nouvelles, reconstructions et additions de construction qui bénéficient de l'exonération de
 quinze ans de taxe foncière sur les propriétés bâties prévue à l'article 1385 II bis, le taux de la déduction forfaitaire est
 porté à 15 % pendant la durée de cette exonération; le taux de 15 % s'applique également aux revenus provenant des biens
 ruraux placés sous le régime des baux à long terme mentionnés à l'article 743-2° ;
 
-e (Devenu sans objet).
+e) (Devenu sans objet).
 
-II  (Transféré sous l'article 156-II-1° ter).
+II (Transféré sous l'article 156-II-1° ter).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°70-1300 1970-12-31
-	  - CGI 231 ter, 199 nonies, 199 decies A, 1385 II bis, 743, 156
+	  - CGI 156, 231 ter, 199 nonies, 199 decies A, 1385 II bis, 743, 156
 
 	**Modifié par**:
 
-	  - Loi - art. 22 () JORF 30 décembre 1990
-	  - Loi - art. 41 (V) JORF 30 décembre 1990
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
+	  - Loi - art. 22 () JORF 19 juillet 1991
 
 	**Cité par**:
 
@@ -955,10 +953,6 @@ II  (Transféré sous l'article 156-II-1° ter).
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 01 bis (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 18-0 bis B (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 18-0 ter (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
 
 
 ##### 5 : Bail à construction
@@ -1179,8 +1173,9 @@ d'industrie;
 7° Membres des copropriétés de navires mentionnées à l'article 8 quater.
 
 8° Personnes qui, à titre professionnel, effectuent en France ou à l'étranger, directement ou par personne interposée, des
-opérations sur un marché à terme d'instruments financiers ou d'options négociables [*MONEP*] (1), à condition qu'elles aient
-opté pour ce régime dans les quinze jours du début du premier exercice d'imposition à ce titre. L'option est irrévocable.
+opérations sur un marché à terme d'instruments financiers ou d'options négociables [*MONEP*] ou sur des bons d'option (1), à
+condition qu'elles aient opté pour ce régime dans les quinze jours du début du premier exercice d'imposition à ce titre.
+L'option est irrévocable.
 
 Ces dispositions s'appliquent aux personnes qui effectuent, directement ou par personne interposée, des opérations à terme
 sur marchandises sur le marché à terme mentionné à l'article 5 de la loi du 28 mars 1885 ou à l'étranger.
@@ -1201,11 +1196,11 @@ réalisés au cours de l'année 1991, l'option peut être exercée jusqu'au 15 j
 
 	**Modifié par**:
 
-	  - Loi - art. 28 (V) JORF 30 décembre 1990
+	  - Loi - art. 23 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -1943,7 +1938,13 @@ navale, et faisant l'objet d'un ordre de versement émis au cours de l'exercice 
 5° Les provisions constituées en vue de faire face à des pertes ou charges nettement précisées et que des événements en cours
 rendent probables, à condition qu'elles aient été effectivement constatées dans les écritures de l'exercice. Toutefois, ne
 sont pas déductibles les provisions que constitue une entreprise en vue de faire face au versement d'allocations en raison du
-départ à la retraite ou préretraite des membres ou anciens membres de son personnel, ou de ses mandataires sociaux,
+départ à la retraite ou préretraite des membres ou anciens membres de son personnel, ou de ses mandataires sociaux. Les
+provisions pour pertes afférentes à des opérations en cours à la clôture d'un exercice ne sont déductibles des résultats de
+cet exercice qu'à concurrence de la perte qui est égale à l'excédent du coût de revient des travaux exécutés à la clôture du
+même exercice sur le prix de vente de ces travaux compte tenu des révisions contractuelles certaines à cette date. S'agissant
+des produits en stock à la clôture d'un exercice, les dépenses non engagées à cette date en vue de leur commercialisation
+ultérieure ne peuvent, à la date de cette clôture, être retenues pour l'évaluation de ces produits en application des
+dispositions du 3 de l'article 38, ni faire l'objet d'une provision pour perte (6).
 
 La dépréciation des oeuvres d'art inscrites à l'actif d'une entreprise peut donner lieu à la constitution d'une provision.
 Cette dépréciation doit être constatée par un expert agréé par le ministre chargé de la culture lorsque le coût d'acquisition
@@ -1951,15 +1952,15 @@ de l'oeuvre est supérieur à 50 000 F..
 
 Un décret fixe les règles d'après lesquelles des provisions pour fluctuation des cours peuvent être retranchées des bénéfices
 des entreprises dont l'activité consiste essentiellement à transformer directement des matières premières acquises sur les
-marchés internationaux (6) ou des matières premières acquises sur le territoire national et dont les prix sont étroitement
-liés aux variations des cours internationaux (6).
+marchés internationaux (7) ou des matières premières acquises sur le territoire national et dont les prix sont étroitement
+liés aux variations des cours internationaux (7).
 
 Pour les entreprises dont l'objet principal est de faire subir en France la première transformation au pétrole brut, le
 montant de la provision pour fluctuation des cours ne peut excéder 69 % [*pourcentage*] de la limite maximale de la provision
 calculée conformément aux dispositions législatives et réglementaires en vigueur. L'excédent éventuel de la provision
 antérieurement constituée, par rapport à la nouvelle limite maximale calculée à la clôture du premier exercice auquel elle
 s'applique, est rapporté au bénéfice imposable de cet exercice. Ces dispositions s'appliquent pour la détermination des
-résultats des exercices clos à compter du 24 septembre 1975 (6).
+résultats des exercices clos à compter du 24 septembre 1975 (7).
 
 Sous réserve des dispositions prévues au huitième alinéa, les entreprises peuvent, d'autre part, en ce qui concerne les
 variations de prix postérieures au 30 juin 1959, pratiquer en franchise d'impôt une provision pour hausse des prix lorsque,
@@ -1972,13 +1973,13 @@ la réintégration dans les bénéfices pourra être effectuée après la sixiè
 normale de rotation des stocks est supérieure à trois ans. Dans ce dernier cas, les entreprises effectueront la réintégration
 dans un délai double de celui de la rotation normale des stocks.
 
-Un décret fixe les modalités d'application des deux alinéas qui précèdent (7).
+Un décret fixe les modalités d'application des deux alinéas qui précèdent (8).
 
 Les matières, produits ou approvisionnements existant en stock à la clôture de chaque exercice et qui peuvent donner lieu à
 la constitution de la provision pour fluctuation des cours prévue au troisième alinéa n'ouvrent pas droit à la provision pour
 hausse des prix.
 
-Un arrêté du ministre de l'économie et des finances (8) fixe les limites dans lesquelles sont admises les provisions
+Un arrêté du ministre de l'économie et des finances (9) fixe les limites dans lesquelles sont admises les provisions
 destinées à faire face aux risques particuliers afférents aux opérations de crédit à moyen et à long terme ainsi qu'aux
 crédits à moyen terme résultant de ventes ou de travaux effectués à l'étranger.
 
@@ -2015,6 +2016,14 @@ fiscal que pour la fraction de son montant qui excède les sommes déduites en a
 octies A et 39 octies B et non rapportées au résultat de l'entreprise. Cette disposition s'applique pour la détermination des
 résultats des exercices ouverts à compter du 1er janvier 1988.
 
+Les dispositions de l'alinéa précédent sont également applicables à la fraction du montant de la provision pour dépréciation
+mentionnée à cet alinéa, qui excède les sommes déduites en application de l'article 39 octies D ; cette disposition
+s'applique pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1992.
+
+La provision éventuellement constituée en vue de faire face à la dépréciation d'éléments d'actif non amortissables reçus lors
+d'une opération placée sous l'un des régimes prévus aux articles mentionnés au II de l'article 54 septies est déterminée par
+référence à la valeur fiscale des actifs auxquels les éléments reçus se sont substitués (10).
+
 6° La contribution de solidarité visée à l'article 33 de l'ordonnance n° 67-828 du 23 septembre 1967.
 
 Le fait générateur de cette contribution est constitué par l'existence de l'entreprise débitrice au 1er janvier de l'année au
@@ -2046,11 +2055,11 @@ faite en vue d'obtenir la disposition de résidences de plaisance ou d'agrément
 Sauf justifications, les dispositions du premier alinéa sont applicables :
 
 A l'amortissement des véhicules immatriculés dans la catégorie des voitures particulières pour la fraction de leur prix
-d'acquisition qui dépasse 65 000 F (9);
+d'acquisition qui dépasse 65 000 F (11);
 
 En cas d'opérations de crédit bail ou de location, à l'exception de locations de courte durée n'excédant pas trois mois non
 renouvelables, portant sur des voitures particulières, à la part du loyer supportée par le locataire et correspondant à
-l'amortissement pratiqué par le bailleur pour la fraction du prix d'acquisition du véhicule excédant 65 000 F (9) ;
+l'amortissement pratiqué par le bailleur pour la fraction du prix d'acquisition du véhicule excédant 65 000 F (11) ;
 
 Aux dépenses de toute nature résultant de l'achat, de la location ou de toute autre opération faite en vue d'obtenir la
 disposition de yachts ou de bateaux de plaisance à voile ou à moteur ainsi que de leur entretien.
@@ -2087,7 +2096,7 @@ Les dépenses ci-dessus énumérées peuvent également être réintégrées dan
 sont excessives et où la preuve n'a pas été apportée qu'elles ont été engagées dans l'intérêt direct de l'entreprise.
 
 Lorsqu'elles augmentent dans une proportion supérieure à celle des bénéfices imposables ou que leur montant excède celui de
-ces bénéfices, l'administration peut demander à l'entreprise de justifier qu'elles sont nécessitées par sa gestion (10) (11).
+ces bénéfices, l'administration peut demander à l'entreprise de justifier qu'elles sont nécessitées par sa gestion (12) (13).
 
 6. (Dispositions devenues sans objet).
 
@@ -2101,7 +2110,7 @@ bail, la quote-part des loyers pris en compte pour la fixation du prix de vente 
 unilatérale de vente n'est pas déductible pour l'assiette de l'impôt sur les bénéfices dû par le locataire. Elle doit être
 indiquée distinctement dans le contrat de crédit-bail.
 
-Un décret fixe les modalités d'application de ces dispositions, notamment les obligations déclaratives (12).
+Un décret fixe les modalités d'application de ces dispositions, notamment les obligations déclaratives (14).
 
 9. L'indemnité de congé payé correspondant aux droits acquis durant la période neutralisée définie ci-après, calculée dans
 les conditions prévues aux articles L. 223-11 à L. 223-13 du code du travail, n'est pas déductible. Cette période neutralisée
@@ -2112,7 +2121,7 @@ déduite du point de vue fiscal.
 
 Ces dispositions s'appliquent aux charges sociales et fiscales attachées à ces indemnités.
 
-Un décret fixe les modalités d'application du présent 9 (13).
+Un décret fixe les modalités d'application du présent 9 (14).
 
 (1) L'option est formulée sur un imprimé conforme au modèle établi par l'administration (Décret n° 87-1029 du 22 décembre
 1987, art. 7, JO DU 24).
@@ -2126,31 +2135,36 @@ Un décret fixe les modalités d'application du présent 9 (13).
 (5) Pour la détermination des résultats imposables des exercices ouverts à compter du 1er janvier 1988 ; antérieurement la
 limite était égale à 80 % de cette moyenne.
 
-(6) Annexe III, art. 3 à 10 septies.
+(6) Ces dispositions s'appliquent aux opérations en cours à la clôture des exercices arrêtés à compter du 31 décembre 1991 et
+qui résultent de contrats conclus au cours des mêmes exercices, ainsi qu'aux produits détenus en stock à la clôture des mêmes
+exercices.
 
-(7) Annexe III, art. 10 nonies à 10 terdecies.
+(7) Annexe III, art. 3 à 10 septies.
 
-(8) Annexe IV art. 2 à 4 septies.
+(8) Annexe III, art. 10 nonies à 10 terdecies.
 
-(9) Limite applicable aux véhicules dont la première mise en circulation est intervenue à compter du 1er janvier 1988. Cette
+(9) Annexe IV art. 2 à 4 septies.
+
+(10) Cette disposition a un caractère interprétatif.
+
+(11) Limite applicable aux véhicules dont la première mise en circulation est intervenue à compter du 1er janvier 1988. Cette
 limite était fixée à 50.000 F pour les véhicules acquis à l'état neuf à compter du 1er juillet 1985 ; antérieurement, elle
 était fixée à 35.000 F.
 
-(10) Voir annexe II, art. 33 à 35.
+(12) Voir annexe II, art. 33 à 35.
 
-(11) Voir également livre de procédures fiscales, art. L59 A 2°.
+(13) Voir également livre de procédures fiscales, art. L59 A 2°.
 
-(12) Annexe III, art. 38 quindecies E.
+(14) Annexe III, art. 38 quindecies E.
 
-(13) Annexe III, art. 49 octies à 49 octies D.
+(15) Annexe III, art. 49 octies à 49 octies D.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 39 A, 39 B, 39 E, 39 quindecies I 1, 2, 54 quater, 153, 61 A, 271, 273, 235 ter T, 145, 125 A III bis 1° bis, 199 quater B, 990 G, 235 ter Y
-	  - CGI 39 octies A
-	  - CGI 39 octies B
+	  - CGI 39 octies A, 39 octies B, 39 octies D
 	  - CGIAN2 15, 229, 33, 34, 35
 	  - CGIAN3 10 nonies à CGIAN3 10 terdecies, CGIAN3 38 quindecies E
 	  - CGIAN3 38 quindecies E CGIAN3 3 à CGIAN3 10 septies
@@ -2160,18 +2174,21 @@ limite était fixée à 50.000 F pour les véhicules acquis à l'état neuf à c
 	  - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
 	  - Ordonnance n°67-828 du 23 septembre 1967 - art. 33 (Ab)
 	  - Loi n°87-416 1987-06-17 art. 34 al. 3
-	  - Livre des procédures fiscales L59 A 2°
 	  - Code du travail - art. L223-11 (M)
 	  - Code du travail - art. L223-12 (AbD)
 	  - Code du travail - art. L223-13 (M)
+	  - Livre des procédures fiscales L59 A 2°
 
 	**Modifié par**:
 
-	  - Loi n°90-1169 du 29 décembre 1990 - art. 17 (V) JORF 30 décembre 1990
+	  - Loi - art. 25 (V) JORF 31 décembre 1991
+	  - Loi - art. 29 (V) JORF 31 décembre 1991
+	  - Loi - art. 86 () JORF 31 décembre 1991
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°91-883 1991-09-09
+	  - SPEC_APPLI: Loi n°91-1322 1991-12-30 art. 86 E
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Cité par**:
 
@@ -2282,10 +2299,6 @@ limite était fixée à 50.000 F pour les véhicules acquis à l'état neuf à c
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 octies C (V)
 	  - Code rural et de la pêche maritime - art. R716-33 (V)
 	  - Livre des procédures fiscales - art. L59 A (VD)
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 39 A
@@ -2443,6 +2456,49 @@ agrément préalable délivré dans les conditions prévues au I de l'article 16
 	**Liens**:
 
 	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 39 AC
+
+Les véhicules automobiles terrestres à moteur acquis à l'état neuf dont la conduite nécessite la possession d'un permis de
+conduire mentionné à l'article L. 11 du code de la route et qui fonctionnent exclusivement au moyen de l'énergie électrique
+peuvent faire l'objet d'un amortissement exceptionnel sur douze mois à compter de la date de leur première mise en
+circulation.
+
+Toutefois, pour les véhicules mentionnés à l'alinéa précédent immatriculés dans la catégorie des voitures particulières,
+cette disposition s'applique à la fraction du prix d'acquisition qui n'excède pas la somme mentionnée au troisième alinéa du
+4 de l'article 39.
+
+Les entreprises qui acquièrent des véhicules mentionnés aux alinéas précédents pour les donner en location ne peuvent
+bénéficier de l'amortissement exceptionnel.
+
+Ces dispositions sont applicables pour la détermination des résultats des exercices clos à compter du 31 décembre 1991 et
+avant le 1er janvier 1995.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39
+	  - Code de la route L11
+
+	**Créé par**:
+
+	  - Loi - art. 20 (V) JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 39 AE (V)
+	  - Code général des impôts, CGI. - art. 39 AF (V)
+	  - Livre des procédures fiscales - art. L80 B (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 39 B
@@ -2819,33 +2875,32 @@ incorporels amortissables d'un fonds de commerce ou d'un fonds artisanal.
 
 ###### Article 39 E
 
-Pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1978 [*date*], chaque membre des
-copropriétés de navires mentionnées à l'article 8 quater amortit le prix de revient de sa part de propriété suivant les
-modalités prévues à l'égard des navires; pour la détermination des plus-values, les amortissements pratiqués viennent en
-déduction du prix de revient.
+Chaque membre des copropriétés de navires mentionnées à l'article 8 quater amortit le prix de revient de sa part de propriété
+suivant les modalités prévues à l'égard des navires; pour la détermination des plus-values, les amortissements pratiqués
+viennent en déduction du prix de revient.
 
 Pour l'amortissement des parts de propriété de navires, le prix de revient est réduit du montant de la déduction effectuée en
 application des dispositions de l'article 163 vicies. Pour la détermination des plus-values, cette déduction est considérée
 comme un amortissement régulièrement pratiqué.
 
-Les amortissements fiscalement déduits par la copropriété au titre des exercices antérieurs sont répartis entre les
-copropriétaires en proportion de leurs droits afin de déterminer, pour chaque part de propriété, la valeur résiduelle restant
-à amortir.
+Les dispositions du premier alinéa s'appliquent aux exercices ouverts à compter du 1er janvier 1978. Les amortissements
+fiscalement déduits par la copropriété au titre des exercices antérieurs sont répartis entre les copropriétaires en
+proportion de leurs droits afin de déterminer, pour chaque part de propriété, la valeur résiduelle restant à amortir.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 163 vicies
-	  - CGI 8 quater
-
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Modifié par**:
 
+	  - Loi n°77-1467 du 30 décembre 1977 - art. 73 (P) JORF 31 décembre 1977
 	  - Loi - art. 105 () JORF 30 décembre 1990
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 39 nonies
@@ -2969,6 +3024,9 @@ précédent.
 Les dispositions du présent I quater s'appliquent aux premières implantations commerciales effectuées à compter du 1er
 janvier 1988 (2).
 
+Les dispositions du présent I quater ne sont plus applicables aux investissements réalisés dans le cadre d'une première
+implantation commerciale effectuée après le 31 décembre 1991.
+
 II. Les entreprises françaises qui réalisent un investissement industriel dans l'un des pays figurant sur une liste établie
 par le ministre de l'économie et des finances et par le ministre du développement industriel et scientifique, soit
 directement, soit par l'intermédiaire d'une société dont elles détiennent au moins 10 % du capital, peuvent, sur agrément du
@@ -2982,7 +3040,10 @@ moins du capital et qui a pour objet principal d'assurer un service nécessaire 
 produits par des entreprises ou établissements dont les résultats sont soumis à l'impôt sur les sociétés. Toutefois, lorsque
 l'investissement est réalisé dans un Etat membre de la Communauté économique européenne, la provision est égale aux pertes
 subies au cours des cinq premières années d'exploitation dans la proportion définie au deuxième alinéa du I de l'article 39
-octies B, et dans la limite de la moitié de l'investissement (3).
+octies B, et dans la limite de la moitié de l'investissement.
+
+Les dispositions du premier alinéa ne sont plus applicables aux investissements qui font l'objet d'une demande d'agrément
+déposée après le 31 décembre 1991.
 
 III. Les provisions déduites par application des I à II bis sont rapportées par fractions égales aux bénéfices imposables des
 cinq exercices consécutifs, à partir du sixième suivant celui du premier investissement.
@@ -2993,7 +3054,7 @@ par cet agrément.
 
 Le bénéfice des dispositions prévues aux I, I quater, II, II bis, III et IV peut être accordé, sur agrément du ministre
 chargé du budget et dans les conditions et limites prévues par cet agrément, aux établissements de crédit dont la liste est
-fixée par décret (4) et aux entreprises industrielles et commerciales qui, dans l'intérêt d'une entreprise française et en
+fixée par décret (2) et aux entreprises industrielles et commerciales qui, dans l'intérêt d'une entreprise française et en
 vue d'accompagner l'investissement à l'étranger de cette dernière, participent au capital de la société étrangère constituée
 à cet effet par l'entreprise ou à laquelle celle-ci se trouve elle-même associée.
 
@@ -3002,13 +3063,7 @@ l'agrément est subordonné, les dispositions de l'article 1756 sont applicables
 
 (1) Annexe IV, art. 4 D.
 
-(2) Ces dispositions ne sont plus applicables aux investissements réalisés dans le cadre d'une première implantation
-commerciale effectuée après le 31 décembre 1991.
-
-(3) Ces dispositions ne sont plus applicables aux investissements qui font l'objet d'une demande d'agrément déposée après le
-31 décembre 1991.
-
-(4) Annexe III, art. 10 GA.
+(2) Annexe III, art. 10 GA.
 
 **Liens relatifs à cet article**
 
@@ -3021,12 +3076,11 @@ commerciale effectuée après le 31 décembre 1991.
 
 	**Modifié par**:
 
-	  - Loi n°87-1061 1987-12-30 art. 27 B, C, D, F Finances rectificative pour 1987 JORF 31 décembre 1987
-	  - Loi n°87-1061 du 30 décembre 1987 - art. 27 (V) JORF 31 décembre 1987
+	  - Loi - art. 86 () JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -3086,19 +3140,21 @@ conditions et limites prévues par cet agrément, aux établissements de crédit
 V. - Les dispositions du présent article s'appliquent aux investissements qui sont réalisés à compter du 1er janvier 1988,
 sous réserve du dernier alinéa des I et I bis de l'article 39 octies A.
 
+Elles cessent de s'appliquer aux investissements réalisés après le 31 décembre 1991.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 39 octies A I, I bis, V
 
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
-
 	**Modifié par**:
 
-	  - Loi n°90-1169 du 29 décembre 1990 - art. 19 () JORF 30 décembre 1990
+	  - Loi - art. 86 () JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 39 octies C
@@ -3120,6 +3176,102 @@ d'activités définies à l'article 35.
 	**Modifié par**:
 
 	  - Loi - art. 86 () JORF 31 décembre 1991
+
+
+###### Article 39 octies D
+
+I. Les entreprises françaises qui effectuent dans un Etat étranger une implantation commerciale sous la forme d'un
+établissement créé à cet effet ou d'une filiale dont elles acquièrent le capital, peuvent constituer une provision, en
+franchise d'impôt, à raison des pertes subies par cet établissement ou cette filiale. L'acquisition de titres doit conférer à
+l'entreprise française la détention du tiers au moins du capital de la filiale commerciale ou, lorsque son taux de détention
+est au moins égal au tiers, lui permettre de le maintenir ou de l'augmenter d'une fraction égale à 10 p. 100 au moins du
+capital.
+
+La dotation à la provision est égale au montant des pertes subies par l'établissement ou à une fraction du montant des pertes
+subies par la filiale, au cours des exercices clos après la date, soit de création de l'établissement, soit d'acquisition des
+titres, et pendant les quatre années suivant celle de cette création ou de cette acquisition ; la fraction mentionnée ci-
+dessus est obtenue en appliquant au montant de ces pertes le rapport entre la valeur nominale des titres ouvrant droit à
+dividende, ainsi acquis, et la valeur nominale de l'ensemble des titres ouvrant droit à dividende émis par la filiale ; les
+pertes sont retenues dans la limite du montant de l'investissement.
+
+L'investissement est égal au montant net des capitaux transférés au profit de l'établissement depuis sa création et pour
+chacun des exercices mentionnés à l'alinéa précédent, ou au montant des sommes versées au titre de chaque acquisition de
+titres représentatifs du capital de la filiale, dans la limite des dépenses effectivement engagées pour les besoins de
+l'activité commerciale définie ci-après.
+
+La filiale, qui doit revêtir la forme d'une société de capitaux, ou l'établissement doit être soumis à l'étranger à une
+imposition de ses bénéfices comparable à celle qui résulterait de l'application de l'impôt sur les sociétés.
+
+La filiale ou l'établissement doit avoir pour activité la commercialisation à l'étranger de biens produits principalement par
+l'entreprise qui constitue la provision dans l'un de ses établissements dont les résultats sont soumis à l'impôt sur les
+sociétés ou par les sociétés membres d'un groupe mentionné à l'article 223 A dont elle fait également partie.
+
+II La dotation aux provisions, déduite du résultat d'un exercice en application du présent article, est rapportée
+successivement aux résultats imposables des exercices suivants, à hauteur des bénéfices réalisés au titre de chacun de ces
+exercices par l'établissement ou la filiale situé à l'étranger et, au plus tard, au résultat de l'exercice ou de la période
+d'imposition arrêté au cours de la dixième année qui suit celle de l'investissement qui a ouvert droit à la provision. Ces
+bénéfices sont retenus avant déduction des déficits subis au cours d'exercices antérieurs et, si l'implantation a été
+réalisée par l'intermédiaire d'une filiale, dans la même proportion que celle qui a été appliquée aux pertes qui ont servi de
+base au calcul de la dotation.
+
+Si le taux de détention du capital de la filiale, qui résulte d'une acquisition de titres ayant donné lieu à la provision
+mentionnée au présent article, est réduit au cours de la période de dix ans mentionnée à l'alinéa précédent, la ou les
+dotations constituées à raison de cette acquisition et qui figurent au bilan de l'entreprise sont rapportées au résultat de
+l'exercice ou de la période d'imposition au cours duquel ce taux a diminué. Il en est de même si l'une des conditions prévues
+au I cesse d'être satisfaite ou si l'établissement ou la filiale est affecté par l'un des événements mentionnés au premier
+alinéa du 1 de l'article 201 et aux 2 et 5 de l'article 221.
+
+III Pour l'application des dispositions du présent article, les résultats de l'établissement ou de la filiale étranger sont
+déterminés selon les règles fixées par le présent code à partir du bilan de départ établi dans les conditions fixées par
+décret. Toutefois, les dispositions légales particulières qui autorisent des provisions ou des déductions spéciales ou des
+amortissements exceptionnels ne sont pas applicables.
+
+IV Le bénéfice des dispositions du présent article peut être accordé sur agrément préalable du ministre chargé du budget dans
+les conditions et limites prévues par cet agrément, aux entreprises françaises exerçant une activité mentionnée à l'article
+34 et dont les résultats sont soumis à l'impôt sur les sociétés dans les conditions de droit commun, qui effectuent dans un
+Etat étranger une implantation sous la forme d'un établissement ou d'une filiale, qui satisfait aux conditions des quatre
+premiers alinéas du I et dont l'objet exclusif est la réalisation de prestations de services.
+
+L'agrément mentionné à l'alinéa précédent est délivré aux entreprises à raison des implantations à l'étranger qui ont pour
+objet de favoriser une exportation durable et significative de services.
+
+Le montant de l'investissement ouvrant droit à provision est limité à dix millions de francs.
+
+V Le bénéfice des dispositions du présent article peut également être accordé sur agrément du ministre chargé du budget dans
+les conditions et limites prévues par cet agrément, aux établissements de crédit et aux entreprises mentionnées au V de
+l'article 39 octies A qui réalisent des opérations prévues à ce même V, ainsi qu'aux groupements d'entreprises.
+
+VI Les dispositions du présent article s'appliquent aux investissements qui sont réalisés à compter du 1er janvier 1992, sous
+réserve des dispositions du cinquième alinéa du I quater et du deuxième alinéa du II bis de l'article 39 octies A et du
+deuxième alinéa du V de l'article 39 octies B.
+
+(1) Loi 91-1322 1991-12-30 art. 86 E : "Un décret fixe les modalités d'application du présent article, et notamment la liste
+des documents justificatifs des résultats des exploitations étrangères mentionnées à l'article 39 octies D du code général
+des impôts, qui doivent être produits par l'entreprise."
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 A, 201, 221, 34, 39 octies A, 39 octies B, 86
+	  - Loi n°91-1322 1991-12-30 art. 86 C Finances pour 1992
+
+	**Créé par**:
+
+	  - Loi - art. 86 () JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 39 (V)
+	  - Code général des impôts, CGI. - art. 39 octies C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA quinquies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA sexies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA ter (V)
 
 
 ###### Article 39 octodecies
@@ -3307,32 +3459,27 @@ portée au compte des frais généraux, dans des conditions qui sont également 
 
 ###### Article 39 quinquies A
 
-1  Les entreprises qui font des investissements en immeubles en vue de réaliser des opérations de recherche scientifique ou
+1 Les entreprises qui font des investissements en immeubles en vue de réaliser des opérations de recherche scientifique ou
 technique répondant aux définitions fixées par décret en conseil d'Etat (1) peuvent pratiquer un amortissement exceptionnel
-égal à 50 % [*pourcentage*] du prix de revient de ces investissements dès la première année de leur réalisation. La valeur
-résiduelle des immeubles est amortissable sur leur durée normale d'utilisation.
+égal à 50 % du prix de revient de ces investissements dès la première année de leur réalisation. La valeur résiduelle des
+immeubles est amortissable sur leur durée normale d'utilisation. 
 
 Les dispositions visés au premier alinéa ne s'appliquent pas pour les immeubles acquis ou achevés à compter du 1er janvier
-1991, à l'exception  des immeubles neufs dont le permis de construire a été délivré avant le 1er janvier 1991.
+1991, à l'exception des immeubles neufs dont le permis de construire a été délivré avant le 1er janvier 1991.
 
-1 bis  (Disposition périmée).
+1 bis (Disposition périmée). 
 
-2  Les dispositions du premier alinéa du 1 sont applicables :
+2 Les dispositions du premier alinéa du 1 sont applicables : 
 
-a  Aux actions acquises par les entreprises auprès des sociétés ou organismes publics ou privés agréés à cet effet par le
-ministre de l'économie et des finances;
+a Aux actions acquises par les entreprises auprès des sociétés ou organismes publics ou privés agréés à cet effet par le
+ministre de l'économie et des finances ; 
 
-b  Aux souscriptions, effectuées en numéraire par les entreprises françaises, au capital agréé des sociétés financières
-d'innovation visées à l'article 4-III de la loi n° 72-650 du 11 juillet 1972.
-
-Toutefois, le taux de l'amortissement exceptionnel est porté à 75 % pour les souscriptions au capital dont le montant est
-affecté, à titre principal, au financement d'opérations tendant à la réalisation d'un programme de recherche et de mise en
-oeuvre industrielle de techniques ou de produits nouveaux et associant à la société financière d'innovation des entreprises
-et des chercheurs dans le cadre d'une convention approuvée par l'autorité compétente. Un décret fixe les modalités
-d'application du présent alinéa.
+b Aux souscriptions, effectuées en numéraire par les entreprises françaises, au capital agréé des sociétés financières
+d'innovation visées à l'article 4-III de la loi n° 72-650 du 11 juillet 1972 complété par le II de l'article 88 de la loi n°
+91-1322 du 30 décembre 1991.
 
 3 Les dispositions du premier alinéa du 1 ne s'appliquent pas aux acquisitions d'actions visées au a du 2 effectuées à
-compter du 1er janvier 1991.
+compter du 1er janvier 1991. 
 
 (1) Annexe II, art. 16.
 
@@ -3340,16 +3487,16 @@ compter du 1er janvier 1991.
 
 	**Cite**:
 
-	  - CGIAN2 16
-	  - Loi n°72-650 1972-07-11 ART. 4 III
+	  - Loi n°72-650 du 11 juillet 1972 - art. 4 (V)
+	  - Loi - art. 88 (V)
 
 	**Modifié par**:
 
-	  - Loi - art. 29 (V) JORF 30 décembre 1990
+	  - Loi - art. 88 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -4126,7 +4273,7 @@ de la cession ou de la cessation par ce dernier de son exploitation, n'est pas c
 l'exploitation est continuée, soit par un ou plusieurs héritiers ou successibles en ligne directe ou par le conjoint
 survivant, soit par une société en nom collectif, en commandite simple ou à responsabilité limitée constituée exclusivement,
 soit entre lesdits héritiers ou successibles en ligne directe, soit entre eux et le conjoint survivant ou le précédent
-exploitant [*conditions d'exonération*].
+exploitant.
 
 L'application de cette disposition est subordonnée à l'obligation pour les nouveaux exploitants :
 
@@ -4139,21 +4286,28 @@ réalisation de ces éléments ;
 2° D'inscrire immédiatement à leur passif, en contrepartie des éléments d'actif pris en charge, des provisions pour
 renouvellement de l'outillage et du matériel égales à celles figurant dans les écritures du précédent exploitant.
 
-II. Les dispositions du I cessent de s'appliquer aux plus-values constatées à l'occasion de transmissions d'entreprises à
-titre onéreux ou d'apports en sociétés, réalisés à compter du 1er avril 1981.
+II. Les dispositions du I ne s'appliquent pas aux plus-values constatées à l'occasion de transmissions d'entreprises à titre
+onéreux ou d'apports en sociétés visés aux I et II de l'article 151 octies.
 
-A compter de la même date, elles sont applicables à toute transmission à titre gratuit d'entreprise individuelle.
+Elles sont applicables à toute transmission à titre gratuit d'entreprise individuelle.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 151 octies
+
 	**Modifié par**:
 
-	  - Loi n°80-1094 1980-12-30 ART. 12 III 1, 2 FINANCES POUR 1981 JORF 31 DECEMBRE 1980
-	  - Loi n°80-1094 du 30 décembre 1980 - art. 12 (P) JORF 31 DECEMBRE 1980
+	  - Loi n°88-15 du 5 janvier 1988 - art. 43 () JORF 6 janvier 1988
+	  - Loi n°88-15 du 5 janvier 1988 - art. 46 (V) JORF 6 janvier 1988
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 33 () JORF 28 décembre 1988
+	  - Loi - art. 18 (V) JORF 31 décembre 1991
+	  - Loi n°91-1322 1991-12-30 art. 18 I 1° 2°, II Finances pour 1992 JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -4179,6 +4333,10 @@ A compter de la même date, elles sont applicables à toute transmission à titr
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 H-0 bis (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 duodecies (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 sexies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 41 bis
@@ -4925,34 +5083,33 @@ Elles ne peuvent se cumuler avec l'exonération prévue au II de l'article 35 bi
 	  - Modification directe incorporée dans l'édition du 4 juillet 1992
 
 
-##### b : Régime de l'imposition d'après le bénéfice réel.
+##### c : Régime de l'imposition d'après le bénéfice réel
 
 ###### Article 53 A
 
-Sous réserve des dispositions des articles 302 ter-1 bis et 302 septies A bis, les contribuables, autres que ceux visés à
-l'article 50 sont tenus de souscrire chaque année, dans les conditions et délais prévus aux articles 172 et 175, une
-déclaration permettant de déterminer et de contrôler le résultat imposable de l'année ou de l'exercice précédent.
+Sous réserve des dispositions du I bis de l'article 302 ter et de l'article 302 septies A bis, les contribuables, autres que
+ceux visés aux articles 50-0 et 50, sont tenus de souscrire chaque année, dans les conditions et délais prévus aux articles
+172 et 175, une déclaration permettant de déterminer et de contrôler le résultat imposable de l'année ou de l'exercice
+précédent.
 
 Un décret fixe le contenu de cette déclaration ainsi que la liste des documents qui doivent y être joints. Ce décret édicte
 des définitions et des règles d'évaluation auxquelles les entreprises sont tenues de se conformer (1).
 
 Les modèles d'imprimés de la déclaration et des documents prévus ci-dessus sont fixés par arrêté (2).
 
-(1) Annexe III, art. 38 à 38 quaterdecies.
+(1) Annexe III, art. 38 à 38 B et 38 ter à 38 quaterdecies.
 
-(2) Arrêté du 14 mars 1984 (JONC du 17 mars).
+(2) Arrêté du 17 juillet 1987 (JORF des 20 et 21).
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Arrêté 1983-03-14
-	  - CGI 172
-	  - CGI 175
-	  - CGI 302 septies A bis
-	  - CGI 302 ter 1 bis
-	  - CGI 50
-	  - CGIAN3 38 à CGIAN3 38 quaterdecies
+	  - Loi - art. 20 () JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -5021,16 +5178,16 @@ Les modèles d'imprimés de la déclaration et des documents prévus ci-dessus s
 	  - Livre des procédures fiscales - art. L135 D (V)
 	  - Livre des procédures fiscales - art. L73 (V)
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 74 (V) JORF 30 décembre 1983
+	  - Arrêté 1983-03-14
+	  - CGI 302 ter 1 bis, 302 septies A bis, 50, 50-0, 172, 175
+	  - CGIAN3 38 à 38 quaterdecies
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°84-875 1984-10-01
+	  - HISTO: Edition du 4 juillet 1992
 
-
-##### c : Régime de l'imposition d'après le bénéfice réel
 
 ###### Article 54
 
@@ -5977,44 +6134,25 @@ I. A compter du premier exercice ouvert après le 31 décembre 1983, les avances
 revient dans les stocks d'entrée et de sortie des exploitations agricoles soumises au régime d'imposition d'après le bénéfice
 réel.
 
-II. Les exploitants assujettis au régime du bénéfice réel depuis une date antérieure au 1er janvier 1984 rapportent, par
-parts égales, aux revenus imposables au titre de l'année 1984 et des quatre années suivantes l'augmentation du montant des
-avances aux cultures constatée, le cas échéant, entre le 1er janvier 1984 et la date d'ouverture du premier exercice concerné
-par les dispositions du I. Les bénéfices correspondants sont imposés, au titre de chacune des années de rattachement, d'après
-le taux moyen effectivement appliqué aux autres revenus de l'intéressé.
-
-Pour bénéficier de cet étalement, les exploitants doivent joindre à la déclaration des résultats imposables au titre de
-l'année 1984 une note indiquant, de manière détaillée, la composition et le mode d'évaluation des avances aux cultures au 1er
-janvier 1984.
-
-III. En cas de transmission à titre gratuit, ouvrant droit à l'application des dispositions de l'article 41, ou d'apport à
-une société ou un groupement non passible de l'impôt sur les sociétés, au cours de l'année 1984 ou des quatre années
-suivantes, les bénéfices résultant de la réintégration des avances aux cultures peuvent être rapportés, dans les conditions
-prévues au II, aux résultats de l'exploitation nouvelle.
-
-Ce régime s'applique :
-
-- en cas de transmission à titre gratuit, avec l'accord du nouvel exploitant ;
-
-- en cas d'apport, sur option conjointe de l'apporteur et de la société ou du groupement bénéficiaire.
+II et III (Dispositions périmées).
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 41
-
 	**Codifié par**:
 
-	  - Décret n°84-875 1984-10-01
+	  - Décret n°92-836 1992-08-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 78 (V) JORF 30 décembre 1983
+	  - Décret n°92-836 du 27 août 1992 - art. 1 () JORF 29 août 1992
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 74 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 72 B
@@ -6093,7 +6231,8 @@ titre desquels elles ont été constituées.
 
 I. A compter du 1er janvier 1986 [*date, point de départ*], les exploitants agricoles soumis à un régime réel d'imposition,
 peuvent déduire chaque année de leur bénéfice, soit une somme de 10 000 F [*montant*], soit 10 p. 100 [*pourcentage*] de ce
-bénéfice dans la limite de 20 000 F.
+bénéfice dans la limite de 20 000 F. Pour les exercices ouverts à compter du 1er janvier 1992, le taux est porté à 20 p. 100
+dans la limite de 30 000 F.
 
 Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté pour le régime fiscal des sociétés de capitaux,
 la limite de la déduction visée au premier alinéa est multipliée par le nombre des associés exploitants sans pouvoir excéder
@@ -6115,7 +6254,7 @@ pour les stocks qui auraient pu y ouvrir droit.
 Lorsqu'elle n'est pas utilisée conformément à son objet, la déduction est rapportée aux résultats de la cinquième année
 suivant sa réalisation.
 
-II. L'apport d'une exploitation individuelle, dans les conditions visées au cinquième alinéa du I de l'article 151 octies, à
+II. L'apport d'une exploitation individuelle, dans les conditions visées au quatrième alinéa du I de l'article 151 octies, à
 une exploitation agricole à responsabilité limitée ou à un groupement agricole d'exploitation en commun par un exploitant
 agricole qui a pratiqué la déduction au titre d'un exercice précédant celui de l'apport n'est pas considéré pour
 l'application du I comme une cessation d'activité si la société bénéficiaire de l'apport en remplit les conditions et
@@ -6138,11 +6277,12 @@ l'occasion de l'apport en société (1).
 
 	**Modifié par**:
 
-	  - Loi - art. 103 (V) JORF 30 décembre 1990
+	  - Loi - art. 55 () JORF 31 décembre 1991
+	  - Loi - art. 18 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -6153,6 +6293,10 @@ l'occasion de l'apport en société (1).
 	  - Code général des impôts, CGI. - art. 72 D ter (V)
 	  - Code général des impôts, CGI. - art. 73 E (V)
 	  - Code rural et de la pêche maritime - art. L731-15 (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 72 E
@@ -7709,6 +7853,117 @@ B, le bénéfice des dispositions des II et III est subordonné à cet accord.
 	  - HISTO: Edition du 10 août 1987
 
 
+###### Article 83 ter
+
+I. 1. Les salariés d'une entreprise qui souscrivent en numéraire au capital initial ou aux augmentations de capital
+intervenant dans les trois ans qui suivent la date de constitution d'une société nouvelle ayant pour objet exclusif de
+racheter tout ou partie du capital de leur entreprise peuvent déduire du montant brut de la rémunération qui leur est versée
+par l'entreprise rachetée, dans la limite de ce montant et de 100 000 F par an, les intérêts des emprunts contractés pour
+financer leurs souscriptions, acquittés l'année de la souscription et chacune des cinq années suivantes ;
+
+Un salarié ne peut bénéficier que de l'un des avantages mentionnés à l'alinéa précédent ou à l'article 199 terdecies A et
+pour les souscriptions au capital d'une seule société.
+
+2. L'avantage prévu  au 1 est maintenu si les titres de la société nouvelle sont apportés à une société civile ou à un fonds
+commun de placement d'entreprise mentionné à l'article 21 de la loi n° 88-1201 du 23 décembre 1988 relative aux organismes de
+placement collectif en valeurs mobilières [*OPCVM*] , qui répondent aux conditions fixées au d du III.
+
+3. Les salariés des entreprises dont le capital est détenu pour plus de 50 p. 100 par la société rachetée peuvent bénéficier
+de l'avantage mentionné au I dans les mêmes conditions. Les intérêts ouvrant droit à l'avantage sont déductibles du montant
+brut de leur rémunération versée par la société qui les emploie.
+
+II. Les actions de la société nouvelle peuvent bénéficier d'un droit de vote double dès leur émission.
+
+Le droit de vote double qui a été attribué aux actions de la société nouvelle en application de l'alinéa précédent est
+conservé en cas d'apport de ces titres à une société civile ou à un fonds commun de placement mentionnés au 2 du I.
+
+La société nouvelle peut émettre des obligations convertibles ou des obligations à bons de souscription d'actions dès sa
+création. Pendant un délai de deux ans, ces titres ne peuvent être cédés qu'aux porteurs de titres de la société nouvelle.
+
+Les administrateurs de la société rachetée peuvent lui être liés par un contrat de travail.
+
+III. 1. Le bénéfice de l'avantage mentionné au 1 du I est subordonné au respect des conditions suivantes :
+
+a) La société rachetée et la société nouvelle doivent être soumises au régime de droit commun de l'impôt sur les sociétés ;
+
+b) La société rachetée doit exercer une activité industrielle ou commerciale au sens de l'article 34, une activité
+professionnelle au sens du 1 de l'article 92 ou une activité agricole ;
+
+c) La société nouvelle doit détenir dans les deux mois de sa constitution plus de 50 p. 100 des droits de vote de la société
+rachetée ;
+
+d) Les droits de vote attachés aux actions ou aux parts de la société nouvelle doivent, dès la souscription au capital
+initial, être détenus pour plus du tiers par les salariés de la société rachetée ou des entreprises mentionnées au 3 du I,
+soit directement, soit par l'intermédiaire de fonds communs de placement d'entreprise prévus aux articles 20 et 21 de la loi
+n° 88-1201 du 23 décembre 1988 précitée, soit par l'intermédiaire d'une société civile n'ayant pas opté pour l'impôt sur les
+sociétés. La société civile ou le fonds commun de placement doivent être constitués exclusivement entre les mêmes salariés.
+La société civile ou le fonds visé à l'article 21 mentionné ci-dessus doivent avoir pour seul objet la détention des titres
+de la société nouvelle ;
+
+e) Le nombre de salariés de la société rachetée détenant des titres de la société nouvelle ne peut être inférieur à cinq ni à
+un pourcentage de l'effectif total des salariés de la société rachetée employés au jour du rachat initial. Ce pourcentage est
+fixé à 10 p. 100 pour la partie de l'effectif qui n'excède pas 500 salariés et à 5 p. 100 pour la partie supérieure à cette
+limite.
+
+2. Le salarié qui détient directement ou indirectement au moins 50 p. 100 des droits de vote de la société nouvelle ou de la
+société rachetée ne peut bénéficier des dispositions prévues au 1 du I.
+
+Les titres de la société rachetée détenus directement ou indirectement par le salarié qui souhaite bénéficier des
+dispositions prévues au 1 du I doivent être apportés à la société nouvelle contre remise de titres de cette société.
+
+Pour l'application des deux alinéas précédents, un salarié détient indirectement des titres de la société nouvelle ou de la
+société rachetée si ces titres appartiennent :
+
+a) Aux membres de son foyer fiscal ;
+
+b) A une société dans laquelle il détient avec les membres de son foyer fiscal plus de 50 p. 100 des droits sociaux, y
+compris ceux qu'ils détiennent par personne ou sociétés interposées ;
+
+c) A une société dans laquelle il exerce en droit ou en fait la fonction de gérant ou de président, directeur général,
+président du conseil de surveillance ou membre du directoire.
+
+IV. En cas de cession d'actions ou parts de la société nouvelle ayant ouvert droit aux avantages prévus au 1 du I, de parts
+de la société civile ou du fonds commun de placement visés au 2 du I, avant le 31 décembre de la cinquième année suivant
+celle au cours de laquelle les salariés ont souscrit les titres de la société nouvelle, le total des intérêts déduits en
+application du 1 du I est ajouté à la rémunération brute perçue l'année de la cession.
+
+Pour l'application des dispositions précédentes, la cession de titres de la société nouvelle par la société civile ou le
+fonds commun de placement est assimilée à une cession directe de ces titres par le salarié.
+
+Ces dispositions ne s'appliquent pas en cas d'invalidité correspondant au classement dans la deuxième ou troisième des
+catégories prévues à l'article L. 341-4 du code de la sécurité sociale, de décès ou en cas de licenciement du salarié.
+
+V. Les souscriptions au capital de la société nouvelle qui ont ouvert droit au bénéfice d'une autre déduction du revenu,
+d'une réduction ou d'un crédit d'impôt ne peuvent bénéficier des avantages prévus au 1 du I.
+
+VI. Le présent article s'applique aux sociétés nouvelles créées à compter du 1er janvier 1992 et jusqu'au 31 décembre 1996 et
+aux souscriptions qui seront libérées au plus tard le 31 décembre 1999.
+
+VII. Les conditions d'application du présent article, notamment les obligations déclaratives des salariés et des sociétés ou
+organismes concernés, sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 terdecies A, 34, 92
+	  - Loi n°88-1201 1988-12-23 art. 21, art. 20
+	  - Loi n°88-1201 du 23 décembre 1988 - art. 21 (M)
+	  - Code de la sécurité sociale. - art. L341-4 (V)
+
+	**Créé par**:
+
+	  - Loi n°91-1322 1991-12-30 art. 90 Finances pour 1992 JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (M)
+
+
 ###### Article 84
 
 Pour les salariés travaillant par intermittence ou dont la profession comporte des embauchages et débauchages fréquents ainsi
@@ -8400,51 +8655,43 @@ des contribuables et des intermédiaires.
 
 ###### Article 92
 
-1  Sont considérés comme provenant de l'exercice d'une profession non commerciale ou comme revenus assimilés aux bénéfices
-non commerciaux [*définition*], les bénéfices des professions libérales, des charges et offices dont les titulaires n'ont pas
-la qualité de commerçants et de toutes occupations, exploitations lucratives et sources de profits ne se rattachant pas à une
-autre catégorie de bénéfices ou de revenus.
+1. Sont considérés comme provenant de l'exercice d'une profession non commerciale ou comme revenus assimilés aux bénéfices
+non commerciaux, les bénéfices des professions libérales, des charges et offices dont les titulaires n'ont pas la qualité de
+commerçants et de toutes occupations, exploitations lucratives et sources de profits ne se rattachant pas à une autre
+catégorie de bénéfices ou de revenus.
 
-2  Ces bénéfices comprennent notamment :
+2$ Ces bénéfices comprennent notamment :
 
-Les produits des opérations de bourse effectuées à titre habituel par les particuliers;
+1° Les produits des opérations de bourse effectuées à titre habituel par les particuliers ;
 
-Les produits de droits d'auteurs perçus par les écrivains ou compositeurs et par leurs héritiers ou légataires;
+2° Les produits de droits d'auteurs perçus par les écrivains ou compositeurs et par leurs héritiers ou légataires ;
 
-Les produits perçus par les inventeurs au titre soit de la concession de licences d'exploitation de leurs brevets, soit de la
-cession ou concession de marques de fabrique, procédés ou formules de fabrication;
+3° Les produits perçus par les inventeurs au titre soit de la concession de licences d'exploitation de leurs brevets, soit de
+la cession ou concession de marques de fabrique, procédés ou formules de fabrication ;
 
-Les remises allouées pour la vente de tabacs fabriqués.
+4° Les remises allouées pour la vente de tabacs fabriqués ;
 
-Les produits des opérations réalisées à titre habituel sur un marché à terme d'instruments financiers ou d'options
-négociables [*MONEP*] [*9ZZ*] ou sur le marché à terme de marchandises mentionné à l'article 150 octies, lorsque l'option
-prévue au 8° du I de l'article 35 n'était pas ouverte au contribuable ou lorsqu'il ne l'a pas exercée.
+5° Les produits des opérations réalisées à titre habituel sur un marché à terme d'instruments financiers ou d'options
+négociables, sur des bons d'option ou sur le marché à terme de marchandises mentionné à l'article 150 octies, lorsque
+l'option prévue au 8° du I de l'article 35 n'était pas ouverte au contribuable ou lorsqu'il ne l'a pas exercée.
 
-3  Les bénéfices réalisés par les greffiers titulaires de leur charge sont imposés, suivant les règles applicables aux
+3. Les bénéfices réalisés par les greffiers titulaires de leur charge sont imposés, suivant les règles applicables aux
 bénéfices des charges et offices, d'après leur montant net déterminé sous déduction des traitements et indemnités alloués aux
 greffiers par l'Etat. Ces traitements et indemnités sont rangés dans la catégorie visée au V de la présente sous-section.
-
-**Nota:**
-
-[*Nota - Ces dispositions s'appliquent aux profits réalisés à compter du 1er janvier 1989*].
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 35 I 8°
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°88-1149 1988-12-23 art. 71 III
+	  - CGI 35 I 8°, 150 octies
 
 	**Modifié par**:
 
-	  - Loi n°88-1149 du 23 décembre 1988 - art. 71 (V) JORF 28 décembre 1988, incorporée au code le 14 juillet 1989
+	  - Loi - art. 23 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°89-801 1989-10-27
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -8479,12 +8726,19 @@ greffiers par l'Etat. Ces traitements et indemnités sont rangés dans la catég
 	  - Livre des procédures fiscales - art. L80 B (V)
 	  - Livre des procédures fiscales - art. L96 CA (V)
 
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 2000-07-04 5G-5-00
+	  - TXT_ASSOCIE: Instruction 2002-09-16 5G-10-02
+	  - TXT_ASSOCIE: Instruction 2002-10-28 5G-12-02
+
 
 ##### Gains nets en capital réalisés à l'occasion de la cession à titre onéreux de valeurs mobilières et de droits sociaux.
 
 ###### Article 92 B
 
-Sont considérés comme des bénéfices non commerciaux, les gains nets retirés des cessions à titre onéreux, effectuées
+I Sont considérés comme des bénéfices non commerciaux, les gains nets retirés des cessions à titre onéreux, effectuées
 directement ou par personne interposée, de valeurs mobilières inscrites à la cote officielle ou à la cote du second marché
 d'une bourse de de valeurs ou négociées sur le marché hors cote, de droits portant sur ces valeurs ou de titres
 représentatifs de telles valeurs, lorsque le montant de ces cessions excède, par foyer fiscal, 150.000 F par an.
@@ -8497,28 +8751,47 @@ retraite, du chômage, du redressement judiciaire ainsi que de l'invalidité ou 
 des époux soumis à une imposition commune.
 
 Ces dispositions ne sont pas applicables aux échanges de titres résultant d'une opération d'offre publique, de fusion, de
-scission, d'absorption d'un fonds commun de placement par une société d'investissement à capital variable, de conversion, de
-division ou de regroupement, réalisée conformément à la réglementation en vigueur (2).
+scission, d'absorption d'un fonds commun de placement par une société d'investissement à capital variable [*SICAV*] , de
+conversion, de division ou de regroupement, réalisée conformément à la réglementation en vigueur (2). Pour les échanges
+réalisés à compter du 1er janvier 1992, cette exception concerne exclusivement les opérations de conversion, de division ou
+de regroupement réalisées conformément à la réglementation en vigueur.
 
 Le chiffre de 150.000 F figurant au premier alinéa est révisé, chaque année dans la même proportion que la septième tranche
 du barème de l'impôt sur le revenu (3).
+
+II 1° A compter du 1er janvier 1992 ou du 1er janvier 1991 pour les apports de titres à une société passible de l'impôt sur
+les sociétés, l'imposition de la plus-value réalisée en cas d'échange de titres résultant d'une opération d'offre publique,
+de fusion, de scission, d'absorption d'un fonds commun de placement par une société d'investissement à capital variable
+réalisée conformément à la réglementation en vigueur ou d'un apport de titres à une société soumise à l'impôt sur les
+sociétés, peut être reportée au moment où s'opérera la cession ou le rachat des titres reçus lors de l'échange.
+
+Ces dispositions sont également applicables aux échanges avec soulte à condition que celle-ci n'excède pas 10 p. 100 de la
+valeur nominale des titres reçus. Toutefois, la partie de la plus-value correspondant à la soulte reçue est imposée
+immédiatement.
+
+Le report est subordonné à la condition que le contribuable en fasse la demande et déclare le montant de la plus-value dans
+les conditions prévues à l'article 97.
+
+2° Les conditions d'application des dispositions précédentes, et notamment les modalités de déclaration de la plus-value et
+de report de l'imposition, sont précisées par décret (4).
 
 (1) Annexe II, art. 39 A.
 
 (2) En ce qui concerne les plus-values réalisées dans le cadre des opérations de nationalisation, voir art. 248 B.
 
-(3) Chiffre fixé à 307.600 F pour 1990, à 298.000 F pour 1989.
+(3) Chiffre fixé à 307.600 F pour 1990, à 316.900 F pour 1991.    (4) Annexe III, art. 41 quatervicies à 41 sexvicies.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 248 B
+	  - CGI 97, 248 B
 	  - CGIAN2 39 A
+	  - CGIAN3 41 quatervicies à 41 sexvicies
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Cité par**:
 
@@ -8527,7 +8800,7 @@ du barème de l'impôt sur le revenu (3).
 
 	**Modifié par**:
 
-	  - Loi - art. 30 () JORF 30 décembre 1990
+	  - Loi n°91-716 du 26 juillet 1991 - art. 24 (V) JORF 27 juillet 1991
 
 
 ###### Article 92 B bis
@@ -8918,6 +9191,9 @@ l'exclusion de la part de loyer visée à l'article 39-4.
 sont pas prises en compte pour la détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du fait de la
 réduction d'impôt mentionnée à l'article 199 quater B.
 
+Les dépenses exposées en vue de l'obtention d'un diplôme ou d'une qualification professionnelle dans la perspective d'une
+insertion ou d'une conversion professionnelle par les personnes tirant un revenu de la pratique d'un sport.
+
 1 bis. (Abrogé).
 
 1 ter. Les agents généraux d'assurances et leurs sous-agents peuvent demander que le revenu imposable provenant des
@@ -8971,26 +9247,30 @@ profession.
 6. Les biens acquis à l'échéance des contrats mentionnés au III de l'article 93 quater constituent des éléments d'actif
 affectés à l'exercice de l'activité non commerciale pour l'application du présent article.
 
+7. Les sommes perçues postérieurement à la cession à titre onéreux par le cédant d'une entreprise individuelle exerçant une
+activité industrielle, commerciale ou artisanale en raison de son activité au profit du cessionnaire pendant la période de
+trois mois précédant la cession sont soumises à l'impôt sur le revenu sous déduction d'un abattement de 10 000 F.
+
+Cette disposition s'applique si le cédant est âgé de soixante ans au moins et soixante-cinq ans au plus à la date de la
+cession et s'il cesse d'exercer une activité de chef d'entreprise (2).
+
 (1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de nationalisation, voir art. 248 B.
+
+(2) Ces dispositions s'appliquent aux cessions intervenues à compter du 1er janvier 1992.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 100 bis
-	  - CGI 199 quater B
-	  - CGI 248 B
-	  - CGI 39 4
-	  - CGI 83 3°
-	  - CGI 93 quater I, II, III
+	  - CGI 199 quater B, 248 B, 39 4, 100 bis, 83 3°, 93 quater
 
 	**Modifié par**:
 
-	  - Loi - art. 19 (V) JORF 30 décembre 1990
+	  - Loi - art. 92 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -9044,8 +9324,8 @@ II. L'imposition de la plus-value constatée lors de l'apport par un associé de
 cet associé. L'application de cette disposition est subordonnée à la condition que l'apport soit réalisé dans le délai de dix
 ans à compter de la publication du décret en Conseil d'Etat propre à la profession considérée.
 
-Les dispositions du premier alinéa cessent de s'appliquer aux plus-values constatées à l'occasion d'apports en sociétés
-réalisés à compter du 1er avril 1981 [*date*].
+Les dispositions du premier alinéa ne s'appliquent pas aux plus-values constatées à l'occasion d'apports en sociétés visés
+aux I et II de l'article 151 octies.
 
 III. Pour l'application des dispositions du premier alinéa du I, les contrats de crédit-bail conclus dans les conditions
 prévues aux 1° et 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le crédit-
@@ -9056,20 +9336,20 @@ non commercial.
 
 	**Cite**:
 
-	  - CGI 39 duodecies
-	  - CGI 39 quaterdecies
-	  - CGI 39 quindecies
-	  - CGI 39 terdecies 1 bis
+	  - CGI 39 duodecies, 39 terdecies 1 bis, 39 quaterdecies, 39 quindecies, 151 octies
 	  - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
 	  - Loi n°66-879 1966-11-29
 
 	**Modifié par**:
 
-	  - Loi - art. 19 (V) JORF 30 décembre 1990
+	  - Loi n°88-15 du 5 janvier 1988 - art. 43 () JORF 6 janvier 1988
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 33 () JORF 28 décembre 1988
+	  - Loi n°89-935 1989-12-29 art. 26 Finances pour 1990 JORF 30 décembre 1990
+	  - Loi n°91-1322 1991-12-30 art. 18-I-1°, 2°, II Finances pour 1992 JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -9085,6 +9365,10 @@ non commercial.
 	  - Code général des impôts, CGI. - art. 238 quindecies (V)
 	  - Code général des impôts, CGI. - art. 93 (VT)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 novovicies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### Gains nets en capital réalisés à l'occasion de la cession à titre onéreux de valeurs mobilières et de droits sociaux.
@@ -10012,8 +10296,8 @@ montant total des résultats, imposables ou exonérés, après déduction de l'i
 1 bis Le supplément d'impôt sur les sociétés prévu au c du paragraphe I de l'article 219 est dû à raison des sommes qui
 cessent d'être à la disposition de l'exploitation française au cours des exercices ouverts à compter du 1er janvier 1989 dans
 la limite de la somme des bénéfices réputés distribués en application du I au titre des mêmes exercices diminués des plus-
-values nettes à long terme soumises au régime prévu au a du I de l'article 219 réalisées au cours de ces exercices et
-augmentés du montant des plus-values nettes qui cessent d'être à la disposition de l'exploitation française.
+values nettes à long terme soumises au régime prévu aux a et a bis du I de l'article 219 réalisées au cours de ces exercices
+et augmentés du montant des plus-values nettes qui cessent d'être à la disposition de l'exploitation française.
 
 2  Toutefois, la société peut demander que la retenue à la source exigible en vertu des dispositions du 1 et de l'article 119
 bis-2 fasse l'objet d'une nouvelle liquidation dans la mesure où les sommes auxquelles elle a été appliquée excèdent le
@@ -10038,16 +10322,16 @@ siège en France, et qu'elle leur a transféré les sommes correspondant à la r
 
 	**Modifié par**:
 
-	  - Loi - art. 4 () JORF 30 décembre 1990
+	  - Loi - art. 11 () JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1673 bis (VD)
 	  - Code général des impôts, CGI. - art. 235 ter ZCA (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 115 ter
@@ -10423,8 +10707,7 @@ b  Des produits des sociétés en commandite simple revenant aux associés en no
 
 3° Les répartitions faites aux associés, aux actionnaires et aux porteurs de parts de fondateur des mêmes sociétés, à un
 titre autre que celui de remboursement d'apports ou de primes d'émission. Une répartition n'est réputée présenter le
-caractère d'un remboursement d'apport ou de prime que si tous les bénéfices ou réserves ont été auparavant répartis
-[*condition*] ;
+caractère d'un remboursement d'apport ou de prime que si tous les bénéfices ou réserves ont été auparavant répartis ;
 
 4° Le montant des jetons de présence, remboursements forfaitaires de frais et toutes autres rémunérations revenant, à quelque
 titre que ce soit, aux administrateurs ou aux membres du conseil de surveillance des sociétés anonymes visées au 1°;
@@ -10447,15 +10730,19 @@ et 2°;
 des produits distribués.
 
 12° Les profits résultant des opérations réalisées à l'étranger sur un marché à terme d'instruments financiers ou d'options
-négociables [*MONEP*].
+négociables ou sur des bons d'option.
 
 Cette disposition est applicable aux profits résultant des opérations à terme sur marchandises réalisées à l'étranger.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi - art. 23 (V) JORF 31 décembre 1991
+
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -10476,9 +10763,9 @@ Cette disposition est applicable aux profits résultant des opérations à terme
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies R (Ab)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 undecies (V)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°90-1168 1989-12-29 art. 28 II Finances pour 1991 JORF 30 décembre 1990
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 121
@@ -10751,20 +11038,28 @@ Les conditions d'application des articles 124 B à 124 D sont fixées par décre
 
 ###### Article 125
 
-Le revenu est déterminé par le montant brut des intérêts, arrérages ou tous autres produits des valeurs désignées à l'article
-124 [*calcul*].
+Le revenu est déterminé par le montant brut des intérêts, arrérages, primes de remboursement ou tous autres produits des
+valeurs désignées à l'article 124. 
 
 L'impôt est dû par le seul fait, soit du paiement des intérêts, de quelque manière qu'il soit effectué, soit de leur
-inscription au débit ou au crédit d'un compte [*exigibilité*].
+inscription au débit ou au crédit d'un compte. 
 
 En cas de capitalisation des intérêts d'un prix de vente de fonds de commerce, le fait générateur de l'impôt est reporté à la
 date du paiement effectif des intérêts.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi - art. 57 (V) JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
 	**Cite**:
 
-	  - CGI 124
+	  - Code général des impôts, CGI. - art. 124 (V)
 
 	**Cité par**:
 
@@ -10772,7 +11067,7 @@ date du paiement effectif des intérêts.
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - TXT_ASSOCIE: Réponse ministérielle 1997-05-26 5I-6-97
 
 
 ##### 4 bis : Prélèvement sur les produits des bons ou contrats de capitalisation.
@@ -11069,9 +11364,7 @@ VI. Les modalités et conditions d'application du présent article sont fixées 
 
 I. Les personnes physiques qui mettent à la disposition de la société dont elles sont associées ou actionnaires des sommes
 portées sur un compte bloqué individuel peuvent, pour l'imposition des intérêts versés au titre de ces sommes, opter pour le
-prélèvement libératoire au taux de 15 % prévu à l'article 125 A sur la partie de ces intérêts rémunérant la fraction de ces
-sommes qui n'excède pas un montant, par associé ou actionnaire, de 200.000 F jusqu'en 1990 ou 400.000 F à compter de 1991, et
-à condition (1):
+prélèvement libératoire au taux de 15 % prévu à l'article 125 A à condition (1):
 
 a. Qu'elles soient incorporées au capital dans un délai maximum de cinq ans à compter de la date de leur dépôt ; dans les
 douze mois suivant leur dépôt, l'assemblée des associés statuant selon les conditions fixées pour la modification des statuts
@@ -11091,24 +11384,19 @@ II. Le non-respect des obligations fixées au I entraîne, nonobstant toutes dis
 des impôts dont ont été dispensés les associés ou actionnaires et la société sans préjudice de l'intérêt de retard prévu à
 l'article 1727 décompté de la date à laquelle ces impôts auraient dû être acquittés.
 
-(1) Loi 91-1322 1991-12-30 art. 17 Finances pour 1992 "Pour l'imposition des intérêts courus à compter du 1er janvier 1992,
-la limitation de montant prévue au premier alinéa de l'article 125 C du code général des impôts est supprimée."
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 125 A
-	  - CGI 1727
-	  - CGI 39 1 3°
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
+	  - CGI 125 A, 39, 1727
 
 	**Modifié par**:
 
-	  - Loi - art. 11 () JORF 30 décembre 1990
+	  - Loi - art. 17 (V) JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ##### 4 ter : Prélèvement sur les produits de placements à revenu fixe
@@ -12752,6 +13040,58 @@ l'expropriation. Dans ce cas, le paiement de l'impôt peut être différé jusqu
 	  - Loi - art. 10 (V) JORF 31 décembre 2003
 
 
+###### Article 150 V
+
+Sous réserve des dispositions propres aux bénéfices professionnels, lorsqu'une personne physique ayant conclu avec une
+société un bail à construction prévu par les articles L. 251-1 à L. 251-8 du code de la construction et de l'habitation
+apporte, lors de la résiliation anticipée du bail, son immeuble à la société locataire, l'imposition de la plus-value
+réalisée à cette occasion peut, sur demande expresse du contribuable, être reportée au moment où s'opérera la cession ou le
+rachat des droits sociaux reçus en rémunération de l'apport.
+
+Cette mesure s'applique aux plus-values d'apports réalisés en tre le 1er janvier et le 31 décembre 1992.
+
+Les dispositions qui précèdent concernent exclusivement les apports consentis à des sociétés dont le capital est détenu pour
+plus de 50 p. 100 par des personnes physiques et dont le chiffre d'affaires de l'exercice précédant l'apport, rapporté s'il y
+a lieu à un exercice de douze mois, n'excède pas 500 millions de francs (1) hors taxes si l'entreprise exerce son activité
+principale dans le secteur de l'industrie et 100 millions de francs (1) hors taxes si elle exerce son activité dans un autre
+secteur. Pour les entreprises qui n'exercent pas exclusivement une activité industrielle, le caractère principal de celle-ci
+est apprécié en comparant le chiffre d'affaires de cette activité à celui de l'ensemble des autres activités en retenant le
+chiffre d'affaires de l'activité commerciale à hauteur du tiers de son montant.
+
+(1) Montants périmés au 1er janvier 2002.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi - art. 95 (V) JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+	  - Décret n°2002-923 2002-06-06
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2002-923 du 6 juin 2002 - art. 1 () JORF 8 juin 2002
+	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 2001-12-14 8M-3-01
+
+	**Cité par**:
+
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 27 (V)
+	  - Code général des impôts, CGI. - art. 150 U (V)
+	  - Code général des impôts, CGI. - art. 150 UA (V)
+	  - Code général des impôts, CGI. - art. 1609 nonies G (V)
+	  - Code général des impôts, CGI. - art. 1649-0 A (P)
+	  - Code général des impôts, CGI. - art. 244 bis A (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L251-1 à L251-8
+
+
 ##### B: Détermination de la plus-value imposable.
 
 ###### Article 150 H
@@ -12948,6 +13288,99 @@ Les dispositions de l'article 163 ne sont pas applicables.
 	  - Loi n°89-18 du 13 janvier 1989 - art. 24 (V)
 
 
+##### D : Dispositions particulières.
+
+###### Article 150 U
+
+Pour l'application des dispositions de l'article 150 A, lorsque le produit de la vente d'un immeuble est intégralement
+apporté à une société non cotée soumise à l'impôt sur les sociétés par une personne physique en vue d'une augmentation de
+capital, l'imposition de la plus-value peut, sur demande expresse du contribuable, être reportée au moment où s'opérera la
+cession ou le rachat des droits sociaux reçus en rémunération de l'apport.
+
+Lorsque le produit de la cession excède 500 000 F, le montant de la plus-value dont l'imposition est reportée est déterminé
+selon le rapport existant entre 500 000 F et le prix de cession. Dans ce cas, le montant de l'apport peut être limité à 500
+000 F.
+
+La plus-value dont l'imposition a été reportée est exonérée à condition qu'à l'issue de la cinquième année qui suit
+l'augmentation de capital, les capitaux propres mentionnés au 5° du II de l'article 220 sexies n'aient pas fait l'objet d'une
+réduction.
+
+La plus-value est exonérée lorsque la réduction des capitaux propres est exclusivement motivée par l'apurement des pertes
+subies par la société après l'augmentation de capital.
+
+Ces dispositions s'appliquent aux plus-values de cession, autres que celles qui sont mentionnées à l'article 150 J, réalisées
+entre le 1er janvier et le 31 décembre 1992 à condition que l'augmentation de capital intervienne dans les trente jours de la
+cession de l'immeuble et qu'elle bénéficie à une société dont le capital est détenu pour plus de 50 p. 100 par des personnes
+physiques et dont le chiffre d'affaires de l'exercice précédant l'apport, rapporté s'il y a lieu à un exercice de douze mois,
+n'excède pas 500 millions de francs hors taxes si l'entreprise exerce son activité principale dans le secteur de l'industrie
+et 100 millions de francs hors taxes si elle exerce son activité dans un autre secteur.
+
+Ces dispositions sont exclusives de l'application des dispositions des articles 83 ter, 163 quindecies, 199 undecies, 199
+terdecies, 199 terdecies A, 220 sexies et 238 bis HE.
+
+Un décret fixe les conditions d'application du présent article, et notamment les obligations déclaratives du contribuable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 A, 220 sexies, 150 J, 83 ter, 163 quindecies, 199 undecies, 199 terdecies, 199 terdecies A, 238 bis HE
+
+	**Créé par**:
+
+	  - Loi - art. 93 (V) JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Cité par**:
+
+	  - Décret n°2012-1073 du 21 septembre 2012 (V)
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 27 (M)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 317 B (V)
+	  - Code de la sécurité sociale. - art. L136-7 (M)
+	  - Code de la sécurité sociale. - art. L136-7 (V)
+	  - Code général des impôts, CGI. - art. 150 UB (V)
+	  - Code général des impôts, CGI. - art. 150 UC (V)
+	  - Code général des impôts, CGI. - art. 150 UD (V)
+	  - Code général des impôts, CGI. - art. 150 V (V)
+	  - Code général des impôts, CGI. - art. 150 VB (V)
+	  - Code général des impôts, CGI. - art. 150 VC (V)
+	  - Code général des impôts, CGI. - art. 150 VD (V)
+	  - Code général des impôts, CGI. - art. 150 VF (V)
+	  - Code général des impôts, CGI. - art. 150 VG (V)
+	  - Code général des impôts, CGI. - art. 150 VH (V)
+	  - Code général des impôts, CGI. - art. 151 quater (V)
+	  - Code général des impôts, CGI. - art. 151 septies (VD)
+	  - Code général des impôts, CGI. - art. 151 sexies (VD)
+	  - Code général des impôts, CGI. - art. 1529 (V)
+	  - Code général des impôts, CGI. - art. 1531 (T)
+	  - Code général des impôts, CGI. - art. 1609 nonies F (VD)
+	  - Code général des impôts, CGI. - art. 1609 nonies G (V)
+	  - Code général des impôts, CGI. - art. 1635 ter A (Ab)
+	  - Code général des impôts, CGI. - art. 164 B (V)
+	  - Code général des impôts, CGI. - art. 1649-0 A (P)
+	  - Code général des impôts, CGI. - art. 170 (VD)
+	  - Code général des impôts, CGI. - art. 1727 (VD)
+	  - Code général des impôts, CGI. - art. 200 B (V)
+	  - Code général des impôts, CGI. - art. 238 octies B (V)
+	  - Code général des impôts, CGI. - art. 238 terdecies (V)
+	  - Code général des impôts, CGI. - art. 244 bis A (V)
+	  - Code général des impôts, CGI. - art. 72 E (V)
+	  - Code général des impôts, CGI. - art. 76 A (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74 SG (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74 SI (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74 SJ (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies GA (Ab)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duovicies-O H (V)
+	  - Livre des procédures fiscales - art. L16 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+
 ##### VIII : Dispositions communes aux différentes catégories de revenus
 
 ##### 1 : Détermination des revenus des avoirs à l'étranger
@@ -13128,7 +13561,7 @@ l'article 691.
 I. Les plus-values soumises au régime des articles 39 duodecies à 39 quindecies et réalisées par une personne physique à
 l'occasion de l'apport à une société soumise à un régime réel d'imposition de l'ensemble des éléments de l'actif immobilisé
 affectés à l'exercice d'une activité professionnelle ou de l'apport d'une branche complète d'activité peuvent bénéficier des
-dispositions suivantes :
+dispositions suivantes (1) :
 
 L'imposition des plus-values afférentes aux immobilisations non amortissables fait l'objet d'un report jusqu'à la date de la
 cession à titre onéreux ou du rachat des droits sociaux reçus en rémunération de l'apport de l'entreprise ou jusqu'à la
@@ -13140,12 +13573,16 @@ réalise ;
 L'imposition des plus-values afférentes aux autres immobilisations est effectuée au nom de la société bénéficiaire de
 l'apport selon les modalités prévues au d du 3 de l'article 210 A pour les fusions de sociétés.
 
+Les profits afférents aux stocks ne sont pas imposés au nom de l'apporteur si la société bénéficiaire de l'apport inscrit ces
+stocks à l'actif de son bilan à la valeur comptable pour laquelle ils figurent au dernier bilan de l'entreprise apporteuse
+(1).
+
 Sous les conditions fixées au a du 3 de l'article 210 A, les provisions afférentes aux éléments transférés ne sont rapportées
 au résultat imposable de l'entreprise apporteuse que si elles deviennent sans objet.
 
 Ces dispositions sont applicables à l'apport à une société, par un exploitant individuel, de l'ensemble des éléments de
 l'actif immobilisé à l'exception des immeubles, si les immeubles sont immédiatement donnés à bail rural dans les conditions
-visées au 2° de l'article 743 du code général des impôts à la société bénéficiaire de l'apport.
+visées au 2° de l'article 743 du code général des impôts à la société bénéficiaire de l'apport (2).
 
 La résiliation du bail avant son terme entraîne l'établissement d l'impôt sur les plus-values afférentes aux éléments
 amortissables, au nom de la société bénéficiaire de l'apport au titre de l'exercice au cours duquel l'apport est intervenu.
@@ -13155,11 +13592,11 @@ plus-value qui aura été rattachée.
 
 II. Le régime défini au I s'applique [* champ d'application*] :
 
-- sur simple option exercée dans l'acte constatant la constitution de la société, lorsque l'apport de l'entreprise est
-effectué à une société en nom collectif, une société en commandite simple, une société à responsabilité limitée dans laquelle
-la gérance est majoritaire ou à une société civile exerçant une activité professionnelle ;
+Sur simple option exercée dans l'acte constatant la constitution de la société, lorsque l'apport de l'entreprise est effectué
+à une société en nom collectif, une société en commandite simple, une société à responsabilité limitée dans laquelle la
+gérance est majoritaire ou à une société civile exerçant une activité professionnelle ;
 
-- sur agrément (2), lorsque l'apport est consenti à une société par actions, à une société à responsabilité limitée dans
+Sur agrément (3), lorsque l'apport est consenti à une société par actions, à une société à responsabilité limitée dans
 laquelle la gérance est minoritaire ou à une société préexistante ; l'agrément est supprimé pour les apports réalisés à
 compter du 1er janvier 1988.
 
@@ -13179,7 +13616,9 @@ associés de ces sociétés de l'attribution qui leur est faite des parts de la
 
 (1) Ces dispositions s'appliquent aux opérations d'apport réalisées à compter du 18 septembre 1991.
 
-(2) En ce qui concerne les modalités d'octroi de l'agrément, voir Annexe 4, art. 170 septies B et 170 octies.
+(2) Ces dispositions s'appliquent aux opérations d'apport réalisées à compter du 1er janvier 1989.
+
+(3) En ce qui concerne les modalités d'octroi de l'agrément, voir Annexe 4, art. 170 septies B et 170 octies.
 
 **Liens relatifs à cet article**
 
@@ -13192,8 +13631,10 @@ associés de ces sociétés de l'attribution qui leur est faite des parts de la
 	**Modifié par**:
 
 	  - Loi - art. 18 (V) JORF 31 décembre 1991
-	  - Loi n°91-1322 1991-12-30 art. 18 I 1°, II Finances pour 1992 JORF 31 décembre 1991
-	  - Modification directe intégrée dans l'édition du 4 juillet 1992
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -13529,190 +13970,6 @@ permettant de réduire d'au moins 50 p. 100 le niveau acoustique d'installations
 	  - Livre des procédures fiscales - art. L80 B (V)
 
 
-##### 2me Sous-section : Revenu global
-
-##### I : Revenu imposable.
-
-###### Article 157
-
-N'entrent pas en compte pour la détermination du revenu net global :
-
-1° et 2° (Abrogés) ;
-
-2° bis (Périmé) ;
-
-3° Les lots et les primes de remboursement attachés aux bons et obligations émis en France avec l'autorisation du ministre de
-l'économie et des finances à l'exception des primes de remboursement attachées aux titres émis à compter du 1er juin 1985
-lorsqu'elles sont supérieures à 5 % [*pourcentage maximal*] du nominal (1) et de celles distribuées ou réparties à compter du
-1er janvier 1989 par un organisme de placement collectif en valeurs mobilières visé par la loi n° 88-1201 du 23 décembre 1988
-lorsque ces primes représentent plus de 10 p. 100 du montant de la distribution ou de la répartition.
-
-3° bis (Dispositions transférées sous le 3 °) ;
-
-4° Les pensions, prestations et allocations affranchies de l'impôt en vertu de l'article 81 ;
-
-5° Les produits et plus-values que procurent les placements effectués dans le cadre d'un plan d'épargne en vue de la retraite
-ainsi que les avoirs fiscaux et crédits d'impôt attachés à ces produits et remboursés par l'Etat ; ces sommes s'ajoutent aux
-versements effectués sur le plan (2) ;
-
-6° Les gratifications allouées aux vieux travailleurs à l'occasion de la délivrance de la médaille d'honneur par le ministère
-des affaires sociales ;
-
-7° Les intérêts des sommes inscrites sur les livrets des caisses d'épargne à l'exception des intérêts des livrets
-supplémentaires ouverts dans les conditions prévues au décret n° 65-1158 du 24 décembre 1965 ;
-
-7° bis (Disposition périmée) ;
-
-7° ter La rémunération des sommes déposées sur les livrets d'épargne populaire ouverts dans les conditions prévues par la loi
-n° 82-357 du 27 avril 1982 ;
-
-8° (Devenu sans objet).
-
-8° bis Les intérêts des titres de l'emprunt 4 1/2 % 1973 autorisé par la loi n° 73-965 du 16 octobre 1973, ainsi que les
-plus-values éventuelles de cession ou de remboursement de ces titres ;
-
-8° ter Les plus-values éventuelles de cession ou de remboursement des titres de l'emprunt d'Etat 8,80 % 1977 autorisé par la
-loi n° 77-486 du 13 mai 1977 ;
-
-9° (Dispositions devenues sans objet) ;
-
-9° bis Les intérêts des sommes inscrites sur les comptes d'épargne-logement ouverts en application des articles L 315-1 à L
-315-6 du code de la construction et de l'habitation ainsi que la prime d'épargne versée aux titulaires de ces comptes ;
-
-9° ter Les intérêts versés au titulaire du compte d'épargne sur livret ouvert en application de l'article 80 de la loi n°
-76-1232 du 29 décembre 1976 (3) :
-
-- aux travailleurs, salariés de l'artisanat, des ateliers industriels, des chantiers et de l'agriculture ;
-
-- aux aides familiaux ou aux associés d'exploitation désignés à l'article 1106-1-I-2° du code rural ;
-
-- aux aides familiaux et associés d'exploitation de l'artisanat désignés à l'article 2 du décret n° 83-487 du 10 juin 1983
-relatif au répertoire des métiers.
-
-Il en est de même de la prime versée au travailleur manuel qui procède effectivement à la création ou au rachat d'une
-entreprise artisanale ;
-
-9° quater Le produit des placements en valeurs mobilières effectués sur un compte pour le développement industriel [*CODEVI*]
-ouvert par les personnes physiques ayant leur domicile fiscal en France dans les établissements et organismes autorisés à
-recevoir des dépôts.
-
-Il ne peut être ouvert qu'un compte par contribuable ou un pour chacun des époux soumis à une imposition commune.
-
-Les sommes déposées sur le compte prévu au premier alinéa ne peuvent excéder un plafond fixé par décret (4) dans la limite de
-20.000 F par compte.
-
-Les valeurs mobilières sont celles servant au financement de l'industrie française et entrant dans des catégories fixées par
-décret (5) ;
-
-9° quinquies Les intérêts des sommes inscrites sur les livrets d'épargne-entreprise ouverts dans les conditions fixées par
-l'article 1er de la loi n° 84-578 du 9 juillet 1984 sur le développement de l'initiative économique.
-
-10° à 13° (Dispositions périmées) ;
-
-14° et 15° (Devenus sans objet).
-
-16° Les produits des placements en valeurs mobilières effectués en vertu des engagements d'épargne à long terme pris par les
-personnes physiques dans les conditions prévues à l'article 163 bis A ;
-
-16° bis Les sommes et revenus visés à l'article 163 bis AA ;
-
-17° Les sommes et revenus visés à l'article 163 bis B ;
-
-18° (Dispositions codifiées sous les articles 81-16° quater et 81-20°) ;
-
-19° L'indemnité de départ versée aux adhérents des caisses d'assurance-vieillesse des artisans et commerçants, en application
-de l'article 106 de la loi n° 81-1160 du 30 décembre 1981 ;
-
-20° Les intérêts des titres d'indemnisation prioritaires et des titres d'indemnisation créés en application de la loi n° 78-1
-du 2 janvier 1978 relative à l'indemnisation des français rapatriés d'outre-mer.
-
-21° Les avantages visés à l'article 163 bis D.
-
-22° Le versement au-delà de la huitième année qui suit l'ouverture d'un plan d'épargne populaire des produits capitalisés, de
-la rente viagère et de la prime d'épargne auxquels le plan ouvre droit. Il en est de même lorsque le retrait des fonds
-intervient avant la fin de la huitième année à la suite du décès du titulaire du plan ou dans les deux ans du décès du
-conjoint soumis à imposition commune ou de l'un des événements suivants survenu à l'un d'entre eux :
-
-Expiration des droits aux allocations d'assurance chômage prévues par le code du travail en cas de licenciement ;
-
-Cessation d'activité non salariée à la suite d'un jugement de liquidation judiciaire en application des dispositions de la
-loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises ;
-
-Invalidité correspondant au classement dans les 2e ou 3° catégories prévues à l'article L. 341-4 du code de la sécurité
-sociale.
-
-Un décret en Conseil d'Etat précise les modalités d'application ainsi que les obligations déclaratives des contribuables et
-des intermédiaires.
-
-(1) Voir article 125 D.
-
-(2) Annexe III, 41 ZC et 41 ZG.
-
-(3) A compter de la date de promulgation de la loi n°84-578 du 9 juillet 1984, il ne peut plus être ouvert de livrets. Les
-livrets d'épargne au profit des travailleurs manuels peuvent être transformés en livret d'épargne-entreprise dans les
-conditions fixées par le décret n° 85-68 du 22 janvier 1985 (J.O. du 23).
-
-(4) Plafond fixé à 10.000 F par compte (décret n° 83-872 du 30 septembre 1983, JO du 2 octobre).
-
-(5) Décret n° 83-872 du 30 septembre 1983 (JO du 2 octobre).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 81, 163 bis A, 163 bis AA, 163 bis B, 81 quater, 163 bis D, 125 D
-	  - Décret n°65-1158 1965-12-24
-	  - Loi n°73-965 1973-10-16
-	  - Loi n°76-1232 1976-12-29 art. 80
-	  - Loi n°77-486 1977-05-13
-	  - Loi n°78-1 1978-01-02
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 106, v. init.
-	  - Loi n°82-357 1982-04-27
-	  - Décret n°83-487 du 10 juin 1983 - art. 2 (M)
-	  - Décret n°83-872 1983-09-30
-	  - Loi n°84-578 du 9 juillet 1984 - art. 1, v. init.
-	  - Décret n°85-68 1985-01-22
-	  - Loi n°85-98 1985-01-25
-	  - Loi n°88-1201 1988-12-23
-	  - Code de la sécurité sociale. - art. L341-4 (V)
-	  - Code de la construction et de l'habitation L315-1 à L315-6
-	  - Code rural 1106-1
-
-	**Modifié par**:
-
-	  - Loi n°89-935 1989-12-29 art. 16 IV, art. 109 II, III Finances pour 1990 JORF 30 décembre 1989
-
-	**Codifié par**:
-
-	  - Décret n°90-798 1990-09-10
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1739 A (VD)
-	  - Code de la construction et de l'habitation. - art. L315-4 (V)
-	  - Code de la sécurité sociale. - art. L136-7 (V)
-	  - Code général des impôts, CGI. - art. 125 A (V)
-	  - Code général des impôts, CGI. - art. 1391 B ter (V)
-	  - Code général des impôts, CGI. - art. 150-0 D (M)
-	  - Code général des impôts, CGI. - art. 150-0 D bis (Ab)
-	  - Code général des impôts, CGI. - art. 150-0 D ter (V)
-	  - Code général des impôts, CGI. - art. 158 (V)
-	  - Code général des impôts, CGI. - art. 1600-0 J (VT)
-	  - Code général des impôts, CGI. - art. 1649-0 A (P)
-	  - Code général des impôts, CGI. - art. 242 ter (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater B (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater H (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater J (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies C (V)
-	  - Code monétaire et financier - art. D221-109 (V)
-	  - Code monétaire et financier - art. D221-113-1 (V)
-	  - Livre des procédures fiscales - art. L16 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juin 1990
-
-
 ##### 2e Sous-section : Revenu global
 
 ##### I : Revenu imposable
@@ -13742,24 +13999,40 @@ suivantes ( Voir toutefois le I bis ci-dessous) ;
 
 3° Des déficits fonciers, lesquels s'imputent exclusivement sur les revenus fonciers des cinq années suivantes ou, s'il
 s'agit d'immeubles donnés à bail conformément au statut du fermage, sur ceux des neuf années suivantes ; cette disposition
-n'est pas applicable aux propriétaires d'immeubles ayant fait l'objet de travaux exécutés dans le cadre d'une opération
-groupée de restauration immobilière faite en application des dispositions des articles L 313-1 à L 313-15 du code de
-l'urbanisme, ainsi qu'aux nus-propriétaires effectuant des travaux en application de l'article 605 du code civil, et aux
+n'est pas applicable aux nus-propriétaires effectuant des travaux en application de l'article 605 du code civil, et aux
 propriétaires de monuments classés monuments historiques, inscrits à l'inventaire supplémentaire ou ayant fait l'objet d'un
 agrément ministériel.
+
+Cette disposition n'est pas non plus applicable aux déficits fonciers provenant des travaux exécutés dans le cadre d'une
+opération groupée de restauration immobilière faite en application des dispositions des articles L. 313-1 à L. 313-15 du code
+de l'urbanisme, par des propriétaires de locaux que ces propriétaires prennent l'engagement de louer nu à usage de résidence
+principale du locataire pendant une durée de neuf ans.
+
+La location doit prendre effet dans les douze mois qui suivent la date d'achèvement des travaux de restauration et respecter
+les conditions prévues par une convention entre l'Etat et le propriétaire pour une durée minimale de neuf ans. Cette
+convention fixe notamment les montants maximaux du loyer et des ressources du locataire qui ne peuvent être supérieurs à des
+plafonds fixés par décret. Le plafond de ressources ainsi fixé n'est pas opposable à l'occupant en vertu d'un bail conclu au
+moins un an avant le début des travaux ainsi qu'aux personnes évincées d'un logement concerné par l'opération groupée de
+restauration immobilière et bénéficiant d'un droit à relogement dans cette opération. Les propriétaires d'immeubles pour
+lesquels la demande d'autorisation de travaux a été déposée antérieurement au 1er juillet 1991 ne sont pas tenus de conclure
+une convention avec l'Etat.
+
+Le revenu global de l'année au cours de laquelle l'engagement ou les conditions de la location ne sont pas respectés est
+majoré du montant des déficits indûment imputés. Ces déficits constituent une insuffisance de déclaration pour l'application
+de l'article 1733.
 
 4° Des déficits réalisés par des personnes, autres que les loueurs professionnels au sens de l'article 151 septies, dernier
 alinéa, louant directement ou indirectement des locaux d'habitation meublés ou destinés à être meublés ; ces déficits
 s'imputent exclusivement sur les bénéfices retirés de cette même activité au cours des années suivantes jusqu'à la cinquième
 inclusivement.
 
-5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150 octies et 150 nonies lorsque l'option prévue au 8°
-du paragraphe I de l'article 35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur les profits de même nature
-réalisés au cours de la même année ou des cinq années suivantes ;
+5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150 octies et 150 nonies et 150 decies lorsque
+l'option prévue au 8° du paragraphe I de l'article 35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur les
+profits de même nature réalisés au cours de la même année ou des cinq années suivantes ;
 
 6° Des pertes résultant d'opérations réalisées à l'étranger sur un marché à terme d'instruments financiers [*MATIF*] ou
-d'options négociables [*MONEP*] ; ces pertes sont imputables exclusivement sur les profits de même nature réalisés dans les
-mêmes conditions au cours de la même année ou des cinq années suivantes.
+d'options négociables [*MONEP*] ou sur des bons d'option  ; ces pertes sont imputables exclusivement sur les profits de même
+nature réalisés dans les mêmes conditions au cours de la même année ou des cinq années suivantes.
 
 Ces dispositions s'appliquent aux pertes résultant d'opérations à terme sur marchandises réalisées à l'étranger.
 
@@ -13776,7 +14049,7 @@ l'étranger ou des Etats ayant accédé à l'indépendance ;
 
 1° bis (Devenu sans objet).
 
-1° ter. Dans les conditions fixées par décret (voir Annexe III, art.41 E à 41 J),les charges foncières afférentes aux
+1° ter. Dans les conditions fixées par décret (voir Annexe III, art. 41 E à 41 J),les charges foncières afférentes aux
 immeubles classés monuments historiques ou inscrits à l'inventaire supplémentaire, ainsi qu'aux immeubles faisant partie du
 patrimoine national en raison de leur caractère historique ou artistique particulier et qui auront été agréés à cet effet par
 le ministre de l'économie et des finances ;
@@ -13799,8 +14072,8 @@ est marié, cette limite est doublée au profit du parent qui justifie qu'il par
 
 Toutefois, l'avantage en impôt résultant de la déduction prévue ci-dessus ne peut être inférieur par enfant à 4.000 F lorsque
 la pension alimentaire est versée au profit d'un enfant inscrit dans l'enseignement supérieur [*étudiant*]. Cet avantage
-minimal ne peut néanmoins excéder 35 p. 100 des sommes versées (Les dispositions de cet alinéa s'appliquent à compter du 1er
-janvier 1990).
+minimal ne peut néanmoins excéder 35 p. 100 des sommes versées (Le chiffre de 4000 F s'applique pour l'imposition des revenus
+de 1990 et de 1989).
 
 Un contribuable ne peut, au titre d'une même année et pour un même enfant, bénéficier à la fois de la déduction d'une pension
 alimentaire et du rattachement. L'année où l'enfant atteint sa majorité, le contribuable ne peut à la fois déduire une
@@ -13826,7 +14099,7 @@ nourriture faite pour l'application aux salariés du régime de sécurité socia
 
 c. (Abrogé) ;
 
-d. (Devenu sans objet).
+d. (Devenu sans objet.
 
 8° (Abrogé) ;
 
@@ -13849,16 +14122,16 @@ domicile est remplacée par une réduction d'impôt sur le revenu (voir l'articl
 
 	**Cite**:
 
-	  - CGI 6 1, 3, 92, 1728, 1729, 156, 151 septies, 83 2° bis, 196 B, 150 ter, 150 octies, 150 nonies, 35 I 8°, 367
+	  - CGI 6 1, 3, 92, 1733, 1729, 156, 151 septies, 83 2° bis, 196 B, 150 ter, 150 octies, 150 nonies, 35 I 8°, 367, 199 quaterdecies
 	  - CGIAN2 91 quinquies
 	  - CGIAN3 41 E à CGIAN3 41 J
 	  - CGIAN4 17 H à CGIAN4 17 L
-	  - Loi n°66-950 1966-12-22
 	  - Code civil - art. 214 (V)
 	  - Code civil - art. 276 (M)
 	  - Code civil - art. 294 (M)
+	  - Code civil - art. 367 (M)
 	  - Code civil - art. 605 (V)
-	  - Code civil 605, 205 à 211, 214, 276, 294
+	  - Code civil 605, 205 à 211, 214, 276, 294, 367
 	  - Code de la famille et de l'aide sociale. - art. 173 (M)
 	  - Code de la sécurité sociale. - art. L541-1 (M)
 	  - Code de la sécurité sociale. - art. L612-13 (M)
@@ -13932,24 +14205,199 @@ domicile est remplacée par une réduction d'impôt sur le revenu (voir l'articl
 
 	**Modifié par**:
 
-	  - Loi - art. 28 (V) JORF 30 décembre 1990
-	  - Loi n°90-1169 1990-12-30 art. 42 I Finances rectificative pour 1990 JORF 30 décembre 1990
+	  - Loi - art. 22 () JORF 19 juillet 1991
+	  - Loi - art. 23 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
-	  - TXT_ASSOCIE: Instruction 1988-12-30 5B-4-89
-	  - TXT_ASSOCIE: Instruction 1989-01-04 5B-1-89
-	  - TXT_ASSOCIE: Instruction 1989-01-11 5B-12-89
-	  - TXT_ASSOCIE: Instruction 1989-01-16 5B-6-89
-	  - TXT_ASSOCIE: Note 1988-12-30 5B-2-89
-	  - TXT_ASSOCIE: Note 1988-12-30 5B-3-89
-	  - TXT_ASSOCIE: Note 1988-12-30 5B-5-89
-	  - TXT_ASSOCIE: Réponse ministérielle 1989-01-12 5F-2-89
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 1996-12-19 5D-6-96
+
+
+###### Article 157
+
+N'entrent pas en compte pour la détermination du revenu net global :
+
+1° et 2° (Abrogés) ;
+
+2° bis (Périmé) ;
+
+3° Les lots et les primes de remboursement attachés aux bons et obligations émis en France avec l'autorisation du ministre de
+l'économie et des finances à l'exception des primes de remboursement attachées aux titres émis à compter du 1er juin 1985
+lorsqu'elles sont supérieures à 5 % [*pourcentage maximal*] du nominal (1) et de celles distribuées ou réparties à compter du
+1er janvier 1989 par un organisme de placement collectif en valeurs mobilières visé par la loi n° 88-1201 du 23 décembre 1988
+lorsque ces primes représentent plus de 10 p. 100 du montant de la distribution ou de la répartition.
+
+Ces dispositions ne sont pas applicables aux primes de remboursement définies au II de l'article 238 septies A.
+
+3° bis (Dispositions transférées sous le 3 °) ;
+
+4° Les pensions, prestations et allocations affranchies de l'impôt en vertu de l'article 81 ;
+
+5° Les produits et plus-values que procurent les placements effectués dans le cadre d'un plan d'épargne en vue de la retraite
+ainsi que les avoirs fiscaux et crédits d'impôt attachés à ces produits et remboursés par l'Etat ; ces sommes s'ajoutent aux
+versements effectués sur le plan (2) ;
+
+6° Les gratifications allouées aux vieux travailleurs à l'occasion de la délivrance de la médaille d'honneur par le ministère
+des affaires sociales ;
+
+7° Les intérêts des sommes inscrites sur les livrets des caisses d'épargne à l'exception des intérêts des livrets
+supplémentaires ouverts dans les conditions prévues au décret n° 65-1158 du 24 décembre 1965 ;
+
+7° bis. (Disposition périmée) ;
+
+7° ter La rémunération des sommes déposées sur les livrets d'épargne populaire ouverts dans les conditions prévues par la loi
+n° 82-357 du 27 avril 1982 ;
+
+8° (Devenu sans objet)    8° bis. Les intérêts des titres de l'emprunt 4 1/2 % 1973 autorisé par la loi n° 73-965 du 16
+octobre 1973, ainsi que les plus-values éventuelles de cession ou de remboursement de ces titres ;
+
+8° ter. Les plus-values éventuelles de cession ou de remboursement des titres de l'emprunt d'Etat 8,80 % 1977 autorisé par la
+loi n° 77-486 du 13 mai 1977 ;
+
+9° (Dispositions devenues sans objet) ;
+
+9° bis. Les intérêts des sommes inscrites sur les comptes d'épargne-logement ouverts en application des articles L 315-1 à L
+315-6 du code de la construction et de l'habitation ainsi que la prime d'épargne versée aux titulaires de ces comptes ;
+
+9° ter. Les intérêts versés au titulaire du compte d'épargne sur livret ouvert en application de l'article 80 de la loi n°
+76-1232 du 29 décembre 1976 (3) :
+
+- aux travailleurs, salariés de l'artisanat, des ateliers industriels, des chantiers et de l'agriculture ;
+
+- aux aides familiaux ou aux associés d'exploitation désignés à l'article 1106-1-I-2° du code rural ;
+
+- aux aides familiaux et associés d'exploitation de l'artisanat désignés à l'article 2 du décret n° 83-487 du 10 juin 1983
+relatif au répertoire des métiers.
+
+Il en est de même de la prime versée au travailleur manuel qui procède effectivement à la création ou au rachat d'une
+entreprise artisanale ;
+
+9° quater. Le produit des placements en valeurs mobilières effectués sur un compte pour le développement industriel
+[*CODEVI*] ouvert par les personnes physiques ayant leur domicile fiscal en France dans les établissements et organismes
+autorisés à recevoir des dépôts.
+
+Il ne peut être ouvert qu'un compte par contribuable ou un pour chacun des époux soumis à une imposition commune.
+
+Les sommes déposées sur le compte prévu au premier alinéa ne peuvent excéder un plafond fixé par décret (4) dans la limite de
+20.000 F par compte.
+
+Les valeurs mobilières sont celles servant au financement de l'industrie française et entrant dans des catégories fixées par
+décret (5) ;
+
+9° quinquies. Les intérêts des sommes inscrites sur les livrets d'épargne-entreprise ouverts dans les conditions fixées par
+l'article 1er de la loi n° 84-578 du 8 [*9*] juillet 1984 sur le développement de l'initiative économique.
+
+10° à 13° (Dispositions périmées) ;
+
+14° et 15° (Devenus sans objet).
+
+16° Les produits des placements en valeurs mobilières effectués en vertu des engagements d'épargne à long terme pris par les
+personnes physiques dans les conditions prévues à l'article 163 bis A ;
+
+16° bis. Les sommes et revenus visés à l'article 163 bis AA ;
+
+17° Les sommes et revenus visés à l'article 163 bis B ;
+
+18° (Dispositions codifiées sous les articles 81-16° quater et 81-20°) ;
+
+19° L'indemnité de départ versée aux adhérents des caisses d'assurance-vieillesse des artisans et commerçants, en application
+de l'article 106 de la loi n° 81-1160 du 30 décembre 1981 ;
+
+20° Les intérêts des titres d'indemnisation prioritaires et des titres d'indemnisation créés en application de la loi n° 78-1
+du 2 janvier 1978 relative à l'indemnisation des français rapatriés d'outre-mer.
+
+21° Les avantages visés à l'article 163 bis D.
+
+22° Le versement au-delà de la huitième année qui suit l'ouverture d'un plan d'épargne populaire des produits capitalisés, de
+la rente viagère et de la prime d'épargne auxquels le plan ouvre droit. Il en est de même lorsque le retrait des fonds
+intervient avant la fin de la huitième année à la suite du décès du titulaire du plan ou dans les deux ans du décès du
+conjoint soumis à imposition commune ou de l'un des événements suivants survenu à l'un d'entre eux :
+
+Expiration des droits aux allocations d'assurance chômage prévues par le code du travail en cas de licenciement ;
+
+Cessation d'activité non salariée à la suite d'un jugement de liquidation judiciaire en application des dispositions de la
+loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises ;
+
+Invalidité correspondant au classement dans les 2e ou 3° catégories prévues à l'article L. 341-4 du code de la sécurité
+sociale.
+
+Un décret en Conseil d'Etat précise les modalités d'application ainsi que les obligations déclaratives des contribuables et
+des intermédiaires.
+
+(1) Voir article 125 D.
+
+(2) Annexe III, 41 ZC et 41 ZG.
+
+(3) A compter de la date de promulgation de la loi n°84-578 du 9 juillet 1984, il ne peut plus être ouvert de livrets. Les
+livrets d'épargne au profit des travailleurs manuels peuvent être transformés en livret d'épargne-entreprise dans les
+conditions fixées par le décret n° 85-68 du 22 janvier 1985 (J.O. du 23).
+
+(4) Plafond fixé à 10.000 F par compte (décret n° 83-872 du 30 septembre 1983, JO du 2 octobre).
+
+(5) Décret n° 83-872 du 30 septembre 1983 (JO du 2 octobre).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 81 16°, 20°, 163 bis A, 163 bis AA, 163 bis B, 125, 238 septies A CGIAN3 41 ZC
+	  - CGIAN3 41 ZG
+	  - Code de la construction L315-1 à L315-6
+	  - Décret n°65-1158 1965-12-24
+	  - Loi n°73-965 1973-10-16
+	  - Loi n°76-1232 1976-12-29 art. 80
+	  - Loi n°77-486 1977-05-13
+	  - Loi n°78-1 1978-01-02
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 106, v. init.
+	  - Loi n°82-357 1982-04-27
+	  - Décret n°83-487 du 10 juin 1983 - art. 2 (M)
+	  - Décret n°83-872 1983-09-30
+	  - Loi n°84-578 1984-07-09
+	  - Décret n°85-68 1985-01-22
+	  - Loi n°85-98 1985-01-25
+	  - Loi n°88-1201 1988-12-23
+	  - Code de la sécurité sociale. - art. L341-4 (V)
+	  - Code rural 1106 1 I 2°
+	  - Loi n°84-578 1984-07-08 art. 1
+
+	**Modifié par**:
+
+	  - Loi - art. 57 (V) JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1739 A (VD)
+	  - Code de la construction et de l'habitation. - art. L315-4 (V)
+	  - Code de la sécurité sociale. - art. L136-7 (V)
+	  - Code général des impôts, CGI. - art. 125 A (V)
+	  - Code général des impôts, CGI. - art. 1391 B ter (V)
+	  - Code général des impôts, CGI. - art. 150-0 D (M)
+	  - Code général des impôts, CGI. - art. 150-0 D bis (Ab)
+	  - Code général des impôts, CGI. - art. 150-0 D ter (V)
+	  - Code général des impôts, CGI. - art. 158 (V)
+	  - Code général des impôts, CGI. - art. 1600-0 J (VT)
+	  - Code général des impôts, CGI. - art. 1649-0 A (P)
+	  - Code général des impôts, CGI. - art. 242 ter (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater B (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater H (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater J (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies C (V)
+	  - Code monétaire et financier - art. D221-109 (V)
+	  - Code monétaire et financier - art. D221-113-1 (V)
+	  - Livre des procédures fiscales - art. L16 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 157 bis
@@ -14104,22 +14552,23 @@ montant obtenu est arrondi, s'il y a lieu, à la centaine de francs supérieure 
 
 L'abattement indiqué à l'alinéa précédent ne peut être inférieur à 1.800 F, sans pouvoir excéder le montant brut des pensions
 et retraites. Cette disposition s'applique au montant des pensions ou retraites perçu par chaque retraité ou pensionné membre
-du foyer fiscal.
+du foyer fiscal. La somme de 1 800 F est révisée chaque année dans la même proportion que la septième tranche du barème de
+l'impôt sur le revenu (4).
 
 Le revenu net obtenu en application de l'article 83 et, en ce qui concerne les pensions et retraites après application des
 dispositions des deuxième et troisième alinéas ci-dessus, n'est retenu dans les bases de l'impôt sur le revenu que pour 80 %
 de son montant.
 
-Par exception aux dispositions de l'alinéa précédent, l'ensemble des salaires et indemnités accessoires supérieurs à 426.400
+Par exception aux dispositions de l'alinéa précédent, l'ensemble des salaires et indemnités accessoires supérieurs à 440.000
 F alloués par une ou plusieurs sociétés à une personne qui détient, directement ou indirectement, plus de 35 p. 100 des
-droits sociaux sont retenus, pour la fraction excédant 426.400 F, à raison de 90 p. 100 de leur montant, net de frais
-professionnels. Pour l'application de cette disposition, les droits sociaux appartenant au conjoint sont considérés comme
+droits sociaux sont retenus, pour la fraction excédant 440.000 F, à raison de 90 p. 100 de leur montant, net de frais
+professionnels (5). Pour l'application de cette disposition, les droits sociaux appartenant au conjoint sont considérés comme
 détenus indirectement.
 
 Aucun abattement n'est pratiqué sur la fraction du montant des salaires, net de frais professionnels, et pensions qui excède
 460.000 F pour l'imposition des revenus de 1982 et 1983. Cette limite est relevée chaque année dans la même proportion que le
 plafond de la déduction forfaitaire de 10 % pour frais professionnels prévu à l'article 83-3° ; le montant obtenu est arrondi
-le cas échéant au millier de francs supérieur (5);
+le cas échéant au millier de francs supérieur (6);
 
 b. Les dispositions du a sont applicables aux allocations versées aux travailleurs privés d'emploi mentionnées à l'article
 231 bis D, premier et troisième alinéas, ainsi qu'aux participations en espèces et, à compter du 1er janvier 1991, aux
@@ -14134,7 +14583,7 @@ d. En cas de retrait de tout ou partie des sommes figurant sur un plan d'épargn
 pension présentant ou non un caractère viager, les dispositions du a sont applicables aux sommes retirées ou à la pension
 perçue.
 
-Lorsque le retrait dépasse une somme fixée par décret (6), le contribuable peut demander l'application du système prévu à
+Lorsque le retrait dépasse une somme fixée par décret (7), le contribuable peut demander l'application du système prévu à
 l'article 150 R, sans fractionnement du paiement.
 
 Les abattements prévus au a ne s'appliquent qu'à l'excédent des sommes retirées et des pensions perçues au cours de l'année
@@ -14172,22 +14621,52 @@ prévue à l'article 83-1° bis.
 (2) Loi n° 79-594 du 13 juillet 1979, modifiée par la loi n° 83-1 du 3 janvier 1983, art. 23 (JO des 2, 3 et 4) ; loi 84-578
 du 9 juillet 1984 art. 8 II (J.O. du 11).
 
-(3) Plafond fixé à 25.900 F pour l'imposition des revenus de 1987 et à 26.600 F pour l'imposition des revenus de 1988.
+(3) Plafond fixé à 28.400 F pour l'imposition des revenus de 1990 et à 27.500 F pour l'imposition des revenus de 1989.
 
-(4) Limite applicable pour l'imposition des revenus de 1987. Cette limite était fixée à 250.000 F pour l'imposition des
-revenus de 1986.
+(4) Cette disposition s'applique à compter de l'imposition des revenus de 1992.
 
-(5) Limite portée à 554.000F pour les revenus de 1987 et à 569.000 F pour les revenus de 1988.
+(5) Limite applicable pour l'imposition des revenus de 1991. Cette limite était fixée à 426.400 F pour l'imposition des
+revenus de 1990.
 
-(6) Annexe III, art. 41 ZH.
+(6) Limite portée à 607.000F pour les revenus de 1990 et à 588.000 F pour les revenus de 1989.
+
+(7) Annexe III, art. 41 ZH.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 12, 13, 14 à 33 quinquies, 157, 125 A, 132 ter qui, 199 undecies, 156, 197, 163 octies, 34 à 61 A, 302 ter à 302 septies, 302 septies A bis, 63 à 78, 92 à 103, 62, 39 duodecies, 39 terdecies 1 2, 39 quindecies, 93 quater, 170, 1649 quater C à 164
+	  - CGIAN3 41 ZH
+	  - CGIAN4 6 ter
+	  - Loi n°77-486 1977-05-13
+	  - Loi n°79-594 1979-07-13
+	  - Loi n°83-1 1983-01-03 art. 23
+	  - Loi n°84-578 1984-07-09
+	  - Livre des procédures fiscales - art. L1 (V)
+	  - Livre des procédures fiscales - art. L2 (M)
+	  - Livre des procédures fiscales - art. L3 (M)
+	  - Livre des procédures fiscales - art. L4 (M)
+	  - Livre des procédures fiscales - art. L5 (M)
+	  - Livre des procédures fiscales - art. L6 (Ab)
+	  - Livre des procédures fiscales - art. L7 (M)
+	  - Livre des procédures fiscales - art. L8 (Ab)
+	  - Loi n°91-1323 1991-12-31 art. 18
+
+	**Modifié par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1991
+	  - Loi - art. 33 () JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
 	**Cité par**:
 
-	  - Arrêté du 7 avril 2010 - art. Annexe (Ab)
 	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 15 (V)
 	  - Loi n°2007-1822 du 24 décembre 2007 - art. 6 (V)
+	  - Arrêté du 7 avril 2010 - art. Annexe (Ab)
 	  - Décret n°2012-432 du 30 mars 2012 - art. 151 (VD)
 	  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 	  - Arrêté du 22 novembre 2016 - art. (V)
@@ -14243,40 +14722,10 @@ revenus de 1986.
 	  - Code rural - art. L371-8 (VD)
 	  - Code rural et de la pêche maritime - art. L731-15 (VD)
 
-	**Cite**:
-
-	  - CGI 12, 13, 14, 15, 28, 29, 30, 31, 68 F, 157, 125 A, 199 undecies, 34 à 61 A, 302 ter à 302 septies, 302 septies A bis, 63 à 78, 132 ter, 92 à 103, 39 duodecies, 39 terdecies 1, 2, 39 quindecies, 93 quater, 170, 1649 quater C à 1649 quater H, 79 à 9
-	  - CGIAN3 41 ZH
-	  - CGIAN4 6 ter
-	  - Loi n°77-486 1977-05-13
-	  - Loi n°79-594 1979-07-13
-	  - Loi n°83-1 1983-01-03 art. 23
-	  - Loi n°84-578 1984-07-09 art. 8 II
-	  - Livre des procédures fiscales - art. L1 (V)
-	  - Livre des procédures fiscales - art. L2 (M)
-	  - Livre des procédures fiscales - art. L3 (M)
-	  - Livre des procédures fiscales - art. L4 (M)
-	  - Livre des procédures fiscales - art. L5 (M)
-	  - Livre des procédures fiscales - art. L6 (Ab)
-	  - Livre des procédures fiscales - art. L7 (M)
-	  - Livre des procédures fiscales - art. L8 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°90-1002 du 7 novembre 1990 - art. 8 (V) JORF 11 novembre 1990
-	  - Loi - art. 38 () JORF 30 décembre 1990
-	  - Loi n°90-449 1990-05-30 art. 9 I IV JORF 2 juin 1990
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
-
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
-	  - TXT_ASSOCIE: Instruction 1987-02-05 5F-14-87
-	  - TXT_ASSOCIE: Instruction 1988-12-27 5F-7-89
-	  - TXT_ASSOCIE: Instruction 1988-12-28 5F-10-89
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 1991-12-30 5F-3-92
 
 
 ###### Article 158 bis
@@ -15016,8 +15465,8 @@ l'expiration de ce délai.
 
 I bis. L'échange sans soulte d'actions résultant d'une opération d'offre publique, de fusion, de scission, de division ou de
 regroupement réalisée conformément à la réglementation en vigueur, ou de l'apport à une société créée conformément aux
-dispositions de l'article 220 quater ne fait pas perdre le bénéfice des dispositions du premier alinéa du I. Les conditions
-mentionnées à cet alinéa continuent à être applicables aux actions reçues en échange.
+dispositions des articles 83 ter, 199 terdecies A et 220 quater ne fait pas perdre le bénéfice des dispositions du premier
+alinéa du I. Les conditions mentionnées à cet alinéa continuent à être applicables aux actions reçues en échange.
 
 II. - Si les conditions prévues au I ne sont pas remplies, l'avantage mentionné à l'article 80 bis est ajouté au revenu
 imposable de l'année au cours de laquelle le salarié aura converti les actions au porteur ou en aura disposé.
@@ -15040,15 +15489,15 @@ Les dispositions de l'article 163 ne sont pas applicables.
 
 	**Cite**:
 
-	  - CGI 80 bis, 92 B, 150 A bis, 160, 220 quater, 163
+	  - CGI 80 bis, 92 B, 83 ter, 150 A bis, 199 terdecies A, 220 quater, 160, 163
 
 	**Modifié par**:
 
-	  - Loi n°89-935 1989-12-29 art. 11 Finances pour 1990 JORF 30 décembre 1989
+	  - Loi n°91-1322 1991-12-30 art. 90 Finances pour 1992 JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -16019,7 +16468,7 @@ est entraînée par l'établissement du domicile en France ne sont comptés que 
 
 ###### Article 167
 
-1 Le contribuable domicilié en France qui transfère son domicile à l'étranger est passible de l'impôt sur le revenu à raison
+1. Le contribuable domicilié en France qui transfère son domicile à l'étranger est passible de l'impôt sur le revenu à raison
 des revenus dont il a disposé pendant l'année de son départ jusqu'à la date de celui-ci, des bénéfices industriels et
 commerciaux qu'il a réalisés depuis la fin du dernier exercice taxé, et de tous revenus qu'il a acquis sans en avoir la
 disposition antérieurement à son départ.
@@ -16030,16 +16479,24 @@ concerne les bénéfices industriels et commerciaux, il est fait application des
 d'entreprise (1), le montant du bénéfice forfaitaire retenu étant réduit au prorata du temps écoulé entre le 1er janvier et
 la date du départ.
 
-2  Une déclaration provisoire des revenus imposables en vertu du 1 est produite dans les dix jours qui précèdent la demande
-de passeport [*délai*]. Elle est soumise aux règles et sanctions prévues à l'égard des déclarations annuelles. Elle peut être
+2. Une déclaration provisoire des revenus imposables en vertu du 1 est produite dans les dix jours qui précèdent la demande
+de passeport. Elle est soumise aux règles et sanctions prévues à l'égard des déclarations annuelles. Elle peut être
 complétée, s'il y a lieu, jusqu'à l'expiration des deux premiers mois de l'année suivant celle du départ. A défaut de
 déclaration rectificative souscrite dans ce délai, la déclaration provisoire est considérée comme confirmée par l'intéressé.
 
-3  Les mêmes règles sont applicables dans le cas d'abandon de toute résidence en France.
+3. Les mêmes règles sont applicables dans le cas d'abandon de toute habitation en France.
 
-(1) Voir art. 201-2, premier et deuxième alinéas.
+(1) Voir les premier et deuxième alinéas du 2 de l'article 201.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°76-1234 du 29 décembre 1976 - art. 7 (V) JORF 30 décembre 1976
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -16050,11 +16507,11 @@ déclaration rectificative souscrite dans ce délai, la déclaration provisoire 
 
 	**Cite**:
 
-	  - CGI 201 2 AL. 1, AL. 2
+	  - CGI 201
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### V : Evaluation forfaitaire minimale du revenu imposable d'après certains éléments du train de vie
@@ -17056,31 +17513,31 @@ l'impôt sur le revenu :
 Sous réserve des dispositions de l'article 160, l'impôt est calculé pour les contribuables mariés sans enfant à charge et les
 contribuables célibataires ayant un enfant à charge, en appliquant le taux de (1) :
 
-0 % à la fraction du revenu qui n'excède pas  36.280 F ;
+0 % à la fraction du revenu qui n'excède pas  37.380 F ;
 
-5 % à la fraction du revenu comprise entre 36.280 F et 37.920 F ;
+5 % à la fraction du revenu comprise entre 37.380 F et 39.060 F ;
 
-9,6 % à la fraction du revenu comprise entre 37.920 F et 44.940 F ;
+9,6 % à la fraction du revenu comprise entre 39.060 F et 46.300 F ;
 
-14,4 % à la fraction du revenu comprise entre 44.940 F et 71.040 F ;
+14,4 % à la fraction du revenu comprise entre 46.300 F et 73.180 F ;
 
-19,2 % à la fraction du revenu comprise entre 71.040 F et 91.320 F ;
+19,2 % à la fraction du revenu comprise entre 73.180 F et 94.060 F ;
 
-24 % à la fraction du revenu comprise entre 91.320 F et 114.640 F ;
+24 % à la fraction du revenu comprise entre 94.060 F et 118.080 F ;
 
-28,8 % à la fraction du revenu comprise entre 114.640 F et 138.740 F ;
+28,8 % à la fraction du revenu comprise entre 118.080 F et 142.900 F ;
 
-33,6 % à la fraction du revenu comprise entre 138.740 F et 160.060 F ;
+33,6 % à la fraction du revenu comprise entre 142.900 F et 164.860 F ;
 
-38,4 % à la fraction du revenu comprise entre 160.060 F et 266.680 F ;
+38,4 % à la fraction du revenu comprise entre 164.860 F et 274.680 F ;
 
-43,2 % à la fraction du revenu comprise entre 266.680 F et 366.800 F ;
+43,2 % à la fraction du revenu comprise entre 274.680 F et 377.800 F ;
 
-49 % à la fraction du revenu comprise entre 366.800 F et 433.880 F ;
+49 % à la fraction du revenu comprise entre 377.800 F et 446.900 F ;
 
-53,9 % à la fraction du revenu comprise entre 433.880 F et 493.540 F ;
+53,9 % à la fraction du revenu comprise entre 446.900 F et 508.340 F ;
 
-56,8 % à la fraction du revenu supérieure à 493.540 F.
+56,8 % à la fraction du revenu supérieure à 508.340 F.
 
 Pour les autres contribuables, les chiffres de revenu visés ci-dessus sont augmentés ou diminués en considération de la
 situation et des charges de famille des intéressés dans les mêmes proportions que le nombre de parts fixé aux articles 194 et
@@ -17089,41 +17546,53 @@ situation et des charges de famille des intéressés dans les mêmes proportions
 Le montant de l'impôt sur le revenu calculé dans les conditions fixées ci-dessus est diminué de 30 % dans les départements de
 la Guadeloupe, de la Martinique et de la Réunion [*DOM*] et de 40 % dans le département de la Guyane.
 
-Le montant de la réduction d'impôt prévue au quatrième alinéa ne peut excéder 18.000 F dans les départements de la
-Guadeloupe, de la Martinique et de la Réunion et 24.000 F dans le département de la Guyane. Ces chiffres évoluent chaque
-année comme la limite supérieure de la dixième tranche du barème prévu au deuxième alinéa (2).
+Le montant de la réduction d'impôt prévue au deuxième alinéa ne peut excéder 18.000 F dans les départements de la Guadeloupe,
+de la Martinique et de la Réunion et 24.000 F dans le département de la Guyane.
 
 II, III et IV (Abrogés).
 
 V. (Disposition périmée).
 
 VI. L'impôt calculé dans les conditions mentionnées au I est diminué, dans la limite de son montant, de la différence entre
-4.820 F et son montant (Chiffre applicable pour l'imposition des revenus de 1990, pour 1989 il était de 4.670 F).
+4.970 F et son montant (Chiffre applicable pour l'imposition des revenus de 1991, pour 1990 il était de 4.820 F).
 
-VII. La réduction d'impôt brut résultant de l'application du quotient familial ne peut excéder 12.180 F [*montant maximum*]
-(3) par demi-part s'ajoutant à une part pour les contribuables célibataires, divorcés, veufs ou soumis à l'imposition
+VII. La réduction d'impôt brut résultant de l'application du quotient familial ne peut excéder 12.550 F [*montant maximum*]
+(2) par demi-part s'ajoutant à une part pour les contribuables célibataires, divorcés, veufs ou soumis à l'imposition
 distincte prévue au 4 de l'article 6 et à 2 parts pour les contribuables mariés soumis à une imposition commune.
 
 Toutefois our les contribuables célibataires, divorcés, ou soumis à l'imposition distincte prévue au 4 de l'article 6, ayant
-un ou plusieurs enfants à charge, la réduction d'impôt est limitée à 15.580 F (3) lorsque les demi-parts additionnelles sont
-au nombre de deux. Ce plafond est augmenté de 12.180 F (3) par demi-part additionnelle supplémentaire.
+un ou plusieurs enfants à charge, la réduction d'impôt est limitée à 16.050 F (2) lorsque les demi-parts additionnelles sont
+au nombre de deux. Ce plafond est augmenté de 12.550 F (2) par demi-part additionnelle supplémentaire.
 
-(1) Barème applicable pour l'établissement de l'impôt sur le revenu dû au titre de l'année 1990.
+(1) Barème applicable pour l'établissement de l'impôt sur le revenu dû au titre de l'année 1991.
 
-(2) Chiffres portés à 32.270 F et 42.700 F pour 1989, à 31.230 F et 41.330 F pour 1988.
-
-(3) Ces chiffres s'appliquent pour l'imposition des revenus de 1990 ; ces montants étaient fixés à 11.800 F et 15.090 F pour
-l'imposition des revenus de 1989.
+(2) Ces chiffres s'appliquent pour l'imposition des revenus de 1991 ; ces montants étaient fixés à 12.180 F et 15.580 F pour
+l'imposition des revenus de 1990.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°80-30 1980-01-18 art. 3 I Finances pour 1980
+	  - CGI 4 B, 6 4, 160, 194, 195
+
+	**Modifié par**:
+
+	  - Loi n°80-30 du 18 janvier 1980 - art. 79 (P) JORF 19 janvier 1980
+	  - Loi - art. 49 () JORF 31 décembre 1991
+	  - Loi - art. 2 () JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
 	  - Arrêté du 24 décembre 2008 (V)
+	  - Loi n°2009-431 du 20 avril 2009 - art. 1 (V)
 	  - Arrêté du 18 novembre 2010 - art. 1 (M)
 	  - Arrêté du 18 novembre 2010 - art. 2 (V)
 	  - Arrêté du 18 novembre 2010 - art. 3 (V)
-	  - Loi n°2009-431 du 20 avril 2009 - art. 1 (V)
 	  - Loi n°2011-1977 du 28 décembre 2011 - art. 8 (V)
 	  - Loi n°2014-891 du 8 août 2014 - art. 1 (V)
 	  - Loi n°2016-1917 du 29 décembre 2016 - art. 2
@@ -17156,26 +17625,9 @@ l'imposition des revenus de 1989.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46-0 B bis (V)
 	  - Livre des procédures fiscales - art. L252 B (VD)
 
-	**Cite**:
-
-	  - CGI 160
-	  - CGI 194
-	  - CGI 195
-	  - CGI 4 B
-	  - CGI 6 4
-	  - Loi n°80-30 1980-01-18 art. 3 I Finances pour 1980
-
-	**Modifié par**:
-
-	  - Loi - art. 2 (V) JORF 30 décembre 1990
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
-
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 197 A
@@ -17651,6 +18103,46 @@ sexies ou à un établissement de garde répondant aux conditions prévues à l'
 	**Modifié par**:
 
 	  - Loi - art. 17 (V) JORF 31 décembre 1991
+
+
+##### Réduction d'impôt pour dépenses de formation du chef d'entreprise
+
+###### Article 199 quater E
+
+Les titulaires de revenus passibles de l'impôt sur le revenu dans la catégorie des bénéfices industriels et commerciaux
+imposés d'après leur bénéfice réel peuvent bénéficier d'une réduction de leur cotisation d'impôt sur le revenu égale à 35 p.
+100 de l'excédent, plafonné à 5 000 F par an, des dépenses de formation professionnelle exposées au cours de l'année, par
+rapport aux dépenses de même nature exposées au cours de l'année précédente.
+
+La formation visée à l'alinéa précédent doit être dispensée par des organismes agréés par l'Etat et avoir pour objet
+l'acquisition, le maintien ou le perfectionnement de la qualification professionnelle de ces contribuables.
+
+Les dispositions du présent article s'appliquent aux dépenses de formation, à l'exclusion des frais de voyage et de
+déplacement, d'hébergement et de restauration, exposées au cours des années 1992 et 1993, sur option du contribuable
+irrévocable jusqu'au terme de cette période. L'option doit être exercée au titre de 1992 ou au titre de l'année de création
+ou de la première année au cours de laquelle le contribuable expose des dépenses visées au premier alinéa.
+
+Lorsque les dépenses de formation exposées au cours d'une année sont inférieures à celles exposées au cours de l'année qui
+précède, il est pratiqué une imputation, égale à 35 p. 100 du montant de la différence, sur la réduction d'impôt suivante.
+
+Les dispositions du II de l'article 199 sexies A s'appliquent à cette réduction d'impôt.
+
+Un décret fixe les conditions d'application du présent article, notamment en ce qui concerne les obligations incombant aux
+contribuables et aux organismes agréés. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 sexies A
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Créé par**:
+
+	  - Loi - art. 91 () JORF 31 décembre 1991
 
 
 ##### Réduction d'impôt accordée aux contribuables titulaires d'un compte d'épargne en actions.
@@ -18428,7 +18920,7 @@ La réduction s'applique aux logements qui, quelle que soit la date de leur ach�
 suivantes :
 
 1° La construction doit avoir fait l'objet, avant le 1er octobre 1989, de la déclaration d'ouverture de chantier prévue à
-l'article R. 421-40 du code de l'urbanisme. Ce document, accompagné d'une pièce attestant de sa réception par la mairie, doit
+l'article R421-40 du code de l'urbanisme. Ce document, accompagné d'une pièce attestant de sa réception par la mairie, doit
 être joint à la déclaration des revenus de l'année au titre de laquelle le bénéfice de la réduction est demandé.
 
 2° Les fondations doivent être achevées avant le 31 décembre  1989.
@@ -18462,15 +18954,15 @@ ou qu'ils ont acquis en l'état futur d'achèvement avant le 12 septembre 1984.
 	  - CGI 199 sexies A II
 	  - CGIAN3 46 AA
 	  - CGIAN3 46 AG
-	  - Code de l'urbanisme - art. R421-40 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 89 () JORF 31 décembre 1987
+	  - Code de l'urbanisme *R421-40
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°92-836 1992-08-27
+
+	**Modifié par**:
+
+	  - Décret n°92-836 1992-08-27 en vigueur le 4 juillet 1992
 
 	**Cité par**:
 
@@ -18536,21 +19028,42 @@ quatrième alinéa du I de l'article 199 nonies et de celle qui est prévue au I
 ###### Article 199 undecies
 
 1. Il est institué une réduction d'impôt sur le revenu pour les contribuables qui investissent dans les départements de la
-Guadeloupe, de la Guyane, de la Martinique et de la Réunion jusqu'au 31 décembre 1996 [*date limite*].
+Guadeloupe, de la Guyane, de la Martinique et de la Réunion jusqu'au 31 décembre 2001 [*date limite*].
 
 Elle s'applique :
 
-- au prix de revient de l'acquisition ou de la construction d'un immeuble neuf situé dans ces départements, que le
-contribuable affecte à son habitation principale ou loue nu à une personne qui en fait sa résidence principale ;
+Au prix de revient de l'acquisition ou de la construction régulièrement autorisée par un permis de construire d'un immeuble
+neuf situé dans ces départements que le contribuable prend l'engagement d'affecter dès l'achèvement ou l'acquisition si elle
+est postérieure à son habitation principale pendant une durée de cinq ans ou de louer nue dans les six mois de l'achèvement
+ou de l'acquisition si elle est postérieure pendant cinq ans au moins à des personnes qui en font leur habitation
+principale ; ".
 
 - au prix de souscription de parts ou actions de sociétés dont l'objet réel est exclusivement de construire des logements
-neufs situés dans ces départements et qu'elles donnent en location nue à des personnes qui en font leur résidence
-principale ;
+neufs situés dans ces départements et qu'elles donnent en location nue pendant neuf ans au moins à compter de leur achèvement
+à des personnes qui en font leur habitation principale. Ces sociétés doivent s'engager à achever les fondations des immeubles
+dans les deux ans qui suivent la clôture de chaque souscription annuelle. Les souscripteurs doivent s'engager à conserver les
+parts ou actions pendant cinq ans au moins à compter de la date d'achèvement des immeubles.
 
 - au montant des souscriptions en numéraire au capital des sociétés de développement régional de ces départements ou de
-sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun effectuant des investissements productifs
-dans ces départements et dont l'activité réelle se situe dans les secteurs de l'industrie, de la pêche, de l'hôtellerie, du
-tourisme, des énergies nouvelles, de l'agriculture, du bâtiment et des travaux publics, des transports et de l'artisanat.
+sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun effectuant dans les douze mois de la clôture
+de la souscription des investissements productifs dans ces départements et dont l'activité réelle se situe dans les secteurs
+de l'industrie, de la pêche, de l'hôtellerie, du tourisme, des énergies nouvelles, de l'agriculture, du bâtiment et des
+travaux publics, des transports et de l'artisanat.
+
+Lorsque la société affecte tout ou partie de la souscription à la construction d'immeubles destinés à l'exercice d'une des
+activités visées ci-dessus, elle doit s'engager à en achever les fondations dans les deux ans qui suivent la clôture de la
+souscription.
+
+La société doit s'engager à maintenir l'affectation des biens à l'activité dans les secteurs mentionnés ci-avant pendant les
+cinq ans qui suivent leur acquisition ou pendant leur durée normale d'utilisation si elle est inférieure pour les biens
+mobiliers, ou dans le délai de neuf ans pour les immeubles.    Les titres acquis dans le cadre d'un plan d'épargne en vue de
+la retraite ne sont pas pris en compte.
+
+La réduction d'impôt prévue au premier alinéa s'applique aux souscriptions versées à compter du 1er janvier 1992 au capital
+de sociétés effectuant dans les départements d'outre-mer des investissements productifs dans le secteur de la maintenance au
+profit d'activités industrielles et dans celui de la production et de la diffusion audiovisuelles et cinématographiques.
+
+Un décret détermine les conditions d'application de l'alinéa précédent.
 
 2. Pour avoir droit à la réduction d'impôt, la constitution ou l'augmentation du capital des sociétés mentionnées au 1. ci-
 dessus et dont le montant est supérieur à 30.000.000 F, doit avoir été portée, préalablement à sa réalisation, à la
@@ -18562,15 +19075,27 @@ acquisition si elle est postérieure ou de souscription des parts ou actions et 
 base de la réduction est égale à 20 p. 100 des sommes effectivement payées à la date où le droit à réduction d'impôt est né.
 
 Pour la détermination de l'impôt dû au titre des années 1986 à 1989, la réduction d'impôt est égale à 50 p. 100 de la base
-définie à l'alinéa précédent. Pour les revenus des années 1990 à 1996, elle est égale à 25 p. 100.
+définie à l'alinéa précédent. Pour les revenus des années 1990 à 2005, elle est égale à 25 p. 100.
 
-4. Pendant la période mentionnée au 3., en cas de non-utilisation de l'immeuble à titre de résidence principale par le
-contribuable ou son locataire, de cession de l'immeuble ou des parts et titres ou de non-respect de leur objet exclusif par
-les sociétés concernées, ou de dissolution de ces sociétés, la réduction d'impôt pratiquée fait l'objet d'une reprise au
-titre de l'année où interviennent les événements précités.
+Toutefois, pour les acquisitions ou constructions de logements neufs à usage locatif ou les souscriptions au capital de
+sociétés ayant pour objet de construire de tels logements, qui sont visées au deuxième alinéa du 1 et réalisées à compter du
+1er janvier 1992, la réduction d'impôt est portée à 50 p. 100 de la base définie au premier alinéa pour les années 1992 à
+1995 lorsque le contribuable ou la société s'engage à louer nu l'immeuble dans les six mois de son achèvement ou de son
+acquisition si elle est postérieure pendant neuf ans au moins à des personnes qui en font leur habitation principale.
+
+La location doit respecter les conditions prévues par une convention entre l'Etat et le propriétaire. Cette convention fixe
+notamment les montants maximaux du prix de revient au mètre carré du logement, du loyer et des ressources du locataire qui ne
+peuvent être supérieurs à des plafonds fixés par décret. "
+
+4. En cas de non-respect des engagements mentionnés au 1, de cession de l'immeuble ou des parts et titres ou de non-respect
+de leur objet exclusif par les sociétés concernées, ou de dissolution de ces sociétés, la réduction d'impôt pratiquée fait
+l'objet d'une reprise au titre de l'année où interviennent les événements précités.
 
 Quand un contribuable pratique la réduction d'impôt définie au présent article, les dispositions du a) du 1° de l'article 199
 sexies et des articles 199 nonies et 199 decies du présent code ne sont pas applicables.
+
+La location d'un logement neuf consentie dans des conditions fixées par décret à un organisme public ou privé pour le
+logement à usage d'habitation principale de son personnel ne fait pas obstacle au bénéfice de la réduction d'impôt. "
 
 5. Les dispositions du présent article ne concernent pas les constructions commencées, les parts ou actions souscrites ou les
 immeubles acquis en l'état futur d'achèvement avant le 1er janvier 1986.
@@ -18578,25 +19103,30 @@ immeubles acquis en l'état futur d'achèvement avant le 1er janvier 1986.
 6. Les dispositions du présent article sont applicables, dans les mêmes conditions, aux territoires d'outre-mer et aux
 collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon.
 
+7. La réduction s'applique sur l'impôt calculé dans les conditions fixées à l'article 197 et avant imputation de l'avoir
+fiscal, des crédits d'impôts et des prélèvements ou retenues non libératoires ; elle ne peut donner lieu à remboursement.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 199 decies
-	  - CGI 199 nonies
-	  - CGI 199 sexies 1°
+	  - CGI 199 nonies, 199 decies, 199 sexies, 197
 
 	**Anciens textes**:
 
 	  - CGI 238 bis HD
 
+	**Modifié par**:
+
+	  - Loi - art. 115 () JORF 31 décembre 1991
+	  - Loi - art. 116 () JORF 31 décembre 1991
+	  - Loi - art. 117 () JORF 31 décembre 1991
+	  - Loi - art. 118 () JORF 31 décembre 1991
+	  - Loi - art. 121 () JORF 31 décembre 1991
+
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
-
-	**Créé par**:
-
-	  - Décret n°86-1086 1986-10-07 art. 1 JORF 9 octobre 1986 en vigueur le 31 juillet 1986
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -18610,6 +19140,10 @@ collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 294 E (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG octies (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG sexies (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1992-06-16 4A-9-92
 
 
 ##### Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles
@@ -18764,6 +19298,65 @@ contribuables et aux sociétés nouvelles (1).
 	  - HISTO: Edition du 24 juin 1991
 
 
+##### *PME*
+
+###### Article 199 terdecies A
+
+I. 1. Les salariés d'une entreprise qui souscrivent en numéraire au capital initial ou aux augmentations de capital
+intervenant dans les trois ans qui suivent la date de constitution d'une société nouvelle ayant pour objet exclusif de
+racheter tout ou partie du capital de leur entreprise peuvent bénéficier d'une réduction d'impôt égale à 25 p. 100 des
+versements afférents à leurs souscriptions. Ces versements doivent intervenir dans les trois ans suivant la date de
+constitution de la société et sont retenus dans une limite qui ne peut excéder pendant cette période 40 000 F pour les
+contribuables célibataires, veufs ou divorcés, et 80 000 F pour les contribuables mariés soumis à imposition commune. Les
+dispositions du premier alinéa du IV de l'article 199 terdecies s'appliquent à cette réduction.
+
+Un salarié ne peut bénéficier que de l'un des avantages mentionnés à l'alinéa précédent ou à l'article 83 ter et pour les
+souscriptions au capital d'une seule société.
+
+2. L'avantage prévu au 1 est maintenu en cas d'apports des titres de la société nouvelle effectués dans les conditions
+mentionnées au 2 du I de l'article 83 ter.
+
+3. Les salariés des entreprises dont le capital est détenu pour plus de 50 p. 100 par la société rachetée peuvent bénéficier
+de l'avantage mentionné au 1 dans les mêmes conditions.
+
+II. Les dispositions du II de l'article 83 ter sont applicables.
+
+III. Le bénéfice de la réduction d'impôt est subordonné au respect des conditions énumérées au III de l'article 83 ter.
+
+IV. En cas de cession d'actions ou de parts dans les conditions mentionnées au IV de l'article 83 ter, le total des
+réductions d'impôt obtenues antérieurement en application du présent article fait l'objet d'une reprise l'année de la
+cession, selon les modalités fixées au même IV de l'article 83 ter.
+
+V. Les souscriptions au capital de la société nouvelle qui ont ouvert droit au bénéfice d'une autre déduction du revenu,
+d'une réduction ou d'un crédit d'impôt ne peuvent bénéficier de l'avantage prévu au 1 du I.
+
+VI. Les dispositions des VI et VII de l'article 83 ter s'appliquent au présent article (1).
+
+(1) En ce qui concerne les conditions d'application de l'article 199 terdecies A, voir les articles 46 AM à 46 AO de l'annexe
+III.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 terdecies, 83 ter
+	  - CGIAN3 46 AM à 46 AO
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Créé par**:
+
+	  - Loi - art. 2 () JORF 31 décembre 1991
+	  - Loi - art. 3 () JORF 31 décembre 1991
+	  - Loi n°91-1322 1991-12-30 art. 90 I 1 b, 2, 3, II, III, V, VIII, IX, X Finances pour 1992 JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+
 ##### Réduction d'impôt accordée au titre de l'hébergement en établissement de long séjour ou en section de cure médicale
 
 ###### Article 199 quindecies
@@ -18774,24 +19367,19 @@ de cure médicale d'un des conjoints âgé de plus de soixante-dix ans ouvrent d
 du montant des sommes versées, retenues dans la limite de 13 000 F.
 
 Les personnes qui n'ont pas leur domicile fiscal en France au sens de l'article 4 B ne bénéficient pas de cette réduction
-d'impôt. Les dispositions du II de l'article 199 sexies A sont applicables (1).
-
-(1) Pour l'imposition des revenus de 1989, le plafond de dépense de 13.000 F était commun aux réductions d'impôt prévues aux
-articles 199 quaterdecies et 199 quindecies.
+d'impôt. Les dispositions du II de l'article 199 sexies A sont applicables.    En cas de décès d'un des conjoints, le
+conjoint survivant peut prétendre à l'application des dispositions prévues au premier alinéa pour la période allant de la
+date du décès jusqu'au 31 décembre de l'année en cours, ainsi que pour l'année suivante.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 4 B, 199 sexies A, 199 quaterdecies, 199 quindecies
+	  - CGI 4, 199 sexies A
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°91-883 1991-09-09
-
-	**Créé par**:
-
-	  - Décret n°91-883 du 9 septembre 1991 - art. 1 () JORF 10 septembre 1991
+	  - Loi - art. 2 () JORF 31 décembre 1991
 
 	**Cité par**:
 
@@ -18800,7 +19388,7 @@ articles 199 quaterdecies et 199 quindecies.
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### Réduction d'impôt accordée au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet.
@@ -18946,6 +19534,43 @@ décembre 1993).
 	**Codifié par**:
 
 	  - Décret n°91-883 1991-09-09
+
+
+##### 20° : Réduction d'impôt accordée au titre des dons faits par les particuliers
+
+###### Article 200 bis
+
+Les cotisations d'impôt sur le revenu dues au titre de l'année 1991 sont minorées dans les conditions suivantes :
+
+MONTANT DE LA COTISATION / MINORATION
+
+N'excédant pas 26 250 F / 11 %
+
+De 26 251 F à 32 790 F / Différence entre 6 560 F et 14 % de la cotisation
+
+De 32 791 F à 39 350 F / 6 %
+
+De 39 351 F à 46 260 F / Différence entre 7 870 F et 14 % de la cotisation
+
+Au-delà de 46 260 F / 3 % Si le revenu imposable par part n'excède pas 332 360 F
+
+Les cotisations d'impôt sur le revenu s'entendent avant déduction des crédits d'impôt, de l'avoir fiscal et des prélèvements
+ou retenues non libératoires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi - art. 2 () JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 200-0 A (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies XA (V)
 
 
 ##### IV : Imposition des gains nets réalisés à l'occasion de cessions de valeurs mobilières et de droits sociaux
@@ -19360,6 +19985,50 @@ b. (devenu sans objet).
 	  - HISTO: Edition du 31 mars 1999
 
 
+#### Chapitre Ier quater : Taxe sur les produits de placement soumis à prélèvement libératoire.
+
+###### Article 204 B
+
+Il est perçu sur les revenus soumis à prélèvement libératoire une taxe dont le taux est égal au taux moyen de la taxe
+départementale sur le revenu voté par les départements l'année précédente. Pour le calcul de la taxe due en 1992, ce taux est
+fixé à 0,6 p. 100. Le produit de cette taxe, après prélèvement de la moitié de son montant effectué au profit de l'Etat, est
+affecté, par un fonds national d'aide, aux départements dont le revenu par habitant est inférieur à 85 p. 100 du revenu moyen
+par habitant des départements. Ce produit est réparti en proportion de l'insuffisance par rapport au revenu moyen par
+habitant des départements. La taxe est établie, contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés,
+privilèges et sanctions que le prélèvement mentionné à l'article 125 A.
+
+**Nota:**
+
+Dispositions suspendues à compter du 1er janvier 1993 et jusqu'à la date d'entrée en vigueur d'une loi qui doit intervenir
+après le 2 avril 1993 (article 7 de la loi de finances pour 1993, n° 92-1376 du 30 décembre 1992).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 1
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Cité par**:
+
+	  - Décret n°2017-697 du 2 mai 2017 - art. 1
+	  - Code général des impôts, CGI. - art. 1729 G (VD)
+	  - Livre des procédures fiscales - art. R*197-1 (VD)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 125 A
+	  - Loi
+
+	**Créé par**:
+
+	  - Loi n°90-669 1990-07-30 art. 56 II 6 JORF 1er août 1990
+
+
 #### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales
 
 ##### Section I : Généralités
@@ -19592,6 +20261,8 @@ Un décret fixe les conditions d'application du présent paragraphe (6).
 
 1° (Disposition devenue sans objet).
 
+code rural, autres que celles définies à l'article 206-6 ;
+
 2° Sauf pour les opérations effectuées avec des non-sociétaires et à condition qu'elle fonctionnent conformément aux
 dispositions qui les régissent :
 
@@ -19641,7 +20312,8 @@ commune ou la région ;
 5° bis. Les organismes sans but lucratif mentionnés à l'article 261-7-1°, pour les opérations à raison desquelles ils sont
 exonérés de la taxe sur la valeur ajoutée ;
 
-6° Les régions, départements, communes et syndicats de communes, ainsi que leurs régies de services publics ;
+6° Les régions et les ententes interrégionales, les  départements et les ententes interdépartementales, les communes,
+syndicats de communes et syndicats mixtes, ainsi que leurs régies de services publics ;
 
 6° bis. Dans les conditions fixées par décret (1), les établissements publics et sociétés d'économie mixte concessionnaires
 d'opérations d'aménagement, en application du deuxième alinéa de l'article L. 300-4 du code de l'urbanisme, pour les
@@ -19662,7 +20334,7 @@ statuts sont conformes aux clauses types annexées au décret n° 69-295 du 24 m
 
 8° Les sociétés coopératives de construction désignées à l'article 1378 sexies.
 
-1 bis. Lorsque les sociétés coopératives agricoles ou leurs unions émettent des certificats coopératifs d'investissement,
+1 bis Lorsque les sociétés coopératives agricoles ou leurs unions émettent des certificats coopératifs d'investissement,
 l'exonération visée au 1 n'est pas applicable à la fraction des résultats correspondant à la part du montant nominal des
 certificats coopératifs dans le capital social.
 
@@ -19717,24 +20389,23 @@ attachées aux actions effectivement représentées à ladite assemblée.
 
 	**Cite**:
 
-	  - CGI 1378 sexies
-	  - CGI 206 6
-	  - CGI 209
-	  - CGI 261 7 1°
-	  - CGIAN3 46 bis
-	  - CGIAN3 46 ter
-	  - Code de la construction L411-1 ET s.
-	  - Code de la construction L421-1
+	  - CGI 206 6, 261 7 1°, 1378 sexies, 209
+	  - CGIAN3 46 bis, 46 ter
 	  - Décret n°62-1025 1962-08-18
-	  - Décret n°69-295 1969-03-24
+	  - Décret n°69-295 1969-03-24 annexe
 	  - Loi n°83-657 1983-07-20
 	  - Code de l'urbanisme - art. L300-4 (M)
-	  - Code de l'urbanisme L321-1 al. 1
+	  - Code de la construction et de l'habitation. - art. L411-1 (M)
+	  - Code de la construction et de l'habitation. - art. L421-1 (M)
 	  - Loi n°1901-07-01
 
 	**Modifié par**:
 
-	  - Loi - art. 102 (V) JORF 30 décembre 1990
+	  - Loi n°92-125 du 6 février 1992 - art. 59 () JORF 8 février 1992
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -19755,10 +20426,6 @@ attachées aux actions effectivement représentées à ladite assemblée.
 	  - Code général des impôts, CGI. - art. 244 quater C (V)
 	  - Code général des impôts, CGI. - art. 279-0 bis A (M)
 	  - Code rural et  de la pêche maritime - art. L621-34 (T)
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 208
@@ -20106,7 +20773,7 @@ de l'artisanat à raison des bénéfices qu'elles réalisent à compter du débu
 quatre-vingt-quinzième mois suivant celui au cours duquel intervient cet événement, à la condition que l'objet de ces
 sociétés et leur programme d'activité aient reçu l'agrément préalable du ministre de l'économie, des finances et du budget
 délivré après avis d'une commission composée de représentants de ce ministre et des organisations professionnelles de la
-région Corse et dans la limite fixée par cet agrément.
+collectivité territoriale Corse et dans la limite fixée par cet agrément.
 
 II. Les dispositions du I ne sont pas applicables aux entreprises ou activités créées dans le cadre d'une concentration,
 d'une restructuration d'activités préexistantes exercées en Corse ou qui reprennent de telles activités.
@@ -20127,16 +20794,18 @@ V. Un décret précise les conditions d'application du présent article (1).
 
 	**Cite**:
 
-	  - CGI 39 duodecies à 39 quindecies
-	  - CGI 53 A
+	  - CGI 53 A, 39 duodecies à 39 quindecies
+	  - Décret n°91-629 1991-07-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 2 (Ab) JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 87 (V) JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 89 (Ab) JORF 14 mai 1991
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Loi - art. 88 () JORF 30 décembre 1990
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -20562,36 +21231,34 @@ la part afférente aux acomptes sur distributions.
 
 ###### Article 209 quater
 
-1  Les plus-values soumises à l'impôt au taux réduit de 10 % prévu à l'article 12-1 de la loi n° 65-566 du 12 juillet 1965 ou
-à l'un des taux réduits de 15 % ,19 % et 25 %, prévus à l'article 219-I, troisième alinéa, diminuées du montant de cet impôt,
-sont portées à une réserve spéciale.
+1. Les plus-values soumises à l'impôt au taux réduit de 10 % prévu au 1 de l'article 12 de la loi n° 65-566 du 12 juillet
+1965 ou à l'un des taux réduits de 15 %, 18 %, 19 % et 25 %, prévus au troisième alinéa du I de l'article 219 diminuées du
+montant de cet impôt, sont portées à une réserve spéciale.
 
-2  Les sommes prélevées sur cette réserve sont rapportées aux résultats de l'exercice en cours lors de ce prélèvement, sous
+2. Les sommes prélevées sur cette réserve sont rapportées aux résultats de l'exercice en cours lors de ce prélèvement, sous
 déduction de l'impôt perçu lors de la réalisation des plus-values correspondantes.
 
-3  La disposition du 2 n'est pas applicable :
-
-a  Si la société est dissoute;
-
-b  En cas d'incorporation au capital;
-
-c  En cas d'imputation de pertes sur la réserve spéciale; les pertes ainsi annulées cessent d'être reportables.
+3. La disposition du 2 n'est pas applicable : a. Si la société est dissoute ; b. En cas d'incorporation au capital ; c. En
+cas d'imputation de pertes sur la réserve spéciale ; les pertes ainsi annulées cessent d'être reportables.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 219 I AL. 3
-	  - Loi n°65-566 1965-07-12 ART. 12 1
+	  - CGI 219 I
+	  - Loi n°65-566 1965-07-12 art. 12
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Modifié par**:
 
-	  - loi 89-935 1989-12-29 art. 19 Finances pour 1990 JORF 30 décembre 1989
-	  - Loi - art. 17 (V) JORF 30 décembre 1990
+	  - Loi - art. 11 () JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -20963,7 +21630,7 @@ a. Elle doit reprendre à son passif :
 - d'une part, les provisions dont l'imposition est différée ;
 
 - d'autre part, la réserve spéciale où la société absorbée a porté les plus-values à long terme soumises antérieurement au
-taux réduit de 10 %, de 15 %, de 19 % ou de 25 %.
+taux réduit de 10 %, de 15 %, de 18 %, 19 % ou de 25 %.
 
 b. Elle doit se substituer à la société absorbée pour la réintégration des plus-values dont l'imposition avait été différée
 chez cette dernière.
@@ -20987,7 +21654,7 @@ duquel intervient l'opération le profit correspondant à la différence entre l
 qu'ils avaient, du point de vue fiscal, dans les écritures de la société absorbée (1). "
 
 4. Par dérogation aux dispositions qui précèdent, la société absorbée peut opter pour l'imposition au taux réduit, prévue au
-a du I de l'article 219, de la plus-value à long terme globale, afférente à ses éléments amortissables. Dans ce cas, le
+a bis du I de l'article 219, de la plus-value à long terme globale, afférente à ses éléments amortissables. Dans ce cas, le
 montant des réintégrations définies au d du 3 est réduit à due concurrence (1). "
 
 5. Les droits afférents à un contrat de crédit-bail conclu dans les conditions prévues aux 1° et 2° de l'article 1er de la
@@ -21010,13 +21677,17 @@ amortissables d'un fonds de commerce ou d'un fonds artisanal.
 
 	**Cite**:
 
-	  - CGI 219 I a, 39 duodecies A
 	  - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
+	  - CGI 219 I a bis
+	  - CGI 39 duodecies A
 
 	**Modifié par**:
 
-	  - Loi - art. 25 (V) JORF 31 décembre 1991
-	  - Modifications directes incorporées dans l'édition du 4 juillet 1992
+	  - Loi - art. 11 () JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -22121,10 +22792,10 @@ long terme afférentes à des éléments d'actif relevant du taux de 19 p. 100 e
 mentionnées au sixième alinéa pour une fraction de leur montant égale à dix-neuf vingt-cinquièmes.
 
 Toutefois, en cas de liquidation d'entreprise intervenue au cours des exercices ouverts à compter du 1er janvier 1991,
-l'excédent des moins-values à long terme subies à compter du 20 octobre 1989, peut être déduit des bénéfices de l'exercice de
-liquidation à raison des dix-neuf trente-quatrièmes de son montant. Cette fraction est égale à dix-neuf trente-septièmes si
-la liquidation est intervenue au cours d'exercices ouverts en 1990 ou à dix-neuf trente-neuvièmes si la liquidation est
-intervenue au cours d'exercices ouverts en 1989.
+l'excédent des moins-values à long terme subies à compter du 20 octobre 1989 dans un exrcice clos avant le 1er octobre 1991
+peut être déduit des bénéfices de l'exercice de liquidation à raison des dix-neuf trente-quatrièmes de son montant. Cette
+fraction est égale à dix-neuf trente-septièmes si la liquidation est intervenue au cours d'exercices ouverts en 1990 ou à
+dix-neuf trente-neuvièmes si la liquidation est intervenue au cours d'exercices ouverts en 1989.
 
 Pour les moins-values à long terme subies avant le 20 octobre 1989, cette fraction est égale à quinze quarante-cinquièmes si
 la liquidation est intervenue au cours d'exercices ouverts entre le 1er janvier 1986 et le 31 décembre 1987, quinze quarante-
@@ -22138,28 +22809,28 @@ premier exercice clos après le 20 octobre 1989 sont comprises dans les plus-val
 lorsqu'elles deviennent sans objet.
 
 Pour la détermination des résultats imposables des exercices clos à compter du 1er novembre 1990, le taux de 19 p. 100
-mentionné au premier alinéa du a est porté à 25 p. 100 pour l'imposition des plus-values nettes à long terme réalisées lors
-de la cession de titres du portefeuille, à l'exclusion des parts ou actions de sociétés, autres que celles émises par les
-sociétés d'investissement à capital variable, des bons de souscription d'actions, des certificats d'investissement et des
-certificats coopératifs d'investissement. Par exception, le taux de 25 p. 100 est applicable aux plus-values nettes à long
-terme afférentes aux titres de sociétés dont l'actif est constitué principalement par des titres relevant de ce même taux en
-application de la phrase qui précède ou dont l'activité consiste de manière prépondérante en la gestion des mêmes valeurs
-pour leur propre compte.
+mentionné au premier alinéa du a est porté à 25 p. 100 pour l'imposition des plus-values nettes à long terme réalisées avant
+le 1er juillet 1991 lors de la cession de titres du portefeuille, à l'exclusion des parts ou actions de sociétés, autres que
+celles émises par les sociétés d'investissement à capital variable, des bons de souscription d'actions, des certificats
+d'investissement et des certificats coopératifs d'investissement. Par exception, le taux de 25 p. 100 est applicable aux
+plus-values nettes à long terme afférentes aux titres de sociétés dont l'actif est constitué principalement par des titres
+relevant de ce même taux en application de la phrase qui précède ou dont l'activité consiste de manière prépondérante en la
+gestion des mêmes valeurs pour leur propre compte.
 
 Le montant net des plus-values à long terme mentionnées au sixième alinéa et des plus-values visées au II de l'article 39
 quindecies fait l'objet d'une imposition séparée au taux de 25 p. 100 dans les conditions prévues par ce dernier texte et par
 l'article 209 quater.
 
 Les provisions pour dépréciation existant à l'ouverture du premier exercice clos à compter du 1er novembre 1990 qui se
-rapportent aux titres soumis au régime d'imposition prévu au premier alinéa, lorsqu'elles sont réintégrées dans le résultat,
+rapportent aux titres soumis au régime d'imposition prévu au sixième alinéa, lorsqu'elles sont réintégrées dans le résultat,
 sont soumises au régime des plus-values à long terme imposables au taux de 25 p. 100.
 
-a bis. Le montant net des plus-values à long terme, autres que celles mentionnées aux troisième et quatrième alinéas ci-
-dessous ou résultant de la cession de parts ou actions émises par des organismes de placement collectif en valeurs mobilières
-étrangers fait l'objet d'une imposition séparée au taux de 18 p. 100, dans les conditions prévues au I de l'article 39
-quindecies et à l'article 209 quater.
+a bis. Le montant net des plus-values à long terme, autres que celles mentionnées au sixième alinéa du a ci-dessus ou
+résultant de la cession de parts ou actions émises par des organismes de placement collectif en valeurs mobilières étrangers
+fait l'objet d'une imposition séparée au taux de 18 p. 100, dans les conditions prévues au I de l'article 39 quindecies et à
+l'article 209 quater.
 
-" Les moins-values à long terme existant à l'ouverture du premier exercice clos à compter du 1er octobre 1991, qui sont
+Les moins-values à long terme existant à l'ouverture du premier exercice clos à compter du 1er octobre 1991, qui sont
 afférentes aux éléments d'actif autres que les titres exclus du régime des plus-values en application des troisième et
 quatrième alinéas ci-dessous, sont imputées sur les plus-values à long terme imposables au taux de 18 p. 100. Les provisions
 pour dépréciation qui se rapportent aux mêmes éléments sont comprises dans les plus-values à long terme imposables au taux de
@@ -22169,7 +22840,7 @@ pour dépréciation qui se rapportent aux mêmes éléments sont comprises dans 
 portefeuille réalisée à compter du 1er juillet 1991 à l'exclusion des parts ou actions de sociétés, autres que celles émises
 par des organismes de placement collectif en valeurs mobilières français ou étrangers, des bons de souscription d'actions,
 des certificats d'investissement et des certificats coopératifs d'investissement et des parts de fonds commun de placement à
-risques qui remplissent les conditions prévues au 1 bis du II de l'article 163 quinquies B et qui sont détenues par
+risques qui remplissent les conditions prévues au 1° bis du II de l'article 163 quinquies B et qui sont détenues par
 l'entreprise depuis au moins cinq ans.
 
 " A compter de la même date, le régime des plus-values et moins-values à long terme cesse également de s'appliquer en ce qui
@@ -22195,7 +22866,11 @@ deux ans au moins et qui entrent dans le champ d'application des troisième et q
 provisions sur titres déduites ou réintégrées dans les résultats, diminués, le cas échéant, de la déduction prévue à l'alinéa
 précédent.
 
-" Ces dispositions s'appliquent pour la détermination des résultats des exercices clos à compter du 1er octobre 1991. "
+Ces dispositions s'appliquent pour la détermination des résultats des exercices clos à compter du 1er octobre 1991.
+
+" L'excédent des moins-values à long terme subies au cours d'un exercice clos à compter du 1er octobre 1991 peut être déduit
+des bénéfices de l'exercice de liquidation d'une entreprise intervenue au cours des exercices ouverts à compter du 1er
+janvier 1991 à raison des dix-huit trente-quatrièmes de son montant. "
 
 b. (Disposition périmée).
 
@@ -22207,7 +22882,7 @@ dû sur ces distributions à concurrence de la somme algébrique des résultats 
 distributions antérieures décidées conformément aux statuts de la société et soumises au supplément d'impôt ainsi que, dans
 la limite de son montant positif, des distributions exonérées dans les conditions mentionnées au d, à l'exception des
 distributions prélevées sur la réserve spéciale prévue à l'article 209 quater, au d bis et au quatrième alinéa de l'article
-223 H. . Cette somme algébrique ainsi réduite est diminuée, dans la limite de son montant positif, des sommes portées à la
+223 H. Cette somme algébrique ainsi réduite est diminuée, dans la limite de son montant positif, des sommes portées à la
 réserve spéciale prévue à l'article 209 quater et afférentes à des plus-values réalisées au cours d'exercices ouverts à
 compter du 1er janvier 1989 ; les sommes prélevées sur cette réserve pour être portées en réserve ordinaire au cours des
 mêmes exercices sont ajoutées à cette somme algébrique. Le supplément est également dû sur les sommes réputées distribuées au
@@ -22226,8 +22901,6 @@ sens du présent code, effectuées par les entreprises au cours des exercices ou
 exercices le taux du supplément d'impôt sur les sociétés défini au deuxième alinéa est réduit à 0 p. 100 du montant net
 distribué à concurrence de la somme algébrique des résultats comptables de ces mêmes exercices ainsi que des sommes réputées
 distribuées. "
-
-2° La première phrase du deuxième alinéa est complétée par les mots : "
 
 d. Les distributions pour lesquelles le précompte mobilier prévu à l'article 223 sexies a été acquitté ne sont pas retenues
 pour l'application des dispositions du c. Il en est de même des distributions payées en actions en application de l'article
@@ -22302,10 +22975,11 @@ janvier 1987 et le 31 décembre 1987.
 
 	**Modifié par**:
 
-	  - Loi - art. 44 () JORF 31 décembre 1991
-	  - Loi - art. 10 (V) JORF 31 décembre 1991
 	  - Loi - art. 11 () JORF 31 décembre 1991
-	  - Modifications directes incorporées dans l'édition du 4 juillet 1992
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -23731,8 +24405,8 @@ imposables selon les modalités prévues aux articles 39 duodecies à 39 quindec
 Les dispositions de l'article 39 quindecies sont applicables à la plus-value et à la moins-value nette à long terme
 d'ensemble.
 
-La plus-value nette à long terme d'ensemble fait l'objet d'une imposition séparée dans les conditions prévues au premier ou
-au quatrième alinéa du a du paragraphe I de l'article 219.
+La plus-value nette à long terme d'ensemble fait l'objet d'une imposition séparée dans les conditions prévues au premier
+alinéa du a du I de l'article 219.
 
 Le montant net d'impôt de la plus-value nette à long terme d'ensemble doit être porté, au bilan de la société mère, à la
 réserve spéciale prévue à l'article 209 quater.
@@ -23759,6 +24433,14 @@ les dotations les plus anciennes (1).
 	  - CGI 39 1 5°
 	  - CGI 39 duodecies à CGI 39 quindecies
 
+	**Modifié par**:
+
+	  - Loi - art. 11 () JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 223 Q (V)
@@ -23771,11 +24453,6 @@ les dotations les plus anciennes (1).
 
 	  - TXT_ASSOCIE: Instruction 1992-01-17 7D-2-92
 	  - TXT_ASSOCIE: Instruction 1992-07-23 4H-13-92
-
-	**Modifié par**:
-
-	  - Loi - art. 98 (V) JORF 31 décembre 1991
-	  - Modification directe incorporée dans l'édition du 4 juillet 1992
 
 
 ##### 3° : Non-imputation des déficits et des moins-values par les sociétés du groupe
@@ -25188,10 +25865,10 @@ du 30 décembre 1981 art. 44).
 ###### Article 230 F
 
 Les employeurs redevables de la cotisation prévue à l'article 230 E sont exonérés totalement ou partiellement de cette
-obligation lorsqu'ils ont consenti des dépenses pour des actions de formation de jeunes au titre de l'ordonnance n° 82-273 du
-26 mars 1982, des articles L. 980-2 et L. 980-6 du code du travail, ou des stages d'initiation à la vie professionnelle
-mentionnés à l'article L. 980-9 du même code, dans des conditions et limites fixées par les I et III de l'article 30 de la
-loi n° 84-1208 du 29 décembre 1984.
+obligation lorsqu'ils ont consenti des dépenses au titre des contrats d'insertion en alternance mentionnés aux articles L.
+981-1, L. 981-6 et L. 981-7 du code du travail, dans les conditions et limites fixées par les I et III de l'article 30 de la
+loi n° 84-1208 du 29 décembre 1984, modifié par le II de l'article 25 de la loi n° 85-1403 du 30 décembre 1985 et par le V de
+l'article 5 de la loi n° 91-1405 du 31 décembre 1991.
 
 L'exonération porte sur les dépenses engagées entre le 1er janvier et le 31 décembre de l'année précédant celle au cours de
 laquelle la cotisation est exigible.
@@ -25203,19 +25880,24 @@ laquelle la cotisation est exigible.
 	**Cite**:
 
 	  - CGI 230 E
-	  - Ordonnance 82-273 1982-03-26
-	  - Loi n°84-1208 1984-12-29 art. 30 I, III Finances pour 1985
-	  - Code du travail - art. L980-2 (T)
-	  - Code du travail - art. L980-6 (T)
-	  - Code du travail - art. L980-9 (M)
+	  - Loi n°84-1208 du 29 décembre 1984 - art. 30, v. init.
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 25, v. init.
+	  - Loi n°91-1405 1991-12-31 art. 5
+	  - Code du travail - art. L981-1 (M)
+	  - Code du travail - art. L981-6 (Ab)
+	  - Code du travail - art. L981-7 (Ab)
 
 	**Modifié par**:
 
-	  - Loi n°84-1208 1984-12-29 art. 30 Finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+	  - Loi n°91-1406 du 31 décembre 1991 - art. 5 () JORF 4 janvier 1992
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°93-121 du 27 janvier 1993 - art. 93 (V) JORF 30 janvier 1993
 
 	**Codifié par**:
 
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°94-899 1994-10-17
 
 
 ###### Article 230 FA
@@ -25694,18 +26376,19 @@ du 7 de l'article 261, sont exonérés de taxe sur les salaires.
 
 ###### Article 231 bis N
 
-La rémunération versée aux salariés bénéficiaires d'un contrat emploi-solidarité défini aux articles L. 322-4-7 et suivants
-du code du travail est exonérée de taxe sur les salaires.
+La rémunération versée aux salariés bénéficiaires d'un contrat emploi-solidarité ou d'un contrat local d'orientation définis
+aux articles L. 322-4-7 et suivants du code du travail est exonérée de taxe sur les salaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-905 du 19 décembre 1989 - art. 5 () JORF 20 décembre 1989 en vigueur le 1er janvier 1990
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 1 () JORF 4 janvier 1992
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 9 () JORF 4 janvier 1992
 
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°92-836 1992-08-27
 
 	**Cite**:
 
@@ -25736,28 +26419,28 @@ propriétaires de locaux imposables.
 
 V. Les tarifs de la taxe sont fixés à :
 
-1° 51,40F par mètre carré dans les 1er, 2e, 3e, 4e, 6e, 7e, 8e, 9e, 14e, 15e, 16e et 17e arrondissements de Paris et dans les
+1° 60 F par mètre carré dans les 1er, 2e, 3e, 4e, 6e, 7e, 8e, 9e, 14e, 15e, 16e et 17e arrondissements de Paris et dans les
 arrondissements de Nanterre et de Boulogne-Billancourt du département des Hauts-de-Seine ;
 
-2° 30,80 F par mètre carré dans les autres arrondissements de Paris, dans l'arrondissement d'Antony, du département des
-Hauts-de-Seine ainsi que dans les départements de Seine-Saint-Denis et du Val-de-Marne ;
+2° 36 F par mètre carré dans les autres arrondissements de Paris, dans l'arrondissement d'Antony, du département des Hauts-
+de-Seine ainsi que dans les départements de Seine-Saint-Denis et du Val-de-Marne ;
 
-3° 15,40 F par mètre carré dans les départements de Seine-et-Marne des Yvelines, de l'Essonne et du Val-d'Oise.
+3° 18 F par mètre carré dans les départements de Seine-et-Marne des Yvelines, de l'Essonne et du Val-d'Oise.
 
 Les limites des circonscriptions visées aux 1°, 2° et 3° ci-dessus sont celles qui existent à la date de promulgation de la
 présente loi.
 
-Toutefois, le tarif de la taxe est fixé à 15 F par mètre carré pour les locaux dont les collectivités publiques et leurs
-établissements publics sans caractère industriel ou commercial, les organismes sans but lucratif à caractère sanitaire,
-social, éducatif, sportif ou culturel ou les organismes professionnels sont propriétaires et dans lesquels ils exercent leur
-activité.
+Toutefois, le tarif de la taxe est fixé à respectivement 30 F, 22 F et 16 F par mètre carré pour les circonscriptions
+définies aux 1°, 2° et 3° du présent article pour les locaux dont les collectivités publiques et leurs établissements publics
+sans caractère industriel ou commercial, les organismes sans but lucratif à caractère sanitaire, social, éducatif, sportif ou
+culturel ou les organismes professionnels sont propriétaires et dans lesquels ils exercent leur activité.
 
 Les tarifs sont révisés chaque année en fonction de l'évolution annuelle de l'indice du coût de la construction.
 
 VI. Les redevables sont tenus de déposer une déclaration accompagnée du paiement de l'impôt, avant le 1er mars de chaque
 année [*date limite de dépôt*], auprès du comptable du Trésor du lieu de situation des locaux imposables.
 
-VII 1 Le contrôle, le recouvrement, le contentieux, les garanties et les sanctions relatifs à cette taxe sont régis par les
+VII. 1 Le contrôle, le recouvrement, le contentieux, les garantie et les sanctions relatifs à cette taxe sont régis par les
 règles applicables en matière de taxe sur les salaires.
 
 2 Le privilège prévu au 1° du 2 de l'article 1920 peut être exercé pour le recouvrement de la taxe annuelle sur les locaux à
@@ -25770,18 +26453,17 @@ usage de bureaux.
 	  - CGI 1920 2 1°
 	  - Loi n°76-394 du 6 mai 1976 - art. 1 (M)
 
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
 	**Modifié par**:
 
-	  - Loi - art. 41 (V) JORF 30 décembre 1990
-	  - Loi n°89-936 1990-12-29 art. 40 Finances rectificative pour 1989 JORF 30 décembre 1989
+	  - Loi - art. 44 () JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
+	  - Décret n°92-836 1992-08-27
 
 
 ##### Section VI : Taxe sur les services d'informations ou interactifs à caractère pornographique
@@ -25938,17 +26620,20 @@ NOTA : Cet article est abrogé pour les bénéfices réalisés au titre des exer
 
 ###### Article 235 ter C
 
-Tout employeur occupant au minimum dix salariés [*effectif*], à l'exception de l'Etat, des collectivités locales et de leurs
-établissements publics à caractère administratif, doit concourir au développement de la formation professionnelle continue en
-participant, chaque année, au financement des actions de formation mentionnées à l'article L. 900-2 du code du travail.
-
-[*(Dispositions transférées dans l'article 235 ter D)*].
+Tout employeur, à l'exception de l'Etat, des collectivités locales et de leurs établissements publics à caractère
+administratif, doit concourir au développement de la formation professionnelle continue en participant, chaque année, au
+financement des actions mentionnées à l'article L. 900-2 du code du travail.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 19 () JORF 4 janvier 1992
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 28 () JORF 4 janvier 1992
+
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -25959,22 +26644,22 @@ participant, chaque année, au financement des actions de formation mentionnées
 	  - Arrêté du 18 avril 2017 (V)
 	  - Code général des impôts, CGI. - art. 235 ter F (V)
 
-	**Nouveaux textes**:
-
-	  - CGI 235 ter D b (2è al. du CGI 235 ter C)
-
 	**Cite**:
 
 	  - Code du travail - art. L900-2 (M)
 
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
 
 ###### Article 235 ter GA
 
-Les employeurs assujettis à la participation au développement de la formation professionnelle continue doivent s'acquitter
-d'une partie de leurs obligations en effectuant au Trésor public, au plus tard le 15 septembre [*date limite*], un versement
-égal à 0,3 p. 100 [*pourcentage*] du montant, entendu au sens des articles 235 ter E et 235 ter EA, des salaires versés au
-cours de l'année précédente, majorés du taux d'évolution du salaire moyen par tête tel qu'il ressort des hypothèses
-économiques associées au projet de loi de finances.
+Les employeurs assujettis à la participation au développement de la formation professionnelle continue dans le cadre de
+l'obligation définie à l'article 235 ter D doivent s'acquitter d'une partie de leurs obligations en effectuant au Trésor
+public, au plus tard le 15 septembre [*date limite*], un versement égal à 0,3 p. 100 [*pourcentage*] du montant, entendu au
+sens des articles 235 ter D et 235 ter EA, des salaires versés au cours de l'année précédente, majorés du taux d'évolution du
+salaire moyen par tête tel qu'il ressort des hypothèses économiques associées au projet de loi de finances.
 
 Cette cotisation est établie et recouvrée selon les mêmes modalités et sous les mêmes garanties et sanctions que la
 participation des employeurs au financement de la formation professionnelle continue.
@@ -25983,24 +26668,29 @@ participation des employeurs au financement de la formation professionnelle cont
 
 	**Cite**:
 
-	  - CGI 235 ter E CGI 235 ter EA
+	  - CGI 235 ter D CGI 235 ter EA
 
 	**Modifié par**:
 
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 36 () JORF 31 décembre 1986 en vigueur le 1etr janvier 1987
-	  - Loi n°87-588 du 30 juillet 1987 - art. 72 (V) JORF 31 juillet 1987
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 27 () JORF 4 janvier 1992
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-836 1992-08-27
+	  - Décret n°93-1127 1993-09-24
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°93-121 du 27 janvier 1993 - art. 92 () JORF 30 janvier 1993
 
 
 ###### Article 235 ter GB
 
 Les employeurs sont exonérés totalement ou partiellement de la cotisation prévue à l'article 235 ter GA lorsqu'ils ont
-consenti des dépenses pour des actions de formation alternée de jeunes au titre des articles L. 980-2 et L. 980-6 du code du
-travail, ou des stages d'initiation à la vie professionnelle mentionnés à l'article L. 980-9 du même code, dans des
-conditions et limites fixées par les II et III de l'article 30 de la loi n° 84-1208 du 29 décembre 1984.
+consenti des dépenses au titre des contrats d'insertion en alternance mentionnés aux articles L. 981-1, L. 981-6 et L. 981-7
+du code du travail, dans les conditions et limites fixées par les II et III de l'article 30 de la loi n° 84-1208 du 29
+décembre 1984, modifié par le II de l'article 25 de la loi n° 85-1403 du 30 décembre 1985 et par le V de l'article 5 de la
+loi n° 91-1405 du 31 décembre 1991.
 
 L'exonération porte sur les dépenses engagées entre le 1er septembre de l'année précédente et le 31 août de l'année au cours
 de laquelle la cotisation est exigible.
@@ -26010,18 +26700,20 @@ de laquelle la cotisation est exigible.
 	**Cite**:
 
 	  - CGI 235 ter GA
-	  - Loi n°84-1208 1984-12-29 art. 30 II, III
-	  - Code du travail - art. L980-2 (T)
-	  - Code du travail - art. L980-6 (T)
-	  - Code du travail - art. L980-9 (M)
+	  - Loi n°84-1208 du 29 décembre 1984 - art. 30, v. init.
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 25, v. init.
+	  - Loi n°91-1405 1991-12-31 art. 5
+	  - Code du travail - art. L981-1 (M)
+	  - Code du travail - art. L981-6 (Ab)
+	  - Code du travail - art. L981-7 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°84-1208 1984-12-29 art. 30 Finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 5 () JORF 4 janvier 1992
 
 	**Codifié par**:
 
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 235 ter GC
@@ -26029,9 +26721,9 @@ de laquelle la cotisation est exigible.
 Les organismes collecteurs chargés de recueillir des fonds versés par les employeurs en application de l'article 235 ter GB
 sont, à défaut de pouvoir justifier une affectation des fonds conforme à celle définie au même article, tenus de procéder au
 versement des sommes correspondantes au Trésor public ou, dans le cas des branches pour lesquelles il existe des dispositions
-légales et règlementaires imposant des efforts spécifiques pour la formation des jeunes, déductibles du 1,2 % de la formation
-continue visée à l'article 235 ter E, d'affecter les fonds conformément au III de l'article 25 de la loi n° 85-1403 du 30
-décembre 1985.
+légales et règlementaires imposant des efforts spécifiques pour la formation des jeunes, déductibles de la participation au
+financement de la formation continue visée à l'article 235 ter D, d'affecter les fonds conformément au III de l'article 25 de
+la loi n° 85-1403 du 30 décembre 1985.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article (1).
 
@@ -26041,39 +26733,17 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 	**Cite**:
 
-	  - CGI 235 ter GB, 235 ter E
+	  - CGI 235 ter GB, 235 ter D
 	  - CGIAN2 383 bis D
 	  - Loi n°85-1403 1985-12-30 art. 25 III Finances pour 1986
 
 	**Modifié par**:
 
-	  - Loi n°87-588 du 30 juillet 1987 - art. 72 (V) JORF 31 juillet 1987 1990
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 27 () JORF 4 janvier 1992
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
-
-
-###### Article 235 ter H
-
-Les employeurs qui effectuent, au cours d'une année, un montant de dépenses supérieur à celui prévu à l'article 235 ter E,
-peuvent reporter l'excédent sur les trois années suivantes [*délai*].
-
-Les dépenses ouvrant droit au crédit d'impot prévu à l'article 244 quater C ne peuvent donner lieu à ce report.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 ter E CGI 244 quater C
-
-	**Modifié par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 69 (P) JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°92-836 1992-08-27
 
 
 ##### I. : Employeurs occupant dix salariés et plus
@@ -26082,46 +26752,33 @@ Les dépenses ouvrant droit au crédit d'impot prévu à l'article 244 quater C 
 
 ###### Article 235 ter D
 
-Pour l'appréciation de la condition d'effectif prévue à l'article 235 ter C :
-
-a. Jusqu'au terme prévu par le contrat ou, à défaut, jusqu'à l'expiration d'une période de deux ans à compter de sa
-conclusion, les titulaires des contrats de travail définis aux articles L. 980-2 et L. 980-6 du code du travail, ne sont pas
-pris en compte ;
-
-b. Les salariés à temps partiel sont pris en compte dans les conditions fixées par l'article L. 212-4-4 du même code ;
-
-c. L'effectif des salariés employés par les entreprises de travail temporaire est calculé en ajoutant au nombre des salariés
-permanents le nombre moyen par jour ouvrable des salariés qui ont été liés par un contrat de travail temporaire au cours de
-l'exercice.
-
-d. Les titulaires de contrats de retour à l'emploi prévus à l'article L. 322-4-2 du code du travail ne sont pas pris en
-compte jusqu'à l'expiration d'une période d'un an à compter de la date d'embauche ;
-
-e. Les titulaires des contrats emploi-solidarité définis aux articles L. 322-4-7 et suivants du code du travail ne sont pas
-pris en compte pendant toute la durée du contrat.
-
-f. Les apprentis avec lesquels un contrat régulier d'apprentissage a été conclu dans les conditions prévues aux articles L.
-117-1 à L. 117-18 du code du travail ne sont pas pris en compte.
+Les employeurs occupant au minimum dix salariés doivent consacrer au financement des actions définies à l'article 235 ter C
+un pourcentage minimal de 1,2 p. 100 du montant, entendu au sens du 1 de l'article 231, des salaires payés pendant l'année en
+cours. Les sommes sur lesquelles portent les exonérations mentionnées aux articles 231 bis C à 231 bis N ne sont pas prises
+en compte pour l'établissement du montant de la contribution définie ci-dessus. Ce pourcentage est porté à 1,4 p. 100 à
+compter du 1er janvier 1992 et à 1,5 p. 100 à compter du 1er janvier 1993. Pour les entreprises de travail temporaire, le
+taux est fixé à 2 p. 100.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 235 ter C
-	  - Code du travail - art. L212-4-4 (M)
-	  - Code du travail - art. L322-4-2 (M)
-	  - Code du travail - art. L322-4-7 (M)
-	  - Code du travail - art. L980-2 (T)
-	  - Code du travail - art. L980-6 (T)
-	  - Code du travail L980-2, L980-6, L212-4-4, L322-4-2, L322-4-7, L117-1 à L117-18
+	  - CGI 235 ter C, 231, 231 bis C à 231 bis N
+
+	**Liens**:
+
+	  - TXT_SOURCE: CGI 235 ter E
 
 	**Modifié par**:
 
-	  - Loi n°85-772 du 25 juillet 1985 - art. 53 () JORF 26 juillet 1985
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 1 () JORF 4 janvier 1992
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 27 () JORF 4 janvier 1992
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 4 () JORF 4 janvier 1992
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 9 () JORF 4 janvier 1992
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -26138,34 +26795,95 @@ f. Les apprentis avec lesquels un contrat régulier d'apprentissage a été conc
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 ZB (V)
 
 
-##### 3° : Calcul et prise en compte de l'effectif salarié
+##### 1° : Contrats d'insertion en alternance.
 
-###### Article 235 ter E
+###### Article 235 ter H
 
-Le taux de la participation prévue à l'article L950-1 du code du travail est fixé à 1,2 % du montant entendu au sens du 1 de
-l'article 231, des salaires payés pendant l'année en cours (1) ; les exonérations mentionnées aux articles 231 bis C à 231
-bis N s'appliquent. Ce pourcentage est fixé à 2 p. 100 pour les entreprises de travail temporaire.
+Les employeurs qui effectuent, au cours d'une année, un montant de dépenses supérieur à celui prévu à l'article 235 ter D,
+peuvent reporter l'excédent sur les trois années suivantes.
 
-(1) Taux applicable aux salaires versés à compter du 1er janvier 1987. Voir également Annexe II, art. 163 decies.
+Les dépenses ouvrant droit au crédit d'impot prévu à l'article 244 quater C ne peuvent donner lieu à ce report.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 231
-	  - CGI 231 bis C à CGI 231 bis N
-	  - CGIAN2 163 decies
-	  - Code du travail - art. L910-1 (M)
-	  - Code du travail - art. L950-1 (M)
+	  - CGI 235 ter D CGI 244 quater C
+
+	**Nouveaux textes**:
+
+	  - CGI 235 ter GA-0 bis
 
 	**Modifié par**:
 
-	  - Loi n°90-613 du 12 juillet 1990 - art. 27 () JORF 14 juillet 1990
-	  - Loi n°90-613 du 12 juillet 1990 - art. 43 (V) JORF 14 juillet 1990
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 27 () JORF 4 janvier 1992
+
+	**Transféré par**:
+
+	  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - décret 2005-330 2005-04-06
+
+
+##### 3° : Calcul et prise en compte de l'effectif salarié
+
+###### Article 235 ter E
+
+Pour l'appréciation de la condition d'effectif prévue à l'article 235 ter D :
+
+" a) Jusqu'au terme prévu par le contrat ou, à défaut, jusqu'à l'expiration d'une période de deux ans à compter de sa
+conclusion, les titulaires des contrats de travail définis aux articles L. 981-1, L. 981-6 et L. 981-7 du code du travail ne
+sont pas pris en compte ;
+
+" b) Les salariés à temps partiel sont pris en compte dans les conditions fixées par l'article L. 212-4-4 du même code ;
+
+" c) L'effectif des salariés employés par les entreprises de travail temporaire est calculé en ajoutant au nombre des
+salariés permanents le nombre moyen par jour ouvrable des salariés qui ont été liés par un contrat de travail temporaire au
+cours de l'exercice ;
+
+" d) Les titulaires de contrats de retour à l'emploi prévus à l'article L. 322-4-2 du code du travail ne sont pas pris en
+compte jusqu'à l'expiration d'une période d'un an à compter de la date d'embauche ;
+
+" e) Les titulaires des contrats emploi-solidarité et des contrats locaux d'orientation définis aux articles L. 322-4-7 et
+suivants du code du travail ne sont pas pris en compte pendant toute la durée du contrat ;
+
+" f) Les apprentis avec lesquels un contrat régulier d'apprentissage a été conclu dans les conditions prévues aux articles L.
+117-1 à L. 117-18 du code du travail ne sont pas pris en compte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 ter D
+	  - Code du travail - art. L212-4-4 (M)
+	  - Code du travail - art. L322-4-2 (M)
+	  - Code du travail - art. L322-4-7 (M)
+	  - Code du travail - art. L981-1 (M)
+	  - Code du travail - art. L981-6 (Ab)
+	  - Code du travail - art. L981-7 (Ab)
+	  - Code du travail L981-1, L981-6, L981-7, L212-4-4, L322-4-2, L322-4-7, L117-1 à L117-18
+
+	**Liens**:
+
+	  - TXT_SOURCE: CGI 235 ter D
+
+	**Modifié par**:
+
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 1 ()
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 27 ()
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 4 ()
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 9 ()
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -26178,22 +26896,41 @@ Les employeurs qui, en raison de l'accroissement de leur effectif, atteignent ou
 dispensés pendant trois ans du paiement de la cotisation relative à la participation. Le montant de la participation est
 réduit de 75 p. 100 la quatrième année, de 50 p. 100 la cinquième année, de 25 p. 100 la sixième année.
 
+A compter du 1er janvier 1992, les employeurs qui, en raison de l'accroissement de leur effectif, atteignent ou dépassent,
+pour la première fois, l'effectif de dix salariés restent soumis pour l'année en cours et les deux suivantes à l'obligation
+visée à l'article L. 952-1. Le montant de leur participation en qualité d'employeurs occupant au moins dix salariés est
+réduit de 75 p. 100 la quatrième année, de 50 p. 100 la cinquième année, de 25 p. 100 la sixième année.
+
+Les dispositions qui précèdent ne sont pas applicables lorsque l'accroissement de l'effectif résulte de la reprise ou de
+l'absorption d'une entreprise ayant employé dix salariés ou plus au cours de l'une des trois années précédentes.
+
+Dans ce cas, l'obligation visée aux articles 235 ter D et 235 ter H bis est due dans les conditions de droit commun dès
+l'année au cours de laquelle l'effectif de dix salariés est atteint ou dépassé.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 ter D, 235 ter H bis
 
 	**Modifié par**:
 
-	  - Loi n°86-824 du 11 juillet 1986 - art. 2 () JORF 12 juillet 1986
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 30 (V) JORF 4 janvier 1992
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ##### 4° : Employeurs de cinquante salariés et plus
 
 ###### Article 235 ter F
 
-Les employeurs qui occupent au moins cinquante salariés [*effectif minimum*] ne peuvent être regardés comme s'étant conformés
-aux dispositions du titre V du livre IX du code du travail que si, ayant satisfait à l'obligation prévue à l'article 235 ter
-E, ils justifient que le comité d'entreprise a délibéré sur les problèmes propres à l'entreprise, relatifs à la formation
-professionnelle continue pendant l'année au titre de laquelle ils se sont acquittés de ladite obligation et avant que ne
-soient prises les décisions générales concernant l'application des dispositions précitées.
+Les employeurs qui occupent au moins cinquante salariés ne peuvent être regardés comme s'étant conformés aux dispositions du
+titre V du livre IX du code du travail que si, ayant satisfait à l'obligation prévue à l'article 235 ter D, ils justifient
+que le comité d'entreprise a délibéré sur les problèmes propres à l'entreprise, relatifs à la formation professionnelle
+continue pendant l'année au titre de laquelle ils se sont acquittés de ladite obligation et avant que ne soient prises les
+décisions générales concernant l'application des dispositions précitées.
 
 Les employeurs sont dispensés de cette justification lorsqu'ils produisent le procès-verbal de carence prévu à l'article L
 433-13 du code du travail.
@@ -26202,25 +26939,33 @@ Les employeurs sont dispensés de cette justification lorsqu'ils produisent le p
 
 	**Cite**:
 
-	  - CGI 235 ter E
+	  - CGI 235 ter D
 	  - Code du travail - art. L433-13 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 1 () JORF 4 janvier 1992
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 235 ter H ter (VT)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 163 undecies (V)
 
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ##### 5° : Versement au Trésor public et majoration
 
 ###### Article 235 ter G
 
-I. Lorsque les dépenses justifiées par l'employeur en application de l'article L 950-2 du code du travail sont inférieures à
-la participation fixée par l'article 235 ter E, l'employeur est tenu d'effectuer au Trésor un versement égal à la différence
+I. Lorsque les dépenses justifiées par l'employeur en application de l'article L 950-1 du code du travail sont inférieures à
+la participation fixée par l'article 235 ter D, l'employeur est tenu d'effectuer au Trésor un versement égal à la différence
 constatée.
 
 Les sommes engagées par un employeur au titre d'une convention passée avec un organisme formateur n'ont de caractère
@@ -26241,16 +26986,16 @@ opéré en même temps que le dépôt de la déclaration de l'année de la régu
 
 	**Cite**:
 
-	  - CGI 235 ter E
-	  - CGI 235 ter F
-	  - CGI 235 ter J
-	  - Loi n°78-653 1978-06-22 ART. 3 II
-	  - Loi n°78-1239 du 29 décembre 1978 - art. 33, v. init.
-	  - Code du travail - art. L950-2 (M)
+	  - CGI 235 ter D, 235 ter F, 235 ter J
+	  - Code du travail - art. L951-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 1 () JORF 4 janvier 1992
 
 	**Codifié par**:
 
-	  - Décret n°84-875 1984-10-01
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -26258,76 +27003,79 @@ opéré en même temps que le dépôt de la déclaration de l'année de la régu
 	  - Code général des impôts, CGI. - art. 1679 bis B (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 163 quaterdecies A (P)
 
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
 
 ###### Article 235 ter H bis
 
-Pour financer les congés individuels de formation, une fraction de la participation des employeurs au développement de la
-formation professionnelle continue, égale au moins à 0,10 % des salaires de l'année de référence, est obligatoirement versée
-à des organismes paritaires agréés par l'Etat. Au titre des obligations relatives aux années 1990, 1991 et 1992, le taux est
-porté à 0,15 p. 100 pour les versements effectués en 1991, 1992 et 1993. Pour les entreprises de travail temporaire, ce taux
-est fixé à 0,25 p. 100 (1) . Tout employeur ne peut verser sa contribution qu'à un seul organisme paritaire agréé. Toutefois,
-un décret fixe les conditions dans lesquelles il peut être dérogé à cette disposition, notamment en ce qui concerne les
-entreprises à établissements multiples (2).
+I. - Dans le cadre de l'obligation définie à l'article 235 ter D, les employeurs effectuent un versement au moins égal à 0,15
+p. 100 des salaires de l'année de référence à un organisme paritaire agréé par l'Etat au titre du congé individuel de
+formation [*CIF*]. Ce pourcentage est porté à 0,20 p. 100 à compter du 1er janvier 1993 ; pour les entreprises de travail
+temporaire, le taux est fixé à 0,25 p. 100.
 
-Lorsqu'un employeur n'a pas effectué le versement prévu au premier alinéa avant le 1er mars de l'année suivant celle au titre
-de laquelle est due cette participation, ou a effectué un versement insuffisant, le montant de sa participation au
-financement de la formation professionnelle continue est majoré de l'insuffisance constatée. Le versement au Trésor à raison
-de cette insuffisance doit être opéré en même temps que le dépôt de la déclaration prévue à l'article 235 ter J.
+II. - Lorsqu'un employeur n'a pas effectué le versement mentionné au I avant le 1er mars de l'année suivant celle au titre de
+laquelle est due cette participation, ou a effectué un versement insuffisant, le montant de sa participation au financement
+de la formation professionnelle continue est majoré de l'insuffisance constatée.
 
 Les excédents reportables des années antérieures ainsi que ceux dégagés l'année au cours de laquelle l'insuffisance est
-constatée ne peuvent s'imputer sur la majoration mentionnée au deuxième alinéa.
+constatée ne peuvent s'imputer sur ladite majoration.
 
-(1) Le taux de 25 % s'applique aux rémunérations versées au titre des contrats de travail conclus à compter du 16 juillet
-1990.
+Le versement au Trésor à raison de l'insuffisance éventuelle doit être opéré en même temps que le dépôt de la déclaration
+prévue à l'article 235 ter J.
 
-(2) Code du travail, art. R950-16.
+III. - Tout employeur assujetti en application du I ne peut verser sa contribution qu'à un seul organisme paritaire agréé.
+Toutefois, un décret fixe les conditions dans lesquelles il peut être dérogé à cette disposition, notamment en ce qui
+concerne les entreprises à établissements multiples.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 235 ter J
-	  - Code du travail - art. R950-16 (M)
+	  - CGI 235 ter D, 235 ter J
 
 	**Modifié par**:
 
-	  - Loi n°90-579 du 4 juillet 1990 - art. 14 () JORF 10 juillet 1990
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 1 () JORF 4 janvier 1992
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 27 () JORF 4 janvier 1992
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
-
-	**Liens**:
-
-	  - HISTO: loi 90-613 1990-07-12 art. 27, art. 43 JORF 14 juillet 1990)
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 235 ter H quater
 
 Les dépenses effectivement supportées par l'employeur au titre du congé individuel de formation, en sus du versement
 obligatoire prévu à l'article 235 ter H bis, sont imputables sur le montant de la participation établie par l'article 235 ter
-E.
+D.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 235 ter E
+	  - CGI 235 ter D
 	  - CGI 235 ter H bis
+
+	**Modifié par**:
+
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 27 () JORF 4 janvier 1992
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 28 () JORF 4 janvier 1992
 
 	**Codifié par**:
 
-	  - Décret n°84-875 1984-10-01
+	  - Décret n°92-836 1992-08-27
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°84-130 1984-02-24 art. 29 JORF 25 février 1984
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 235 ter H ter
 
 Les emplois de fonds par les organismes paritaires agréés prévus à l'article 235 ter H bis qui ne répondent pas aux règles
-posées par l'article L. 950-2-2 du code du travail et par les textes pris pour son application, donnent lieu à un reversement
+posées par l'article L. 951-3 du code du travail et par les textes pris pour son application, donnent lieu à un reversement
 de même montant par l'organisme au Trésor public.
 
 **Liens relatifs à cet article**
@@ -26335,49 +27083,90 @@ de même montant par l'organisme au Trésor public.
 	**Cite**:
 
 	  - CGI 235 ter H bis
-	  - Code du travail - art. L950-2-2 (T)
+	  - Code du travail - art. L951-3 (M)
+
+	**Modifié par**:
+
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 1 () JORF 4 janvier 1992
 
 	**Codifié par**:
 
-	  - Décret n°84-875 1984-10-01
+	  - Décret n°92-836 1992-08-27
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°84-130 1984-02-24 art. 29 JORF 25 février 1984
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 235 ter HA
 
-Les fonds non employés à l'issue des actions de formation au bénéfice de travailleurs privés d'emploi, prévues par l'article
-L. 950-2-3° du code du travail et organisées dans des centres de formation conventionnés, sont versés au Trésor public par
-ces centres (1).
-
-(1) Voir Annexe III, art. 381 U à 381 X.
+Les fonds non employés à l'issue des actions de formation au bénéfice de travailleurs privés d'emploi, prévues par le 3° de
+l'article L. 951-1 du code du travail et organisées dans des centres de formation conventionnés, sont versés au Trésor public
+par ces centres.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 381 U
-	  - CGIAN3 381 V
-	  - CGIAN3 381 W
-	  - CGIAN3 381 X
-	  - Code du travail L950-2 3°
-
 	**Modifié par**:
 
-	  - Loi n°84-130 1984-02-24 art. 26 JORF 25 février 1984
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 1 () JORF 4 janvier 1992
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 U (P)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°84-875 1984-10-01
+	  - Code du travail - art. L951-1 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### 4° : Fonds d'assurance-formation.
+
+###### Article 235 ter HB
+
+En application de l'article L 961-8 du code du travail, un décret en Conseil d'Etat fixe les modalités de reversement au
+Trésor public par les fonds d'assurance formation des fonds non utilisés et les dépenses afférentes aux actions de formation
+non admises par les agents assermentés désignés à l'article L 991-3 du même code (1).
+
+(1) Annexe II, art. 383 bis B et 383 bis C.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGI 235 ter KF
+
+	**Cite**:
+
+	  - CGIAN2 383 bis B
+	  - CGIAN2 383 bis C
+	  - Code du travail - art. L961-8 (M)
+	  - Code du travail - art. L991-3 (T)
+
+	**Modifié par**:
+
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 36 () JORF 4 janvier 1992
+
+	**Transféré par**:
+
+	  - Décret n°2005-330 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Codifié par**:
+
+	  - décret 2005-330 2005-04-06
+
 
 ###### Article 235 ter HC
 
@@ -26442,6 +27231,32 @@ engagées.
 	  - SPEC_APPLI: L'article 235 ter HD reprend l'article 1783 quater
 
 
+###### Article 235 ter JA
+
+Le contrôle et le contentieux de la participation des employeurs, autres que ceux prévus aux articles L. 991-1 à L. 991-8 du
+code du travail pour les litiges relatifs à la réalité et à la validité des dépenses de formation, sont effectués selon les
+règles applicables en matière de taxe sur le chiffre d'affaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Cite**:
+
+	  - Code du travail L991-1 à L991-8
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 1 () JORF 4 janvier 1992
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 36 () JORF 4 janvier 1992
+
+
 ###### Article 235 ter K
 
 Des décrets en Conseil d'Etat, déterminent notamment, en tant que de besoin :
@@ -26468,37 +27283,11 @@ Les adaptations nécessaires à l'application des articles 235 ter C à 235 ter 
 
 ##### Fonds d'assurance-formation.
 
-###### Article 235 ter HB
-
-En application de l'article L 961-8 du code du travail, un décret en Conseil d'Etat fixe les modalités de reversement au
-Trésor public par les fonds d'assurance formation des fonds non utilisés et les dépenses afférentes aux actions de formation
-non admises par les agents commissionnés désignés à l'article L 991-3 du même code (1).
-
-(1) Annexe II, art. 383 bis B et 383 bis C.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 383 bis B
-	  - CGIAN2 383 bis C
-	  - Code du travail - art. L961-8 (M)
-	  - Code du travail - art. L991-3 (T)
-
-	**Modifié par**:
-
-	  - Loi n°90-579 du 4 juillet 1990 - art. 19 () JORF 10 juillet 1990
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
-
-
 ###### Article 235 ter J
 
 I  Les employeurs sont tenus de remettre à la recette des impôts compétente une déclaration en double exemplaire, indiquant
 notamment le montant de la participation à laquelle ils étaient tenus et les dépenses effectivement consenties en vertu de
-l'article L 950-2 du code du travail.
+l'article L 951-1 du code du travail.
 
 La déclaration des employeurs mentionnés à l'article 235 ter F doit être accompagnée soit du procès-verbal de la délibération
 du comité d'entreprise, soit du procès-verbal de carence.
@@ -26517,11 +27306,15 @@ En cas de redressement judiciaire , elles sont produites, [*delai*] dans les soi
 	**Cite**:
 
 	  - CGI 235 ter F
-	  - Code du travail - art. L950-2 (M)
+	  - Code du travail - art. L951-1 (M)
 
 	**Modifié par**:
 
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 87 () JORF 31 décembre 1987
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 1 () JORF 4 janvier 1992
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -26530,25 +27323,141 @@ En cas de redressement judiciaire , elles sont produites, [*delai*] dans les soi
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (V)
 
 
-###### Article 235 ter JA
+##### II : Employeurs occupant moins de dix salariés
 
-Le contrôle et le contentieux de la participation des employeurs, autres que ceux prévus aux articles L. 991-1 à L. 991-9 du
-code du travail pour les litiges relatifs à la réalité et à la validité des dépenses de formation, sont effectués selon les
-règles applicables en matière de taxe sur le chiffre d'affaires.
+##### 1° : Montant de la participation
+
+###### Article 235 ter KA
+
+Les employeurs occupant moins de dix salariés, à l'exception de ceux occupant les personnes mentionnées au titre VII du livre
+VII du code du travail doivent consacrer au financement des actions définies à l'article 235 ter C un pourcentage minimal de
+0,15 p. 100 du montant, entendu au sens du 1 de l'article 231, des salaires payés pendant l'année en cours. Les sommes sur
+lesquelles portent les exonérations mentionnées aux articles 231 bis C à 231 bis N ne sont pas prises en compte pour
+l'établissement du montant de la contribution définie ci-dessus. A défaut de dispositions contraires prévues par une
+convention ou un accord collectif étendu, les contributions inférieures à 100 F ne sont pas exigibles.
+
+A compter du 1er janvier 1992, la contribution dont les modalités de calcul ont été fixées à l'alinéa précédent est versée
+par l'employeur, avant le 1er mars de l'année suivant celle au titre de laquelle elle est due, à un organisme collecteur
+agréé, à ce titre, par l'Etat.
+
+L'employeur ne peut verser cette contribution qu'à un seul organisme collecteur agréé.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Loi n°90-579 du 4 juillet 1990 - art. 19 () JORF 10 juillet 1990
+	  - CGI 235 ter C, 231, 231 bis C à 231 bis N
+
+	**Créé par**:
+
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 28 () JORF 4 janvier 1992
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter KC (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 163 nonies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 163 quindecies C (V)
+
+
+###### Article 235 ter KB
+
+Les emplois de fonds par les organismes collecteurs agréés prévus à l'article 235 ter KA, qui ne répondent pas aux règles
+posées par l'article L. 952-2 du code du travail et par les textes pris pour son application donnent lieu à un reversement de
+même montant par l'organisme collecteur agréé au Trésor public.
+
+**Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code du travail L991-1 à L991-9
+	  - CGI 235 ter KA
+	  - Code du travail - art. L952-2 (M)
+
+	**Créé par**:
+
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 28 () JORF 4 janvier 1992
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+
+##### 2° : Versement au Trésor public et majoration
+
+###### Article 235 ter KC
+
+Lorsqu'un employeur n'a pas effectué le versement à un organisme collecteur visé à l'article 235 ter KA avant le 1er mars de
+l'année suivant celle au titre de laquelle est due la contribution ou a effectué un versement insuffisant, le montant de sa
+participation au financement de la formation professionnelle continue est majoré de l'insuffisance constatée. L'employeur est
+tenu de verser au Trésor public, lors du dépôt de la déclaration prévue à l'article 235 ter KD, un montant égal à la
+différence constatée entre sa participation ainsi majorée au financement de la formation professionnelle continue et son
+versement à l'organisme collecteur. Le montant de ce versement est établi et recouvré selon les modalités ainsi que sous les
+sûretés, garanties et sanctions applicables en matière de taxe sur le chiffre d'affaires.
+
+Le contrôle et le contentieux de la participation des employeurs, autres que ceux prévus aux articles L. 991-1 et L. 991-4 du
+code du travail pour les litiges relatifs à la réalité et à la validité des versements faits aux organismes collecteurs visés
+à l'article 235 ter KA, sont effectués selon les règles applicables en matière de taxe sur le chiffre d'affaires.
+
+Le reversement mentionné à l'article 235 ter KB est soumis au x dispositions des deux alinéas précédents.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 ter KA, 235 ter KD, 235 ter KB
+	  - Code du travail - art. L991-1 (M)
+	  - Code du travail - art. L991-4 (T)
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Créé par**:
+
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 28 () JORF 4 janvier 1992
+
+
+###### Article 235 ter KD
+
+Les employeurs sont tenus de remettre à la recette des impôts compétente une déclaration indiquant notamment les montants de
+la participation à laquelle ils étaient tenus et du versement effectué ainsi que la désignation de l'organisme destinataire.
+
+La déclaration doit être produite au plus tard le 5 avril de l'année suivant celle au cours de laquelle est due la
+participation.
+
+En cas de cession d'entreprise ou de cessation d'activité, la déclaration afférente à l'année en cours et, le cas échéant,
+celle afférente à l'année précédente sont déposées dans les soixante jours de la cession ou de la cessation. En cas de décès
+de l'employeur, ces déclarations sont déposées dans les six mois qui suivent la date du décès.
+
+En cas de redressement judiciaire ou de liquidation des biens, elles sont produites dans les soixante jours de la date du
+jugement.
+
+Les modalités d'établissement et le contenu de la déclaration sont déterminés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Créé par**:
+
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 28 () JORF 4 janvier 1992
 
 
 ##### Section XI : Prélèvement spécial sur les bénéfices résultant de la vente, la location ou l'exploitation d'oeuvres pornographiques ou d'incitation à la violence
@@ -26817,6 +27726,41 @@ mai de l'année suivante.
 	  - Décret n°85-1007 1985-09-24
 
 
+##### Section XVI : Prélèvement sur les bénéfices des entreprises exploitant des gisements d'hydrocarbures
+
+###### Article 235 ter Z
+
+Les entreprises qui exploitent en France des gisements d'hydrocarbures liquides ou gazeux doivent acquitter au titre de 1992
+un prélèvement exceptionnel égal à 12 p. 100 du bénéfice net imposable réalisé au cours de l'année 1990 et provenant de la
+vente, en l'état ou après transformation, des produits marchands extraits de ces gisements.
+
+Le prélèvement n'est pas dû par les entreprises dont le chiffre d'affaires de l'année 1991 n'excède pas 100 millions de
+francs.
+
+Le prélèvement n'est pas déductible pour la détermination du bénéfice imposable de l'année 1992. Il est établi, déclaré,
+liquidé et recouvré selon les mêmes modalités et sous les mêmes garanties et sanctions que la retenue à la source sur les
+revenus de capitaux mobiliers. Il est payé pour moitié le 15 mai 1992 et pour moitié le 15 octobre 1992 [*dates*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Créé par**:
+
+	  - Loi n°84-1208 1984-12-29 art. 25 Finances pour 1985 JORF 30 décembre 1984
+
+	**Modifié par**:
+
+	  - Loi - art. 46 (V) JORF 30 décembre 1990
+	  - Loi - art. 36 () JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+
 #### Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III
 
 ##### Section II : Impôt sur le revenu et impôt sur les sociétés
@@ -26928,22 +27872,22 @@ le revenu ou à l'impôt sur les sociétés.
 ###### Article 237 bis
 
 Les contributions payées par les employeurs dans les conditions prévues aux deuxième et troisième alinéas de l'article 231
-bis D [*allocations ou aides aux travailleurs privés d'emploi*], sont déductibles pour l'établissement de l'impôt sur le
-revenu ou de l'impôt sur les sociétés dû par ces employeurs.
+bis D sont déductibles des bénéfices industriels et commerciaux, agricoles ou non commerciaux pour l'établissement de l'impôt
+sur le revenu ou de l'impôt sur les sociétés dû par ces employeurs.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 231 bis D AL. 2, AL. 3
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°87-39 du 27 janvier 1987 - art. 34 (V) JORF 28 janvier 1987
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
+	  - Loi - art. 17 (V) JORF 31 décembre 1991
 
 
 ###### Article 237 bis A
@@ -27448,55 +28392,122 @@ Guadeloupe, de la Guyane, de la Martinique et de la Réunion [*DOM*] à l'occasi
 d'exploitations appartenant aux secteurs d'activité de l'industrie, de la pêche, de l'hôtellerie, du tourisme, des énergies
 nouvelles, de l'agriculture, du bâtiment et des travaux publics, des transports et de l'artisanat. La déduction est opérée
 sur le résultat de l'exercice au cours duquel l'investissement est réalisé, le déficit éventuel de l'exercice étant reporté
-dans les conditions prévues aux articles 156-I et 209-I.
+dans les conditions prévues au I des articles 156 et 209.
 
-Pour ouvrir droit à déduction, les investissements définis à l'alinéa précédent et dont le montant total est supérieur à
-30.000.000 F doivent avoir été portés, préalablement à leur réalisation, à la connaissance du ministre délégué auprès du
-ministre chargé du budget, et n'avoir pas appelé d'objection motivée de sa part dans un délai de trois mois.
+Pour ouvrir droit à déduction, les investissements définis à l'alinéa précédent et dont le montant total par programme est
+supérieur à 30.000.000 F doivent avoir été portés, préalablement à leur réalisation, à la connaissance du ministre délégué
+auprès du ministre chargé du budget, et n'avoir pas appelé d'objection motivée de sa part dans un délai de trois mois.
 
 La déduction prévue au premier alinéa ne s'applique qu'à la fraction du prix de revient des investissements réalisés par les
 entreprises qui excède le montant des apports en capital ouvrant droit, au profit de leurs associés, aux déductions prévues
-au paragraphe II et à l'article 199 undecies.
+au II du présent article et à l'article 199 undecies.
+
+La déduction prévue au premier alinéa s'applique aux investissements productifs réalisés à compter du 1er janvier 1992 dans
+le secteur de la maintenance au profit d'activités industrielles et dans celui de la production et de la diffusion
+audiovisuelles et cinématographiques.
+
+Un décret détermine les conditions d'application du précédent alinéa (1).
+
+Si, dans le délai de cinq ans de son acquisition ou de sa création, ou pendant sa durée normale d'utilisation si elle est
+inférieure pour les biens mobiliers, ou dans le délai de neuf ans pour les immeubles, l'investissement ayant ouvert droit à
+déduction est cédé ou cesse d'être affecté à l'exploitation de l'entreprise utilisatrice ou si l'acquéreur cesse son
+activité, les sommes déduites sont rapportées au résultat imposable de l'entreprise ayant opéré la déduction au titre de
+l'exercice au cours duquel cet événement se réalise (2).
 
 II. Les entreprises mentionnées au I peuvent, d'autre part, déduire de leur revenu imposable une somme égale au montant total
 des souscriptions au capital des sociétés de développement régional des départements d'outre-mer ou des sociétés effectuant
-dans les mêmes départements des investissements productifs dans les secteurs d'activité de l'industrie, de la pêche, de
-l'hôtellerie, du tourisme, des énergies nouvelles, de l'agriculture, du bâtiment et des travaux publics, des transports et de
-l'artisanat.
+dans les douze mois de la clôture de la souscription dans les mêmes départements des investissements productifs dans les
+secteurs d'activité de l'industrie, de la pêche, de l'hôtellerie, du tourisme, des énergies nouvelles, de l'agriculture, du
+bâtiment et des travaux publics, des transports et de l'artisanat. Lorsque la société affecte tout ou partie de la
+souscription à la construction d'immeubles destinés à l'exercice d'une des activités visées ci-dessus, elle doit s'engager à
+en achever les fondations dans les deux ans qui suivent la clôture de la souscription. La société doit s'engager à maintenir
+l'affectation des biens à l'activité dans les secteurs mentionnés ci-avant pendant les cinq ans qui suivent leur acquisition
+ou pendant leur durée normale d'utilisation si elle est inférieure pour les biens mobiliers, ou dans le délai de neuf ans
+pour les immeubles (3).
 
 Pour ouvrir droit à déduction, la constitution ou l'augmentation du capital des sociétés mentionnées à l'alinéa précédent, et
 dont le montant est supérieur à 30.000.000 F, doit être portée, préalablement à sa réalisation, à la connaissance du ministre
 chargé du budget, et n'avoir pas appelé d'objection motivée de sa part dans un délai de trois mois.
 
+La déduction prévue au premier alinéa s'applique aux souscriptions versées à compter du 1er janvier 1992 au capital de
+sociétés effectuant dans les départements d'outre-mer des investissements productifs dans le secteur de la maintenance au
+profit d'activités industrielles et dans celui de la production et de la diffusion audiovisuelles et cinématographiques.
+
+Un décret détermine les conditions d'application de l'alinéa précédent (1).
+
 III. (Abrogé).
+
+III bis. Pour ouvrir droit à déduction, les investissements mentionnés au I réalisés à compter du 1er janvier 1992 dans les
+secteurs de l'hôtellerie, du tourisme, des transports et de la production audiovisuelle et cinématographique doivent avoir
+reçu l'agrément préalable du ministre de l'économie, des finances et du budget.
+
+L'agrément peut être accordé si l'investissement présente un intérêt économique pour le département dans lequel il est
+réalisé, s'il s'intègre dans la politique d'aménagement du territoire et de l'environnement et s'il garantit la protection
+des investisseurs et des tiers. L'octroi de l'agrément est tacite à défaut de réponse de l'administration dans un délai de
+trois mois à compter de la réception de la demande d'agrément (4).
+
+Toutefois, les investissements mentionnés au I dont le montant total n'excède pas un million de francs par programme et par
+exercice sont dispensés de la procédure d'agrément préalable, lorsqu'ils sont réalisés par une entreprise qui exerce son
+activité dans les départements visés au I depuis au moins deux ans, dans l'un des secteurs mentionnés au premier alinéa du
+présent paragraphe. Dans ce cas, l'entreprise joint à sa déclaration de résultat un état récapitulatif des investissements
+réalisés au cours de l'exercice et au titre desquels elle entend bénéficier de la déduction fiscale.
+
+Les dispositions du présent III bis ne sont pas applicables aux investissements qui portent sur un immeuble en cours de
+construction au 31 décembre 1991 ou sur des biens mobiliers qui ont été commandés et ont fait l'objet de versements
+d'acomptes au moins égaux à 10 p. 100 de leur prix, avant le 1er décembre 1991.
 
 IV. En cas de cession dans le délai de cinq ans de tout ou partie des droits sociaux souscrits à compter du 1er janvier 1983
 par les entreprises avec le bénéfice des déductions prévues aux II, les sommes déduites sont rapportées [*réintégration*] au
 résultat imposable de l'année de cession, dans la limite, de la totalité du prix de cession.
 
-V. Les dispositions du présent article sont applicables entre le 15 septembre 1986 et le 31 décembre 1996 [*date limite*].
+IV bis. La déduction opérée en application du I est limitée à 75 p. 100 du montant de l'investissement lorsqu'elle s'impute
+sur les résultats d'une entreprise non soumise à l'impôt sur les sociétés.
 
-Un décret précise, en tant que de besoin, les modalités de leur application (1).
+Les dispositions de l'alinéa précédent s'appliquent aux investissements réalisés à compter du 1er janvier 1992 dans les
+secteurs du tourisme, de l'hôtellerie, des transports et de la production audiovisuelle et cinématographique.
 
-(1) Annexe III, art. 46 quaterdecies A à 46 quaterdecies I.
+Toutefois, la déduction reste fixée à 100 p. 100 :
+
+Pour les investissements qui portent sur un immeuble en cours de construction au 31 décembre 1991 ;
+
+Pour les investissements qui portent sur des biens mobiliers qui ont été commandés et ont fait l'objet d'acomptes au moins
+égaux à 10 p. 100 de leur prix, avant le 1er décembre 1991.
+
+V. Les dispositions du présent article sont applicables entre le 15 septembre 1986 et le 31 décembre 2001 [*date limite*].
+
+Un décret précise, en tant que de besoin, les modalités de leur application (5).
+
+(1) Annexe III, art. 46 quaterdecies B et 46 quaterdecies BA.
+
+(2) Ces dispositions sont applicables aux investissements réalisés à compter du 1er janvier 1992.
+
+(3) Ces dispositions sont applicables aux souscriptions réalisées à compter du 1er janvier 1992.
+
+(4) Annexe IV, art. 170 nonies.
+
+(5) Annexe III, art. 46 quaterdecies A à 46 quaterdecies I.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 156 I
-	  - CGI 199 undecies
-	  - CGI 209 I
-	  - CGIAN3 46 quaterdecies A à CGIAN3 46 quaterdecies I
+	  - CGI 156, 209, 199 undecies
+	  - CGIAN3 46 quaterdecies A à CGIAN3 46 quaterdecies I, 46 quaterdecies B et 46 quaterdecies BA
+	  - CGIAN4 170 nonies
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 1992-06-16 4A-9-92
+	  - SPEC_APPLI: Loi n°91-1322 1991-12-30 art. 120 III
 
 	**Modifié par**:
 
-	  - Loi n°86-824 1986-07-11 art. 22 I, II Finances rectificative pour 1986 JORF 12 juillet 1986 incorporée au code le 14 juillet 1989
-	  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet 1986 incorporée au code le 14 juillet 1989
-
-	**Codifié par**:
-
-	  - Décret n°89-801 1989-10-27
+	  - Loi - art. 115 () JORF 31 décembre 1991
+	  - Loi - art. 118 () JORF 31 décembre 1991
+	  - Loi - art. 119 (V) JORF 31 décembre 1991
+	  - Loi - art. 120 (V) JORF 31 décembre 1991
+	  - Loi - art. 122 () JORF 31 décembre 1991
 
 	**Cité par**:
 
@@ -28052,36 +29063,51 @@ locaux (taxe professionnelle et taxes foncières).
 
 ###### Article 238 bis K
 
-I. Lorsque des droits dans une société ou un groupement mentionnés aux articles 8 ou 239 quater sont inscrits à l'actif d'une
-personne morale passible de l'impôt sur les sociétés dans les conditions de droit commun ou d'une entreprise industrielle,
-commerciale, artisanale ou agricole imposable à l'impôt sur le revenu de plein droit selon un régime de bénéfice réel, la
-part de bénéfice correspondant à ces droits est déterminée selon les règles applicables au bénéfice réalisé par la personne
-ou l'entreprise qui détient ces droits (1).
+I. Lorsque des droits dans une société ou un groupement mentionnés aux articles 8, 239 quater, 239 quater B ou 239 quater C
+sont inscrits à l'actif d'une personne morale passible de l'impôt sur les sociétés dans les conditions de droit commun ou
+d'une entreprise industrielle, commerciale, artisanale ou agricole imposable à l'impôt sur le revenu de plein droit selon un
+régime de bénéfice réel, la part de bénéfice correspondant à ces droits est déterminée selon les règles applicables au
+bénéfice réalisé par la personne ou l'entreprise qui détient ces droits.
 
-II. Dans tous les autres cas, la part de bénéfice ainsi que les profits résultant de la cession des droits sociaux sont
-déterminés et imposés en tenant compte de la nature de l'activité et du montant des recettes de la société ou du groupement
+Si les droits en cause sont détenus par une société ou un groupement mentionnés aux articles visés à l'alinéa précédent et
+qui, exerçant une activité industrielle, commerciale, artisanale ou agricole, relèvent de l'impôt sur le revenu selon le
+régime du forfait ou, sur option, selon le régime du bénéfice réel simplifié d'imposition, les modalités d'imposition des
+parts de résultat correspondantes suivent les règles applicables en matière d'impôt sur les sociétés. Il en va de même
+lorsque cette société ou ce groupement a pour activité la gestion de son propre patrimoine mobilier ou immobilier. Toutefois,
+si le contribuable apporte la preuve qu'une fraction des droits dans cette dernière société ou ce dernier groupement est
+elle-même détenue directement ou indirectement par des personnes physiques ou entreprises, qui entrent dans le champ
+d'application du II, cette règle ne s'applique pas à la part de bénéfice correspondante.
+
+Un décret fixe les conditions d'application du deuxième alinéa, notamment en ce qui concerne les obligations déclaratives
 (1).
 
-(1) Dispositions applicables aux exercices ouverts à compter du 1er janvier 1980 [*date, point de départ*].
+II. Dans tous les autres cas, la part de bénéfice ainsi que les profits résultant de la cession des droits sociaux sont
+déterminés et imposés en tenant compte de la nature de l'activité et du montant des recettes de la société ou du groupement.
+
+(1) Voir Annexe III, art. 46 terdecies E.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 239 quater
-	  - CGI 8
-
-	**Créé par**:
-
-	  - Loi n°79-1102 du 21 décembre 1979 - art. 8 (V) JORF 22 DECEMBRE 1979
+	  - CGI 8, 239 quater, 239 quater B, 239 quater C
+	  - CGIAN3 46 terdecies E
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies E (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 27 (V) JORF 27 juillet 1991
 
 
 ##### I quinquies : Régime fiscal des sociétés créées de fait
@@ -28162,13 +29188,13 @@ associés ont convenu de mettre la propriété en commun.
 
 ###### Article 238 quater
 
-Lorsque les opérations visées à l'article 823-I, II-1° et III [*apports de bois ou de terrains à reboiser, transformation en
-groupement forestier d'une société propriétaire de bois ou de terrains à reboiser*] sont réalisées par des entreprises
-industrielles ou commerciales passibles de l'impôt sur le revenu ou par des sociétés passibles, à un titre quelconque, de
-l'impôt sur les sociétés et satisfont aux conditions énoncées audit article, elles donnent lieu à la perception d'une taxe
-spéciale sur la valeur nette, au moment de leur réalisation, de l'actif transféré au groupement forestier. Cette taxe, perçue
-au taux de 6 % dans le premier cas et de 8 % dans le second, libère les plus-values afférentes à l'actif transféré, de
-l'impôt sur le revenu ou de l'impôt sur les sociétés susceptibles d'être réclamés du chef de l'opération.
+I. Lorsqu'elles sont réalisées par des entreprises industrielles ou commerciales passibles de l'impôt sur le revenu ou par
+des sociétés passibles, à un titre quelconque, de l'impôt sur les sociétés, les opérations de transformation en un groupement
+forestier d'une société propriétaire de bois ou de terrains à reboiser ainsi que d'apport de biens de cette nature à un tel
+groupement, donnent lieu à la perception d'une taxe spéciale sur la valeur nette, au moment de leur réalisation, de l'actif
+transféré au groupement forestier. Cette taxe, perçue au taux de 6 % dans le premier cas et de 8 % dans le second, libère les
+plus-values afférentes à l'actif transféré, de l'impôt sur le revenu ou de l'impôt sur les sociétés susceptibles d'être
+réclamés du chef de l'opération.
 
 Le paiement de la taxe entraîne en outre l'exonération, s'il s'agit d'une société de capitaux ou d'une société assimilée, de
 l'impôt sur le revenu et de la retenue à la source sur le revenu des capitaux mobiliers auxquels donnerait ouverture la
@@ -28180,25 +29206,36 @@ l'enregistrement de l'acte constatant la transformation ou l'apport, ou lors de 
 
 Elle n'est pas admise en déduction pour l'assiette de l'impôt sur le revenu ni pour l'assiette de l'impôt sur les sociétés.
 
-[*(1) Dispositions reconduites jusqu'au 31 décembre 1988*].
+II. Le bénéfice des dispositions du I est subordonné aux conditions suivantes :
+
+1° Les statuts du groupement forestier doivent être préalablement approuvés par le ministre de l'agriculture ;
+
+2° Les bois et terrains à reboiser doivent se trouver dans le patrimoine de la société transformée ou de la personne physique
+ou morale auteur de l'apport depuis une date antérieure au 1er janvier 1962 ou y être entrés depuis cette date par succession
+ou par donation ; toutefois, aucune condition de date d'entrée dans le patrimoine n'est exigée pour les apports effectués par
+les sociétés d'aménagement foncier et d'établissement rural constituées et fonctionnant conformément aux dispositions des
+articles 15 à 18 de la loi n° 60-808 du 5 août 1960 modifiée ;
+
+3° La transformation ou l'apport ne doit pas comporter de transmission de biens meubles ou immeubles entre les membres du
+groupement ou d'autres personnes.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 823 I, II 1°, III
+	  - Loi n°60-808 1960-08-05 art. 15 à 18
+
+	**Modifié par**:
+
+	  - Loi n°63-810 1963-08-06 art. 12 JORF 8 août 1963
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 39 (VD)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Modifié par**:
-
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 38 (P) JORF 31 décembre 1986 en vigueur le 1er janvier 1987
 
 
 ###### Article 238 ter
@@ -28235,26 +29272,36 @@ assujetties à l'impôt sur les sociétés, de l'impôt sur les sociétés.
 
 ###### Article 238 septies A
 
-Lorsqu'une personne acquiert le droit au paiement du principal ou le droit au paiement d'intérêts d'une obligation, la prime
-de remboursement s'entend de la différence entre :
+I. - Lorsqu'une personne acquiert le droit au paiement du principal ou le droit au paiement d'intérêts d'une obligation
+provenant d'un démembrement effectué avant le 1er juin 1991, la prime de remboursement s'entend de la différence entre :
 
 a) Le capital ou l'intérêt qu'elle perçoit ;
 
 b) Le prix de souscription ou le prix d'acquisition originel du droit correspondant.
 
-Ces dispositions ne s'appliquent qu'aux titres émis à compter du 1er juin 1985 [*date point de départ*].
+II. Constitue une prime de remboursement :
+
+1.  Pour les emprunts négociables visés à l'article 118 et les titres de créances négociables visés à l'article 124 B émis à
+compter du 1er janvier 1992, la différence entre les sommes ou valeurs à recevoir et celles versées lors de l'acquisition ;
+toutefois, n'entrent pas dans la définition de la prime les intérêts versés chaque année et restant à recevoir après
+l'acquisition ;
+
+2. Pour les emprunts ou titres de même nature démembrés à compter du 1er juin 1991, la différence entre les sommes ou valeurs
+à recevoir et le prix d'acquisition du droit au paiement du principal, d'intérêts ou de toute autre rémunération de
+l'emprunt, ou du titre représentatif de l'un de ces droits.
+
+Les dispositions du présent II sont applicables à un emprunt qui fait l'objet d'émissions successives et d'une cotation en
+bourse unique si une partie de cet emprunt a été émise avant le 1er janvier 1992.
+
+III. Les dispositions du I et du 2 du II ne s'appliquent qu'aux titres émis à compter du 1er juin 1985.
 
 Elles ne s'appliquent pas aux titres démembrés lors d'une succession.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°85-695 1985-07-11 art. 14 II, V JORF 12 juillet 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°88-1201 1988-12-23 art. 42 III
+	  - CGI 118, 124 B
 
 	**Cité par**:
 
@@ -28265,14 +29312,18 @@ Elles ne s'appliquent pas aux titres démembrés lors d'une succession.
 	  - Code général des impôts, CGI. - art. 238 septies C (V)
 	  - Code général des impôts, CGI. - art. 238 septies D (V)
 
+	**Modifié par**:
+
+	  - Loi - art. 57 (V) JORF 31 décembre 1991
+
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-07-10
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 238 septies B
 
-I - Quand la prime de remboursement prévue à l'émission ou lors de l'acquisition originelle du droit excède 10 p. 100 du
+I Quand la prime de remboursement prévue à l'émission ou lors de l'acquisition originelle du droit excède 10 p. 100 du
 nominal ou du prix d'acquisition de ce droit, ou encore quand le contrat d'émission d'un emprunt obligataire prévoit une
 capitalisation partielle ou totale des intérêts, la prime ou l'intérêt sont imposés après une répartition par annuités.
 
@@ -28285,12 +29336,12 @@ montant des intérêts perçus et non encore imposés, et le cas échéant de la
 Ces règles ne s'appliquent pas aux titres émis par l'Etat dont le porteur à la possibilité d'obtenir la conversion dans les
 trois ans suivant l'émission.
 
-II - Les primes de remboursement ou intérêts mentionnés au I, afférents aux titres et droits détenus par les sociétés
-d'investissement à capital variable (SICAV) et fonds communs de placement, sont, pour le calcul de l'impôt, réputés
-distribués, chaque année entre les actionnaires ou porteurs de parts pour un montant défini selon les modalités prévues à ce
-I.
+II (Abrogé pour les exercices clos à compter du 29 septembre 1989. Ancienne rédaction : Les primes de remboursement ou
+intérêts mentionnés au I, afférents aux titres et droits détenus par les sociétés d'investissement à capital variable (SICAV)
+et fonds communs de placement, sont, pour le calcul de l'impôt, réputés distribués, chaque année entre les actionnaires ou
+porteurs de parts pour un montant défini selon les modalités prévues à ce I).
 
-III - Les dispositions du présent article ne s'appliquent qu'aux titres émis à compter du 1er juin 1985 [*date*].
+III Les dispositions des I et II ne s'appliquent qu'aux titres émis à compter du 1er juin 1985 [*date*].
 
 IV 1. Pour les emprunts ou titres ainsi que pour les opérations de démembrement visés au II de l'article 238 septies A, la
 prime de remboursement et les intérêts versés chaque année sont imposés après une répartition par annuités quand la prime
@@ -28320,10 +29371,6 @@ d'imposition, correspond à celle qui est prévue pour le remboursement.
 personne chez laquelle le titre ou le droit est déposé ou inscrit en compte, ou, dans les autres cas, par le débiteur sur le
 compte approvisionné par le contribuable à cet effet (1).
 
-**Nota:**
-
-NOTA : Le II est abrogé pour les exercices clos à compter du 29 septembre 1989.
-
 (1) Ces dispositions sont applicables à un emprunt qui fait l'objet d'émissions successives et d'une cotation en bourse
 unique si une partie de cet emprunt a été émise après le 1er janvier 1992.
 
@@ -28337,9 +29384,9 @@ unique si une partie de cet emprunt a été émise après le 1er janvier 1992.
 
 	  - Loi - art. 57 (V) JORF 31 décembre 1991
 
-	**Liens**:
+	**Codifié par**:
 
-	  - SPEC_APPLI: Loi n°91-1323 1991-12-30 art. 57 VII
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -28490,7 +29537,7 @@ Les plus-values à long terme visées à l'alinéa précédent ne peuvent être 
 autres éléments de l'actif immobilisé.
 
 En cas de non-respect de cet engagement, il est dû par l'acquéreur, au titre de l'exercice au cours duquel le délai de quatre
-ans a expiré, un complément de droit calculé en tenant compte, selon le cas, du taux mentionné soit au quatrième alinéa du a
+ans a expiré, un complément de droit calculé en tenant compte, selon le cas, du taux mentionné soit au septième alinéa du a
 du I de l'article 219, soit au 1 du II de l'article 39 quindecies, sans préjudice de l'intérêt de retard prévu à l'article
 1727 et compté de la date à laquelle ce droit devait être acquitté.
 
@@ -28498,13 +29545,23 @@ du I de l'article 219, soit au 1 du II de l'article 39 quindecies, sans préjudi
 
 	**Cite**:
 
-	  - CGI 1727
-	  - CGI 219 I a al. 1, al. 4
-	  - CGI 39 quindecies I 1, II 1
+	  - CGI 219 I a al. 1, al. 7, 39 quindecies I 1, II 1, 1727
 
 	**Modifié par**:
 
-	  - Loi n°89-935 1989-12-29 art. 37 I Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+	  - Loi n°89-935 1989-12-29 art. 19 Finances pour 1990 JORF 30 décembre 1989
+	  - Loi - art. 17 (V) JORF 30 décembre 1990
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+	  - Décret n°97-661 1997-05-28
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°97-661 du 28 mai 1997 - art. 1 () JORF 1er juin 1997
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Cité par**:
 
@@ -29028,21 +30085,26 @@ Les obligations de ces sociétés sont celles des sociétés en nom collectif (1
 ###### Article 239 quater B
 
 Les groupements d'intérêt public constitués et fonctionnant dans les conditions prévues à l'article 21 de la loi n° 82-610 du
-15 juillet 1982 d'orientation et de programmation pour la recherche et le développement technologique de la France n'entrent
-pas dans le champ d'application [*de l'impôt sur les sociétés*] de l'article 206-1, mais chacun de leurs membres est
-personnellement passible, pour la part des excédents correspondant à ses droits dans le groupement, soit de l'impôt sur le
-revenu, soit de l'impôt sur les sociétés s'il s'agit d'une personne morale relevant de cet impôt.
+15 juillet 1982 modifiée par l'article 133 de la loi n° 92-125 du 6 février 1992 n'entrent pas dans le champ d'application
+[*de l'impôt sur les sociétés*] de l'article 206-1, mais chacun de leurs membres est personnellement passible, pour la part
+des excédents correspondant à ses droits dans le groupement, soit de l'impôt sur le revenu, soit de l'impôt sur les sociétés
+s'il s'agit d'une personne morale relevant de cet impôt.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - CGI 206-1
 	  - Loi n°82-610 1982-07-15 art. 21
-	  - CGI 206 1
+	  - Loi n°92-125 1992-02-06 art. 133
 
 	**Créé par**:
 
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 75 (V) JORF 30 décembre 1983
+	  - Loi n°92-125 du 6 février 1992 - art. 133 () JORF 8 février 1992
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -29061,10 +30123,6 @@ revenu, soit de l'impôt sur les sociétés s'il s'agit d'une personne morale re
 	  - Code général des impôts, CGI. - art. 244 quater V (V)
 	  - Code général des impôts, CGI. - art. 244 quater W (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZO (V)
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
 
 
 ##### XIV quater : Régime fiscal des groupements européens d'intérêt économique et de leurs membres
@@ -29714,9 +30772,8 @@ concerne les règles de prescription, voir l'article L. 172 C du livre des proc�
 
 I  Sous réserve des conventions internationales, les personnes qui ne sont pas fiscalement domiciliées en France au sens de
 l'article 4 B, ou dont le siège social est situé hors de France [*à l'étranger*], sont soumises à un prélèvement d'un tiers
-sur les plus-values imposables en application de l'article 150 A et résultant de la cession d'immeubles, de droits
-immobiliers ou d'actions et parts de sociétés non cotées en bourse dont l'actif est constitué principalement par de tels
-biens et droits.
+sur les plus-values et résultant de la cession d'immeubles, de droits immobiliers ou d'actions et parts de sociétés non
+cotées en bourse dont l'actif est constitué principalement par de tels biens et droits.
 
 L'impôt dû en application du présent article est acquitté lors de l'enregistrement de l'acte ou, à défaut d'enregistrement,
 dans le mois suivant la cession, sous la responsabilité d'un représentant désigné comme en matière de taxes sur le chiffre
@@ -29728,24 +30785,24 @@ ces Etats sont exonérés dans les conditions prévues à l'article 131 sexies.
 II  Le prélèvement mentionné au I est libératoire de l'impôt sur le revenu dû en raison des sommes qui ont supporté ce
 prélèvement.
 
-(1)  Voir art. 289 A.
+(1) Voir art. 289 A.
 
-(2)  Voir annexe II, art. 171 ter A et 171 quater.
+(2) Voir annexe II, art. 171 ter A et 171 quater.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 131 sexies
-	  - CGI 150 A
-	  - CGI 289 A
-	  - CGI 4 B
-	  - CGIAN2 171 quater
-	  - CGIAN2 171 ter A
+	  - CGI 4 B, 131 sexies, 289 A
+	  - CGIAN2 171 ter A, 171 quater
 
 	**Modifié par**:
 
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+	  - Loi n°76-660 du 19 juillet 1976 - art. 8 (V) JORF 20 juillet 1976
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -29766,14 +30823,6 @@ prélèvement.
 	  - Code général des impôts, CGI. - art. 990 F (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 171 quater (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 317 B (V)
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Instruction 1994-09-07 8M-5-94
 
 
 ##### B : Plus-values de cessions de droits sociaux.
@@ -29920,10 +30969,10 @@ III. (Sans objet).
 
 ###### Article 244 quater B
 
-I. Les entreprises industrielles et commerciales imposées d'après leur bénéfice réel peuvent bénéficier d'un crédit d'impôt
-égal à 25 % [*taux*] de l'excédent des dépenses de recherche exposées au cours d'une année par rapport à la moyenne des
-dépenses de même nature, revalorisées de la hausse des prix à la consommation, exposées au cours des deux années précédentes
-(1).
+I. Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel peuvent bénéficier d'un
+crédit d'impôt égal à 25 % [*taux*] de l'excédent des dépenses de recherche exposées au cours d'une année par rapport à la
+moyenne des dépenses de même nature, revalorisées de la hausse des prix à la consommation, exposées au cours des deux années
+précédentes (1).
 
 Le crédit d'impôt accordé aux entreprises nouvelles au titre de l'année de leur création est égal à 25 % des dépenses de
 recherche exposées au cours de cette période.
@@ -29977,7 +31026,22 @@ salaires mentionnés au 1° (3).
 
 3° Dans des conditions fixées par décret, les dépenses exposées par le chef d'une entreprise individuelle pour sa
 participation aux réunions officielles de normalisation, à concurrence d'un forfait journalier de 3.000 F par jour de
-présence auxdites réunions ;
+présence auxdites réunions (5) ;
+
+h. Les dépenses liées à l'élaboration de nouvelles collections exposées par les entreprises industrielles du secteur textile-
+habillement-cuir et définies comme suit :
+
+1° Les salaires et charges sociales afférents aux stylistes et techniciens des bureaux de style directement et exclusivement
+chargés de la conception de nouveaux produits et aux ingénieurs et techniciens de production chargés de la réalisation de
+prototypes ou d'échantillons non vendus ;
+
+2° Les dotations aux amortissements des immobilisations créées ou acquises à l'état neuf qui sont directement affectées à la
+réalisation d'opérations visées au 1° ;
+
+3° Les autres dépenses de fonctionnement exposées à raison de ces mêmes opérations ; ces dépenses sont fixées forfaitairement
+à 75 p. 100 des dépenses de personnel mentionnées au 1° ;
+
+4° Les frais de dépôt des dessins et modèles (4).
 
 III. Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au crédit d'impôt sont
 déduites des bases de calcul de ce crédit. Il en est de même des sommes reçues par les organismes ou experts désignés au II-
@@ -30018,15 +31082,19 @@ b) L'entreprise qui a bénéficié des dispositions du a jusqu'en 1990 peut opte
 prévu au I à ses dépenses de recherche des années 1991 et 1992.
 
 VI. Un décret fixe les conditions d'application du présent article. Il en adapte les dospositions aux cas d'exercice de durée
-inégale ou ne coïncidant pas avec l'année civile (4).
+inégale ou ne coïncidant pas avec l'année civile (5).
 
 (1) Moyenne de référence retenue pour la détermination du crédit d'impôt afférent aux années 1990 à 1992.
 
-(3) Ces dépenses sont prises en compte pour la première fois pour le calcul du crédit d'impôt de l'année 1987.
+Ces dispositions sont applicables, sur option de l'entreprise exercée en 1993, pour le calcul du crédit d'impôt recherche
+afférent à l'année 1992.    (2) Ces dépenses sont prises en compte pour la première fois pour le calcul du crédit d'impôt de
+l'année 1987.
 
 (3) Dépenses de normalisation retenues pour la détermination du crédit d'impôt afférent aux années 1990 à 1992.
 
-(4) En ce qui concerne le contrôle, voir livre des procédures fiscales, art. L45 B.
+(4) Ces dispositions s'appliquent pour le calcul du crédit d'impôt-recherche de l'année 1992.
+
+En ce qui concerne le contrôle, voir livre des procédures fiscales, art. L45 B.
 
 (5) Annexe III, art. 49 septies F à 49 septies N.
 
@@ -30034,7 +31102,6 @@ inégale ou ne coïncidant pas avec l'année civile (4).
 
 	**Cité par**:
 
-	  - Arrêté du 28 novembre 2014 - art. (V)
 	  - Décret n°91-733 du 24 juillet 1991 - art. 1 (V)
 	  - Loi de finances pour 2004 (n°2003-1311 du 30 d... - art. 131 (V)
 	  - Loi n°2005-1719 du 30 décembre 2005 - art. 22 (V)
@@ -30042,6 +31109,7 @@ inégale ou ne coïncidant pas avec l'année civile (4).
 	  - Arrêté du 27 août 2009 - art. 1 (Ab)
 	  - Décret n°2013-116 du 5 février 2013 (V)
 	  - Décret n°2013-1215 du 23 décembre 2013 (V)
+	  - Arrêté du 28 novembre 2014 - art. (V)
 	  - Arrêté du 28 novembre 2014 - art. 1 (V)
 	  - Arrêté du 28 novembre 2014 - art. 2 (V)
 	  - Décret n°2015-1292 du 15 octobre 2015 (V)
@@ -30079,6 +31147,11 @@ inégale ou ne coïncidant pas avec l'année civile (4).
 	  - Livre des procédures fiscales - art. R60-1 A (V)
 	  - Livre des procédures fiscales - art. R60-2 A (VD)
 
+	**Modifié par**:
+
+	  - Loi - art. 58 (V) JORF 31 décembre 1991
+	  - Loi - art. 61 (P) JORF 31 décembre 1991
+
 	**Cite**:
 
 	  - CGI 44 bis II 1°, 3°, III
@@ -30087,17 +31160,8 @@ inégale ou ne coïncidant pas avec l'année civile (4).
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
-
-	**Modifié par**:
-
-	  - Loi - art. 29 (V)
-	  - Loi n°90-1168 1990-12-29 art. 29 II 2, art. 82 3 Finances pour 1991
-	  - Loi n°90-1169 du 29 décembre 1990 - art. 21 () JORF 30 décembre 1990
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 1992-05-25 4A-8-92
 
 
 ##### XXVIII : Crédit d'impôt pour dépenses de formation professionnelle.
@@ -30105,8 +31169,8 @@ inégale ou ne coïncidant pas avec l'année civile (4).
 ###### Article 244 quater C
 
 I. Les entreprises imposées d'après leur bénéfice réel peuvent bénéficier d'un crédit d'impôt au titre de leurs dépenses de
-formation professionnelle visées au livre IX du code du travail. Pour les entreprises soumises aux obligations prévues aux
-articles 235 ter C et 235 ter E, les dépenses retenues sont celles exposées en sus de ces obligations.
+formation professionnelle visées au livre IX du code du travail. Pour les entreprises soumises aux obligations prévues à
+l'article  235 ter D, les dépenses retenues sont celles exposées en sus de ces obligations.
 
 Ce crédit d'impôt est égal à 25 p. 100 de l'excédent des dépenses de formation définies ci-dessus, exposées au cours de
 l'année par rapport aux dépenses de même nature exposées au cours de l'année précédente revalorisées en fonction de
@@ -30164,24 +31228,18 @@ V. Un décret fixe les conditions d'application du présent article (2).
 
 	**Cite**:
 
-	  - CGI  235 ter C
-	  - CGI 231 1
-	  - CGI 235 ter E
-	  - CGIAN3 49 septies P à CGIAN3 49 septies U
 	  - Loi n°87-1060 du 30 décembre 1987 - art. 69, v. init.
-	  - Code du travail - art. L961-8 (M)
+	  - CGI  235 ter D, 231 1
+	  - CGIAN3 49 septies P à CGIAN3 49 septies U
 
 	**Modifié par**:
 
-	  - Loi n°90-1168 1990-12-29 art. 86 Finances pour 1991 JORF 30 décembre 1990
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-441 du 14 mai 1991 - art. 2 (V)
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 27 () JORF 31 décembre 1991
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 28 () JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -30818,20 +31876,44 @@ Est assimilée à une livraison de bien meuble la délivrance d'un bien meuble c
 
 en exécution d'un contrat qui prévoit la vente à tempérament ou la location de ce bien pendant une période et qui est assorti
 d'une clause selon laquelle la propriété du bien est normalement acquise au détenteur ou à ses ayants droit au plus tard lors
-du paiement de la dernière échéance ;    ou en vertu d'un contrat de vente qui comporte une clause de réserve de propriété,
-la délivrance [*définition*] s'entendant de la remise matérielle des biens ;    ou en vertu d'un contrat de commission à
-l'achat ou à la vente portant sur des déchets neufs d'industrie ou des matières de récupération.
+du paiement de la dernière échéance ;
+
+ou en vertu d'un contrat de vente qui comporte une clause de réserve de propriété, la délivrance [*définition*] s'entendant
+de la remise matérielle des biens ;
+
+ou en vertu d'un contrat de commission à l'achat ou à la vente portant sur des déchets neufs d'industrie ou des matières de
+récupération.
 
 III. Les opérations autres que celles définies au II et, notamment, la livraison de biens meubles incorporels, les travaux
 immobiliers, les opérations de façon, les opérations de commission autres que celles portant sur des déchets neufs
 d'industrie ou des matières de récupération, sont considérées comme des prestations de services.
 
+IV. Sont également considérées comme des prestations de services  (Disposition à caractère interprétatif) :
+
+1° Les opérations, y compris la négociation, portant sur les devises, les billets de banque et les monnaies qui sont des
+moyens de paiement légaux à l'exception des monnaies et billets de collection.
+
+Sont considérés comme des monnaies et billets de collection, les pièces en or, en argent, ou autre métal, ainsi que les
+billets qui ne sont pas normalement utilisés dans leur fonction comme moyen de paiement légal ou qui présentent un intérêt
+numismatique ;
+
+2° Les opérations, autres que celles de garde et de gestion, portant sur les actions, les parts de sociétés ou
+d'associations, les obligations et les autres titres, à l'exclusion des titres représentatifs de marchandises et des parts
+d'intérêt dont la possession assure en droit ou en fait l'attribution en propriété ou en jouissance d'un bien immeuble ou
+d'une fraction d'un bien immeuble.
+
+Le chiffre d'affaires afférent aux opérations visées aux 1° et 2° est constitué par le montant des profits et autres
+rémunérations.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi - art. 33 () JORF 30 décembre 1990
-	  - Loi n°90-1168 1990-12-29 art. 33 VI 1, 2 Finances pour 1991 JORF 30 décembre 1990
+	  - Loi n°91-716 du 26 juillet 1991 - art. 7 (V) JORF 27 juillet 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -30844,10 +31926,6 @@ d'industrie ou des matières de récupération, sont considérées comme des pre
 	  - Code général des impôts, CGI. - art. 297 A (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 206 (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 bis (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 256 A
@@ -30960,7 +32038,7 @@ l'article 256 B.
 
 ###### Article 257
 
-Sont également soumises à la taxe sur la valeur ajoutée :
+Sont également soumis à la taxe sur la valeur ajoutée :
 
 1° Les opérations faites par les coopératives et leurs unions;
 
@@ -30983,7 +32061,7 @@ Ces opérations sont imposables même lorsqu'elles revêtent un caractère civil
 
 1  Sont notamment visés :
 
-- Les ventes et les apports en société de terrains à bâtir, des biens assimilés à ces terrains par l'article 691 ainsi que
+a) Les ventes et les apports en société de terrains à bâtir, des biens assimilés à ces terrains par l'article 691 ainsi que
 les indemnités de toute nature perçues par les personnes qui exercent sur ces immeubles un droit de propriété ou de
 jouissance, ou qui les occupent en droit ou en fait;
 
@@ -30991,10 +32069,11 @@ Sont notamment visés par l'alinéa précédent les terrains pour lesquels, dans
 l'acte qui constate l'opération, l'acquéreur ou le bénéficiaire de l'apport obtient le permis de construire ou commence les
 travaux nécessaires pour édifier un immeuble ou un groupe d'immeubles ou pour construire de nouveaux locaux en surélévation.
 
-- Les ventes d'immeubles et les cessions, sous forme de vente ou d'apport en société, de parts d'intérêt ou d'actions dont la
-possession assure en droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble;
+b) Les ventes d'immeubles et les cessions, sous forme de vente ou d'apport en société, de parts d'intérêt ou d'actions dont
+la possession assure en droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou d'une fraction
+d'immeuble;
 
-- Les livraisons à soi-même d'immeubles.
+c) Les livraisons à soi-même d'immeubles.
 
 Toutefois la livraison à soi-même d'immeubles affectés ou destinés à être affectés à l'habitation pour les trois quarts au
 moins de leur superficie totale et d'immeubles qui ne sont pas destinés à être utilisés pour la réalisation d'opérations
@@ -31004,15 +32083,15 @@ d'immeuble.
 
 2  Les dispositions qui précèdent ne sont pas applicables :
 
-- aux opérations portant sur des immeubles ou parties d'immeubles qui sont achevés depuis plus de cinq ans [*délai*] ou qui,
+Aux opérations portant sur des immeubles ou parties d'immeubles qui sont achevés depuis plus de cinq ans [*délai*] ou qui,
 dans les cinq ans de cet achèvement, ont déjà fait l'objet d'une cession à titre onéreux à une personne n'intervenant pas en
 qualité de marchand de biens;
 
-- aux opérations portant sur des droits sociaux qui sont afférents à des immeubles ou parties d'immeubles achevés depuis plus
+Aux opérations portant sur des droits sociaux qui sont afférents à des immeubles ou parties d'immeubles achevés depuis plus
 de cinq ans ou qui, dans les cinq ans de l'achèvement de ces immeubles ou parties d'immeubles, ont déjà fait l'objet d'une
 cession à titre onéreux à une personne n'intervenant pas en qualité de marchand de biens;
 
-3  Les acquisitions de terrains attenants à ceux qui ont été acquis précédemment en vue de la construction de maisons
+3 Les acquisitions de terrains attenants à ceux qui ont été acquis précédemment en vue de la construction de maisons
 individuelles par des personnes physiques pour leur propre usage et à titre d'habitation principale peuvent, à la demande de
 l'acquéreur mentionnée dans l'acte, être soumises à la taxe sur la valeur ajoutée.
 
@@ -31038,15 +32117,15 @@ animaux de boucherie et de charcuterie tels qu'ils sont définis par décret (3)
 
 10° Les achats à des non-assujettis à la taxe sur la valeur ajoutée :
 
-a. De produits passibles d'un droit de fabrication ou de consommation ;
+a) De produits passibles d'un droit de fabrication ou de consommation ;
 
-b. De boissons et autres produits passibles d'un droit de circulation à l'exception des achats de vendanges et de fruits à
+b) De boissons et autres produits passibles d'un droit de circulation à l'exception des achats de vendanges et de fruits à
 cidre et à poiré par des personnes assujetties à la taxe sur la valeur ajoutée;
 
-c  De conserves alimentaires;
+c) De conserves alimentaires;
 
-d  De pierres précieuses, perles ou objets d'occasion dans la fabrication desquels sont entrées des pierres précieuses ou des
-perles ;
+d)  De pierres précieuses, perles ou objets d'occasion dans la fabrication desquels sont entrées des pierres précieuses ou
+des perles ;
 
 11° Les quantités de boissons manquantes chez les marchands en gros en sus des déductions et soumises aux droits indirects;
 
@@ -31082,32 +32161,13 @@ chevaux dont ils sont propriétaires.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 65 A
-	  - Loi n°86-1067 1986-09-30 art. 53
-	  - CGI 691, 262
-	  - CGIAN2 10 VI
-	  - CGIAN2 178 A
-	  - CGIAN2 178 B
-	  - CGIAN2 178 C
-	  - CGIAN2 243 à CGIAN2 259
-	  - CGIAN4 42 à CGIAN4 46
-	  - CGIAN4 45
-
-	**Modifié par**:
-
-	  - Loi n°91-716 du 26 juillet 1991 - art. 10 (V) JORF 27 juillet 1991, en vigueur le 29 juillet 1991
-	  - Loi n°91-716 du 26 juillet 1991 - art. 4 (V) JORF 27 juillet 1991, en vigueur le 29 juillet 1991
-	  - Modification directe incorporée dans l'édition du 4 juillet 1992
-
 	**Cité par**:
 
+	  - Arrêté du 3 mai 2012 (V)
+	  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
 	  - Arrêté du 30 décembre 2010 - art. 8 (V)
 	  - Arrêté du 30 décembre 2010 - art. Annexe IX (V)
 	  - Arrêté du 30 décembre 2010 - art. Annexe VIII (V)
-	  - Arrêté du 3 mai 2012 (V)
-	  - Décret n°2010-1075 du 10 septembre 2010 - art. 1
 	  - Loi n°2013-1278 du 29 décembre 2013 - art. 27 (V)
 	  - Décret n°2013-1299 du 27 décembre 2013 (V)
 	  - Décret n°2015-793 du 30 juin 2015 (V)
@@ -31157,6 +32217,26 @@ chevaux dont ils sont propriétaires.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 33 (V)
 	  - Livre des procédures fiscales - art. L176 (V)
 	  - Livre des procédures fiscales - art. L59 A (VD)
+
+	**Cite**:
+
+	  - CGI 691, 262
+	  - CGIAN2 178 A
+	  - CGIAN2 178 B
+	  - CGIAN2 178 C
+	  - CGIAN2 243 à CGIAN2 259
+	  - CGIAN3 65 A
+	  - CGIAN4 42 à CGIAN4 46
+	  - CGIAN4 45
+	  - Loi n°86-1067 1986-09-30 art. 53
+
+	**Modifié par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 10 (V) JORF 27 juillet 1991 en vigueur le 29 juillet 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 258
@@ -31356,9 +32436,9 @@ assujetti à la taxe sur la valeur ajoutée, dès lors que le service est utilis
 
 ###### Article 260
 
-Peuvent sur leur demande acquitter la taxe sur la valeur ajoutée [*option*] :
+Peuvent sur leur demande acquitter la taxe sur la valeur ajoutée :
 
-1° Les personnes qui réalisent des opérations mentionnées aux 5° et 6° du 4 de l'article 261 (1);
+1° (Disposition devenue sans objet).
 
 2° Les personnes qui donnent en location des locaux nus pour les besoins de l'activité d'un preneur assujetti à la taxe sur
 la valeur ajoutée ou, si le bail est conclu à compter du 1er janvier 1991, pour les besoins de l'activité d'un preneur non
@@ -31368,46 +32448,45 @@ L'option ne peut pas être exercée :
 
 a. Si les locaux nus donnés en location sont destinés à l'habitation ou à un usage agricole ;
 
-b. Si le preneur est non assujetti, sauf lorsque le bail fait mention de l'option par le bailleur.
+b. Si le preneur est non assujetti, sauf lorsque le bail fait mention de l'option par le bailleur (1).
 
 3° (Abrogé) ;
 
 4° (Abrogé) ;
 
-5° Les personnes qui ont passé un bail à construction; dans ce cas, la taxe sur la valeur ajoutée est appliquée conformément
-à l'article 257-7° (2).
+5° Les personnes qui ont passé un bail à construction ; dans ce cas, la taxe sur la valeur ajoutée est appliquée conformément
+au 7° de l'article 257 (2).
 
-6° A compter du 1er octobre 1988 [*date*], les personnes qui donnent en location, en vertu d'un bail enregistré, des terres
-et bâtiments d'exploitation à usage agricole. L'option ne peut être exercée que si le preneur est redevable de la taxe sur la
+6° A compter du 1er octobre 1988, les personnes qui donnent en location, en vertu d'un bail enregistré, des terres et
+bâtiments d'exploitation à usage agricole. L'option ne peut être exercée que si le preneur est redevable de la taxe sur la
 valeur ajoutée et elle s'applique à tous les baux conclus par un même bailleur avec des agriculteurs répondant à cette
 condition (3).
 
 Les conditions et modalités de l'option notamment, pour l'application du 6°, les modalités d'évaluation des bâtiments
 d'habitation lorsqu'ils ne font pas l'objet d'une location distincte, sont fixées par décret en Conseil d'Etat.
 
-(1) Voir Annexe II, art. 189 à 192.
+**Nota:**
 
-(2) Voir Annexe II, art. 201 quater A à 201 quater C.
+(1) Voir les articles 193 à 195 de l'annexe II.
 
-(3) Voir Annexe II, art. 202.
+(2) Voir les articles 201 quater A à 201 quater C de l'annexe II.
+
+(3) Voir l'article 202 de l'annexe II.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 257 7°
-	  - CGI 261 4
-	  - CGIAN2 189 à CGIAN2 201
-	  - CGIAN2 201 quater A à CGIAN2 201 quater C
-	  - CGIAN2 202
+	  - CGI 257
+	  - CGIAN2 189 à 201, 201 quater A à 201 quater C, 202
 
 	**Modifié par**:
 
-	  - Loi - art. 32 (V) JORF 30 décembre 1990
+	  - Loi n°91-716 1991-07-26 art. 5 I III JORF 27 juillet 1991
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -31420,13 +32499,17 @@ d'habitation lorsqu'ils ne font pas l'objet d'une location distincte, sont fixé
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 201 quater (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 H (Ab)
 
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 2002-12-27 3I-1-02
+	  - TXT_ASSOCIE: Instruction 2003-04-30 3A-2-03
+
 
 ###### Article 260 A
 
 Les collectivités locales, leurs groupements ou leurs établissements publics peuvent, sur leur demande, être assujettis à la
-taxe sur la valeur ajoutée au titre des opérations relatives aux services suivants :
-
-- fourniture de l'eau;
+taxe sur la valeur ajoutée au titre des opérations relatives aux services suivants (1) :
 
 - assainissement;
 
@@ -31437,30 +32520,38 @@ taxe sur la valeur ajoutée au titre des opérations relatives aux services suiv
 - enlèvement et traitement des ordures, déchets et résidus lorsque ce service donne lieu au paiement de la redevance pour
 services rendus prévue par l'article L 233-78 du code des communes.
 
+- fourniture de l'eau dans les communes de moins de 3.000 habitants.
+
 L'option peut être exercée pour chacun des services cités ci-dessus, dans des conditions et pour une durée qui sont fixées
-par décret en Conseil d'Etat (1).
+par décret en Conseil d'Etat (2).
 
-(1) Annexe II, art. 201 quinquies à 201 octies.
+(1) : Dispositions applicables à compter du 1er janvier 1993.
 
-**Nota:**
-
-NOTA : La modification apportée par la loi 91-716, applicable au 1er janvier 1993, fait l'objet d'une autre version de
-l'article 260 A.
+(2) Annexe II, art. 201 quinquies à 201 octies.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN2 201 quinquies A CGIAN2 201 octies
+	  - CGIAN2 201 quinquies à 201 octies
 	  - CODE DES COMMUNES. - art. L233-78 (Ab)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 6 (V) JORF 27 juillet 1991
+	  - Loi - art. 45 () JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 293 C (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 260 B
@@ -31533,28 +32624,34 @@ soumises à la taxe sur la valeur ajoutée en régime intérieur;
 
 10° Aux opérations soumises à la taxe sur les conventions d'assurance.
 
-(1)  Annexe IV, art. 23 O. 2)  Annexe IV, art. 23 P.
+11° Aux opérations visées aux d et g du 1° de l'article 261 C.
+
+(1) Annexe IV, art. 23 O.
+
+(2) Annexe IV, art. 23 P.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 260 B
-	  - CGI 978 et s.
+	  - CGI 260 B, 261 C
 	  - CGIAN4 23 O
 	  - CGIAN4 23 P
 	  - Code rural 614
-	  - Loi n°87-416 1987-06-17 art. 38 I A
+	  - Loi n°87-416 1987-06-17
+
+	**Modifié par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 7 (V) JORF 27 juillet 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 O (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 P (V)
-
-	**Modifié par**:
-
-	  - Loi n°88-1149 du 23 décembre 1988 - art. 25 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 42 (V) JORF 31 décembre 1988
 
 
 ##### II bis : Location de locaux destinés au logement en meublé
@@ -31659,18 +32756,7 @@ Sont exonérés de la taxe sur la valeur ajoutée :
 
 1° et 2° (Abrogés) ;
 
-3° a. Lorsqu'elles sont soumises au droit proportionnel d'enregistrement prévu à l'article 733, les ventes publiques :
-
-- d'objets d'occasion,
-
-- d'objets d'antiquité et de collection,
-
-- d'objets visés à l'article 257-10°-d,
-
-- d'oeuvres d'art originales répondant aux conditions qui sont fixées par décret (1) ;
-
-b. Les achats d'objets visés à l'article 257-10°-d opérés en vue d'une vente aux enchères publiques imposée comme il est dit
-ci-dessus ;
+3° (Abrogé) ;
 
 4° Les opérations à terme sur marchandises réalisées sur le marché mentionné à l'article 5 de la loi du 28 mars 1885 sur les
 marchés à terme à l'exclusion de celles qui déterminent l'arrêt de la filière ;
@@ -31875,8 +32961,8 @@ travail, dans les conditions prévues au 1° ;
 
 3° Les ventes portant sur les articles fabriqués par des groupements d'aveugles ou de travailleurs handicapés, agréés dans
 les conditions prévues par la loi n° 72-616 du 5 juillet 1972, ainsi que les réparations effectuées par ces groupements. Ils
-peuvent toutefois, sur leur demande, renoncer à l'exonération dans les conditions et selon les modalités prévues à l'égard
-des personnes mentionnées à l'article 260-1° ;
+peuvent toutefois, sur leur demande, renoncer à l'exonération dans les conditions et selon les modalités prévues par décret
+en Conseil d'Etat ;
 
 4° (Abrogé) ;
 
@@ -31895,7 +32981,7 @@ location avec option d'achat avant le 8 septembre 1989.
 
 **Nota:**
 
-NOTA : Loi 91-716, art. 4 III " - Les dispositions du présent article entrent en vigueur le 15 juillet 1991. Toutefois, si la
+Nota : Loi 91-716, art. 4 III " - Les dispositions du présent article entrent en vigueur le 15 juillet 1991. Toutefois, si la
 présente loi n'est pas promulguée à cette date, les dispositions mentionnées ci-dessus entrent en vigueur le premier lundi
 qui suit cette promulgation" ;
 
@@ -31905,7 +32991,7 @@ Art. 5 VII "Ces dispositions sont applicables à compter du 1er octobre 1991."
 
 	**Cite**:
 
-	  - CGI 257, 733, 235 bis, 1378 quinquies, 260
+	  - CGI 257, 235 bis, 1378 quinquies
 	  - CGIAN2 242 B
 	  - CGIAN2 242 octies
 	  - CGIAN3 71
@@ -31937,6 +33023,13 @@ Art. 5 VII "Ces dispositions sont applicables à compter du 1er octobre 1991."
 	  - Loi n°1930-04-16 art. 15
 	  - Ordonnance 58-1145 1958-12-31
 
+	**Modifié par**:
+
+	  - Loi n°73-1128 1973-12-21 art. 4 II JORF 23 décembre 1973
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 29 () JORF 30 décembre 1978
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 49 (P) JORF 30 décembre 1978
+	  - Loi n°91-716 1991-07-26 art. 5 I, VII JORF 27 juillet 1991
+
 	**Cité par**:
 
 	  - Loi n°83-634 du 13 juillet 1983 - art. 25 (M)
@@ -31961,9 +33054,13 @@ Art. 5 VII "Ces dispositions sont applicables à compter du 1er octobre 1991."
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 octies (V)
 	  - Code rural et de la pêche maritime - art. L722-20 (V)
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Loi n°91-716 1991-07-26 art. 5 I, VII JORF 27 juillet 1991, en vigueur le 29 juillet 1991, art. 4 III
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 261 A
@@ -32023,19 +33120,12 @@ gestion de garanties de crédits effectuée par celui qui a octroyé les crédit
 c  Les opérations, y compris la négociation, concernant les dépôts de fonds, comptes courants, paiements, virements,
 créances, chèques et autres effets de commerce, à l'exception du recouvrement de créances;
 
-d  Les opérations, y compris la négociation, portant sur les devises, les billets de banque et les monnaies qui sont des
-moyens de paiement légaux à l'exception des monnaies et billets de collection (1).
+d  Les opérations visées au 1° du IV de l'article 256 ;
 
-Sont considérés comme des monnaies et billets de collection [*définition*] les pièces en or, en argent, ou autre métal, ainsi
-que les billets qui ne sont pas normalement utilisés dans leur fonction comme moyen de paiement légal ou qui présentent un
-intérêt numismatique;
+e  Les opérations visées au 2° du IV de l'article 256 ;
 
-e  Les opérations, autres que celles de garde et de gestion portant sur les actions, les parts de sociétés ou d'associations,
-les obligations et les autres titres, à l'exclusion des titres représentatifs de marchandises et des parts d'intérêt dont la
-possession assure en droit ou en fait l'attribution en propriété ou en jouissance d'un bien immeuble ou d'une fraction d'un
-bien immeuble ;
-
-f  La gestion de fonds communs de placement et de fonds communs de créances ;
+e  Les opérations, autres que celles de garde et de gestion    f  La gestion de fonds communs de placement et de fonds
+communs de créances ;
 
 g  Les opérations relatives à l'or, autre que l'or à usage industriel, lorsqu'elles sont réalisées par les établissements de
 crédit, sociétés de bourse, changeurs, escompteurs et remisiers, ou par toute autre personne qui en fait son activité
@@ -32051,17 +33141,26 @@ France.
 
 	**Cite**:
 
+	  - CGI 256
 	  - Loi n°87-416 1987-06-17
 
 	**Modifié par**:
 
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 42 (V) JORF 31 décembre 1988
+	  - Loi n°91-716 du 26 juillet 1991 - art. 7 (V) JORF 27 juillet 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 260 C (VD)
 	  - Code général des impôts, CGI. - art. 266 (V)
 	  - Code général des impôts, CGI. - art. 271 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 261 D
@@ -32426,27 +33525,30 @@ recevoir par le fournisseur ou le prestataire en contre-partie de la livraison o
 
 b. Pour les opérations ci-après, par le montant total de la transaction :
 
-- opérations d'entremise qui ne sont pas rémunérées exclusivement par une commission dont le taux est fixé au préalable
-d'après le prix, la quantité ou la nature des biens ou des services ou qui ne donnent pas lieu à reddition de compte au
-commettant du prix auquel le mandataire a traité avec l'autre contractant ;
+Opérations d'entremise qui ne sont pas rémunérées exclusivement par une commission dont le taux est fixé au préalable d'après
+le prix, la quantité ou la nature des biens ou des services ou qui ne donnent pas lieu à reddition de compte au commettant du
+prix auquel le mandataire a traité avec l'autre contractant ;
 
-- opérations effectuées en vertu d'un contrat de commission à l'achat ou à la vente portant sur des déchets neufs d'industrie
+Opérations effectuées en vertu d'un contrat de commission à l'achat ou à la vente portant sur des déchets neufs d'industrie
 ou des matières de récupération ;
 
-- opérations d'entremise qui aboutissent à la livraison de produits imposables par les personnes qui ne sont pas redevables
-de la taxe, à l'exception des opérations portant sur les objets d'occasion et les animaux vivants de boucherie et de
+Opérations d'entremise qui aboutissent à la livraison de produits imposables par les personnes qui ne sont pas redevables de
+la taxe, à l'exception des opérations portant sur les objets d'occasion et les animaux vivants de boucherie et de
 charcuterie ;
 
-- opérations réalisées par les personnes établies en France qui s'entremettent dans la livraison de biens ou l'exécution de
+Opérations réalisées par les personnes établies en France qui s'entremettent dans la livraison de biens ou l'exécution de
 services par des redevables qui n'ont pas établi en France le siège de leur activité, un établissement stable, leur domicile
 ou leur résidence habituelle ;
 
+b bis. Pour les opérations visées au IV de l'article 256, qui ont fait l'objet de l'option prévue à l'article 260 B, par le
+montant des profits et autres rémunérations ;
+
 c. Pour les livraisons à soi-même :
 
-- lorsqu'elles portent sur des biens, par le prix d'achat de ces biens ou de biens similaires ou, à défaut de prix d'achat,
-par le prix de revient, déterminés dans le lieu et au moment où la taxe devient exigible ;
+Lorsqu'elles portent sur des biens, par le prix d'achat de ces biens ou de biens similaires ou, à défaut de prix d'achat, par
+le prix de revient, déterminés dans le lieu et au moment où la taxe devient exigible ;
 
-- lorsqu'il s'agit de services, par les dépenses engagées pour leur exécution :
+Lorsqu'il s'agit de services, par les dépenses engagées pour leur exécution :
 
 d. Pour les achats, par le prix d'achat majoré, le cas échéant, des impôts à la charge de la marchandise ;
 
@@ -32462,7 +33564,7 @@ Des décrets peuvent fixer des bases minimales ou forfaitaires d'imposition pour
 g. Par la différence entre le prix de vente et le prix d'achat pour les ventes de biens acquis auprès d'un particulier ou
 d'un assujetti n'ayant pas eu droit à déduction lors de leur acquisition, importation ou livraison à soi-même, autres que
 celles portant sur les biens visés au 13° de l'article 257. Cette disposition n'est pas applicable aux biens dont
-l'importation est exonérée en application du 9° du II de l'article 291 ;
+l'importation est exonérée en application du 9° du II de l'article 291 (4);
 
 h. Pour les opérations d'entremise effectuées par les concessionnaires d'ouvrages de circulation routière, par la différence
 entre le montant total des péages et la fraction de ceux-ci affectée au financement des travaux de construction et des
@@ -32487,23 +33589,23 @@ d'apport ;
 
 b. Pour les mutations à titre onéreux ou les apports en société sur :
 
-- le prix de la cession, le montant de l'indemnité ou la valeur des droits sociaux rémunérant l'apport, augmenté des charges
+Le prix de la cession, le montant de l'indemnité ou la valeur des droits sociaux rémunérant l'apport, augmenté des charges
 qui s'y ajoutent ;
 
-- la valeur vénale réelle des biens, établie dans les conditions prévues à l'article L17 du livre des procédures fiscales, si
+La valeur vénale réelle des biens, établie dans les conditions prévues à l'article L17 du livre des procédures fiscales, si
 cette valeur vénale est supérieure au prix, au montant de l'indemnité ou à la valeur des droits sociaux, augmenté des
 charges.
 
-Toutefois, dans le cas de cession de droits sociaux, un décret (4) peut diminuer la base d'imposition ainsi définie du
+Toutefois, dans le cas de cession de droits sociaux, un décret (5) peut diminuer la base d'imposition ainsi définie du
 montant des sommes investies par le cédant pour la souscription ou l'acquisition desdits droits. Dans cette hypothèse, les
 dispositions de l'article 271 cessent de s'appliquer ;
 
 b bis. Pour la cession du bénéfice d'un contrat de location-attribution ou de location-vente entrant dans les prévisions de
 l'article 1378 quinquies, sur la différence entre :
 
-- d'une part, le prix exprimé et les charges qui peuvent s'y ajouter,
+D'une part, le prix exprimé et les charges qui peuvent s'y ajouter,
 
-- d'autre part, les sommes versées par le cédant en vue de l'acquisition du logement.
+D'autre part, les sommes versées par le cédant en vue de l'acquisition du logement.
 
 Ces dispositions s'appliquent aux offices publics d'aménagement et de construction pour les opérations faites en application
 de la législation sur les habitations à loyer modéré [*HLM*].
@@ -32516,17 +33618,15 @@ de la législation sur les habitations à loyer modéré [*HLM*].
 détermination de la base d'imposition, de la valeur du droit de reprise des constructions lorsque celles-ci doivent devenir
 la propriété du bailleur en fin de bail.
 
-**Nota:**
-
-NOTA : Ces dispositions s'appliquent à compter du 1er octobre 1991, loi 91-716 art. 3 II.
-
 (1) Voir Annexe III, art. 76-1.
 
 (2) Voir, toutefois, art. 267 bis.
 
 (3) Annexe III, art. 76-3. Pour la définition des oeuvres d'art originales, voir même Annexe, art. 71.
 
-(4) Annexe II, art. 248.
+(4) Ces dispositions s'appliquent à compter du 1er octobre 1991, loi 91-716 art. 3 II.
+
+(5) Annexe II, art. 248.
 
 **Liens relatifs à cet article**
 
@@ -32547,21 +33647,20 @@ NOTA : Ces dispositions s'appliquent à compter du 1er octobre 1991, loi 91-716 
 
 	**Cite**:
 
-	  - CGI 1378 quinquies
-	  - CGI 257 7°, 13°
-	  - CGI 260 5°
-	  - CGI 261 3 1° A
-	  - CGI 267 bis
-	  - CGI 271
-	  - CGI 291
-	  - CGI L17
+	  - CGI 256, 260 B, 257, 291, 271, 1378 quinquies, 260, 267 bis
 	  - CGIAN2 248
 	  - CGIAN3 71
 	  - CGIAN3 76 1, 3
+	  - Loi n°91-716 1991-07-26
+	  - Livre des procédures fiscales - art. L17 (M)
 
 	**Modifié par**:
 
-	  - Loi n°91-716 du 26 juillet 1991 - art. 3 (V) JORF 27 juillet 1991, en vigueur le 1er octobre 1991, art. 3 II
+	  - Loi n°91-716 du 26 juillet 1991 - art. 7 (V) JORF 27 juillet 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 267
@@ -32821,42 +33920,42 @@ Elle frappe les sommes imposables suivies de franc en franc, l'arrondissement é
 
 ###### Article 271
 
-1  La taxe sur la valeur ajoutée qui a grevé les éléments du prix d'une opération imposable est déductible de la taxe sur la
+1 La taxe sur la valeur ajoutée qui a grevé les éléments du prix d'une opération imposable est déductible de la taxe sur la
 valeur ajoutée applicable à cette opération.
 
-2  A cet effet, les assujettis, qui sont autorisés à opérer globalement l'imputation de la taxe sur la valeur ajoutée, sont
+2 A cet effet, les assujettis, qui sont autorisés à opérer globalement l'imputation de la taxe sur la valeur ajoutée, sont
 tenus de procéder à une régularisation :
 
-a  Si les marchandises ont disparu;
+a Si les marchandises ont disparu;
 
-b  Lorsque l'opération n'est pas effectivement soumise à l'impôt;
+b Lorsque l'opération n'est pas effectivement soumise à l'impôt;
 
-c  (Abrogé)
+c (Abrogé)
 
-3  La taxe déductible dont l'imputation n'a pu être opérée peut faire l'objet d'un remboursement dans les conditions, selon
+3 La taxe déductible dont l'imputation n'a pu être opérée peut faire l'objet d'un remboursement dans les conditions, selon
 les modalités et dans les limites fixées par décret en Conseil d'Etat (1).
 
 Les limitations particulières qui étaient opposables aux assujettis dont les déclarations de chiffre d'affaires avaient fait
 apparaître des crédits de taxe déductible en 1971, ne s'appliquent plus aux demandes de remboursement présentées à compter du
 1er janvier 1988.
 
-4  Ouvrent droit à déduction dans les mêmes conditions que s'ils étaient soumis à la taxe sur la valeur ajoutée :
+4 Ouvrent droit à déduction dans les mêmes conditions que s'ils étaient soumis à la taxe sur la valeur ajoutée :
 
-a  Les opérations d'assurances et de réassurances et les opérations de courtages d'assurances et de réassurances lorsqu'elles
+a) Les opérations d'assurances et de réassurances et les opérations de courtages d'assurances et de réassurances lorsqu'elles
 concernent :
 
-les assurés ou réassurés domiciliés ou établis en dehors de la Communauté économique européenne;
+Des assurés ou réassurés domiciliés ou établis en dehors de la Communauté économique européenne;
 
-des exportations de biens à destination de pays également situés en dehors de la Communauté [*CEE*] ;
+Des exportations de biens à destination de pays également situés en dehors de la Communauté [*CEE*] ;
 
-b  Les services bancaires et financiers exonérés en application des dispositions des a à e du 1 de l'article 261 C lorsqu'ils
+b) Les services bancaires et financiers exonérés en application des dispositions des a à e du 1 de l'article 261 C lorsqu'ils
 sont rendus à des personnes domiciliées ou établies en dehors de la Communauté économique européenne ou se rapportent à des
 exportations de biens à destination de pays autres que les Etats membres de la Communauté;
 
-c  Les opérations exonérées en application des dispositions des articles 262, 262 bis, 263 et des 1° et 1° bis du II de
+c) Les opérations exonérées en application des dispositions des articles 262, 262 bis, 263 et des 1° et 1° bis du II de
 l'article 291;
 
-d  Les opérations non imposables en France réalisées par des assujettis dans la mesure où elles ouvriraient droit à déduction
+d) Les opérations non imposables en France réalisées par des assujettis dans la mesure où elles ouvriraient droit à déduction
 si leur lieu d'imposition se situait en France. Un décret en Conseil d'Etat fixe les modalités et les limites du
 remboursement de la taxe déductible au titre de ces opérations; ce décret peut instituer des règles différentes suivant que
 les assujettis sont domiciliés ou établis dans les Etats membres de la Communauté économique européenne ou dans d'autres pays
@@ -32873,18 +33972,18 @@ valeur ajoutée est considérée comme en ayant été grevée à concurrence du 
 
 	**Cite**:
 
-	  - CGI 261 C 1
-	  - CGI 262
-	  - CGI 262 bis
-	  - CGI 263
-	  - CGI 291 II 1°, 1° bis
+	  - CGI 261 C, 262, 262 bis, 263, 291
 	  - CGIAN2 242-0 A à CGIAN2 242-0 L
 	  - CGIAN2 242-0 M à CGIAN2 242-0 T
 	  - CGIAN4 47
 
 	**Modifié par**:
 
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 25 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+	  - Loi n°77-1467 du 30 décembre 1977 - art. 14 (P) JORF 31 décembre 1977
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -33020,6 +34119,23 @@ titane, zinc, zirconium, ou plus de 5 p. 100 de chrome, molybdène, nickel, tung
 	**Créé par**:
 
 	  - Loi - art. 33 () JORF 30 décembre 1990
+
+
+###### Article 273 septies A
+
+La taxe sur la valeur ajoutée [*TVA*] afférente aux achats, importations, livraisons et services effectués à compter du 1er
+janvier 1993 cesse d'être exclue du droit à déduction en ce qui concerne les véhicules ou engins affectés de façon exclusive
+à l'enseignement de la conduite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°91-716 1991-07-26 art. 13 JORF 27 juillet 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 273 sexies
@@ -33366,6 +34482,78 @@ originales dont l'auteur est vivant, pour lesquelles elle s'applique à compter 
 	  - Code général des impôts, CGI. - art. 297 B (V)
 
 
+###### Article 278 sexies
+
+I. La taxe sur la valeur ajoutée est perçue au taux réduit de 5,50 p. 100 en ce qui concerne les ventes et les apports en
+société de terrains à bâtir et de biens assimilés à ces terrains par les 1° et 3° du I de l'article 691 aux organismes
+d'habitations à loyer modéré visés à l'article L. 411-2 du code de la construction et de l'habitation, ainsi qu'aux personnes
+bénéficiaires des aides de l'Etat prévues aux articles L. 301-1 et suivants du même code pour la construction de logements
+visés au 1° et 3° de l'article L. 351-2 du code de la construction et de l'habitation. Le taux réduit de 5,50 p. 100
+s'applique également aux indemnités de toute nature perçues par les personnes qui exercent sur ces immeubles un droit de
+propriété ou de jouissance.
+
+II. Les acquisitions de terrains visés au 3 du 7° de l'article 257 sont soumises au taux réduit de 5,50 p. 100 lorsqu'elles
+sont réalisées par des personnes physiques bénéficiaires des prêts aidés par l'Etat prévus aux articles L. 301-1 et suivants
+du code de la construction et de l'habitation.
+
+**Nota:**
+
+NOTA : Loi 91-716 1991-07-26 art. 10 VI " - Les dispositions du présent article s'appliquent aux opérations réalisées à
+compter du 15 juillet 1991. Toutefois, si la présente loi n'est pas promulguée à cette date, les dispositions mentionnées ci-
+dessus entrent en vigueur le premier lundi qui suit cette promulgation.
+
+Toutefois, le redevable de la taxe peut bénéficier des dispositions actuellement en vigueur pour les acquisitions de terrains
+à bâtir réalisées avant le 1er janvier 1992, pour autant que l'accord des parties ait été formalisé par un acte enregistré
+avant le 15 juillet 1991."
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 10 VI
+
+	**Créé par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 10 (V) JORF 27 juillet 1991, en vigueur le 29 juillet 1991, art. 10 VI
+
+	**Cité par**:
+
+	  - Arrêté du 16 mars 1992 - art. 2 bis (Ab)
+	  - Arrêté du 3 mai 2002 - art. Annexe I (Ab)
+	  - Arrêté du 29 avril 2009 - art. 3 (Ab)
+	  - Décret n°2010-1269 du 26 octobre 2010 - art. 2 (V)
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - Décret n°2011-544 du 18 mai 2011 - art. 4 (V)
+	  - Arrêté du 1er août 2014 - art. 3 (V)
+	  - Loi n°2014-891 du 8 août 2014 - art. 27 (V)
+	  - Arrêté du 30 septembre 2014 (V)
+	  - Arrêté du 30 septembre 2014 - art. 6 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 12 (V)
+	  - Code de l'urbanisme - art. L112-2 (VT)
+	  - Code de l'urbanisme - art. L331-12 (V)
+	  - Code de l'urbanisme - art. L331-7 (VD)
+	  - Code de la construction et de l'habitation. - art. R313-20-1 (V)
+	  - Code de la construction et de l'habitation. - art. R353-59 (V)
+	  - Code de la construction et de l'habitation. - art. R353-90 (V)
+	  - Code général de la propriété des personnes publ... - art. L3211-7 (V)
+	  - Code général des impôts, CGI. - art. 1384 A (V)
+	  - Code général des impôts, CGI. - art. 1391 E (V)
+	  - Code général des impôts, CGI. - art. 257 (VD)
+	  - Code général des impôts, CGI. - art. 278 sexies A (V)
+	  - Code général des impôts, CGI. - art. 279-0 bis A (V)
+	  - Code général des impôts, CGI. - art. 284 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 209 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 70 quinquies B (P)
+	  - Livre des procédures fiscales - art. L176 (V)
+
+	**Cite**:
+
+	  - CGI 691, 257
+	  - Code de la construction et de l'habitation. - art. L301-1 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L411-2 (M)
+
+
 ###### Article 278 ter
 
 La taxe sur la valeur ajoutée est perçue au taux de 5,50 % en ce qui concerne les sommes visées au 19° de l'article 257.
@@ -33440,14 +34628,13 @@ que des expositions culturelles ;
 
 b quater. Les transports de voyageurs ;
 
-b quinquies. Les locations et cessions de droits portant sur les oeuvres cinématographiques ainsi que les droits d'entrée
-dans les salles de spectacles cinématographiques quels que soient le procédé de fixation ou de transmission et la nature du
-support des oeuvres ou documents audiovisuels qui sont présentés. Cette disposition n'est pas applicable aux oeuvres ou aux
-films pornographiques ou d'incitation à la violence mentionnés à l'article 281 bis A ;
+b quinquies. Les droits d'entrée dans les salles de spectacles cinématographiques quels que soient le procédé de fixation ou
+de transmission et la nature du support des oeuvres ou documents audiovisuels qui sont présentés ; (art. 11 XI de la loi
+91-716)
 
 b sexies. (Abrogé).
 
-b septies. Les prestations de services effectuées par les agences de voyages et les organisateurs de circuits touristiques.
+b septies. (Abrogé) (à compter du 1er août 1991, art. 8 de la loi 91-716);
 
 b octies. Les abonnements souscrits par les usagers afin de recevoir :
 
@@ -33475,40 +34662,15 @@ l'impôt s'effectue sur une base réelle ;
 b decies. Les abonnements relatifs aux livraisons d'électricité, de gaz combustible et d'énergie calorifique, à usage
 domestique, distribués par réseaux publics.
 
-c. Les opérations d'achat, d'importation, de vente, de livraison, de commission, de courtage ou de façon, portant sur les
-produits suivants :
-
-1° à 12° (Devenus sans objet) ;
-
-13° Aliments simples ou composés utilisés pour la nourriture du bétail, des animaux de basse-cour, des poissons d'élevage
-destinés à la consommation humaine et des abeilles, ainsi que les produits entrant dans la composition de ces aliments et
-dont la liste est fixée par arrêté du ministre de l'économie et des finances pris après avis des professions intéressées
-(4) ;
-
-14° (Dispositions devenues sans objet) ;
-
-d. Les opérations d'achat, d'importation, de vente, de livraison, de commission, de courtage ou de façon portant sur les
-produits suivants :
-
-1° (Devenu sans objet);
-
-2° Amendements calcaires ;
-
-3° Engrais ;
-
-4° Soufre, sulfate de cuivre, ainsi que les produits cupriques contenant au minimum 10 % de cuivre, utilisés en agriculture ;
-
-5° Grenaille utilisée pour la fabrication du sulfate de cuivre ;
-
-6° Produits antiparasitaires utilisés en agriculture, sous réserve qu'ils aient fait l'objet, soit d'une homologation, soit
-d'une autorisation de vente délivrée par le ministre de l'agriculture.
-
-e. Les opérations d'achat, d'importation, de vente, de livraison, de commission, de courtage, de façon ainsi que de location
-ou de cession de droits portant sur les livres.
+c, d, e (Abrogé) (à compter du 1er janvier 1993, art. 11 XI de la loi 91-716);
 
 f. Les prestations pour lesquelles les avocats, les avocats au Conseil d'Etat et à la Cour de cassation et les avoués sont
-indemnisés totalement ou partiellement par l'Etat dans le cadre de l'aide judiciaire ou d'une procédure de commission ou de
-désignation d'office (5).
+indemnisés totalement ou partiellement par l'Etat dans le cadre de l'aide juridictionnelle (5).
+
+g) Les cessions des droits patrimoniaux reconnus par la loi aux auteurs des oeuvres de l'esprit et aux artistes-interprètes
+ainsi que de tous droits portant sur les oeuvres cinématographiques et sur les livres.
+
+Cette disposition n'est pas applicable aux cessions de droits portant sur des oeuvres d'architecture et des logiciels.
 
 (1) Annexe IV, art. 30.
 
@@ -33516,20 +34678,25 @@ désignation d'office (5).
 
 (3) Disposition à caractère interprétatif.
 
-(4) Annexe IV, art. 31.    (5) Disposition applicable à compter du 1er avril 1991. La loi 91-647 du 10 juillet 1991, en
-vigueur le 1er janvier 1992, art. 74 : les mots "aide juridictionnelle" remplacent les mots "aide judiciaire ou indemnisation
-des commissions et désignations d'office"
+(4) Annexe IV, art. 31.
+
+(5) Disposition applicable à compter du 1er avril 1991.
+
+La loi 91-647 du 10 juillet 1991, en vigueur le 1er janvier 1992, art. 74 : les mots "aide juridictionnelle" remplacent les
+mots "aide judiciaire ou indemnisation des commissions et désignations d'office".
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 261 4 2°
-	  - CGI 281 bis A I
+	  - CGI 281 bis
+	  - CGI 281 bis A, 261
+	  - CGI 281 bis B
 	  - CGIAN2 242 ter A à 242 ter F
 	  - CGIAN3 85 bis
 	  - CGIAN4 30
 	  - CGIAN4 31
+	  - Loi n°1836-05-21 art. 7
 	  - Loi n°82-652 du 29 juillet 1982 - art. 79 (M)
 	  - Loi n°84-743 du 1 août 1984 - art. 1 (Ab)
 	  - Loi n°86-1067 1986-09-30 Titre II chapitre 1er, 2
@@ -33537,17 +34704,21 @@ des commissions et désignations d'office"
 	  - Code de la santé publique - art. L601 (M)
 	  - Code de la santé publique - art. L666 (P)
 	  - Code de la sécurité sociale. - art. L162-21 (M)
-	  - Loi n°1836-05-21 art. 7
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi - art. 27 () JORF 30 décembre 1990
-	  - Loi - art. 32 (V) JORF 30 décembre 1990
-	  - Loi n°90-1168 1990-12-29 art. 27 I, art. 32 IV, V art. 37 I 2, II, III Finances pour 1991 JORF 30 décembre 1990
+	  - Loi n°91-647 du 10 juillet 1991 - art. 74 () JORF 13 juillet 1991
+	  - Loi n°91-716 1991-07-26 art. 5 V VII, art. 8 dispositions en vigueur le 1er août 1991 et le 1er octobre 1991, art. 11 II III IV XI dispositions en vigueur le 1er janvier 1993, JORF 27 juillet 1991
+	  - Loi n°91-716 du 26 juillet 1991 - art. 11 (V) JORF 27 juillet 1991
+	  - Loi n°91-716 du 26 juillet 1991 - art. 8 (V) JORF 27 juillet 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -34330,6 +35501,62 @@ l'article 257 (1).
 	**Liens**:
 
 	  - TXT_ASSOCIE: Instruction 1998-06-30 8A-3-98
+
+
+##### Section VI bis : Retenue de la taxe sur les droits d'auteurs
+
+###### Article 285 bis
+
+1. Les éditeurs, sociétés de perception et de répartition de droits et les producteurs qui versent des droits mentionnés au
+premier alinéa du 2° du III de l'article 293 B doivent, sauf lorsque l'auteur a renoncé à ce dispositif en application du 3,
+retenir sur le montant de ces droits la taxe sur la valeur ajoutée due par l'auteur et acquitter cette taxe au Trésor.
+
+2. A défaut d'indication contraire de l'auteur formulée dans les conditions prévues au 3, les sommes qui lui sont dues par
+les personnes mentionnées au 1 sont réputées passibles de la retenue de taxe sur la valeur ajoutée, y compris en ce qui
+concerne les auteurs qui bénéficient de la franchise mentionnée au III de l'article 293 B.
+
+3. La renonciation par l'auteur au dispositif de retenue vaut pour l'ensemble des droits qu'il perçoit.
+
+Cette renonciation doit être notifiée à toutes les personnes visées au 1 qui versent des droits à l'auteur ainsi qu'au centre
+des impôts dont celui-ci relève.
+
+Elle prend effet le premier jour du mois qui suit celui au cours duquel elle est déclarée.
+
+Elle couvre obligatoirement une période de cinq années, y compris celle au cours de laquelle elle est déclarée. Elle est
+renouvelable par tacite reconduction, sauf dénonciation à l'expiration de chaque période. Toutefois, elle est reconduite de
+plein droit pour la période de cinq années suivant celle au cours ou à l'issue de laquelle l'auteur ayant notifié cette
+renonciation a bénéficié d'un remboursement de taxe sur la valeur ajoutée prévu à l'article 271.
+
+4. Les auteurs qui n'ont pas renoncé au dispositif de la retenue et qui reçoivent des droits de personnes autres que celles
+visées au 1 doivent retenir les modalités de liquidation de la taxe définies au 5. Ils déposent au titre de ces droits une
+déclaration annuelle de chiffre d'affaires.
+
+5. Pour le calcul du montant de la taxe nette due par l'auteur, les personnes visées au 1 appliquent en France métropolitaine
+un taux forfaitaire de 0,8 p. 100 des droits d'auteur au titre des droits à déduction en France métropolitaine. Ce taux est
+de 0,40 p. 100 dans les départements de la Guadeloupe, de la Réunion et de la Martinique. Cette déduction est exclusive de
+toute autre déduction.
+
+6. Les personnes visées au 1 doivent déclarer et acquitter la retenue dans les mêmes conditions et sous les mêmes sanctions
+que leurs propres opérations. La taxe sur la valeur ajoutée acquittée pour le compte de l'auteur par ces personnes n'est pas
+prise en compte pour la détermination de leur pourcentage de déduction de taxe sur la valeur ajoutée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 293 B, 271
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Créé par**:
+
+	  - Loi - art. 24 () JORF 31 décembre 1991
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 47 bis (V)
 
 
 ##### Section VII : Obligations des redevables
@@ -35149,21 +36376,26 @@ ajoutée.
 
 II. Les dispositions du I cessent de s'appliquer aux assujettis dont le chiffre d'affaires de l'année en cours dépasse le
 montant de 100 000 F. Ils deviennent redevables de la taxe sur la valeur ajoutée pour les prestations de services et pour les
-livraisons de biens effectuées à compter du premier jour du mois au cours duquel ce chiffre d'affaires est dépassé.    III.
-Les chiffres d'affaires limites du I et du II sont respectivement de 245 000 F et 300 000 F pour les opérations réalisées par
-les avocats, les avocats au Conseil d'Etat et à la Cour de cassation et les avoués, dans le cadre de l'activité définie par
-la réglementation applicable à leur profession.
+livraisons de biens effectuées à compter du premier jour du mois au cours duquel ce chiffre d'affaires est dépassé.
+
+III. Les chiffres d'affaires limites du I et du II sont respectivement de 245 000 F et de 300 000 F :
+
+1° Pour les opérations réalisées les avocats, les avocats au Conseil d'Etat et à la Cour de cassation et les avoués, dans le
+cadre de l'activité définie la réglementation applicable à leur profession ;
+
+2° Pour la livraison de leurs oeuvres désignées à l'article 3 de la loi n° 57-298 du 11 mars 1957 sur la propriété littéraire
+et artistique et la cession des droits patrimoniaux qui leur sont reconnus par la loi par les auteurs d'oeuvres de l'esprit,
+à l'exception des architectes et auteurs de logiciels.
+
+Ces dispositions s'appliquent également aux artistes-interprètes visés à l'article 16 de la loi n° 85-660 du 3 juillet 1985
+relative aux droits d'auteur et aux droits des artistes-interprètes pour l'exploitation des droits patrimoniaux qui leur sont
+reconnus par la loi.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 25 () JORF 30 décembre 1990
-	  - Loi - art. 32 (V) JORF 30 décembre 1990
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
+	  - Loi n°91-716 1991-07-26 art. 5 JORF 27 juillet 1991
 
 	**Cité par**:
 
@@ -35225,18 +36457,22 @@ La franchise mentionnée aux I et II de l'article 293 B n'est pas applicable :
 
 ###### Article 293 D
 
-I. Le chiffre d'affaires mentionné à l'article 293 B est constitué par le montant hors taxe sur la valeur ajoutée des
-livraisons de biens et des prestations de services effectuées au cours de la période de référence, à l'exception des
-opérations exonérées et des cessions de biens d'investissement corporels ou incorporels mais y compris les opérations
+I. Le chiffre d'affaires mentionné aux I et II de l'article 293 B est constitué par le montant hors taxe sur la valeur
+ajoutée des livraisons de biens et des prestations de services effectuées au cours de la période de référence, à l'exception
+des opérations exonérées et des cessions de biens d'investissement corporels ou incorporels mais y compris les opérations
 immobilières, bancaires, financières et des assurances qui n'ont pas le caractère d'opérations accessoires et les opérations
-visées aux articles 262-I et II, 1° à 7°, 12° et 14° et 263.
+visées aux articles 262 I et II, 1° à 7°, 12° et 14° et 263.
 
-Il ne comprend pas le montant du chiffre d'affaires non soumis à la taxe sur la valeur ajoutée en application du III de
-l'article 293 B.
+Il ne comprend pas le montant du chiffre d'affaires non soumis à la taxe sur la valeur ajoutée en application des 1° ou 2° du
+III de l'article 293 B.
 
 II. Les chiffres d'affaires mentionnés au III de l'article 293 B sont constitués par le montant hors taxe sur la valeur
-ajoutée des prestations de services relevant de l'activité réglementée de chacune des professions concernées effectuées au
-cours de la période de référence.
+ajoutée, réalisé au cours de la période de référence :
+
+1° Des prestations de services relevant de l'activité réglementée de chacune des professions citées au 1° du III de l'article
+293 B ;
+
+2° Des livraisons et des cessions de droits visées au 2° du I II de l'article 293 B.
 
 III. Pour l'application des dispositions prévues à l'article 293 B, les limites de 70 000 F et 245 000 F sont ajustées au
 prorata du temps d'exploitation de l'entreprise ou d'exercice de l'activité pendant l'année de référence.
@@ -35247,14 +36483,17 @@ prorata du temps d'exploitation de l'entreprise ou d'exercice de l'activité pen
 
 	  - CGI 293 B, 262 I II, 263
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 25 () JORF 30 décembre 1990
-	  - Loi - art. 32 (V) JORF 30 décembre 1990
+	  - Loi n°91-716 1991-07-26 art. 5 II 3, III, VII JORF 27 juillet 1991
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Cité par**:
 
@@ -35263,14 +36502,17 @@ prorata du temps d'exploitation de l'entreprise ou d'exercice de l'activité pen
 
 ###### Article 293 E
 
-I. Les assujettis bénéficiant de la franchise de taxe mentionnée à l'article 293 B sont soumis aux obligations mentionnées à
-l'article 286, sous réserve des allégements prévus par l'article 302 sexies.
+I. Les assujettis bénéficiant de la franchise de taxe (1) mentionnée à l'article 293 B sont soumis aux obligations
+mentionnées à l'article 286, sous réserve des allégements prévus par l'article 302 sexies.
 
 II. Ils ne peuvent opérer aucune déduction de la taxe sur la valeur ajoutée, ni faire apparaître la taxe sur leurs factures
 ou sur tout autre document en tenant lieu.
 
-En cas de délivrance d'une facture par ces assujettis pour leurs livraisons de biens et leurs prestations de services, la
-facture doit porter la mention : " TVA non applicable, art. 293 B du CGI ".
+En cas de délivrance d'une facture, d'une note d'honoraires ou de tout autre document en tenant lieu par ces assujettis pour
+leurs livraisons de biens et leurs prestations de services, la facture, la note d'honoraires ou le document doit porter la
+mention : "TVA non applicable, article 293 B du CGI."
+
+(1) [*Cf. Instructions 1997-01-02 3F-1-97, 1997-01-02 5G-1-97, 1997-01-02 4Q-1-97*].
 
 **Liens relatifs à cet article**
 
@@ -35278,14 +36520,20 @@ facture doit porter la mention : " TVA non applicable, art. 293 B du CGI ".
 
 	  - CGI 293 B, 286, 302 sexies
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 25 () JORF 30 décembre 1990
-	  - Loi - art. 32 (V) JORF 30 décembre 1990
+	  - Loi n°91-716 1991-07-26 art. 5 JORF 27 juillet 1991
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 1997-01-02 3F-1-97
+	  - TXT_ASSOCIE: Instruction 1997-01-02 4Q-1-97
+	  - TXT_ASSOCIE: Instruction 1997-01-02 5G-1-97
 
 
 ###### Article 293 F
@@ -35327,6 +36575,34 @@ celles prévues au 1° de l'article 286.
 
 	  - Loi - art. 25 () JORF 30 décembre 1990
 	  - Loi - art. 32 (V) JORF 30 décembre 1990
+
+
+###### Article 293 G
+
+Les assujettis visés au III de l'article 293 B qui remplissent les conditions pour bénéficier de la franchise et qui n'ont
+pas opté pour le paiement de la T.V.A. sont exclus du bénéfice de la franchise quand le montant cumulé des opérations visées
+à l'article 293 B excède 315 000 F l'année de référence ou 400 000 F l'année en cours.
+
+Les opérations visées au I de l'article 293 B ne sont prises en compte que lorsque la franchise prévue par cette disposition
+est appliquée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 293 B
+
+	**Créé par**:
+
+	  - Loi n°91-716 1991-07-26 art. 5 VIII JORF 27 juillet 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### Section IX : Régimes spéciaux
@@ -35664,7 +36940,8 @@ Pour l'application du d, on entend par matières premières [*définition*] les 
 passibles de la taxe sur la valeur ajoutée et par agents de fabrication [*définition*] les matières ou produits qui,
 normalement et sans entrer dans le produit fini, sont détruits ou perdent leurs qualités spécifiques au cours des opérations
 de fabrication d'un produit soumis à la taxe sur la valeur ajoutée à l'exclusion des produits utilisés pour la carburation,
-la lubrification proprement dite ou la combustion, sous réserve de ce qui est dit aux a, b et c.
+la lubrification proprement dite ou la combustion, sous réserve de ce qui est dit aux a, b et c et à compter du 1er janvier
+1993, au 1° sexies ;
 
 1° ter a. La valeur ajoutée afférente aux achats, importations, livraisons et services portant sur le gazole utilisé comme
 carburant est déductible dans les conditions prévues aux articles 271 à 273.
@@ -35703,7 +36980,7 @@ En 1989 et en 1990, la déduction est limitée respectivement à un tiers et à 
 1° sexies. La taxe sur la valeur ajoutée afférente aux achats, importations, acquisitions intra communautaires, livraisons et
 services portant sur les produits pétroliers utilisés pour la lubrification est déductible dans les conditions prévues aux
 articles 271 à 273, lorsqu'ils sont utilisés pour des véhicules et engins ouvrant droit à déduction. Cette disposition
-s'applique également si ces produits pétroliers sont utilisés dans les véhicules et engins pris en location quand le prenur
+s'applique également si ces produits pétroliers sont utilisés dans les véhicules et engins pris en location quand le preneur
 peut déduire la taxe relative à cette location (2).
 
 2° La taxe sur la valeur ajoutée ayant grevé les biens ou les services utilisés pour l'extraction, la fabrication, le
@@ -35741,14 +37018,17 @@ l'article 265 du code des douanes sous les indices d'identification 30, 33, 35, 
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°91-716 1991-07-26 art. 12 I, III 2, IV JORF 27 juillet 1991, en vigueur le 29 juillet 1991, art. 12 IV
-	  - Loi n°91-716 du 26 juillet 1991 - art. 12 (V) JORF 27 juillet 1991, en vigueur le 29 juillet 1991, art. 12 IV
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 12 IV premier alinéa
+	  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 12 IV : dispositions en vigueur le 1er janvier 1993
+
+	**Modifié par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 12 (V) JORF 27 juillet 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -35762,7 +37042,8 @@ l'article 265 du code des douanes sous les indices d'identification 30, 33, 35, 
 
 	**Cite**:
 
-	  - CGI 266, 267, 271 à 273, 262, 291 II, L45 C
+	  - CGI 266, 267, 271 à 273, 262, 291 II, 12
+	  - Livre des procédures fiscales - art. L45 C (V)
 	  - Code des douanes - art. 265 (M)
 
 
@@ -36300,8 +37581,8 @@ Elle est acquittée par le fournisseur dans le même délai que le droit de cons
 
 ###### Article 298 quindecies
 
-Pour l'application de la taxe sur la valeur ajoutée les échanges entre la France continentale, la région de Corse et chacun
-des départements d'outre-mer sont assimilés à des opérations d'importation ou d'exportation.
+Pour l'application de la taxe sur la valeur ajoutée les échanges entre la France continentale, la collectivité territoriale
+de Corse et chacun des départements d'outre-mer sont assimilés à des opérations d'importation ou d'exportation.
 
 En ce qui concerne les tabacs importés dans les départements de France continentale, la taxe sur la valeur ajoutée qui a
 grevé les éléments de leur prix est déductible de la taxe due au titre des autres opérations imposables effectuées en France
@@ -36314,9 +37595,13 @@ conditions prévues à l'article 271-3.
 
 	  - CGI 271 3
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°91-428 du 13 mai 1991 - art. 2 (Ab) JORF 14 mai 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 298 sexdecies
@@ -37345,6 +38630,8 @@ l'urbanisme;
 - comme il est dit à l'article L 333-12 du code de l'urbanisme, le versement résultant du dépassement du plafond légal de
 densité prévu par l'article L 112-2 du même code.
 
+- La participation à la diversité de l'habitat prévue à l'article L. 332-17 du code de l'urbanisme.
+
 II. Constituent du point de vue fiscal, un élément du prix de revient de l'ensemble immobilier :
 
 - la taxe locale d'équipement visée à l'article 1585 A;
@@ -37360,23 +38647,21 @@ l'article 1599 B ;
 
 	**Cite**:
 
-	  - CGI 1585 A
-	  - CGI 1599 B
-	  - CGI 1599-0 B
+	  - CGI 1585 A, 1599 B, 1599-0 B
 	  - Code de l'urbanisme - art. L112-2 (M)
 	  - Code de l'urbanisme - art. L142-2 (M)
 	  - Code de l'urbanisme - art. L332-1 (M)
+	  - Code de l'urbanisme - art. L332-17 (Ab)
 	  - Code de l'urbanisme - art. L333-12 (Ab)
-	  - Code de l'urbanisme L520-1 A Code de l'urbanisme L520-9
+	  - Code de l'urbanisme L520-1 à L520-9, L332-1, L333-12, L112-2, L332-17, L142-2
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 12 () JORF 19 juillet 1985
-	  - Loi n°86-1318 du 30 décembre 1986 - art. 32 () JORF 31 décembre 1986
+	  - Loi - art. 17 () JORF 19 juillet 1991
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -43812,8 +45097,8 @@ garanties applicables en matière douanière (1).
 Le droit de consommation perçu dans les départements de Corse, de la Guyane et de la Réunion reçoit l'affectation prévue pour
 les droits de consommation sur les tabacs en vigueur dans ces départements antérieurement au 1er janvier 1977 (2).
 
-Pour l'application du régime fiscal des tabacs, les échanges entre la France continentale, la région de Corse et chacun des
-départements d'outre-mer sont assimilés à des opérations d'importation ou d'exportation.
+Pour l'application du régime fiscal des tabacs, les échanges entre la France continentale, la collectivité territoriale de
+Corse et chacun des départements d'outre-mer sont assimilés à des opérations d'importation ou d'exportation.
 
 Les unités de conditionnement doivent être revêtues des mentions prescrites par l'administration (3).
 
@@ -43821,7 +45106,7 @@ Les unités de conditionnement doivent être revêtues des mentions prescrites p
 
 (2) Date de mise en application de la loi n° 76-448 du 24 mai 1976 (J.O. du 25).
 
-(3)  Annexe IV, art. 56 AQ.
+(3) Annexe IV, art. 56 AQ.
 
 **Liens relatifs à cet article**
 
@@ -43831,13 +45116,19 @@ Les unités de conditionnement doivent être revêtues des mentions prescrites p
 	  - CGIAN4 56 AQ
 	  - Loi n°76-448 1976-05-24
 
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-07-04
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 2 (Ab) JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 87 (V) JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 89 (Ab) JORF 14 mai 1991
+
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. L137-27 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### III : Circulation, détention et commerce des tabacs.
@@ -44275,6 +45566,34 @@ de droits de chasse ou de droits de pêche ;
 	  - Livre des procédures fiscales - art. L68 (V)
 
 
+###### Article 635 A
+
+Les dons manuels mentionnés au deuxième alinéa de l'article 757 doivent être déclarés ou enregistrés par le donataire ou ses
+représentants dans le délai d'un mois qui suit la date à laquelle le donataire a révélé ce don à l'administration fiscale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 757
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 1992-04-13 7G-3-92
+	  - TXT_ASSOCIE: Instruction 1993-03-31 7G-2-93
+	  - TXT_ASSOCIE: Jurisprudence 2000-12-04 7G-12-00
+
+	**Créé par**:
+
+	  - Loi - art. 15 () JORF 31 décembre 1991
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 281 E (V)
+	  - Livre des procédures fiscales - art. L181 A (V)
+
+
 ###### Article 636
 
 Les testaments déposés chez les notaires ou reçus par eux doivent être enregistrés, à la diligence des héritiers, donataires,
@@ -44372,29 +45691,28 @@ A défaut d'actes les cessions de parts sociales doivent être déclarées dans 
 ###### Article 640
 
 A défaut d'actes, les mutations ainsi que les prorogations conventionnelles ou légales de jouissance de biens immeubles, de
-fonds de commerce ou de clientèles et de droits de pêche ou de droits de chasse doivent être déclarées par le bailleur
-[*formalité obligatoire*], lorsque le loyer annuel excède 10.0O0 F [*montant*] (1).
+fonds de commerce ou de clientèles et de droits de pêche ou de droits de chasse doivent être déclarées par le bailleur,
+lorsque le loyer annuel excède 12.0O0 F (1).
 
-(1) Annexe III, art. 395 et 395 ter et Annexe IV, art. 61 à 65 ;
-
-Voir la note sous l'article 740 II 1°.
+(1) Voir la note sous l'article 740 II 1°, Annexe III, art. 395 et 395 ter et Annexe IV, art. 61 à 65.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 740
-	  - CGIAN3 395
-	  - CGIAN3 395 ter
-	  - CGIAN4 61 à CGIAN4 65
-
-	**Modifié par**:
-
-	  - Loi n°90-1169 du 29 décembre 1990 - art. 49 (V) JORF 30 décembre 1990
+	  - CGIAN4 740 II
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi - art. 29 (V) JORF 31 décembre 1991
 
 
 ##### c : Mutations par décès
@@ -44822,12 +46140,13 @@ timbre prescrit ou qui n'aurait pas été visé pour timbre;
 
 Sous réserve de dispositions particulières, sont passibles des droits d'enregistrement :
 
-1° Lorsqu'ils ne donnent pas lieu à la formalité fusionnée, les actes visés à l'article 635-1;
+1° Lorsqu'ils ne donnent pas lieu à la formalité fusionnée, les actes visés au 1 de l'article 635 ;
 
-2° Les actes visés aux articles 634, 635-2-1° à 8° et 636, les baux à durée limitée d'immeubles dont le loyer annuel est
-supérieur à 10.000 F (1) et généralement tous les actes soumis volontairement à la formalité de l'enregistrement;
+2° Les actes visés aux articles 634, aux 1° à 8°  de l'article 635 et à l'article 636, les baux à durée limitée d'immeubles
+dont le loyer annuel est supérieur à 12.000 F (1) et généralement tous les actes soumis volontairement à la formalité de
+l'enregistrement;
 
-3° Les mutations résultant de conventions verbales visées aux articles 638, 639 et 640;
+3° Les mutations résultant de conventions verbales visées aux articles 638, 639 et 640 ;
 
 4° Les mutations par décès.
 
@@ -44837,21 +46156,19 @@ supérieur à 10.000 F (1) et généralement tous les actes soumis volontairemen
 
 	**Cite**:
 
-	  - CGI 634
-	  - CGI 635 1, 2 1° à 9°
-	  - CGI 636
-	  - CGI 638
-	  - CGI 639
-	  - CGI 640
-	  - CGI 740 II 1°
+	  - CGI 634, 635, 636, 638, 639, 640, 740
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°90-1169 du 29 décembre 1990 - art. 49 (V) JORF 30 décembre 1990
+	  - Loi - art. 29 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -45057,22 +46374,25 @@ proportionnelle est perçue seulement sur le montant de cette augmentation.
 
 ###### Article 674
 
-Il ne peut être perçu moins de 70 F [*montant minimum*] dans les cas où les sommes et valeurs ne produiraient pas 70 F de
-droit ou taxe proportionnels ou de droit progressif.
+Il ne peut être perçu moins de 100 F dans les cas où les sommes et valeurs ne produiraient pas 100 F de droit ou taxe
+proportionnels ou de droit progressif (1).
+
+(1) Tarif et limite applicables à compter du 15 janvier 1992.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
 
 	**Liens**:
 
+	  - HISTO: Edition du 4 juillet 1992
 	  - TXT_ASSOCIE: Instruction 1992-01-06 7B-1-92
 
 	**Modifié par**:
 
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 18 () JORF 31 décembre 1985, en vigueur le 1er janvier 1986
+	  - Loi - art. 48 () JORF 31 décembre 1991
 
 
 ###### Article 675
@@ -45200,23 +46520,30 @@ publicité foncière.
 ###### Article 680
 
 Tous les actes qui ne se trouvent ni exonérés, ni tarifés par aucun autre article du présent code et qui ne peuvent donner
-lieu à une imposition proportionnelle ou progressive sont soumis à une imposition fixe de 430 F [*montant*].
+lieu à une imposition proportionnelle ou progressive sont soumis à une imposition fixe de 500 F (1).
+
+(1) Tarif applicable à compter du 15 janvier 1992.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 7 (V) JORF 31 décembre 1986
+	  - Loi - art. 43 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
 	  - Arrêté du 6 janvier 2011 - art. (V)
 	  - Code général des impôts, CGI. - art. 1048 ter (VD)
 	  - Code général des impôts, CGI. - art. 810 bis (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 2000-12-05 7H-5-00
 
 
 ###### Article 681
@@ -45313,78 +46640,78 @@ ou au droit proportionnel d'enregistrement que sur ce qui excède le prix de la 
 acquitté.
 
 Lorsque le prix n'est pas supérieur à celui de la précédente adjudication et si celle-ci a été enregistrée ou soumise à la
-formalité fusionnée, l'adjudication à la folle enchère est assujettie à une imposition fixe de 430 F.
+formalité fusionnée, l'adjudication à la folle enchère est assujettie à une imposition fixe de 500 F (1).
 
-**Nota:**
-
-Nota : Les droits d'enregistrement et la taxe de publicité foncièr exigibles sur les mutations de propriété à titre onéreux
-d'immeubles ont été transférés aux départements dans les conditions fixées aux articles 1594 A à 1594 E (loi n° 83-1179 du 29
-décembre 1983, art. 28).
+(1) Tarif applicable à compter du 15 janvier 1992.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 7 (V) JORF 31 décembre 1986
-
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi - art. 43 (V) JORF 31 décembre 1991
 
 
 ###### Article 686
 
 Les déclarations ou élections de command ou d'ami, par suite d'adjudication ou contrat de vente de biens immeubles sont
-assujetties à une imposition fixe de 430 F [*montant*] lorsque la faculté d'élire command a été réservée dans l'acte
-d'adjudication ou le contrat de vente et que la déclaration est faite par acte public et notifiée dans les vingt-quatre
-heures de l'adjudication ou du contrat [*délai*].
+assujetties à une imposition fixe de 500 F (1) lorsque la faculté d'élire command a été réservée dans l'acte d'adjudication
+ou le contrat de vente et que la déclaration est faite par acte public et notifiée dans les vingt-quatre heures de
+l'adjudication ou du contrat.
 
 Si la déclaration est faite après les vingt-quatre heures de l'adjudication ou du contrat, ou lorsque la faculté d'élire un
 command n'y a pas été réservée, les déclarations ou élections de command ou d'ami prévues au premier alinéa, sont assujetties
 à l'impôt aux taux prévus par le présent code.
 
-**Nota:**
-
-Nota : Les droits d'enregistrement et la taxe de publicité foncière exigibles sur les mutations de propriété à titre onéreux
-d'immeubles ont été transférés aux départements dans les conditions fixées aux articles 1594 A à 1594 E (loi n° 83-1179 du 29
-décembre 1983, art. 28).
+(1) Tarif applicable à compter du 15 janvier 1992.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 7 (V) JORF 31 décembre 1986
-
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi - art. 43 (V) JORF 31 décembre 1991
 
 
 ###### Article 687
 
 Les déclarations d'adjudicataires faites au greffe conformément à l'article 707 du code de procédure civile sont assujetties
-à une taxe fixe de publicité foncière de 70 F [*montant*] lorsque la publicité n'en est pas requise en même temps que celle
-des actes passibles de l'imposition proportionnelle.
+à une taxe fixe de publicité foncière de 100 F (1) lorsque la publicité n'en est pas requise en même temps que celle des
+actes passibles de l'imposition proportionnelle.
 
-**Nota:**
-
-Nota : Les droits d'enregistrement et la taxe de publicité foncière exigibles sur les mutations de propriété à titre onéreux
-d'immeubles ont été transférés aux départements dans les conditions fixées aux articles 1594 A à 1594 E (loi n° 83-1179 du 29
-décembre 1983, art. 28).
+(1) Tarif applicable à compter du 15 janvier 1992.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 18 () JORF 31 décembre 1985, en vigueur le 1er janvier 1986
+	  - Loi - art. 48 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
 
 	**Cite**:
 
 	  - Code de procédure civile - art. 707 (Ab)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 688
@@ -46167,27 +47494,30 @@ décembre 1983, art. 28
 ###### Article 709
 
 Par dérogation aux dispositions de l'article 708, deuxième alinéa, le taux de la taxe de publicité foncière ou du droit
-d'enregistrement est réduit à 2 % lorsque la commission départementale de réorganisation foncière et de remembrement estime
-que l'échange est de nature à favoriser les conditions de l'exploitation agricole des immeubles échangés (1).
+d'enregistrement est réduit à 2 % lorsque la commission départementale d'aménagement foncier estime que l'échange est de
+nature à favoriser les conditions de l'exploitation agricole des immeubles échangés (1).
 
-(1) Annexe I, art. 230.
-
-**Nota:**
-
-Nota : Les droits d'enregistrement et la taxe de publicité foncière exigibles sur les mutations de propriété à titre onéreux
-d'immeubles ont été transférés aux départements dans les conditions fixées aux articles 1594 A à 1594 E (loi n° 83-1179 du 29
-décembre 1983, art. 28
+(1) Annexe II, art. 291 A.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 708
-	  - CGIAN1 230
+	  - CGIAN2 291 A
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
+
+	**Abrogé par**:
+
+	  - Loi n°98-1266 1998-12-30 art. 39 I 4 JORF 31 décembre 1998
 
 
 ##### e : Immeubles destinés à l'habitation et garages
@@ -46382,31 +47712,30 @@ Pendant la durée du remboursement des emprunts contractés en vue de la constru
 d'habitations individuelles à loyer modéré ayant pour but de substituer des personnes solvables, remplissant les conditions
 de la législation sur les habitations à loyer modéré, aux bénéficiaires de cette législation qui justifieraient être dans
 l'impossibilité de les habiter ou être privés de ressources nécessaires pour faire face à leurs obligations, sont soumises à
-une imposition de 430 F [*montant*].
+une imposition de 500 F (1).
 
-Le bénéfice de cette disposition est subordonné à l'autorisation du trésorier-payeur général [*autorité compétente*], après
-avis du conseil départemental de l'habitat.
+Le bénéfice de cette disposition est subordonné à l'autorisation du trésorier-payeur général, après avis du conseil
+départemental de l'habitat.
 
-**Nota:**
-
-Nota : Les droits d'enregistrement et la taxe de publicité foncièr exigibles sur les mutations de propriété à titre onéreux
-d'immeubles ont été transférés aux départements dans les conditions fixées aux articles 1594 A à 1594 E (loi n° 83-1179 du 29
-décembre 1983, art. 28
+(1) Tarif applicable à compter du 15 janvier 1992.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°84-702 1984-06-30 art. 2 JORF 24 juillet 1984
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 7 (V) JORF 31 décembre 1986
+	  - Loi - art. 43 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quindecies (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 717
@@ -46414,10 +47743,12 @@ décembre 1983, art. 28
 Les résolutions volontaires ou judiciaires de contrats de vente de maisons individuelles répondant aux conditions fixées pour
 les habitations à loyer modéré par l'article L411-1 du code de la construction et de l'habitation et construites par les
 centres d'action sociale, hospices ou hôpitaux, les caisses d'épargne, les sociétés de construction ou par des particuliers,
-sont soumises à une imposition de 430 F [*montant*].
+sont soumises à une imposition de 500 F (1).
 
 Cette disposition est applicable aux locaux à usage artisanal entrant dans les prévisions de l'article 1er de la loi du 2
 août 1932, facilitant la construction de ces locaux.
+
+(1) Tarif applicable à compter du 15 janvier 1992.
 
 **Liens relatifs à cet article**
 
@@ -46426,13 +47757,17 @@ août 1932, facilitant la construction de ces locaux.
 	  - Code de la construction L411-1
 	  - Loi n°1932-08-02 art. 1
 
-	**Modifié par**:
-
-	  - Loi n°86-17 du 6 janvier 1986 - art. 57 () JORF 8 janvier 1986
-
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi - art. 43 (V) JORF 31 décembre 1991
 
 
 ##### III : Mutations de propriété à titre onéreux de meubles
@@ -46680,9 +48015,9 @@ Le droit est assis [*assiette*] sur le prix exprimé et le capital des charges q
 estimation des parties si la valeur réelle est supérieure au prix augmenté des charges.
 
 Toutefois, ce droit n'est pas applicable aux acquisitions de droits sociaux effectuées par une société créée en vue de
-racheter une autre société dans les conditions prévues à l'article 220 quater ou 220 quater A. Lorsque le rachat a été soumis
-à l'accord du ministre chargé des finances, prévu à l'article 220 quater B, le bénéfice des présentes dispositions est
-subordonné à cet accord (1).
+racheter une autre société dans les conditions prévues aux articles 83 ter, 199 terdecies A, 220 quater ou 220 quater A.
+Lorsque le rachat a été soumis à l'accord du ministre chargé des finances, prévu à l'article 220 quater B, le bénéfice des
+présentes dispositions est subordonné à cet accord (1).
 
 (1)  Voir l'article 1740 quinquies.
 
@@ -46690,14 +48025,15 @@ subordonné à cet accord (1).
 
 	**Cite**:
 
-	  - CGI 1740 quinquies
-	  - CGI 220 quater
-	  - CGI 220 quater A
-	  - CGI 220 quater B
+	  - CGI 83 ter, 199 terdecies A, 220 quater, 220 quater A, 220 quater B, 1740 quinquies
 
 	**Modifié par**:
 
-	  - Loi - art. 12 () JORF 30 décembre 1990
+	  - Loi n°91-1322 1991-12-30 art. 90 Finances pour 1992 JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -46713,10 +48049,6 @@ subordonné à cet accord (1).
 	  - Code général des impôts, CGI. - art. 730 quinquies (V)
 	  - Code général des impôts, CGI. - art. 885 T ter (V)
 	  - Code monétaire et financier - art. L221-31 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
 
 
 ##### 2 : Régimes spéciaux
@@ -46810,18 +48142,28 @@ n'entraînent l'exigibilité d'aucun droit d'enregistrement (1).
 
 Les cessions de gré à gré de parts de groupements agricoles d'exploitation en commun [*GAEC*] et d'exploitations agricoles à
 responsabilité limitée mentionnées au 5° de l'article 8 et représentatives d'apports de cheptel et autres biens mobiliers
-dépendant d'une exploitation agricole sont enregistrées au droit fixe de 430 F [*montant*] lorsqu'elles ne sont pas
-corrélatives à la cession au même acquéreur de parts représentatives du fonds exploité.
+dépendant d'une exploitation agricole sont enregistrées au droit fixe de 500 F (1) lorsqu'elles ne sont pas corrélatives à la
+cession au même acquéreur de parts représentatives du fonds exploité.
+
+(1) Tarif applicable à compter du 15 janvier 1992.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 8 5°
+	  - CGI 8
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°89-935 1989-12-29 art. 27 I Finances pour 1990 JORF 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+	  - Loi - art. 43 (V) JORF 31 décembre 1991
 
 
 ###### Article 730 quater
@@ -46863,17 +48205,19 @@ ayants droit à titre gratuit, dès lors que ces apporteurs étaient parents ou 
 
 ###### Article 731
 
-Les cessions de brevets et des certificats d'obtention végétale sont enregistrées au droit fixe de 430 F [*montant*].
+Les cessions de brevets et des certificats d'obtention végétale sont enregistrées au droit fixe de 500 F (1) [*montant*].
+
+(1) Tarif applicable à compter du 15 janvier 1992.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 7 (V) JORF 31 décembre 1986
+	  - Loi - art. 43 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-836 1992-08-27
 
 
 ##### F : Cessions d'un fonds agricole ou de certains biens dépendant d'une exploitation agricole
@@ -46881,18 +48225,23 @@ Les cessions de brevets et des certificats d'obtention végétale sont enregistr
 ###### Article 732
 
 Les actes constatant la cession de gré à gré de cheptel et autres objets mobiliers dépendant d'une exploitation agricole sont
-enregistrés au droit fixe de 430 F [*montant*] lorsque cette cession n'est pas corrélative à la vente totale ou partielle du
-fonds.
+enregistrés au droit fixe de 500 F (1) lorsque cette cession n'est pas corrélative à la vente totale ou partielle du fonds.
+
+(1) Tarif applicable à compter du 15 janvier 1992.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
 	**Modifié par**:
 
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 7 (V) JORF 31 décembre 1986
+	  - Loi - art. 43 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-836 1992-08-27
 
 
 ##### G : Autres biens mobiliers
@@ -47001,7 +48350,7 @@ lesquels le droit d'enregistrement n'est pas établi, sont assujettis à un droi
 
 ###### Article 738
 
-Sont enregistrées au droit fixe de 430 F [*montant*] :
+Sont enregistrées au droit fixe de 500 F (1) [*montant*] :
 
 1° Les cessions, subrogations, rétrocessions et résiliations de baux à durée limitée de biens de toute nature.
 
@@ -47013,6 +48362,8 @@ résultée de la convention ;
 
 3° Les concessions de droit d'exploitation de certificats d'obtention végétale.
 
+(1) Tarif applicable à compter du 15 janvier 1992.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -47022,30 +48373,36 @@ résultée de la convention ;
 
 	**Modifié par**:
 
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 7 (V) JORF 31 décembre 1986
+	  - Loi - art. 43 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 739
 
 Les actes constatant des baux à durée limitée d'immeubles autres que des immeubles ruraux sont assujettis à un droit fixe de
-70 F [*montant*] lorsque l'enregistrement en est requis par les parties.
+100 F (1) lorsque l'enregistrement en est requis par les parties.
 
 Le même droit est applicable en cas de présentation à la formalité de baux écrits d'immeubles ruraux dispensés de
 l'enregistrement.
 
+(1) Tarif applicable à compter du 15 janvier 1992.
+
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 18 () JORF 31 décembre 1985, en vigueur le 1er janvier 1986
+	  - Loi - art. 48 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 740
@@ -48514,12 +49871,12 @@ donations ainsi que, le cas échéant, les noms, qualités et résidences des of
 donation, et la date de l'enregistrement de ces actes.
 
 La perception est effectuée en ajoutant à la valeur des biens compris dans la donation ou la déclaration de succession celle
-des biens qui ont fait l'objet de donations antérieures et, lorsqu'il y a lieu à application d'un tarif progressif, en
-considérant ceux de ces biens dont la transmission n'a pas encore été assujettie au droit de mutation à titre gratuit comme
-inclus dans les tranches les plus élevées de l'actif imposable.
+des biens qui ont fait l'objet de donations antérieures , à l'exception de celles passées depuis plus de dix ans, et,
+lorsqu'il y a lieu à application d'un tarif progressif, en considérant ceux de ces biens dont la transmission n'a pas encore
+été assujettie au droit de mutation à titre gratuit comme inclus dans les tranches les plus élevées de l'actif imposable.
 
 Pour le calcul des abattements et réductions édictés par les articles 779 et 780, il est tenu compte des abattements et des
-réductions effectués sur les donations antérieures consenties par la même personne.
+réductions effectués sur les donations antérieures visées à l'alinéa précédent consenties par la même personne.
 
 **Liens relatifs à cet article**
 
@@ -48538,7 +49895,12 @@ réductions effectués sur les donations antérieures consenties par la même pe
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 1992-04-13 7G-2-92
+
+	**Modifié par**:
+
+	  - Loi - art. 15 () JORF 31 décembre 1991
 
 
 ###### Article 784 A
@@ -48821,6 +50183,10 @@ L'exonération ne s'applique pas aux parts de groupements fonciers agricoles qui
 société civile régie par la loi n° 70-1300 du 31 décembre 1970 fixant le régime applicable aux sociétés civiles autorisées à
 faire publiquement appel à l'épargne ou par une entreprise d'assurance ou de capitalisation ;
 
+Les dispositions de la loi n° 70-1299 du 31 décembre 1970 relative aux groupements fonciers agricoles [*GFA*] peuvent être
+étendues et adaptées aux départements d'outre-mer par décret en Conseil d'Etat, après avis des conseils généraux de ces
+départements (2).
+
 5° Les reversions de rentes viagères entre époux ou entre parents en ligne directe ;
 
 6° La transmission par décès du bénéfice du contrat de travail à salaire différé dont la dévolution est régie par l'article
@@ -48831,9 +50197,11 @@ faire publiquement appel à l'épargne ou par une entreprise d'assurance ou de c
 2° Les successions et donations entre vifs, à concurrence des trois-quarts de leur montant, intéressant les propriétés en
 nature de bois et forêts, à condition que soient appliquées les dispositions prévues aux articles 703, 1840 G bis-II et III,
 et 1929-3 ;    3° Les biens donnés à bail dans les conditions prévues aux articles L. 416-1 à L. 416-6, L. 416-8 et L. 416-9
-du code rural, à concurrence des trois quarts de leur valeur, sous réserve des dispositions de l'article 793 bis (2).
+du code rural, à concurrence des trois quarts de leur valeur, sous réserve des dispositions de l'article 793 bis (3).
 
 (1) Pour l'application du 4° dans les départements d'outre-mer, se reporter à l'article 822 IV.
+
+(2) Voir décret n° 179-146 du 14 février 1979.
 
 (2) Ces dispositions s'appliquent aux successions ouvertes et aux donations consenties à compter du 1er juillet 1992.
 
@@ -48841,11 +50209,12 @@ du code rural, à concurrence des trois quarts de leur valeur, sous réserve des
 
 	**Cite**:
 
-	  - CGI 703, 793 bis, 1840 G bis-II, 822 IV
+	  - CGI 703, 793 bis, 1840 G bis, 822 IV, 923
+	  - Code rural L416-1 à L416-6, L416-8, L416-9
 	  - Loi n°62-933 1962-08-08
 	  - Loi n°70-1299 1970-12-31
 	  - Loi n°70-1300 1970-12-31
-	  - Code rural L416-1 à L416-6, L416-8, L416-9
+	  - Décret n°179-146 1979-02-14
 	  - Décret n°1939-07-29 art. 64
 
 	**Cité par**:
@@ -48885,13 +50254,17 @@ du code rural, à concurrence des trois quarts de leur valeur, sous réserve des
 	  - Code rural - art. L322-16 (V)
 	  - Code rural - art. L371-11 (VD)
 
-	**Modifié par**:
-
-	  - Loi - art. 59 (V) JORF 31 décembre 1991, modification directe incorporée dans l'édition du 4 juillet 1992
-
 	**Liens**:
 
 	  - TXT_ASSOCIE: Instruction 1992-03-12 7G-1-92
+
+	**Modifié par**:
+
+	  - Loi n°70-1299 du 31 décembre 1970 - art. 14 (Ab) JORF 1er janvier 1971
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 793 bis
@@ -48987,7 +50360,7 @@ d'invalidité et de maternité (1).
 Sont exonérés des droits de mutation à titre gratuit :
 
 1° Les dons et legs d'oeuvres d'art, de monuments ou d'objets ayant un caractère historique, de livres, d'imprimés ou de
-manuscrits, faits aux établissements pourvus de la personnalité civile, autres que ceux visés à l'article 794-I, si ces
+manuscrits, faits aux établissements pourvus de la personnalité civile, autres que ceux visés au I de l'article 794, si ces
 oeuvres et objets sont destinés à figurer dans une collection publique;
 
 2° Les dons et legs consentis aux établissements publics ou d'utilité publique, dont les ressources sont exclusivement
@@ -48995,8 +50368,8 @@ affectées à des oeuvres scientifiques, culturelles ou artistiques à caractèr
 
 3° (Abrogé) ;
 
-4° Les dons et legs faits aux établissements publics charitables autres que ceux visés à l'article 794-I, aux mutuelles et à
-toutes autres sociétés reconnues d'utilité publique dont les ressources sont affectées à des oeuvres d'assistance.
+4° Les dons et legs faits aux établissements publics charitables autres que ceux visés au I de l'article 794, aux mutuelles
+et à toutes autres sociétés reconnues d'utilité publique dont les ressources sont affectées à des oeuvres d'assistance.
 
 Il est statué sur le caractère de bienfaisance de la disposition par le décret rendu en conseil d'Etat ou l'arrêté
 préfectoral qui en autorise l'acceptation;
@@ -49006,9 +50379,9 @@ de la loi du 18 mars 1880 et aux sociétés d'éducation populaire gratuite reco
 l'Etat;
 
 6° Les dons et legs de sommes d'argent ou d'immeubles faits aux établissements pourvus de la personnalité civile autres que
-ceux visés à l'article 794-I avec obligation, pour les bénéficiaires, de consacrer ces libéralités à l'achat d'oeuvres d'art,
-de monuments ou d'objets ayant un caractère historique, de livres, d'imprimés ou de manuscrits, destinés à figurer dans une
-collection publique, ou à l'entretien d'une collection publique;
+ceux visés au I de l'article 794 avec obligation, pour les bénéficiaires, de consacrer ces libéralités à l'achat d'oeuvres
+d'art, de monuments ou d'objets ayant un caractère historique, de livres, d'imprimés ou de manuscrits, destinés à figurer
+dans une collection publique, ou à l'entretien d'une collection publique;
 
 7° Les dons et legs faits aux organismes d'habitations à loyer modéré ou à leurs unions;
 
@@ -49018,30 +50391,30 @@ collection publique, ou à l'entretien d'une collection publique;
 
 10° Les dons et legs faits aux associations cultuelles, aux unions d'associations cultuelles et aux congrégations autorisées;
 
-11° Les dons et legs faits aux établissements publics ou d'utilité publique autres que ceux visés à l'article 794-I, aux
+11° Les dons et legs faits aux établissements publics ou d'utilité publique autres que ceux visés au I de l'article 794, aux
 sociétés particulières ou autres groupements régulièrement constitués, en tant qu'ils sont affectés, par la volonté expresse
 du donateur ou du testateur, à l'érection de monuments aux morts de la guerre ou à la gloire de nos armes et des armées
 alliées.
 
-12° Les dons et legs d'immeubles situés dans les zones définies à l'article 1er de la loi n° 75-602 du 10 juillet 1975, faits
-au profit du Conservatoire de l'espace littoral et des rivages lacustres.
+12° Les dons et legs d'immeubles situés dans les zones définies à l'article L243-1 du code rural, faits au profit du
+Conservatoire de l'espace littoral et des rivages lacustres.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 794 I
-	  - Loi n°75-602 du 10 juillet 1975 - art. 1 (M)
+	  - CGI 794
+	  - Code rural L243-1
 	  - Loi n°1880-03-18 art. 7
 
 	**Modifié par**:
 
-	  - Loi n°87-571 1987-07-23 art. 14 I, II JORF 24 juillet 1985
-	  - Loi n°87-571 du 23 juillet 1987 - art. 14 () JORF 24 juillet 1985
+	  - Loi n°75-602 du 10 juillet 1975 - art. 3 (Ab) JORF 11 juillet 1975
+	  - Loi n°86-2 du 3 janvier 1986 - art. 42 () JORF 4 janvier 1986
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -49057,6 +50430,11 @@ au profit du Conservatoire de l'espace littoral et des rivages lacustres.
 	  - Code général des impôts, CGI. - art. 990 J (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 281 K (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 281 L (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code rural L243-8
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 795 A
@@ -49483,94 +50861,62 @@ Nota : Voir également art. 1717 bis
 	  - HISTO: EDITION 1979-07-01
 
 
-##### Apports à une société, personne morale ou groupement.
+##### 2° : Apports à une société, personne morale ou groupement
 
 ###### Article 809
 
-I. Sous réserve des dispositions de l'article 257-7° :
+I. Sous réserve des dispositions du 7° de l'article 257 :
 
-1° Les actes de formation de sociétés ou de groupements d'intérêt économique [*GIE*] qui ne contiennent pas transmission de
-biens meubles ou immeubles, entre les associés ou autres personnes, sont assujettis au droit d'enregistrement ou à la taxe de
+1° Les actes de formation de sociétés ou de groupements d'intérêt économique qui ne contiennent pas transmission de biens
+meubles ou immeubles, entre les associés ou autres personnes, sont assujettis au droit d'enregistrement ou à la taxe de
 publicité foncière sur le montant des apports déduction faite du passif ;
 
 2° Les apports immobiliers qui sont faits aux associations constituées conformément à la loi du 1er juillet 1901 et au Livre
-IV, titre Ier, du code du travail [*art. L410-1 à L413-2*] (syndicats professionnels) sont soumis aux mêmes droits ou taxes
-que les apports aux sociétés civiles ou commerciales ;
+IV, titre Ier, du code du travail (syndicats professionnels) sont soumis aux mêmes droits ou taxes que les apports aux
+sociétés civiles ou commerciales ;
 
 3° Les apports faits à une personne morale passible de l'impôt sur les sociétés par une personne non soumise à cet impôt sont
 assimilés à des mutations à titre onéreux dans la mesure où ils ont pour objet un immeuble ou des droits immobiliers, un
-fonds de commerce, une clientèle, un droit à un bail ou à une promesse de bail.
+fonds de commerce, une clientèle, un droit à un bail ou à une promesse de bail (1).
 
-I bis. En cas d'apport réalisé à compter du 1er avril 1981 [*date, point de départ*], dans les conditions fixées au II de
-l'article 151 octies, par une personne physique à une société de l'ensemble des éléments d'actif immobilisé affectés à
-l'exercice d'une activité professionnelle, la prise en charge du passif, dont sont grevés les biens de la nature de ceux
-énumérés au I-3° qui sont compris dans l'apport, donne ouverture à un droit de mutation dont le taux est ramené à 8,60 %
-prévu par l'article 810-III.
+I bis. En cas d'apport réalisé à compter du 1er avril 1981, dans les conditions fixées au II de l'article 151 octies, par une
+personne physique à une société de l'ensemble des éléments d'actif immobilisé affectés à l'exercice d'une activité
+professionnelle, la prise en charge du passif, dont sont grevés les biens de la nature de ceux énumérés au 3° du I qui sont
+compris dans l'apport, donne ouverture à un droit de mutation dont le taux est ramené à 8,60 % prévu par le III de l'article
+810. Pour les apports réalisés à compter du 1er janvier 1992, le droit de mutation est remplacé par un droit fixe de 500 F
+(2) si l'apporteur s'engage à conserver pendant cinq ans les titres remis en contrepartie de l'apport. En cas de non-respect
+de l'engagement de conservation des titres, les dispositions prévues au III de l'article 810 sont applicables.
 
-Si la société cesse de remplir les conditions qui lui ont permis de bénéficier de cet avantage, la différence entre le droit
-de mutation et le droit d'apport de 8,60 % prévu à l'article 810-III est exigible immédiatement.
+Si la société cesse de remplir les conditions qui lui ont permis de bénéficier de cet avantage, la différence entre, d'une
+part, le droit de mutation majoré des taxes additionnelles et, d'autre part, les droits et taxes initialement acquittés est
+exigible immédiatement.
 
 II. Lorsqu'une personne morale dont les résultats ne sont pas soumis à l'impôt sur les sociétés devient passible de cet
 impôt, le changement de son régime fiscal rend les droits et taxes de mutation à titre onéreux exigibles sur les apports purs
-et simples qui lui ont été faits depuis le 1er août 1965 par des personnes non soumises audit impôt (1).
+et simples qui lui ont été faits depuis le 1er août 1965 par des personnes non soumises audit impôt (3). Les droits sont
+perçus  sur la valeur vénale des biens à la date du changement.
 
-III. 1° Les apports visés au 3° du paragraphe I faits à une société d'exercice libéral à responsabilité limitée, à forme
-anonyme ou en commandite par actions, sont soumis au droit d'enregistrement ou à la taxe de publicité foncière au taux de 1
-p. 100.
+III. (Abrogé).
 
-2° Les sociétés non soumises à l'impôt sur les sociétés qui se transforment en une société visée au 1° sont exonérées des
-droits prévus au paragraphe II.
+(1) cf. Jurisprudence 1997-10-24 7H-1-97.
 
-3° Les dispositions du 1° et du 2° s'appliquent lorsque :
+(2) A compter du 15 janvier 1992, 430 F du 1er janvier au 14 janvier 1992.
 
-a) La profession libérale ne pouvait être exercée sous forme de société à responsabilité limitée ou de société de capitaux
-avant l'entrée en vigueur de la loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des
-professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé ;
-
-b) Les biens apportés étaient affectés à l'exercice d'une activité libérale avant l'expiration d'un délai d'un an suivant la
-publication de la loi mentionnée au a ;
-
-c) L'apport ou la transformation intervient dans les trois ans de la publication de la loi n° 90-1258 du 31 décembre 1990
-précitée ;
-
-d) L'apporteur, en cas d'apport, ou les associés, en cas de transformation, s'engagent à conserver pendant cinq ans les
-droits sociaux remis en contrepartie de l'apport ou détenus à la date du changement de régime fiscal.
-
-Lorsque l'engagement n'est pas respecté, le droit prévu au paragraphe II ci-dessus, majoré des taxes additionnelles, devient
-immédiatement exigible.
-
-4° Les biens qui ont bénéficié du régime de faveur prévu aux 1° et 2° sont soumis aux droits de mutation à titre onéreux
-s'ils sont attribués, lors du partage social, à un associé autre que l'apporteur et au droit prévu au paragraphe III de
-l'article 810 s'ils sont apportés à une autre société passible de l'impôt sur les sociétés.
-
-(1) Annexe II, art. 295 à 301.
+(3) Annexe II, art. 295 à 301. [*Cf. Jurisprudence 1993-07-21 7H-1-93*].
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 151 octies II
-	  - CGI 1717 bis
-	  - CGI 257 7°
-	  - CGI 810 III
-	  - CGIAN2 295
-	  - CGIAN2 296
-	  - CGIAN2 297
-	  - CGIAN2 298
-	  - CGIAN2 299
-	  - CGIAN2 300
-	  - CGIAN2 301
-	  - Loi n°90-1258 1990-12-31
+	  - CGI 257, 810, 151 octies
+	  - CGIAN2 295 à 301
 	  - Loi n°1901-07-01
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°90-1258 1990-12-31 art. 33
-	  - HISTO: Edition du 24 juin 1991
 
 	**Modifié par**:
 
-	  - Loi n°90-1258 du 31 décembre 1990 - art. 20 () JORF 5 janvier 1991 en vigueur le 1er janvier 1992, art. 33
+	  - Loi - art. 12 () JORF 31 décembre 1991
+	  - Loi - art. 13 () JORF 31 décembre 1991
+	  - Loi - art. 43 (V) JORF 31 décembre 1991
 
 	**Cité par**:
 
@@ -49581,6 +50927,12 @@ l'article 810 s'ils sont apportés à une autre société passible de l'impôt s
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 295 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 C (V)
 
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 1992-06-01 7H-1-92
+	  - TXT_ASSOCIE: Jurisprudence 1993-07-21 7H-1-93 Jurisprudence 1997-10-24 7H-1-97
+
 
 ###### Article 810
 
@@ -49588,8 +50940,8 @@ I. L'enregistrement des apports donne lieu au paiement d'un droit fixe de 500 F 
 
 II. (Abrogé).
 
-III. Le taux normal du droit d'enregistrement ou de la taxe de publicité foncière perçus sur les apports visés à l'article
-809-I-3° et II est fixé à 8,60 %.
+III. Le taux normal du droit d'enregistrement ou de la taxe de publicité foncière perçus sur les apports visés au 3° du I et
+au II de l'article 809 est fixé à 8,60 %.
 
 A partir du 1er janvier 1991, ce taux est réduit à 1 p. 100 sur les apports de fonds de commerce, de clientèle, de droit à un
 bail ou à une promesse de bail visés au 3° du I et au II de l'article 809 si l'apporteur en cas d'apport, ou les associés en
@@ -49614,6 +50966,9 @@ les sociétés.
 
 III bis. (Disposition périmée).
 
+III ter. Les dispositions du III sont applicables, sous les mêmes conditions, aux immeubles apportés lors de la résiliation
+anticipée d'un bail à construction selon les modalités prévues à l'article 150 V.
+
 IV. Le droit fixe mentionné au I se substitue aux droits proportionnels visés au III pour les apports donnant lieu au
 paiement de la taxe sur la valeur ajoutée.
 
@@ -49621,17 +50976,21 @@ V. (Abrogé).
 
 (1) A compter du 15 janvier 1992.
 
+[*Cf. Instruction 1995-08-21 7H-1-95.*]
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 809
+	  - CGI 809, 150 V
 
 	**Modifié par**:
 
-	  - Loi - art. 12 () JORF 31 décembre 1991
-	  - Loi - art. 43 (V) JORF 31 décembre 1991
-	  - Modification directe incorporée dans l'édition du 4 juillet 1992
+	  - Loi - art. 95 (V) JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -49645,10 +51004,9 @@ V. (Abrogé).
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code rural - art. L322-15 (V)
-	  - TXT_ASSOCIE: Instruction 1992-06-01 7H-1-92
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 1992-06-01 7H-1-92 Instruction 1995-08-21 7H-1-95
 
-
-##### 2° : Apports à une société, personne morale ou groupement
 
 ###### Article 811
 
@@ -49763,27 +51121,6 @@ les conditions de droit commun entre le 1er janvier 1959 et le 31 décembre 1976
 	  - Loi n°93-1352 du 30 décembre 1993 - art. 17 (V) JORF 31 décembre 1993
 
 
-###### Article 814 B
-
-L'incorporation au capital, effectuée dans les conditions prévues au deuxième alinéa de l'article 44 ter, des bénéfices
-qu'une société s'oblige à maintenir dans l'exploitation en vertu de l'article précité est enregistrée gratuitement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 44 ter
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°81-1160 du 30 décembre 1981 - art. 84 (P) JORF 31 décembre 1981
-
-
 ##### 2 : Actes de fusion
 
 ###### Article 816
@@ -49868,7 +51205,7 @@ onéreux en vertu du 3° du I de l'article 809.
 
 ###### Article 817
 
-I Les dispositions des articles 816 et 816 A s'appliquent aux scissions et aux apports partiels d'actif.
+I Les dispositions de l'article 816 et du II de l'article 816 A s'appliquent aux scissions et aux apports partiels d'actif.
 
 II Toutefois, le droit de 1,20 % [*taux*] ne frappe que l'excédent de la valeur nominale des titres reçus en rémunération
 d'un apport partiel d'actif et répartis en franchise d'impôt dans le délai d'un an à compter de la réalisation de l'apport
@@ -49878,17 +51215,16 @@ sur le montant de la réduction de capital éventuellement opérée par la soci�
 
 	**Cite**:
 
-	  - CGI 815
 	  - CGI 816
 	  - CGI 816 A
 
 	**Modifié par**:
 
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 36 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+	  - Loi - art. 12 () JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -49899,27 +51235,24 @@ sur le montant de la réduction de capital éventuellement opérée par la soci�
 
 ###### Article 817 A
 
-Un décret en Conseil d'Etat (1) fixe les conditions d'application des articles 816, 816 A et 817, notamment la définition des
-apports partiels d'actif, fusions ou opérations assimilables, au sens de la directive du 9 avril 1973 du conseil des
-communautés européennes, à des fusions ouvrant droit au régime spécial et, pour ces dernières opérations, les cas de
-déchéance de ce régime.
+Un décret en Conseil d'Etat (1) fixe les conditions d'application de l'article 816, du II de l'article 816 A et de l'article
+817, notamment la définition des apports partiels d'actif, fusions ou opérations assimilables, au sens de la directive du 9
+avril 1973 du conseil des communautés européennes, à des fusions ouvrant droit au régime spécial et, pour ces dernières
+opérations, les cas de déchéance de ce régime.
 
-( 1)  Annexe II, art. 301 A à 301 F.
+**Nota:**
+
+(1) voir les articles 301 A à 301 F de l'annexe II.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CEE DIRECTIVE 1973-04-09
-	  - CGI 816
-	  - CGI 816 A
-	  - CGI 817
-	  - CGIAN2 301 A
-	  - CGIAN2 301 B
-	  - CGIAN2 301 C
-	  - CGIAN2 301 D
-	  - CGIAN2 301 E
-	  - CGIAN2 301 F
+	  - Loi - art. 12 () JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -49928,9 +51261,15 @@ déchéance de ce régime.
 	  - Code général des impôts, CGI. - art. 885 I quater (V)
 	  - Code général des impôts, CGI. - art. 885-0 V bis (V)
 
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 816 (V)
+	  - Code général des impôts, CGI. - art. 816 A (V)
+	  - Code général des impôts, CGI. - art. 817 (V)
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### C : Régimes spéciaux et exonérations
@@ -49989,7 +51328,7 @@ les résultats de cet exercice.
 
 ###### Article 827
 
-I. Sont soumis à un droit fixe d'enregistrement ou à une taxe fixe de publicité foncière de 430 F [*montant*] :
+I. Sont soumis à un droit fixe d'enregistrement ou à une taxe fixe de publicité foncière de 500 F (1) :
 
 1° Les actes constatant l'attribution d'actif net faite à un ou plusieurs organismes attributaires par une société
 d'habitations à loyer modéré, en vertu de l'article L422-11, premier alinéa, du code de la construction et de l'habitation,
@@ -50005,15 +51344,25 @@ loi n° 53-80 du 7 février 1953.
 
 II. (Abrogé).
 
+(1) A compter du 15 janvier 1992.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de la construction L422-11
-	  - Code de la construction L422-4
-	  - Loi n°1923-12-27 ART. 3
-	  - Loi n°1932-08-02 ART. 1
 	  - Loi n°53-80 du 7 février 1953 - art. 80, v. init.
+	  - Code de la construction et de l'habitation. - art. L422-11 (M)
+	  - Code de la construction et de l'habitation. - art. L422-4 (M)
+	  - Loi n°1923-12-27 art. 3
+	  - Loi n°1932-08-02 art. 1
+
+	**Modifié par**:
+
+	  - Loi - art. 43 (V) JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -50022,29 +51371,25 @@ II. (Abrogé).
 
 	**Liens**:
 
+	  - HISTO: Edition du 4 juillet 1992
 	  - TXT_ASSOCIE: Instruction 1992-06-01 7H-1-92
-
-	**Modifié par**:
-
-	  - Loi - art. 12 () JORF 31 décembre 1991
-	  - Modification directe incorporée dans l'édition du 4 juillet 1992
 
 
 ###### Article 828
 
-I. Sont soumis à un droit fixe d'enregistrement ou à une taxe fixe de publicité foncière de 1.220 F [*montant*] :
+I. Sont soumis à un droit fixe d'enregistrement ou à une taxe fixe de publicité foncière de 1.220 F :
 
 1° (Abrogé).
 
-2° Les actes par lesquels les sociétés ayant fonctionné conformément à l'objet défini au 1° augmentent leur capital,
-prorogent leur durée ou font à leurs membres, par voie de partage en nature à titre pur et simple, attribution exclusive en
-propriété des fractions, auxquelles ils ont vocation, d'immeubles ou groupes d'immeubles construits, acquis ou gérés par
-elles ; les sociétés susvisées qui ont bénéficié de prêts pour la réalisation de leur objet social peuvent se prévaloir de
-ces dispositions même si la répartition de ces prêts a pour effet d'enlever au partage son caractère pur et simple, pourvu
-que cette répartition ait été effectuée suivant les règles prévues par les organismes prêteurs.
+2° Les actes par lesquels les sociétés ayant fonctionné conformément à l'objet défini à l'article 1655 ter augmentent leur
+capital, prorogent leur durée ou font à leurs membres, par voie de partage en nature à titre pur et simple, attribution
+exclusive en propriété des fractions, auxquelles ils ont vocation, d'immeubles ou groupes d'immeubles construits, acquis ou
+gérés par elles ; les sociétés susvisées qui ont bénéficié de prêts pour la réalisation de leur objet social peuvent se
+prévaloir de ces dispositions même si la répartition de ces prêts a pour effet d'enlever au partage son caractère pur et
+simple, pourvu que cette répartition ait été effectuée suivant les règles prévues par les organismes prêteurs.
 
-Toutefois, pour les sociétés assujetties à la taxe sur la valeur ajoutée, en application de l'article 257-7°, le bénéfice de
-cette disposition est subordonné à la condition qu'elles justifient du règlement de la taxe due sur les opérations de
+Toutefois, pour les sociétés assujetties à la taxe sur la valeur ajoutée, en application du 7° de l'article 257, le bénéfice
+de cette disposition est subordonné à la condition qu'elles justifient du règlement de la taxe due sur les opérations de
 construction ;
 
 3° Les actes de dissolution et de partage des sociétés civiles visées à l'article L322-12 du code de l'urbanisme (1).
@@ -50057,14 +51402,13 @@ II. (Abrogé).
 
 	**Cite**:
 
-	  - CGI 257 7°
-	  - Loi n°85-729 1985-07-18
+	  - CGI 257 7°, 1655 ter
 	  - Code de l'urbanisme - art. L322-12 (Ab)
+	  - Loi n°85-729 1985-07-18
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Loi - art. 12 () JORF 31 décembre 1991
-	  - Modification directe incorporée dans l'édition du 4 juillet 1992
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -50072,7 +51416,12 @@ II. (Abrogé).
 
 	**Liens**:
 
+	  - HISTO: Edition du 4 juillet 1992
 	  - TXT_ASSOCIE: Instruction 1992-06-01 7H-1-92
+
+	**Modifié par**:
+
+	  - Loi - art. 12 () JORF 31 décembre 1991
 
 
 ##### 6 : Fonds communs de placement 
@@ -50206,15 +51555,17 @@ Note : L'abrogation s'applique aux opérations réalisées à compter du 15 octo
 ###### Article 844
 
 La taxe proportionnelle de publicité foncière applicable aux inscriptions d'hypothèques judiciaires ou conventionnelles
-visées à l'article 663-1° est perçue au taux de 0,60 %.
+visées au 1° de l'article 663 est perçue au taux de 0,60 %.
 
 Elle est liquidée sur les sommes garanties en capital, intérêts et accessoires, même indéterminées, éventuelles ou
 conditionnelles, exprimées ou évaluées dans le bordereau. Il n'est perçu qu'une seule taxe pour chaque créance quel que soit
 le nombre des créanciers requérants et celui des débiteurs grevés (1).
 
-Les inscriptions qui échappent à la taxe proportionnelle sont soumises à une taxe fixe de 70 F.
+Les inscriptions qui échappent à la taxe proportionnelle sont soumises à une taxe fixe de 100 F (2).
 
 (1) Voir Annexe III, art. 261.
+
+(2) A compter du 15 janvier 1992.
 
 **Liens relatifs à cet article**
 
@@ -50225,11 +51576,15 @@ Les inscriptions qui échappent à la taxe proportionnelle sont soumises à une 
 
 	**Modifié par**:
 
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 18 () JORF 31 décembre 1985, en vigueur le 1er janvier 1986
+	  - Loi n°91-1323 du 30 décembre 1991 - art. 48
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### B : Exonérations
@@ -50291,9 +51646,11 @@ Sont soumises à la taxe proportionnelle de publicité foncière au taux de 0,60
 ###### Article 846 bis
 
 I. Les attestations notariées visées au 3° de l'article 28 du décret n° 55-22 du 4 janvier 1955 sont soumises à une taxe fixe
-de publicité foncière ou, le cas échéant, à un droit fixe d'enregistrement de 70 F.
+de publicité foncière ou, le cas échéant, à un droit fixe d'enregistrement de 100 F (1).
 
 II. (Dispositions devenues sans objet).
+
+(1) A compter du 15 janvier 1992.
 
 **Liens relatifs à cet article**
 
@@ -50303,37 +51660,42 @@ II. (Dispositions devenues sans objet).
 
 	**Modifié par**:
 
-	  - Loi n°85-1403 1985-12-30 art. 18 II finances pour 1986, JORF 31 décembre 1985, en vigueur le 1er janvier 1986) M(Décret 83-359 1983-05-02 art. 21 JORF 3 mai 1983
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 18 () JORF 31 décembre 1985, en vigueur le 1er janvier 1986) M(Décret 83-359 1983-05-02 art. 21 JORF 3 mai 1983
+	  - Loi - art. 48 () JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 847
 
-Sont soumis à une imposition fixe de 430 F [*montant*] :
+Sont soumis à une imposition fixe de 500 F (1) :
 
 1° Les contrats de mariage, lorsqu'ils ne peuvent donner lieu à la perception d'une imposition proportionnelle ou progressive
 d'un montant plus élevé ;
 
 2° Les renonciations pures et simples à successions, legs ou communautés.
 
+(1) A compter du 15 janvier 1992.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 7 (V) JORF 31 décembre 1986
+	  - Loi - art. 43 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 848
 
-Sont soumis à un droit d'enregistrement de 430 F [*montant*] :
+Sont soumis à un droit d'enregistrement de 500 F (1) :
 
 1° Les certificats de propriété, autres que ceux établis par les secrétariats des juridictions judiciaires.
 
@@ -50350,15 +51712,21 @@ et des dispositions de même nature qui sont faites par contrat de mariage entre
 
 6° Les acceptations pures et simples de successions, legs ou communautés.
 
+(1) A compter du 15 janvier 1992.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 7 (V) JORF 31 décembre 1986
+	  - Loi - art. 43 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### Section III : Obligations diverses
@@ -51953,45 +53321,41 @@ Le tarif de l'impôt est fixé à :
 
 Fraction de la valeur nette taxable du patrimoine :
 
-N'excédant pas 4.260.000 F , Tarif applicable (en % ) 0.
+N'excédant pas 4.390.000 F , Tarif applicable (en % ) 0.
 
 Fraction de la valeur nette taxable du patrimoine :
 
-Comprise entre 4.260.000 F et 6.920.000 F, tarif applicable :
-
-0,5.
+Comprise entre 4.390.000 F et 7.130.000 F, tarif applicable : 0,5.
 
 Fraction de la valeur nette taxable du patrimoine :
 
-Comprise entre 6.920.000 F et 13.740.000 F, tarif applicable :
-
-0,7.
+Comprise entre 7.130.000 F et 14.150.000 F, tarif applicable : 0,7.
 
 Fraction de la valeur nette taxable du patrimoine :
 
-Comprise entre 13.740.000 F et 21.320.000 F, tarif applicable :
-
-0,9.
+Comprise entre 14.150.000 F et 21.960.000 F, tarif applicable : 0,9.
 
 Fraction de la valeur nette taxable du patrimoine :
 
-Comprise entre 21.320.000 F et 41.280.000 F, tarif applicable :
-
-1,2.
+Comprise entre 21.960.000 F et 42.520.000 F, tarif applicable : 1,2.
 
 Fraction de la valeur nette taxable du patrimoine :
 
-Supérieure à 41.280.000 F : 1,5.
+Supérieure à 42.520.000 F : 1,5.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1992-02-11 7S-1-92
+
 	**Modifié par**:
 
-	  - Loi - art. 16 (V) JORF 30 décembre 1990
+	  - Loi - art. 37 () JORF 31 décembre 1991 en vigueur le 1er janvier 1992
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -52432,7 +53796,7 @@ soulte, ou vendre les immeubles compris sur un cahier des charges ou procès-ver
 déclaration de command contenue en l'acte même, ou encore tout paiement par subrogation effectué par un tiers en l'acquit de
 l'acquéreur ;
 
-2° Les actes visés aux articles 696, 706, 707, 712 et 715. 2. Actes judiciaires, extrajudiciaires et registres divers.
+2° Les actes visés aux articles 696, 706, 707, 712 et 715.     2. Actes judiciaires, extrajudiciaires et registres divers.
 
 1° Les actes des huissiers de justice à l'exception de ceux visés à l'article 635-1-3° à 7° et 2-2° à 9° pour lesquels
 l'original remis à la partie ou à son représentant est seul exonéré ;
@@ -52446,8 +53810,8 @@ administratives ;
 
 5° Les copies des protêts, que les notaires et les huissiers de justice sont tenus de remettre aux greffiers des tribunaux de
 commerce ou des tribunaux de grande instance statuant commercialement en vertu des dispositions des articles 162 du code de
-commerce et 57 du décret du 30 octobre 1935 unifiant le droit en matière de chèque, modifiés par les articles 1er et 2 de la
-loi n° 49-1093 du 2 août 1949 ;
+commerce et 65-3 du décret-loi du 30 octobre 1935 unifiant le droit en matière de chèque, modifiés par les articles 1er et 2
+de la loi n° 49-1093 du 2 août 1949 ;
 
 6° à 13 ° (Abrogés) ;
 
@@ -52504,36 +53868,25 @@ simple, à responsabilité limitée et par actions.
 
 	**Cite**:
 
-	  - Arrêté 1967-12-22
-	  - CGI 1002
-	  - CGI 635 1 3°, 4°, 5°, 6°, 7°, 2 2°, 3°, 4°, 5°, 6°, 7°, 8°, 9°
-	  - CGI 671
-	  - CGI 696
-	  - CGI 706
-	  - CGI 707
-	  - CGI 712
-	  - CGI 715
-	  - CGI 867
-	  - CGI 868
-	  - Décret n°1935-10-30
+	  - CGI 671, 696, 706, 707, 712, 715, 635-1, 867, 868, 1002
 	  - Ordonnance 67-830 1967-09-27
 	  - Décret n°67-1165 1967-12-22
 	  - Loi n°79-596 1979-07-13
 	  - Ordonnance 82-283 1982-03-26
 	  - Décret n°83-359 du 2 mai 1983 - art. 21 (V)
 	  - Décret n°83-872 du 30 septembre 1983 - art. 4 (Ab)
+	  - Décret-loi 1935-10-30
 	  - Loi n°87-416 1987-06-17
 	  - Code de commerce 162
 	  - Loi n°49-1093 1949-08-02 art. 1, art. 2
 
 	**Modifié par**:
 
-	  - Loi n°89-1010 du 31 décembre 1989 - art. 14 () JORF 2 janvier 1990
-	  - Loi n°89-1010 du 31 décembre 1989 - art. 22 () JORF 2 janvier 1990
+	  - Loi - art. 22 (P) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -53645,6 +54998,29 @@ somme de 200 F (1) (2).
 	  - Loi - art. 41 (V) JORF 31 décembre 1991
 
 
+###### Article 949 bis
+
+Le document de circulation pour étrangers mineurs, valable pour une durée qui ne peut être supérieure à trois ans, est
+assujetti, lors de sa délivrance, à la perception d'un droit de 100 F (1).
+
+(1) Ces dispositions s'appliquent à compter du 15 janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Créé par**:
+
+	  - Loi - art. 47 (V) JORF 31 décembre 1991 en vigueur le 15 janvier 1992
+
+	**Abrogé par**:
+
+	  - Loi - art. 31 () JORF 31 décembre 1999
+
+
 ###### Article 950
 
 La carte spéciale délivrée aux étrangers exerçant une profession commerciale ou industrielle est assujettie, lors de sa
@@ -53707,16 +55083,12 @@ exclusivement artisanale, est exonérée de la taxe établie par l'article 950.
 ###### Article 954
 
 Chaque visa de passeport étranger, dont la durée de validité ne peut être supérieure à un an, donne lieu à la perception d'un
-droit de 50 F [*montant*], si le visa est valable pour l'aller et retour, et de 25 F, s'il n'est valable que pour la sortie.
-Toutefois, le visa est délivré gratuitement, par mesure de réciprocité, aux ressortissants des puissances étrangères dont la
-liste est établie par arrêté du ministre des affaires étrangères, du ministre de l'intérieur et du ministre de l'économie et
-des finances.
+droit de 50 F, si le visa est valable pour l'aller et retour, et de 25 F, s'il n'est valable que pour la sortie. Toutefois,
+le visa est délivré gratuitement, par mesure de réciprocité, aux ressortissants des puissances étrangères dont la liste est
+établie par arrêté du ministre des affaires étrangères, du ministre de l'intérieur et du ministre de l'économie et des
+finances.
 
 Les dispositions du présent article sont applicables aux visas des titres de voyage délivrés aux réfugiés et aux apatrides.
-
-**Nota:**
-
-Nota : Voir annexe III, art. 313 BA
 
 **Liens relatifs à cet article**
 
@@ -53724,9 +55096,17 @@ Nota : Voir annexe III, art. 313 BA
 
 	  - CGIAN3 313 BA
 
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
 	**Modifié par**:
 
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 2 (V) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+	  - Décret n°92-836 du 27 août 1992 - art. 1 () JORF 29 août 1992
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Cité par**:
 
@@ -53738,23 +55118,29 @@ Nota : Voir annexe III, art. 313 BA
 Les passeports, ainsi que les visas de passeports à délivrer aux personnes véritablement indigentes et reconnues hors d'état
 d'en acquitter le montant, sont délivrés gratuitement.
 
-**Nota:**
-
-Nota : Voir annexe III, art. 313 BA
+(1) Voir annexe III, art. 313 BA.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Modifié par**:
+
+	  - Décret n°92-836 du 27 août 1992 - art. 1 () JORF 29 août 1992
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 4 juillet 1992
 
 
-##### III : Passeports, laissez-passer, sauf-conduits et titres de voyage
+##### III : Passeports et titres de voyages
 
 ###### Article 953
 
-I. La durée de validité des passeports ordinaires délivrés en France est fixée à cinq ans. Le prix en est de 350 F
-[*montant*], y compris les frais de papier et de timbre et tous frais d'expédition.
+I. La durée de validité des passeports ordinaires délivrés en France est fixée à cinq ans. Le prix en est de 350 F, y compris
+les frais de papier et de timbre et tous frais d'expédition.
 
 II. Sont dispensés du paiement du prix fixé au I les passeports délivrés aux fonctionnaires se rendant en mission à
 l'étranger.
@@ -53766,7 +55152,7 @@ IV. Les titres de voyage délivrés aux réfugiés ou apatrides sont valables de
 V. Les sauf-conduits délivrés pour une durée de validité maximum de trois mois aux étrangers titulaires d'un titre de séjour
 sont assujettis à une taxe de 50 F (1).
 
-(1) A compter du 15 janvier 1992.
+(1) Cette disposition s'applique à compter du 15 janvier 1992.
 
 **Liens relatifs à cet article**
 
@@ -53777,8 +55163,14 @@ sont assujettis à une taxe de 50 F (1).
 	**Modifié par**:
 
 	  - Loi n°91-716 du 26 juillet 1991 - art. 32 (V) JORF 27 juillet 1991
-	  - Loi - art. 47 (V) JORF 31 décembre 1991
-	  - Modifications directes incorporées dans l'édition du 4 juillet 1992
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Cité par**:
 
@@ -53885,7 +55277,7 @@ vigueur.
 
 (Voir annexe III, art. 313 AZ).
 
-I. La délivrance du certificat d'immatriculation visé à l'article 83 du code des voies navigables et de la navigation
+I. La délivrance du certificat d'immatriculation visé à l'article 83 du code du domaine public fluvial et de la navigation
 intérieure est subordonnée au paiement par le propriétaire du bateau d'un droit fixe de 70 F [*montant*] pour tous frais.
 
 II. La délivrance du certificat de jaugeage est subordonnée au paiement par le propriétaire du bateau d'un droit fixe de 70
@@ -53912,8 +55304,11 @@ intérieures est fixé à 200 F (1).
 
 	**Modifié par**:
 
-	  - Loi - art. 39 (V) JORF 31 décembre 1991
-	  - Modifications directes incorporées dans l'édition du 4 juillet 1992
+	  - Loi n°64-1245 1964-12-16 art. 28 JORF 18 décembre 1964
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -54223,17 +55618,27 @@ Tous les actes relatifs à l'application du chapitre III, concernant les groupem
 par secteur, et du chapitre IV, concernant les biens de l'Etat et biens présumés vacants et sans maître, du titre IV du livre
 II du code forestier, sont exonérés de timbre.
 
-Il en est de même des actes concernant les groupements syndicaux forestiers visés à l'article 824-II.
+Il en est de même des actes relatifs à l'application des articles L148-13 à L148-24 du code forestier concernant les
+groupements syndicaux forestiers.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code forestier 824 II
+	  - CGI 824
+	  - Code forestier L148-13 à L148-24
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi - art. 12 () JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ##### Section IV : Impôt sur les opérations de bourse
@@ -54913,12 +56318,12 @@ d'entreprise ou résultant du contrat de travail de l'ensemble ou d'un nombre si
 ###### Article 999
 
 Sont exonérés de la taxe spéciale sur les conventions d'assurances les versements faits auprès d'organismes d'assurances par
-les institutions de prévoyance ou de sécurité sociale visées à l'article L. 731-1 du code de la sécurité sociale et par les
-caisses de prévoyance visées à l'article 1050 du code rural qui, tout en assurant elles-mêmes le service de leurs
-prestations, confient à des entreprises d'assurances régies par le livre III du code des assurances le soin de procéder au
-placement de leurs fonds et à la capitalisation de leurs réserves. Cette exonération est subordonnée à la condition que les
-contrats conclus à cet effet soient conformes à un contrat-type approuvé par arrêté conjoint signé par le ministre de
-l'économie et des finances et par le ministre du travail ou le ministre de l'agriculture (1).
+les institutions de retraite ou de prévoyance complémentaires visées à l'article L. 731-1 du code de la sécurité sociale et à
+l'article 1050 du code rural qui, tout en assurant elles-mêmes le service de leurs prestations, confient à des entreprises
+d'assurances régies par le livre III du code des assurances le soin de procéder au placement de leurs fonds et à la
+capitalisation de leurs réserves. Cette exonération est subordonnée à la condition que les contrats conclus à cet effet
+soient conformes à un contrat-type approuvé par arrêté conjoint signé par le ministre de l'économie et des finances et par le
+ministre du travail ou le ministre de l'agriculture (1).
 
 Bénéficient de la même exonération les institutions de même nature qui assurent directement le service de leurs prestations
 et la gestion financière des capitaux qu'elles recueillent.
@@ -54933,13 +56338,18 @@ et la gestion financière des capitaux qu'elles recueillent.
 	  - Code de la sécurité sociale. - art. L731-1 (T)
 	  - Code rural 1050
 
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
 	**Modifié par**:
 
-	  - Décret n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
+	  - Loi n°89-1009 1989-12-31 art. 25 II, art. 27 1° JORF 2 janvier 1990
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 25 () JORF 2 janvier 1990
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 1000
@@ -55446,8 +56856,10 @@ Le service des impôts est chargé de percevoir les droits de sceau.
 Les dispositions sujettes à publicité foncière des actes visés aux articles 1025, 1030, 1031, 1053, 1054, 1055, 1066, 1067,
 1087 et 1088 ainsi que de ceux relatifs aux opérations visées aux articles 1028 à 1028 ter, 1029, 1037, 1039, et 1065, 1069-
 II, 1070, 1071, 1115, 1131 et 1133 sont assujetties à une taxe de publicité foncière ou à un droit d'enregistrement de 0,60 %
-[*taux*] lorsqu'elles entrent dans les prévisions des 1° à 4° de l'article 677. Dans le cas contraire, et sauf exonération,
-ces dispositions sont soumises à une imposition fixe de 70 F [*montant*].
+lorsqu'elles entrent dans les prévisions des 1° à 4° de l'article 677. Dans le cas contraire, et sauf exonération, ces
+dispositions sont soumises à une imposition fixe de 100 F (1).
+
+(1) A compter du 15 janvier 1992.
 
 **Liens relatifs à cet article**
 
@@ -55457,11 +56869,11 @@ ces dispositions sont soumises à une imposition fixe de 70 F [*montant*].
 
 	**Modifié par**:
 
-	  - Loi n°90-85 du 23 janvier 1990 - art. 29 (Ab) JORF 25 janvier 1990
+	  - Loi - art. 48 () JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -55484,6 +56896,10 @@ ces dispositions sont soumises à une imposition fixe de 70 F [*montant*].
 	  - Code général des impôts, CGI. - art. 1133 (V)
 	  - Code général des impôts, CGI. - art. 1133 quater (V)
 	  - Code général des impôts, CGI. - art. 1133 ter (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### Section I : Agriculture
@@ -55952,14 +57368,20 @@ Ces dispositions seront étendues par décret aux départements d'outre-mer.
 
 ##### Section II : Collectivités publiques, établissements publics ou d'utilité publique
 
-##### Transports de voyageurs dans la région parisienne.
+##### 1° : Transports de voyageurs dans la région parisienne.
 
 ###### Article 1038
 
 Les conventions passées pour l'exécution de l'ordonnance n° 59-151 du 7 janvier 1959, relative à l'organisation des
-transports de voyageurs dans la région parisienne, sont enregistrées au droit fixe de 430 F [*montant*].
+transports de voyageurs dans la région parisienne, sont enregistrées au droit fixe de 500 F (1).
+
+(1) A compter du 15 janvier 1992.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Cite**:
 
@@ -55967,11 +57389,7 @@ transports de voyageurs dans la région parisienne, sont enregistrées au droit 
 
 	**Modifié par**:
 
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 7 (V) JORF 31 décembre 1986
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
+	  - Loi - art. 43 (V) JORF 31 décembre 1991
 
 	**Cité par**:
 
@@ -56075,30 +57493,39 @@ foncière et du droit de timbre.
 	  - Décret n°2001-435 2001-05-21
 
 
-##### Conservatoire de l'espace littoral et des rivages lacustres.
+##### 6° : Conservatoire de l'espace littoral et des rivages lacustres
 
 ###### Article 1041
 
 Les acquisitions et échanges, faits par le conservatoire de l'espace littoral et des rivages lacustres, d'immeubles situés
-dans les zones définies à l'article 1er de la loi n° 75-602 du 10 juillet 1975, sont exonérés du droit de timbre de
-dimension, des droits d'enregistrement et de la taxe de publicité foncière.
+dans les zones définies à l'article L243-1 du code rural , sont exonérés du droit de timbre de dimension, des droits
+d'enregistrement et de la taxe de publicité foncière.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 	**Cite**:
 
-	  - Loi n°75-602 du 10 juillet 1975 - art. 1 (M)
+	  - Code rural L243-1
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°75-602 du 10 juillet 1975 - art. 3 (Ab) JORF 11 juillet 1975
+	  - Loi n°86-2 du 3 janvier 1986 - art. 42 () JORF 4 janvier 1986
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
-##### Collectivités locales et établissements publics locaux
+##### 7° : Collectivités locales, établissements publics locaux et sociétés publiques locales
 
 ###### Article 1042
 
-I. - Sous réserve des dispositions de l'article 257-7°, les acquisitions immobilière faites à l'amiable et à titre onéreux
+I. - Sous réserve des dispositions de l'article 257 7°, les acquisitions immobilière faites à l'amiable et à titre onéreux
 par les communes ou syndicats de communes, les établissements publics fonciers créés en application des articles L. 324-1 et
 suivants du code de l'urbanisme (1), les départements, les régions et par les établissements publics communaux,
 départementaux ou régionaux ne donnent lieu à aucune perception au profit du Trésor.
@@ -56109,8 +57536,8 @@ des communes, des départements et des régions, sous réserve que la délibéra
 l'opération fasse référence aux dispositions législatives en cause et soit annexée à l'acte.
 
 II. - Les acquisitions d'actions réalisées par les communes, les départements, les régions et leurs groupements dans le cadre
-de l'article premier de la loi n° 83-597 du 7 juillet 1983 sur les sociétés d'économie mixte locales ne donnent lieu à aucune
-perception au profit du Trésor, sous réserve que la décision de l'assemblée délibérante compétente pour décider de
+de l'article premier de la loi n° 83-597 du 7 juillet 1983 modifiée sur les sociétés d'économie mixte locales ne donnent lieu
+à aucune perception au profit du Trésor, sous réserve que la décision de l'assemblée délibérante compétente pour décider de
 l'opération fasse référence à la disposition législative en cause et soit annexée à l'acte.
 
 (1) Pour l'application de cette disposition, les dispositions de l'article 2 de la loi n° 86-29 du 9 janvier 1986 portant
@@ -56128,15 +57555,26 @@ dispositions diverses relatives aux collectivités locales ne sont pas applicabl
 	  - Loi n°86-29 du 9 janvier 1986 - art. 2 ()
 	  - Code de l'urbanisme - art. L324-1 (M)
 
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 1995-02-15 7C-1-95
+
 	**Modifié par**:
 
-	  - Loi - art. 29 (V) JORF 19 juillet 1991
+	  - Loi n°92-125 du 6 février 1992 - art. 132 () JORF 8 février 1992
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1929 (V)
 	  - Code général des impôts, CGI. - art. 793 (VD)
 
+
+##### Collectivités locales et établissements publics locaux
 
 ###### Article 1042 A
 
@@ -56261,27 +57699,34 @@ servitudes prévues par la législation en vigueur sur l'électricité et le gaz
 	  - Code général des impôts, CGI. - art. 1022 (V)
 
 
-##### Parcs nationaux.
+##### 12° : Parcs nationaux
 
 ###### Article 1045 bis
 
-Les dispositions de l'article 1045-I sont applicables aux contestations relatives aux indemnités visées à l'article 5 de la
-loi no 60-708 du 22 juillet 1960 relative à la création de parcs nationaux (1).
+Les dispositions du I de l'article 1045 sont applicables aux contestations relatives aux indemnités visées à l'article
+L241-12 du code rural.
 
-1)  Les modalités d'application de la loi n° 60-708 du 22 juillet 1960 ont été fixées par le décret n° 61-1195 du 31 octobre
-1961 (J.O. du 4 novembre).
+(1) Les modalités d'application des articles L241-1 à L241-14 et des articles L241-16 à L241-18 sont fixés par les articles
+R241-1 à R241-18 et R241-21 à R241-71.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1045 I
-	  - Loi n°60-708 du 22 juillet 1960 - art. 5 (Ab)
-	  - Décret n°61-1195 1961-10-31
+	  - CGI 1045
+	  - Code rural L241-12
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°60-708 du 22 juillet 1960 - art. 5 (Ab) JORF 23 juillet 1960
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ##### 13° : Terrains communaux
@@ -56323,19 +57768,23 @@ I. - Les actes, pièces et écrits de toute nature faits pour l'application de l
 aux réquisitions de biens et de services et concernant exclusivement les règlements des diverses indemnités, sont dispensés
 de timbre; ils sont enregistrés gratis lorsqu'il y a lieu à la formalité de l'enregistrement.
 
-II. - Les dispositions du I sont applicables aux réquisitions faites en vertu de l'article 204, dernier alinéa, du code des
-voies navigables et de la navigation intérieure.
+II. -  Les dispositions du I sont applicables aux réquisitions faites en vertu du dernier alinéa de l'article 204 du code du
+domaine public fluvial et de la navigation intérieure.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code du domaine public fluvial 204 AL. DERNIER
+	  - Code du domaine public fluvial 204
 	  - Ordonnance 59-63 1959-01-06
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°64-1245 1964-12-16 art. 28 JORF 18 décembre 1964
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ##### 16° : Nationalisation de l'électricité dans les départements d'outre-mer
@@ -56381,17 +57830,19 @@ perçue sur les actes publiés en vue de l'application de la législation sur le
 ###### Article 1050
 
 Les dispositions sujettes à publicité foncière des actes portant transferts de propriété à titre gratuit effectués par les
-départements ou les communes au nom des organismes d'habitations à loyer modéré [*HLM*] ou au nom des sociétés d'économie
-mixte de construction dont les statuts sont conformes aux clauses types annexées au décret n° 69-295 du 24 mars 1969 et dont
-la majeure partie du capital est détenue par des collectivités publiques sont soumises à une taxe de publicité foncière ou à
-un droit d'enregistrement de 0,60 % [*taux*].
+départements ou les communes au nom des organismes d'habitations à loyer modéré ou au nom des sociétés d'économie mixte de
+construction dont les statuts sont conformes aux clauses types annexées au décret n° 69-295 du 24 mars 1969 et dont la
+majeure partie du capital est détenue par des collectivités publiques sont soumises à une taxe de publicité foncière ou à un
+droit d'enregistrement de 0,60 %.
 
-Toutefois ces actes sont soumis à une imposition fixe de 430 F [*montant*] :
+Toutefois ces actes sont soumis à une imposition fixe de 500 F (1) :
 
 1° Lorsqu'ils ne contiennent pas de dispositions sujettes à publicité foncière ;
 
 2° Lorsqu'ils contiennent des dispositions sujettes à publicité foncière et d'autres qui ne le sont pas et que le produit de
-l'imposition est inférieur à 430 F.
+l'imposition est inférieur à 500 F (1).
+
+(1) A compter du 15 janvier 1992.
 
 **Liens relatifs à cet article**
 
@@ -56399,33 +57850,43 @@ l'imposition est inférieur à 430 F.
 
 	  - Décret n°69-295 1969-03-24
 
-	**Modifié par**:
-
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 7 (V) JORF 31 décembre 1986
-
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi - art. 43 (V) JORF 31 décembre 1991
 
 
 ###### Article 1051
 
-Sont soumis à une imposition fixe de 430 F [*montant*] :
+Sont soumis à une imposition fixe de 500 F (1) :
 
-1° Les transferts de biens de toute nature opérés entre organismes d'habitations à loyer modéré [*HLM*] et sociétés anonymes
-de crédit immobilier ou leurs unions ;
+1° Les transferts de biens de toute nature opérés entre organismes d'habitations à loyer modéré et sociétés anonymes de
+crédit immobilier ou leurs unions ;
 
 2° Les attributions de maisons ou de logements, faites aux membres des sociétés anonymes d'habitations à loyer modéré.
+
+(1) A compter du 15 janvier 1992.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 7 (V) JORF 31 décembre 1986
+	  - Loi - art. 43 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 1052
@@ -56653,51 +58114,6 @@ dispensés de la formalité.
 	  - Loi n°1892-12-29
 
 
-##### Section IV : Institutions à caractère social
-
-##### Assistance et protection de l'enfance.
-
-###### Article 1067
-
-Sans préjudice du bénéfice de la loi du 3 janvier 1972 sur l'aide judiciaire (1), les certificats, significations, contrats
-et autres actes, faits en vertu des articles 40 à 87 du code de la famille et de l'aide sociale à l'enfance, ainsi qu'en
-vertu de la loi du 19 avril 1898 sur la répression des violences, voies de fait, actes de cruauté et attentats commis envers
-les enfants (2), concernant exclusivement le service de l'aide sociale à l'enfance, sont exonérés des droits de timbre et,
-sous réserve des dispositions des articles 679-3° et 1020, des droits d'enregistrement.
-
-Les comptes de tutelle sont approuvés par le conseil de famille et rendus sans frais.
-
-(1) La loi 91-647 du 10 juillet 1991, en vigueur le 1er janvier 1992, art. 74, remplace les références à la loi 72-11 du 3
-janvier 1972, abrogée. Les mots "aide juridictionnelle" remplacent les mots "aide judiciaire ou indemnisation des commissions
-et désignations d'office".
-
-(2) Codifié pour partie sous les articles 312, 349 à 353 du code pénal.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1020
-	  - CGI 679 3°
-	  - Code pénal 312, 349 à 353
-	  - Code de la famille et de l'aide sociale 40 à 87
-	  - Loi n°1898-04-19
-	  - Loi n°72-11 1972-01-03
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. L228-6 (V)
-
-	**Modifié par**:
-
-	  - Loi n°86-17 1986-01-06 art. 31, art. 80 JORF 8 janvier 1986
-	  - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
-
-
 ##### Section V : Établissements financiers
 
 ##### 1° : Banque des règlements internationaux
@@ -56900,6 +58316,48 @@ directeur des services fiscaux du lieu de la situation des immeubles.
 	  - Code général des impôts, CGI. - art. 1020 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quindecies (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 VA (V)
+
+
+##### 2° : Assistance et protection de l'enfance
+
+###### Article 1067
+
+Sans préjudice du bénéfice de la loi du 10 juillet 1991 relative à l'aide juridique, les certificats, significations,
+contrats et autres actes, faits en vertu des articles 40 à 87 du code de la famille et de l'aide sociale à l'enfance, ainsi
+qu'en vertu de la loi du 19 avril 1898 sur la répression des violences, voies de fait, actes de cruauté et attentats commis
+envers les enfants (1), concernant exclusivement le service de l'aide sociale à l'enfance, sont exonérés des droits de timbre
+et, sous réserve des dispositions du 3° de l'article 679 et de l'article 1020, des droits d'enregistrement.
+
+Les comptes de tutelle sont approuvés par le conseil de famille et rendus sans frais.
+
+(1) Codifié pour partie sous les articles 312, 349 à 353 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1020
+	  - CGI 679 3°
+	  - Loi n°91-647 1991-07-10
+	  - Code pénal 312, 349 à 353
+	  - Code de la famille et de l'aide sociale 40 à 87
+	  - Loi n°1898-04-19
+
+	**Modifié par**:
+
+	  - Loi n°91-647 du 10 juillet 1991 - art. 74 () JORF 13 juillet 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L228-6 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### 3° : Assurances maladie et maternité des travailleurs non salariés de professions non agricoles
@@ -58658,8 +60116,8 @@ formes prévues par ce même livre.
 ###### Article 1390
 
 Les titulaires de l'allocation supplémentaire du fonds national de solidarité prévue par la loi n° 56-639 du 30 juin 1956
-sont dégrevés d'office de la taxe foncière sur les propriétés bâties dont ils sont passibles à raison de leur habitation
-principale.
+sont dégrevés d'office et, à compter de 1993, exonérés de la taxe foncière sur les propriétés bâties dont ils sont passibles
+à raison de leur habitation principale.
 
 Le bénéfice de cette disposition est subordonné à la condition qu'ils occupent cette habitation :
 
@@ -58675,6 +60133,15 @@ soit avec d'autres personnes titulaires de la même allocation.
 
 	  - Loi n°56-639 1956-06-30
 
+	**Modifié par**:
+
+	  - Loi n°91-1322 1991-12-30 art. 21 I d Finances pour 1992 JORF 31 décembre 1991
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-1322 1991-12-30 art. 21 II
+	  - HISTO: Edition du 4 juillet 1992
+
 	**Cité par**:
 
 	  - Loi - art. 21 (V)
@@ -58689,22 +60156,31 @@ soit avec d'autres personnes titulaires de la même allocation.
 	  - Code général des impôts, CGI. - art. 1414 (M)
 	  - Code général des impôts, CGI. - art. 1605 bis (VD)
 
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-07-04
+
 
 ###### Article 1391
 
-Les redevables âgés de plus de soixante-quinze ans au 1er janvier de l'année de l'imposition sont dégrevés d'office de la
-taxe foncière sur les propriétés bâties pour l'immeuble habité exclusivement par eux, lorsqu'ils ne sont pas assujettis à
-l'impôt sur le revenu au titre des revenus de l'année précédente au sens du III de l'article 1417.
+Les redevables âgés de plus de soixante-quinze ans au 1er janvier de l'année de l'imposition sont dégrevés d'office et, à
+compter de 1993, exonérés de la taxe foncière sur les propriétés bâties pour l'immeuble habité exclusivement par eux,
+lorsqu'ils ne sont pas assujettis à l'impôt sur le revenu au titre des revenus de l'année précédente au sens du III de
+l'article 1417.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi - art. 21 (V) JORF 30 décembre 1990
+	  - Loi n°91-1322 1991-12-30 art. 21 Finances pour 1992 JORF 31 décembre 1991
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-1322 1991-12-30 art. 21 II
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
 
 	**Cite**:
 
@@ -58716,6 +60192,26 @@ l'impôt sur le revenu au titre des revenus de l'année précédente au sens du 
 	  - Code général des impôts, CGI. - art. 1391 B (M)
 	  - Code général des impôts, CGI. - art. 1417 (V)
 	  - Livre des procédures fiscales - art. L173 (V)
+
+
+###### Article 1391 A
+
+Les exonérations résultant des articles 1390 et 1391 sont applicables aux personnes qui bénéficient du maintien des
+dégrèvements prévu au III de l'article 17 de la loi de finances pour 1968 (n° 67-1114 du 21 décembre 1967).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°91-1322 1991-12-30 art. 21 I e Finances pour 1992 JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### II : Taxe foncière sur les propriétés non bâties
@@ -58902,26 +60398,43 @@ précédente.
 
 ###### Article 1395 B
 
-A compter du 1er janvier 1991, les conseils municipaux, généraux et régionaux et les organes délibérants des groupements de
-communes à fiscalité propre peuvent exonérer, chacun pour sa part, de taxe foncière sur les propriétés non bâties, les
-terrains plantés en arbres truffiers, jusqu'à l'entrée en production constatée selon des modalités fixées par décret en
-Conseil d'Etat.
+Les terrains plantés en arbres truffiers sont, à compter du 1er janvier 1991, exonérés de taxe foncière sur les propriétés
+non bâties pendant les quinze années suivant celle de leur plantation, sur délibération prise, pour la part qui revient
+respectivement à chacune des collectivités intéressées, par les conseils municipaux, généraux et régionaux et les organes
+délibérants des groupements de communes à fiscalité propre.
+
+Pour bénéficier de cette exonération, le propriétaire doit faire, avant le 1er janvier de l'année au titre de laquelle
+l'exonération devient applicable, une déclaration au service des impôts, assortie des justifications nécessaires, en
+indiquant notamment la liste des parcelles concernées et l'année de leur plantation. Cette déclaration doit être souscrite
+avant le 1er septembre 1991 pour les exonérations applicables à compter du 1er janvier 1991.
+
+Les délibérations des collectivités locales et de leurs groupements dotés d'une fiscalité propre prises en vertu de l'article
+81 de la loi de finances pour 1990 (n° 89-935 du 29 décembre 1989) sont applicables dans les conditions prévues au premier
+alinéa.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°89-936 du 29 décembre 1989 - art. 81 (V) JORF 30 décembre 1989
+	  - Loi n°89-935 1989-12-29 art. 81 Finances pour 1990
+
+	**Modifié par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 34 (V) JORF 27 juillet 1991
 
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1395 F (VT)
 	  - Code général des impôts, CGI. - art. 1395 G (VD)
 	  - Code général des impôts, CGI. - art. 1639 A quater (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### D : Base d'imposition
@@ -59512,60 +61025,15 @@ situation propre.
 	  - Livre des procédures fiscales - art. R*196-2 (V)
 
 
-##### IV : Exonérations et dégrèvements d'office
-
-###### Article 1414 C
-
-Les redevables autres que ceux visés aux articles 1414, 1414 A et 1414 B et dont la cotisation d'impôt sur le revenu au sens
-des I et II de l'article 1417 n'excède pas 15.000 F au titre de l'année précédente sont dégrevés d'office de la taxe
-d'habitation afférente à leur habitation principale pour la fraction de leur cotisation qui excède 3,7 p. 100 de leur revenu.
-Toutefois, ce dégrèvement ne peut excéder 50 p. 100 du montant de l'imposition qui excède 1.370 F. Il n'est pas effectué de
-dégrèvement d'un montant inférieur à 30 F. La limite de 15 000 F est indexée, chaque année, comme la septième tranche du
-barème de l'impôt sur le revenu. La limite de 1.370 F est révisée, chaque année, proportionnellement à la variation de la
-cotisation moyenne de taxe d'habitation constatée, l'année précédente, au niveau national (1).
-
-Pour l'application du présent article, le revenu [*définition*] s'entend du montant net des revenus et plus-values retenus
-pour l'établissement de l'impôt sur le revenu, au titre de l'année précédente, des personnes au nom desquelles la taxe
-d'habitation est établie ; il est majoré, le cas échéant, des revenus soumis à l'impôt sur le revenu à l'étranger. Lorsque
-les revenus du redevable de la taxe d'habitation sont imposables à l'impôt sur le revenu au nom d'une autre personne, le
-revenu est celui de cette personne.
-
-(1) Pour les cotisations de taxe d'habitation établies au titre de 1991, le plafond de cotisation d'impôt sur le revenu est
-fixé à 15.480 F et le seuil d'imposition de taxe d'habitation à 1.462 F (arrêté du 11 mars 1991, JO du 14).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1991-03-11 art. 1 a c
-	  - CGI 1414
-	  - CGI 1414 A
-	  - CGI 1414 B
-	  - CGI 1435
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
-
-	**Modifié par**:
-
-	  - Loi - art. 21 (V) JORF 30 décembre 1990
-	  - Loi - art. 24 () JORF 30 décembre 1990
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
-
-
 ##### IV : Dégrèvements d'office
 
 ###### Article 1414
 
 I. Sont, à compter de 1992, exonérés de la taxe d'habitation afférente à leur habitation principale lorsqu'ils occupent cette
-habitation dans les conditions prévues à l'article 1390 (1):
+habitation dans les conditions prévues à l'article 1390 :
 
 1° les titulaires de l'allocation supplémentaire du fonds national de solidarité prévue par la loi n° 56-639 du 30 juin 1956
-(2) ;
+(1) ;
 
 2° les contribuables âgés de plus de 60 ans ainsi que les veuves et veufs qui ne sont pas soumis à l'impôt sur le revenu au
 titre de l'année précédente au sens de l'article 1417 ;
@@ -59584,26 +61052,20 @@ II. (abrogé)
 III. Les bénéficiaires du revenu minimum d'insertion sont dégrevés d'office de la taxe d'habitation afférente à leur
 habitation principale lorsqu'ils occupent cette habitation dans les conditions prévues à l'article 1390.
 
-(1) Loi 91-1322 1991-12-31 art. 21 II Finances pour 1992    (2) Voir livre des procédures fiscales, art. L98.
+(1) Voir livre des procédures fiscales, art. L98.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1390, 1417, 21 II
+	  - CGI 1390, 1417
 	  - Loi n°56-639 1956-06-30
-	  - Loi n°91-1322 1991-12-20
 	  - Loi n°67-1114 du 21 décembre 1967 - art. 17, v. init.
 	  - Livre des procédures fiscales - art. L98 (M)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-1322 1991-12-31 art. 21 II Finances pour 1992
-
 	**Modifié par**:
 
-	  - Loi n°91-1322 1991-12-30 art. 21 I a b e Finances pour 1992 JORF 31 décembre 1991
-	  - Modification directe incorporée dans l'édition du 4 juillet 1992
+	  - Loi n°91-1322 1991-12-30 art. 21 Finances pour 1992 JORF 31 décembre 1991
 
 	**Cité par**:
 
@@ -59625,41 +61087,37 @@ habitation principale lorsqu'ils occupent cette habitation dans les conditions p
 	  - Livre des procédures fiscales - art. R*211-1 (V)
 	  - Livre des procédures fiscales - art. R*211-2 (V)
 
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-1322 1991-12-31 art. 21 II Finances pour 1992
+
 
 ###### Article 1414 A
 
 Les contribuables qui occupent leur habitation principale dans les conditions prévues à l'article 1390 et qui, au titre de
 l'année précédente, n'étaient pas passibles de l'impôt sur le revenu au sens du III de l'article 1417, sont dégrevés d'office
-de la taxe d'habitation y afférente, à concurrence du montant de l'imposition excédant 1.370 F (1).
+de la taxe d'habitation y afférente, à concurrence du montant de l'imposition excédant 1.370 F.
 
 Cette limite est révisée chaque année proportionnellement à la variation de la cotisation moyenne de taxe d'habitation
 constatée l'année précédente, au niveau national.
 
 Il n'est pas effectué de dégrèvement quand celui-ci serait inférieur à 30 F.
 
-(1) Limite fixée à 1.462 F au titre de 1991 (arrêté du 11 mars 1991 JO du 14).
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1991-03-11 art. 1
-	  - CGI 1390, 1417 III
 
 	**Modifié par**:
 
-	  - Loi - art. 21 (V) JORF 30 décembre 1990
-	  - Loi - art. 24 () JORF 30 décembre 1990
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
+	  - Loi - art. 8 () JORF 31 décembre 1991
 
 	**Cité par**:
 
-	  - Loi n°2008-1249 du 1er décembre 2008 - art. 35 (VD)
 	  - Arrêté du 3 mars 2010 - art. 2 (V)
 	  - Arrêté du 18 mars 2011 - art. 2 (V)
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 35 (VD)
 	  - Loi n°2013-1278 du 29 décembre 2013 - art. 2 (V)
 	  - Loi n°2015-1786 du 29 décembre 2015 - art. 101 (V)
 	  - Code général des impôts, CGI. - art. 1413 bis (V)
@@ -59672,22 +61130,27 @@ Il n'est pas effectué de dégrèvement quand celui-ci serait inférieur à 30 F
 	  - Livre des procédures fiscales - art. R*211-1 (V)
 	  - Livre des procédures fiscales - art. R*211-2 (V)
 
+	**Cite**:
+
+	  - CGI 1390, 1417 III
+
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - TXT_ASSOCIE: Instruction 1989-08-03 6D-2-89
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 1414 B
 
 Les contribuables qui occupent leur habitation principale dans les conditions prévues à l'article 1390 et dont la cotisation
 d'impôt sur le revenu au sens des I et II de l'article 1417 n'excède pas 1.550 F au titre de l'année précédente sont dégrevés
-d'office de la taxe d'habitation y afférente à concurrence de 50 p. 100 du montant de l'imposition qui excède 1.370 F. Il
+d'office de la taxe d'habitation y afférente à concurrence de 50 p. 100 du montant de l'imposition qui excède 1.172 F. Il
 n'est pas effectué de dégrèvement inférieur à 30 F. La limite de 1.550 F est indexée, chaque année, comme la septième tranche
-du barème de l'impôt sur le revenu. La limite de 1.370 F est révisée, chaque année, proportionnellement à la variation de la
+du barème de l'impôt sur le revenu. La limite de 1.172 F est révisée, chaque année, proportionnellement à la variation de la
 cotisation moyenne de taxe d'habitation constatée, l'année précédente, au niveau national (1).
 
-(1) Pour les cotisations de taxe d'habitation établies au titre de 1991, le seuil d'imposition de taxe d'habitation est fixé
-à 1.462 F et le plafond de cotisation d'impôt sur le revenu à 1.600 F (arrêté du 11 mars 1991, JO du 14 mars).
+(1) Pour les cotisations de taxe d'habitation établies au titre de 1992 le plafond de cotisation d'impôt sur le revenu est
+fixé à 1.648 F (arrêté du 18 février 1992, JO du 26 février).
 
 **Liens relatifs à cet article**
 
@@ -59696,22 +61159,53 @@ cotisation moyenne de taxe d'habitation constatée, l'année précédente, au ni
 	  - Arrêté 1991-03-11 art. 1 a b
 	  - CGI 1390, 1417 I II
 
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
-
 	**Modifié par**:
 
-	  - Loi - art. 21 (V) JORF 30 décembre 1990
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
+	  - Loi - art. 8 () JORF 31 décembre 1991
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1605 bis (VT)
 	  - Code général des impôts, CGI. - art. 1407 ter (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+
+###### Article 1414 C
+
+Les redevables autres que ceux visés aux articles 1414, 1414 A et 1414 B et dont la cotisation d'impôt sur le revenu au sens
+des I et II de l'article 1417 n'excède pas 15.000 F au titre de l'année précédente sont dégrevés d'office de la taxe
+d'habitation afférente à leur habitation principale pour la fraction de leur cotisation qui excède 2,8 p. 100 de leur revenu.
+Toutefois, ce dégrèvement ne peut excéder 50 p. 100 du montant de l'imposition qui excède 1.172 F. Il n'est pas effectué de
+dégrèvement d'un montant inférieur à 30 F. La limite de 15 000 F est indexée, chaque année, comme la septième tranche du
+barème de l'impôt sur le revenu. La limite de 1.172 F est révisée, chaque année, proportionnellement à la variation de la
+cotisation moyenne de taxe d'habitation constatée, l'année précédente, au niveau national (1).
+
+Pour l'application du présent article, le revenu [*définition*] s'entend du montant net des revenus et plus-values retenus
+pour l'établissement de l'impôt sur le revenu, au titre de l'année précédente, des personnes au nom desquelles la taxe
+d'habitation est établie ; il est majoré, le cas échéant, des revenus soumis à l'impôt sur le revenu à l'étranger. Lorsque
+les revenus du redevable de la taxe d'habitation sont imposables à l'impôt sur le revenu au nom d'une autre personne, le
+revenu est celui de cette personne.
+
+(1) Pour les cotisations de taxe d'habitation établies au titre de 1992, le plafond de cotisation d'impôt sur le revenu est
+fixé à 15.944 F (arrêté du 18 février 1992, JO du 26 février).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1991-03-11 art. 1 a c
+	  - CGI 1414, 1435, 1414 A, 1414 B
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi - art. 8 () JORF 31 décembre 1991
 
 
 ##### Section IV : Dispositions communes aux taxes foncières et à la taxe d'habitation
@@ -60188,26 +61682,36 @@ cette location ne présente aucun caractère périodique;
 les pièces louées constituent pour le locataire ou le sous-locataire en meublé sa résidence principale, et que le prix de
 location demeure fixé dans des limites raisonnables;
 
-3° Sauf avis contraire du conseil général et dans des conditions qui sont fixées par décret, les personnes qui louent d'une
-façon saisonnière une partie de leur habitation personnelle, à titre de gîte rural (1);
+3° Sauf délibération contraire des collectivités territoriales et de leurs groupements dotés d'une fiscalité propre :
 
-4° Sur délibération du conseil municipal, les personnes qui louent en meublé des locaux classés dans les conditions prévues à
-l'article 58-I de la loi n° 65-997 du 29 novembre 1965, lorsque ces locaux sont compris dans l'habitation personnelle du
-loueur. L'exonération accordée par le conseil municipal s'applique aux cotisations qui correspondent aux deux années civiles
-suivant celle au cours de laquelle la délibération est intervenue; elle est renouvelable. Le déclassement des locaux loués
-entraîne la déchéance de l'exonération (2).
+a) Les personnes qui louent tout ou partie de leur habitation personnelle à titre de gîte rural ;
 
-(1) Annexe III, art. 322 A à 322 F.
+b) Les personnes qui louent en meublé des locaux classés dans les conditions prévues au I de l'article 58 de la loi n° 65-997
+du 29 novembre 1965, lorsque ces locaux sont compris dans leur habitation personnelle ;
 
-(2) Annexe IV, art. 121 quinquies DB.
+c) Les personnes autres que celles visées aux 1° et 2° du présent article ainsi qu'aux a et b qui louent ou sous-louent en
+meublé tout ou partie de leur habitation personnelle.
+
+Les délibérations sont prises dans les conditions prévues à l'article 1639 A bis et portent sur la totalité de la part
+revenant à chaque collectivité ou groupement ; elles peuvent concerner une ou plusieurs des catégories de personnes énumérées
+ci-dessus.
+
+Les conditions d'application du a sont fixées par décret.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN3 322 A, 322 B, 322 C, 322 D, 322 E, 322 F
-	  - CGIAN4 121 quinquies DB
-	  - Loi n°65-997 1965-11-29 ART. 58 I
+	  - CGI 1639 A bis
+	  - Loi n°65-997 du 29 novembre 1965 - art. 58, v. init.
+
+	**Modifié par**:
+
+	  - Loi - art. 103 () JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -60225,7 +61729,8 @@ entraîne la déchéance de l'exonération (2).
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 1993-02-23 6E-2-93
 
 
 ###### Article 1460
@@ -60540,6 +62045,78 @@ les justifications nécessaires au service des impôts compétent avant le 1er j
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1466 E (V)
 	  - Code général des impôts, CGI. - art. 1466 D (V)
 	  - Code général des impôts, CGI. - art. 1466 F (V)
+
+
+###### Article 1464 E
+
+Les collectivités territoriales et leurs groupements dotés d'une fiscalité propre peuvent, par une délibération de portée
+générale prise dans les conditions définies à l'article 1639 A bis, exonérer de taxe professionnelle, pour moitié et pendant
+dix ans, la valeur locative des installations de désulfuration du gazole et du fioul lourd ainsi que celle des installations
+de conversion profonde du fioul lourd en gazole, fioul domestique ou carburants pour automobiles.
+
+Peuvent seules bénéficier des dispositions qui précèdent les unités de désulfuration ou d'hydrotraitement du fioul lourd avec
+production de soufre ainsi que les unités de désulfuration avec emploi d'hydrogène ou d'hydrotraitement du gazole ou du fioul
+domestique et les unités connexes de traitement des effluents d'hydrogène sulfuré avec production de soufre qui, dans leur
+conception et leur fonctionnement, respectent les caractéristiques techniques définies par décret en Conseil d'Etat.
+
+Les entreprises ne peuvent bénéficier de l'exonération qu'à la condition de déclarer, chaque année, au service des impôts,
+les éléments d'imposition entrant dans le champ d'application de l'exonération.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1639 A bis
+
+	**Créé par**:
+
+	  - Loi - art. 82 () JORF 31 décembre 1991
+
+	**Abrogé par**:
+
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1466 C (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 1993-03-26 6E-8-93
+
+
+###### Article 1464 F
+
+Les collectivités territoriales et leurs groupements dotés d'une fiscalité propre peuvent, par une délibération de portée
+générale prise dans les conditions prévues à l'article 1639 A bis, exonérer de taxe professionnelle, en totalité et pendant
+cinq ans, la valeur locative des installations de stockage de gaz liquéfié d'au moins 200 tonnes qui, pour un motif d'intérêt
+général, font l'objet d'un transfert à l'intérieur de la même commune ou dans une autre commune.
+
+Les entreprises ne peuvent bénéficier de ces dispositions qu'à la condition de déclarer, chaque année, au service des impôts,
+les éléments entrant dans le champ d'application de l'exonération.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1639 A bis
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1466 C (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Créé par**:
+
+	  - Loi - art. 83 () JORF 31 décembre 1991
+
+	**Abrogé par**:
+
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 
 ###### Article 1465
@@ -61731,13 +63308,11 @@ déterminée dans les conditions prévues au I, à compter du 1er janvier de l'a
 ###### Article 1496 bis
 
 Le conseil municipal d'une commune dont le territoire était, avant l'entrée en vigueur de la loi n° 83-636 du 13 juillet 1983
-portant modification du statut des agglomérations nouvelles, partiellement inclus dans la zone de compétence d'un syndicat
-communautaire d'aménagement créé en application de la loi n° 70-610 du 10 juillet 1970, peut décider, par une délibération
-prise avant le 1er juillet 1986, que l'ensemble des locaux d'habitation et des locaux à usage professionnel de la commune
-sera évalué, à compter du 1er janvier 1987 [*date point de départ*] , par application des tarifs en vigueur dans la partie du
-territoire communal située hors de la zone de compétence du syndicat.
-
-(1) Voir art. 1638 ter.
+modifiée portant modification du statut des agglomérations nouvelles, partiellement inclus dans la zone de compétence d'un
+syndicat communautaire d'aménagement créé en application de la loi n° 70-610 du 10 juillet 1970, peut décider, par une
+délibération prise avant le 1er juillet 1986, que l'ensemble des locaux d'habitation et des locaux à usage professionnel de
+la commune sera évalué, à compter du 1er janvier 1987, par application des tarifs en vigueur dans la partie du territoire
+communal située hors de la zone de compétence du syndicat.
 
 **Liens relatifs à cet article**
 
@@ -61747,14 +63322,17 @@ territoire communal située hors de la zone de compétence du syndicat.
 	  - Loi n°70-610 1970-07-10
 	  - Loi n°83-636 1983-07-13
 
-	**Créé par**:
-
-	  - Loi n°85-1404 1985-12-30 art. 24 I, III Finances rectificative pour 1986 JORF 31 décembre 1985
-	  - Loi n°85-1404 du 30 décembre 1985 - art. 24 (V) JORF 31 décembre 1985
-
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°91-1256 du 17 décembre 1991 - art. 1 () JORF 19 décembre 1991
 
 
 ###### Article 1497
@@ -62678,50 +64256,49 @@ concessionnaires de mines, les amodiataires et sous-amodiataires des concessions
 d'exploitation de mines et par les explorateurs de mines de pétrole et de gaz combustibles. Cette redevance est applicable
 aux charbons extraits sous territoire étranger et amenés au jour par des puits et installations sis en France.
 
-II. 1° A compter du 1er janvier 1981 [*date point de départ*], les taux de la redevance communale des mines sont fixés à
-(1) :
+II. 1° A compter du 1er janvier 1981 [*date point de départ*], les taux de la redevance communale des mines sont fixés à :
 
-- 84,80 F par kilogramme d'or contenu pour les minerais aurifères ;
+84,80 F par kilogramme d'or contenu pour les minerais aurifères ;
 
-- 3,44 F par kilogramme d'uranium contenu pour les minerais d'uranium ;
+3,44 F par kilogramme d'uranium contenu pour les minerais d'uranium ;
 
-- 157 F par tonne d'oxyde de tungstène contenu pour les minerais de tungstène ;
+157 F par tonne d'oxyde de tungstène contenu pour les minerais de tungstène ;
 
-- 2,88 F par kilogramme d'argent contenu pour les minerais argentifères ;
+2,88 F par kilogramme d'argent contenu pour les minerais argentifères ;
 
-- 0,68 F par tonne nette livrée pour la bauxite ;
+0,68 F par tonne nette livrée pour la bauxite ;
 
-- 0,885 F par tonne nette livrée pour la fluorine.
+0,885 F par tonne nette livrée pour la fluorine.
 
 Pour le chlorure de sodium, les taux de la redevance communale des mines sont fixés, à compter du 1er janvier 1981, de la
 manière suivante :
 
-- 0,844 F par tonne nette livrée pour le sel extrait par abattage ;
+0,844 F par tonne nette livrée pour le sel extrait par abattage ;
 
-- 0,509 F par tonne nette livrée pour le sel extrait en dissolution par sondage et livré raffiné ;
+0,509 F par tonne nette livrée pour le sel extrait en dissolution par sondage et livré raffiné ;
 
-- 0,171 F par tonne de chlorure de sodium contenu pour le sel extrait en dissolution par sondage et livré en dissolution (1).
+0,171 F par tonne de chlorure de sodium contenu pour le sel extrait en dissolution par sondage et livré en dissolution (1).
 
-1° bis A compter du 1er janvier 1982, les taux de la redevance communale des mines sont fixés à (1) :
+1° bis A compter du 1er janvier 1982, les taux de la redevance communale des mines sont fixés à :
 
-- 3,17 F par tonne nette extraite pour le charbon ;
+3,17 F par tonne nette extraite pour le charbon ;
 
-- 12,95 F par tonne nette extraite pour le pétrole brut ;
+12,95 F par tonne nette extraite pour le pétrole brut ;
 
-- 3,80 F par mille mètres cubes extraits pour le gaz naturel ;
+3,80 F par mille mètres cubes extraits pour le gaz naturel ;
 
-- 11,87 F par tonne nette livrée pour le propane et le butane ;
+11,87 F par tonne nette livrée pour le propane et le butane ;
 
-- 10,73 F par tonne nette livrée pour l'essence de dégazolinage ;
+10,73 F par tonne nette livrée pour l'essence de dégazolinage ;
 
-- 3,42 F par tonne de soufre contenu pour les minerais de soufre autres que les pyrites de fer (2).
+3,42 F par tonne de soufre contenu pour les minerais de soufre autres que les pyrites de fer (2).
 
-1° ter. Pour les gisements mis en exploitation à compter du 1er janvier 1992, les taux de la redevance communale des mines
+1° ter Pour les gisements mis en exploitation à compter du 1er janvier 1992, les taux de la redevance communale des mines
 sont fixés à :
 
-- 3,31 F par mille mètres cubes extraits pour le gaz naturel ;
+3,31 F par mille mètres cubes extraits pour le gaz naturel ;
 
-- 11,30 F par tonne nette extraite pour le pétrole brut.
+11,30 F par tonne nette extraite pour le pétrole brut.
 
 2° Les taux de la redevance applicables à partir du 1er janvier 1954 aux substances minérales concédées autres que celles
 mentionnées au 1° et au 1° bis sont fixés, compte tenu de la valeur de la substance minérale concédée, par décret pris sur
@@ -62733,8 +64310,12 @@ dans la classe des mines par application de l'article 5 du Code minier (3).
 III. Les modalités d'application des I et II sont fixées par décret en Conseil d'Etat rendu après avis du conseil général des
 mines (4).
 
-IV. Les taux prévus au II évoluent chaque année comme l'indice de valeur du produit intérieur brut [*PIB*] total, tel qu'il
-est estimé dans la projection économique présentée en annexe au projet de loi de finances de l'année (5).
+IV. Les taux prévus au 1°, 1° bis et 2° du II évoluent chaque année comme l'indice de valeur du produit intérieur brut
+[*PIB*] total, tel qu'il est estimé dans la projection économique présentée en annexe au projet de loi de finances de l'année
+(5).
+
+Les taux visés au 1° ter du II évoluent chaque année comme l'indice des prix tel qu'il est estimé dans la projection
+économique présentée en annexe au projet de loi de finances de l'année.
 
 V. Les modalités d'attribution et de répartition de la redevance communale sont fixées par décrets en Conseil d'Etat (6).
 
@@ -62793,9 +64374,9 @@ note sous le premier alinéa du IV de l'article 1519.
 
 	  - Loi - art. 31 (V) JORF 31 décembre 1991
 
-	**Liens**:
+	**Codifié par**:
 
-	  - SPEC_APPLI: Loi n°91-1323 1991-12-30 art. 31 III
+	  - Décret n°92-836 1992-08-27
 
 
 ##### B : Imposition forfaitaire sur les pylônes
@@ -63781,7 +65362,7 @@ donnée par les parties, qu'elle soit qualifiée cession de pas de porte, indemn
 
 Cette taxe, dont la perception est confiée au service des impôts, est fixée à 1,20 p. cent. Le taux est fixé à 0,40 p. cent
 pour les mutations à titre onéreux visées au 2°. Pour les mutations visées aux 3°, 4° et 5° ci-dessus constatées par un acte
-passé ou une convention conclue à compter du 1er octobre 1989, les taux de la taxe sont fixés à :
+passé ou une convention conclue à compter du 1er octobre 1991, les taux de la taxe sont fixés à :
 
 FRACTION DE LA VALEUR TAXABLE :
 
@@ -63791,15 +65372,15 @@ TARIF APPLICABLE : 0 %
 
 FRACTION DE LA VALEUR TAXABLE :
 
-Comprise entre 100 000 F et 300 000 F
+Comprise entre 100 000 F et 500 000 F
 
 TARIF APPLICABLE : 0,40 %
 
 FRACTION DE LA VALEUR TAXABLE :
 
-Supérieure à 300 000 F
+Supérieure à 500 000 F
 
-TARIF APPLICABLE : 1 %.
+TARIF APPLICABLE : 1 % .
 
 Dans le cas prévu au 1° du premier alinéa, elle s'ajoute au droit départemental d'enregistrement ou à la taxe départementale
 de publicité foncière mentionnés aux articles 1594 A et 1594 F , sauf lorsque la mutation est soumise au droit proportionnel
@@ -63832,14 +65413,8 @@ intérieure, autres que les yachts ou bateaux de plaisance;
 
 10° (Abrogé)
 
-(1)  La perception de cette taxe a été étendue aux communes du département de la Guyane par l'article 10-I de la loi n°
+(1) La perception de cette taxe a été étendue aux communes du département de la Guyane par l'article 10-I de la loi n°
 71-1025 du 24 décembre 1971.
-
-**Nota:**
-
-Nota : Loi 91-716 art. 4 III " - Les dispositions du présent article entrent en vigueur le 15 juillet 1991. Toutefois, si la
-présente loi n'est pas promulguée à cette date, les dispositions mentionnées ci-dessus entrent en vigueur le premier lundi
-qui suit cette promulgation."
 
 **Liens relatifs à cet article**
 
@@ -63848,18 +65423,18 @@ qui suit cette promulgation."
 	  - CGI 1594 A
 	  - CGI 1594 F
 	  - CGI 733
-	  - Loi n°1906-04-30 art. 11
-	  - Loi n°1913-08-08
 	  - Loi n°71-1025 1971-12-24 art. 10 I
 	  - Code de commerce 93
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 4 III
+	  - Loi n°1906-04-30 art. 11
+	  - Loi n°1913-08-08
 
 	**Modifié par**:
 
-	  - Loi n°91-716 du 26 juillet 1991 - art. 4 (V) JORF 27 juillet 1991, en vigueur le 29 juillet 1991, art. 4 III, modification directe incorporée dans l'édition du 4 juillet 1992
+	  - Loi - art. 16 (V) JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -63868,6 +65443,10 @@ qui suit cette promulgation."
 	  - Code général des impôts, CGI. - art. 1584 bis (V)
 	  - Code général des impôts, CGI. - art. 1595 ter (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 267 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1992-01-17 7D-2-92
 
 
 ##### Section III : Taxe locale d'équipement
@@ -63934,9 +65513,9 @@ locale d'équipement, les constructions édifiées sur les terrains concernés n
 II Le conseil municipal peut renoncer à percevoir, en tout ou partie, la taxe locale d'équipement sur les locaux à usage
 d'habitation édifiés pour leur compte ou à titre de prestataire de services par les organismes mentionnés à l'article L.
 411-2 du code de la construction et de l'habitation et par les sociétés d'économie mixte définies par la loi n° 83-597 du 7
-juillet 1983 ou celles à capitaux publics majoritaires réalisant des locaux à usage d'habitation principale financés à titre
-prépondérant au moyen de prêts ouvrant droit au bénéfice de dispositions prévues au titre V du livre III du code de la
-construction et de l'habitation.
+juillet 1983 modifiée ou celles à capitaux publics majoritaires réalisant des locaux à usage d'habitation principale financés
+à titre prépondérant au moyen de prêts ouvrant droit au bénéfice de dispositions prévues au titre V du livre III du code de
+la construction et de l'habitation.
 
 Dans les départements d'outre-mer, le conseil municipal peut exonérer de la taxe :
 
@@ -63957,7 +65536,11 @@ III (Abrogé).
 IV  Le conseil municipal peut exempter de la taxe les bâtiment à usage agricole autres que ceux mentionnés à l'article L
 112-7 du code de l'urbanisme.
 
-1)  Annexe II, art. 317 bis. 2)  Voir Annexe II, art. 317 quinquies. 3)  Annexe II, art. 317 quater.
+(1) Annexe II, art. 317 bis.
+
+(2) Voir Annexe II, art. 317 quinquies.
+
+(3) Annexe II, art. 317 quater.
 
 **Liens relatifs à cet article**
 
@@ -63974,13 +65557,11 @@ IV  Le conseil municipal peut exempter de la taxe les bâtiment à usage agricol
 
 	**Modifié par**:
 
-	  - Loi n°85-729 1985-07-18 art. 22 I, II, III, art. 23 JORF 19 juillet 1985
-	  - Loi n°85-729 du 18 juillet 1985 - art. 22 () JORF 19 juillet 1985
-	  - Loi n°85-729 du 18 juillet 1985 - art. 23 () JORF 19 juillet 1985
+	  - Loi n°92-125 du 6 février 1992 - art. 42 () JORF 8 février 1992
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -64076,9 +65657,9 @@ appliqués antérieurement au 15 juillet 1991 pour la catégorie 7°."
 
 ###### Article 1585 E
 
-I  Le taux de la taxe est fixé à 1 % de la valeur de l'ensemble immobilier dans les conditions prévues à l'article 1585 D.
+I. Le taux de la taxe est fixé à 1 % de la valeur de l'ensemble immobilier dans les conditions prévues à l'article 1585 D.
 
-II  Ce taux peut être porté jusqu'à 5 % par délibération du conseil municipal.
+II. Ce taux peut être porté jusqu'à 5 % par délibération du conseil municipal.
 
 Il ne peut faire l'objet d'aucune modification avant l'expiration d'un délai de trois ans à compter de la date de son entrée
 en vigueur.
@@ -64089,16 +65670,28 @@ conseil municipal peut fixer un nouveau taux. Dans ce cas, pour l'application du
 dispositions du deuxième alinéa, le nouveau taux est réputé avoir été fixé à la date à laquelle est entré en vigueur le taux
 auquel il se substitue.
 
+III. A défaut de délibération du conseil municipal ou de l'organe délibérant de l'établissement public groupant plusieurs
+communes fixant les taux pour les catégories visées aux 7°, 8° et 9° du troisième alinéa du I de l'article 1585 D, les taux
+applicables à ces catégories sont ceux appliqués antérieurement au 15 juillet 1991 pour la catégorie visée au 7° du troisième
+alinéa du I du même article.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1585 D
-	  - CGI 1585 H
+	  - CGI 1585 D, 1585 H
 
 	**Modifié par**:
 
 	  - Loi n°91-716 du 26 juillet 1991 - art. 40 (V) JORF 27 juillet 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 1585 F
@@ -64304,9 +65897,9 @@ par décret.
 
 ###### Article 1586 C
 
-Il est accordé un dégrèvement de 45 p. 100 sur la cotisation de taxe foncière sur les propriétés non bâties perçue au titre
-de 1991 au profit du département sur les propriétés non bâties classées dans la catégorie des prés, prairies naturelles,
-herbages et pâturages.
+Il est accordé un dégrèvement de 70 p. 100 sur la cotisation de taxe foncière sur les propriétés non bâties perçue au titre
+de 1992 au profit du département sur les propriétés non bâties classées dans les deuxième et sixième catégories définies à
+l'article 18 de l'instruction ministérielle du 31 décembre 1908.
 
 Il n'est pas effectué de dégrèvement d'un montant inférieur à 50 F.
 
@@ -64317,15 +65910,16 @@ décembre 1957.
 
 	**Cite**:
 
+	  - Instruction 1908-12-31
 	  - Loi n°57-1260 1957-12-12 art. 1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-1168 1990-12-29 art. 6 Finances pour 1991 JORF 30 décembre 1990
+	  - Loi - art. 14 () JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
 
 
 ##### Redevance départementale des mines.
@@ -64340,50 +65934,69 @@ aux charbons extraits sous territoire étranger et amenés au jour par des puits
 II. 1° A compter du 1er janvier 1981 [*date point de départ*], les taux de la redevance départementale des mines sont fixés à
 (1) :
 
-- 1,32 F [*montant*] par tonne nette extraite pour le charbon ;
+1,32 F [*montant*] par tonne nette extraite pour le charbon ;
 
-- 16,70 F par kilogramme d'or contenu pour les minerais aurifères ;
+16,70 F par kilogramme d'or contenu pour les minerais aurifères ;
 
-- 0,691 F par kilogramme d'uranium contenu pour les minerais d'uranium ;
+0,691 F par kilogramme d'uranium contenu pour les minerais d'uranium ;
 
-- 31,20 F par tonne d'oxyde de tungstène contenu pour les minerais de tungstène ;
+31,20 F par tonne d'oxyde de tungstène contenu pour les minerais de tungstène ;
 
-- 0,576 F par kilogramme d'argent contenu pour les minerais argentifères ;
+0,576 F par kilogramme d'argent contenu pour les minerais argentifères ;
 
-- 0,136 F par tonne nette livrée pour la bauxite ;
+0,136 F par tonne nette livrée pour la bauxite ;
 
-- 0,179 F par tonne nette livrée pour la fluorine.
+0,179 F par tonne nette livrée pour la fluorine.
 
 Pour le chlorure de sodium, les taux de la redevance départementale des mines sont fixés (1), à compter du 1er janvier 1981,
 de la manière suivante :
 
-- 0,171 F par tonne nette livrée pour le sel extrait par abattage ;
+0,171 F par tonne nette livrée pour le sel extrait par abattage ;
 
-- 0,101 F par tonne nette livrée pour le sel extrait en dissolution par sondage et livré raffiné ;
+0,101 F par tonne nette livrée pour le sel extrait en dissolution par sondage et livré raffiné ;
 
-- 0,0329 F par tonne de chlorure de sodium contenu pour le sel extrait en dissolution par sondage et livré en dissolution.
+0,0329 F par tonne de chlorure de sodium contenu pour le sel extrait en dissolution par sondage et livré en dissolution.
 
 1° bis A compter du 1er janvier 1982, les taux de la redevance départementale des mines sont fixés à (1) :
 
-- 16,85 F par tonne nette extraite pour le pétrole brut ;
+16,85 F par tonne nette extraite pour le pétrole brut ;
 
-- 4,80 F par mille mètres cubes extraits pour le gaz naturel ;
+4,80 F par mille mètres cubes extraits pour le gaz naturel ;
 
-- 9,13 F par tonne nette livrée pour le propane et le butane ;
+9,13 F par tonne nette livrée pour le propane et le butane ;
 
-- 8,17 F par tonne nette livrée pour l'essence de dégazolinage ;
+8,17 F par tonne nette livrée pour l'essence de dégazolinage ;
 
-- 2,62 F par tonne de soufre contenu pour les minerais de soufre autres que les pyrites de fer.
+2,62 F par tonne de soufre contenu pour les minerais de soufre autres que les pyrites de fer.
+
+1° ter. Pour les gisements mis en exploitation à compter du 1er janvier 1992, les taux de la redevance départementale des
+mines sont fixés à (2) :
+
+4,18 F par mille mètres cubes extraits pour le gaz naturel ;
+
+14,60 F par tonne nette extraite pour le pétrole brut.
 
 2° Les taux de la redevance départementale des mines applicables, à partir du 1er janvier 1954, aux substances minérales
 concédées autres que celles mentionnées au 1° et au 1° bis, sont fixés dans les conditions prévues à l'article 1519-II pour
-la redevance communale.
+la redevance communale (2).
 
-III. Les taux visés au II varient dans les conditions prévues à l'article 1519-IV.
+III Les taux visés aux 1°, 1° bis et 2° du II varient dans les conditions prévues au premier alinéa du IV de l'article 1519.
+
+Les taux visés au 1° ter du II varient dans les conditions prévues au deuxième alinéa du IV de l'article 1519.
 
 (1) Taux à majorer des perceptions prévues aux articles 1641 et 1644.
 
+(2) En ce qui concerne le gaz carbonique, voir la note sous le 2° du II de l'article 1519.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi - art. 31 (V) JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -64398,14 +66011,6 @@ III. Les taux visés au II varient dans les conditions prévues à l'article 151
 	  - CGI 1519 II, IV
 	  - CGI 1641
 	  - CGI 1644
-
-	**Modifié par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 21 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
 
 
 ##### III : Redevance départementale des mines
@@ -64530,7 +66135,7 @@ donnée par les parties, qu'elle soit qualifiée cession de pas de porte, indemn
 
 Cette taxe, dont la perception est confiée au service des impôts, est fixée à 1,60 p. cent. Le taux est fixé à 0,50 p. cent
 pour les mutations à titre onéreux visées au 2°. Pour les mutations visées aux 3°, 4° et 5° ci-dessus constatées par un acte
-passé ou une convention conclue à compter du 1er octobre 1989, les taux de la taxe sont fixés à :
+passé ou une convention conclue à compter du 1er octobre 1991, les taux de la taxe sont fixés à :
 
 FRACTION DE LA VALEUR TAXABLE :
 
@@ -64540,22 +66145,24 @@ TARIF APPLICABLE : 0 %
 
 FRACTION DE LA VALEUR TAXABLE :
 
-Comprise entre 100 000 F et 300 000 F
+Comprise entre 100 000 F et 500 000 F
 
 TARIF APPLICABLE : 0,60 %
 
 FRACTION DE LA VALEUR TAXABLE :
 
-Supérieure à 300 000 F
+Supérieure à 500 000 F
 
-TARIF APPLICABLE : 1,40 %.
+TARIF APPLICABLE : 1,40 % (2).
 
 Elle est soumise aux règles qui gouvernent l'exigibilité, la restitution et le recouvrement des droits ou de la taxe auxquels
-elle s'ajoute (2).
+elle s'ajoute (3).
 
 (1) Sous réserve des dispositions de l'article 1595 ter.
 
-(2) La perception de cette taxe a été étendue au département de la Guyane par l'article 10-I de la loi n° 71-1025 du 24
+(2) Ces dispositions sont applicables aux actes passés et aux conventions conclues à compter du 1er octobre 1991.
+
+(3) La perception de cette taxe a été étendue au département de la Guyane par l'article 10-I de la loi n° 71-1025 du 24
 décembre 1971.
 
 **Liens relatifs à cet article**
@@ -64568,11 +66175,11 @@ décembre 1971.
 
 	**Modifié par**:
 
-	  - Loi n°89-935 1989-12-29 art. 27 Finances pour 1990 JORF 30 décembre 1989
+	  - Loi - art. 16 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -64581,6 +66188,10 @@ décembre 1971.
 	  - Code général des impôts, CGI. - art. 1595 ter (V)
 	  - Code général des impôts, CGI. - art. 1599 N (MMN)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 267 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1992-01-17 7D-2-92
 
 
 ###### Article 1595 bis
@@ -64603,7 +66214,7 @@ donnée par les parties, qu'elle soit qualifiée cession de pas de porte, indemn
 
 Cette taxe, dont la perception est confiée au service des impôts, est fixée à 1,20 p. 100. Le taux est fixé à 0,40 p. 100
 pour les mutations à titre onéreux visées au 2°. Pour les mutations visées aux 3°, 4° et 5° ci-dessus constatées par un acte
-passé ou une convention conclue à compter du 1er octobre 1989, les taux de la taxe sont fixés à :
+passé ou une convention conclue à compter du 1er octobre 1991, les taux de la taxe sont fixés à :
 
 FRACTION DE LA VALEUR TAXABLE :
 
@@ -64613,31 +66224,32 @@ TARIF APPLICABLE :  0 %
 
 FRACTION DE LA VALEUR TAXABLE :
 
-Comprise entre 100 000 F et 300 000 F
+Comprise entre 100 000 F et 500 000 F
 
 TARIF APPLICABLE : 0,40 %
 
 FRACTION DE LA VALEUR TAXABLE :
 
-Supérieure à 300 000 F
+Supérieure à 500 000 F
 
-TARIF APPLICABLE : 1 %.
+TARIF APPLICABLE : 1 % (2).
 
 Dans le cas prévu au 1° du premier alinéa, elle s'ajoute au droit départemental d'enregistrement ou à la taxe départementale
 de publicité foncière mentionnés aux articles 1594 A et 1594 F , sauf lorsque la mutation est soumise au taux proportionnel
 de 0,60 %.
 
 La taxe est soumise aux règles qui gouvernent l'exigibilité, la restitution et le recouvrement des droits ou de la taxe
-auxquels elle s'ajoute (2).
+auxquels elle s'ajoute (3).
 
 Les ressources provenant de ce fonds de péréquation seront réparties entre les communes de moins de 5.000 habitants suivant
 un barème établi par le conseil général. Le système de répartition adopté devra tenir compte de l'importance de la
 population, des charges de voirie de la commune, de la valeur du centime, du pourcentage officiel de sinistre et de l'effort
 fiscal fourni par la collectivité bénéficiaire.
 
-(1)  Sous réserve des dispositions de l'article 1595 ter.
+(1) Sous réserve des dispositions de l'article 1595 ter.    (2) Ces dispositions sont applicables aux actes passés et aux
+conventions conclues à compter du 1er octobre 1991.
 
-(2)  La perception de cette taxe a été étendue aux communes du département de la Guyane par l'article 10-I de la loi n°
+(3) La perception de cette taxe a été étendue aux communes du département de la Guyane par l'article 10-I de la loi n°
 71-1025 du 24 décembre 1971.
 
 **Liens relatifs à cet article**
@@ -64651,11 +66263,11 @@ fiscal fourni par la collectivité bénéficiaire.
 
 	**Modifié par**:
 
-	  - Loi n°89-935 1989-12-29 art. 27 Finances pour 1990 JORF 30 décembre 1989
+	  - Loi - art. 16 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -65705,6 +67317,48 @@ par les mots "collectivité territoriale de Corse".
 
 ##### Section II : Taxe différentielle sur les véhicules à moteur perçue au profit de la collectivité territoriale de Corse
 
+###### Article 1599 decies
+
+L'assemblée de Corse, en respectant les catégories de puissance fiscale des tarifs de l'article 17 de la loi de finances pour
+1983 et du III de l'article 18 de la loi n° 85-695 du 11 juillet 1985, modifié par le II de l'article 20 de la loi de
+finances rectificative pour 1987, fixe, dans la limite d'un plafond constitué par ces tarifs, les tarifs de la taxe
+applicable aux véhicules de moins de cinq ans.
+
+Ces tarifs sont réduits de 50 p. 100 pour les véhicules ayant plus de cinq ans mais moins de vingt ans d'âge.
+
+Les tarifs applicables aux véhicules ayant plus de vingt ans mais moins de vingt-cinq ans d'âge sont déterminés en appliquant
+au montant de taxe le plus faible appliqué aux véhicules de moins de cinq ans d'âge le coefficient de 0,4.
+
+**Nota:**
+
+NOTA : Loi 2005-1719 2005-12-30 art. 14 VI Finances pour 2006 :
+
+Les dispositions prévues aux II, III, IV et VIII s'appliquent à compter de la période d'imposition s'ouvrant le 1er décembre
+2006.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1599 G
+	  - Loi n°82-1126 1982-12-29 art. 17 Finances pour 1983
+	  - Loi n°85-695 1985-07-11 art. 18 III
+	  - Loi n°87-1061 1987-12-30 art. 20 II Finances rectificative pour 1987
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°91-426 1991-05-13 art. 2, art. 87, art. 89 JORF 14 mai 1991
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
+
+
 ###### Article 1599 duodecies
 
 Le préfet notifie les nouveaux tarifs aux directions des services fiscaux concernées avant le 30 avril de chaque année.
@@ -65737,6 +67391,112 @@ Les dispositions prévues aux II, III, IV et VIII s'appliquent à compter de la 
 
 	  - HISTO: Edition du 15 juillet 1988
 	  - HISTO: Edition du 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
+
+
+###### Article 1599 nonies
+
+Une taxe différentielle sur les véhicules à moteur est perçue au profit de la collectivité territoriale de Corse.
+
+Les dispositions des articles 1599 C à 1599 F, 1599 I et 1599 J sont applicables à cette taxe (1).
+
+(1) Voir Annexe II, art. 318 et 318 A et livre des procédures fiscales, art. R. 212-1 et R. 213-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1599 C à CGI 1599 F
+	  - CGI 1599 I
+	  - CGI 1599 J
+	  - CGI R212-1
+	  - CGI R213-1
+	  - CGIAN2 318
+	  - CGIAN2 318 A
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 2 (Ab) JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 87 (V) JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 89 (Ab) JORF 14 mai 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+
+###### Article 1599 ter C
+
+Il est accordé un dégrèvement de 70 p. 100 sur la cotisation de taxe foncière sur les propriétés non bâties perçue au titre
+de 1992 au profit de la région sur les propriétés non bâties classées dans les deuxième et sixième catégories définies à
+l'article 18 de l'instruction ministérielle du 31 décembre 1908.
+
+Il n'est pas effectué de dégrèvement d'un montant inférieur à 50 F.
+
+Le montant du dégrèvement bénéficie au fermier dans les conditions prévues à l'article 1er de la loi n° 57-1260 du 12
+décembre 1957.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°57-1260 1957-12-12 art. 1
+	  - Instruction 1908-12-31
+
+	**Modifié par**:
+
+	  - Loi - art. 14 () JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+	  - Décret n°93-1127 1993-09-24
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 1 () JORF 28 septembre 1993
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 1599 undecies
+
+Lorsque, pour une période d'imposition donnée, les tarifs atteignent ou dépassent les tarifs visés à l'article 17 de la loi
+de finances pour 1983 et au III de l'article 18 de la loi n° 85-695 du 11 juillet 1985, modifié par le II de l'article 20 de
+la loi de finances rectificative pour 1987, les dispositions de l'article 1599 G deviennent applicables à la collectivite
+territoriale de Corse.
+
+**Nota:**
+
+NOTA : Loi 2005-1719 2005-12-30 art. 14 VI Finances pour 2006 :
+
+Les dispositions prévues aux II, III, IV et VIII s'appliquent à compter de la période d'imposition s'ouvrant le 1er décembre
+2006.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1007 bis
+	  - CGI 1599 G
+	  - Loi n°82-1126 1982-12-29 art. 17 Finances pour 1983
+	  - Loi n°85-695 1985-07-12 art. 18 III
+	  - Loi n°87-1061 1987-12-30 art. 20 II Finances rectificative pour 1987
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°91-426 1991-05-13 art. 2, art. 87, art. 89 JORF 14 mai 1991
 
 	**Abrogé par**:
 
@@ -66097,126 +67857,6 @@ sanctions applicables à celle-ci. Les réclamations sont présentées, instruit
 	  - Code général des collectivités territoriales - art. L4425-1 (MMN)
 
 
-### Titre II bis : Impositions régionales
-
-#### Chapitre premier : Impôts directs
-
-##### Exonérations et dégrèvements
-
-###### Article 1599 ter C
-
-Il est accordé un dégrèvement de 45 p. 100 sur la cotisation de taxe foncière sur les propriétés non bâties perçue au titre
-de 1991 au profit de la région sur les propriétés non bâties classées dans la catégorie des prés, prairies naturelles,
-herbages et pâturages.
-
-Il n'est pas effectué de dégrèvement d'un montant inférieur à 50 F.
-
-Le montant du dégrèvement bénéficie au fermier dans les conditions prévues à l'article 1er de la loi n° 57-1260 du 12
-décembre 1957.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°57-1260 1957-12-12 art. 1
-
-	**Créé par**:
-
-	  - Loi n°90-1168 1990-12-29 art. 6 Finances pour 1991 JORF 30 décembre 1990
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
-
-
-#### Chapitre II : Enregistrement, publicité foncière et timbre
-
-##### Section II : Taxe différentielle sur les véhicules à moteur perçue au profit de la région de Corse
-
-###### Article 1599 decies
-
-L'assemblée de la région de Corse, en respectant les catégories de puissance fiscale des tarifs de l'article 17 de la loi de
-finances pour 1983 et du III de l'article 18 de la loi n° 85-695 du 11 juillet 1985, modifié par le II de l'article 20 de la
-loi de finances rectificative pour 1987, fixe, dans la limite d'un plafond constitué par ces tarifs, les tarifs de la taxe
-applicable aux véhicules de moins de cinq ans.
-
-Ces tarifs sont réduits de 50 p. 100 pour les véhicules ayant plus de cinq ans mais moins de vingt ans d'âge.
-
-Les tarifs applicables aux véhicules ayant plus de vingt ans mais moins de vingt-cinq ans d'âge sont déterminés en appliquant
-au montant de taxe le plus faible appliqué aux véhicules de moins de cinq ans d'âge le coefficient de 0,4.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1599 G
-	  - Loi n°82-1126 1982-12-29 art. 17 Finances pour 1983
-	  - Loi n°85-695 1985-07-11 art. 18 III
-	  - Loi n°87-1061 1987-12-30 art. 20 II Finances rectificative pour 1987
-
-	**Modifié par**:
-
-	  - Loi n°87-1061 du 30 décembre 1987 - art. 20 (V) JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-
-###### Article 1599 nonies
-
-Une taxe différentielle sur les véhicules à moteur est perçue au profit de la région de Corse.
-
-Les dispositions des articles 1599 C à 1599 F, 1599 I et 1599 J sont applicables à cette taxe (1).
-
-(1) Voir Annexe II, art. 318 et 318 A et livre des procédures fiscales, art. R. 212-1 et R. 213-1.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1599 C à CGI 1599 F
-	  - CGI 1599 I
-	  - CGI 1599 J
-	  - CGI R212-1
-	  - CGI R213-1
-	  - CGIAN2 318
-	  - CGIAN2 318 A
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-	**Modifié par**:
-
-	  - Décret n°88-1001 1988-10-20 art. 1, JORF 22 octobre 1988, en vigueur le 15 juillet 1988
-
-
-###### Article 1599 undecies
-
-Lorsque, pour une période d'imposition donnée, les tarifs atteignent ou dépassent les tarifs visés à l'article 17 de la loi
-de finances pour 1983 et au III de l'article 18 de la loi n° 85-695 du 11 juillet 1985, modifié par le II de l'article 20 de
-la loi de finances rectificative pour 1987, les dispositions de l'article 1599 G deviennent applicables à la région de Corse.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1007 bis
-	  - CGI 1599 G
-	  - Loi n°82-1126 1982-12-29 art. 17 Finances pour 1983
-	  - Loi n°85-695 1985-07-12 art. 18 III
-	  - Loi n°87-1061 1987-12-30 art. 20 II Finances rectificative pour 1987
-
-	**Modifié par**:
-
-	  - Loi n°87-1061 du 30 décembre 1987 - art. 20 (V) JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-
 ### Titre III : Impositions perçues au profit de certains établissements publics et d'organismes divers
 
 #### Chapitre premier : Impôts directs et taxes assimilées
@@ -66359,9 +67999,12 @@ l'année. Ce droit fait obligatoirement l'objet d'une majoration comprise entre 
 des actions de formation continue. Ce droit peut également faire l'objet d'une majoration, destinée à financer des actions de
 développement dans la limite de 10 p. 100 de son maximum, qui alimente un fonds national créé à cet effet.
 
+Pour 1992, les chambres de métiers peuvent majorer au maximum de 6 F le montant du droit fixe tel qu'il est prévu en vue de
+la prise en charge de l'intégralité des dépenses relatives aux élections consulaires de 1992.
+
 b. un droit additionnel à la taxe professionnelle, dont le produit est arrêté par les chambres de métiers sans pouvoir
-excéder 50 % [*pourcentage*] de celui du droit fixe, et sans que puisse être pris en compte pour son calcul la majoration
-prévue au a.
+excéder 50 % [*pourcentage*] de celui du droit fixe, et sans que puissent être prises en compte pour son calcul les
+majorations prévues au a.
 
 Toutefois, le régime applicable dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle demeure en vigueur.
 
@@ -66414,7 +68057,10 @@ loi n° 56-639 du 30 juin 1956 sont dégrevés d'office de la taxe.
 	**Modifié par**:
 
 	  - Loi - art. 126 (V) JORF 31 décembre 1991
-	  - Modification directe incorporée dans l'édition du 4 juillet 1992
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ##### Section II bis : Dispositions communes à la taxe pour frais de chambres de commerce et d'industrie et à la taxe pour frais de chambres de métiers
@@ -66521,6 +68167,65 @@ II. Le taux maximum et les conditions d'application de la taxe sont fixés par d
 	  - Code rural et de la pêche maritime - art. L514-1 (M)
 
 
+##### Section VII bis : Taxe spéciale d'équipement perçue au profit des établissements publics fonciers
+
+###### Article 1607 bis
+
+Il est institué, au profit des établissements publics fonciers mentionnés aux articles L. 324-1 et suivants du code de
+l'urbanisme, une taxe spéciale d'équipement destinée à permettre à ces établissements de financer les acquisitions foncières
+et immobilières correspondant à leur vocation.
+
+Le montant de cette taxe est arrêté chaque année par le conseil d'administration de l'établissement public dans les limites
+d'un plafond fixé pour chaque établissement par la loi de finances.
+
+Ce montant est réparti, dans les conditions définies au II de l'article 1636 B octies, entre toutes les personnes physiques
+ou morales assujetties aux taxes foncières sur les propriétés bâties et non bâties, à la taxe d'habitation et à la taxe
+professionnelle dans les communes comprises dans la zone de compétence de l'établissement public.
+
+A compter de l'année d'incorporation dans les rôles des résultats de la révision générale des évaluations cadastrales
+effectuée dans les conditions fixées par la loi n° 90-669 du 30 juillet 1990 relative à la révision générale des évaluations
+des immeubles retenus pour la détermination des bases des impôts directs locaux, les organismes d'habitations à loyer modéré
+sont exonérées de la taxe additionnelle au titre des locaux d'habitation et dépendances dont ils sont propriétaires et qui
+sont attribués sous conditions de ressources. Les redevables au nom desquels une cotisation de taxe d'habitation est établie
+au titre de ces locaux sont exonérés de la taxe additionnelle à compter de la même date.
+
+Les cotisations sont établies et recouvrées, les réclamations sont présentées et jugées comme en matière de contributions
+directes.
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1636 B octies II
+	  - Loi n°90-669 1990-07-30
+	  - Code de l'urbanisme - art. L324-1 (M)
+
+	**Créé par**:
+
+	  - Loi - art. 28 () JORF 19 juillet 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L324-8 (V)
+	  - Code général des collectivités territoriales - art. L4424-26-5 (V)
+	  - Code général des impôts, CGI. - art. 1396 (V)
+	  - Code général des impôts, CGI. - art. 1607 ter (VD)
+	  - Code général des impôts, CGI. - art. 1609 F (Ab)
+	  - Code général des impôts, CGI. - art. 1609 G (VD)
+	  - Code général des impôts, CGI. - art. 1647 B sexies (VD)
+	  - Code général des impôts, CGI. - art. 1647 C quinquies A (Ab)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+
 ##### Section VIII : Taxe spéciale d'équipement perçue au profit de l'établissement public d'aménagement de la Basse-Seine
 
 ###### Article 1608
@@ -66603,6 +68308,40 @@ mentionnée à l'article 1608.
 	  - HISTO: Edition du 15 juillet 1988
 
 
+##### Section IX bis : Taxe spéciale d'équipement perçue au profit de l'établissement public foncier du Nord - Pas-de-Calais
+
+###### Article 1609 A
+
+Il est institué, à compter de 1992, une taxe spéciale d'équipement destinée à permettre à l'établissement public foncier du
+Nord - Pas-de-Calais de financer les acquisitions foncières auxquelles il procède dans le cadre des opérations d'aménagement,
+notamment de reconversion des friches industrielles et de leurs abords, qui lui sont confiées.
+
+Le montant de cette taxe est arrêté avant le 31 décembre de chaque année, pour l'année suivante, dans la limite de 30
+millions de francs, par le conseil d'administration de l'établissement public et notifié aux services fiscaux. Toutefois, au
+titre de 1992, le montant devra être arrêté et notifié avant le 31 mai 1992.
+
+La taxe est répartie et recouvrée, dans la zone de compétence de l'établissement, suivant les mêmes règles que pour la taxe
+mentionnée à l'article 1608.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1608
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Créé par**:
+
+	  - Loi - art. 105 () JORF 31 décembre 1991
+
+
 ##### Section X : Impositions perçues au profit des communautés urbaines
 
 ###### Article 1609 bis
@@ -66666,6 +68405,35 @@ peut percevoir les impôts mentionnés au 1° de l'article 1609 bis dans les con
 	**Créé par**:
 
 	  - Loi n°92-125 du 6 février 1992 - art. 96 () JORF 8 février 1992
+
+
+###### Article 1609 ter B
+
+Le conseil d'une communauté urbaine existant à la date de publication de la loi d'orientation n° 92-125 du 6 février 1992
+relative à l'administration territoriale de la République peut, à la majorité des trois quarts de ses membres, décider
+d'opter pour le régime fiscal prévu au II de l'article 1609 quinquies C si elle crée ou gère une zone d'activités économiques
+dans les conditions prévues à cet article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1609 quinquies C, 1609 ter B
+	  - Loi n°92-125 1992-02-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 4 juillet 1992
+	  - SPEC_APPLI: Loi n°92-125 1992-02-06 art. 106
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 104 () JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 81 () JORF 13 juillet 1999
 
 
 ##### Section XI : Impositions perçues au profit des syndicats de communes et des syndicats mixtes
@@ -66741,6 +68509,60 @@ prévues à l'article 1520, lorsqu'ils assurent la collecte ainsi que la destruc
 	**Liens**:
 
 	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 1609 quinquies A
+
+Le conseil d'un district doté d'une fiscalité propre existant à la date de publication de la loi d'orientation n° 92-125 du 6
+février 1992 relative à l'administration territoriale de la République et exerçant les compétences mentionnées aux deuxième
+et troisième alinéas de l'article L. 168-4 du code des communes peut, à la majorité des trois quarts de ses membres, décider
+de percevoir la taxe professionnelle selon les dispositions de l'article 1609 nonies C. Dans ce cas, le district ne peut
+percevoir les impôts mentionnés au 1° de l'article 1609 bis dans les conditions prévues à cet article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1609 nonies C, 1609 bis
+	  - Loi n°92-125 1992-02-06
+	  - CODE DES COMMUNES. - art. L168-4 (Ab)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 96 () JORF 8 février 1992
+
+	**Cité par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 52 (VD)
+
+
+###### Article 1609 quinquies B
+
+Le conseil d'un district doté d'une fiscalité propre existant à la date de publication de la loi d'orientation n° 92-125 du 6
+février 1992 relative à l'administration territoriale de la République et exerçant des compétences en matière d'aménagement
+de l'espace et d'actions de développement économique peut, à la majorité des trois quarts de ses membres, décider d'opter
+pour le régime fiscal prévu au II de l'article 1609 quinquies C s'il crée ou gère une zone d'activités économiques dans les
+conditions prévues à cet article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1609 quinquies C, 1639 A bis
+	  - Loi n°92-125 1992-02-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+	  - SPEC_APPLI: Loi n°92-125 1992-02-06 art. 106
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 105 () JORF 8 février 1992
 
 
 ##### Section XII bis : Impositions perçues au profit des communautés de communes
@@ -67017,47 +68839,101 @@ chacune des communes qui les composent.
 
 ###### Article 1609 nonies B
 
-La communauté ou le syndicat d'agglomération nouvelle créés en application de la loi n° 83-636 du 13 juillet 1983 sont
-substitués aux communes membres pour l'application des dispositions relatives à la taxe professionnelle, à l'exception des
-paragraphes II et suivants de l'article 1648 A, et de l'article 1648 B.
+La communauté ou le syndicat d'agglomération nouvelle créés en application de la loi n° 83-636 du 13 juillet 1983 modifiée
+sont substitués aux communes membres pour l'application des dispositions relatives à la taxe professionnelle, à l'exception
+des paragraphes II et suivants de l'article 1648 A, et de l'article 1648 B.
 
 II. Si, du fait de l'application des dispositions de l'article 1636 B sexies ou de l'article 1636 B septies, les ressources
 propres de la communauté ou du syndicat d'agglomération nouvelle, à l'exclusion du produit des emprunts, sont insuffisantes
 pour couvrir la charge de la dette et les autres dépenses obligatoires, notamment la dotation d'équilibre servie aux communes
-en vertu de l'article 27 de la loi n° 83-636 du 13 juillet 1983, la communauté ou le syndicat d'agglomération nouvelle peut
-prélever une taxe additionnelle sur les taxes foncières et sur la taxe d'habitation, sous réserve que les rapports entre les
-taux de ces trois taxes soient égaux aux rapports constatés, l'année précédente, entre les taux moyens pondérés de chaque
-taxe dans l'ensemble des communes membres.
+en vertu de l'article 27 de la loi n° 83-636 du 13 juillet 1983 modifiée, la communauté ou le syndicat d'agglomération
+nouvelle peut prélever une taxe additionnelle sur les taxes foncières et sur la taxe d'habitation, sous réserve que les
+rapports entre les taux de ces trois taxes soient égaux aux rapports constatés, l'année précédente, entre les taux moyens
+pondérés de chaque taxe dans l'ensemble des communes membres.
 
 III. Les communautés ou les syndicats d'agglomérations nouvelles se substituent aux syndicats communautaires d'aménagement
-visés à l'article 1609 sexies à une date fixée par décret (1).
+visés à l'article 1609 sexies à une date fixée par décret.
 
-(1) Décret à émettre.
+IV. Lorsqu'ils peuvent être perçus par des établissements publics de coopération intercommunale, les autres droits et taxes
+mentionnés au III de l'article 1379 peuvent être transférés à la communauté ou au syndicat d'agglomération nouvelle, par
+délibérations concordantes de toutes les communes membres.
+
+Le transfert de ces droits et taxes à la communauté ou au syndicat d'agglomération nouvelle s'accompagne des obligations
+liées à leur perception.
+
+En cas de dénonciation de l'accord par une des communes membres, la perception de ces droits et taxes par la communauté ou le
+syndicat d'agglomération nouvelle prend fin sur le territoire de cette commune.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1609 sexies
-	  - CGI 1636 B septies
-	  - CGI 1636 B sexies
-	  - CGI 1648 A
-	  - CGI 1648 B
+	  - CGI 1648 A, 1648 B, 1636 B sexies, 1636 B septies, 1609 sexies, 1379
 	  - Loi n°83-636 1983-07-13 art. 27
-
-	**Modifié par**:
-
-	  - Loi n°84-1284 du 31 décembre 1984 - art. 4 () JORF 1er janvier 1985
 
 	**Codifié par**:
 
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
 	  - Décret n°2008-98 du 30 janvier 2008 - art. 2 (V)
 	  - Code général des collectivités territoriales - art. L2313-1 (V)
 	  - Code général des impôts, CGI. - art. 1640 B (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 1994-03-16 6A-2-94
+
+	**Modifié par**:
+
+	  - Loi n°91-1256 du 17 décembre 1991 - art. 1 () JORF 19 décembre 1991
+	  - Loi - art. 62 () JORF 31 décembre 1991
+
+
+###### Article 1609 nonies BA
+
+I. - Lorsqu'une zone d'activités économiques se situe à la fois sur le territoire d'une agglomération nouvelle et sur celui
+d'une commune limitrophe de cette agglomération nouvelle et comprise dans le périmètre d'intervention d'un établissement
+public d'aménagement de villes nouvelles, l'organe délibérant de l'agglomération nouvelle et le conseil municipal de la
+commune concernée peuvent, par délibérations concordantes, décider que le taux de la taxe professionnelle acquittée dans
+cette zone sera celui s'appliquant chaque année sur le territoire de l'agglomération nouvelle, convenir de la répartition du
+produit de cette taxe afférent à ladite zone et fixer, en tant que de besoin, leurs obligations réciproques. Ces
+délibérations déterminent également le périmètre de la zone d'activité concernée.
+
+II. L'agglomération nouvelle se substitue à la commune pour la perception de la taxe professionnelle acquittée dans la zone.
+
+III. Toutefois, l'organisme délibérant de l'agglomération nouvelle et le conseil municipal de la commune peuvent décider, par
+délibérations concordantes, de réduire progressivement dans la partie de la zone d'activités située hors de l'agglomération
+nouvelle, l'écart entre le taux de la taxe professionnelle de la commune limitrophe et celui de l'agglomération nouvelle.
+Cette réduction de l'écart de taux s'effectue à raison du cinquième par année pendant cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°91-1256 du 17 décembre 1991 - art. 3 () JORF 19 décembre 1991
+
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 102 () JORF 8 février 1992
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Cité par**:
+
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 85 (V)
+	  - Code général des collectivités territoriales - art. L5334-16 (V)
+	  - Code général des collectivités territoriales - art. L5334-5 (VT)
+	  - Code général des collectivités territoriales - art. L5334-7 (V)
+	  - Code général des collectivités territoriales - art. L5334-9 (VT)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 1609 nonies D
@@ -68365,19 +70241,19 @@ Son taux est fixé à :
 
 5 % en ce qui concerne les autres conventions d'assurances.
 
-Ces taux sont portés respectivement à 13 % [*pourcentage*] et à 7 % pour une période de cinq ans à compter [*date, point de
-départ*] du 1er janvier 1987.
+Ces taux sont portés respectivement à 15 % [*pourcentage*] et à 7 % pour une période de cinq ans à compter [*date, point de
+départ*] du 1er janvier 1992.
 
 Les contrats d'assurance sur les risques de gel de récoltes sont exonérés de cette contribution.
 
 2° A titre exceptionnel, à compter du 1er juillet 1987 et pour une durée de dix ans, une contribution  additionnelle
-complémentaire de 5% sur toutes les primes ou cotisations afférentes aux conventions d'assurance couvrant les risques de
-responsabilité publique et de dommages relatifs aux véhicules utilitaires affectés aux exploitants agricoles.
+complémentaire de 7 % sur toutes les primes ou cotisations afférentes aux conventions d'assurance couvrant les risques de
+responsabilité publique et de dommages relatifs aux véhicules utilitaires affectés aux exploitants agricoles (2).
 
 Les modalités d'application en seront fixées par un arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé
-du budget (2) ;
+du budget (32) ;
 
-3° Une contribution additionnelle particulière applicable aux exploitations conchylicoles fixée ainsi qu'il suit :
+3°  Une contribution additionnelle particulière applicable aux exploitations conchylicoles fixée ainsi qu'il suit :
 
 a. Dans les circonscriptions situées entre Dunkerque et Saint-Nazaire, 100 % des primes ou cotisations afférentes aux
 conventions d'assurance contre l'incendie couvrant, à titre exclusif ou principal, les bâtiments d'exploitation, les ateliers
@@ -68389,9 +70265,11 @@ b. Dans les autres circonscriptions :
 
 30 % des primes ou cotisations afférentes aux conventions d'assurance couvrant les risques nautiques desdites exploitations.
 
-(1) Voir annexe II, art. 326 et décret n° 65-842 du 4 octobre 1965. art. 1 modifié.
+(1) Voir annexe II, art. 326 et décret n° 65-842 du 4 octobre 1965, art. 1 modifié.
 
-(2) Arrêté à émettre.
+(2) A compter du 1er janvier 1992.
+
+(3) Voir Annexe IV, art. 159 quater.
 
 **Liens relatifs à cet article**
 
@@ -68404,11 +70282,11 @@ b. Dans les autres circonscriptions :
 
 	**Modifié par**:
 
-	  - Loi n°86-1318 du 30 décembre 1986 - art. 35 (Ab) JORF 31 décembre 1986 : suppression de dispositions devenues sans objet
+	  - Loi - art. 38 (Ab) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -68755,10 +70633,11 @@ chaque commune membre et le taux moyen sont réduites d'un cinquième chaque ann
 
 I. (Abrogé).
 
-II. Les produits des taxes spéciales d'équipement perçues au profit de l'établissement public d'aménagement de la Basse-Seine
-et de l'établissement public de la métropole lorraine sont répartis entre les taxes foncières, la taxe d'habitation et la
-taxe professionnelle proportionnellement aux recettes que chacune de ces taxes a procurées l'année précédente à l'ensemble
-des communes et de leurs groupements situés dans le ressort de ces établissements.
+II. Les produits des taxes spéciales d'équipement perçues au profit des établissements publics fonciers visés à l'article L.
+324-1 du code de l'urbanisme, de l'établissement public d'aménagement de la Basse-Seine, de l'établissement public de la
+métropole lorraine et de l'établissement public foncier du Nord - Pas-de-Calais sont sont répartis entre les taxes foncières,
+la taxe d'habitation et la taxe professionnelle proportionnellement aux recettes que chacune de ces taxes a procurées l'année
+précédente à l'ensemble des communes et de leurs groupements situés dans le ressort de ces établissements.
 
 III. Pour l'application du II, les recettes s'entendent de celles figurant dans les rôles généraux.
 
@@ -68774,15 +70653,16 @@ V. Les dispositions du présent article entreront en vigueur à compter de 1981 
 	**Cite**:
 
 	  - CGI 1609 quater
+	  - Code de l'urbanisme - art. L324-1 (M)
 
 	**Modifié par**:
 
-	  - Loi n°87-1060 1987-12-30 art. 81 IV, VI, [*art. 83*] Finances pour 1988 JORF 31 décembre 1987, en vigueur le 1er janvier 1989
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 81 (P) JORF 31 décembre 1987, en vigueur le 1er janvier 1989
+	  - Loi - art. 28 () JORF 19 juillet 1991
+	  - Loi - art. 105 () JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -68792,6 +70672,10 @@ V. Les dispositions du présent article entreront en vigueur à compter de 1981 
 	  - Code général des impôts, CGI. - art. 1607 ter (V)
 	  - Code général des impôts, CGI. - art. 1609 B (V)
 	  - Code général des impôts, CGI. - art. 1609 quater (VT)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 1636 B septies
@@ -68884,6 +70768,20 @@ membre, le conseil municipal de cette dernière peut, pour l'application de la m
 foncières, de la taxe d'habitation et de la taxe professionnelle perçues au profit de la commune et les taux respectifs des
 mêmes taxes, votés l'année précédente par la communauté urbaine.
 
+4 a) Dans les communes remplissant les conditions fixées au b ci-après, le conseil municipal peut, en 1992, majorer le taux
+de la taxe professionnelle d'un point au maximum sans que cette majoration soit prise en compte pour l'application du b du 1.
+
+Cette majoration ne peut se cumuler avec celle prévue au 3 ;
+
+b) Ces dispositions s'appliquent aux communes visées aux II et III de l'article L. 234-19-1 du code des communes ou soumises
+au prélèvement prévu à l'article L. 263-14 du même code et dans lesquelles, au titre de l'année précédente :
+
+1° Le taux communal de taxe professionnelle n'excède pas la moitié du taux moyen de cette taxe constaté la même année pour
+l'ensemble des communes ;
+
+2° Le taux communal de taxe d'habitation est supérieur à la moitié du taux moyen de cette taxe constaté la même année pour
+l'ensemble des communes.
+
 I bis. Dans les communes où le taux ou les bases de la taxe professionnelle étaient nuls l'année précédente, le conseil
 municipal peut fixer le taux de cette taxe. Toutefois, le rapport entre le taux ainsi voté et le taux moyen constaté pour la
 taxe professionnelle l'année précédente dans l'ensemble des communes ne doit pas excéder le rapport entre d'une part, le taux
@@ -68904,9 +70802,10 @@ professionnelle et le taux de la taxe foncière sur les propriétés non bâties
 d'habitation est, préalablement ou simultanément, majoré dans une proportion supérieure à la réduction effectuée en
 application de l'alinéa précédent. Dans ce cas, la variation du taux de taxe d'habitation à prendre en considération pour
 l'application du b du 1 du I est celle qui excède l'augmentation due à la suppression de la réduction (Ces dispositions ne
-sont pas applicables aux communes qui recourent aux dispositions du 1er alinéa du 2 du I).    Lorsqu'il a été fait
-application des dispositions prévues au premier alinéa, une nouvelle réduction ne peut être opérée qu'à compter de la sixième
-année suivante.
+sont pas applicables aux communes qui recourent aux dispositions du 1er alinéa du 2 du I).
+
+Lorsqu'il a été fait application des dispositions prévues au premier alinéa, une nouvelle réduction ne peut être opérée qu'à
+compter de la sixième année suivante.
 
 Ces dispositions ne font pas obstacle à l'application du 3 du I.
 
@@ -68918,15 +70817,13 @@ moyens pondérés de chaque taxe dans l'ensemble des communes membres.
 
 	**Cite**:
 
-	  - CGI 1636 B septies, 1636 B decies, 1609 bis
+	  - CGI 1609 bis
+	  - CGI 1636 B decies
+	  - CGI 1636 B septies
 
 	**Modifié par**:
 
-	  - Loi n°89-936 1989-12-29 art. 32 Finances rectificative pour 1989 JORF 30 décembre 1989
-
-	**Codifié par**:
-
-	  - Décret n°90-798 1990-09-10
+	  - Loi - art. 110 (V) JORF 31 décembre 1991
 
 	**Cité par**:
 
@@ -68946,18 +70843,23 @@ moyens pondérés de chaque taxe dans l'ensemble des communes membres.
 	  - Code général des impôts, CGI. - art. 1649 (V)
 	  - Code général des impôts, CGI. - art. 1656 bis (V)
 
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
 	**Liens**:
 
-	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### Section II : Dispositions particulières
 
 ###### Article 1636 C
 
-Les taux de taxes additionnelles perçues au profit de l'établissement public de la Basse-Seine et de l'établissement public
-de la métropole lorraine sont, sous réserve de l'article 1636 B octies et des dispositions régissant ces organismes, fixés
-suivant des règles analogues à celles appliquées pour les impositions départementales.
+Les taux de taxes additionnelles perçues au profit de l'établissement public d'aménagement de la Basse-Seine, de
+l'établissement public de la métropole lorraine et de l'établissement public foncier du Nord - Pas-de-Calais sont, sous
+réserve de l'article 1636 B octies et des dispositions régissant ces organismes, fixés suivant des règles analogues à celles
+appliquées pour les impositions départementales.
 
 Dans le cas de la région d'Ile-de-France, le conseil régional peut décider une modulation par zone.
 
@@ -68969,16 +70871,19 @@ Dans le cas de la région d'Ile-de-France, le conseil régional peut décider un
 
 	**Modifié par**:
 
-	  - Décret n°87-204 1987-03-27 art. 1 JORF 29 mars 1987
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 81 (P) JORF 31 décembre 1987 en vigueur le 1er janvier 1989
+	  - Loi - art. 105 () JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1608 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 1638
@@ -69050,20 +70955,27 @@ progressivement les écarts de taux de taxe professionnelle constatés l'année 
 1609 nonies B entre d'une part, le taux pratiqué en zone d'agglomération nouvelle et les taux des territoires des communes
 membres situés hors zone d'agglomération nouvelle et, d'autre part, le taux moyen pondéré de référence qui aurait été
 applicable à l'organisme d'agglomération nouvelle compte tenu notamment des dotations de référence visées à l'article 27 de
-la loi n° 83-636 du 13 juillet 1983. Cette réduction des écarts de taux s'effectue à raison d'un onzième par année pendant
-dix ans. Dans ce cas les dispositions de l'article 1638 ne sont pas applicables.
+la loi n° 83-636 du 13 juillet 1983 modifiée. Cette réduction des écarts de taux s'effectue à raison d'un onzième par année
+pendant dix ans. Dans ce cas les dispositions de l'article 1638 ne sont pas applicables.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1609 nonies B
-	  - CGI 1638
+	  - CGI 1609 nonies B, 1638
 	  - Loi n°83-636 1983-07-13 art. 27
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Loi n°83-636 du 13 juillet 1983 - art. 30 (Ab) JORF 14 juillet 1983
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°91-1256 du 17 décembre 1991 - art. 4 () JORF 19 décembre 1991
 
 
 ###### Article 1638 ter
@@ -69176,21 +71088,34 @@ A défaut, les impositions peuvent être recouvrées selon les décisions de l'a
 
 Sous réserve des dispositions de l'article 1466, les délibérations des collectivités locales et des organismes compétents
 relatives à la fiscalité directe locale, autres que celles qui sont visées à l'article 1609 quinquies et celles fixant soit
-les taux, soit les produits des impositions, doivent être prises avant le 1er juillet [*date limite*] pour être applicables
-l'année suivante. Elles sont soumises à la notification prévue à l'article 1639 A au plus tard [*délai*] quinze jours aprés
-la date limite prévue pour leur adoption.
+les taux, soit les produits des impositions, doivent être prises avant le 1er juillet pour être applicables l'année suivante.
+Elles sont soumises à la notification prévue à l'article 1639 A au plus tard quinze jours aprés la date limite prévue pour
+leur adoption (1).
+
+Les délibérations prévues au premier alinéa du II de l'article 1609 quinquies C et aux articles 1609 ter B et 1609 quinquies
+B, ainsi que les délibérations fixant le périmètre de la zone visée au II de l'article 1609 quinquies C, sont prises dans les
+conditions prévues au premier alinéa.
+
+(1) Pour l'année 1995, la date du 1er juillet est reportée au 15 septembre. [*Cf. Instruction 1995-05-09 6A-3-95.*]
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1466
-	  - CGI 1609 quinquies
-	  - CGI 1639 A
+	  - CGI 1466, 1609 quinquies, 1639 A, 1609 quinquies C, 1609 ter B, 1609 quinquies B
 
 	**Modifié par**:
 
-	  - Loi n°90-1169 du 29 décembre 1990 - art. 38 () JORF 30 décembre 1990
+	  - Loi n°92-125 du 6 février 1992 - art. 106 () JORF 8 février 1992
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-1162 1994-12-29 art. 70 Finances pour 1995
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Cité par**:
 
@@ -69283,10 +71208,6 @@ la date limite prévue pour leur adoption.
 	  - Code rural - art. L181-15 (VD)
 	  - Code rural et de la pêche maritime - art. L181-14 (VT)
 	  - Code rural et de la pêche maritime - art. L182-22 (VT)
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 1639 B
@@ -69922,6 +71843,120 @@ base d'imposition de taxe professionnelle ainsi déterminée est divisée par 0,
 
 #### Chapitre III : Fonds de péréquation
 
+##### Section I : Fonds régional et départemental
+
+##### I : Fonds départementaux de péréquation de la taxe professionnelle.
+
+###### Article 1648 AA
+
+I. La taxe professionnelle afférente aux magasins de commerce de détail qui sont créés ou qui font l'objet d'une extension en
+exécution d'autorisations délivrées à compter du 1er janvier 1991 en application des dispositions des 1°, 2° et 3° de
+l'article 29 de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat est soumise à une
+répartition intercommunale dans les conditions définies aux II, III et IV du présent article. Cette répartition ne s'applique
+qu'aux établissements dont l'autorisation au titre de la loi n° 73-1193 du 27 décembre 1973 précitée et, s'il y a lieu, le
+permis de construire sont devenus définitifs.
+
+La répartition prévue au premier alinéa s'effectue entre les communes dont tout ou partie du territoire se trouve à une
+distance de 5 kilomètres d'un point quelconque de l'ensemble commercial. Cette distance est portée à 10 kilomètres lorsque la
+surface de vente des magasins concernés est égale ou supérieure à 5 000 mètres carrés.
+
+Les dispositions des deux alinéas précédents ne sont applicables ni dans les départements dont la densité de population
+excède 1 000 habitants au kilomètre carré, ni aux magasins d'une surface de vente inférieure à 5 000 mètres carrés lorsqu'ils
+sont situés en tout ou partie dans une commune de plus de 40 000 habitants ou dans un canton d'une densité de population
+supérieure à 400 habitants au kilomètre carré. Elles ne sont pas non plus applicables dans les agglomérations nouvelles.
+
+II. Les bases communales de taxe professionnelle correspondant aux créations et extensions d'établissements résultant soit
+d'une construction nouvelle, soit de la transformation d'un immeuble déjà existant sont, après application s'il y a lieu des
+dispositions des premier et troisième alinéas du I de l'article 1648 A taxées directement, à concurrence de 80 p. 100 de leur
+montant, au profit du fonds départemental de la taxe professionnelle prévu au premier alinéa du I du même article, selon le
+taux communal de taxe professionnelle.
+
+Dans les communes membres d'une communauté de communes, le pourcentage fixé à l'alinéa précédent est ramené à 40 p. 100.
+
+Lorsque les communes bénéficiaires au titre du I ci-dessus sont situées dans des départements distincts, les sommes perçues
+selon les modalités prévues aux premier et deuxième alinéa sont réparties entre les fonds de chacun des départements
+concernés en proportion de la population de ces mêmes communes.
+
+Le pourcentage fixé aux premier et deuxième alinéas du II s'applique :
+
+a) Dans le cas d'une création d'établissement, à la totalité des bases de l'établissement imposables au profit de la
+commune ;
+
+b) Dans le cas d'une extension d'établissement, à la fraction des bases d'imposition de l'ensemble de l'établissement qui
+correspond à l'augmentation de la surface de vente autorisée depuis le 1er janvier 1991.
+
+Les dispositions des alinéas qui précèdent ne peuvent entraîner, au titre de chacun des établissements imposables, une
+diminution, par rapport à l'année précédente, des bases taxées au profit de la commune intéressée, sauf lorsque l'application
+de ces dispositions résulte d'une décision de justice.
+
+III. Les sommes que le ou les fonds départementaux de la taxe professionnelle perçoivent en application des dispositions du
+II sont :
+
+1° A concurrence de 85 p. 100 de leur montant, réparties, conformément aux dispositions du IV entre les communes
+bénéficiaires au titre du I ;
+
+2° Pour le surplus, versées à un fonds régional dont les ressources sont réparties entre des fonds départementaux
+d'adaptation du commerce rural en raison inverse du potentiel fiscal par kilomètre carré.
+
+IV. La répartition prévue au 1° du III est faite en proportion des populations des communes intéressées, sans que le
+versement puisse excéder, pour chacune des communes autres que la commune ou les communes du lieu d'implantation de
+l'ensemble commercial, 50 p. 100 des sommes à répartir.
+
+Lorsque les communes concernées sont membres d'un groupement à fiscalité propre, la population communale est affectée d'un
+coefficient multiplicateur égal à 1,50. Dans ce cas, les sommes correspondantes sont directement versées au groupement
+concerné.
+
+Sont toutefois exclues de la répartition visée au premier alinéa du I, à l'exception de la commune d'implantation, la ou les
+communes dont les bases de taxe professionnelle par habitant excèdent le double de la moyenne des bases de taxe
+professionnelle par habitant des communes appartenant au même groupe démographique.
+
+Lorsque la somme qui doit résulter de la répartition pour une commune est inférieure à 3 000 francs, le versement de cette
+somme n'est pas effectué.
+
+Les sommes non distribuées en application des dispositions des quatre alinéas précédents viennent en augmentation des sommes
+à répartir entre les communes qui peuvent encore bénéficier de la répartition.
+
+V. Les sommes perçues au profit du fonds départemental d'adaptation du commerce rural sont réparties par une commission
+départementale d'adaptation du commerce rural en fonction d'un programme qu'elle établit.
+
+Cette commission est coprésidée par le représentant de l'Etat dans le département et par le président du conseil général ;
+elle comprend en outre :
+
+- trois maires désignés par l'association départementale des maires ;
+
+- quatre représentants du conseil général désignés en son sein par celui-ci ;
+
+- trois représentants de la chambre de commerce et d'industrie ;
+
+- un représentant de la chambre des métiers ;
+
+- deux personnalités qualifiées désignées par les co-présidents.
+
+La répartition prévue au premier alinéa du V doit avoir pour objectif le maintien d'une présence commerciale harmonieuse en
+zone rurale.
+
+VI. Les modalités d'application des dispositions qui précèdent sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1648 A I
+	  - Loi n°73-1193 1973-12-27 art. 29
+
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 99 () JORF 8 février 1992
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+
 ##### Section II : Fonds nationaux de péréquation
 
 ##### Sous-section II : Fonds national de péréquation.
@@ -69984,11 +72019,11 @@ taux en vigueur dans la commune. Le seuil d'écrêtement résultant de cette dis
 Pour la détermination du potentiel fiscal, chaque fois qu'il est fait référence à cette notion, est prise en compte la valeur
 nette des bases de taxe professionnelle après écrêtement.
 
-Dans le cas où une commune visée par les dispositions qui précèdent appartient à un groupement de communes auquel elle vers
-une contribution budgétaire calculée par référence au produit global de sa taxe professionnelle ou de ses quatre taxes ou
-s'est engagée par accord conventionnel, à reverser une partie de ce produit à une ou plusieurs communes voisines, il est
-appliqué sur les bases de cette commune, pour l'application des premier et deuxième alinéas, une réduction de bases
-correspondant au montant des sommes en cause.
+Dans le cas où une commune visée par les dispositions qui précèdent appartient à un groupement de communes auquel elle
+versait avant le 1er mai 1991 une contribution budgétaire calculée par référence au produit global de sa taxe professionnelle
+ou de ses quatre taxes ou s'était engagée par accord conventionnel, à reverser une partie de ce produit à une ou plusieurs
+communes voisines, il est appliqué sur les bases de cette commune, pour l'application des premier et deuxième alinéas, une
+réduction de bases correspondant au montant des sommes en cause.
 
 Pour les établissements créés avant le 1er janvier 1976, à l'exception de ceux produisant de l'énergie ou traitant des
 combustibles, l'assiette du prélèvement est limitée de manière que la commune conserve au moins 80 % du montant des bases de
@@ -70088,7 +72123,8 @@ chaque commune intègre, au titre de la taxe professionnelle, une quote-part des
 l'agglomération, proportionnelle à la population de la commune ;
 
 b. A compter de la seconde année de fonctionnement de la communauté ou du syndicat d'agglomération nouvelle, le potentiel
-fiscal de chaque commune est celui qui est défini au premier alinéa de l'article 31 de la loi n° 83-636 du 13 juillet 1983.
+fiscal de chaque commune est celui qui est défini au premier alinéa de l'article 31 de la loi n° 83-636 du 13 juillet 1983
+modifiée.
 
 VI. Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat (2).
 
@@ -70127,114 +72163,19 @@ VI. Les conditions d'application du présent article sont fixées par décret en
 	  - Code général des collectivités territoriales - art. L5334-4 (V)
 	  - Code général des impôts, CGI. - art. 1640 B (V)
 
-	**Modifié par**:
-
-	  - Loi n°92-125 du 6 février 1992 - art. 95 () JORF 8 février 1992
-	  - Modifications directes incorporées dans l'édition du 4 juillet 1992
-
-
-###### Article 1648 AA
-
-I. La taxe professionnelle afférente aux magasins de commerce de détail qui sont créés ou qui font l'objet d'une extension en
-exécution d'autorisations délivrées à compter du 1er janvier 1991 en application des dispositions des 1°, 2° et 3° de
-l'article 29 de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat est soumise à une
-répartition intercommunale dans les conditions définies aux II, III et IV du présent article. Cette répartition ne s'applique
-qu'aux établissements dont l'autorisation au titre de la loi n° 73-1193 du 27 décembre 1973 précitée et, s'il y a lieu, le
-permis de construire sont devenus définitifs.
-
-La répartition prévue au premier alinéa s'effectue entre les communes dont tout ou partie du territoire se trouve à une
-distance de 5 kilomètres d'un point quelconque de l'ensemble commercial. Cette distance est portée à 10 kilomètres lorsque la
-surface de vente des magasins concernés est égale ou supérieure à 5 000 mètres carrés.
-
-Les dispositions des deux alinéas précédents ne sont applicables ni dans les départements dont la densité de population
-excède 1 000 habitants au kilomètre carré, ni aux magasins d'une surface de vente inférieure à 5 000 mètres carrés lorsqu'ils
-sont situés en tout ou partie dans une commune de plus de 40 000 habitants ou dans un canton d'une densité de population
-supérieure à 400 habitants au kilomètre carré.
-
-II. Les bases communales de taxe professionnelle correspondant aux créations et extensions d'établissements résultant soit
-d'une construction nouvelle, soit de la transformation d'un immeuble déjà existant sont, après application s'il y a lieu des
-dispositions des premier et troisième alinéas du I de l'article 1648 A taxées directement, à concurrence de 80 p. 100 de leur
-montant, au profit du fonds départemental de la taxe professionnelle prévu au premier alinéa du I du même article, selon le
-taux communal de taxe professionnelle.
-
-Lorsque les communes bénéficiaires au titre du I ci-dessus sont situées dans des départements distincts, les sommes perçues
-selon les modalités prévues au précédent alinéa sont réparties entre les fonds de chacun des départements concernés en
-proportion de la population de ces mêmes communes.
-
-Le pourcentage fixé au premier alinéa du II s'applique :
-
-a) Dans le cas d'une création d'établissement, à la totalité des bases de l'établissement imposables au profit de la
-commune ;
-
-b) Dans le cas d'une extension d'établissement, à la fraction des bases d'imposition de l'ensemble de l'établissement qui
-correspond à l'augmentation de la surface de vente autorisée depuis le 1er janvier 1991.
-
-Les dispositions des alinéas qui précèdent ne peuvent entraîner, au titre de chacun des établissements imposables, une
-diminution, par rapport à l'année précédente, des bases taxées au profit de la commune intéressée, sauf lorsque l'application
-de ces dispositions résulte d'une décision de justice.
-
-III. Les sommes que le ou les fonds départementaux de la taxe professionnelle perçoivent en application des dispositions du
-II sont :
-
-1° A concurrence de 85 p. 100 de leur montant, réparties, conformément aux dispositions du IV entre les communes
-bénéficiaires au titre du I ;
-
-2° Pour le surplus, versées à un fonds régional dont les ressources sont réparties entre des fonds départementaux
-d'adaptation du commerce rural en raison inverse du potentiel fiscal par kilomètre carré.
-
-IV. La répartition prévue au 1° du III est faite en proportion des populations des communes intéressées, sans que le
-versement puisse excéder, pour chacune des communes autres que la commune ou les communes du lieu d'implantation de
-l'ensemble commercial, 50 p. 100 des sommes à répartir.
-
-Lorsque les communes concernées sont membres d'un groupement à fiscalité propre, la population communale est affectée d'un
-coefficient multiplicateur égal à 1,50. Dans ce cas, les sommes correspondantes sont directement versées au groupement
-concerné.
-
-Sont toutefois exclues de la répartition visée au premier alinéa du I, à l'exception de la commune d'implantation, la ou les
-communes dont les bases de taxe professionnelle par habitant excèdent le double de la moyenne des bases de taxe
-professionnelle par habitant des communes appartenant au même groupe démographique.
-
-Lorsque la somme qui doit résulter de la répartition pour une commune est inférieure à 3 000 francs, le versement de cette
-somme n'est pas effectué.
-
-Les sommes non distribuées en application des dispositions des quatre alinéas précédents viennent en augmentation des sommes
-à répartir entre les communes qui peuvent encore bénéficier de la répartition.
-
-V. Les sommes perçues au profit du fonds départemental d'adaptation du commerce rural sont réparties par une commission
-départementale d'adaptation du commerce rural en fonction d'un programme qu'elle établit.
-
-Cette commission est coprésidée par le représentant de l'Etat dans le département et par le président du conseil général ;
-elle comprend en outre :
-
-- trois maires désignés par l'association départementale des maires ;
-
-- quatre représentants du conseil général désignés en son sein par celui-ci ;
-
-- trois représentants de la chambre de commerce et d'industrie ;
-
-- un représentant de la chambre des métiers ;
-
-- deux personnalités qualifiées désignées par les co-présidents.
-
-La répartition prévue au premier alinéa du V doit avoir pour objectif le maintien d'une présence commerciale harmonieuse en
-zone rurale.
-
-VI. Les modalités d'application des dispositions qui précèdent sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1648 A I
-	  - Loi n°73-1193 1973-12-27 art. 29
-
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 4 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-1260 du 31 décembre 1990 - art. 8 () JORF 5 janvier 1991
+	  - Loi n°91-716 du 26 juillet 1991 - art. 25 () JORF 26 juillet 1991
+	  - Loi n°91-1256 du 17 décembre 1991 - art. 6 () JORF 19 décembre 1991
+	  - Loi n°92-125 du 6 février 1992 - art. 114 () JORF 8 février 1992
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ##### Section II : Fonds national de péréquation de la taxe professionnelle.
@@ -70258,19 +72199,23 @@ européennes. Elle ne peut excéder le double du produit de la cotisation de pé
 3° Le produit des intérêts de retard et majorations appliqués en matière de taxe professionnelle en vertu de l'article 1729
 et encaissés par le Trésor ;
 
+(4° La somme visée au deuxième alinéa du 6° de l'article 21 de la loi n° 90-568 du 2 juillet 1990 relative à l'organisation
+du service public de la poste et des télécommunications : modification non intégrée).
+
 4° Le produit affecté en application de l'antépénultième alinéa du IV de l'article 6 de la loi de finances pour 1987. Cette
-ressource évolue chaque année comme la dotation annuelle versée par l'Etat en application du 2° ci-dessus (2)(3).
+ressource évolue chaque année comme la dotation annuelle versée par l'Etat en application du 2° ci-dessus (2).
 
 III. Les ressources du Fonds national de péréquation de la taxe professionnelle sont réparties conformément aux dispositions
-de l'article 1648 B (2).
+de l'article 1648 B (2ème version de l'art. 125 II) (2) (3).
 
 (1) A titre exceptionnel, les dispositions du 2° du II de l'article 1648 A bis du code général des impôts ne sont pas
 applicables au titre de l'année 1990.
 
 (2) Ces dispositions sont applicables à compter du 1er janvier 1992.
 
-(3) 4° La somme visée au deuxième alinéa du 6° de l'article 21 de la loi n° 90-568 du 2 juillet 1990 relative à
-l'organisation du service public de la poste et des télécommunications : modification non intégrée.
+(3) (1ère version de l'art. 119 I : Les ressources du Fonds national de péréquation de la taxe professionnelle après
+déduction des sommes prévues pour la mise en oeuvre de l'article 1648 B ter sont réparties conformément aux dispositions de
+l'article 1648 B).
 
 **Liens relatifs à cet article**
 
@@ -70285,14 +72230,14 @@ l'organisation du service public de la poste et des télécommunications : modif
 
 	  - Loi n°90-568 du 2 juillet 1990 - art. 21 (VD)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-125 1992-02-06 art. 125 III
-
 	**Modifié par**:
 
+	  - Loi n°92-125 du 6 février 1992 - art. 119 () JORF 8 février 1992
 	  - Loi n°92-125 du 6 février 1992 - art. 125 (V) JORF 8 février 1992
-	  - Modification directe incorporée dans l'édition du 4 juillet 1992
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 1648 B
@@ -70379,9 +72324,9 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent parag
 2° Une seconde fraction, dont le montant est fixé par le comité des finances locales par différence entre les ressources
 prévues à l'article 1648 A bis et les dispositions du 1° ci-dessus. Les sommes ainsi dégagées ne peuvent être inférieures à
 90 p. 100 du montant des ressources définies aux 1°, 2° et 3° du II de l'article 1648 A bis et sont réparties suivant les
-dispositions du II ci-dessous. "
+dispositions du II ci-dessous.
 
-II. Le surplus des ressources du fonds défini au 2° du I comporte :
+II. Le surplus des ressources du fonds défini au 2° du I comporte : ".
 
 1° Une part principale qui ne peut être inférieure à 70 p. 100 de ce surplus, répartie entre les communes :
 
@@ -70428,8 +72373,9 @@ seconde part, à compter du 1er janvier 1990.
 Les conditions que doivent remplir les communes pour bénéficier de cette seconde part ainsi que le calcul des attributions
 qui leur reviennent sont fixées par décret en Conseil d'Etat en tenant compte, notamment, de la perte de produit de taxe
 professionnelle et de l'importance relative de la perte de produit fiscal qui en résulte par rapport aux recettes de la
-commune provenant de la taxe d'habitation, des taxes foncières et de la taxe professionnelle (1). A compter du 1er janvier
-1991, les communes dont les pertes de bases sont compensées sur quatre ans, bénéficient :
+commune provenant de la taxe d'habitation, des taxes foncières et de la taxe professionnelle (1).
+
+A compter du 1er janvier 1991, les communes dont les pertes de bases sont compensées sur quatre ans, bénéficient :
 
 La première année, d'une attribution égale au plus à 90 p. 100 de la perte de bases qu'elles ont enregistrée ;
 
@@ -70442,12 +72388,16 @@ La quatrième année, de 25 p. 100 de l'attribution reçue la première année.
 Toutefois, à compter du 1er janvier 1986, cette durée est portée à cinq ans pour les communes situées dans les cantons où
 l'Etat anime une politique de conversion industrielle et dont la liste est fixée par décret (2).
 
+Les groupements de communes dotés d'une fiscalité propre qui remplissent les conditions fixées par décret en Conseil d'Etat
+bénéficient, à compter du 1er janvier 1992, de la compensation prévue au présent 2°, selon les modalités prévues pour les
+communes (3).
+
 3° Une part résiduelle, au plus égale à 5 p. 100 de ce surplus et qui est versée aux communes qui connaissent des difficultés
 financières graves en raison d'une baisse, sur une ou plusieurs années, de leurs bases d'imposition à la taxe professionnelle
 ou de leurs ressources de redevance des mines, et dont le budget primitif de l'exercice en cours a été soumis à la chambre
-régionale des comptes dans les conditions fixées par l'article 8 de la loi n° 82-213 du 2 mars 1982 relative aux droits et
-libertés des communes, des départements et des régions. Cette part est répartie selon la même procédure que celle relative
-aux subventions exceptionnelles accordées en application de l'article L235-5 du code des communes.
+régionale des comptes dans les conditions fixées par l'article 8 de la loi n° 82-213 du 2 mars 1982 modifiée relative aux
+droits et libertés des communes, des départements et des régions. Cette part est répartie selon la même procédure que celle
+relative aux subventions exceptionnelles accordées en application de l'article L235-5 du code des communes.
 
 Le montant des crédits affectés à chacune de ces parts est fixé chaque année par le comité des finances locales, à qui il est
 rendu compte de l'utilisation desdites parts.
@@ -70455,14 +72405,16 @@ rendu compte de l'utilisation desdites parts.
 II bis. Pour l'application du I et du II, le potentiel fiscal de chaque commune membre d'une communauté ou d'un syndicat
 d'agglomération nouvelle visés à l'article 1609 nonies B est calculé dans les conditions fixées à l'article 1648 A-V ter.
 
-III. Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat (3).
+III. Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat (4).
 
 (1) Décret n° 85-260 du 22 février 1985 (J.O. du 24), décret n° 91-1081 du 14 octobre 1991 (JO du 19), et décret n° 92-568 du
 30 juin 1992 (JO du 1er juillet).
 
-(2) Décret n° 85-260 du 22 février 1985 (JO du 24) et décret 92-568 du 30 juin 1992 (JO du 1er juillet).
+(2) Décret n° 86-422 du 12 mars 1986 (JO du 15).
 
-(3) Décret 85-260 du 22 février 1985 (JO du 24), décret 91-1081 du 14 octobre 1991 (JO du 19) et décret n° 92-568 du 30 juin
+(3) Décret n° 85-260 du 22 février 1985 (JO du 24) et décret 92-568 du 30 juin 1992 (JO du 1er juillet).
+
+(4) Décret 85-260 du 22 février 1985 (JO du 24), décret 91-1081 du 14 octobre 1991 (JO du 19) et décret n° 92-568 du 30 juin
 1992 (JO du 1er juillet).
 
 **Liens relatifs à cet article**
@@ -70475,6 +72427,8 @@ III. Les modalités d'application du présent article sont fixées par décret e
 	  - Loi n°84-1284 1984-12-31 art. 8
 	  - Décret n°85-260 1985-02-22
 	  - Décret n°86-422 1986-03-12
+	  - Décret n°91-1081 1991-10-14
+	  - Décret n°92-568 1992-06-30
 	  - CODE DES COMMUNES. - art. L167-1 (Ab)
 	  - CODE DES COMMUNES. - art. L234-14 (M)
 	  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
@@ -70500,9 +72454,11 @@ III. Les modalités d'application du présent article sont fixées par décret e
 
 	**Modifié par**:
 
-	  - Loi n°92-125 du 6 février 1992 - art. 126 () JORF 8 février 1992
-	  - Loi n°92-125 du 6 février 1992 - art. 127 () JORF 8 février 1992
-	  - Modification directe incorporée dans l'édition du 4 juillet 1992
+	  - Loi - art. 96 (V) JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 1648 B ter
@@ -70631,6 +72587,59 @@ exercent.
 	**Abrogé par**:
 
 	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+
+
+### Titre V : Dispositions communes aux titres I, II, II bis, III et III bis
+
+#### Chapitre 0-II bis : Dégrèvement de la taxe foncière sur les propriétés non bâties afférente aux parcelles exploitées par de jeunes agriculteurs.
+
+###### Article 1647-00 bis
+
+Sur délibération de portée générale prise, chacun pour ce qui le concerne, dans les conditions prévues à l'article 1639 A
+bis, par les collectivités territoriales et leurs groupements dotés d'une fiscalité propre, il est accordé le dégrèvement de
+la taxe foncière sur les propriétés non bâties afférente aux parcelles exploitées par les jeunes agriculteurs installés à
+compter du 1er janvier 1992 et qui bénéficient de la dotation d'installation prévue par les décrets n° 81-246 du 17 mars 1981
+et n° 88-176 du 23 février 1988.
+
+Ce dégrèvement est accordé pour une période ne pouvant excéde r cinq ans à compter de l'année suivant celle de l'installation
+de l'exploitant. Il n'est pas effectué de dégrèvement d'un montant inférieur à 50 F.
+
+Pour bénéficier de ce dégrèvement, l'exploitant doit souscrire avant le 31 mars de chaque année une déclaration, par commune
+et propriétaire, des parcelles exploitées au 1er janvier.
+
+Le montant du dégrèvement bénéficie au fermier dans les conditions prévues à l'article 1er de la loi n° 57-1260 du 12
+décembre 1957.
+
+Ces dégrèvements sont à la charge des collectivités territoriales et de leurs groupements. Ils s'imputent sur les
+attributions mentionnées à l'article 34 de la loi n° 77-774 du 7 juin 1977 portant diverses dispositions d'ordre économique
+et financier.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1639 A bis
+	  - Loi n°57-1260 1957-12-12 art. 1
+	  - Décret n°81-246 1981-03-17
+	  - Décret n°88-176 1988-02-23
+	  - Loi n°77-774 1977-06-07 art. 34
+
+	**Créé par**:
+
+	  - Loi - art. 109 (V) JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1639 A quater (V)
+	  - Code général des impôts, CGI. - art. 1640 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1993-02-05 6B-1-93
 
 
 ## Troisième partie : Dispositions communes aux première et deuxième parties
@@ -72355,33 +74364,31 @@ Les actions de cette société ne peuvent ^etre cédées qu'avec l'autorisation 
 
 ###### Article 1655 ter
 
-Sous réserve des dispositions des articles 60, 827-I-2°, 828-I-1° et 2° et 830-a, les sociétés qui ont, en fait, pour unique
-objet soit la construction ou l'acquisition d'immeubles ou de groupes d'immeubles en vue de leur division par fractions
-destinées à être attribuées aux associés en propriété ou en jouissance, soit la gestion de ces immeubles ou groupes
-d'immeubles ainsi divisés, soit la location pour le compte d'un ou plusieurs des membres de la société de tout ou partie des
-immeubles ou fractions d'immeubles appartenant à chacun de ces membres, sont réputées, quelle que soit leur forme juridique,
-ne pas avoir de personnalité distincte de celle de leurs membres pour l'application des impôts directs, des droits
-d'enregistrement, de la taxe de publicité foncière exigible sur les actes qui donnent lieu à la formalité fusionnée en
-application de l'article 647, ainsi que des taxes assimilées (1).
+Sous réserve des dispositions de l'article 60, du 2° du I de l'article 827 et du 2° du I de l'article 828, les sociétés qui
+ont, en fait, pour unique objet soit la construction ou l'acquisition d'immeubles ou de groupes d'immeubles en vue de leur
+division par fractions destinées à être attribuées aux associés en propriété ou en jouissance, soit la gestion de ces
+immeubles ou groupes d'immeubles ainsi divisés, soit la location pour le compte d'un ou plusieurs des membres de la société
+de tout ou partie des immeubles ou fractions d'immeubles appartenant à chacun de ces membres, sont réputées, quelle que soit
+leur forme juridique, ne pas avoir de personnalité distincte de celle de leurs membres pour l'application des impôts directs,
+des droits d'enregistrement, de la taxe de publicité foncière exigible sur les actes qui donnent lieu à la formalité
+fusionnée en application de l'article 647, ainsi que des taxes assimilées (1). 
 
 Notamment, les associés ou actionnaires sont personnellement soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés,
 suivant le cas, pour la part des revenus sociaux correspondant à leurs droits dans la société.
 
-(1) Voir Annexe II, art. 372 à 375.
+**Nota:**
+
+(1) Voir les articles 372 à 375 de l'annexe II.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 60
-	  - CGI 647
-	  - CGI 827 I 2°
-	  - CGI 828 I 1°, 2°
-	  - CGI 830 a
-	  - CGIAN2 372
-	  - CGIAN2 373
-	  - CGIAN2 374
-	  - CGIAN2 375
+	  - Loi - art. 12 () JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -72404,9 +74411,16 @@ suivant le cas, pour la part des revenus sociaux correspondant à leurs droits d
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 167 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 AI (V)
 
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 60 (V)
+	  - Code général des impôts, CGI. - art. 647 (V)
+	  - Code général des impôts, CGI. - art. 827 (V)
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 2002-06-18 4C-3-02
 
 
 #### Chapitre III : Déclaration des propriétaires et principaux locataires d'immeubles bâtis
@@ -72760,13 +74774,28 @@ détermine les conditions d'application de l'article 1664.
 1. L'impôt sur les sociétés est payé au comptable du Trésor chargé du recouvrement des impôts directs en quatre termes
 déterminés provisoirement d'après le résultat du dernier exercice clos et calculé sur le bénéfice imposable et, en ce qui
 concerne les sociétés nouvellement créées, sur le produit évalué à 5 % du capital social. Le montant des acomptes est fixé à
-38 p. 100 du bénéfice de référence (1).
+36 p. 100 du bénéfice de référence (1).
 
 Les paiements doivent être effectués dans les vingt premiers jours des mois de février, mai, août et novembre de chaque année
 [*date*].
 
 Les sociétés créées à compter du 1er janvier 1977 sont, au cours des douze premiers mois de leur activité, dispensées du
 versement des acomptes calculés sur la base de leur capital.
+
+1 bis. Toutefois, sous réserve des dispositions du 1 ter, le montant des acomptes est fixé à 33 1/3 p. 100 du bénéfice de
+référence pour les entreprises dont le capital est détenu pour plus de 50 p. 100 par des personnes physiques à l'ouverture de
+l'exercice et dont le chiffre d'affaires total hors taxes n'excède pas 500 millions de francs pour les entreprises exerçant
+leur activité principale dans le secteur de l'industrie et 100 millions de francs pour les autres entreprises.
+
+Pour l'application de cette disposition, le chiffre d'affaires à prendre en compte est celui qui a été réalisé au cours du
+dernier exercice clos pour lequel le délai de déclaration du résultat est expiré à la date d'exigibilité du premier acompte.
+En outre, pour les entreprises qui n'exercent pas exclusivement une activité industrielle, le caractère principal de celle-ci
+est apprécié en comparant le chiffre d'affaires de cette activité à celui de l'ensemble des autres activités en retenant le
+chiffre d'affaires de l'activité commerciale à hauteur du tiers de son montant.
+
+1 ter. L'entreprise qui entend se prévaloir du taux réduit des acomptes mentionné au 1 bis dépose auprès du comptable du
+Trésor chargé du recouvrement des impôts directs une déclaration au plus tard à la date d'exigibilité du premier acompte échu
+au cours d'un exercice ouvert à compter du 1er janvier 1992. "
 
 2. Dès la remise de la déclaration prévue à l'article 223-1, il est procédé à une liquidation de l'impôt dû à raison des
 résultats de la période visée par cette déclaration. S'il résulte de cette liquidation un complément d'impôt au profit du
@@ -72783,13 +74812,28 @@ Toutefois, le paiement du supplément d'impôt dû en application du troisième 
 effectué le dernier jour du mois qui suit la clôture de l'exercice au cours duquel l'événement mentionné au même alinéa
 intervient (2).
 
-5. Les modalités d'application du présent article sont fixées par décret (3).
+4 bis. L'entreprise qui estime que le montant des acomptes déjà versés au titre d'un exercice est égal ou supérieur à la plus
+élevée des sommes définies ci-après peut se dispenser de nouveaux versements d'acomptes en remettant au comptable du Trésor
+chargé du recouvrement des impôts directs, avant la date d'exigibilité du prochain versement à effectuer, une déclaration
+datée et signée.
 
-(1) Ce taux s'applique pour la détermination des acomptes échus au cours d'exercices ouverts à compter du 1er janvier 1991.
-Il était fixé à 39,5 % pour les acomptes échus au cours d'exercices ouverts à compter du 1er janvier 1990.    (2) Voir annexe
-III art. 46 quater-0 BA.
+Les sommes mentionnées à l'alinéa précédent s'entendent :
 
-(3) Voir annexe III art. 358 à 366 A.
+a) Du produit du taux normal de 36 p. 100 ou du taux réduit de 33,33 p. 100 des acomptes afférent à l'exercice concerné par
+le bénéfice prévisionnel de cet exercice, imposable au taux normal ;
+
+b) De la cotisation totale d'impôt sur les sociétés dont l'entreprise sera finalement redevable au titre de l'exercice
+concerné, avant imputation des crédits d'impôt et avoirs fiscaux (3).
+
+5. Les modalités d'application du présent article sont fixées par décret (4).
+
+(1) Ce taux s'applique pour la détermination des acomptes échus au cours d'exercices ouverts à compter du 1er janvier 1992.
+
+(2) Voir annexe III art. 46 quater-0 BA.
+
+(3) Ce taux s'applique pour la détermination des acomptes échus au cours d'exercices ouverts à compter du 1er janvier 1992.
+
+(4) Voir annexe III art. 358 à 366 A.
 
 **Liens relatifs à cet article**
 
@@ -72800,11 +74844,11 @@ III art. 46 quater-0 BA.
 
 	**Modifié par**:
 
-	  - Loi - art. 4 () JORF 30 décembre 1990
+	  - Loi - art. 10 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -72824,6 +74868,10 @@ III art. 46 quater-0 BA.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 360 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZJ (V)
 	  - Livre des procédures fiscales - art. L252 B (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1992-02-12 4H-6-92
 
 
 ###### Article 1668 A
@@ -73631,6 +75679,65 @@ auxquelles sont effectués les prélèvements (2).
 	  - Code général des impôts, CGI. - art. 1681 A (V)
 
 
+###### Article 1681 ter A
+
+Les taxes foncières peuvent être recouvrées, sur demande du contribuable, dans les conditions prévues à l'article 1681 A.
+
+Cette disposition fait l'objet d'une mise en oeuvre progressive dont les étapes sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-836 du 27 août 1992
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1681 A
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Créé par**:
+
+	  - Loi - art. 89 (V) JORF 31 décembre 1991
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (V)
+
+
+##### 5 : Paiement du prélèvement prévu à l'article 125 A et des prélèvements assimilés et de la retenue à la source prévue à l'article 119 bis et des retenues assimilées.
+
+###### Article 1681 quinquies
+
+1. Le prélèvement prévu à l'article 125 A et les prélèvements établis, liquidés et recouvrés selon les mêmes règles ainsi que
+la retenue à la source prévue à l'article 119 bis et les retenues liquidées et recouvrées selon les mêmes règles sont
+acquittés par virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France lorsque
+leur montant excède 10 000 F.
+
+2. Les dispositions visées au 1 entrent en vigueur à des dates fixées par décret et au plus tard le 31 décembre 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 125 A, 119 bis
+
+	**Créé par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 15 (V) JORF 27 juillet 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1681 septies (VD)
+
+
 #### IV : Obligations des tiers
 
 ###### Article 1682
@@ -74043,6 +76150,45 @@ garanties et sanctions prévues en matière douanière.
 
 	  - Loi n°2016-1918 du 29 décembre 2016 - art. 87 (V)
 	  - Code des douanes - art. 285 (V)
+
+
+#### IV ter : Paiement de la taxe sur la valeur ajoutée par virement.
+
+###### Article 1695 ter
+
+1. Les entreprises dont le chiffre d'affaires réalisé au titre de l'année civile précédente est supérieur à 100 millions de
+francs hors taxe doivent acquitter la taxe sur la valeur ajoutée par virement directement opéré sur le compte du Trésor
+ouvert dans les écritures de la Banque de France.
+
+2. (Transféré sous l'article 1788 quinquies).
+
+3. Les dispositions prévues aux 1 et 2 s'appliquent aux taxes qui sont acquittées dans les mêmes conditions et délais que
+ceux prévus à l'article 287 (1).
+
+4. Les dispositions des 1 et 3 ci-dessus entrent en vigueur à une date fixée par décret et, au plus tard, le 30 novembre
+1992.
+
+(1) Ces dispositions s'appliquent aux taxes acquittées à compter du 1er novembre 1992, décret 92-1114 du 2 octobre 1992, JORF
+9 octobre 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 287
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+	  - SPEC_APPLI: Décret n°92-1114 1992-10-02 art. 1
+
+	**Créé par**:
+
+	  - Loi - art. 33 (V) JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 #### V : Modalités d'application
@@ -75265,6 +77411,35 @@ que ceux relatifs à la détermination de la valeur vénale du terrain et au rec
 	  - Décret n°90-798 1990-09-10
 
 
+#### X : Taxe sur les conventions d'assurances et taxes assimilées
+
+###### Article 1723 quindecies
+
+1. La taxe sur les conventions d'assurances prévue aux articles 991 et suivants et les contributions ou prélèvements
+recouvrés selon les mêmes règles sont acquittés par virement directement opéré sur le compte du Trésor ouvert dans les
+écritures de la Banque de France lorsque leur montant excède 10 000 F.
+
+2. Les dispositions visées au 1 entrent en vigueur à une date fixée par décret et au plus tard le 31 décembre 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 15 (V) JORF 27 juillet 1991
+
+
 ### Section V : Dispositions communes
 
 ###### Article 1724
@@ -75838,8 +78013,9 @@ l'article 223 A, l'insuffisance des chiffres déclarés s'apprécie au niveau de
 
 Les contribuables qui n'ont pas produit à l'appui de leur déclaration de résultats de l'exercice le tableau des provisions
 prévu en application des dispositions de l'article 53 A ou le relevé détaillé de certaines catégories de dépenses prévu à
-l'article 54 quater ou qui fournissent des renseignements incomplets sont punis d'une amende égale à 5 p. 100 [*pourcentage*]
-des sommes ne figurant pas sur le tableau ou le relevé.
+l'article 54 quater ou l'état des abandons de créances et subventions prévu au cinquième alinéa de l'article 223 B ou qui
+fournissent des renseignements incomplets sont punis d'une amende égale à 5 p. 100 [*pourcentage*] des sommes ne figurant pas
+sur le tableau ou le relevé ou l'état.
 
 Ce taux est ramené à 1 p. 100 lorsque aucune infraction de même nature n'a été antérieurement commise par le contribuable au
 titre des trois années précédant celle au titre de laquelle l'infraction est commise et que les sommes correspondantes sont
@@ -75849,12 +78025,53 @@ réellement déductibles.
 
 	**Cite**:
 
-	  - CGI 53 A
-	  - CGI 54 quater
+	  - CGI 53 A, 54 quater, 223 B
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1992-01-17 7D-2-92
+	  - TXT_ASSOCIE: Instruction 1992-07-23 4H-13-92
+
+	**Modifié par**:
+
+	  - Loi - art. 98 (V) JORF 31 décembre 1991
+
+
+###### Article 1734 ter
+
+Lorsque les contribuables ne peuvent présenter le registre mentionné à l'article 54 septies ou lorsque les renseignements
+portés sur ce registre sont incomplets ou inexacts, il est prononcé une amende égale à 1 p. 100 du montant des résultats omis
+sur le registre.
+
+De même, si l'état prévu au I de l'article 54 septies n'est pas produit au titre des exercices ultérieurs à celui au cours
+duquel est réalisée l'opération définie au deuxième alinéa de ce même paragraphe ou si les renseignements qui y sont portés
+sont inexacts ou incomplets, il est prononcé une amende égale à 1 p. 100 du montant des résultats omis.
+
+L'administration informe les contribuables de son intention d'appliquer cette amende, des motifs de celle-ci et de la
+possibilité dont ils disposent de présenter leurs observations dans un délai de trente jours.
+
+Le contentieux est assuré et l'amende est mise en recouvrement suivant les règles applicables à l'impôt sur les sociétés.
+
+[*Cf. Loi 94-1162 1994-12-29 art. 25 III Finances pour 1995.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 54 septies
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+	  - SPEC_APPLI: Loi n°94-1162 1994-12-29 art. 25 III Finances pour 1995
 
 	**Créé par**:
 
-	  - Loi n°87-502 1987-07-08 art. 5 III JORF 9 juillet 1987
+	  - Loi - art. 25 (P) JORF 31 décembre 1991
 
 
 ###### Article 1735 bis
@@ -75890,9 +78107,9 @@ au I de l'article 209 quater B cesse d'être remplie moins de sept ans après la
 
 ###### Article 1736
 
-Les amendes, majorations, intérêts de retard prévus aux articles 1725 à 1734, 1740 ter, 1756, 1756 ter, 1763 à 1768, 1768
-bis, 1768 ter, 1770 bis, 1784, 1785 D-III, 1826 à 1836 et 1840 H à 1840 N quater ainsi que les droits en sus sont constatés
-par l'administration fiscale.
+Les amendes, majorations, intérêts de retard prévus aux articles 1725 à 1734, 1740 ter, 1756, 1756 ter,1762 sexies, 1763 à
+1768, 1768 bis, 1768 ter, 1770 bis, 1784, au III de l'article 1785 D, 1826 à 1836, 1840 H à 1840 N quater et 1840 N nonies
+ainsi que les droits en sus sont constatés pa l'administration fiscale.
 
 Le recouvrement et le contentieux de ces sanctions sont assurés et suivis, dans les délais et selon les règles applicables à
 la catégorie d'impôts qu'ils concernent, contre tous les débiteurs tenus du principal desdits impôts ou déclarés solidaires
@@ -75903,7 +78120,7 @@ dont il s'agit constituent une charge de la succession ou de la liquidation.
 
 **Nota:**
 
-Nota. Les dispositions de l'article 1736 du code général des impôts s'appliquent à la majoration instituée au 2 de l'article
+Nota : Les dispositions de l'article 1736 du code général des impôts s'appliquent à la majoration instituée au 2 de l'article
 1695 ter. Elles entrent en vigueur à une date fixée par décret et, au plus tard, le 30 novembre 1992.
 
 **Liens relatifs à cet article**
@@ -75914,15 +78131,12 @@ Nota. Les dispositions de l'article 1736 du code général des impôts s'appliqu
 
 	**Modifié par**:
 
-	  - Loi n°87-502 1987-07-08 art. 2 VI JORF 9 juillet 1987
+	  - Loi n°91-716 du 26 juillet 1991 - art. 15 (V) JORF 27 juillet 1991
+	  - Loi - art. 33 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-1323 1991-12-30 art. 33 II III
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -76088,9 +78302,9 @@ réduction d'impôt dont le contribuable a indûment bénéficié, sans préjudi
 
 ###### Article 1740 quinquies
 
-Les avantages prévus aux II et III de l'article 83 bis, au III de l'article 160 A, ainsi qu'aux articles 220 quater A, 726 et
-834 bis, ne sont plus applicables à compter de l'année au cours de laquelle l'une des conditions prévues à l'article 220
-quater A cesse d'être satisfaite.
+Les avantages prévus aux II et III de l'article 83 bis, au III de l'article 160 A, ainsi qu'aux articles 220 quater A et 726
+ne sont plus applicables à compter de l'année au cours de laquelle l'une des conditions prévues à l'article 220 quater A
+cesse d'être satisfaite.
 
 Lorsque le rachat de l'entreprise a été réalisé avec l'accord préalable du ministre chargé des finances conformément à
 l'article 220 quater B, les droits rappelés et les crédits d'impôt à rembourser en application de l'alinéa précédent sont
@@ -76101,22 +78315,36 @@ pénalités pour manoeuvres frauduleuses mentionnées à l'article 1729.
 
 	**Cite**:
 
-	  - CGI 160 A III
-	  - CGI 1727
-	  - CGI 1729
-	  - CGI 220 quater B
-	  - CGI 220 quatez A
-	  - CGI 726
-	  - CGI 83 bis II, III
-	  - CGI 834 bis
+	  - CGI 83 bis, 160 A, 220 quater A, 726, 220 quater B, 1727, 1729
 
 	**Modifié par**:
 
-	  - Loi n°87-502 1987-07-08 art. 2 I, VI JORF 9 juillet 1987
+	  - Loi - art. 12 () JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°92-836 1992-08-27
+
+
+###### Article 1740 sexies
+
+Les avantages prévus au I des articles 83 ter et 199 terdecies A ainsi qu'au dernier alinéa de l'article 726 cessent de
+s'appliquer à compter de l'année au cours de laquelle l'une des conditions fixées aux articles 83 ter et 199 terdecies A
+n'est plus satisfaite.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 83 ter, 199 terdecies A, 726
+
+	**Créé par**:
+
+	  - Loi - art. 88 (V) JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 1740 ter
@@ -76874,33 +79102,47 @@ b. Que l'impôt en principal soit acquitté dans les délais impartis (1).
 
 ###### Article 1756 ter
 
-En cas de manquement à leurs engagements envers l'Etat, les sociétés financières d'innovation visées à l'article 4-III-A de
+En cas de manquement à leurs engagements envers l'Etat, les sociétés financières d'innovation visées à l'article 4 III A de
 la loi n° 72-650 du 11 juillet 1972 qui ont conclu une convention avec le ministre de l'économie et des finances dans les
-conditions prévues à l'article 4-III-B de la même loi doivent verser au Trésor une indemnité égale à 25 % de la fraction du
+conditions prévues à l'article 4 III B de la même loi doivent verser au Trésor une indemnité égale à 25 % de la fraction du
 capital social agréé qui n'a pas été employée de manière conforme à la convention (1). En cas de résiliation de la convention
 par le ministre de l'économie et des finances, après avis du ministre du développement industriel et scientifique, cette
 indemnité atteint le quart du capital social agréé; elle est augmentée d'un intérêt de retard calculé au taux prévu à
-l'article 1727 à compter de la date de la constitution de la société, sans que, toutefois, ce taux puisse excéder 25 %. Le
-montant des indemnités visées ci-dessus est exclu des charges déductibles pour l'assiette du bénéfice imposable. La
-constatation, le recouvrement et le contentieux de ces indemnités sont assurés et suivis comme en matière d'impôts directs.
+l'article 1727 à compter de la date de la constitution de la société, sans que, toutefois, ce taux puisse excéder 25 %.
+Toutefois, si des circonstances particulières le justifient, compte tenu du rythme et de la nature des investissements
+réalisés, ces indemnités peuvent être réduites par décision du ministre de l'économie et des finances. Le montant des
+indemnités visées ci-dessus est exclu des charges déductibles pour l'assiette du bénéfice imposable. La constatation, le
+recouvrement et le contentieux de ces indemnités sont assurés et suivis comme en matière d'impôts directs.
 
-(1) Voir décret n° 73-124 du 5 février 1973 (J.O. du 10).
+Les indemnités de 25 % prévues au premier alinéa sont réduites à 17 p. 100 pour les souscriptions agréées à compter du 1er
+janvier 1992.
+
+(1) Voir décret 73-124 du 5 février 1973 (JO du 10).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1727
-	  - Loi n°72-650 1972-07-11 ART. 4 III A, ART. 4 III B
 	  - Décret n°73-124 1973-02-05
-
-	**Modifié par**:
-
-	  - Loi n°87-502 1987-07-08 art. 2 I,VI JORF 9 juillet 1987
+	  - Loi n°72-650 1972-07-11 art. 4
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2006-356 2006-03-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi - art. 88 (V) JORF 31 décembre 1991
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 16 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ### Section II : Dispositions particulières
@@ -77099,41 +79341,50 @@ réglé dans les trente jours suivant la mise en recouvrement.
 
 ###### Article 1762
 
-1  Si l'un des versements prévus à l'article 1664-1 n'a pas été intégralement acquitté le 15 du mois suivant celui au cours
-duquel il est devenu exigible, une majoration de 10 % est appliquée aux sommes non réglées.
+1. Si l'un des versements prévus au 1 de l'article 1664 n'a pas été intégralement acquitté le 15 du mois suivant celui au
+cours duquel il est devenu exigible, une majoration de 10 % est appliquée aux sommes non réglées.
 
-2  Il en est de même pour le contribuable qui, en vue de se dispenser du second des versements susmentionnés, a fait au
-comptable du Trésor chargé du recouvrement des impôts directs, dans les conditions prévues à l'article 1664-4, une
+2. Il en est de même pour le contribuable qui, en vue de se dispenser du second des versements susmentionnés, a fait au
+comptable du Trésor chargé du recouvrement des impôts directs, dans les conditions prévues au 4 de l'article 1664, une
 déclaration qui, à la suite de la mise en recouvrement du rôle, est reconnue inexacte de plus du dixième.
 
 Toutefois, aucune majoration n'est appliquée lorsque la différence constatée résulte d'une loi intervenue postérieurement à
 la date du dépôt de la déclaration visée ci-dessus.
 
-3  Les dispositions des 1 et 2 sont applicables à l'impôt sur les sociétés dans des conditions fixées par décret (1).
+3. Si l'un des acomptes prévus au 1 de l'article 1668 n'a pas été intégralement acquitté le 15 du mois suivant celui au cours
+duquel il est devenu exigible, la majoration prévue au 1 est appliquée aux sommes non réglées.
 
-4  Si l'imposition forfaitaire annuelle instituée par l'article 223 septies n'est pas intégralement acquittée au plus tard le
+Il en est de même pour l'entreprise qui, en vue de se dispenser totalement ou partiellement du versement d'acomptes, a fait
+au comptable du Trésor chargé du recouvrement des impôts directs, dans les conditions prévues au 4 bis de l'article 1668, une
+déclaration qui, à la suite de la liquidation de l'impôt prévue au 2 du même article, est reconnue inexacte (1).
+
+4. Si l'imposition forfaitaire annuelle instituée par l'article 223 septies n'est pas intégralement acquittée au plus tard le
 15 mars, une majoration de 10 % est appliquée aux sommes non versées à cette date et recouvrées avec le principal dans les
 conditions prévues à l'article 1668 A.
 
-(1) Annexe III, art. 364 et 365.
+(1) Ces dispositions s'appliquent aux acomptes échus au cours d'exercices ouverts à compter du 1er janvier 1992. Voir Annexe
+IV art. 364.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1664 1, 4
-	  - CGI 1668 A
-	  - CGI 223 septies
-	  - CGIAN3 364
-	  - CGIAN3 365
+	  - CGI 1664, 1668, 223 septies, 1668 A
+	  - CGIAN4 364
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 1992-02-12 4H-6-92
+	  - SPEC_APPLI: Loi n°91-1322 1991-12-30 art. 10 VI
 
 	**Modifié par**:
 
-	  - Loi n°88-1149 du 23 décembre 1988 - art. 37 (P) JORF 28 décembre 1988 incorporée au code le 14 juillet 1989
+	  - Loi - art. 10 (V) JORF 31 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°89-801 1989-10-27
+	  - Décret n°92-836 1992-08-27
 
 	**Cité par**:
 
@@ -77172,26 +79423,57 @@ En cas d'irrégularités affectant la détermination du montant de la créance d
 ou son remboursement, l'intérêt de retard et, s'il y a lieu, les majorations prévus à l'article 1729 sont applicables au
 titre de l'exercice d'imputation ou de remboursement.
 
-(La modification édictée par la loi 87-502 n'a pas été codifiée et le texte inclut le second paragraphe jusqu'à l'édition du
-4 juillet 1992).
+**Liens relatifs à cet article**
 
-En cas de remboursement indu, les seuils d'application des majorations prévues à l'article 1729 sont appréciés en comparant
-le montant du remboursement indu au montant du remboursement auquel avait droit le redevable.
+	**Cite**:
+
+	  - CGI 220 quinquies, 1729
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 2 III VI JORF 9 juillet 1991
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 17 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
+
+###### Article 1762 sexies
+
+Les personnes qui ne se conforment pas à l'obligation prévue au 1 de l'article 1681 quinquies sont redevables d'une
+majoration égale à 0,2 p. 100 du montant des sommes dont le versement a été effectué selon un autre moyen de paiement.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1729
-	  - CGI 220 quinquies
+	  - CGI 1681 quinquies
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Créé par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 15 (V) JORF 27 juillet 1991
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 17 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2006-356 2006-03-24
 
 
 ###### Article 1762 ter
@@ -77593,6 +79875,42 @@ recouvrée comme en matière de taxes sur le chiffre d'affaires.
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 1770 septies
+
+Lorsqu'une entreprise s'est placée à tort sous le régime du taux réduit des acomptes d'impôt sur les sociétés prévu au 1 bis
+de l'article 1668, les insuffisances de versements qui en résultent donnent lieu au paiement d'une amende égale à 10 p. 100
+de leur montant. La constatation, le contrôle, le recouvrement, le contentieux, les garanties et les sanctions de cette
+amende sont assurés et suivis comme en matière d'impôt sur les sociétés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1668 1 bis
+
+	**Créé par**:
+
+	  - Loi - art. 10 (V) JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+	  - Décret n°93-1127 1993-09-24
+	  - Décret n°2006-356 2006-03-24
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 17 () JORF 8 décembre 2005
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 25 (V) JORF 8 décembre 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 4 juillet 1992
+	  - PEREMPTION: Loi n°92-1376 1976-12-30 art. 11 III Finances pour 1993 JORF 31 décembre 1992
 
 
 ###### Article 1770 sexies
@@ -78202,6 +80520,36 @@ l'article 290 quinquies est passible d'une amende égale à 25 % du montant, tou
 	**Codifié par**:
 
 	  - Décret n°2006-356 2006-03-24
+
+
+###### Article 1788 quinquies
+
+Le non-respect de l'obligation définie à l'article 1695 ter entraîne l'application d'une majoration de 0,2 p. 100 du montant
+des sommes dont le versement a été effectué selon un autre mode de paiement (1).
+
+(1) Ces dispositions s'appliquent aux taxes acquittées à compter du 1er novembre 1992, décret 92-1114 du 2 octobre 1992 art.
+1, JORF 10 octobre 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1695 ter
+	  - Décret n°92-1114 1992-10-02 art. 1
+
+	**Liens**:
+
+	  - TXT_SOURCE: CGI 1695 ter 2
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Créé par**:
+
+	  - Loi - art. 33 (V) JORF 31 décembre 1991
+	  - Loi n°91-1323 1991-12-30 art. 33 I 2, III Finances rectificative pour 1991 JORF 31 décembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
 
 
 ###### Article 1788 ter
@@ -80027,6 +82375,62 @@ en vigueur de la loi n° 96-597 du 2 juillet 1996 de modernisation des activité
 	**Abrogé par**:
 
 	  - Loi - art. 27 (V) JORF 31 décembre 1998
+
+
+###### Article 1840 N nonies
+
+Les personnes qui ne se conforment pas à l'obligation prévue au 1 de l'article 1723 quindecies sont redevables d'une
+majoration égale à 0,2 % du montant des sommes dont le versement a été effectué selon un autre moyen de paiement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1723 quindecies
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Créé par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 15 (V) JORF 27 juillet 1992
+	  - Loi n°91-716 du 26 juillet 1991 - art. 3 (V) JORF 27 juillet 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 21 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
+
+###### Article 1840 N octies
+
+Les majorations et pénalités applicables en matière de droits de timbre ne peuvent être mises en recouvrement avant
+l'expiration d'un délai de trente jours à compter de la notification du document par lequel l'administration fait connaître
+au contribuable la sanction qu'elle se propose d'appliquer, les motifs de celle-ci et la possibilité dont dispose l'intéressé
+de présenter dans ce délai ses observations.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 2000-12-27 art. 2
+	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 4 juillet 1992
+	  - TXT_ASSOCIE: Instruction 1992-10-06 7M-9-92
+	  - TXT_ASSOCIE: Instruction 1992-10-09 2O-9-92
+
+	**Créé par**:
+
+	  - Loi - art. 34 () JORF 31 décembre 1991
+
+	**Abrogé par**:
+
+	  - Loi - art. 26 (V) JORF 31 décembre 1999 en vigueur le 1er janvier 2001
 
 
 ###### Article 1840 N quater
