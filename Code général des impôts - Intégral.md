@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1981-07-01
+Version Consolidée au 1981-08-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1640,6 +1640,48 @@ conditions prévues par les troisième à dixième alinéas du d du 1° du 7 de 
 	  - Code du travail - art. L721-2 (AbD)
 	  - Code du travail - art. L721-6 (M)
 	  - Code du travail - art. L782-1 (AbD)
+
+
+###### Article 80 sexies
+
+Pour l'assiette de l'impôt sur le revenu dont sont redevables les assistantes maternelles régies par la loi n° 77-505 du 17
+mai 1977, le revenu brut à retenir est égal à la différence entre, d'une part, le total des sommes versées tant à titre de
+rémunération que d'indemnités pour l'entretien et l'hébergement des enfants et, d'autre part, une somme égale à trois fois le
+montant horaire du salaire minimum de croissance, par jour et pour chacun des enfants qui leur sont confiés.
+
+Cette somme est portée à quatre fois le montant horaire du salaire minimum de croissance par jour et par enfant ouvrant droit
+à la majoration prévue à l'article L. 773-10 du code du travail.
+
+Pour les revenus perçus depuis le 1er janvier 1980, il est ajouté aux sommes prévues ci-dessus une somme égale à une fois le
+montant horaire du salaire minimum de croissance lorsque la durée de garde de l'enfant est de vingt-quatre heures
+consécutives.
+
+Le montant de l'abattement retenu pour déterminer la rémunération imposable des assistantes maternelles ne peut excéder le
+total des sommes versées tant à titre de rémunération que d'indemnités pour l'entretien et l'hébergement des enfants.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail - art. L773-10 (M)
+	  - Loi n°77-505 1977-05-17
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+	**Modifié par**:
+
+	  - Loi n°81-734 du 3 août 1981 - art. 2 () JORF 4 août Finances rectificative pour 1981
+
+	**Cité par**:
+
+	  - Loi n°2008-1330 du 17 décembre 2008 - art. 108 (V)
+	  - Loi n°2010-625 du 9 juin 2010 - art. 3 (V)
 
 
 ###### Article 80 ter
@@ -23856,40 +23898,6 @@ B (2).
 	  - Code général des impôts, CGI. - art. 1605 bis (VD)
 
 
-### Titre V : Dispositions communes aux titres I, II, III et III bis
-
-#### Chapitre II bis : Dégrèvements de taxe professionnelle
-
-##### Section II : Plafonnement de la taxe professionnelle
-
-##### IV : Plafonnement de la taxe professionnelle à partir de 1980
-
-###### Article 1647 C
-
-Lorsque le nombre mensuel moyen des salariés employés par une entreprise au cours de la période allant du 1er juin au 31
-octobre 1977 est supérieur d'au moins 5 % ou d'au moins 500 unités au nombre mensuel moyen des salariés employés au cours de
-la même période de 1976, cette entreprise a droit, sur demande accompagnée des justificatifs nécessaires, à une réduction de
-10 % de la taxe professionnelle due au titre de 1977.
-
-Le coût de cette réduction est pris en charge par l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Cité par**:
-
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 85 (V)
-	  - Code général des impôts, CGI. - art. 1466 E (Ab)
-	  - Code général des impôts, CGI. - art. 1647 C sexies (Ab)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ## Troisième partie : Dispositions communes aux première et deuxième parties
 
 ### Titre premier : Assiette et contrôle de l'impôt
@@ -29527,41 +29535,6 @@ aux entreprises créées pour la reprise d'établissements en difficulté.
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
-
-
-###### Article 80 sexies
-
-Pour l'assiette de l'impôt sur le revenu dont sont redevables les assistantes maternelles régies par la loi n° 77-505 du 17
-mai 1977, le revenu brut à retenir [*calcul*] est égal à la différence entre, d'une part, le total des sommes versées tant à
-titre de rémunération que d'indemnités pour l'entretien et l'hébergement des enfants et, d'autre part, une somme égale à
-trois fois le montant horaire du salaire minimum de croissance [*SMIC*], par jour et pour chacun des enfants qui leur sont
-confiés.
-
-Cette somme est portée à quatre fois le montant horaire du salaire minimum de croissance par jour et par enfant ouvrant droit
-à la majoration prévue à l'article L 773-10 du code du travail (1).
-
-(1) Dispositions applicables pour la première fois aux revenus perçus à compter du 1er janvier 1979 [*date, point de
-départ*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°77-505 1977-05-17
-	  - Code du travail - art. L773-10 (M)
-
-	**Créé par**:
-
-	  - Loi n°79-1102 du 21 décembre 1979 - art. 1 (V) JORF 22 DECEMBRE 1979
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Cité par**:
-
-	  - Loi n°2008-1330 du 17 décembre 2008 - art. 108 (V)
-	  - Loi n°2010-625 du 9 juin 2010 - art. 3 (V)
 
 
 ###### Article 92 D
@@ -44861,105 +44834,18 @@ ans [*délai*].
 ###### Article 777
 
 Les droits de mutation à titre gratuit sont fixés aux taux indiqués dans les tableaux ci-après, pour la part nette revenant à
-chaque ayant droit :
-
-TABLEAU I    Tarif des droits applicables en ligne directe, à l'exception des donations-partages visées à l'article 790.
------------------------------------------------------------------ :     FRACTION DE PART NETTE TAXABLE        :
-TARIF       :
-
-<table>
-  <tbody><tr>
-    <td> :                                           :     applicable    :</td>
-  </tr>
-  <tr>
-    <td> : N'excédant pas 50.000 F                   :         5         :</td>
-  </tr>
-  <tr>
-    <td> : Comprise entre 50.000 et 75.000 F         :        10         :</td>
-  </tr>
-  <tr>
-    <td> : Comprise entre 75.000 et 100.000 F        :        15         :</td>
-  </tr>
-  <tr>
-    <td> : Au-delà de 100.000 F                      :        20         :</td>
-  </tr>
-</tbody></table>
-
------------------------------------------------------------------
-
-TABLEAU II    Tarif des droits applicables en ligne directe pour les donations-partages visées à l'article 790, et entre
-époux. ----------------------------------------------------------------- :     FRACTION DE PART NETTE TAXABLE        :
-TARIF       :
-
-<table>
-  <tbody><tr>
-    <td> :                                           :     applicable    :</td>
-  </tr>
-  <tr>
-    <td> : N'excédant pas 50.000 F                   :         5         :</td>
-  </tr>
-  <tr>
-    <td> : Comprise entre 50.000 et 100.000 F        :        10         :</td>
-  </tr>
-  <tr>
-    <td> : Comprise entre 100.000 et 200.000 F       :        15         :</td>
-  </tr>
-  <tr>
-    <td> : Supérieure à 200.000 F                    :        20         :</td>
-  </tr>
-</tbody></table>
-
------------------------------------------------------------------
-
-TABLEAU III    Tarif des droits applicables en ligne collatérale et entre non-parents.
------------------------------------------------------------------ :     FRACTION DE PART NETTE TAXABLE        :
-TARIF       :
-
-<table>
-  <tbody><tr>
-    <td> :                                           :     applicable    :</td>
-  </tr>
-  <tr>
-    <td> : Entre frères et soeurs :                  :                   :</td>
-  </tr>
-  <tr>
-    <td> :   N'excédant pas 150.000 F                :        35         :</td>
-  </tr>
-  <tr>
-    <td> :   Supérieure à 150.000 F                  :        45         :</td>
-  </tr>
-  <tr>
-    <td> :                                           :                   :</td>
-  </tr>
-  <tr>
-    <td> : Entre parents jusqu'au quatrième degré    :                   :</td>
-  </tr>
-  <tr>
-    <td> : inclusivement                             :        55         :</td>
-  </tr>
-  <tr>
-    <td> :                                           :                   :</td>
-  </tr>
-  <tr>
-    <td> : Entre parents au-delà du quatrième degré  :                   :</td>
-  </tr>
-  <tr>
-    <td> : et entre personnes non parentes           :        60         :</td>
-  </tr>
-</tbody></table>
-
------------------------------------------------------------------
-
-Sous réserve des exceptions prévues aux articles 794-I et 795, les dons et legs faits aux établissements publics ou d'utilité
-publique sont soumis aux tarifs fixés pour les successions entre frères et soeurs.
+chaque ayant droit : (non reproduit).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 790
 	  - CGI 794 I
 	  - CGI 795
+
+	**Modifié par**:
+
+	  - Loi n°81-734 du 3 août 1981 - art. 4 (P) JORF 4 AOUT 1981
 
 	**Cité par**:
 
@@ -44970,14 +44856,14 @@ publique sont soumis aux tarifs fixés pour les successions entre frères et soe
 	  - Code général des impôts, CGI. - art. 792-0 bis (V)
 	  - Code général des impôts, CGI. - art. 990 I (M)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°82-881 1982-10-15
 
 
 ###### Article 779
 
-I  Pour la perception des droits de mutation à titre gratuit, il est effectué un abattement de 175.000 F [*montant*] sur la
+I  Pour la perception des droits de mutation à titre gratuit, il est effectué un abattement de 250.000 F [*montant*] sur la
 part du conjoint survivant, sur la part de chacun des ascendants et sur la part de chacun des enfants vivants ou représentés.
 
 Entre les représentants des enfants prédécédés, cet abattement se divise d'après les règles de la dévolution légale.
@@ -44985,15 +44871,17 @@ Entre les représentants des enfants prédécédés, cet abattement se divise d'
 En cas de donation, les enfants décédés du donateur sont, pour l'application de l'abattement, représentés par leurs
 descendants donataires dans les conditions prévues par le code civil en matière de représentation successorale.
 
-II  Pour la perception des droits de mutation à titre gratuit, il est effectué un abattement de 200.000 F sur la part de tout
-héritier, légataire ou donataire, incapable de travailler dans des conditions normales de rentabilité, en raison d'une
+II  Pour la perception des droits de mutation à titre gratuit, il est effectué un abattement de 275.000 F (1) sur la part de
+tout héritier, légataire ou donataire, incapable de travailler dans des conditions normales de rentabilité, en raison d'une
 infirmité physique ou mentale, congénitale ou acquise.
 
-Un décret en Conseil d'Etat détermine les modalités d'application du précédent alinéa (1).
+Un décret en Conseil d'Etat détermine les modalités d'application du précédent alinéa (2).
 
-L'abattement de 200.000 F ne se cumule pas avec les abattements de 175.000 F ou de 75.000 F prévus au I et à l'article 788-I.
+L'abattement de 275.000 F ne se cumule pas avec les abattements de 250.000 F ou de 75.000 F prévus au I et à l'article 788-I.
 
-1)  Annexe II, art. 293 et 294.
+(1)  Abattement applicable pour les actes passés à compter du 9 juillet 1981 (Loi n° 81-734 du 3 aôut 1981, art. 4).
+
+(2)  Annexe II, art. 293 et 294.
 
 **Liens relatifs à cet article**
 
@@ -45002,6 +44890,11 @@ L'abattement de 200.000 F ne se cumule pas avec les abattements de 175.000 F ou 
 	  - CGI 788 I
 	  - CGIAN2 293
 	  - CGIAN2 294
+	  - Loi n°81-734 du 3 août 1981 - art. 4, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°81-734 du 3 août 1981 - art. 4 (P) JORF 4 AOUT 1981
 
 	**Cité par**:
 
@@ -45011,10 +44904,6 @@ L'abattement de 200.000 F ne se cumule pas avec les abattements de 175.000 F ou 
 	  - Code général des impôts, CGI. - art. 790 G (V)
 	  - Code général des impôts, CGI. - art. 792-0 bis (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 293 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 786
@@ -45115,23 +45004,31 @@ II  A défaut d'autre abattement, un abattement de 10.000 F [*montant*] est opé
 ###### Article 790
 
 Les droits liquidés conformément aux articles 777 et suivants sont réduits de 25 % [*pourcentage*] en cas de donation par
-contrat de mariage ou de donation-partage faite conformément à l'article 1075 du code civil.
+contrat de mariage.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 777 ET S.
-	  - Code civil - art. 1075 (M)
+
+	**Modifié par**:
+
+	  - Loi n°80-30 du 18 janvier 1980 - art. 20 () JORF 19 JANVIER 1980
+	  - Loi n°81-734 du 3 août 1981 - art. 4 (P) JORF 4 AOUT 1981
+
+	**Abrogé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 24 (P) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 787 B (V)
 	  - Code général des impôts, CGI. - art. 787 C (V)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°82-881 1982-10-15
 
 
 ###### Article 790 A
