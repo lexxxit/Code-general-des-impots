@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1985-12-15
+Version Consolidée au 1985-12-21
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5711,6 +5711,97 @@ interposées, des titres de créances mentionnés au 1° bis du III bis l'articl
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies J (V)
 
 
+##### 4 bis : Prélèvement sur les produits des bons ou contrats de capitalisation.
+
+###### Article 125-0 A
+
+I. Les produits attachés aux bons ou contrats de capitalisation ainsi qu'aux placements de même nature sont, lors du
+dénouement du contrat, soumis à l'impôt sur le revenu (1).
+
+Les produits en cause sont constitués par la différence entre les sommes remboursées au bénéficiaire et le montant des primes
+versées.
+
+II. Les dispositions de l'article 125 A, à l'exception du IV de cet article, sont applicables aux produits prévus au I. Le
+taux du prélèvement est fixé :
+
+1° Lorsque le bénéficiaire des produits révèle son identité et son domicile fiscal dans les conditions prévues à l'article
+125 A-III bis-4° :
+
+a. A 45 % lorsque la durée du contrat a été inférieure à deux ans ;
+
+b. A 25 % lorsque cette durée a été égale ou supérieure à deux ans et inférieure à quatre ans ;
+
+c. A 15 % lorsque cette durée a été égale ou supérieure à quatre ans.
+
+Ces produits sont exonérés lorsque la durée du contrat est égale ou supérieure à six ans.
+
+Ces durées s'entendent, pour les contrats à prime unique et les contrats comportant le versement de primes périodiques
+régulièrement échelonnées, de la durée effective du contrat et, dans les autres cas, de la durée moyenne pondérée.
+
+Toutefois, les produits en cause sont exonérés, quelle que soit la durée du contrat, lorsque celui-ci se dénoue par le
+versement d'une rente viagère ou que ce dénouement résulte du licenciement du bénéficiaire des produits ou de sa mise à la
+retraite anticipée ou de son invalidité ou de celle de son conjoint correspondant au classement dans la deuxième ou troisième
+catégorie prévue à l'article L. 341-4 du code de la sécurité sociale ;
+
+2° Dans le cas contraire, à 50 %.
+
+III. Le prélèvement est établi, liquidé et recouvré sous les mêmes garanties et sanctions que celui mentionné à l'article 125
+A. Les dispositions des articles 242 ter-1, 1764 et 1768 bis sont applicables.
+
+(1) Ces dispositions sont applicables aux bons, contrats ou placements souscrits à compter du 1er janvier 1983.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 39 (V)
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 1 (V)
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 9 (V)
+	  - ORDONNANCE n°2014-696 du 26 juin 2014 - art. 3 (V)
+	  - Décret n°2015-1092 du 28 août 2015 - art. 2
+	  - Décret n°2016-210 du 26 février 2016 - art. 2
+	  - Code de l'action sociale et des familles - art. Annexe 2-3 (V)
+	  - Code de l'action sociale et des familles - art. R232-5 (V)
+	  - Code de la mutualité - art. R223-12 (VD)
+	  - Code de la sécurité sociale. - art. L136-6 (VT)
+	  - Code de la sécurité sociale. - art. L136-7 (V)
+	  - Code des assurances - art. A134-7 (V)
+	  - Code des assurances - art. R132-5-5 (V)
+	  - Code des assurances - art. R132-5-6 (V)
+	  - Code général des impôts, CGI. - art. 122 (V)
+	  - Code général des impôts, CGI. - art. 125 D (V)
+	  - Code général des impôts, CGI. - art. 1391 B ter (V)
+	  - Code général des impôts, CGI. - art. 1417 (V)
+	  - Code général des impôts, CGI. - art. 154 quinquies (V)
+	  - Code général des impôts, CGI. - art. 158 (V)
+	  - Code général des impôts, CGI. - art. 1600-0 J (VT)
+	  - Code général des impôts, CGI. - art. 1678 quater (VD)
+	  - Code général des impôts, CGI. - art. 170 (VD)
+	  - Code général des impôts, CGI. - art. 990 A (V)
+	  - Code général des impôts, CGI. - art. 990 I (VT)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 50 decies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 50 duodecies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 50 nonies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 50 undecies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 188-0 I (V)
+
+	**Cite**:
+
+	  - CGI 125 A III bis 4°, IV
+	  - CGI 1764
+	  - CGI 1768 bis
+	  - CGI 242 ter 1
+	  - Code de la sécurité sociale. - art. L341-4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
+
+
 ##### 4 ter : Prélèvement sur les produits de placement à revenu fixe.
 
 ###### Article 125 A
@@ -6039,6 +6130,47 @@ originel ou de la partie constitutive la plus ancienne dans les cas de vente de 
 
 
 ##### VIII : Dispositions communes aux différentes catégories de revenus
+
+##### 4 bis : Cotisations d'assurance maladie et d'assurance maternité des travailleurs non salariés des professions non agricoles.
+
+###### Article 154 bis
+
+Pour la détermination des bénéfices industriels et commerciaux et des bénéfices des professions non commerciales, les
+cotisations obligatoires de sécurité sociale ainsi que les cotisations volontaires de l'époux du commerçant ou de l'artisan
+qui collabore effectivement à l'activité de son conjoint sans être rémunéré et sans exercer aucune autre activité
+professionnelle sont admises en déduction du bénéfice imposable.
+
+En ce qui concerne les cotisations instituées par application de l'article L. 612-13 du code de la sécurité sociale, un
+décret fixe, le cas échéant, dans quelle proportion elles sont admises dans les charges déductibles au sens du premier
+alinéa.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°85-1353 du 17 décembre 1985 - art. 3 (V) JORF 21 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 62 (V)
+	  - Code de la sécurité sociale. - art. L131-6 (VD)
+	  - Code de la sécurité sociale. - art. L136-3 (VD)
+	  - Code de la sécurité sociale. - art. L871-1 (V)
+	  - Code général des impôts, CGI. - art. 154 bis A (VD)
+	  - Code général des impôts, CGI. - art. 158 (V)
+	  - Code général des impôts, CGI. - art. 163 quatervicies (V)
+	  - Code général des impôts, CGI. - art. 990 I (VT)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 DN bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 DN ter (V)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L612-13 (M)
+
 
 ##### 6 : Sommes perçues par une personne domiciliée ou établie hors de France.
 
@@ -7635,6 +7767,38 @@ des dispositions du VI de cet article ; elle ne peut donner lieu à remboursemen
 	**Liens**:
 
 	  - PEREMPTION: Décret n°94-899 du 17 octobre 1994 - art. 1 () JORF 19 octobre 1994
+
+
+###### Article 199 quinquies B
+
+Lorsque, au cours d'une année, les cessions à titre onéreux excèdent les achats, il est pratiqué une reprise égale à 25 %
+[*pourcentage*] du montant de la différence dans la limite des réductions d'impôts antérieurement obtenues.
+
+Les réductions d'impôt susceptibles d'être reprises font, chacune, l'objet d'un abattement de 20 % [*taux*] par année civile
+écoulée entre l'année au cours de laquelle les cessions ont excédé les achats et les années au titre desquelles les
+réductions ont été obtenues. Les reprises s'effectuent par priorité sur les réductions d'impôt les plus récentes.
+
+Aucune reprise n'est effectuée en cas d'invalidité correspondant au classement dans la deuxième ou troisième des catégories
+prévues à l'article L. 341-4 du code de la sécurité sociale, de décès, de départ à la retraite ou en cas de licenciement du
+contribuable ou de l'un des époux soumis à une imposition commune.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°94-899 du 17 octobre 1994 - art. 1 () JORF 19 octobre 1994
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L341-4 (V)
 
 
 ###### Article 199 quinquies C
@@ -11347,6 +11511,32 @@ Dans le cas d'imposition d'après le régime du bénéfice réel, les profits pr
 certificats d'obtention végétale sont imposés dans les mêmes conditions que les bénéfices réalisés par les entreprises
 industrielles et commerciales à l'occasion de la cession ou de la concession de brevets.
 
+
+
+###### Article 238 bis GA
+
+Le montant de la cotisation perçue sur les boissons alcooliques en application de l'article L. 245-7 du code de la sécurité
+sociale et de la cotisation sur les bières fortes mentionnée à l'article L. 245-13 du même code n'est pas admis en déduction
+pour l'établissement de l'impôt sur le revenu ou de l'impôt sur les sociétés dû par le consommateur.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°85-1353 du 17 décembre 1985 - art. 3 (V) JORF 21 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L245-13 (MMN)
+	  - Code de la sécurité sociale. - art. L245-7 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
 
 
 ##### 1° : Financement en capital d'oeuvres cinématographiques ou audiovisuelles
@@ -29254,6 +29444,38 @@ et la coopération agricoles et le crédit maritime mutuel.
 	  - Loi n°96-126 du 21 février 1996 - art. 2 (V)
 	  - Code de la sécurité sociale. - art. L862-4 (V)
 	  - Code général des impôts, CGI. - art. 990 I (VT)
+
+
+###### Article 999
+
+Sont exonérés de la taxe spéciale sur les conventions d'assurances les versements faits auprès d'organismes d'assurances par
+les institutions de prévoyance ou de sécurité sociale visées à l'article L. 731-1 du code de la sécurité sociale et par les
+caisses de prévoyance visées à l'article 1050 du code rural qui, tout en assurant elles-mêmes le service de leurs
+prestations, confient à des entreprises d'assurances régies par le livre III du code des assurances le soin de procéder au
+placement de leurs fonds et à la capitalisation de leurs réserves. Cette exonération est subordonnée à la condition que les
+contrats conclus à cet effet soient conformes à un contrat-type approuvé par arrêté conjoint signé par le ministre de
+l'économie et des finances et par le ministre du travail ou le ministre de l'agriculture (1).
+
+Bénéficient de la même exonération les institutions de même nature qui assurent directement le service de leurs prestations
+et la gestion financière des capitaux qu'elles recueillent.
+
+(1) Arrêté du 15 janvier 1962 (J.O. du 18 février).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1962-01-15
+	  - Code de la sécurité sociale. - art. L731-1 (T)
+	  - Code rural 1050
+
+	**Modifié par**:
+
+	  - Décret n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ###### Article 1000
