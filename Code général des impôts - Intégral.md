@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1972-08-30
+Version Consolidée au 1972-12-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -643,6 +643,37 @@ testaments et autres actes de libéralité à cause de mort.
 
 	  - TXT_ASSOCIE: Jurisprudence 1995-10-12 13L-6-95
 	  - TXT_ASSOCIE: Jurisprudence 1997-12-04 13L-6-97
+
+
+## Chapitre V : Dégrèvements et restitutions d'impôts
+
+### Section II : Juridiction contentieuse
+
+#### 8 : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à la contribution de sécurité immobilière, aux droits de timbre et à la taxe spéciale sur les conventions d'assurances
+
+###### Article 1965 E
+
+1. La taxe spéciale sur les conventions d'assurances et les pénalités payées à tort peuvent être restituées.
+
+2. La taxe dûment payée ne peut être restituée qu'en cas de résiliation, d'annulation ou de résolution judiciaire de la
+convention, à concurrence de la fraction afférente :
+
+a. Aux sommes stipulées au profit de l'assureur et à leurs accessoires dont le remboursement à l'assuré est ordonné par le
+jugement ou arrêt ;
+
+b. Aux sommes stipulées au profit de l'assureur et à leurs accessoires qui, ayant donné lieu à un paiement effectif de la
+taxe, bien que n'ayant pas encore été payées à l'assureur, ne peuvent plus, d'après les dispositions de la décision
+judiciaire, être exigées par lui de l'assuré.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°72-1116 1972-12-08 art. 4 JORF 17 décembre 1972
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 # RECOUVREMENT DE L'IMPOT
