@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1982-03-30
+Version Consolidée au 1982-03-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -37995,6 +37995,27 @@ l'ordonnance n° 82-283 du 26 mars 1982 (1), est exonérée de taxe sur les sala
 	  - Ordonnance 82-283 1982-03-26 art. 2 JORF 30 mars 1982
 
 
+###### Article 231 bis M
+
+La part patronale de la contribution de solidarité instituée par l'article 4 de l'ordonnance n° 82-290 du 30 mars 1982
+relative à la limitation des possibilités de cumuls entre pensions de retraite et revenus d'activité, au profit du régime
+national interprofessionnel d'aide aux travailleurs privés d'emploi, est exonérée de taxe sur les salaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Cite**:
+
+	  - Ordonnance 82-290 1982-03-30 art. 4
+
+	**Créé par**:
+
+	  - Ordonnance 82-290 1982-03-30 art. 4 JORF 31 mars 1982
+
+
 ##### COTISATION PERCUE AU TITRE DE LA PARTICIPATION DES EMPLOYEURS A L'EFFORT DE CONSTRUCTION.
 
 ###### Article 235 bis
@@ -38607,19 +38628,24 @@ cours duquel ces dépenses ont été exposées.
 
 ###### Article 237 bis
 
-Les contributions payées par les employeurs dans les conditions prévues à l'article 231 bis D, deuxième et troisième alinéas
-[*allocations ou aides aux travailleurs privés d'emploi*], sont déductibles pour l'établissement de l'impôt sur le revenu ou
-de l'impôt sur les sociétés dû par ces employeurs.
+Les contributions payées par les employeurs dans les conditions prévues aux articles 231 bis D, deuxième et troisième alinéas
+et 231 bis M, [*allocations ou aides aux travailleurs privés d'emploi*], sont déductibles pour l'établissement de l'impôt sur
+le revenu ou de l'impôt sur les sociétés dû par ces employeurs.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 231 bis D AL. 2, AL. 3
+	  - CGI 231 bis M
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Ordonnance 82-290 1982-03-30 art. 4 JORF 31 mars 1982
 
 
 ###### Article 237 bis A
