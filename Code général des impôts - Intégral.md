@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1988-01-08
+Version Consolidée au 1988-01-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -41916,6 +41916,27 @@ cas, lorsque leur présentation volontaire à la formalité intervient à compte
 ##### Champ d'application et tarif
 
 ##### 1 : Effets imposables.
+
+###### Article 910
+
+I. Sous réserve de ce qui est dit au II, les lettres de change, même tirées par seconde, troisième et duplicata, les billets
+à ordre ou au porteur, les warrants et tous autres effets négociables ou de commerce sont soumis à un droit de 11 F
+[*montant*].
+
+Ce droit est applicable aux effets créés en France et payables hors de France [*à l'étranger*].
+
+II. Sont soumis à un droit de 3,50 F les effets de commerce revêtus, dès leur création, d'une mention de domiciliation dans
+un établissement de crédit ou un bureau de chèques postaux.
+
+Les effets qui, tirés hors de France, sont susceptibles de donner lieu à la perception du droit prévu au I, bénéficient du
+même régime, à condition d'être revêtus d'une mention identique au moment où l'impôt devient exigible en France.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 2 (P) JORF 31 décembre 1987 en vigueur le 15 janvier 1988
+
 
 ###### Article 911
 
