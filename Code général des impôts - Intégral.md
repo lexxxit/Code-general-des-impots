@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1992-07-16
+Version Consolidée au 1992-07-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -7588,7 +7588,7 @@ en nature accordés :
 fonction publique. Des décrets peuvent étendre le bénéfice de cette disposition aux régimes de retraites complémentaires
 constitués au profit des fonctionnaires et agents de l'Etat, des collectivités locales et des établissements publics, soit
 auprès d'organismes relevant du code de la mutualité, soit auprès d'entreprises d'assurances régies par le livre III du code
-des assurances ou de la caisse nationale de prévoyance (1) ; 
+des assurances. 
 
 2° Les cotisations ou les primes versées aux organismes de retraite et de prévoyance complémentaires auxquels le salarié est
 affilié à titre obligatoire. 
@@ -7669,7 +7669,9 @@ articles          R* 196-1 et R* 196-3 du livre des procédures fiscales. Le mon
 titre de l'acquisition des immeubles, des véhicules et autres biens dont la durée d'utilisation est supérieure à un an
 s'entend de la dépréciation que ces biens ont subie au cours de l'année d'imposition. 
 
-(1) Annexe III, art. 38 septdecies. 
+Sont assimilées à des frais professionnels réels les dépenses exposées en vue de l'obtention d'un diplôme ou d'une
+qualification professionnelle dans la perspective d'une insertion ou d'une conversion professionnelle par les personnes
+tirant un revenu de la pratique d'un sport. (1) Annexe III, art. 38 septdecies. 
 
 (2) A compter de l'imposition des revenus de 1988 et de 1989, la base de calcul des limites de 19 % et de 3 % est égale à
 douze fois le plafond annuel moyen retenu pour le calcul des cotisations de sécurité sociale. 
@@ -7743,11 +7745,14 @@ l'imposition des revenus de 1989.
 
 	**Modifié par**:
 
-	  - Loi - art. 41 (V) JORF 30 décembre 1990
+	  - Loi n°92-652 du 13 juillet 1992 - art. 33 () JORF 16 juillet 1992
+	  - Loi n°92-665 du 16 juillet 1992 - art. 8 () JORF 17 juillet 1992, art. 10 :
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°91-883 1991-09-09
+	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 10
+	  - HISTO: pour la date d'entrée en vigueur)
 
 
 ###### Article 83 A
@@ -58141,39 +58146,6 @@ dispensés de la formalité.
 Les fonds et placements de la banque des règlements internationaux provenant des paiements de l'Allemagne sont libérés de
 toute charge fiscale.
 
-
-
-##### Caisse nationale de prévoyance
-
-###### Article 1061
-
-I  Sous réserve des dispositions de l'article 679-3°, les certificats, actes de notoriété et autres pièces exclusivement
-relatives à l'exécution des dispositions du chapitre III du titre III du livre IV de la première partie du code des
-assurances, sont exonérés des droits de timbre et d'enregistrement et, le cas échéant, dispensés de la formalité.
-
-II  Il en est de même des certificats, actes de notoriété et de toutes autres pièces exclusivement relatives à la liquidation
-et au paiement des pensions acquittées par l'Etat, comme complément des rentes viagères servies au personnel ouvrier des
-administrations publiques par la caisse nationale de prévoyance.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Abrogation incorporée dans l'édition du 18 août 1993
-	  - Loi n°92-665 du 16 juillet 1992 - art. 8 () JORF 17 juillet 1992, art. 10 pour la date d'entrée en vigueur
-
-	**Cite**:
-
-	  - CGI 679 3°
-	  - Code des assurances Livre IV Titre III chapitre III
-
-	**Modifié par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 Décembre 1982
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 10
 
 
 ##### 2° : Caisses d'épargne
