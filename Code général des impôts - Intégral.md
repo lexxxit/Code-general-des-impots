@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1986-09-15
+Version Consolidée au 1986-10-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15312,6 +15312,97 @@ imposable.
 	**Modifié par**:
 
 	  - Loi n°84-46 1984-01-24 art. 94 II JORF 26 janvier 1984
+
+
+##### Section VII : Dispositions spéciales applicables aux opérations de privatisation
+
+##### 1° : Plus-values réalisées par les entreprises
+
+###### Article 248 E
+
+Lorsque des titres, mentionnés aux articles 5 et 6 de la loi n° 86-912 du 6 août 1986 ou des titres participatifs mentionnés
+à l'article 1er de la même loi, figurent au bilan d'une entreprise et sont échangés dans le cadre des opérations mentionnées
+au 1° de l'article 5 de la loi n° 86-793 du 2 juillet 1986 ou au titre IV de la loi n° 86-1067 du 30 septembre 1986, la plus-
+value ou la moins-value résultant de l'échange n'est pas prise en compte pour la détermination du résultat imposable de
+l'exercice en cours ; les actions reçues en échange sont inscrites au bilan pour la même valeur comptable que celle des
+titres échangés.
+
+Lors de la cession par l'entreprise des actions ainsi reçues, la date à laquelle les titres remis à l'échange ont été acquis
+sert de référence pour le calcul de la plus-value. Le calcul s'effectue à partir de la valeur fiscale inscrite dans les
+écritures de la société. Pour les titres remis en application de la loi de nationalisation n° 82-155 du 11 février 1982 ou
+dans le cadre des opérations mentionnées à l'article 19 de la loi de finances rectificative pour 1981, n° 81-1179 du 31
+décembre 1981, et à l'article 14 de la loi de finances rectificative pour 1982, n° 82-1152 du 30 décembre 1982, cette valeur
+est celle définie à l'article 248 A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 248 A
+	  - Loi n°81-1179 1981-12-31 art. 19 Finances rectificative pour 1981
+	  - Loi n°82-155 1982-02-11
+	  - Loi n°82-1152 1982-12-30 art. 14 Finances rectificative pour 1982
+	  - Loi n°86-793 du 2 juillet 1986 - art. 5, v. init.
+	  - Loi n°86-912 1986-08-06 art. 1, art. 5, art. 6
+	  - Loi n°86-912 du 6 août 1986 - art. 5 (Ab)
+	  - Loi n°86-912 du 6 août 1986 - art. 6 (M)
+	  - Loi n°86-1067 1986-09-30
+
+	**Créé par**:
+
+	  - Loi n°86-912 1986-08-06 art. 16 1°, art. 17 1° JORF 6 août 1986
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 61 (V) JORF 1er octobre 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 54 septies (V)
+
+
+##### 2° : Plus-values réalisées par les particuliers
+
+###### Article 248 F
+
+Les dispositions des articles 92 B et 160 ne sont pas applicables, dans le cadre des opérations prévues au 1° de l'article 5
+de la loi n° 86-793 du 2 juillet 1986 et au titre IV de la loi n° 86-1067 du 30 septembre 1986, aux échanges de titres
+participatifs mentionnés à l'article 1er de la loi du 2 juillet 1986 précitée, de titres mentionnés aux articles 5 et 6 de la
+même loi, des titres mentionnés aux articles 60 et 61 de la loi du 30 septembre 1986 susvisée.
+
+En cas de cession des actions reçues, la plus-value ou la moins-value est calculée à partir du prix ou de la valeur
+d'acquisition des titres remis en échange ; lorsque ces titres ont été acquis dans le cadre de la loi de nationalisation n°
+82-155 du 11 février 1982 ou des opérations mentionnées à l'article 19 de la loi n° 81-1179 du 31 décembre 1981 et à
+l'article 14 de la loi n° 82-1152 du 30 décembre 1982, le calcul s'effectue à partir du prix ou de la valeur d'acquisition
+des titres ayant ouvert droit à l'indemnisation. Dans ce dernier cas, l'article 160 s'applique si les conditions qu'il
+prévoit sont remplies soit au moment de l'échange initial de l'action d'une société nationalisée en 1982, soit au moment de
+la cession de l'action nouvellement acquise.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 160
+	  - CGI 92 B
+	  - Loi n°81-1179 1981-12-31 art. 19 Finances rectificative pour 1981
+	  - Loi n°82-155 1982-02-11
+	  - Loi n°82-1152 1982-12-30 art. 14 Finances rectificative pour 1982
+	  - Loi n°86-793 du 2 juillet 1986 - art. 1, v. init.
+	  - Loi n°86-793 du 2 juillet 1986 - art. 5, v. init.
+	  - Loi n°86-793 du 2 juillet 1986 - art. 6 (M)
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 60 (V)
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 61 (V)
+
+	**Créé par**:
+
+	  - Loi n°86-912 1986-06-17 art. 16 2°, art. 17 2° JORF 7 août 1986
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 60 (V) JORF 1er octobre 1986
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 61 (V) JORF 1er octobre 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
 
 
 ### Titre II : Taxes sur le chiffre d'affaires et taxes assimilées
