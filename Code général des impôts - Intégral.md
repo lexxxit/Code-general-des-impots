@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1993-07-01
+Version Consolidée au 1993-07-23
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -69536,6 +69536,47 @@ sanctions applicables à celle-ci. Les réclamations sont présentées, instruit
 ### Titre III : Impositions perçues au profit de certains établissements publics et d'organismes divers
 
 #### Chapitre premier : Impôts directs et taxes assimilées
+
+##### Section 0I : Contributions et prélèvements perçus au profit d'organismes divers concourant au financement de la protection sociale et au remboursement de la dette sociale
+
+##### I : Contribution sociale de 1 %  perçue au profit de la Caisse nationale des allocations familiales.
+
+###### Article 1600-0 A
+
+I. Les produits de placements perçus à compter du 1er janvier 1985 et soumis au prélèvement prévu à l'article 125 A sont
+soumis à une contribution au taux de 1 % dont le produit est versé à la caisse nationale des allocations familiales. 
+
+Cette contribution n'est pas applicable aux produits versés à des personnes visées au III de l'article 125 A.
+
+II. (Abrogé).
+
+III. La contributions visée au I est assise, contrôlée et recouvrée selon les mêmes règles et conditions et sous les mêmes
+garanties et sanctions que le prélèvement mentionné à l'article 125 A.
+
+**Nota:**
+
+NOTA : La section 01 a été modifiée par le décret 96-556.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 125 A III
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+	  - Décret n°96-556 1996-06-21
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°93-859 1993-06-22 art. 42 II Finances rectificative pour 1993 JORF 23 juin 1993
+	  - Loi n°93-936 1993-07-23 art. 8 VII JORF 23 juillet 1993
+
 
 ##### Section I : Taxe pour frais de chambres de commerce et d'industrie
 
