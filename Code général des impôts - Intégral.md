@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1985-07-11
+Version Consolidée au 1985-07-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5266,6 +5266,76 @@ copropriétaires en proportion de leurs droits afin de déterminer, pour chaque 
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 39 terdecies
+
+1  Le régime des plus-values à long terme est applicable, dans les conditions et limites qui pourront être fixées par décret
+(1), aux produits des cessions de brevets, de procédés et de techniques, ainsi qu'aux concessions de licences exclusives
+d'exploitation. Pour l'imposition des bénéfices des exercices clos à partir du 31 décembre 1984, ce régime s'applique
+également aux concessions non exclusives d'exploitation.
+
+Il en est de même pour les concessions de licences par lesquelles le titulaire se dessaisit pour un secteur géographique
+déterminé ou pour une application particulière. Ces dispositions cessent d'être applicables pour l'imposition des bénéfices
+des exercices clos à partir du 31 décembre 1984.
+
+Ce régime s'applique également, dans des conditions et limites qui seront fixées par décret (1), aux produits de cessions de
+brevets ou de concessions de licences d'exploitation de brevets en cours de délivrance.
+
+Les dispositions qui précèdent ne sont pas applicables lorsque les droits, procédés et techniques ne présentent pas le
+caractère d'éléments de l'actif immobilisé ou ont été acquis à titre onéreux depuis moins de deux ans [*délai*].
+
+1 bis  Le montant des redevances tirées de l'exploitation des droits de propriété industrielle ou des droits assimilés est
+exclu du régime des plus-values à long terme prévu au 1, lorsque ces redevances ont été admises en déduction pour l'assiette
+de l'impôt sur le revenu ou de l'impôt sur les sociétés et qu'il existe des liens de dépendance entre l'entreprise concédante
+et l'entreprise concessionnaire.
+
+Des liens de dépendance [*définition*] sont réputés exister entre deux entreprises :
+
+- Lorsque l'une détient directement ou par personne interposée la majorité du capital social de l'autre ou y exerce en fait
+le pouvoir de décision [*société-mère et filiale*].
+
+- Lorsqu'elles sont placées l'une et l'autre, dans les conditions définies à l'alinéa précédent, sous le contrôle d'une même
+tierce entreprise.
+
+2  Sous réserve des dispositions de l'article 41, les plus-values nettes constatées en cas de décès de l'exploitant sont
+soumises de plein droit au régime fiscal des plus-values à long terme.
+
+3  (Abrogé)
+
+4  Les distributions par les sociétés de capital-risque de produits et plus-values nets éxonérés en application du 3° septies
+de l'article 208 sont soumises, lorsque l'actionnaire est une entreprise, au régime fiscal des plus-values à long terme.
+
+(1) Décret à émettre
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 41 CGI 208 3° septies
+
+	**Modifié par**:
+
+	  - Loi n°85-695 1985-07-11 art. 1 III 1° JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 119 bis (V)
+	  - Code général des impôts, CGI. - art. 158 (V)
+	  - Code général des impôts, CGI. - art. 1668 (VD)
+	  - Code général des impôts, CGI. - art. 201 (VD)
+	  - Code général des impôts, CGI. - art. 217 octies (V)
+	  - Code général des impôts, CGI. - art. 219 (VD)
+	  - Code général des impôts, CGI. - art. 221 bis (V)
+	  - Code général des impôts, CGI. - art. 242 quinquies (V)
+	  - Code général des impôts, CGI. - art. 39 (VD)
+	  - Code général des impôts, CGI. - art. 73 E (V)
+	  - Code général des impôts, CGI. - art. 93 quater (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 46 (V)
+
+
 ##### 4 : Fixation du bénéfice imposable
 
 ##### A : Exploitants individuels
@@ -6266,6 +6336,50 @@ suivant celle au titre de laquelle une déduction a été pratiquée.
 	  - Loi n°82-1152 du 30 décembre 1982 - art. 20 (V) JORF 31 DECEMBRE 1982
 
 
+##### Financement en capital d'oeuvres cinématographiques ou audiovisuelles.
+
+###### Article 163 septdecies
+
+Le montant des sommes effectivement versées pour les souscriptions en numéraire au capital des sociétés définies à l'article
+238 bis HE est déductible du revenu net global ; cette déduction ne peut pas excéder 25 % de ce revenu.
+
+Le bénéfice de la déduction est subordonné à l'agrément du capital de la société par le ministre de l'économie et des
+finances.
+
+En cas de cession de tout ou partie des titres souscrits dans les cinq ans de leur acquisition, le montant des sommes
+déduites  est ajouté au revenu net global de l'année de la cession (1).
+
+Un décret fixe les modalités d'application du présent article, notamment les obligations déclaratives (2).
+
+(1) Voir également article 238 bis HK.
+
+(2) Annexe III, art. 46 quindecies E.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HE, 238 bis HK
+	  - CGIAN3 46 quindecies E
+
+	**Créé par**:
+
+	  - Loi n°85-695 1985-07-11 art. 40 III, VI JORF 12 juillet 1985
+	  - Loi n°85-695 du 11 juillet 1985 - art. 40 (V) JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
 ##### II : Revenu imposable des étrangers et des personnes n'ayant pas leur domicile fiscal en France
 
 ###### Article 164 A
@@ -6415,6 +6529,55 @@ l'article 7 de la loi n° 79-12 du 3 janvier 1979.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 163 quinquies C
+
+Les distributions par les sociétés de capital-risque de produits et plus values nets exonérés en application du 3° septies de
+l'article 208 sont soumises, lorsque l'actionnaire est une personne physique, au taux d'imposition prévu à l'article 200 A.
+
+Toutefois ces distributions sont éxonérées si les conditions suivantes sont remplies (1) :
+
+a. L'actionnaire conserve ses actions pendant cinq ans au moins à compter de leur souscription ou acquisition ;
+
+b. Les produits sont immédiatement réinvestis dans la société soit sous forme de souscription ou d'achat d'actions, soit sur
+un compte de la société bloqué pendant cinq ans ; l'exonération s'étend alors aux intérêts du compte, lesquels sont libérés à
+la cloture de ce dernier ;
+
+c. L'actionnaire, son conjoint et leurs ascendants et descendant ne détiennent pas ensemble directement ou indirectement plus
+de 25 % des droits dans les bénéfices de sociétés dont les titres figurent à l'actif de la société de capital-risque, ou
+n'ont pas détenu ce montant à un moment quelconque au cours des cinq années précédant la souscription ou l'acquisition des
+actions de la société de capital-risque.
+
+(1) Annexe II, art. 60 A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 200 A
+	  - CGI 208 3° septies
+	  - CGIAN2 60 A
+
+	**Créé par**:
+
+	  - Loi n°85-695 1985-07-11 art. 1 III 2° JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L136-7 (V)
+	  - Code général des impôts, CGI. - art. 150-0 A (V)
+	  - Code général des impôts, CGI. - art. 150-0 D (M)
+	  - Code général des impôts, CGI. - art. 1600-0 J (VT)
+	  - Code général des impôts, CGI. - art. 242 ter C (V)
+	  - Code général des impôts, CGI. - art. 80 quindecies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 60 A (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 60 B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 DGA (V)
 
 
 ##### II : Revenu imposable des étrangers et des personnes n'ayant pas leur domicile fiscal en France.
@@ -8339,6 +8502,89 @@ la taxe [*sur les véhicules de tourisme des sociétés*] visée à l'article 10
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 214
+
+1  Sont admis en déduction :
+
+1° En ce qui concerne les sociétés coopératives de consommation, les bonis provenant des opérations faites avec les associés
+et distribués à ces derniers au prorata de la commande de chacun d'eux;
+
+2° En ce qui concerne les sociétés coopératives ouvrières de production [*SCOP*], la part des bénéfices nets qui est
+distribuée aux travailleurs dans les conditions prévues au 3° de l'article 33 de la loi n° 78-763 du 19 juillet 1978 (1) ,
+sauf lorsqu'il est fait application des dispositions prévues à l'article 26 de cette loi et qu'un ou plusieurs associés non-
+employés détiennent directement ou indirectement plus de la moitié du capital;
+
+3° (Abrogé)     4° (Disposition périmée).
+
+2  Le Gouvernement pourra, par décrets pris en conseil des ministres, après avis du conseil d'Etat, avant le 31 décembre
+1957, autoriser la déduction d'une fraction des revenus distribués ne pouvant excéder 5 % [*pourcentage*] du montant des
+souscriptions en numéraire recueillies par les entreprises qui procéderaient à une constitution ou à une augmentation de
+capital avant le 31 décembre 1961 [*date*], le bénéfice de cette mesure étant réservé aux entreprises qui concourent à la
+réalisation des programmes des plans de modernisation et d'équipement et aux activités qui se rattachent aux programmes de
+développement régional (2).
+
+Ces décrets détermineront d'une manière générale les conditions d'application de cette disposition.
+
+3  Le bénéfice des dispositions du 2 peut être accordé, dans les mêmes conditions, aux sociétés ayant émis avant le 31
+décembre 1965 des obligations convertibles en actions, ainsi qu'aux sociétés françaises constituées ou ayant procédé à
+l'augmentation de leur capital entre le 31 décembre 1961 et le 31 décembre 1965 [*période*].
+
+(1)  Loi portant statut des sociétés coopératives ouvrières de  production.
+
+(2)  Annexe II, art. 96 à 99.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 96 A CGIAN2 99
+	  - Loi n°78-763 1978-07-19 art. 33 3°, art. 26
+	  - Loi n°78-763 du 19 juillet 1978 - art. 26 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-703 du 12 juillet 1985 - art. 9 () JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Décret n°2014-1758 du 31 décembre 2014 (V)
+	  - Code général des impôts, CGI. - art. 223 A (V)
+	  - Code général des impôts, CGI. - art. 223 B (V)
+	  - Code général des impôts, CGI. - art. 223 L (VT)
+
+
+###### Article 214 B
+
+Les dispositions de l'article 214 A ne sont pas applicables :
+
+1° Aux sociétés de capital-risque pour les distributions de produits et plus-values nets exonérés en application du 3°
+septies de l'article 208 ;
+
+2° Aux sociétés ayant pour activité le financement en capital d'oeuvres cinématographiques ou audiovisuelles définies à
+l'article 238 bis HE.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 208 3° septies
+	  - CGI 214 A
+	  - CGI 238 bis HE
+
+	**Créé par**:
+
+	  - Loi n°85-695 1985-07-11 art. 1, art. 40 JORF 12 juillet 1985
+	  - Loi n°85-695 du 11 juillet 1985 - art. 40 (V) JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ###### Article 216
@@ -10708,6 +10954,122 @@ industrielles et commerciales à l'occasion de la cession ou de la concession de
 
 
 
+##### 1° : Financement en capital d'oeuvres cinématographiques ou audiovisuelles
+
+###### Article 238 bis HE
+
+Pour l'établissement de l'impôt sur le revenu ou de l'impôt sur les sociétés, les souscriptions en numéraire au capital de
+sociétés anonymes [*SA*] soumises à l'impôt sur les sociétés dans les conditions de droit commun et qui ont pour activité
+exclusive le financement en capital d'oeuvres cinématographiques ou audiovisuelles agréées sont admises en déduction dans les
+conditions définies aux articles 163 septdecies et 217 septies.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 22 mars 1999 - art. 25 (V)
+	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 bis HI (V)
+	  - Code du cinéma et de l'image animée - art. 211-55 (V)
+	  - Code du cinéma et de l'image animée - art. Annexe 2-1 (V)
+	  - Code du cinéma et de l'image animée - art. D332-6 (V)
+	  - Code du cinéma et de l'image animée - art. L332-1 (V)
+	  - Code du cinéma et de l'image animée - art. L332-2 (VT)
+	  - Code du cinéma et de l'image animée - art. L332-3 (V)
+	  - Code général des impôts, CGI. - art. 1763 E (V)
+	  - Code général des impôts, CGI. - art. 199 unvicies (V)
+	  - Code général des impôts, CGI. - art. 219 (VD)
+	  - Code général des impôts, CGI. - art. 238 bis HF (V)
+	  - Code général des impôts, CGI. - art. 238 bis HG (V)
+	  - Code général des impôts, CGI. - art. 238 bis HH (V)
+	  - Code général des impôts, CGI. - art. 238 bis HJ (V)
+	  - Code général des impôts, CGI. - art. 238 bis HK (V)
+	  - Code général des impôts, CGI. - art. 238 bis HM (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies E (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies F (V)
+
+	**Cite**:
+
+	  - CGI 163 septdecies
+	  - CGI 217 septies
+
+	**Créé par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 40 (V) JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 238 bis HF
+
+L'agrément prévu à l'article 238 bis HE est délivré par le ministre de la culture aux oeuvres, réalisées en version
+originale, en langue française, de nationalité d'un Etat de la Communauté économique européenne [*CEE*], et pouvant
+bénéficier du soutien de l'industrie cinématographique et de l'industrie des programmes audiovisuels prévu à l'article 76 de
+la loi de finances pour 1960 n° 59-1454 du 26 décembre 1959  et à l'article 61 de la loi de finances pour 1984 n° 83-1179 du
+29 décembre 1983 , à l'exclusion:
+
+Des oeuvres figurant sur la liste prévue à l'article 12 de la loi de finances pour 1976  n° 75-1278 du 30 décembre 1975;
+
+Des oeuvres cinématographiques ou audiovisuelles utilisables à des fins de publicité;
+
+Des programmes d'information, des débats d'actualité et des émissions sportives ou de variétés;
+
+De tout document ou programme audiovisuel ne comportant qu'accessoirement des éléments de création originale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HE
+	  - Loi n°59-1454 1959-12-26 art. 76 finances pour 1960
+	  - Loi n°75-1278 1975-12-30 art. 12 finances pour 1976
+	  - Loi n°83-1179 1983-12-29 art. 61 finances pour 1984
+
+	**Créé par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 40 (V) JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L111-3 (V)
+	  - Code général des impôts, CGI. - art. 238 bis HG (V)
+
+
+###### Article 238 bis HH
+
+Les actions souscrites doivent obligatoirement revêtir la forme nominative. Une même personne ne peut détenir, directement ou
+indirectement, plus de 25 p. 100 [*pourcentage*] du capital d'une société définie à l'article 238 bis HE.
+
+Lorsqu'elles sont inscrites au bilan d'une entreprise relevant de l'impôt sur le revenu, les actions des sociétés définies à
+cet article ne peuvent faire l'objet sur le plan fiscal d'une provision pour dépréciation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HE
+
+	**Créé par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 40 (V) JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies C (V)
+
+
 ##### I bis : Réévaluation des immobilisations non amortissables
 
 ###### Article 238 bis I
@@ -10977,6 +11339,45 @@ assujetties à l'impôt sur les sociétés, de l'impôt sur les sociétés.
 	**Cite**:
 
 	  - Code forestier L241-1 à L246-2
+
+
+##### VI bis : Primes de remboursement et intérêts capitalisés
+
+###### Article 238 septies A
+
+Lorsqu'une personne acquiert le droit au paiement du principal ou le droit au paiement d'intérêts d'une obligation, la prime
+de remboursement s'entend de la différence entre :
+
+a) Le capital ou l'intérêt qu'elle perçoit ;
+
+b) Le prix de souscription ou le prix d'acquisition originel du droit correspondant.
+
+Ces dispositions ne s'appliquent qu'aux titres émis à compter du 1er juin 1985 [*date point de départ*].
+
+Elles ne s'appliquent pas aux titres démembrés lors d'une succession.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°85-695 1985-07-11 art. 14 II, V JORF 12 juillet 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°88-1201 1988-12-23 art. 42 III
+
+	**Cité par**:
+
+	  - Loi n°88-1201 du 23 décembre 1988 - art. 42 (V)
+	  - Code général des impôts, CGI. - art. 157 (V)
+	  - Code général des impôts, CGI. - art. 219 bis (V)
+	  - Code général des impôts, CGI. - art. 238 septies B (V)
+	  - Code général des impôts, CGI. - art. 238 septies C (V)
+	  - Code général des impôts, CGI. - art. 238 septies D (V)
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-07-10
 
 
 ##### VII : Plus-values réalisées par les entreprises à l'occasion de la construction et de la vente d'immeubles affectés principalement à l'habitation
@@ -19301,6 +19702,65 @@ contrôlée.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### Eaux-de-vie et alcools naturels (acquits-à-caution et congés modèle 1903 garantissant la substance).
+
+###### Article 470
+
+Les titres de mouvement sur papier blanc modèle 1903 s'appliquent exclusivement :
+
+1° Aux eaux-de-vie et alcools naturels provenant uniquement de la distillation des vins, cidres, poirés, marcs, cerises et
+prunes;
+
+2° Aux alcools et eaux-de-vie obtenus par la distillation de vins et de marcs provenant de vendanges sucrées en première
+cuvée dans les limites et conditions légales;
+
+3° Aux rhums et tafias naturels pour lesquels, lors de leur importation, il est justifié de leur provenance directe des
+départements d'outre-mer ou des territoires d'outre-mer ou des Etats de la Communauté [*CEE*];
+
+4° (Devenu sans objet).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 360
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+
+###### Article 471
+
+Peuvent seuls obtenir la délivrance de titres de mouvement sur papier blanc modèle 1903 :
+
+a  Les bouilleurs ou distillateurs qui produisent sous le contrôle du service des impôts les alcools visés à l'article
+470-1°, et 2° et qui ne reçoivent du dehors aucune autre espèce de spiritueux;
+
+b  Les négociants détenant ces mêmes alcools, à la condition que ceux-ci aient été emmagasinés distinctement et qu'ils soient
+suivis, à la demande des intéressés, à un compte spécial pour leur volume et l'alcool pur qu'ils représentent;
+
+c  Les importateurs de rhums et tafias naturels fournissant les justifications de provenance prévues à l'article 470-3°.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 470 1°, 2°, 3°, 4°
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985 : conséquence de la modification de l'article 470
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
 
 
 ##### Eaux-de-vie et alcools naturels (acquits-à-caution et congés modèle 1909 garantissant la substance et l'origine).
@@ -34437,6 +34897,43 @@ départemental de l'agriculture et de la forêt précisant la date de l'octroi d
 
 #### Chapitre IV : Autres droits et taxes
 
+###### Article 1599 C
+
+A compter du 1er janvier 1984, une taxe différentielle sur les véhicules à moteur est perçue au profit des départements
+autres que les départements corses.
+
+Cette taxe est perçue dans les mêmes conditions que celle instituée en application de l'article 1er de la loi n° 56-639 du 30
+juin 1956 portant institution du fonds national de solidarité (1) (2).
+
+**Nota:**
+
+(1) Le fonds national de solidarité est remplacé, à compter de la date d'entrée en vigueur de la loi n° 93-936 du 22 juillet
+1993, par deux nouveaux organismes : le fonds de solidarité vieillesse institué par l'article L. 135-1 du code de la sécurité
+sociale et le fonds spécial d'invalidité mentionné par l'article L. 815-3-1 du même code.
+
+(2) Voir les articles 317 nonies à 317 duodecies de l'annexe II et les articles R. 212-1 et R. 213-1 du livre des procédures
+fiscales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI Livre des procédures fiscales R212-1, R213-1
+	  - CGIAN2 317 nonies à 317 duodecies
+	  - Code de la sécurité sociale. - art. L135-1 (M)
+	  - Code de la sécurité sociale. - art. L815-3-1 (M)
+	  - Loi n°56-639 1956-06-30 art. 1
+	  - Loi n°93-936 1993-07-22
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985
+
+
 ###### Article 1599 D
 
 Les véhicules qui donnent lieu au paiement de la taxe spéciale sur certains véhicules routiers établie par l'article 16 de la
@@ -34512,6 +35009,48 @@ Loi 2005-1719 2005-12-30 art. 14 VI :
 	  - Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
 
 
+###### Article 1599 F
+
+Sont exonérés de la taxe différentielle, les véhicules de tourisme appartenant :
+
+a. Aux bénéficiaires des articles L 36 et L 37 du code des pensions militaires d'invalidité et des victimes de la guerre ;
+
+b. Aux pensionnés dont le taux d'invalidité est au moins égal à 80 % et qui sont titulaires de la carte d'invalidité portant
+la mention "station debout pénible" ;
+
+c. Aux infirmes civils titulaires de la carte prévue à l'article 173 du code de la famille et de l'aide sociale et portant la
+mention "station debout pénible" ;
+
+d. Aux aveugles titulaires de la carte prévue aux articles 173 et 174 du code de la famille et de l'aide sociale.
+
+L'exonération est limitée à un seul véhicule par propriétaire.
+
+Elle s'applique également aux véhicules pris en location par les personnes mentionnées au premier alinéa en vertu d'un
+contrat de crédit-bail ou de location de deux ans ou plus.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 173 (M)
+	  - Code de la famille et de l'aide sociale. - art. 174 (M)
+	  - Code des pensions militaires d'invalidité et des v - art. L36 (V)
+	  - Code des pensions militaires d'invalidité et des v - art. L37 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+	  - TXT_ASSOCIE: Instruction 2000-09-11 7M-8-00
+
+
 ###### Article 1599 I
 
 Pour les véhicules ayant moins de cinq ans d'âge, les tarifs applicables, majorés des frais d'assiette et de recouvrement
@@ -34534,6 +35073,26 @@ pour frais d'assiette et de recouvrement.
 	**Créé par**:
 
 	  - Loi n°84-600 du 13 juillet 1984 - art. 5 (V) JORF 14 juillet 1984
+
+
+###### Article 1599 J
+
+La vignette représentative du paiement de la taxe différentielle sur les véhicules à moteur doit être acquise dans le
+département d'immatriculation du véhicule.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
 
 
 ### Titre III : Impositions perçues au profit de certains établissements publics et d'organismes divers
@@ -45809,11 +46368,10 @@ L'amende est recouvrée et les instances sont introduites et jugées comme en ma
 ###### Article 1840 N quater
 
 I  Sous réserve de l'application de l'indemnité prévue à l'article 1727 en cas de retard dans le paiement de la taxe
-différentielle sur les véhicules à moteur [*vignette*] et de la taxe annuelle sur les véhicules d'une puissance fiscale
-supérieure à 16 CV immatriculés dans la catégorie des voitures particulières, toutes autres infractions à l'application des
-tarifs fixés conformément aux articles 1599 G, 1599 decies et 1599 undecies, aux dispositions de l'article 1599 F, des
-articles 317 nonies à 317 octodecies de l'annexe II au présent code ainsi qu'à celles de l'arrêté prévu à l'article 317
-duodecies de la même annexe sont sanctionnés par une amende fiscale égale au double de la taxe.
+différentielle sur les véhicules à moteur [*vignette*] toutes autres infractions à l'application des tarifs fixés
+conformément aux articles 1599 G, 1599 decies et 1599 undecies, aux dispositions de l'article 1599 F, des articles 317 nonies
+à 317 octodecies de l'annexe II au présent code ainsi qu'à celles de l'arrêté prévu à l'article 317 duodecies de la même
+annexe sont sanctionnés par une amende fiscale égale au double de la taxe.
 
 II  (Abrogé)
 
@@ -45829,15 +46387,13 @@ II  (Abrogé)
 	  - CGIAN2 317 duodecies
 	  - CGIAN2 317 nonies à CGIAN2 317 octodecies
 
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
 	**Modifié par**:
 
-	  - Loi n°56-639 1956-06-30 art. 1 JORF 1 juillet 1956
-	  - Décret n°56-875 1956-09-03 art. 2, art. 5 II JORF 4 septembre 1956
-	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 finances pour 1984 JORF 30 décembre 1983
+	  - Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
 
 
 ###### Article 1840 N quinquies
