@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1992-01-04
+Version Consolidée au 1992-02-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -66844,6 +66844,29 @@ incombe aux propriétaires riverains.
 	  - Décret n°82-881 1982-10-15
 
 
+###### Article 1609 ter A
+
+Le conseil d'une communauté urbaine existant à la date de publication de la loi d'orientation n° 92-125 du 6 février 1992
+relative à l'administration territoriale de la République peut, à la majorité des trois quarts de ses membres, décider de
+percevoir la taxe professionnelle selon les dispositions de l'article 1609 nonies C. Dans ce cas, la communauté urbaine ne
+peut percevoir les impôts mentionnés au 1° de l'article 1609 bis dans les conditions prévues à cet article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1609 nonies C, 1609 bis
+	  - Loi n°92-125 1992-02-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 96 () JORF 8 février 1992
+
+
 ##### Section XI : Impositions perçues au profit des syndicats de communes et des syndicats mixtes
 
 ###### Article 1609 quater
@@ -66917,6 +66940,105 @@ prévues à l'article 1520, lorsqu'ils assurent la collecte ainsi que la destruc
 	**Liens**:
 
 	  - HISTO: Edition du 24 juin 1991
+
+
+##### Section XII bis : Impositions perçues au profit des communautés de communes
+
+###### Article 1609 quinquies C
+
+I. Les communautés de communes perçoivent la taxe foncière sur les propriétés bâties, la taxe foncière sur les propriétés non
+bâties, la taxe d'habitation et la taxe professionnelle selon les règles applicables aux communautés urbaines.
+
+La première année d'application de cette disposition, les rapports entre les taux des quatre taxes établies par la communauté
+de communes doivent être égaux aux rapports constatés l'année précédente entre les taux moyens pondérés de chaque taxe dans
+l'ensemble de leurs communes membres.
+
+Elles peuvent également percevoir à la place des communes membres, selon les compétences qui leur sont transférées, les
+ressources mentionnées à l'article 1609 nonies D.
+
+II. Les communautés de communes ayant créé, créant ou gérant une zone d'activités économiques qui se situe sur le territoire
+d'une ou de plusieurs communes membres peuvent décider, par délibération du conseil de communauté statuant à la majorité des
+deux tiers, de se substituer à ces dernières pour la perception de la taxe professionnelle acquittée par les entreprises
+implantées dans la zone.
+
+1° Le taux de taxe professionnelle voté par la communauté de communes en application de cette disposition ne peut, la
+première année, excéder le taux moyen de taxe professionnelle constaté l'année de la décision mentionnée à l'alinéa précédent
+dans les communes membres, pondéré par l'importance relative des bases de taxe professionnelle de ces communes.
+
+Le taux moyen pondéré mentionné ci-dessus est majoré du taux de la taxe professionnelle perçue l'année de la décision
+mentionnée au premier alinéa du présent paragraphe.
+
+Des taux d'imposition différents du taux communautaire fixé en application des alinéas ci-dessus peuvent être appliqués pour
+l'établissement des dix premiers budgets de la communauté. Les écarts entre les taux applicables dans chaque commune membre
+et le taux communautaire sont réduits dans les conditions prévues au 1° du II de l'article 1609 nonies C.
+
+2° Pour les années suivantes, ce taux est fixé dans les limites définies aux articles 1636 B sexies et 1636 B septies.
+
+Pour l'application de l'article 1636 B sexies :
+
+a) Le taux de la taxe d'habitation est égal au taux moyen de la taxe d'habitation des communes membres constaté l'année
+précédente, pondéré par l'importance relative des bases de taxe d'habitation dans ces communes ;
+
+b) Le taux moyen pondéré de la taxe d'habitation et des taxes foncières est égal à la somme des taux moyens de taxe
+d'habitation et des taxes foncières des communes membres constatés l'année visée au c ci-après, et pondérés par l'importance
+relative des bases de ces trois taxes la même année.
+
+c) La variation des taux définis aux a et b est celle constatée l'année précédant celle au titre de laquelle la communauté de
+communes vote le taux de taxe professionnelle applicable dans la zone d'activités économiques.
+
+III. Les dispositions de l'article 1609 nonies C sont applicables aux communautés de communes par délibération du conseil de
+communauté statuant à la majorité des trois quarts. Cette décision demeure applicable tant qu'elle n'a pas été rapportée dans
+les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1609 nonies D, 1609 nonies C, 1636 B sexies, 1636 B septies
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-125 1992-02-06 art. 106
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 98 () JORF 8 février 1992
+
+	**Cité par**:
+
+	  - Loi n°94-1131 du 27 décembre 1994 - art. 2 (V)
+	  - Loi n°96-987 du 14 novembre 1996 - art. 4 (V)
+	  - Loi n°96-1143 du 26 décembre 1996 - art. 3 (V)
+	  - Loi n°97-1269 du 30 décembre 1997 - art. 95 (V)
+	  - Loi - art. 44 (V)
+	  - Loi n°2002-1575 du 30 décembre 2002 - art. 26 (V)
+	  - Loi n°2002-1575 du 30 décembre 2002 - art. 29 (V)
+	  - Loi n°2004-809 du 13 août 2004 - art. 154 (V)
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 46 (V)
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 85 (V)
+	  - Loi n°2006-396 du 31 mars 2006 - art. 29 (V)
+	  - Décret n°2008-98 du 30 janvier 2008 - art. 1 (V)
+	  - Décret n°2008-98 du 30 janvier 2008 - art. 2 (V)
+	  - Loi n°2009-594 du 27 mai 2009 - art. 5 (V)
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (V)
+	  - Code général des collectivités territoriales - art. L2313-1 (V)
+	  - Code général des collectivités territoriales - art. L2332-2 (V)
+	  - Code général des collectivités territoriales - art. L2334-4 (V)
+	  - Code général des collectivités territoriales - art. L2531-13 (V)
+	  - Code général des collectivités territoriales - art. L5211-30 (V)
+	  - Code général des collectivités territoriales - art. L5211-35-1 (V)
+	  - Code général des collectivités territoriales - art. L5214-23 (V)
+	  - Code général des collectivités territoriales - art. L5215-32 (V)
+	  - Code général des collectivités territoriales - art. L5219-8 (V)
+	  - Code général des impôts, CGI. - art. 1379-0 bis (VD)
+	  - Code général des impôts, CGI. - art. 1609 nonies C (V)
+	  - Code général des impôts, CGI. - art. 1636 B decies (V)
+	  - Code général des impôts, CGI. - art. 1638-0 bis (M)
+	  - Code général des impôts, CGI. - art. 1639 A ter (V)
+	  - Code général des impôts, CGI. - art. 1640 B (V)
+	  - Code général des impôts, CGI. - art. 1647 D (V)
+	  - Code général des impôts, CGI. - art. 1648 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 quaterdecies (V)
 
 
 ##### Section XIII : Impositions perçues par les organismes chargés de la création d'une agglomération nouvelle
@@ -67135,6 +67257,230 @@ visés à l'article 1609 sexies à une date fixée par décret (1).
 	  - Décret n°2008-98 du 30 janvier 2008 - art. 2 (V)
 	  - Code général des collectivités territoriales - art. L2313-1 (V)
 	  - Code général des impôts, CGI. - art. 1640 B (V)
+
+
+###### Article 1609 nonies D
+
+Les communautés de villes peuvent, en outre, percevoir, à la place des communes membres, selon les compétences qui leur sont
+transférées :
+
+a) La taxe d'enlèvement des ordures ménagères, la redevance d'enlèvement des ordures ménagères sur les terrains de camping ou
+la redevance pour enlèvement des ordures, déchets et résidus ;
+
+b) La taxe de balayage ;
+
+c) La taxe de séjour, lorsqu'elle répond aux conditions fixées à l'article L. 233-45 du code des communes ; dans ce cas, les
+communautés de villes peuvent instituer la taxe par délibération du conseil de communauté statuant à la majorité des deux
+tiers ;
+
+d) La taxe sur la publicité mentionnée à l'article L. 233-15 du code des communes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 94 () JORF 8 février 1992
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L2313-1 (V)
+	  - Code général des collectivités territoriales - art. L5216-8 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L233-15 (M)
+	  - CODE DES COMMUNES. - art. L233-45 (M)
+
+
+##### Section XIII quater : Impositions perçues au profit des communautés de villes.
+
+###### Article 1609 nonies C
+
+I. Les communautés de villes sont substituées aux communes membres pour l'application des dispositions relatives à la taxe
+professionnelle, à l'exception des I et II des articles 1648 A et 1648 AA ainsi que des 1° et 3° du II de l'article 1648 B.
+Elles perçoivent le produit de cette taxe.
+
+Il est créé une commission locale chargée d'évaluer les transferts de charges entre la communauté de villes et les communes
+membres, composée d'au moins un représentant du conseil municipal de chacune des communes concernées.
+
+La commission est présidée par l'un des représentants des conseils municipaux. Elle élit, parmi ses membres, le vice-
+président qui peut la convoquer et la présider si le président du conseil de communauté est absent ou empêché.
+
+La commission peut faire appel, pour l'exercice de sa mission, à des experts. Elle rend ses conclusions l'année de la
+création de la communauté de villes et lors de chaque transfert de charges ultérieures.
+
+Les charges transférées sont évaluées d'après leur coût réel dans les budgets communaux, lors de l'exercice précédant le
+transfert de compétence, réduit le cas échéant des recettes de fonctionnement et des taxes afférentes à ces charges.
+Toutefois, un décret en Conseil d'Etat fixe les conditions d'évaluation des dépenses d'investissement transférées.
+
+L'évaluation du montant des charges nettes transférées est déterminée à la date de leur transfert par délibérations
+concordantes de la majorité qualifiée des conseils municipaux prévue à l'article L. 168-1 du code des communes, adoptées sur
+rapport de la commission locale d'évaluation des transferts.
+
+II. 1° La première année d'application des dispositions du I ci-dessus, le taux de taxe professionnelle voté par le conseil
+de communauté ne peut excéder le taux moyen de la taxe professionnelle des communes membres constaté l'année précédente,
+pondéré par l'importance relative des bases de ces communes.
+
+Le taux moyen pondéré mentionné ci-dessus est majoré du taux de la taxe professionnelle perçue l'année précédente par la
+communauté urbaine ou le district qui se sont transformés en communauté de villes en application de l'article L. 168-7 du
+code des communes ou auxquels la communauté de villes a été substituée de plein droit en application de l'article L. 168-5 du
+même code.
+
+Le nouveau taux s'applique dans toutes les communes dès la première année, lorsque le taux de taxe professionnelle de la
+commune la moins imposée était, l'année précédente, égal ou supérieur à 90 p. 100 du taux de taxe professionnelle de la
+commune la plus imposée. Lorsque ce taux était supérieur à 80 p. 100 et inférieur à 90 p. 100, l'écart entre le taux
+applicable dans chaque commune membre et le taux communautaire est réduit de moitié la première année et supprimé la seconde.
+La réduction s'opère par tiers lorsque le taux était supérieur à 70 p. 100 et inférieur à 80 p. 100, par quart lorsqu'il
+était supérieur à 60 p. 100 et inférieur à 70 p. 100, par cinquième lorsqu'il était supérieur à 50 p. 100 et inférieur à 60
+p. 100, par sixième lorsqu'il était supérieur à 40 p. 100 et inférieur à 50 p. 100, par septième lorsqu'il était supérieur à
+30 p. 100 et inférieur à 40 p. 100, par huitième lorsqu'il était supérieur à 20 p. 100 et inférieur à 30 p. 100, par neuvième
+lorsqu'il était supérieur à 10 p. 100 et inférieur à 20 p. 100, par dixième lorsqu'il était inférieur à 10 p. 100.
+
+2° Au titre des années suivant la première année d'application des dispositions du 1° ci-dessus, le taux de taxe
+professionnelle est fixé par le conseil de communauté dans les conditions prévues au II de l'article 1636 B decies.
+
+III. 1° La communauté verse à chaque commune membre une attribution de compensation égale au produit de taxe professionnelle
+perçu par elle l'année précédant l'institution du taux de taxe professionnelle communautaire diminué du coût net des charges
+transférées calculé dans les conditions définies au I ci-dessus.
+
+Lorsque, l'année précédant l'institution du taux de taxe professionnelle communautaire, une commune membre percevait une
+compensation au titre de la deuxième part du Fonds national de péréquation de la taxe professionnelle, le montant de cette
+compensation est ajouté au produit de sa taxe professionnelle pour le calcul de l'attribution de compensation prévue à
+l'alinéa précédent. Dans ce cas, les compensations que la commune percevra seront versées à la communauté.
+
+Les reversements de taxe professionnelle prévus à l'alinéa précédent constituent une dépense obligatoire pour la communauté.
+Le conseil de communauté communique aux communes membres avant le 15 février le montant prévisionnel des sommes leur revenant
+au titre de ces reversements.
+
+Dans le cas où une diminution des bases imposables de taxe professionnelle réduit le produit disponible, les attributions de
+compensation sont réduites dans la même proportion.
+
+2° Le conseil de communauté prélève sur le produit de la taxe professionnelle le montant nécessaire à la couverture des
+charges transférées dans les conditions prévues au I ci-desus.
+
+Les charges correspondant aux compétences communautaires financées par la taxe professionnelle perçue par la communauté sont
+fixées lors de l'examen du budget annuel de celle-ci.
+
+Le conseil de communauté ne peut procéder à une réduction du taux d'imposition de la taxe professionnelle ou à une
+augmentation du prélèvement prévu ci-dessus ayant pour effet de réduire le produit disponible pour les attributions de
+compensation qu'après accord des conseils municipaux de toutes les communes concernées.
+
+3° Le solde restant disponible sur le produit de la taxe professionnelle à la suite du versement des attributions de
+compensation et du prélèvement communautaire constitue une dotation de solidarité communautaire dont les critères de
+répartition entre les communes membres sont fixés librement par le conseil de communauté, statuant à la majorité des deux
+tiers.
+
+A défaut de réunion de la majorité requise dans les trois mois suivant la mise en application du présent article, la dotation
+de solidarité communautaire est répartie selon les règles suivantes :
+
+- 30 p. 100 selon le supplément de bases de taxe professionnelle constaté dans chaque commune ;
+
+- 30 p. 100 selon les bases de taxe professionnelle par habitant de chaque commune ;
+
+- 30 p. 100 selon la population communale totale ;
+
+- 10 p. 100 selon le nombre d'établissements soumis à la législation sur les installations classées implantées dans chaque
+commune.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1648 A, 1648 AA, 1648 B, 1636 B decies
+	  - CODE DES COMMUNES. - art. L168-1 (Ab)
+	  - CODE DES COMMUNES. - art. L168-5 (Ab)
+	  - CODE DES COMMUNES. - art. L168-7 (Ab)
+
+	**Cité par**:
+
+	  - Loi n°80-10 du 10 janvier 1980 - art. 11 (V)
+	  - Loi n°91-1322 du 30 décembre 1991 - art. 21 (V)
+	  - Loi n°94-1131 du 27 décembre 1994 - art. 2 (V)
+	  - Loi n°96-987 du 14 novembre 1996 - art. 7 (V)
+	  - Loi n°96-1143 du 26 décembre 1996 - art. 3 (V)
+	  - Loi n°97-1269 du 30 décembre 1997 - art. 95 (V)
+	  - Loi - art. 44 (V)
+	  - Loi n°99-586 du 12 juillet 1999 - art. 52 (VD)
+	  - Loi n°2000-1352 du 30 décembre 2000 - art. 42 (V)
+	  - Décret n°2001-1274 du 27 décembre 2001 - art. 1 (V)
+	  - Décret n°2001-1367 du 28 décembre 2001 - art. 1 (V)
+	  - Loi n°2002-1575 du 30 décembre 2002 - art. 29 (V)
+	  - Loi n°2003-710 du 1 août 2003 - art. 27 (V)
+	  - Loi de finances pour 2004 (n°2003-1311 du 30 d... - art. 53 (V)
+	  - Loi n°2004-809 du 13 août 2004 - art. 154 (V)
+	  - Loi n°2004-809 du 13 août 2004 - art. 183 (V)
+	  - Décret n°2004-1488 du 29 décembre 2004 - art. 6 (V)
+	  - Loi n°2005-157 du 23 février 2005 - art. 146 (V)
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 46 (V)
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 13 (VD)
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 85 (V)
+	  - Loi n°2006-396 du 31 mars 2006 - art. 29 (V)
+	  - Loi n°2009-594 du 27 mai 2009 - art. 5 (V)
+	  - Loi n°2009-594 du 27 mai 2009 - art. 6 (V)
+	  - Loi n°2009-594 du 27 mai 2009 - art. 7 (V)
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (V)
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 78 (VT)
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 99 (V)
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 177
+	  - Décret n°2013-426 du 24 mai 2013 - art. 2 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 39 (V)
+	  - Loi n°2015-991 du 7 août 2015 - art. 59
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 67 (V)
+	  - Code général des collectivités territoriales - art. L1211-2 (VD)
+	  - Code général des collectivités territoriales - art. L2332-2 (V)
+	  - Code général des collectivités territoriales - art. L2333-55 (V)
+	  - Code général des collectivités territoriales - art. L2334-18-3 (V)
+	  - Code général des collectivités territoriales - art. L2334-4 (V)
+	  - Code général des collectivités territoriales - art. L2334-7 (V)
+	  - Code général des collectivités territoriales - art. L2334-7-2 (VD)
+	  - Code général des collectivités territoriales - art. L2334-7-3 (Ab)
+	  - Code général des collectivités territoriales - art. L2531-13 (V)
+	  - Code général des collectivités territoriales - art. L5211-19 (V)
+	  - Code général des collectivités territoriales - art. L5211-28 (VD)
+	  - Code général des collectivités territoriales - art. L5211-28-1 (VT)
+	  - Code général des collectivités territoriales - art. L5211-29 (V)
+	  - Code général des collectivités territoriales - art. L5211-30 (V)
+	  - Code général des collectivités territoriales - art. L5211-32 (V)
+	  - Code général des collectivités territoriales - art. L5211-33 (V)
+	  - Code général des collectivités territoriales - art. L5211-35-1 (V)
+	  - Code général des collectivités territoriales - art. L5211-4-2 (V)
+	  - Code général des collectivités territoriales - art. L5214-16 (VT)
+	  - Code général des collectivités territoriales - art. L5214-23-1 (VD)
+	  - Code général des collectivités territoriales - art. L5214-28 (VD)
+	  - Code général des collectivités territoriales - art. L5215-20-1 (VD)
+	  - Code général des collectivités territoriales - art. L5215-32 (V)
+	  - Code général des collectivités territoriales - art. L5216-1 (V)
+	  - Code général des collectivités territoriales - art. L5216-8 (V)
+	  - Code général des collectivités territoriales - art. L5219-8 (V)
+	  - Code général des collectivités territoriales - art. L5219-8-1 (VD)
+	  - Code général des collectivités territoriales - art. L5842-24 (V)
+	  - Code général des collectivités territoriales - art. L5842-8 (V)
+	  - Code général des collectivités territoriales - art. R1211-4 (V)
+	  - Code général des collectivités territoriales - art. R2313-2 (V)
+	  - Code général des impôts, CGI. - art. 1379-0 bis (VD)
+	  - Code général des impôts, CGI. - art. 1411 (VD)
+	  - Code général des impôts, CGI. - art. 1466 A (V)
+	  - Code général des impôts, CGI. - art. 1609 quinquies C (V)
+	  - Code général des impôts, CGI. - art. 1609 ter A (Ab)
+	  - Code général des impôts, CGI. - art. 1636 B decies (V)
+	  - Code général des impôts, CGI. - art. 1636 B septies (VD)
+	  - Code général des impôts, CGI. - art. 1638 quater (V)
+	  - Code général des impôts, CGI. - art. 1638 quinquies (V)
+	  - Code général des impôts, CGI. - art. 1638-0 bis (V)
+	  - Code général des impôts, CGI. - art. 1639 A quater (V)
+	  - Code général des impôts, CGI. - art. 1639 A ter (V)
+	  - Code général des impôts, CGI. - art. 1640 C (V)
+	  - Code général des impôts, CGI. - art. 1647 D (M)
+	  - Code général des impôts, CGI. - art. 1647-0 B septies (MMN)
+	  - Code général des impôts, CGI. - art. 1648 A (V)
+	  - Code général des impôts, CGI. - art. 1650 A (V)
+	  - Code général des impôts, CGI. - art. 1656 (V)
+	  - Code général des impôts, CGI. - art. 1656 bis (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 sexdecies (P)
+
+	**Créé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 94 () JORF 8 février 1992
 
 
 #### Chapitre I bis : Taxes sur le chiffre d'affaires
@@ -68533,9 +68879,10 @@ territoriales jusqu'à 188 milles marins au-delà de cette limite.
 
 ###### Article 1636 B decies
 
-I. Les communes membres d'une communauté ou d'un syndicat d'agglomération nouvelle visés à l'article 1609 nonies B votent les
-taux des taxes foncières, de la taxe d'habitation, à l'exclusion de la taxe professionnelle, conformément aux dispositions
-applicables aux communes.
+I. Les communes membres d'une communauté ou d'un syndicat d'agglomération nouvelle mentionnés à l'article 1609 nonies B ou
+d'un établissement public de coopération intercommunale soumis, de plein droit ou après option, au régime fiscal prévu à
+l'article 1609 nonies C votent les taux des taxes foncières, de la taxe d'habitation, à l'exclusion de la taxe
+professionnelle, conformément aux dispositions applicables aux communes.
 
 II. La communauté ou le syndicat d'agglomération nouvelle visés à l'article 1609 nonies B vote le taux de la taxe
 professionnelle dans les limites définies au b du 1, ainsi qu'aux 2 et 3 du I de l'article 1636 B sexies et à l'article 1636
@@ -68560,15 +68907,11 @@ d'agglomération nouvelle s'est substitué.
 
 	**Cite**:
 
-	  - CGI 1609 nonies B, 1636 B sexies I, 1636 B septies
+	  - CGI 1609 nonies B, 1609 nonies C, 1636 B sexies, 1636 B septies
 
 	**Modifié par**:
 
-	  - Loi n°88-1193 du 29 décembre 1988 - art. 17 (V) JORF 30 décembre 1988 incorporé au code le 14 juillet 1989
-
-	**Codifié par**:
-
-	  - Décret n°89-801 1989-10-27
+	  - Loi n°92-125 du 6 février 1992 - art. 97 () JORF 8 février 1992
 
 	**Cité par**:
 
@@ -68582,6 +68925,10 @@ d'agglomération nouvelle s'est substitué.
 	  - Code général des impôts, CGI. - art. 1640 C (V)
 	  - Code général des impôts, CGI. - art. 1656 (V)
 	  - Code général des impôts, CGI. - art. 1656 bis (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 1636 B nonies
@@ -69836,17 +70183,46 @@ taux en vigueur dans la commune. Le seuil d'écrêtement résultant de cette dis
 Pour la détermination du potentiel fiscal, chaque fois qu'il est fait référence à cette notion, est prise en compte la valeur
 nette des bases de taxe professionnelle après écrêtement.
 
-Dans le cas où une commune visée par les dispositions qui précèdent appartient à un groupement de communes auquel elle verse
+Dans le cas où une commune visée par les dispositions qui précèdent appartient à un groupement de communes auquel elle vers
 une contribution budgétaire calculée par référence au produit global de sa taxe professionnelle ou de ses quatre taxes ou
 s'est engagée par accord conventionnel, à reverser une partie de ce produit à une ou plusieurs communes voisines, il est
 appliqué sur les bases de cette commune, pour l'application des premier et deuxième alinéas, une réduction de bases
 correspondant au montant des sommes en cause.
 
-(Périmé). Pour les établissements créés avant le 1er janvier 1976 , à l'exception de ceux produisant de l'énergie ou traitant
-des combustibles, l'assiette du prélèvement est limitée de manière que la commune conserve au moins 80 % du montant des bases
-de taxe professionnelle imposables à son profit en 1979.    Les dispositions du présent paragraphe ne s'appliquent pas aux
-agglomérations nouvelles.    I bis. Pour les établissements produisant de l'énergie ou traitant des combustibles, toute unité
-de production ou de traitement est considérée comme un établissement pour l'application du paragraphe I (1).
+Pour les établissements créés avant le 1er janvier 1976, à l'exception de ceux produisant de l'énergie ou traitant des
+combustibles, l'assiette du prélèvement est limitée de manière que la commune conserve au moins 80 % du montant des bases de
+taxe professionnelle imposables à son profit en 1979. A compter de 1991, ce montant est divisé par 0,960.
+
+Les dispositions du présent paragraphe ne s'appliquent pas aux agglomérations nouvelles.
+
+I bis. Pour les établissements produisant de l'énergie ou traitant des combustibles, toute unité de production ou de
+traitement est considérée comme un établissement pour l'application du paragraphe I (1).
+
+I ter. Lorsque, dans un groupement de communes ayant opté pour le régime fiscal prévu au II de l'article 1609 quinquies C,
+les bases d'imposition d'un établissement implanté dans la zone d'activités économiques, rapportées au nombre d'habitants de
+la commune sur le territoire de laquelle est situé l'établissement, excèdent deux fois la moyenne nationale des bases
+communales de taxe professionnelle par habitant, il est perçu directement un prélèvement de taxe professionnelle du
+groupement au profit du fonds départemental de péréquation de la taxe professionnelle.
+
+Ce prélèvement est égal au montant des bases excédentaires de l'établissement pondérées par le taux de taxe professionnelle
+perçue par le groupement sur la zone d'activités économiques.
+
+Lorsque, dans un groupement de communes soumis de plein droit ou après option au régime fiscal prévu à l'article 1609 nonies
+C, les bases d'imposition d'un établissement rapportées au nombre d'habitants de la commune sur le territoire de laquelle est
+situé cet établissement, excèdent deux fois la moyenne nationale des bases communales de taxe professionnelle par habitant,
+il est perçu directement un prélèvement de taxe professionnelle du groupement au profit du fonds départemental de péréquation
+de la taxe professionnelle.
+
+Ce prélèvement est égal au montant des bases excédentaires de l'établissement pondérées par le taux de taxe professionnelle
+perçue par le groupement.
+
+Ces dispositions sont applicables à compter du 1er janvier 1993.
+
+I quater. Pour les communautés de communes et les districts créés après la date de promulgation de la loi n° 92-125 du 6
+février 1992, lorsque les bases d'imposition d'un établissement, rapportées au nombre d'habitants de la commune sur le
+territoire de laquelle est situé l'établissement, excèdent deux fois la moyenne nationale des bases de taxe professionnelle
+par habitant, il est perçu directement un prélèvement au profit du fonds départemental de péréquation de la taxe
+professionnelle égal au produit du montant des bases excédentaires par le taux de taxe professionnelle du district.
 
 II. Les ressources du fond sont réparties par le conseil général si les collectivités concernées sont situées dans les
 limites d'un même département, ou par une commission interdépartementale réunie à l'initiative de l'un des conseils si les
@@ -69923,10 +70299,11 @@ VI. Les conditions d'application du présent article sont fixées par décret en
 
 	**Cite**:
 
-	  - CGI 1609 nonies B
+	  - CGI 1609 quinquies C, 1609 nonies C, 1609 nonies B
 	  - CGIAN2 328 à CGIAN2 328 B
 	  - Décret n°81-120 1981-02-06
 	  - Loi n°83-636 1983-07-13 art. 31
+	  - Loi n°92-125 1992-02-06
 
 	**Cité par**:
 
@@ -69951,11 +70328,8 @@ VI. Les conditions d'application du présent article sont fixées par décret en
 
 	**Modifié par**:
 
-	  - Loi n°89-936 1989-12-29 art. 34 Finances rectificative pour 1989 JORF 30 décembre 1989
-
-	**Codifié par**:
-
-	  - Décret n°90-798 1990-09-10
+	  - Loi n°92-125 du 6 février 1992 - art. 95 () JORF 8 février 1992
+	  - Modifications directes incorporées dans l'édition du 4 juillet 1992
 
 
 ###### Article 1648 AA
@@ -70083,44 +70457,130 @@ européennes. Elle ne peut excéder le double du produit de la cotisation de pé
 3° Le produit des intérêts de retard et majorations appliqués en matière de taxe professionnelle en vertu de l'article 1729
 et encaissés par le Trésor ;
 
-(4° La somme visée au deuxième alinéa du 6° de l'article 21 de la loi n° 90-568 du 2 juillet 1990 relative à l'organisation
-du service public de la poste et des télécommunications : modification non intégrée).
+4° Le produit affecté en application de l'antépénultième alinéa du IV de l'article 6 de la loi de finances pour 1987. Cette
+ressource évolue chaque année comme la dotation annuelle versée par l'Etat en application du 2° ci-dessus (2)(3).
 
-III. Les ressources du fonds national de péréquation de la taxe professionnelle sont réparties conformément aux dispositions
-du paragraphe II de l'article 1648 B.
+III. Les ressources du Fonds national de péréquation de la taxe professionnelle sont réparties conformément aux dispositions
+de l'article 1648 B (2).
 
 (1) A titre exceptionnel, les dispositions du 2° du II de l'article 1648 A bis du code général des impôts ne sont pas
 applicables au titre de l'année 1990.
+
+(2) Ces dispositions sont applicables à compter du 1er janvier 1992.
+
+(3) 4° La somme visée au deuxième alinéa du 6° de l'article 21 de la loi n° 90-568 du 2 juillet 1990 relative à
+l'organisation du service public de la poste et des télécommunications : modification non intégrée.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1648 B II
-	  - CGI 1648 D
-	  - CGI 1729
-	  - Loi n°90-568 1990-07-02 art. 21 I 6°
+	  - CGI 1648 D, 1729, 1648 B ter, 1648 B, 1648 A bis
+	  - Loi n°86-1317 1986-12-30 art. 6 IV Finances pour 1987
+	  - Loi n°90-568 1990-07-02 art. 21
 	  - CODE DES COMMUNES. - art. L234-20 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
-
-	**Modifié par**:
-
-	  - Loi n°90-1168 1990-12-30 art. 48 JORF 30 décembre 1990
 
 	**Cité par**:
 
 	  - Loi n°90-568 du 2 juillet 1990 - art. 21 (VD)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-125 1992-02-06 art. 125 III
+
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 125 (V) JORF 8 février 1992
+	  - Modification directe incorporée dans l'édition du 4 juillet 1992
+
 
 ###### Article 1648 B
 
-I. (Transféré sous le I de l'article 1648 A bis).
+I. - Le Fonds national de péréquation de la taxe professionnelle comprend :
 
-II. Sous réserve des dispositions de l'article 1648 B bis, le surplus des ressources du fonds défini au III de l'article 1648
-A bis comporte :
+1° Une première fraction, dénommée "dotation de développement rural", dont le montant est arrêté par le comité des finances
+locales et qui est au minimum égal aux ressources dégagées par l'application du 4° de l'article 1648 A bis.
+
+Bénéficient de cette dotation :
+
+a) Les communautés de communes définies à l'article L. 167-1 du code des communes dont la population regroupée n'excède pas
+35 000 habitants et dont la population de la commune la plus peuplée n'excède pas 25 000 habitants.
+
+Bénéficient également de cette dotation les groupements de communes à fiscalité propre exerçant une compétence en matière
+d'aménagement de l'espace et de développement économique, dont la population regroupée n'excède pas 35 000 habitants et dont
+la population de la commune la plus peuplée n'excède pas 25 000 habitants.
+
+Les crédits affectés à ces catégories de groupements sont répartis entre les départements dans des conditions fixées par
+décret en Conseil d'Etat, qui tiennent compte, notamment, du nombre de communes concernées, de la population, du potentiel
+fiscal et, le cas échéant, du coefficient d'intégration fiscale tels que définis à l'article L. 234-17 du code des communes.
+
+Dans les zones de montagne, lorsque ces groupements comprennent des communes de moins de 15 000 habitants qui remplissent les
+deux conditions suivantes :
+
+La commune est chef-lieu de canton ou constitue une commune plus peuplée que le chef-lieu de canton ;
+
+Le potentiel fiscal par habitant de la commune, tel que défini à l'article L. 234-6 du code des communes, est inférieur au
+potentiel fiscal moyen national par habitant des communes de moins de 15 000 habitants et l'effort fiscal prévu à l'article
+L. 234-7 dudit code est supérieur à l'effort fiscal moyen des communes de moins de 15 000 habitants ;
+
+Le nombre de communes regroupées au sein des collectivités concernées peut être doublé.
+
+Les attributions sont arrêtées par le représentant de l'Etat dans le département, sous forme de subvention, en vue de la
+réalisation de projets de développement économique élaborés par les communautés et groupements de communes, après avis d'une
+commission d'élus, qui évalue les attributions en fonction de critères objectifs comprenant notamment l'augmentation attendue
+des bases de fiscalité directe locale et les créations d'emplois sur le territoire de la collectivité ou du groupement
+considérés.
+
+Cette commission comprend, outre les membres de la commission prévue à l'article 103 de la loi n° 83-8 du 7 janvier 1983
+précitée, des représentants des maires des communes concernées dont la population est comprise entre 2 000 et 20 000
+habitants, et des représentants des groupements de communes concernées dont la population est comprise entre 2 000 et 20 000
+habitants, désignés dans les mêmes conditions que les autres membres de la commission.
+
+b) Les communes de moins de 10 000 habitants qui remplissent les deux conditions suivantes :
+
+La commune est chef-lieu de canton ou constitue une commune plus peuplée que le chef-lieu de canton ;
+
+Le potentiel fiscal par habitant de la commune, tel que défini à l'article L. 234-6 du code des communes, est inférieur au
+potentiel fiscal moyen national par habitant des communes de moins de 10 000 habitants.
+
+Dans les départements d'outre-mer, bénéficient de cette dotation les communes de moins de 20 000 habitants chefs-lieux de
+canton ou qui constituent une commune plus peuplée que le chef-lieu de canton.
+
+Les communes de la collectivité territoriale de Saint-Pierre-et-Miquelon bénéficient de cette dotation.
+
+Toutefois, la commune ne peut prétendre à l'attribution de la dotation de développement rural lorsqu'elle est située dans une
+agglomération comprenant une ou plusieurs communes qui bénéficient de la dotation prévue à l'article L. 234-14 du code des
+communes ou lorsqu'elle est éligible à la dotation de solidarité urbaine prévue à l'article L. 234-14-1 dudit code ou
+bénéficie des attributions du fonds de solidarité des communes de la région d'Ile-de-France en application des dispositions
+de l'article L. 263-15 du même code. Les dispositions du présent alinéa ne sont pas applicables aux communes des départements
+d'outre-mer et de Saint-Pierre-et-Miquelon dont la population est inférieure à un seuil fixé par décret en Conseil d'Etat.
+
+Les crédits affectés à ces communes sont arrêtés par le comité des finances locales. Pour la première année d'application du
+présent paragraphe ils ne peuvent être inférieurs à 150 millions de francs. Le montant de ces crédits ne peut dépasser, en
+1993, 40 p. 100 des ressources prévues au 4° du II de l'article 1648 A bis, et, en 1994, 30 p. 100 de celles-ci. A l'issue de
+cette période, le Gouvernement présentera au Parlement un rapport retraçant notamment l'évolution du nombre de collectivités
+éligibles à la dotation prévue au présent article. Au vu de ce rapport, il sera proposé une nouvelle répartition des crédits
+de la dotation précitée pour les années suivantes.
+
+L'attribution revenant à chaque commune concernée est déterminée en fonction de la population, de l'écart entre le potentiel
+fiscal moyen par habitant des communes de moins de 10 000 habitants et le potentiel fiscal par habitant de la commune et de
+l'effort fiscal pris en compte dans la limite de 1,20.
+
+L'effort fiscal est calculé en application de l'article L. 234-7 du code des communes. Pour les communes membres d'un
+groupement de communes à fiscalité propre, l'effort fiscal est calculé en ajoutant aux taux de chacune de leurs propres taxes
+communales ceux appliqués par le groupement de communes aux bases respectives desdites taxes.
+
+La population à prendre en compte pour l'application du présent article est calculée dans les conditions prévues à l'article
+L. 234-19-3 du code des communes.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent paragraphe.
+
+2° Une seconde fraction, dont le montant est fixé par le comité des finances locales par différence entre les ressources
+prévues à l'article 1648 A bis et les dispositions du 1° ci-dessus. Les sommes ainsi dégagées ne peuvent être inférieures à
+90 p. 100 du montant des ressources définies aux 1°, 2° et 3° du II de l'article 1648 A bis et sont réparties suivant les
+dispositions du II ci-dessous. "
+
+II. Le surplus des ressources du fonds défini au 2° du I comporte :
 
 1° Une part principale qui ne peut être inférieure à 70 p. 100 de ce surplus, répartie entre les communes :
 
@@ -70167,8 +70627,8 @@ seconde part, à compter du 1er janvier 1990.
 Les conditions que doivent remplir les communes pour bénéficier de cette seconde part ainsi que le calcul des attributions
 qui leur reviennent sont fixées par décret en Conseil d'Etat en tenant compte, notamment, de la perte de produit de taxe
 professionnelle et de l'importance relative de la perte de produit fiscal qui en résulte par rapport aux recettes de la
-commune provenant de la taxe d'habitation, des taxes foncières et de la taxe professionnelle. A compter du 1er janvier 1991,
-les communes dont les pertes de bases sont compensées sur quatre ans, bénéficient :
+commune provenant de la taxe d'habitation, des taxes foncières et de la taxe professionnelle (1). A compter du 1er janvier
+1991, les communes dont les pertes de bases sont compensées sur quatre ans, bénéficient :
 
 La première année, d'une attribution égale au plus à 90 p. 100 de la perte de bases qu'elles ont enregistrée ;
 
@@ -70179,7 +70639,7 @@ La troisième année, de 50 p. 100 de l'attribution reçue la première année ;
 La quatrième année, de 25 p. 100 de l'attribution reçue la première année.
 
 Toutefois, à compter du 1er janvier 1986, cette durée est portée à cinq ans pour les communes situées dans les cantons où
-l'Etat anime une politique de conversion industrielle et dont la liste est fixée par décret (1).
+l'Etat anime une politique de conversion industrielle et dont la liste est fixée par décret (2).
 
 3° Une part résiduelle, au plus égale à 5 p. 100 de ce surplus et qui est versée aux communes qui connaissent des difficultés
 financières graves en raison d'une baisse, sur une ou plusieurs années, de leurs bases d'imposition à la taxe professionnelle
@@ -70191,34 +70651,39 @@ aux subventions exceptionnelles accordées en application de l'article L235-5 du
 Le montant des crédits affectés à chacune de ces parts est fixé chaque année par le comité des finances locales, à qui il est
 rendu compte de l'utilisation desdites parts.
 
-II bis. Pour l'application du II, le potentiel fiscal de chaque commune membre d'une communauté ou d'un syndicat
+II bis. Pour l'application du I et du II, le potentiel fiscal de chaque commune membre d'une communauté ou d'un syndicat
 d'agglomération nouvelle visés à l'article 1609 nonies B est calculé dans les conditions fixées à l'article 1648 A-V ter.
 
-III. Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat (2).
+III. Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat (3).
 
-(1) Décret n° 86-422 du 12 mars 1986.
+(1) Décret n° 85-260 du 22 février 1985 (J.O. du 24), décret n° 91-1081 du 14 octobre 1991 (JO du 19), et décret n° 92-568 du
+30 juin 1992 (JO du 1er juillet).
 
-(2) Décret n° 85-260 du 22 février 1985 (J.O. du 24).
+(2) Décret n° 85-260 du 22 février 1985 (JO du 24) et décret 92-568 du 30 juin 1992 (JO du 1er juillet).
+
+(3) Décret 85-260 du 22 février 1985 (JO du 24), décret 91-1081 du 14 octobre 1991 (JO du 19) et décret n° 92-568 du 30 juin
+1992 (JO du 1er juillet).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1609 nonies B
-	  - CGI 1636 B septies IV, V
-	  - CGI 1648 A V ter
-	  - CGI 1648 A bis I, III
-	  - CGI 1648 B bis
+	  - CGI 1648 A bis, 1636 B septies, 1609 nonies B, 1648 A ter
 	  - Loi n°82-213 du 2 mars 1982 - art. 8 (M)
-	  - Loi n°84-1284 1984-12-31 art. 8 al. 7
+	  - Loi n°83-8 1983-01-07 art. 103
+	  - Loi n°84-1284 1984-12-31 art. 8
 	  - Décret n°85-260 1985-02-22
 	  - Décret n°86-422 1986-03-12
+	  - CODE DES COMMUNES. - art. L167-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-14 (M)
+	  - CODE DES COMMUNES. - art. L234-14-1 (Ab)
+	  - CODE DES COMMUNES. - art. L234-17 (M)
+	  - CODE DES COMMUNES. - art. L234-19-3 (M)
 	  - CODE DES COMMUNES. - art. L234-5 (M)
+	  - CODE DES COMMUNES. - art. L234-6 (M)
+	  - CODE DES COMMUNES. - art. L234-7 (M)
 	  - CODE DES COMMUNES. - art. L235-5 (Ab)
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
+	  - CODE DES COMMUNES. - art. L263-15 (Ab)
 
 	**Cité par**:
 
@@ -70234,58 +70699,53 @@ III. Les modalités d'application du présent article sont fixées par décret e
 
 	**Modifié par**:
 
-	  - Loi n°90-1067 du 28 novembre 1990 - art. 34 () JORF 2 décembre 1990
-	  - Loi - art. 104 () JORF 30 décembre 1990
+	  - Loi n°92-125 du 6 février 1992 - art. 126 () JORF 8 février 1992
+	  - Loi n°92-125 du 6 février 1992 - art. 127 () JORF 8 février 1992
+	  - Modification directe incorporée dans l'édition du 4 juillet 1992
 
 
-###### Article 1648 B bis
+###### Article 1648 B ter
 
-I. Les communes qui, en 1984, ont bénéficié d'une attribution au titre du surplus des ressources du fonds national de
-péréquation et qui, en 1985, du fait des dispositions de l'article 1648 B-II-1°, cessent de remplir les conditions requises
-pour bénéficier de la part principale mentionnée à cet article ou voient leur attribution diminuer, reçoivent en 1985 une
-dotation au moins égale à 80 % de celle reçue en 1984. En 1986 cette dotation est réduite de moitié.
+I. Lorsqu'un fonds départemental de péréquation de la taxe professionnelle visé à l'article 1648 A voit ses ressources
+diminuer par rapport à l'année précédente, du fait de la création d'un district à fiscalité propre, créé avant le 31 décembre
+1991, les communes bénéficiaires de ce fonds et non membres de ce district reçoivent une dotation du Fonds national de
+péréquation visé à l'article 1648 A bis lorsque l'attribution qu'elles reçoivent du fonds départemental diminue d'au moins 10
+p. 100.
 
-II. Pour 1985, la seconde part mentionnée à l'article 1648 B-II-2° est répartie : 
+II. La dotation prévue au présent article est versée de manière dégressive sur quatre ans. Elles est égale :
 
-1° Pour une fraction, dans les conditions définies par cet article ; 
+La première année, à 80 p. 100 de la différence par rapport à l'attribution antérieure ;
 
-2° Pour une autre fraction, entre les communes dont les bases d'imposition à la taxe professionnelle pour 1984 sont
-inférieures à celles de 1981. Les conditions que doivent remplir les communes pour bénéficier de cette seconde fraction ainsi
-que le montant des attributions qui leur reviennent sont fixés par décret en Conseil d'Etat en tenant compte, notamment, de
-l'importance de la perte de produit de taxe professionnelle et de l'importance relative de la perte de produit fiscal qui en
-résulte par rapport aux recettes de la commune provenant de la taxe d'habitation, des taxes foncières et de la taxe
-professionnelle. La compensation ainsi déterminée est versée aux communes concernées sur deux ans. 
+La deuxième année, à 60 p. 100 de cette différence ;
 
-Le montant de chacune de ces deux fractions est fixé par le comité des finances locales.
+La troisième année, à 40 p. 100 ;
 
-**Nota:**
+La quatrième année, à 20 p. 100.
 
-NOTA : Voir décret n° 85-260 du 22 février 1985 articles 11 à 14.
+III. Cette dotation est interrompue :
+
+1° Si la commune retrouve une attribution du fonds départemental supérieure à celle qu'elle percevait antérieurement ;
+
+2° Si elle bénéficie d'un accroissement de ses recettes nettes de taxe professionnelle compensant la perte de ressources.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1648 B II 1°, 2°
-	  - Décret n°85-260 1985-02-22 art. 11 à art. 14
+	  - CGI 1648 A, 1648 A bis
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Créé par**:
 
-	  - Loi n°84-1284 1984-12-31 art. 8, art. 10 JORF 1er janvier 1985
-	  - Loi n°84-1284 du 31 décembre 1984 - art. 8 () JORF 1er janvier 1985
+	  - Loi n°92-125 du 6 février 1992 - art. 119 () JORF 8 février 1992
 
 	**Abrogé par**:
 
-	  - Loi n°92-125 du 6 février 1992 - art. 128 (V) JORF 8 février 1992
-
-	**Cité par**:
-
-	  - Loi n°97-1269 du 30 décembre 1997 - art. 95 (V)
-	  - Code général des collectivités territoriales - art. L1613-1 (V)
-
-	**Modifié par**:
-
-	  - Modification directe incorporée dans l'édition du 4 juillet 1992
+	  - Loi n°95-115 du 4 février 1995 - art. 70 () JORF 5 février 1995
 
 
 #### Chapitre IV : Départements d'outre-mer
