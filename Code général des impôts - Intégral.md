@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1985-01-01
+Version Consolidée au 1985-01-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3142,6 +3142,145 @@ spécial (1) :
 
 	  - Livre des procédures fiscales - art. L102 B (M)
 	  - Livre des procédures fiscales - art. L82 B (M)
+
+
+###### Article 87
+
+Toute personne physique ou morale versant des traitements, émoluments, salaires ou rétributions imposables est tenue de
+remettre dans le courant du mois de janvier de chaque année, sauf application de l'article 87 A, à la direction des services
+fiscaux du lieu de son domicile ou du siège de l'établissement ou du bureau qui en a effectué le paiement, une déclaration
+dont le contenu est fixé par décret (1).
+
+Cette déclaration doit, en outre, faire ressortir distinctement, pour chaque bénéficiaire appartenant au personnel dirigeant
+ou aux cadres, le montant des indemnités pour frais d'emploi qu'il a perçues ainsi que le montant des frais de
+représentation, des frais de déplacement, des frais de mission et des autres frais professionnels qui lui ont été alloués ou
+remboursés au cours de l'année précédente.
+
+(1) Annexe III, art. 39, et voir également les obligations résultant de l'article 240.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°85-10 1985-01-03 art. 78 I JORF 4 janvier 1985
+
+	**Cité par**:
+
+	  - Décret n°85-1343 du 16 décembre 1985 - art. 2 (Ab)
+	  - Arrêté du 10 avril 1995 - art. 4 (V)
+	  - Arrêté du 24 septembre 2004 - art. 6 (V)
+	  - Loi n°2009-526 du 12 mai 2009 - art. 51 (V)
+	  - Arrêté du 5 mars 2010 (V)
+	  - Arrêté du 19 février 2010 (V)
+	  - Arrêté du 19 février 2010 - art. 2 (V)
+	  - Décret n°2010-1003 du 27 août 2010 (V)
+	  - Arrêté du 9 mars 2011 (V)
+	  - Arrêté du 21 septembre 2011 (V)
+	  - Arrêté du 11 août 2015 (V)
+	  - Arrêté du 5 octobre 2015 (V)
+	  - Arrêté du 5 octobre 2015 - art. 5 (V)
+	  - Décret n°2015-1754 du 23 décembre 2015 - art. 2
+	  - Décret n°2015-1754 du 23 décembre 2015 - art. 6
+	  - Décret n°2016-1361 du 12 octobre 2016 (V)
+	  - Décret n°2016-1567 du 21 novembre 2016 - art. 1
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (V)
+	  - Arrêté du 18 avril 2017 (V)
+	  - Code de la construction et de l'habitation. - art. R313-2 (VD)
+	  - Code de la sécurité sociale. - art. D133-10 (VT)
+	  - Code de la sécurité sociale. - art. D133-13-12 (VD)
+	  - Code de la sécurité sociale. - art. D133-9-1 (Ab)
+	  - Code de la sécurité sociale. - art. L133-5-3 (VD)
+	  - Code de la sécurité sociale. - art. L133-5-4 (VD)
+	  - Code de la sécurité sociale. - art. R133-14 (VD)
+	  - Code du travail - art. D1442-10 (V)
+	  - Code du travail - art. D1442-10-5 (V)
+	  - Code du travail - art. D7233-11 (V)
+	  - Code du travail - art. L7122-24 (VD)
+	  - Code du travail - art. R1522-13 (V)
+	  - Code du travail - art. R5212-1 (V)
+	  - Code du travail applicable à Mayotte. - art. D821-34 (VD)
+	  - Code général des collectivités territoriales - art. D4135-22-4 (V)
+	  - Code général des collectivités territoriales - art. D7125-32 (V)
+	  - Code général des collectivités territoriales - art. D7227-32 (V)
+	  - Code général des impôts, CGI. - art. 1736 (VT)
+	  - Code général des impôts, CGI. - art. 240 (VD)
+	  - Code général des impôts, CGI. - art. 241 (V)
+	  - Code général des impôts, CGI. - art. 87 A (V)
+	  - Code général des impôts, CGI. - art. 88 (VD)
+	  - Code général des impôts, CGI. - art. 89 (VD)
+	  - Code général des impôts, CGI. - art. 89 A (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 144 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 161 (Dis)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 bis (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38-0 septdecies (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 B (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 C (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39-0 A (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 V bis (V)
+	  - Code rural et de la pêche maritime - art. L712-1 (VD)
+	  - Code rural et de la pêche maritime - art. R716-28 (VD)
+	  - Code rural et de la pêche maritime - art. R741-15 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cite**:
+
+	  - CGI 87 A
+	  - CGIAN3 240
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
+###### Article 87 A
+
+La déclaration mentionnée à l'article 87 doit, dans les mêmes délais et sous les mêmes sanctions, être déposée auprès des
+organismes de sécurité sociale désignés pour la recevoir. 
+
+Ces organismes sont tenus de recevoir la déclaration et de la transmettre à l'administration fiscale. 
+
+Un décret fixe les conditions et les modalités d'application du présent article (1) et détermine les cas dans lesquels la
+déclaration continue à être déposée auprès de l'administration fiscale (2).
+
+**Nota:**
+
+(1) Annexe III, art. 39 C à 39 F.
+
+(2) Annexe III, art. 39 B.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°85-10 1985-01-03 art. 78 I JORF 4 janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Arrêté du 11 août 2015 (V)
+	  - Arrêté du 5 octobre 2015 (V)
+	  - Arrêté du 5 octobre 2015 - art. 5 (V)
+	  - Arrêté du 18 avril 2017 (V)
+	  - Arrêté du 9 mai 2017 - art. 1
+	  - Décret n°2017-866 du 9 mai 2017 - art. 2
+	  - Code de la sécurité sociale. - art. R133-33 (VD)
+	  - Code du travail - art. D1273-7 (V)
+	  - Code du travail - art. R7122-31 (V)
+	  - Code général des impôts, CGI. - art. 1671 (VD)
+	  - Code général des impôts, CGI. - art. 87 (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 C (P)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 6 C (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
 
 
 ###### Article 88
@@ -11468,6 +11607,109 @@ annuellement au service des impôts, indépendamment des déclarations dont la p
 
 
 ##### XVIII : Déclaration des commissions, courtages, ristournes, honoraires, des droits d'auteur, des rémunérations d'associés et des parts de bénéfices
+
+###### Article 240
+
+1. Les personnes physiques qui, à l'occasion de l'exercice de leur profession versent à des tiers des commissions, courtages,
+ristournes commerciales ou autres, vacations, honoraires occasionnels ou non, gratifications et autres rémunérations, doivent
+déclarer ces sommes dans les conditions prévues aux articles 87, 87 A et 89, lorsqu'elles dépassent 500 F par an pour un même
+bénéficiaire (1).
+
+Ces sommes sont cotisées, au nom du bénéficiaire, d'après la nature d'activité au titre de laquelle ce dernier les a perçues.
+
+1. bis La déclaration prévue au 1 doit faire ressortir distinctement pour chacun des bénéficiaires le montant des indemnités
+ou des remboursements pour frais qui lui ont été alloués ainsi que, le cas échéant, la valeur réelle des avantages en nature
+qui lui ont été consentis.
+
+2. Les dispositions des 1 et 1 bis sont applicables à toutes les personnes morales ou organismes, quel que soit leur objet ou
+leur activité, y compris les administrations de l'Etat, des départements et des communes et tous les organismes placés sous
+le contrôle de l'autorité administrative.
+
+3. (Transféré sous le 1 du I de l'article 1736).
+
+(1) Voir Annexe III, art. 47 et 47 A.
+
+Limite applicable à compter de l'imposition des revenus de 1984. Elle était précèdemment de 300 F.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-1169 du 22 décembre 1967 - art. 2 (V)
+	  - Décret n°85-1343 du 16 décembre 1985 - art. 2 (Ab)
+	  - Arrêté du 19 février 2010 - art. 2 (V)
+	  - Arrêté du 11 août 2015 (V)
+	  - Arrêté du 5 octobre 2015 (V)
+	  - Arrêté du 5 octobre 2015 - art. 5 (V)
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (V)
+	  - Arrêté du 18 avril 2017 (V)
+	  - Code de la sécurité sociale. - art. D133-9-1 (Ab)
+	  - Code de la sécurité sociale. - art. L133-5-4 (VD)
+	  - Code général des impôts, CGI. - art. 1736 (VT)
+	  - Code général des impôts, CGI. - art. 1759 (V)
+	  - Code général des impôts, CGI. - art. 87 (VD)
+	  - Code général des impôts, CGI. - art. 89 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 47 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 47 A (VD)
+	  - Livre des procédures fiscales - art. L82 A (V)
+
+	**Modifié par**:
+
+	  - Loi n°85-10 1985-01-03 art. 78 I JORF 4 janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cite**:
+
+	  - CGI 87, 87 A, 89, 1770 quater
+	  - CGIAN3 47, 47 A
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
+###### Article 241
+
+Les entreprises, sociétés ou associations qui procèdent à l'encaissement et au versement des droits d'auteur ou d'inventeur
+sont tenues de déclarer, dans les conditions prévues aux articles 87, 87 A et 89, le montant des sommes dépassant 300 F par
+an, qu'elles versent à leurs membres ou à leurs mandants (1).
+
+(1) Voir Annexe III, art. 47 et 47 A.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 11 août 2015 (V)
+	  - Arrêté du 5 octobre 2015 (V)
+	  - Arrêté du 5 octobre 2015 - art. 5 (V)
+	  - Arrêté du 18 avril 2017 (V)
+	  - Code général des impôts, CGI. - art. 1736 (VT)
+	  - Code général des impôts, CGI. - art. 87 (VD)
+	  - Code général des impôts, CGI. - art. 89 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 47 bis (V)
+	  - Livre des procédures fiscales - art. L82 A (V)
+
+	**Cite**:
+
+	  - CGI 87, 87 A, 89
+	  - CGIAN3 47
+
+	**Modifié par**:
+
+	  - Loi n°85-10 1985-01-03 art. 78 I JORF 4 janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
 
 ###### Article 242
 
