@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1976-12-01
+Version Consolidée au 1976-12-29
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12,6 +12,47 @@ Version Consolidée au 1976-12-01
 ##### Section II : Revenus imposables
 
 ##### 1re Sous-section : Détermination des bénéfices ou revenus nets des diverses catégories de revenus
+
+##### IV : Bénéfices de l'exploitation agricole
+
+##### 3 : Imposition d'après le bénéfice réel
+
+##### B : Détermination du résultat imposable
+
+##### Régime simplifié
+
+###### Article 74 B
+
+Un décret fixe les conditions d'application des articles 74 et 74 A. Il précise en outre :
+
+- les modalités de détermination du revenu imposable tel qu'il est défini à l'article 74 ;
+
+- les conditions d'exercice et la durée de validité des options prévues à l'article 69 ;
+
+- les règles applicables en cas de changement de régime d'imposition ;
+
+- la nature et le contenu des documents que doivent produire les exploitants agricoles.
+
+**Nota:**
+
+Voir les articles 38 sexdecies JC à 38 sexdecies JE, 38 sexdecies OE, 38 sexdecies P à 38 sexdecies QA et 38 sexdecies RB de
+l'annexe III.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°76-1220 du 28 décembre 1976 - art. 3 (V) JORF 29 décembre 1976
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 69 (V)
+	  - Code général des impôts, CGI. - art. 74 (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
 
 ##### VII : Revenus des capitaux mobiliers
 
