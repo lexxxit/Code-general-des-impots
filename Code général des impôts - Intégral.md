@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 2000-07-14
+Version Consolidée au 2000-12-14
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6240,7 +6240,8 @@ au B du 3 de l'article 42 modifié de la loi n° 95-115 du 4 février 1995 d'ori
 du territoire sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices provenant des activités
 implantées dans la zone jusqu'au terme du cinquante-neuvième mois suivant celui de la délimitation de la zone pour les
 contribuables qui y exercent déjà leur activité ou, dans le cas contraire, celui de leur début d'activité dans l'une de ces
-zones.
+zones. La date de délimitation des zones franches urbaines visée au présent article est réputée correspondre, dans tous les
+cas, au 1er janvier 1997.
 
 Le bénéfice de l'exonération est réservé aux contribuables exerçant une activité industrielle, commerciale ou artisanale au
 sens de l'article 34 et du 5° du I de l'article 35, à l'exception des activités de crédit-bail mobilier et de location
@@ -6265,8 +6266,8 @@ b) produits correspondant aux subventions, libéralités et abandons de créance
 
 c) produits de créances et d'opérations financières pour le montant qui excède le montant des frais financiers engagés au
 cours du même exercice ou de la même année d'imposition, si le contribuable n'est pas un établissement de crédit visé à
-l'article 1er de la loi n° 84-46 du 24 janvier 1984 ((modifiée)) (M) relative à l'activité et au contrôle des établissements
-de crédit ;
+l'article 1er de la loi n° 84-46 du 24 janvier 1984 modifiée relative à l'activité et au contrôle des établissements de
+crédit ;
 
 d) produits tirés des droits de la propriété industrielle et commerciale, lorsque ces droits n'ont pas leur origine dans
 l'activité exercée dans l'une des zones franches urbaines.
@@ -6300,13 +6301,11 @@ d'activité. L'option est irrévocable.
 
 IV. Les obligations déclaratives des personnes et organismes concernés par l'exonération sont fixées par décret.
 
-(M) Modification.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 34, 35, 92, 44 sexies, 1465 A, 1466 A, 50-0, 53 A, 96 à 100, 102 ter, 103, 8, 1467, 223 I
+	  - CGI 34, 35, 92, 44 sexies, 1465 A, 1466 A, 50-0, 53 A, 96 à 100, 102 ter, 103, 8, 1467, 223 A, 223 I
 	  - Loi n°84-46 1984-01-24 art. 1
 	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
 
@@ -6337,18 +6336,7 @@ IV. Les obligations déclaratives des personnes et organismes concernés par l'e
 
 	**Modifié par**:
 
-	  - Loi n°98-261 du 6 avril 1998 - art. 7 () JORF 7 avril 1999
-	  - Loi - art. 7 (V) JORF 31 décembre 1998
-	  - Loi n°98-1266 1998-12-30 art. 7 II 3, IV Finances pour 1999 JORF 31 décembre 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-	  - TXT_ASSOCIE: Instruction 1997-03-14 4A-7-97
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 86 () JORF 14 décembre 2000
 
 
 ##### 2 quater : Entreprises de pêche maritime
@@ -53062,30 +53050,28 @@ dispositions contentieuses prévues en matière de contributions indirectes.
 
 ###### Article 572
 
-Le prix de détail de chaque produit ((exprimé aux 1 000 unités ou aux 1 000 grammes,)) (M) est unique pour l'ensemble du
-territoire et librement déterminé par les fabricants et les fournisseurs agréés. Il est applicable après avoir été homologué
-dans des conditions définies par décret en Conseil d'Etat.
+Le prix de détail de chaque produit exprimé aux 1 000 unités ou aux 1 000 grammes, est unique pour l'ensemble du territoire
+et librement déterminé par les fabricants et les fournisseurs agréés. Il est applicable après avoir été homologué dans des
+conditions définies par décret en Conseil d'Etat.
 
-((Pour la catégorie des cigarettes brunes définies au dernier alinéa de l'article 575 A et pour la catégorie des autres
+Pour la catégorie des cigarettes brunes définies au dernier alinéa de l'article 575 A et pour la catégorie des autres
 cigarettes, le prix aux 1 000 unités des produits d'une catégorie vendus sous une même marque, quels que soient les autres
 éléments enregistrés avec la marque, ne peut être inférieur, indépendamment du mode ou de l'unité de conditionnement
 utilisés, à celui appliqué au produit le plus vendu de cette marque.
 
-((Le prix de l'unité de conditionnement est arrondi à la dizaine de centimes supérieure)) (M).
+Le prix de l'unité de conditionnement est arrondi à la dizaine de centimes supérieure.
 
-Toutefois, dans les départements de Corse et d'outre-mer, le prix de détail est déterminé conformément aux dispositions des
-articles 268 et 268 bis du code des douanes.
+Toutefois, dans les départements de Corse, le prix de détail est déterminé conformément aux dispositions de l'article 268 bis
+du code des douanes.
 
 En cas de changement de prix de vente, les débitants de tabac sont tenus de déclarer, dans les cinq jours qui suivent la date
 d'entrée en vigueur des nouveaux prix, les quantités en leur possession à cette date.
-
-(M) Modification.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi - art. 37 () JORF 31 décembre 1997
+	  - Loi n°2000-1207 du 13 décembre 2000 - art. 56
 
 	**Cité par**:
 
@@ -53103,12 +53089,7 @@ d'entrée en vigueur des nouveaux prix, les quantités en leur possession à cet
 	**Cite**:
 
 	  - Code des douanes - art. 268 bis (M)
-	  - Code des douanes 268, 268 bis, 575 A
-
-	**Liens**:
-
-	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
-	  - HISTO: Edition du 22 avril 1998
+	  - Code des douanes 268 bis, 575 A
 
 
 ##### II : Régime fiscal.
@@ -78500,8 +78481,10 @@ prévues au B de l'article 4 de la loi n° 96-987 du 14 novembre 1996 relative �
 ville ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone franche de Corse, versées
 antérieurement aux communes, mais hors compensation prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n°
 86-1317 du 30 décembre 1986), perçu par elle l'année précédant l'institution du taux de taxe professionnelle communautaire
-diminué du coût net des charges transférées calculé dans les conditions définies au IV. Cette attribution est recalculée,
-dans les conditions prévues au IV, lors de chaque nouveau transfert de charges.
+diminué du coût net des charges transférées calculé dans les conditions définies au IV. L'attribution de compensation est
+majorée d'une fraction de la contribution d'une commune définie à l'article L302-8 du code de la construction et de
+l'habitation. Cette fraction est égale à la part du potentiel fiscal de la taxe professionnelle dans le potentiel fiscal de
+la commune. Cette attribution est recalculée, dans les conditions prévues au IV, lors de chaque nouveau transfert de charges.
 
 3° Lorsqu'il est fait application à un établissement public de coopération intercommunale doté d'une fiscalité propre des
 dispositions du présent article, l'attribution de compensation versée chaque année aux communes membres est égale à la
@@ -78617,6 +78600,7 @@ pour le régime fiscal prévu au présent article ou dont la communauté de comm
 	  - Code général des collectivités territoriales - art. L5216-2 (Ab)
 	  - Code général des collectivités territoriales - art. L5334-8 (M)
 	  - Code général des collectivités territoriales - art. L5341-2 (M)
+	  - Code de la construction et de l'habitation. - art. L302-8 (M)
 
 	**Cité par**:
 
@@ -78707,16 +78691,7 @@ pour le régime fiscal prévu au présent article ou dont la communauté de comm
 
 	**Modifié par**:
 
-	  - Loi - art. 26 () JORF 30 décembre 1999
-	  - Décret n°2000-477 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
-
-	**Codifié par**:
-
-	  - Décret n°2000-477 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 57 () JORF 14 décembre 2000
 
 
 ###### Article 1609 nonies D
