@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1986-07-01
+Version Consolidée au 1986-07-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4548,6 +4548,24 @@ Des décrets en conseil d'Etat fixent en tant que de besoin, les modalités d'ap
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 terdecies (V)
 
 
+##### 6° : Emprunts émis en France par les organisations internationales
+
+###### Article 131 ter A
+
+Les intérêts, arrérages et tous autres produits des emprunts émis en France par les organisations internationales sont
+exonérées de la retenue à la source définie au 1 de l'article 119 bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 119 bis 1
+
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 28 () JORF 12 juillet 1986
+
+
 ##### 8° : Produits financiers bénéficiant aux organisations internationales aux Etats souverains étrangers, à leurs banques centrales ou institutions financières
 
 ###### Article 131 quinquies
@@ -6932,6 +6950,87 @@ montant égal à 25 % du revenu global imposable de l'année considérée et à 
 	  - Code général des impôts, CGI. - art. 170 (VT)
 
 
+###### Article 163 bis A
+
+I. Les personnes physiques qui prennent des engagements d'épargne à long terme sont exonérées de l'impôt sur le revenu à
+raison des produits des placements en valeurs mobilières effectués en vertu de ces engagements.
+
+II. Le crédit d'impôt ou l'avoir fiscal attaché à ces produits est porté au crédit du compte d'épargne qui retrace les
+engagements pris.
+
+III. Le bénéfice des dispositions qui précèdent est subordonné aux conditions suivantes :
+
+a. Les épargnants doivent s'engager à effectuer des versements réguliers pendant une période d'une durée minimale qui est
+fixée par arrêté du ministre de l'économie et des finances et qui ne peut être inférieure à cinq ans (1) ;
+
+b. Les versements et les produits capitalisés des placements doivent demeurer indisponibles pendant cette même période ;
+
+c. Les versements effectués chaque année ne doivent pas excéder le quart de la moyenne des revenus d'après lesquels
+l'épargnant a été soumis à l'impôt sur le revenu au titre des trois années ayant précédé celle de l'engagement ; en outre,
+pour les engagements d'épargne à long terme souscrits ou prorogés à compter du 1er octobre 1973, le montant annuel des
+versements ne doit pas excéder 20 000 F par foyer (2) ;
+
+d. A compter du 1er juin 1978, les engagements d'épargne à long terme ne peuvent être contractés ou prorogés que pour une
+durée maximum de cinq ans.
+
+III bis. Les placements en valeurs mobilières réalisés dans le cadre d'engagement d'épargne à long terme ne peuvent pas être
+effectués :
+
+a. A compter du 1er octobre 1973, sous la forme de parts sociales de sociétés dans lesquelles le souscripteur, son conjoint,
+leurs ascendants ou leurs descendants possèdent des intérêts directs ou indirects ;
+
+b. Sous la forme de droits sociaux souscrits avec le bénéfice de la réduction d'impôt prévue à l'article 199 undecies.
+
+IV. Si le souscripteur ne tient pas ses engagements, les sommes qui ont été exonérées en vertu des dispositions qui précèdent
+sont ajoutées au revenu imposable de l'année au cours de laquelle les engagements ont cessé d'être respectés. Ces
+dispositions ne sont pas applicables en cas de force majeure, de décès ou d'invalidité totale du redevable.
+
+IV bis. Après le 31 décembre 1981, aucun engagement d'épargne à long terme ne peut plus être contracté ou prorogé.
+
+V. Un décret fixera les conditions d'application du présent article, et notamment les conditions dans lesquelles pourront
+être désignés les établissements autorisés à ouvrir des comptes d'épargne, ainsi que les obligations auxquelles ces
+établissements et les souscripteurs devront se conformer. Ce décret devra réserver au souscripteur de l'engagement la
+possibilité de prendre lui-même les décisions d'achat et de vente des valeurs mobilières comprises dans le plan d'épargne
+(3).
+
+**Nota:**
+
+(1) Voir l'article 17 sexies de l'annexe IV.
+
+(2) Montant périmé au 1er janvier 2002.
+
+(3) Voir les articles 41 K à 41 V de l'annexe III.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 undecies
+	  - CGIAN3 41 K à 41 V
+	  - CGIAN4 17 sexies
+
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 150-0 A (V)
+	  - Code général des impôts, CGI. - art. 150-0 D (M)
+	  - Code général des impôts, CGI. - art. 157 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 K (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 N (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 R (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
 ###### Article 163 quinquies
 
 Lorsque le délai-congé se répartit sur plus d'une année civile, l'indemnité compensatrice due en application du code du
@@ -8932,6 +9031,63 @@ Les dispositions du II sont applicables aux exercices clos à compter du 31 déc
 	**Codifié par**:
 
 	  - Décret n°85-1007 1985-09-24
+
+
+###### Article 208 quater
+
+I 1. En vue de favoriser le développement économique et social des départements d'outre-mer [*DOM*] et la création d'emplois
+nouveaux dans le cadre des directives du plan de modernisation et d'équipement, peuvent être affranchis, en totalité ou en
+partie, de l'impôt sur les sociétés pendant une durée de dix ans à compter de la mise en marche effective de leurs
+installations :
+
+a. Le bénéfices réalisés par les sociétés passibles de l'impôt sur les sociétés qui auront été constituées postérieurement à
+l'entrée en vigueur de la loi n° 60-1368 du 21 décembre 1960 mais avant le 31 décembre 1996, à la condition que l'objet de
+ces sociétés et leur programme d'activité aient reçu l'agrément du ministre du budget après avis des commissions locale et
+centrale instituées par l'article 18 du décret n° 52-152 du 13 février 1952 (1) ;
+
+b. Sous la même condition, les bénéfices réalisés par des sociétés anciennes passibles de l'impôt sur les sociétés au titre
+d'une activité nouvelle, entreprise postérieurement à l'entrée en vigueur de la loi du 21 décembre 1960 précitée mais avant
+le 31 décembre 1996. Les dispositions du présent paragraphe ne s'appliquent pas aux plus-values provenant de la cession de
+tout ou partie du portefeuille ou de l'actif immobilisé.
+
+---2. (Abrogé).
+
+---3. Sous peine de perdre le bénéfice de l'exonération accordée en vertu du 1, les sociétés visées audit paragraphe sont
+tenues de satisfaire aux obligations de déclaration et de production de renseignements et documents prévues pour l'assiette
+de l'impôt sur les sociétés et de mentionner, dans la déclaration annuelle de résultats, les éléments relatifs à l'activité
+agréée lorsque celle-ci constitue une partie seulement de l'activité exercée.
+
+---II Les dispositions du I sont applicables, pour une durée de cinq ans, aux bénéfices retirés par des entreprises
+industrielles métropolitaines des opérations de franchisage réalisées à compter du 1er janvier 1983 avec des entreprises
+nouvelles à caractère industriel exploitées dans les départements d'outre-mer [*DOM*].
+
+(1) Voir Annexe IV, art. 121 V bis et 121 V ter.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 121 V bis, 121 V ter
+	  - Décret n°52-152 du 13 février 1952 - art. 18, v. init.
+	  - Loi n°60-1368 1960-12-21
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+	**Modifié par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 14 (P) JORF 31 décembre 1985
+	  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 V octies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 V quinquies (V)
 
 
 ###### Article 208 ter
@@ -11530,34 +11686,15 @@ formation professionnelle, de la promotion sociale et de l'emploi prévu à l'ar
 
 ###### Article 235 ter EA
 
-Pour les employeurs qui, en raison de l'accroissement de l'effectif de leur entreprise, atteignent ou dépassent l'effectif de
-dix salariés, le montant des salaires retenu pour le calcul de la base de la participation est diminué pendant cinq ans d'un
-produit du salaire moyen versé par l'entreprise au cours de l'année (1). 
-
-Ce produit est égal à neuf fois le salaire moyen la première année, sept fois la deuxième année, cinq fois la troisième
-année, trois fois la quatrième année, une fois la cinquième année. 
-
-Le salaire moyen pour une année donnée est défini comme la somme des salaires mensuels moyens. Le salaire mensuel moyen est
-lui-même défini comme le rapport de la masse salariale mensuelle aux effectifs salariés en début de mois.
-
-(1) De 1979 à 1982 ces employeurs ont bénéficié à titre exceptionnel d'un abattement à la base sur le montant des salaires
-retenu pour le calcul de la participation (loi n° 79-575 du 10 juillet 1979, art. 5 ; loi n° 81-734 du 3 août 1981, art. 24-
-V.
+Les employeurs qui, en raison de l'accroissement de leur effectif, atteignent ou dépassent l'effectif de dix salariés, sont
+dispensés pendant trois ans du paiement de la cotisation relative à la participation. Le montant de la participation est
+réduit de 75 p. 100 la quatrième année, de 50 p. 100 la cinquième année, de 25 p. 100 la sixième année.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°83-899 1983-10-06
-
-	**Cite**:
-
-	  - Loi n°79-575 du 10 juillet 1979 - art. 5, v. init.
-	  - Loi n°81-734 1981-08-03 ART. 24 V FINANCES RECTIFICATIVE POUR 1981
-
-	**Créé par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 104 () JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+	  - Loi n°86-824 du 11 juillet 1986 - art. 2 () JORF 12 juillet 1986
 
 
 ##### 4° : Employeurs de cinquante salariés et plus
@@ -22743,6 +22880,51 @@ la fin de la fabrication, ils sont revêtus de son poinçon de maître et enregi
 	  - Loi n°83-558 du 1 juillet 1983 - art. 5 () JORF 2 JUILLET 1983
 
 
+###### Article 537
+
+Les fabricants et les marchands d'or, d'argent et de platine ouvrés ou non ouvrés doivent tenir un registre, coté et paraphé
+par l'administration municipale, sur lequel ils inscrivent la nature, le nombre, le poids et le titre des matières des
+ouvrages d'or, d'argent ou de platine qu'ils achètent ou vendent, avec les noms et demeures de ceux à qui ils les ont
+achetés.
+
+Toutefois, pour les transactions portant sur l'or monnayé et sur l'or en barres et en lingots de poids et de titre admis par
+la Banque de France, à l'exception de celles qui sont realisées au cours de ventes punbliques, l'identité des parties n'a pas
+à être mentionnée sur le registre, sauf si le client en fait la demande.
+
+Les transactions visées au deuxième alinéa du présent article peuvent être effectuées par tout moyen de paiement.
+
+Ces dispositions sont applicables :
+
+1° Aux commissaires-priseurs, officiers ministériels ou organismes quelconques (monts-de-piété, salles de ventes,
+établissements de crédit municipal, etc.), effectuant, même occasionnellement, des ventes ou adjudications de matières d'or,
+d'argent ou de platine, ouvrées ou non ouvrées;
+
+2° Aux intermédiaires, ouvriers en chambre, sertisseurs, polisseurs, etc., et, d'une manière générale, à toutes les personnes
+qui détiennent des matières de l'espèce pour l'exercice de leur profession.
+
+Les personnes ou organismes visés au présent article doivent inscrire sur leur registre, qui doit être présenté à l'autorité
+publique à toute réquisition, toutes leurs réceptions ou livraisons de matières d'or, d'argent ou de platine, ouvrées ou non
+ouvrées, même si elles ne sont pas consécutives à des achats ou à des ventes.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 27 () JORF 12 juillet 1986
+
+	**Cité par**:
+
+	  - Arrêté du 5 juillet 1995 - art. 1 (V)
+	  - Arrêté du 5 juillet 1995 - art. 5 (V)
+	  - Code général des impôts, CGI. - art. 538 (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J octodecies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quaterdecies (V)
+	  - Code monétaire et financier - art. L561-14-2 (V)
+	  - Code monétaire et financier - art. L711-18 (V)
+	  - Code monétaire et financier - art. L745-13 (MMN)
+	  - Livre des procédures fiscales - art. L96 H (V)
+
+
 ###### Article 539
 
 Les fabricants et marchands ne peuvent acheter que de personnes connues ou ayant des répondants connus d'eux.
@@ -31266,6 +31448,46 @@ propriété des immeubles ou droits immobiliers.
 	  - Décret n°83-899 1983-10-06
 
 
+###### Article 990 F
+
+La taxe est due à raison des immeubles ou droits immobiliers possédés au 1er janvier de l'année d'imposition. Les redevables
+doivent déclarer au plus tard le 15 mai de chaque année [*date limite*] la situation, la consistance et la valeur des
+immeubles et droits immobiliers en cause. Cette déclaration, accompagnée du paiement de la taxe, est déposée au lieu fixé par
+arrêté du ministre chargé du budget (1). 
+
+La taxe est recouvrée selon les règles et sous les sanctions et garanties applicables aux droits d'enregistrement. Sont
+également applicables à la taxe les dispositions de l'article 223 quinquies A ainsi que celles de l'article L. 76 B du livre
+des procédures fiscales. 
+
+En cas de cession de l'immeuble, le représentant visé à l'article 244 bis A-I est responsable du paiement de la taxe restant
+due à cette date. 
+
+(1) Annexe IV art. 121 K ter.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 233 quinquies A
+	  - CGI 244 bis A I
+	  - CGI L76 B
+	  - CGIAN4 121 K ter
+
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 24 () JORF 12 juillet 1986
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 990 E (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (VD)
+	  - Livre des procédures fiscales - art. R23 B-1 (V)
+
+
 ##### Section 0II : Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales
 
 ###### Article 990 G
@@ -35303,6 +35525,68 @@ tenu de sa situation propre.
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
+
+
+##### IV : Dégrèvements d'office
+
+###### Article 1414
+
+I. Sont dégrevés d'office de la taxe d'habitation afférente à leur habitation principale lorsqu'ils occupent cette habitation
+dans les conditions prévues à l'article 1390 :
+
+1° les titulaires de l'allocation supplémentaire du fonds national de solidarité prévue par la loi n° 56-639 du 30 juin 1956
+(1) ;
+
+2° les contribuables âgés de plus de 60 ans ainsi que les veuves et veufs, qui ne sont pas passibles de l'impôt sur le revenu
+au titre de l'année précédente ou dont la cotisation d'impôt sur le revenu n'est pas mise en recouvrement en application de
+l'article 1657-1 bis ;
+
+3° les contribuables atteints d'une infirmité ou d'une invalidité les empêchant de subvenir par leur travail aux nécessités
+de l'existence lorsqu'ils ne sont pas passibles de l'impôt sur le revenu en raison des revenus de l'année précédente.
+
+II. (abrogé)
+
+**Nota:**
+
+(1) Voir livre des procédures fiscales, art. L98.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1390
+	  - CGI 1657 1 bis
+	  - CGI L98
+	  - Loi n°56-639 1956-06-30
+	  - Loi n°67-1114 1967-12-21 ART. 17 III
+
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 24 () JORF 12 juillet 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Loi - art. 21 (V)
+	  - Loi n°92-655 du 15 juillet 1992 - art. 3 (V)
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 28 (V)
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 35 (VD)
+	  - Loi n°2014-891 du 8 août 2014 - art. 28 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1414 B (Ab)
+	  - Code général des collectivités territoriales - art. L2334-6 (V)
+	  - Code général des impôts, CGI. - art. 1413 bis (V)
+	  - Code général des impôts, CGI. - art. 1414 A (V)
+	  - Code général des impôts, CGI. - art. 1417 (V)
+	  - Code général des impôts, CGI. - art. 1605 bis (VD)
+	  - Code général des impôts, CGI. - art. 1641 (VT)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 322 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 322 bis (V)
+	  - Livre des procédures fiscales - art. L173 (V)
+	  - Livre des procédures fiscales - art. R*211-1 (V)
+	  - Livre des procédures fiscales - art. R*211-2 (V)
 
 
 ##### Section IV : Dispositions communes aux taxes foncières et à la taxe d'habitation
@@ -42175,6 +42459,92 @@ assujettie aux mêmes impositions que celles dont sont redevables les entreprise
 
 
 
+##### III : Sociétés de recherche et d'exploitation minière dans les départements d'outre-mer et sociétés assimilées.
+
+###### Article 1655 bis
+
+I. A condition d'être préalablement agréées par arrêté du ministre de l'économie et des finances, les sociétés anonymes, en
+commandite par actions ou à responsabilité limitée ayant pour objet la recherche et l'exploitation minière dans les
+départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion peuvent bénéficier, dans ces départements,
+pendant une période maximale de vingt-cinq ans, majorée, le cas échéant, dans la limite de cinq ans, des délais normaux
+d'installation, d'un régime fiscal de longue durée qui comporte uniquement et à l'exclusion de tous autres impôts, taxes,
+redevances présents et futurs :
+
+1° Le paiement, dans les conditions de droit commun, des droits d'enregistrement, de timbre et de la taxe de publicité
+foncière ;
+
+2° Le paiement de l'impôt sur les sociétés d'après les règles d'assiette et de perception et les tarifs en vigueur au 1er
+janvier de l'année de l'agrément, l'octroi de ce régime n'excluant pas la possibilité pour les sociétés intéressées de
+profiter des allégements qui seraient apportés au régime de droit commun de cet impôt.
+
+Par dérogation aux dispositions de l'alinéa qui précède, les bénéfices investis dans l'entreprise ou dans une entreprise
+exerçant une activité similaire dans les départements d'outre-mer sont exonérés dudit impôt pendant toute la durée
+d'application du régime de longue durée ;
+
+3° Le paiement, sur les produits et services autres que ceux dont les listes seront arrêtées par le ministre de l'économie et
+des finances, des droits et taxes d'entrée et de sortie perçus par l'administration des douanes et droits indirects ;
+
+4° Le paiement dans les conditions de droit commun des taxes qui constituent la rémunération de services rendus ;
+
+5° Le paiement d'une redevance spéciale liquidée sur la base du poids des substances extraites ou de leur volume. Le tarif et
+les modalités du paiement de cette redevance et de la répartition de son produit entre l'Etat et les collectivités locales
+sont fixés, pour toute la durée d'application du régime, par l'arrêté prononçant l'agrément de la société.
+
+II. Les demandes d'agrément doivent indiquer de façon précise l'objet de la société et son programme d'équipement. Elles
+doivent être présentées avant le 31 décembre 1996               au ministre de l'économie et des finances qui les soumet,
+pour avis, à la commission centrale instituée par l'article 18 du décret n° 52-152 du 13 février 1952 (1), laquelle
+s'adjoint, pour la circonstance, le directeur général des douanes et des droits indirects ou son représentant.
+
+L'arrêté d'agrément définit :
+
+1° L'objet et le programme d'équipement de la société ainsi que les obligations mises à sa charge ;
+
+2° Le point de départ de la période d'application du régime et sa durée, celle-ci devant être déterminée dans les limites
+fixées au I ;
+
+3° Le tarif et les modalités du paiement de la redevance visée au I et de la répartition de son produit entre l'Etat et les
+collectivités locales.
+
+III. Toute société agréée peut demander à être remplacée sous le régime de droit commun. Ce régime est applicable à partir
+d'une date fixée par arrêté du ministre de l'économie et des finances.
+
+IV. Les dispositions des I à III sont étendues aux sociétés anonymes, en commandite simple ou à responsabilité limitée,
+exerçant dans le département de la Guyane une activité agricole, forestière ou industrielle et qui ont été préalablement
+agréées à cet effet par arrêté du ministre de l'économie et des finances. Ces sociétés ne sont toutefois pas soumises à la
+redevance spéciale visée au I-5°.
+
+V. Les dispositions des I à III sont étendues, sous les mêmes conditions, aux sociétés qui ont exclusivement pour objet
+d'exercer, dans les départements de la Guadeloupe, de la Martinique et de la Réunion, une activité industrielle comportant
+l'exécution d'un programme d'investissement dont le montant minimal est fixé par arrêté du ministre de l'économie et des
+finances (2). Toutefois, ces sociétés ne sont pas soumises à la redevance spéciale visée au I-5°.
+
+(1) Voir annexe IV, art. 121 V bis et 121 V ter.
+
+(2) Annexe IV, art. 121 V undecies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 121 V bis
+	  - CGIAN4 121 V ter
+	  - CGIAN4 121 V undecies
+	  - Décret n°52-152 1952-02-13
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+	**Modifié par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 14 (P) JORF 31 décembre 1985
+	  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet 1986
+
+
 ##### IV : Sociétés immobilières de copropriété
 
 ###### Article 1655 ter
@@ -48659,8 +49029,8 @@ de ce dernier versement, une déclaration datée et signée.
 ###### Article 1668
 
 1  L'impôt sur les sociétés est payé au comptable du Trésor chargé du recouvrement des impôts directs en quatre termes
-déterminés provisoirement d'après le résultat du dernier exercice clos et calculé sur les neuf dixièmes du bénéfice imposable
-et, en ce qui concerne les sociétés nouvellement créées, sur le produit évalué à 5 % du capital social.
+déterminés provisoirement d'après le résultat du dernier exercice clos et calculé sur le bénéfice imposable et, en ce qui
+concerne les sociétés nouvellement créées, sur le produit évalué à 5 % du capital social.
 
 Les paiements doivent être effectués dans les vingt premiers jours des mois de février, mai, août et novembre de chaque année
 [*date*].
@@ -48685,6 +49055,10 @@ date de dépôt des bordereaux-avis de versement [*délai*].
 	  - CGI 223 1
 	  - CGIAN3 358 A CGIAN3 366
 
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
+
 	**Cité par**:
 
 	  - Loi n°2008-1443 du 30 décembre 2008 - art. 93 (V)
@@ -48703,10 +49077,6 @@ date de dépôt des bordereaux-avis de versement [*délai*].
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 360 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZJ (V)
 	  - Livre des procédures fiscales - art. L252 B (VD)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 1668 A
@@ -49728,59 +50098,6 @@ régime de l'épargne populaire créé par la loi n° 82-357 du 27 avril 1982 po
 	**Modifié par**:
 
 	  - Loi n°84-46 1984-01-24 art. 90 JORF 25 janvier 1984
-
-
-###### Article 1756 quater
-
-Les infractions à l'obligation de paiement par chèque, virement postal ou bancaire prévue par l'article 1649 ter F, premier
-alinéa, sont sanctionnées d'une amende fiscale dont le montant est fixé à 25 % des sommes non réglées par chèque barré ou par
-virement bancaire ou postal. Cette amende, qui est recouvrée comme en matière de timbre, incombe pour moitié au débiteur et
-au créancier, mais chacun d'eux est solidairement tenu d'en assurer le règlement total.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1649 ter F al. 1
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 90 () JORF 30 décembre 1983
-
-	**Abrogé par**:
-
-	  - Loi n°86-824 du 11 juillet 1986 - art. 25 () JORF 12 juillet 1986
-
-
-###### Article 1756 quinquies
-
-Toute contravention à l'obligation prévue à l'article 1649 ter G est sanctionnée d'une amende fiscale de 5.000 F [*montant*]
-par renseignement omis [*concernant les personnes ayant assuré des bijoux, pierreries, objets d'art, de collection ou
-d'antiquité pour un montant supérieur à 100.000 F*], établie et recouvrée sous les mêmes garanties et sanctions que les
-droits d'enregistrement. Un décret en Conseil d'Etat fixe, en tant que de besoin, les modalités d'application du présent
-article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1649 ter G
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-	**Créé par**:
-
-	  - Loi n°81-1160 1981-12-30 ART. 96 II JORF 31 DECEMBRE 1981 en vigueur le 1er JANVIER 1982
-
-	**Abrogé par**:
-
-	  - Loi n°86-824 du 11 juillet 1986 - art. 19 () JORF 12 juillet 1986
 
 
 ###### Article 1756 ter
