@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1982-04-28
+Version Consolidée au 1982-05-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14780,6 +14780,33 @@ transport.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### Section III : Registres portatifs.
+
+###### Article 625
+
+Les registres portatifs tenus par les agents des impôts sont cotés et paraphés par les juges des tribunaux d'instance; les
+registres de perception ou de déclaration et tous autres pouvant servir à établir les droits du Trésor et ceux des redevables
+sont cotés et paraphés par un des fonctionnaires publics que les commissaires de la République ou commissaires adjoints de la
+République désignent à cet effet.
+
+Les actes inscrits par les agents, au cours de leurs exercices, sur les registres portatifs font foi en justice jusqu'à
+inscription de faux.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°82-389 1982-05-10 ART. 1, ART. 4 JORF 11 MAI 1982
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
 
 
 ##### Section IV : Entreprises de transport.
@@ -37645,16 +37672,20 @@ rapport au délai prévu pour le dépôt de la déclaration. Au-delà d'un mois 
 
 ###### Article 230 A
 
-En cas de cession ou de cessation d'entreprise, ainsi que dans le cas de décès de l'exploitant, le préfet [*autorité
-compétente*] arrête le montant des exonérations auxquelles peut prétendre l'employeur. Ce montant est ultérieurement
-rectifié, s'il y a lieu, conformément à la décision du comité départemental [*de la formation professionnelle, de la
-promotion sociale et de l'emploi*].
+En cas de cession ou de cessation d'entreprise, ainsi que dans le cas de décès de l'exploitant, le commissaire de la
+République [*autorité compétente*] arrête le montant des exonérations auxquelles peut prétendre l'employeur. Ce montant est
+ultérieurement rectifié, s'il y a lieu, conformément à la décision du comité départemental [*de la formation professionnelle,
+de la promotion sociale et de l'emploi*].
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
 
 
 ###### Article 230 B
@@ -42518,9 +42549,9 @@ titre I, chapitre Ier [*art. 1 à art. 204*] et titre II [*art. 256 à art. 302 
 ###### Article 311 bis
 
 La profession de distillateur ne peut s'exercer que dans un établissement fixe. Toutefois, des dérogations individuelles
-peuvent être accordées par arrêté du préfet, sur proposition du directeur des services fiscaux. Les bénéficiaires desdites
-dérogations sont soumis aux obligations prévues aux articles 327 à 331. Les conditions de délivrance et de retrait des
-dérogations sont fixées par arrêté du ministre de l'économie et des finances (1).
+peuvent être accordées par arrêté du commissaire de la République, sur proposition du directeur des services fiscaux. Les
+bénéficiaires desdites dérogations sont soumis aux obligations prévues aux articles 327 à 331. Les conditions de délivrance
+et de retrait des dérogations sont fixées par arrêté du ministre de l'économie et des finances (1).
 
 1) Annexe IV, art. 51 bis à 51 sexies.
 
@@ -42539,6 +42570,10 @@ dérogations sont fixées par arrêté du ministre de l'économie et des finance
 	  - CGIAN4 51 sexies
 	  - CGIAN4 51 ter
 
+	**Modifié par**:
+
+	  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
+
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1813 (V)
@@ -42547,9 +42582,9 @@ dérogations sont fixées par arrêté du ministre de l'économie et des finance
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 sexies (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 51 A (V)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°83-899 1983-10-06
 
 
 ###### Article 313
@@ -43648,19 +43683,23 @@ décembre 1934;
 3° S'il y a lieu, le volume ou le poids de vendanges fraîches ou la quantité de moûts qu'il a expédiés.
 
 Dans chaque département, le délai dans lequel doivent être faites les déclarations de récolte est fixé annuellement par le
-préfet après avis du conseil général, à une époque aussi rapprochée que possible de la fin des vendanges et écoulages et au
-plus tard le 25 novembre.
+commissaire de la République après avis du conseil général, à une époque aussi rapprochée que possible de la fin des
+vendanges et écoulages et au plus tard le 25 novembre.
 
 En ce qui concerne les déclarations de récolte des vins à appellation d'origine contrôlée, un arrêté spécial fixera ce délai
 après avis du conseil général et de la chambre d'agriculture et après consultation des organisations professionnelles
 viticoles représentant les viticulteurs intéressés.
 
 Sous aucun prétexte, les récoltants ne peuvent être autorisés, soit individuellement, soit collectivement, à déclarer leur
-récolte après la date fixée par l'arrêté du préfet (1).
+récolte après la date fixée par l'arrêté du commissaire de la République (1).
 
-1)  Voir annexe II, art. 267 octies.
+(1)  Voir annexe II, art. 267 octies.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
 
 	**Cité par**:
 
@@ -43687,9 +43726,9 @@ récolte après la date fixée par l'arrêté du préfet (1).
 	  - Loi n°1919-05-06
 	  - Loi n°1934-12-24 ART. 6
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°83-899 1983-10-06
 
 
 ##### VINS ET CIDRES.
@@ -44927,28 +44966,6 @@ Le certificat de décharge doit également être refusé :
 plus d'un hectolitre d'alcool pur n'ont pas reçu en cours de route les visas prescrits au départ.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-#### REGISTRES PORTATIFS.
-
-###### Article 625
-
-Les registres portatifs tenus par les agents des impôts sont cotés et paraphés par les juges des tribunaux d'instance; les
-registres de perception ou de déclaration et tous autres pouvant servir à établir les droits du Trésor et ceux des redevables
-sont cotés et paraphés par un des fonctionnaires publics que les préfets ou sous-préfets désignent à cet effet.
-
-Les actes inscrits par les agents, au cours de leurs exercices, sur les registres portatifs font foi en justice jusqu'à
-inscription de faux.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
 
 	**Liens**:
 
@@ -54057,14 +54074,14 @@ celle du droit de chasse effectivement perçu sur ces propriétés à moins :
 - ou que la propriété n'ait été classée en réserve naturelle ou en réserve de chasse agréée.
 
 IV. Les terres incultes figurant à l'état prévu à l'article 40 du code rural sont inscrites dans la catégorie des meilleures
-terres labourables jusqu'à leur mise en exploitation. Cette disposition prend effet à la date à laquelle le préfet informe le
-propriétaire, en application du I de l'article 40 du code rural, des demandes d'attribution formulées conformément à cet
-article. Toutefois, la mise en recouvrement des sommes complémentaires résultant de cette inscription n'intervient que si,
-dans le délai de trois ans à compter de cette information, et à défaut d'accord amiable entre les intéréssés, le préfet a
-attribué à l'un des demandeurs l'autorisation d'exploiter.
+terres labourables jusqu'à leur mise en exploitation. Cette disposition prend effet à la date à laquelle le commissaire de la
+République informe le propriétaire, en application du I de l'article 40 du code rural, des demandes d'attribution formulées
+conformément à cet article. Toutefois, la mise en recouvrement des sommes complémentaires résultant de cette inscription
+n'intervient que si, dans le délai de trois ans à compter de cette information, et à défaut d'accord amiable entre les
+intéréssés, le commissaire de la République attribué à l'un des demandeurs l'autorisation d'exploiter.
 
-En outre, il est procédé au remboursement des sommes ainsi perçues si l'arrêté du préfet est annulé par le tribunal
-administratif, ou si l'attributaire n'a pas procédé à la mise en exploitation dans le délai d'un an à compter de
+En outre, il est procédé au remboursement des sommes ainsi perçues si l'arrêté du commissaire de la République est annulé par
+le tribunal administratif, ou si l'attributaire n'a pas procédé à la mise en exploitation dans le délai d'un an à compter de
 l'attribution.
 
 V. Les terrains autres que ceux classés dans la catégorie fiscale des terrains à bâtir et dont la cession entre dans le champ
@@ -54081,17 +54098,13 @@ imposition. L'imposition définie au premier alinéa est due par le cédant.
 
 	**Cite**:
 
-	  - CGI 257 7
+	  - CGI 257 7°
 	  - Code rural 40 I
 	  - Instruction 1908-12-31 MINISTERIELLE
 
 	**Modifié par**:
 
-	  - Loi n°80-10 du 10 janvier 1980 - art. 27 (V) JORF 11 JANVIER 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
 
 	**Cité par**:
 
@@ -54105,6 +54118,10 @@ imposition. L'imposition définie au premier alinéa est due par le cédant.
 	  - Code forestier (nouveau) - art. L133-10 (VD)
 	  - Code général des impôts, CGI. - art. 1396 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 333 I (V)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
 
 
 ###### Article 1518
@@ -54439,11 +54456,11 @@ limite de 0,015 F [*montant*] par litre ou fraction de litre (1).
 Lorsque le produit de cette surtaxe excède le montant des ressources ordinaires de la commune pour l'exercice précédent, le
 surplus est attribué au département.
 
-Toutefois, lorsque les communes qui perçoivent cette surtaxe exécutent, après avis favorable du préfet, des travaux
-d'assainissement entrant dans la catégorie de ceux prévus à l'article L 141-2 du code des communes, elles conservent, à
-concurrence de la moitié au maximum du surplus ci-dessus visé, les sommes nécessaires pour porter les ressources qu'elles
-retirent de la surtaxe au montant, soit des travaux approuvés, s'ils sont payés directement par les communes, soit des
-charges des emprunts contractés par elles pour leur exécution.
+Toutefois, lorsque les communes qui perçoivent cette surtaxe exécutent, après avis favorable du commissaire de la République,
+des travaux d'assainissement entrant dans la catégorie de ceux prévus à l'article L 141-2 du code des communes, elles
+conservent, à concurrence de la moitié au maximum du surplus ci-dessus visé, les sommes nécessaires pour porter les
+ressources qu'elles retirent de la surtaxe au montant, soit des travaux approuvés, s'ils sont payés directement par les
+communes, soit des charges des emprunts contractés par elles pour leur exécution.
 
 Les conditions générales d'assiette prévues par le présent code en matière de taxes sur le chiffre d'affaires sont
 applicables à la surtaxe susvisée.
@@ -54454,11 +54471,7 @@ applicables à la surtaxe susvisée.
 
 	**Modifié par**:
 
-	  - Loi n°80-1094 du 30 décembre 1980 - art. 19 (P) JORF 31 DECEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
 
 	**Cité par**:
 
@@ -54470,6 +54483,10 @@ applicables à la surtaxe susvisée.
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L141-2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
 
 
 #### ENREGISTREMENT
@@ -56205,8 +56222,9 @@ de police et gendarmes, ainsi que par les agents des impôts, du contrôle et de
 fraudes.
 
 2  La justification exigée des personnes désignées au 1 consiste dans la production d'un titre, valable pour une année
-civile, délivré par le préfet ou le sous-préfet dans les conditions prévues par l'article 2 du décret n° 53-876 du 22
-septembre 1953 et par l'arrêté interministériel visé à l'article 3 de ce décret (1).
+civile, délivré par le commissaire de la République ou le commissaire adjoint de la République dans les conditions prévues
+par l'article 2 du décret n° 53-876 du 22 septembre 1953 et par l'arrêté interministériel visé à l'article 3 de ce décret
+(1).
 
 3  Le rattachement à une commune prévu pour toute personne qui sollicite la délivrance du titre de circulation institué par
 la loi n° 69-3 du 3 janvier 1969 relative à l'ensemble des activités ambulantes et au régime applicable aux personnes
@@ -56226,13 +56244,21 @@ ou au lieu de travail en ce qui concerne l'accomplissement des obligations fisca
 	  - Décret n°53-876 1953-09-22 ART. 2, ART. 3
 	  - Loi n°69-3 1969-01-03
 
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Décret n°82-389 1982-05-10 ART. 1, ART. 4 JORF 11 MAI 1982
+
+	**Abrogé par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 65 () JORF 31 décembre 1985 en vigueur le 1er janvier 1986
+
 	**Cité par**:
 
 	  - Arrêté du 6 juin 2008 - art. 44 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 1649 ter
@@ -56854,7 +56880,8 @@ industriels situés dans le département ;
 Un titulaire et deux suppléants désignés par les organismes représentatifs des locataires dans le département.
 
 Lorsqu'il existe plusieurs organismes représentatifs pour les propriétaires ou les locataires dans le département, et à
-défaut d'accord entre eux, les membres de la commission sont désignés par le préfet sur proposition de ces organismes.
+défaut d'accord entre eux, les membres de la commission sont désignés par le commissaire de la République sur proposition de
+ces organismes.
 
 3. Les membres désignés par les chambres de commerce et d'industrie sont appelés à siéger à la commission lorsque le
 différend soumis à cette dernière porte soit sur des bénéfices industriels et commerciaux, soit sur des chiffres d'affaires.
@@ -56900,7 +56927,7 @@ ingénieurs et cadres supérieurs sont appelés à siéger à la commission lors
 déduction des rémunérations visées à l'article 39-1-1° ou relatifs à l'imposition au nom des bénéficiaires de la fraction des
 rémunérations mentionnées à l'article 111-d.
 
-Les personnes désignées à l'article 1653 A-I-4° et 5° sont appelées à siéger à la commission lorsqu'elle est saisie d'un
+Les personnes désignées à l'article 1653 A-I-3° et 4° sont appelées à siéger à la commission lorsqu'elle est saisie d'un
 désaccord portant sur la valeur vénale retenue pour l'assiette de la taxe sur la valeur ajoutée dans les cas prévus à
 l'article 287-3.
 
@@ -56925,18 +56952,37 @@ matières indiquées à l'article L59 du livre précité.
 7. La décision de la commission est prise à la majorité des voix. En cas de partage des voix, la voix du président est
 prépondérante.
 
-8. Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion [*DOM*], la commission
-départementale est présidée par un magistrat de l'ordre judiciaire. Les fonctionnaires représentant la direction générale des
-impôts doivent avoir au moins le grade d'inspecteur.
+8. Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, la commission départementale est
+présidée par un magistrat de l'ordre judiciaire. Les fonctionnaires représentant la direction générale des impôts doivent
+avoir au moins le grade d'inspecteur.
 
 (1) Voir également livre des procédures fiscales, art. L113.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 111 d
+	  - CGI 1503
+	  - CGI 1510
+	  - CGI 1518
+	  - CGI 1653 A I 4°, 5°
+	  - CGI 287 3
+	  - CGI 39 1 1°
+	  - CGI L113
+	  - CGI L5
+	  - CGI L59
+	  - CGI L7
+	  - Code de la santé publique - art. L454 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
+
 	**Cité par**:
 
-	  - Arrêté du 30 mai 2013 - art. 1
 	  - Décret n°2009-1521 du 8 décembre 2009 - art. 2 (V)
+	  - Arrêté du 30 mai 2013 - art. 1
 	  - Décret n°2017-769 du 4 mai 2017 - art. 3
 	  - Code de la construction et de l'habitation. - art. L313-4 (VD)
 	  - Code de la construction et de l'habitation. - art. R313-3 (V)
@@ -56962,28 +57008,9 @@ impôts doivent avoir au moins le grade d'inspecteur.
 	  - Livre des procédures fiscales - art. R*60-3 (VD)
 	  - Livre des procédures fiscales - art. R60-2 A (VD)
 
-	**Cite**:
-
-	  - CGI 111 d
-	  - CGI 1503
-	  - CGI 1510
-	  - CGI 1518
-	  - CGI 1653 A I 4°, 5°
-	  - CGI 287 3
-	  - CGI 39 1 1°
-	  - CGI L113
-	  - CGI L5
-	  - CGI L59
-	  - CGI L7
-	  - Code de la santé publique - art. L454 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 102 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
-
 	**Codifié par**:
 
-	  - Décret n°82-881 1982-10-15
+	  - Décret n°83-899 1983-10-06
 
 
 ###### Article 1653 A
@@ -57008,22 +57035,22 @@ représentant de l'une des organisations professionnelles dont il fait partie ;
 Un titulaire et deux suppléants désignés par les fédérations départementales des syndicats d'exploitants agricoles du
 département, parmi les propriétaires ruraux passibles de l'impôt sur les bénéfices de l'exploitation agricole. Lorsqu'il
 existe dans un département plusieurs fédérations de syndicats d'exploitants agricoles, les membres de la commission sont
-nommés par le préfet, sur proposition de ces fédérations;
+nommés par le commissaire de la République, sur proposition de ces fédérations;
 
 Un titulaire et deux suppléants choisis par la ou les chambres syndicales de propriétaires du département.
 
 Les représentants ainsi désignés doivent être de nationalité française, âgés de vingt-cinq ans au moins et jouir de leurs
 droits civils.
 
-II Un inspecteur des impôts remplit les fonctions de secrétaire et assiste aux séances avec voix consultative.
+Un inspecteur des impôts remplit les fonctions de secrétaire et assiste aux séances avec voix consultative.
 
 III  Les membres non fonctionnaires de la commission sont nommés pour un an et leur mandat est renouvelable. Ils sont soumis
 aux obligations du secret professionnel.
 
 IV  La commission se réunit sur la convocation du directeur des services fiscaux.
 
-La commission délibère valablement, à condition qu'il y ait au moins cinq membres présents [*quorum*], y compris le
-président. En cas de partage des voix, celle du président est prépondérante.
+La commission délibère valablement, à condition qu'il y ait au moins cinq membres présents, y compris le président. En cas de
+partage des voix, celle du président est prépondérante.
 
 **Liens relatifs à cet article**
 
@@ -57036,8 +57063,7 @@ président. En cas de partage des voix, celle du président est prépondérante.
 
 	**Modifié par**:
 
-	  - Loi n°81-1160 1981-12-30 ART. 102 I, II FINANCES POUR 1982 JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 102 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
+	  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
 
 	**Cité par**:
 
@@ -57049,7 +57075,7 @@ président. En cas de partage des voix, celle du président est prépondérante.
 
 	**Codifié par**:
 
-	  - Décret n°82-881 1982-10-15
+	  - Décret n°83-899 1983-10-06
 
 
 #### REGIME DE CERTAINS ORGANISMES ET SOCIETES.
@@ -57106,20 +57132,24 @@ administrative des débits de boissons, s'ils servent exclusivement des boissons
 du poiré, de l'hydromel, des vins doux naturels bénéficiant du régime fiscal des vins et si leurs adhérents sont seuls admis
 à consommer.
 
-Sur l'avis du maire de la commune et sur la proposition du préfet, il peut être délivré une licence de plein exercice,
-attachée au cercle et incessible, aux cercles privés régulièrement déclarés à la date du 1er janvier 1948 et comptant, à
-cette date, quinze années ininterrompues de fonctionnement, les années 1939 à 1945 n'étant pas prises en considération dans
-ce décompte. Ces cercles peuvent bénéficier des dispositions du deuxième alinéa.
+Sur l'avis du maire de la commune et sur la proposition du commissaire de la République, il peut être délivré une licence de
+plein exercice, attachée au cercle et incessible, aux cercles privés régulièrement déclarés à la date du 1er janvier 1948 et
+comptant, à cette date, quinze années ininterrompues de fonctionnement, les années 1939 à 1945 n'étant pas prises en
+considération dans ce décompte. Ces cercles peuvent bénéficier des dispositions du deuxième alinéa.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
 
 	**Cité par**:
 
 	  - Code de la santé publique - art. L3335-11 (V)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°83-899 1983-10-06
 
 	**Cite**:
 
@@ -62344,34 +62374,39 @@ le revenu de 1984 ; [*à 340 F pour les cotisations perçues au titre de l'impô
 
 ###### Article 1658
 
-Les impôts directs et les taxes y assimilées sont recouvrés en vertu de rôles rendus exécutoires par arrêté du préfet.
+Les impôts directs et les taxes y assimilées sont recouvrés en vertu de rôles rendus exécutoires par arrêté du commissaire de
+la République.
 
 Celui-ci peut déléguer ses pouvoirs au directeur des services fiscaux, en ce qui concerne les rôles établis par ce chef de
 service, sans qu'il en résulte de modification au point de vue de la compétence des tribunaux.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
+
 	**Cité par**:
 
-	  - Décret n°2011-303 du 21 mars 2011 - art. 1 (V)
-	  - Décret n°2016-1116 du 11 août 2016 (V)
-	  - Décret n°2016-1116 du 11 août 2016 - art. 1
 	  - Code général des impôts, CGI. - art. 1659 (V)
 	  - Code général des impôts, CGI. - art. 1723 ter-00 A (VD)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 376-0 bis (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 351 (VD)
+	  - Décret n°2011-303 du 21 mars 2011 - art. 1 (V)
+	  - Décret n°2016-1116 du 11 août 2016 (V)
+	  - Décret n°2016-1116 du 11 août 2016 - art. 1
 	  - Livre des procédures fiscales - art. L253 (V)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°83-899 1983-10-06
 
 
 ###### Article 1659
 
-La date de mise en recouvrement des rôles est fixée par le préfet ou, en cas de délégation de la formalité d'homologation,
-par le directeur des services fiscaux d'accord avec le trésorier-payeur général. Cette date est indiquée sur le rôle ainsi
-que sur les avis d'imposition délivrés aux contribuables [*mention*].
+La date de mise en recouvrement des rôles est fixée par le commissaire de la République ou, en cas de délégation de la
+formalité d'homologation, par le directeur des services fiscaux d'accord avec le trésorier-payeur général. Cette date est
+indiquée sur le rôle ainsi que sur les avis d'imposition délivrés aux contribuables [*mention*].
 
 Lorsque des erreurs d'expédition sont constatées dans les rôles, un état de ces erreurs est dressé par le directeur des
 services fiscaux et approuvé dans les mêmes conditions que ces rôles, auxquels il est annexé à titre de pièce justificative.
@@ -62379,13 +62414,17 @@ Le directeur rédige de nouveaux avis d'imposition et les fait parvenir aux int�
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
+
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1961 (V)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°83-899 1983-10-06
 
 
 ###### Article 1663
