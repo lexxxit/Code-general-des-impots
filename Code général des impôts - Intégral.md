@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1987-05-06
+Version Consolidée au 1987-06-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -7302,6 +7302,42 @@ participations visées à l'article 145, encaissés au cours des exercices clos 
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### VII bis : Profits réalisés sur les marchés à terme et sur les marchés d'options négociables.
+
+###### Article 150 sexies
+
+Le profit net réalisé au cours d'une année dans le cadre de contrats autres que ceux visés à l'article 150 quinquies est
+soumis à l'impôt sur le revenu au taux forfaitaire de 32% dans les conditions prévues à l'article 96 A. Il est soumis à la
+contribution de 1% prévue à l'article 1600-0 A.
+
+En cas de perte nette, l'excédent de perte est exclusivement imputable sur les profits nets de même nature réalisés au cours
+des cinq années suivantes.
+
+**Nota:**
+
+Décret 88-1001 1988-10-20 : modification de la table des matières.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 124 B
+	  - CGI 124 C
+	  - CGI 150 quinquies
+
+	**Modifié par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 46 () JORF 18 juin 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies I (V)
 
 
 ##### VII ter : Plus-values de cession à titre onéreux de biens ou de droits de toute nature
