@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1981-01-29
+Version Consolidée au 1981-03-21
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15954,6 +15954,45 @@ A défaut, la formalité est refusée.
 	  - Code général des impôts, CGI. - art. 799 (V)
 
 
+##### 4° : Lotisseurs, marchands de biens et assimilés. Obligations particulières
+
+###### Article 852
+
+Les personnes qui réalisent les affaires définies au 6° de l'article 257 doivent :
+
+1° En faire la déclaration dans le délai d'un mois à compter du commencement de leurs opérations  auprès du service de
+l'administration dont dépend leur établissement et, le cas échéant, à chacune de leurs succursales ou agences (1) ;
+
+2° Tenir un répertoire à colonnes non sujet au timbre, présentant, jour par jour, sans blanc ni interligne et par ordre de
+numéros, tous les mandats, promesses de vente, actes translatifs de propriété et, d'une manière générale, tous actes se
+rattachant à la profession de marchand de biens (2).
+
+(1) Voir Annexe IV, art. 33.
+
+(2) Voir également Annexe IV, art. 50 sexies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 257 6°
+	  - CGIAN4 33
+	  - CGIAN4 50 sexies
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Conseil d'Etat 1993-10-08 n°116686
+	  - HISTO: Edition du 1er juillet 1981
+
+	**Modifié par**:
+
+	  - Décret n°81-257 du 18 mars 1981 - art. 1 (Ab) JORF 21 MARS 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
 ##### B : Obligations des officiers publics et ministériels
 
 ##### 1 : Obligations particulières à la formalité de l'enregistrement
@@ -17589,6 +17628,33 @@ la condition de préciser de façon apparente le taux de ce dernier.
 	  - Loi n°2007-1822 du 24 décembre 2007 - art. 11
 
 
+###### Article 982
+
+Les personnes qui font commerce habituel de recueillir des offres et des demandes de valeurs de bourse sont tenues de faire
+une déclaration préalable à l'administration.
+
+Les mêmes personnes doivent tenir un répertoire visé et paraphé par le président ou par l'un des juges du tribunal de
+commerce, et sur lequel elles inscrivent chaque opération jour par jour, sans blanc ni interligne et par ordre de numéros.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°81-257 du 18 mars 1981 - art. 1 (Ab) JORF 21 mars 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 121 KN (P)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er juillet 1981
+
+
 ###### Article 983
 
 La perception des droits s'effectue au vu d'extraits du répertoire déposés périodiquement à la recette des impôts désignée
@@ -17874,6 +17940,35 @@ dépose ce relevé à l'appui du versement prévu à l'article 1708.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 388 (V)
+
+
+###### Article 1003
+
+Les sociétés et compagnies d'assurances et tous autres assureurs, les courtiers et tous autres intermédiaires, désignés à
+l'article 1002, sont tenus, avant de commencer leurs opérations, de faire, auprès du service de l'administration dont dépend
+leur siège social ou établissement, une déclaration énonçant la nature de ces opérations ainsi que le nom du directeur de la
+société ou du chef de l'établissement.
+
+Les sociétés et compagnies d'assurances maritimes sont tenues de faire une déclaration distincte au service de
+l'administration dont dépend chaque agence, en précisant le nom de l'agent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1002
+
+	**Modifié par**:
+
+	  - Décret n°81-257 du 18 mars 1981 - art. 1 (Ab) JORF 21 mars 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 387 (V)
 
 
 ###### Article 1004
@@ -31607,6 +31702,139 @@ Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'appli
 	  - Code monétaire et financier - art. L221-3 (V)
 
 
+###### Article 208
+
+Sont également exonérés de l'impôt sous réserve des dispositions de l'article 208 A :
+
+1° Les sociétés nationales d'investissement constituées dans les conditions prévues au titre Ier de l'ordonnance n° 45-2710
+du 2 novembre 1945, pour la partie des bénéfices provenant des produits nets de leur portefeuille ou des plus-values qu'elles
+réalisent sur la vente des titres ou parts sociales faisant partie de ce portefeuille ;
+
+1° bis. Les sociétés d'investissement qui sont constituées et fonctionnent dans les conditions prévues au titre II de
+l'ordonnance du 2 novembre 1945 précitée, pour la partie des bénéfices visée au 1°. Ces sociétés cesseront de bénéficier des
+dispositions du présent alinéa trois ans après leur création, si leurs actions ne sont pas introduites à une cote d'agents de
+change avant ce délai ;
+
+1° bis A. Les sociétés d'investissement à capital variable [*SICAV*] régies par la loi n° 79-12 du 3 janvier 1979 pour les
+bénéfices réalisés dans le cadre de leur objet légal ;
+
+1° ter. Les sociétés de développement régional constituées et fonctionnant conformément aux dispositions du décret n° 55-876
+du 30 juin 1955 et des textes qui l'ont complété et modifié pour la partie des bénéfices provenant des produits nets de leur
+portefeuille ou des plus-values qu'elles réalisent sur la vente des titres ou parts sociales faisant partie de ce
+portefeuille ;
+
+1° quater. Les sociétés financières pour le développement économique outre-mer constituées et fonctionnant conformément aux
+dispositions du décret n° 56-1131 du 13 novembre 1956 modifié par l'article 1er du décret n° 57-206 du 23 février 1957 et par
+le décret n° 60-535 du 7 juin 1960, pour la partie des bénéfices provenant des produits nets de leur portefeuille ou des
+plus-values qu'elles réalisent sur la vente des titres ou parts sociales faisant partie de ce portefeuille ;
+
+1° quinquies. Les sociétés sahariennes de développement constituées et fonctionnant conformément aux dispositions de
+l'ordonnance n° 58-1248 du 18 décembre 1958, pour la partie des bénéfices provenant des produits nets de leur portefeuille ou
+des plus-values qu'elles réalisent sur la vente des titres ou parts sociales faisant partie de ce portefeuille ;
+
+2° Les sociétés ayant pour objet exclusif la gestion d'un portefeuille de valeurs mobilières et constituées dans les
+conditions prévues au titre II de l'ordonnance du 2 novembre 1945 susvisée, pour les plus-values qu'elles réalisent sur la
+cession de titres ou de parts sociales faisant partie de ce portefeuille ;
+
+3° et 3° bis (Abrogés) ;
+
+3° ter. Les sociétés immobilières d'investissement visées à l'article 33-I de la loi n° 63-254 du 15 mars 1963 et les
+sociétés immobilières de gestion visées à l'article 1er du décret n° 63-683 du 13 juillet 1963, pour la fraction de leur
+bénéfice net qui provient de la location de leurs immeubles ;
+
+3° quater. Les sociétés immobilières pour le commerce et l'industrie [*SICOMI*] visées à l'article 5 de l'ordonnance n°
+67-837 du 28 septembre 1967, pour la fraction de leur bénéfice net provenant de la location de leurs immeubles ainsi que pour
+les plus-values dégagées par la cession de ces immeubles dans le cadre d'opérations de crédit-bail ;
+
+3° quinquies. Les sociétés agréées pour le financement des télécommunications visées à l'article 1er de la loi n° 69-1160 du
+24 décembre 1969, pour la partie des bénéfices provenant des opérations traitées avec l'administration des postes et
+télécommunications (1) ou des plus-values qu'elles réalisent à l'occasion de ces opérations ainsi que pour la partie des
+bénéfices et des plus-values qu'elles réalisent en tant que société immobilière pour le commerce et l'industrie ;
+
+3° sexies. Les sociétés agréées pour le financement d'installations ou de matériels destinés à économiser l'énergie, à
+développer les sources d'énergie de remplacement des hydrocarbures ou à promouvoir les utilisations du charbon (2),
+mentionnées à l'article 30 de la loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à l'utilisation de la
+chaleur, pour la partie de leur bénéfice net provenant des opérations de crédit-bail et de location prévues au I du même
+article ou des plus-values qu'elles réalisent dans le cadre des opérations de crédit-bail ;
+
+4° Les associations de mutilés de guerre et d'anciens combattants reconnues d'utilité publique, émettant des participations à
+la loterie nationale avec l'autorisation du ministre des anciens combattants et sous le contrôle organisé par les textes
+réglementaires, pour les bénéfices industriels et commerciaux qu'elles réalisent, sous réserve qu'elles assurent elle-mêmes
+le service d'émission, sans prélèvement forfaitaire d'une partie des bénéfices au profit de tiers ;
+
+5° Les organismes de jardins familiaux définis à l'article L 561-2 du code rural, lorsque leur activité, considérée dans son
+ensemble, s'exerce dans des conditions telles qu'elle peut être tenue pour désintéressée.
+
+Toutefois, ces organismes demeurent éventuellement soumis à l'impôt dans les conditions prévues à l'article 206-5 ;
+
+6° Les établissements publics pour leurs opérations de lotissement et de vente de terrains leur appartenant.
+
+(1) Voir Annexe IV, art. 23 bis.
+
+(2) La liste des installations et matériels concernés a été fixée par le décret n° 81-37 du 20 janvier 1981 (J.O. du 21).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 206 5
+	  - CGI 208 A
+	  - CGIAN4 23 bis
+	  - Ordonnance 45-2710 1945-11-02 TITRE I, TITRE II
+	  - Décret n°55-876 1955-06-30
+	  - Décret n°57-206 1957-02-23
+	  - Ordonnance 58-1248 1958-12-18
+	  - Décret n°60-535 1960-06-07
+	  - Décret n°63-683 1963-07-13
+	  - Ordonnance n°67-837 du 28 septembre 1967 - art. 5 (V)
+	  - Loi n°69-1160 1969-12-24 ART. 1 FINANCES RECTIFICATIVE POUR 1969
+	  - Loi n°79-12 1979-01-03 LOI 63-254 1963-03-15 ART. 33 I
+	  - Loi n°80-531 1980-07-15 ART. 30
+	  - Décret n°81-37 1981-01-20
+	  - Code rural L561-2
+	  - Décret n°56-1131 1956-11-13
+
+	**Modifié par**:
+
+	  - Loi n°80-531 1980-07-15 ART. 30 II a JORF 16 JUILLET 1980
+	  - Décret n°81-276 1981-03-18 ART. 3, ART. 5 JORF 21 MARS 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 1-1 (V)
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 8 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 171 AL (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 171 AQ (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 171 AR (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 111 bis (V)
+	  - Code général des impôts, CGI. - art. 115 A (V)
+	  - Code général des impôts, CGI. - art. 119 bis (V)
+	  - Code général des impôts, CGI. - art. 139 ter (V)
+	  - Code général des impôts, CGI. - art. 145 (M)
+	  - Code général des impôts, CGI. - art. 150-0 A (V)
+	  - Code général des impôts, CGI. - art. 150-0 D ter (V)
+	  - Code général des impôts, CGI. - art. 158 (V)
+	  - Code général des impôts, CGI. - art. 1663 (VD)
+	  - Code général des impôts, CGI. - art. 167 bis (V)
+	  - Code général des impôts, CGI. - art. 199 ter (V)
+	  - Code général des impôts, CGI. - art. 208 A (V)
+	  - Code général des impôts, CGI. - art. 208 C (M)
+	  - Code général des impôts, CGI. - art. 219 (VD)
+	  - Code général des impôts, CGI. - art. 220 (VD)
+	  - Code général des impôts, CGI. - art. 235 ter ZC (V)
+	  - Code général des impôts, CGI. - art. 239 sexies (V)
+	  - Code général des impôts, CGI. - art. 244 bis A (V)
+	  - Code général des impôts, CGI. - art. 38 (VT)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 ter A bis (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 bis (V)
+	  - Code monétaire et financier - art. L221-31 (V)
+	  - Code monétaire et financier - art. L221-32-2 (V)
+
+
 ##### DETERMINATION DU BENEFICE IMPOSABLE
 
 ###### Article 209 ter
@@ -34013,125 +34241,6 @@ offices publics d'aménagement et de construction institués par transformation 
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 208
-
-Sont également exonérés de l'impôt sous réserve des dispositions de l'article 208 A :
-
-1° Les sociétés nationales d'investissement constituées dans les conditions prévues au titre Ier de l'ordonnance n° 45-2710
-du 2 novembre 1945, pour la partie des bénéfices provenant des produits nets de leur portefeuille ou des plus-values qu'elles
-réalisent sur la vente des titres ou parts sociales faisant partie de ce portefeuille;
-
-1° bis  Les sociétés d'investissement qui sont constituées et fonctionnent dans les conditions prévues au titre II de
-l'ordonnance du 2 novembre 1945 précitée, pour la partie des bénéfices visées au 1°. Ces sociétés cesseront de bénéficier des
-dispositions du présent alinéa trois ans après leur création, si leurs actions ne sont pas introduites à une cote d'agents de
-change avant ce délai;
-
-1° bis A  Les sociétés d'investissement à capital variable régies par la loi n° 79-12 du 3 janvier 1979 pour les bénéfices
-réalisés dans le cadre de leur objet légal;
-
-1° ter  Les sociétés de développement régional constituées et fonctionnant conformément aux dispositions du décret n° 55-876
-du 30 juin 1955 et des textes qui l'ont complété et modifié pour la partie des bénéfices provenant des produits nets de leur
-portefeuille ou des plus-values qu'elles réalisent sur la vente des titres ou parts sociales faisant partie de ce
-portefeuille;
-
-1° quater  Les sociétés financières pour le développement économique outre-mer constituées et fonctionnant conformément aux
-dispositions du décret n° 56-1131 du 13 novembre 1956 modifié par l'article 1er du décret n° 57-206 du 23 février 1957 et par
-le décret no 60-535 du 7 juin 1960, pour la partie des bénéfices provenant des produits nets de leur portefeuille ou des
-plus-values qu'elles réalisent sur la vente des titres ou parts sociales faisant partie de ce portefeuille;
-
-1° quinquies  Les sociétés sahariennes de développement constituées et fonctionnant conformément aux dispositions de
-l'ordonnance n° 58-1248 du 18 décembre 1958, pour la partie des bénéfices provenant des produits nets de leur portefeuille ou
-des plus-values qu'elles réalisent sur la vente des titres ou parts sociales faisant partie de ce portefeuille ;
-
-2° Les sociétés ayant pour objet exclusif la gestion d'un portefeuille de valeurs mobilières et constituées dans les
-conditions prévues au titre II de l'ordonnance du 2 novembre 1945 susvisée, pour les plus-values qu'elles réalisent sur la
-cession de titres ou de parts sociales faisant partie de ce portefeuille ;
-
-3° et 3° bis  (Abrogés) ;
-
-3° ter  Les sociétés immobilières d'investissement visées à l'article 33-I de la loi n° 63-254 du 15 mars 1963 et les
-sociétés immobilières de gestion visées à l'article Ier du décret n° 63-683 du 13 juillet 1963, pour la fraction de leur
-bénéfice net qui provient de la location de leurs immeubles ;
-
-3° quater  Les sociétés immobilières pour le commerce et l'industrie visées à l'article 5 de l'ordonnance n° 67-837 du 28
-septembre 1967, pour la fraction de leur bénéfice net provenant de la location de leurs immeubles ainsi que pour les plus-
-values dégagées par la cession de ces immeubles dans le cadre d'opérations de crédit-bail ;
-
-3° quinquies  Les sociétés agréées pour le financement des télécommunications visées à l'article 1er de la loi n° 69-1160 du
-24 décembre 1969, pour la partie des bénéfices provenant des opérations traitées avec l'administration des postes et
-télécommunications (1) ou des plus-values qu'elles réalisent à l'occasion de ces opérations ainsi que pour la partie des
-bénéfices et des plus-values qu'elles réalisent en tant que société immobilière pour le commerce et l'industrie;
-
-4° Les associations de mutilés de guerre et d'anciens combattants reconnues d'utilité publique, émettant des participations à
-la loterie nationale avec l'autorisation du ministre des anciens combattants et sous le contrôle organisé par les textes
-réglementaires, pour les bénéfices industriels et commerciaux qu'elles réalisent, sous réserve qu'elles assurent elles-mêmes
-le service d'émission, sans prélèvement forfaitaire d'une partie des bénéfices au profit de tiers;
-
-5° Les organismes de jardins familiaux définis à l'article 611 du code rural, lorsque leur activité, considérée dans son
-ensemble, s'exerce dans des conditions telles qu'elle peut être tenue pour désintéressée.
-
-Toutefois, ces organismes demeurent éventuellement soumis à l'impôt dans les conditions prévues à l'article 206-5;
-
-6° Les établissements publics pour leurs opérations de lotissement et de vente de terrains leur appartenant.
-
-1) Voir Annexe IV, art. 23 bis.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 208 A
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - CGI 208 A, 206-5
-	  - CGIAN4 23 bis
-	  - Ordonnance 45-2710 1945-11-02
-	  - Décret n°55-876 1955-06-30
-	  - Décret n°57-206 1957-02-23 art. 1
-	  - Ordonnance 58-1248 1958-12-18
-	  - Décret n°60-535 1960-06-07
-	  - Décret n°63-683 1963-07-13
-	  - Ordonnance n°67-837 du 28 septembre 1967 - art. 5 (V)
-	  - Loi n°69-1160 1969-12-24 art. 1
-	  - Code rural 611
-	  - Décret n°56-1131 1956-11-13
-	  - Loi n°63-254 du 15 mars 1963 - art. 33, v. init.
-	  - Loi n°79-12 1979-01-03
-
-	**Cité par**:
-
-	  - Loi n°85-695 du 11 juillet 1985 - art. 1-1 (V)
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 8 (V)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 171 AL (V)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 171 AQ (V)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 171 AR (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 111 bis (V)
-	  - Code général des impôts, CGI. - art. 115 A (V)
-	  - Code général des impôts, CGI. - art. 119 bis (V)
-	  - Code général des impôts, CGI. - art. 139 ter (V)
-	  - Code général des impôts, CGI. - art. 145 (M)
-	  - Code général des impôts, CGI. - art. 150-0 A (V)
-	  - Code général des impôts, CGI. - art. 150-0 D ter (V)
-	  - Code général des impôts, CGI. - art. 158 (V)
-	  - Code général des impôts, CGI. - art. 1663 (VD)
-	  - Code général des impôts, CGI. - art. 167 bis (V)
-	  - Code général des impôts, CGI. - art. 199 ter (V)
-	  - Code général des impôts, CGI. - art. 208 A (V)
-	  - Code général des impôts, CGI. - art. 208 C (M)
-	  - Code général des impôts, CGI. - art. 219 (VD)
-	  - Code général des impôts, CGI. - art. 220 (VD)
-	  - Code général des impôts, CGI. - art. 235 ter ZC (V)
-	  - Code général des impôts, CGI. - art. 239 sexies (V)
-	  - Code général des impôts, CGI. - art. 244 bis A (V)
-	  - Code général des impôts, CGI. - art. 38 (VT)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 ter A bis (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 bis (V)
-	  - Code monétaire et financier - art. L221-31 (V)
-	  - Code monétaire et financier - art. L221-32-2 (V)
 
 
 ###### Article 208 A
@@ -46274,34 +46383,6 @@ alinéa.
 	  - Livre des procédures fiscales L106
 
 
-###### Article 852
-
-Les personnes qui réalisent les affaires définies à l'article 257-6° doivent :
-
-1° En faire la déclaration dans le délai d'un mois à compter du commencement de leurs opérations auprès du service des impôts
-de leur résidence et, s'il y a lieu, à chacune de leurs succursales ou agences (1);
-
-2° Tenir un répertoire à colonnes non sujet au timbre, présentant, jour par jour, sans blanc ni interligne et par ordre de
-numéros, tous les mandats, promesses de vente, actes translatifs de propriété et, d'une manière générale, tous actes se
-rattachant à la profession de marchand de biens (2).
-
-1)  Voir Annexe IV, art. 32.
-
-2)  Voir également Annexe IV, art. 50 sexies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 257 6°
-	  - CGIAN4 32
-	  - CGIAN4 50 sexies
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 862
 
 Les notaires, huissiers, greffiers, avoués et autres officiers publics, les avocats et les autorités administratives ne
@@ -48001,25 +48082,6 @@ bourses.
 	  - Décret n°81-866 1981-09-15
 
 
-###### Article 982
-
-Les personnes qui font commerce habituel de recueillir des offres et des demandes de valeurs de bourse sont tenues de faire
-une déclaration préalable au service des impôts [*formalité obligatoire*].
-
-Les mêmes personnes doivent tenir un répertoire visé et paraphé par le président ou par l'un des juges du tribunal de
-commerce, et sur lequel elles inscrivent chaque opération jour par jour, sans blanc ni interligne et par ordre de numéros.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 121 KN (P)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 986
 
 Les courtiers, les commissionnaires et toutes autres personnes faisant commerce habituel de recueillir des offres et des
@@ -48405,31 +48467,6 @@ risques désignés sous le 3° ou sous le 6°, suivant qu'il s'agit de transport
 	**Cite**:
 
 	  - Code rural 1060
-
-
-###### Article 1003
-
-Les sociétés et compagnies d'assurances et tous autres assureurs, les courtiers et tous autres intermédiaires, visés à
-l'article 1002, sont tenus de faire, au service des impôts du lieu où ils ont le siège de leur principal établissement ou
-leur résidence, avant de commencer leurs opérations, une déclaration énonçant la nature de ces opérations et les noms du
-directeur de la société ou du chef de l'établissement.
-
-Les sociétés et compagnies d'assurances maritimes sont tenues de faire une déclaration distincte au service des impôts du
-siège de chaque agence, en précisant le nom de l'agent.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1002
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 387 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### TAXES SUR LES VEHICULES A MOTEUR.
@@ -49843,77 +49880,6 @@ impôts.
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1394
-
-Sont exonérés de la taxe foncière sur les propriétés non bâties :
-
-1° Les routes nationales, les chemins départementaux, les voies communales, y compris les places publiques servant aux foires
-et marchés, les rivières;
-
-2° Les propriétés de l'Etat, des départements et des communes affectées à un service public ou d'utilité générale et non
-productives de revenus.
-
-Tels sont notamment :
-
-Les jardins attenant aux bâtiments publics et hospices visés à l'article 1382-1°;
-
-Le jardin des plantes de Paris, les jardins botaniques des départements, leurs pépinières et celles faites au compte du
-Gouvernement par l'office national des forêts;
-
-Les cimetières, y compris ceux constitués en vertu de l'article L511 du code des pensions militaires d'invalidité et des
-victimes de la guerre pour la sépulture des militaires alliés et dont l'Etat a concédé la libre disposition aux gouvernements
-intéressés, ainsi que les voies d'accès à ces cimetières;
-
-Les fortifications et glacis qui en dépendent.
-
-Cette exonération n'est pas applicable aux propriétés des établissements publics autres que les établissements scientifiques,
-d'enseignement et d'assistance, ni à celles des organismes de l'Etat, des départements ou des communes, ayant un caractère
-industriel ou commercial (1);
-
-3° Les terrains qui sont donnés en location par l'Etat (administration des postes et télécommunications) aux sociétés agréées
-pour le financement des télécommunications;
-
-4° Les jardins attenant aux bâtiments pour lesquels les associations de mutilés de guerre ou du travail sont exonérées de la
-taxe foncière sur les propriétés bâties en vertu de l'article 1382-5°;
-
-5° Les terrains qui appartiennent aux associations syndicales de propriétaires prévues par l'article 23 de la loi du 11
-octobre 1940 modifiée par la loi du 12 juillet 1941 relative à la reconstruction des immeubles d'habitation partiellement ou
-totalement détruits par suite d'actes de guerre;
-
-6° Les terrains sis dans les communes de plus de 5.000 habitants, qui appartiennent aux organismes de jardins familiaux, ou
-dont ils ont la jouissance, et qu'ils utilisent pour la réalisation de leur objet social, tel qu'il est défini à l'article
-610 du code rural;
-
-7° Les sols et terrains passibles de la taxe foncière sur les propriétés bâties.
-
-1)  Annexe IV, art. 165 et 167.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1382 1°, 5°
-	  - CGIAN4 165
-	  - CGIAN4 167
-	  - Code des pensions militaires d'invalidité et des v - art. L511 (V)
-	  - Code rural 610
-	  - Loi n°1940-10-11 ART. 23
-	  - Loi n°1941-07-12
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L2334-6 (V)
-	  - Code général des collectivités territoriales - art. L3413-1 (V)
-	  - Code général des collectivités territoriales - art. R2563-4-1 (V)
-	  - Code général des impôts, CGI. - art. 1599 ter B (Ab)
-	  - Code général des impôts, CGI. - art. 1654 (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 166 (V)
 
 	**Liens**:
 
@@ -52241,6 +52207,84 @@ Cette disposition s'applique aux constructions pour lesquelles une demande de pr
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-0 H (VD)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-0 H bis (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quindecies (V)
+
+
+###### Article 1394
+
+Sont exonérés de la taxe foncière sur les propriétés non bâties :
+
+1° Les routes nationales, les chemins départementaux, les voies communales, y compris les places publiques servant aux foires
+et marchés, les rivières ;
+
+2° Les propriétés de l'Etat, les propriétés des départements pour les taxes perçues par les communes et par le département
+auquel elles appartiennent et les propriétés des communes pour les taxes perçues par les départements et par la commune à
+laquelle elles appartiennent, lorsqu'elles sont affectées à un service public ou d'utilité générale et non productives de
+revenus.
+
+Tels sont notamment :
+
+Les jardins attenant aux bâtiments publics et hospices visés à l'article 1382-1° ;
+
+Le jardin des plantes de Paris, les jardins botaniques des départements, leurs pépinières et celles faites au compte du
+Gouvernement par l'office national des forêts ;
+
+Les cimetières, y compris ceux constitués en vertu de l'article L511 du code des pensions militaires d'invalidité et des
+victimes de la guerre pour la sépulture des militaires alliés et dont l'Etat a concédé la libre disposition aux gouvernements
+intéressés, ainsi que les voies d'accès à ces cimetières ;
+
+Les fortifications et glacis qui en dépendent.
+
+Cette exonération n'est pas applicable aux propriétés des établissements publics autres que les établissements scientifiques,
+d'enseignement et d'assistance, ni à celles des organismes de l'Etat, des départements ou des communes, ayant un caractère
+industriel ou commercial (1) ;
+
+3° Les terrains qui sont donnés en location par l'Etat (administration des postes et télécommunications) aux sociétés agréées
+pour le financement des télécommunications ;
+
+4° Les jardins attenant aux bâtiments pour lesquels les associations de mutilés de guerre ou du travail sont exonérées de la
+taxe foncière sur les propriétés bâties en vertu de l'article 1382-5° ;
+
+5° Les terrains qui appartiennent aux associations syndicales de propriétaires prévues par l'article 23 de la loi du 11
+octobre 1940 modifiée par la loi du 12 juillet 1941 relative à la reconstruction des immeubles d'habitation partiellement ou
+totalement détruits par suite d'actes de guerre ;
+
+6° Les terrains sis dans les communes de plus de 5.000 habitants, qui appartiennent aux organismes de jardins familiaux, ou
+dont ils ont la jouissance, et qu'ils utilisent pour la réalisation de leur objet social, tel qu'il est défini à l'article
+L561-1 du code rural ;
+
+7° Les sols et terrains passibles de la taxe foncière sur les propriétés bâties.
+
+(1) Annexe IV, art. 165 et 167.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1382 1°, 5°
+	  - CGIAN4 165
+	  - CGIAN4 167
+	  - Code rural L561-1
+	  - Code des pensions militaires d'invalidité et des v - art. L511 (V)
+	  - Loi n°1940-10-11 ART. 23
+	  - Loi n°1941-07-12
+
+	**Modifié par**:
+
+	  - Loi n°80-10 du 10 janvier 1980 - art. 25 () JORF 11 JANVIER 1980
+	  - Décret n°81-276 1981-03-18 ART. 3, ART. 5 JORF 21 MARS 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L2334-6 (V)
+	  - Code général des collectivités territoriales - art. L3413-1 (V)
+	  - Code général des collectivités territoriales - art. R2563-4-1 (V)
+	  - Code général des impôts, CGI. - art. 1599 ter B (Ab)
+	  - Code général des impôts, CGI. - art. 1654 (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 166 (V)
 
 
 ##### TAXE D'HABITATION.
