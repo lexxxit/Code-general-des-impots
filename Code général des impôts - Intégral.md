@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1987-01-15
+Version Consolidée au 1987-01-27
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -52132,6 +52132,31 @@ par le présent code et les textes d'application;
 	  - Décret n°83-899 1983-10-06
 
 
+###### Article 1795
+
+Pour toute infraction aux dispositions législatives ou réglementaires concernant le régime de l'alcool de betterave, la
+pénalité de une à trois fois le montant des droits est remplacée par une pénalité dont le montant est compris entre une et
+trois fois celui des recettes nettes dont l'Etat a été frustré du fait de l'infraction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°99-382 1999-05-18
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°99-382 du 18 mai 1999 - art. 1 () JORF 20 mai 1999
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 1999
+	  - SPEC_APPLI: La péremption est la conséquence de la péremption des articles 358 à 361
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985
+
+
 ###### Article 1797
 
 En ce qui concerne les infractions commises en matière d'impôts sur les cercles et maisons de jeux, si les droits fraudés ou
@@ -54004,6 +54029,28 @@ intégralité au profit de tous ceux qui les acquittent les privilèges et garan
 
 
 ### Section III : Contributions indirectes
+
+###### Article 1927
+
+Pour le recouvrement des droits, taxes, redevances, soultes et autres impositions dont la perception lui est confiée,
+l'administration a, sur les meubles et effets mobiliers des redevables, privilège et préférence à tous les créanciers, à
+l'exception des frais de justice, de ce qui est dû pour six mois de loyer seulement et sauf aussi la revendication dûment
+formée par le propriétaire des marchandises en nature qui sont encore sous balle et sous corde.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1928 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
 
 ###### Article 1928
 
@@ -56343,19 +56390,6 @@ peine d'emprisonnement.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 1795
-
-Pour toute infraction aux dispositions législatives ou réglementaires concernant le régime économique de l'alcool, la
-pénalité de une à trois fois le montant des droits est remplacée par une pénalité dont le montant est compris entre une fois
-et trois fois celui des recettes nettes dont le service des alcools a été frustré du fait de l'infraction.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 1827
 
 En cas de dissimulation de partie du prix stipulé dans un contrat, et nonobstant l'application éventuelle des dispositions de
@@ -56747,31 +56781,6 @@ La nullité prévue par l'alinéa qui précède ne peut être invoquée que par 
 	**Codifié par**:
 
 	  - Décret n°88-1001 1988-10-20
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-## SURETES ET PRIVILEGES
-
-### CONTRIBUTIONS INDIRECTES.
-
-###### Article 1927
-
-Pour le recouvrement des droits, taxes, redevances, soultes et autres impositions dont la perception lui est confiée,
-l'administration a, sur les meubles et effets mobiliers des redevables, privilège et préférence à tous les créanciers, à
-l'exception des frais de justice, de ce qui est dû pour six mois de loyer seulement et sauf aussi la revendication dûment
-formée par le propriétaire des marchandises en nature qui sont encore sous balle et sous corde.
-
-Pour la sûreté de ses créances, le service des alcools jouit, sur les meubles et effets mobiliers des débiteurs, d'un
-privilège de même rang.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 1928 (V)
 
 	**Liens**:
 
