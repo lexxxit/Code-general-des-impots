@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 2000-04-01
+Version Consolidée au 2000-07-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2648,7 +2648,7 @@ comptabilisation et l'amortissement des biens;
 3° Les intérêts servis aux associés à raison des sommes qu'ils laissent ou mettent à la disposition de la société, en sus de
 leur part du capital, quelle que soit la forme de la société, dans la limite de ceux calculés à un taux égal à la moyenne
 annuelle des taux effectifs moyens pratiqués par les établissements de crédit pour des prêts à taux variable aux entreprises,
-d'une durée initiale supérieure à deux ans (1).
+d'une durée initiale supérieure à deux ans.
 
 Cette déduction est subordonnée à la condition que le capital ait été entièrement libéré.
 
@@ -2673,7 +2673,7 @@ fixées par décret ;
 4° Sous réserve des dispositions de l'article 153, les impôts à la charge de l'entreprise, mis en recouvrement au cours de
 l'exercice, à l'exception des taxes prévues aux articles 235 ter Y, 238 quater, 239 bis B et 990 G et, pour les rappels de
 taxe sur la valeur ajoutée afférents à des opérations au titre desquelles la taxe due peut être totalement ou partiellement
-déduite par le redevable lui-même, du montant de la taxe déductible (2).
+déduite par le redevable lui-même, du montant de la taxe déductible.
 
 Si des dégrèvements sont ultérieurement accordés sur ces impôts, leur montant entre dans les recettes de l'exercice au cours
 duquel l'exploitant est avisé de leur ordonnancement ;
@@ -2768,13 +2768,13 @@ l'entreprise elle-même, l'administration peut procéder aux redressements néce
 sont devenues sans objet. Dans ce cas, les provisions sont, s'il y a lieu, rapportées aux résultats du plus ancien des
 exercices soumis à vérification.
 
-Par dérogation aux dispositions des premier et treizième alinéas qui précèdent, la provision pour dépréciation qui résulte
-éventuellement de l'estimation du portefeuille est soumise au régime fiscal des moins-values à long terme défini au 2 du I de
-l'article 39 quindecies ; si elle devient ultérieurement sans objet, elle est comprise dans les plus-values à long terme de
-l'exercice, visées au 1 du I de l'article 39 quindecies. La provision pour dépréciation constituée antérieurement, le cas
-échéant, sur des titres prêtés dans les conditions prévues au chapitre V modifié de la loi n° 87-416 du 17 juin 1987 sur
-l'épargne n'est pas réintégrée ; elle doit figurer sur une ligne distincte au bilan et demeurer inchangée jusqu'à la
-restitution de ces titres.
+Par dérogation aux dispositions des premier et treizième alinéas, la provision pour dépréciation qui résulte éventuellement
+de l'estimation du portefeuille est soumise au régime fiscal des moins-values à long terme défini au 2 du I de l'article 39
+quindecies ; si elle devient ultérieurement sans objet, elle est comprise dans les plus-values à long terme de l'exercice,
+visées au 1 du I de l'article 39 quindecies. La provision pour dépréciation constituée antérieurement, le cas échéant, sur
+des titres prêtés dans les conditions prévues au chapitre V modifié de la loi n° 87-416 du 17 juin 1987 sur l'épargne n'est
+pas réintégrée ; elle doit figurer sur une ligne distincte au bilan et demeurer inchangée jusqu'à la restitution de ces
+titres.
 
 Toutefois, pour les exercices ouverts à partir du 1er janvier 1974, les titres de participation ne peuvent faire l'objet
 d'une provision que s'il est justifié d'une dépréciation réelle par rapport au prix de revient. Pour l'application de cette
@@ -2790,7 +2790,7 @@ ne peut donner lieu, de la part du prêteur ou de l'emprunteur, à la constituti
 constituer de provision pour dépréciation de la créance représentative de ces titres ;
 
 La dépréciation des valeurs, titres ou effets qui sont l'objet d'une pension dans les conditions prévues par la loi n°
-93-1444 du 31 décembre 1993 portant diverses dispositions relatives à la banque de France, à l'assurance, au crédit et aux
+93-1444 du 31 décembre 1993 portant diverses dispositions relatives à la Banque de France, à l'assurance, au crédit et aux
 marchés financiers, ne peut donner lieu, de la part du cessionnaire, à la constitution d'une provision déductible sur le plan
 fiscal.
 
@@ -2827,7 +2827,7 @@ Lorsque le bien à renouveler ne fait pas l'objet de dotations aux amortissement
 résultat imposable de l'entreprise, le prix de revient initial du bien est retenu pour une valeur nulle.
 
 Dans l'hypothèse où cette obligation de renouvellement est mise à la charge d'un tiers, les dispositions des vingt-deuxième à
-vingt-cinquième alinéas sont applicables à celui-ci).
+vingt-cinquième alinéas sont applicables à celui-ci.
 
 Les provisions pour indemnités de licenciement constituées en vue de faire face aux charges liées aux licenciements pour
 motif économique ne sont pas déductibles des résultats des exercices clos à compter du 15 octobre 1997. Les provisions pour
@@ -2848,12 +2848,12 @@ lorsqu'elles sont exposées dans l'intérêt direct de l'exploitation ;
 légales régissant les prix, le ravitaillement, la répartition des divers produits, l'assiette et le recouvrement des impôts,
 contributions et taxes, ne sont pas admises en déduction des bénéfices soumis à l'impôt.
 
-2 bis. Pour les contrats conclus au cours d'exercices ouverts à compter de l'entrée en vigueur de la Convention sur la lutte
-contre la corruption d'agents publics étrangers dans les transactions commerciales internationales, les sommes versées ou les
-avantages octroyés, directement ou par des intermédiaires, au profit d'un agent public au sens du 4 de l'article 1er de
-ladite convention ou d'un tiers pour que cet agent agisse ou s'abstienne d'agir dans l'exécution de fonctions officielles, en
-vue d'obtenir ou conserver un marché ou un autre avantage indu dans des transactions commerciales internationales, ne sont
-pas admis en déduction des bénéfices soumis à l'impôt.
+2 bis. A compter de l'entrée en vigueur sur le territoire de la République de la convention sur la lutte contre la corruption
+d'agents publics étrangers dans les transactions commerciales internationales, les sommes versées ou les avantages octroyés,
+directement ou par des intermédiaires, au profit d'un agent public au sens du 4 de l'article 1er de ladite convention ou d'un
+tiers pour que cet agent agisse ou s'abstienne d'agir dans l'exécution de fonctions officielles, en vue d'obtenir ou
+conserver un marché ou un autre avantage indu dans des transactions commerciales internationales, ne sont pas admis en
+déduction des bénéfices soumis à l'impôt.
 
 3. Les allocations forfaitaires qu'une société attribue à ses dirigeants ou aux cadres de son entreprise pour frais de
 représentation et de déplacement sont exclues de ses charges déductibles pour l'assiette de l'impôt lorsque parmi ces charges
@@ -2917,7 +2917,7 @@ sont excessives et où la preuve n'a pas été apportée qu'elles ont été enga
 Lorsqu'elles augmentent dans une proportion supérieure à celle des bénéfices imposables ou que leur montant excède celui de
 ces bénéfices, l'administration peut demander à l'entreprise de justifier qu'elles sont nécessitées par sa gestion.
 
-6. (Dispositions devenues sans objet).
+6. (périmé).
 
 7. Les dépenses exposées pour la tenue de la comptabilité et, éventuellement, pour l'adhésion à un centre de gestion agréé ne
 sont pas prises en compte pour la détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du fait de la
@@ -2974,35 +2974,28 @@ loyers non déductibles prévues aux premier et deuxième alinéas sont admises 
 Lorsque le contrat de crédit-bail est cédé, les quotes-parts de loyers non déductibles sont considérées comme un élément du
 prix de revient du contrat pour le calcul de la plus-value dans les conditions de l'article 39 duodecies A.
 
-(1) Cette disposition s'applique aux exercices ouverts à compter du 1er janvier 1999.
-
-(2) Cette disposition s'applique aux rappels de taxe sur la valeur ajoutée notifiés à compter du 1er janvier 1998.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Arrêté 1991-12-31
-	  - CGI 39 A, 39 B, 39 E, 39 quindecies I 1, 2, 54 quater, 153, 61 A, 271, 273, 235 ter T, 145, 125 A III bis 1° bis, 199 quater B, 990 G, 235 ter Y, 39 octies A, 39 octies B, 39 octies D, 39 duodecies A, 231 ter, 1465, 1466 A
-	  - CGIAN2 15, 229, 33, 34, 35
-	  - CGIAN3 38 quindecies E, 3 à 10 septies, 10 nonies à 10 terdecies, 38 quindecies E, 49 octies à 49 octies D
-	  - CGIAN4 2 à 4 septies
+	  - CGI 39 A, 39 B, 273, 271, 145, 125 A, 153, 235 ter Y, 238 quater, 239 bis B, 990 G, 1717, 38, 39 quindecies, 39 octies A, 39 octies B, 39 octies D, 54 septies, 199 quater B, 231 ter, 1465, 1466 A, 39 duodecies A
 	  - Loi n°51-675 1951-05-24 art. 4
 	  - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
 	  - Ordonnance n°67-828 du 23 septembre 1967 - art. 33 (Ab)
 	  - Loi n°72-657 1972-07-13 art. 3
-	  - Loi n°84-1208 1984-12-29 art. 113 Finances pour 1985
-	  - Loi n°87-416 1987-06-17 art. 34 al. 3
-	  - Décret n°87-1029 du 22 décembre 1987 - art. 7 (V)
+	  - Loi n°87-416 1987-06-17
 	  - Loi n°93-1444 1993-12-31
 	  - Code du travail L223-11 à L223-13
-	  - Livre des procédures fiscales L59 A 2°
+
+	**Modifié par**:
+
+	  - Loi n°2000-595 du 30 juin 2000 - art. 7 () JORF 1 juillet 2000
 
 	**Cité par**:
 
-	  - Arrêté du 20 février 2012 (V)
 	  - Loi n°2007-1824 du 25 décembre 2007 - art. 67 (V)
 	  - Loi n°2011-900 du 29 juillet 2011 - art. 16 (V)
+	  - Arrêté du 20 février 2012 (V)
 	  - Loi n°2013-1278 du 29 décembre 2013 - art. 15 (V)
 	  - Décret n°2016-1361 du 12 octobre 2016 (V)
 	  - Loi n°2016-1917 du 29 décembre 2016 - art. 109 (V)
@@ -3108,29 +3101,17 @@ prix de revient du contrat pour le calcul de la plus-value dans les conditions d
 	  - Code rural et de la pêche maritime - art. R716-33 (V)
 	  - Livre des procédures fiscales - art. L59 A (VD)
 
-	**Modifié par**:
-
-	  - Loi - art. 44 () JORF 31 décembre 1999
-
 	**Liens**:
 
-	  - TXT_ASSOCIE: Instruction 1997-02-05 4E-1-97
-	  - TXT_ASSOCIE: Instruction 1997-02-06 4C-1-97
-	  - TXT_ASSOCIE: Instruction 1997-02-19 4C-2-97
-	  - TXT_ASSOCIE: Instruction 1997-02-25 4C-3-97
-	  - TXT_ASSOCIE: Instruction 1997-04-23 4D-2-97
-	  - TXT_ASSOCIE: Instruction 1997-05-29 5G-8-97
-	  - TXT_ASSOCIE: Instruction 1997-07-22 4C-4-97
-	  - TXT_ASSOCIE: Instruction 1997-08-25 4E-5-97
-	  - TXT_ASSOCIE: Instruction 1998-01-19 4C-1-98
-	  - TXT_ASSOCIE: Instruction 1998-04-02 4E-2-98
-	  - TXT_ASSOCIE: Instruction 1998-06-08 4E-3-98
-	  - TXT_ASSOCIE: Instruction 1998-07-30 4C-3-98
 	  - TXT_ASSOCIE: Instruction 1999-02-23 4E-1-99
 	  - TXT_ASSOCIE: Instruction 1999-04-13 4C-1-99
 	  - TXT_ASSOCIE: Instruction 1999-05-31 13L-6-99
 	  - TXT_ASSOCIE: Instruction 1999-06-10 4C-2-99
 	  - TXT_ASSOCIE: Instruction 1999-09-21 4C-3-99
+	  - TXT_ASSOCIE: Instruction 2000-04-11 4C-1-00
+	  - TXT_ASSOCIE: Instruction 2000-07-07 4C-3-00
+	  - TXT_SOURCE: Instruction 2000-11-07 4C-4-00
+	  - TXT_ASSOCIE: Instruction 2000-11-13 4D-1-00
 
 
 ###### Article 39 A
@@ -16749,7 +16730,7 @@ Toutefois, n'est pas autorisée l'imputation :
 
 1° Des déficits provenant d'exploitations agricoles lorsque le total des revenus nets d'autres sources excède 200.000 F ; ces
 déficits peuvent cependant être admis en déduction des bénéfices de même nature des années suivantes jusqu'à la cinquième
-inclusivement (1).
+inclusivement.
 
 1° bis des déficits provenant, directement ou indirectement, des activités relevant des bénéfices industriels ou commerciaux
 lorsque ces activités ne comportent pas la participation personnelle, continue et directe de l'un des membres du foyer fiscal
@@ -16791,32 +16772,32 @@ déclaration, lorsque les biens ou droits ainsi acquis n'ont pas été détenus 
 physique ;
 
 - de biens meubles corporels acquis à l'état neuf, non encore livrés au 1er janvier 1996 et ayant donné lieu avant cette date
-à une commande accompagnée du versement d'acomptes au moins égaux à 50 p. 100 de leur prix (1') ;
+à une commande accompagnée du versement d'acomptes au moins égaux à 50 p. 100 de leur prix ;
 
 2° Des déficits provenant d'activités non commerciales au sens de l'article 92, autres que ceux qui proviennent de l'exercice
 d'une profession libérale ou des charges et offices dont les titulaires n'ont pas la qualité de commerçants ; ces déficits
 peuvent cependant être imputés sur les bénéfices tirés d'activités semblables durant la même année ou les cinq années
-suivantes (Voir toutefois le I bis ci-dessous) ;
+suivantes ;
 
-3° Des déficits fonciers, lesquels s'imputent exclusivement sur les revenus fonciers des dix années suivantes (2) ; cette
+3° Des déficits fonciers, lesquels s'imputent exclusivement sur les revenus fonciers des dix années suivantes ; cette
 disposition n'est pas applicable aux propriétaires de monuments classés monuments historiques, inscrits à l'inventaire
 supplémentaire ou ayant fait l'objet d'un agrément ministériel ni aux nus-propriétaires pour le déficit foncier qui résulte
 des travaux qu'ils payent en application des dispositions de l'article 605 du code civil, lorsque le démembrement de
 propriété d'un immeuble bâti résulte de succession ou de donation entre vifs, effectuée sans charge ni condition et consentie
-entre parents jusqu'au quatrième degré inclusivement (3).
+entre parents jusqu'au quatrième degré inclusivement.
 
 Cette disposition n'est pas non plus applicable aux déficits provenant de dépenses autres que les intérêts d'emprunt
 effectuées sur des locaux d'habitation par leurs propriétaires et à leur initiative, ou à celle d'une collectivité publique
-ou d'un organisme chargé par elle de l'opération et répondant à des conditions fixées par décret (4), en vue de la
-restauration complète d'un immeuble bâti en application des articles L. 313-1 à L. 313-3 du code de l'urbanisme et payées à
-compter de la date de publication du plan de sauvegarde et de mise en valeur. Il en est de même, lorsque les travaux de
-restauration ont été déclarés d'utilité publique en application de l'article L. 313-4-1 du code de l'urbanisme, des déficits
-provenant des mêmes dépenses effectuées sur un immeuble situé dans un secteur sauvegardé, dès sa création dans les conditions
-prévues à l'article L. 313-1 du même code, ou dans une zone de protection du patrimoine architectural, urbain et paysager
-créée en application de l'article 70 de la loi n° 83-8 du 7 janvier 1983 modifiée relative à la répartition de compétences
-entre les communes, les départements, les régions et l'Etat. Les propriétaires prennent l'engagement de les louer nus, à
-usage de résidence principale du locataire, pendant une durée de six ans. La location doit prendre effet dans les douze mois
-qui suivent la date d'achèvement des travaux de restauration (5).
+ou d'un organisme chargé par elle de l'opération et répondant à des conditions fixées par décret, en vue de la restauration
+complète d'un immeuble bâti en application des articles L. 313-1 à L. 313-3 du code de l'urbanisme et payées à compter de la
+date de publication du plan de sauvegarde et de mise en valeur. Il en est de même, lorsque les travaux de restauration ont
+été déclarés d'utilité publique en application de l'article L. 313-4-1 du code de l'urbanisme, des déficits provenant des
+mêmes dépenses effectuées sur un immeuble situé dans un secteur sauvegardé, dès sa création dans les conditions prévues à
+l'article L. 313-1 du même code, ou dans une zone de protection du patrimoine architectural, urbain et paysager créée en
+application de l'article 70 de la loi n° 83-8 du 7 janvier 1983 modifiée relative à la répartition de compétences entre les
+communes, les départements, les régions et l'Etat. Les propriétaires prennent l'engagement de les louer nus, à usage de
+résidence principale du locataire, pendant une durée de six ans. La location doit prendre effet dans les douze mois qui
+suivent la date d'achèvement des travaux de restauration.
 
 Ce dispositif s'applique dans les mêmes conditions lorsque les locaux d'habitation sont la propriété d'une société non
 soumise à l'impôt sur les sociétés si les associés conservent les titres pendant six ans.
@@ -16851,8 +16832,8 @@ Les obligations déclaratives incombant aux contribuables concernés par les dis
 alinéas sont fixées par décret ;
 
 L'imputation exclusive sur les revenus fonciers n'est pas non plus applicable aux déficits fonciers résultant de dépenses
-autres que les intérêts d'emprunt. L'imputation est limitée à 70 000 F . La fraction du déficit supérieure à 70 000 F (6) et
-la fraction du déficit non imputable résultant des intérêts d'emprunt sont déduites dans les conditions prévues au premier
+autres que les intérêts d'emprunt. L'imputation est limitée à 70 000 F. La fraction du déficit supérieure à 70 000 F et la
+fraction du déficit non imputable résultant des intérêts d'emprunt sont déduites dans les conditions prévues au premier
 alinéa.
 
 La limite mentionnée au huitième alinéa est portée à 100 000 F pour les contribuables qui constatent un déficit foncier sur
@@ -16866,21 +16847,21 @@ la troisième des catégories prévues à l'article L. 341-4 du code de la sécu
 contribuable ou de l'un des époux soumis à une imposition commune.
 
 Un contribuable ne peut pour un même logement ou une même souscription de titres pratiquer la réduction d'impôt mentionnée à
-l'article 199 undecies et imputer un déficit foncier sur le revenu global (7).
+l'article 199 undecies et imputer un déficit foncier sur le revenu global.
 
-4° Dispositions abrogées (à compter de l'imposition des revenus de 1996).
+4° (abrogé).
 
-5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150 octies et 150 nonies et 150 decies lorsque
-l'option prévue au 8° du paragraphe I de l'article 35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur les
-profits de même nature réalisés au cours de la même année ou des cinq années suivantes ;
+5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150 octies, 150 nonies et 150 decies lorsque l'option
+prévue au 8° du I de l'article 35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur les profits de même
+nature réalisés au cours de la même année ou des cinq années suivantes ;
 
-6° Des pertes résultant d'opérations réalisées à l'étranger sur un marché à terme d'instruments financiers [*MATIF*] ou
-d'options négociables [*MONEP*] ou sur des bons d'option  ; ces pertes sont imputables exclusivement sur les profits de même
-nature réalisés dans les mêmes conditions au cours de la même année ou des cinq années suivantes.
+6° Des pertes résultant d'opérations réalisées à l'étranger sur un marché à terme d'instruments financiers  ou d'options
+négociables ou sur des bons d'option  ; ces pertes sont imputables exclusivement sur les profits de même nature réalisés dans
+les mêmes conditions au cours de la même année ou des cinq années suivantes.
 
 Ces dispositions s'appliquent aux pertes résultant d'opérations à terme sur marchandises réalisées à l'étranger.
 
-7° Dispositions abrogées (à compter de l'imposition des revenus de 1996).
+7° (abrogé)
 
 I bis. Du déficit correspondant aux frais exposés par un inventeur pour prendre un brevet ou en assurer la maintenance
 lorsqu'il ne perçoit pas de produits imposables ou perçoit des produits inférieurs à ces frais. Ce déficit est déductible du
@@ -16893,26 +16874,28 @@ industrielle ou commerciale ou à une exploitation agricole ; intérêts des emp
 titre des dispositions relatives aux prêts de réinstallation ou de reconversion, par les Français rapatriés ou rentrant de
 l'étranger ou des Etats ayant accédé à l'indépendance ;
 
-1° bis (Devenu sans objet).
+1° bis (sans objet).
 
-1° ter. Dans les conditions fixées par décret (8), les charges foncières afférentes aux immeubles classés monuments
-historiques ou inscrits à l'inventaire supplémentaire, ainsi qu'aux immeubles faisant partie du patrimoine national en raison
-de leur caractère historique ou artistique particulier ou en raison du label délivré par la "Fondation du patrimoine" en
-application de l'article 2 de la loi n° 96-590 du 2 juillet 1996 relative à la "Fondation du patrimoine" si ce label a été
-accordé sur avis favorable du service départemental de l'architecture et du patrimoine et qui auront été agréés à cet effet
-par le ministre de l'économie et des finances ;
+1° ter. Dans les conditions fixées par décret, les charges foncières afférentes aux immeubles classés monuments historiques
+ou inscrits à l'inventaire supplémentaire, ainsi qu'aux immeubles faisant partie du patrimoine national en raison de leur
+caractère historique ou artistique particulier ou en raison du label délivré par la "Fondation du patrimoine" en application
+de l'article 2 de la loi n° 96-590 du 2 juillet 1996 relative à la "Fondation du patrimoine" si ce label a été accordé sur
+avis favorable du service départemental de l'architecture et du patrimoine et qui auront été agréés à cet effet par le
+ministre de l'économie et des finances ;
 
-1° quater (Devenu sans objet).
+1° quater (sans objet).
 
 2° Arrérages de rentes payés par lui à titre obligatoire et gratuit constituées avant le 2 novembre 1959 ; pensions
 alimentaires répondant aux conditions fixées par les articles 205 à 211 et 367 du code civil à l'exception de celles versées
 aux ascendants quand il est fait application des dispositions prévues aux premier et deuxième alinéas du 1° de l'article 199
-sexdecies ; rentes prévues à l'article 276 du code civil et pensions alimentaires versées en vertu d'une décision de justice,
-en cas de séparation de corps ou de divorce, ou en cas d'instance en séparation de corps ou de divorce lorsque le conjoint
-fait l'objet d'une imposition séparée ; contribution aux charges du mariage définie à l'article 214 du code civil, lorsque
-son versement résulte d'une décision de justice et à condition que les époux fassent l'objet d'une imposition séparée ; dans
-la limite de 18.000 F et, dans les conditions fixées par un décret en Conseil d'Etat, les versements destinés à constituer le
-capital de la rente prévue à l'article 294 du code civil (9).
+sexdecies ; versements de sommes d'argent mentionnés à l'article 275-1 du code civil lorsqu'ils sont effectués sur une
+période supérieure à douze mois à compter de la date à laquelle le jugement de divorce est passé en force de chose jugée et
+les rentes mentionnées à l'article 276 du même code ainsi que les pensions alimentaires versées en vertu d'une décision de
+justice, en cas de séparation de corps ou de divorce, ou en cas d'instance en séparation de corps ou de divorce lorsque le
+conjoint fait l'objet d'une imposition séparée ; contribution aux charges du mariage définie à l'article 214 du code civil,
+lorsque son versement résulte d'une décision de justice et à condition que les époux fassent l'objet d'une imposition
+séparée ; dans la limite de 18.000 F et, dans les conditions fixées par un décret en Conseil d'Etat, les versements destinés
+à constituer le capital de la rente prévue à l'article 294 du code civil.
 
 Le contribuable ne peut opérer de déduction pour ses descendants mineurs, sauf pour ses enfants dont il n'a pas la garde ;
 
@@ -16926,11 +16909,10 @@ pension pour cet enfant et le considérer à charge pour le calcul de l'impôt ;
 2° bis (Abrogé) ;
 
 2° ter. Avantages en nature consentis en l'absence d'obligation alimentaire résultant des articles 205 à 211 du code civil à
-des personnes agées de plus de soixante-quinze ans vivant sous le toit du contribuable et dont le revenu imposable n'excède
-pas le plafond de ressources fixé pour l'octroi de l'allocation supplémentaire mentionnée à l'article L815-2 ou à l'article
-L815-3 du code de la sécurité sociale (10). La déduction opérée par le contribuable ne peut excéder, par bénéficiaire,
-l'évaluation des avantages en nature de logement et de nourriture faite pour l'application aux salariés du régime de sécurité
-sociale (11).
+des personnes agées de plus de 75 ans vivant sous le toit du contribuable et dont le revenu imposable n'excède pas le plafond
+de ressources fixé pour l'octroi de l'allocation supplémentaire mentionnée à l'article L815-2 ou à l'article L815-3 du code
+de la sécurité sociale. La déduction opérée par le contribuable ne peut excéder, par bénéficiaire, l'évaluation des avantages
+en nature de logement et de nourriture faite pour l'application aux salariés du régime de sécurité sociale.
 
 3° (Abrogé) ;
 
@@ -16940,11 +16922,11 @@ sociale (11).
 
 6° (Abrogé) ;
 
-7° a et b (Devenus sans objets).
+7° a et b (sans objet).
 
 c. (Abrogé) ;
 
-d. Devenu sans objet.
+d. (sans objet).
 
 8° (Abrogé) ;
 
@@ -16960,54 +16942,25 @@ sont admises en déduction;
 relatifs à l'assurance obligatoire des personnes non salariées contre les accidents de la vie privée, les accidents du
 travail et les maladies professionnelles dans l'agriculture.
 
-12° Dispositions devenues sans objet.
-
-(1) Le seuil de 200.000 F est applicable à compter de l'imposition des revenus de 1995.
-
-(2) Ces dispositions s'appliquent à compter de l'imposition des revenus de l'année 1996 et aux déficits encore reportables
-après le 31 décembre 1995.
-
-(3) La disposition relative à l'imputation des déficits fonciers des nus-propriétaires s'applique aux dépenses payées à
-compter du 1er janvier 1993.
-
-(4) Voir l'article 41 DO de l'annexe III.
-
-(5) Ces dispositions s'appliquent aux dépenses payées par les propriétaires qui ont obtenu une autorisation de travaux à
-compter du 1er janvier 1995.
-
-(6) Ces dispositions s'appliquent aux dépenses payées à compter du 1er janvier 1995.
-
-(7) Les dispositions relatives à l'imputation sur le revenu global des déficits fonciers résultant des dépenses autres que
-les intérêts d'emprunt s'appliquent aux dépenses payées à compter du 1er janvier 1993.
-
-(8) Voir Annexe III, art. 41 E à 41 J.
-
-(9) Voir Annexe II, art. 91 quinquies.
-
-(10) Pour l'année 1998 ce plafond de ressources s'élève à 42.658 F pour une personne seule et à 74.270 F pour un couple
-marié.
-
-(11) Au titre de 1998, le plafond de déduction des frais d'accueil des personnes âgées de plus de 75 ans s'élève à 17.840 F.
+12° (sans objet).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 6, 151 septies, 8 quinquies, 53 A, 92, 1733, 42, 31, 199 undecies, 150 ter, 150 octies, 150 nonies, 150 decies, 35, 199 sexdecies, 196 B, 83 bis
-	  - CGIAN3 41 DO
+	  - CGI 6, 151 septies, 8 quinquies, 53 A, 92, 1733, 31, 199 undecies, 150 ter, 150 octies, 150 nonies, 150 decies, 35, 199 sexdecies, 196 B, 83 bis
 	  - Loi n°65-557 1965-07-10
 	  - Loi n°83-8 1983-01-07 art. 70
 	  - Loi n°85-98 1985-01-25
-	  - Loi n°95-115 1995-02-04
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
 	  - Loi n°96-590 du 2 juillet 1996 - art. 2 (Ab)
-	  - Loi n°96-987 1996-11-14
-	  - Loi n°96-1181 1996-12-30
 	  - Code civil - art. 214 (V)
+	  - Code civil - art. 275-1 (M)
 	  - Code civil - art. 276 (M)
 	  - Code civil - art. 294 (M)
 	  - Code civil - art. 367 (M)
 	  - Code civil - art. 605 (V)
-	  - Code civil 605, 205 à 211, 367, 276, 214, 294
+	  - Code civil 605, 205 à 211, 367, 275-1, 276, 214, 294
 	  - Code de la sécurité sociale. - art. L341-4 (V)
 	  - Code de la sécurité sociale. - art. L612-13 (M)
 	  - Code de la sécurité sociale. - art. L612-2 (M)
@@ -17028,6 +16981,7 @@ marié.
 	  - Arrêté du 4 mai 2009 - art. Annexe (V)
 	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
 	  - Loi n°2016-1917 du 29 décembre 2016 - art. 32 (V)
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 undecies B (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 75 A. (V)
 	  - Code de l'urbanisme - art. R313-29 (V)
@@ -17080,30 +17034,20 @@ marié.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 43 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46-0 B (V)
 	  - Livre des procédures fiscales - art. L16 (V)
-	  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (V)
-
-	**Modifié par**:
-
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 93 () JORF 31 décembre 1996
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
-	  - TXT_ASSOCIE: Instruction 1997-01-13 5D-1-97
-	  - TXT_ASSOCIE: Instruction 1997-01-24 5B-1-97
-	  - TXT_ASSOCIE: Instruction 1997-01-30 5B-5-97
-	  - TXT_ASSOCIE: Instruction 1997-05-22 5D-5-97
-	  - TXT_ASSOCIE: Instruction 1997-09-19 5B-17-97
-	  - TXT_ASSOCIE: Instruction 1997-12-09 5D-6-97
-	  - TXT_ASSOCIE: Instruction 1998-01-23 5B-8-98
-	  - TXT_ASSOCIE: Instruction 1998-11-05 5B-17-98
-	  - TXT_ASSOCIE: Instruction 1998-12-17 5D-3-98
-	  - TXT_ASSOCIE: Instruction 1999-02-15 5B-6-99 (156 II 2°)
-	  - TXT_ASSOCIE: Instruction 1999-06-02 5B-12-99 (156 II 2°, 2° ter)
+	  - SPEC_APPLI: Loi n°2000-596 2000-06-30 art. 17 III
+	  - TXT_ASSOCIE: Instruction 1999-06-02 5B-12-99
 	  - TXT_ASSOCIE: Instruction 1999-11-26 5D-7-99
+	  - TXT_ASSOCIE: Instruction 2000-01-07 5B-2-00
 	  - TXT_ASSOCIE: Instruction 2000-01-07 5B-4-00
-	  - TXT_ASSOCIE: Instruction 2000-01-07 5b-2-00
+	  - TXT_ASSOCIE: Instruction 2000-11-23 5G-4-00
 	  - TXT_ASSOCIE: Réponse ministérielle 1999-06-23 5B-13-99
+
+	**Modifié par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 17 (V) JORF 1er juillet 2000
 
 
 ###### Article 157
@@ -22577,6 +22521,46 @@ Les dispositions du 5 du I de l'article 197 sont applicables .
 
 
 ##### 18° : Réduction d'impôt accordée au titre des intérêts des prêts à la consommation
+
+###### Article 199 octodecies
+
+Les versements de sommes d'argent mentionnés au 1 de l'article 275 du code civil et à l'article 275-1 du même code, s'ils
+sont effectués sur une période au plus égale à douze mois à compter de la date à laquelle le jugement de divorce est passé en
+force de chose jugée, ouvrent droit à une réduction d'impôt sur le revenu lorsqu'ils proviennent de personnes domiciliées en
+France au sens de l'article 4 B.
+
+La réduction d'impôt est égale à 25 % du montant des versements effectués conformément à la convention de divorce homologuée
+par le juge ou fixé par le jugement de divorce, en application de l'article 274 du code civil. Les sommes ouvrant droit à
+réduction d'impôt sont retenues dans la limite de 200 000 F sur la période mentionnée à l'alinéa précédent.
+
+Lorsque les versements sont répartis sur l'année au cours de laquelle le jugement de divorce est passé en force de chose
+jugée et l'année suivante, le montant ouvrant droit à réduction d'impôt au titre de la première année ne peut excéder le
+montant du plafond mentionné au deuxième alinéa multiplié par le rapport existant entre le montant des versements effectués
+au cours de l'année considérée et l'ensemble des versements que le débiteur de la prestation compensatoire s'est engagé à
+réaliser sur la période visée au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 4 B
+	  - Code civil - art. 274 (M)
+	  - Code civil - art. 275 (M)
+	  - Code civil - art. 275-1 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-596 2000-06-30 art. 18 III
+	  - TXT_ASSOCIE: Instruction 2001-01-19 5B-3-01
+
+	**Créé par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 18 (V) JORF 1er juillet 2000
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 200-0 A (VD)
+
 
 ###### Article 199 septdecies
 
