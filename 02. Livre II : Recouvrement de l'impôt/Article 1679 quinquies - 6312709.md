@@ -11,27 +11,32 @@ recouvrement et celui du solde de la taxe.
 
 Le redevable qui estime que sa base d'imposition sera réduite d'au moins 25 % ou qui prévoit la cessation de son activité en
 cours d'année, au sens du I de l'article 1478, peut réduire le montant de son acompte en remettant au comptable du Trésor,
-chargé du recouvrement de la taxe professionnelle du lieu d'imposition, quinze jours avant la date d'exigibilité de l'acompte
-[*délai*], une déclaration datée et signée.
+chargé du recouvrement de la taxe professionnelle du lieu d'imposition, quinze jours avant la date d'exigibilité de
+l'acompte, une déclaration datée et signée.
 
-Le versement du solde ne sera exigible qu'à partir du 1er décembre [*date*].
+Le versement du solde ne sera exigible qu'à partir du 1er décembre.
+
+Les redevables peuvent, sous leur responsabilité, réduire le montant du solde de taxe professionnelle du montant du
+dégrèvement attendu du plafonnement de la taxe professionnelle due au titre de la même année, en remettant au comptable du
+Trésor chargé du recouvrement de la taxe professionnelle une déclaration datée et signée.
 
 Les contribuables doivent, un mois au moins avant l'échéance, être informés par l'administration du montant de l'acompte
 qu'ils auront à verser.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: )
-
 	**Cite**:
 
-	  - CGI 1664, 1478, 1647 B sexies
+	  - CGI 1478 1°
+	  - CGI 1664 2, 3, 1647 B sexies
 
 	**Modifié par**:
 
-	  - Loi n°93-859 1993-06-22 art. 3 II Finances rectificative pour 1993 JORF 23 juin 1993, modification directe incorporée dans l'édition du 18 août 1993
+	  - Loi n°93-859 1993-06-22 art. 3 I Finances rectificative pour 1993 JORF 23 juin 1993
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
 
 	**Cité par**:
 
@@ -41,3 +46,7 @@ qu'ils auront à verser.
 	  - Code général des impôts, CGI. - art. 1730 (V)
 	  - Code général des impôts, CGI. - art. 1731 B (V)
 	  - Code général des impôts, CGI. - art. 39 (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
