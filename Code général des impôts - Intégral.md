@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1984-11-29
+Version Consolidée au 1984-12-29
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -21269,6 +21269,57 @@ exploitations agricoles, dans des conditions fixées par décret (1).
 	  - Loi n°98-1266 1998-12-30 art. 39 I 4 JORF 31 décembre 1998
 
 
+###### Article 703
+
+Sous réserve des dispositions de l'article 1594 D, le taux de la la taxe de publicité foncière ou du droit d'enregistrement
+est réduit à 2 % pour les acquisitions de propriété en nature de bois et forêts, à la condition :
+
+1° Que l'acte constatant l'acquisition soit appuyé d'un certificat délivré sans frais par le directeur départemental de
+l'agriculture et de la forêt attestant que les bois et forêts acquis sont susceptibles d'aménagement ou d'exploitation
+régulière;
+
+2° Qu'il contienne l'engagement par l'acquéreur, pour lui et ses ayants cause, de soumettre, pendant trente ans *délai*, les
+bois et forêts, objet de la mutation, à un régime d'exploitation normale, dans les conditions déterminées par le décret du 28
+juin 1930.
+
+Pour les acquisitions de forêts entrant dans le champ d'application de l'article L 222-1, premier alinéa, du code forestier
+(1), cet engagement est remplacé :
+
+- soit par l'engagement d'appliquer pendant trente ans le plan simple de gestion déjà agréé par le centre régional de la
+propriété forestière et de ne le modifier qu'avec l'agrément de ce centre;
+
+- soit, si, au moment de la mutation, aucun plan simple de gestion n'est agréé pour la forêt en cause, par l'engagement d'en
+faire agréer un dans un délai de cinq ans à compter de la date de la mutation et de l'appliquer pendant trente ans dans les
+mêmes conditions que dans le cas précédent. Le bénéficiaire doit prendre, en outre, l'engagement d'appliquer à la forêt le
+régime d'exploitation normale prévu au décret du 28 juin 1930 pendant le délai où le plan simple de gestion de cette forêt
+n'aura pas été agréé par le centre.
+
+(1)  Les conditions d'application de l'article L 222-1 sont fixées par les articles R. 222-1 à R. 222-21 du code forestier.
+
+**Nota:**
+
+Nota : Les droits d'enregistrement et la taxe de publicité foncièr exigibles sur les mutations de propriété à titre onéreux
+d'immeubles ont été transférés aux départements dans les conditions fixées aux articles 1594 A à 1594 E (loi n° 83-1179 du 29
+décembre 1983, art. 28
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1594 D
+	  - Code forestier - art. L222-1 (M)
+	  - Code forestier R222-1 A Code forestier R222-21
+	  - Décret n°1930-06-28
+
+	**Modifié par**:
+
+	  - Décret n°84-1193 du 28 décembre 1984 - art. 1 (Ab) JORF 29 décembre 1984
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
 ###### Article 706
 
 Le taux de la taxe de publicité foncière ou du droit d'enregistrement est réduit à 0,60 % pour les ventes résultant de
@@ -32512,6 +32563,33 @@ sanctions. Leur champ d'application respectif est fixé par les articles 662 à 
 	**Abrogé par**:
 
 	  - Loi n°98-1266 1998-12-30 art. 39 I JORF 31 décembre 1998
+
+
+##### II : Régime spécial
+
+###### Article 1594 F
+
+Le taux de la taxe départementale de publicité foncière ou du droit départemental d'enregistrement est réduit à 6,40 % pour
+les acquisitions d'immeubles ruraux effectuées par les agriculteurs bénéficiaires de la dotation d'installation aux jeunes
+agriculteurs prévue à l'article 7 du décret n° 81-246 du 17 mars 1981 modifié, pour la fraction du prix ou de la valeur
+n'excédant pas 650.000 F [*limite*], quel que soit le nombre des acquisitions, sous réserve qu'elles interviennent au cours
+des quatre années suivant l'octroi de la dotation [*délai*], que l'acte précise la valeur des terres acquises depuis cette
+date par l'acquéreur ayant bénéficié du tarif réduit et soit appuyé d'un certificat délivré sans frais par le directeur
+départemental de l'agriculture et de la forêt précisant la date de l'octroi de la dotation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°81-246 1981-03-17 art. 7
+
+	**Modifié par**:
+
+	  - Décret n°84-1193 du 28 décembre 1984 - art. 1 (Ab) JORF 29 décembre 1984
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 #### Chapitre IV : Autres droits et taxes
