@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1984-07-10
+Version Consolidée au 1984-07-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -989,6 +989,58 @@ portée au compte des frais généraux, dans des conditions qui sont également 
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (M)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 D (V)
+
+
+###### Article 39 quinquies A
+
+1  Les entreprises qui font des investissements en immeubles en vue de réaliser des opérations de recherche scientifique ou
+technique répondant aux définitions fixées par décret en conseil d'Etat (1) peuvent pratiquer un amortissement exceptionnel
+égal à 50 % [*pourcentage*] du prix de revient de ces investissements dès la première année de leur réalisation. La valeur
+résiduelle des immeubles est amortissable sur leur durée normale d'utilisation.
+
+1 bis  (Disposition périmée).
+
+2  Les dispositions du 1 sont applicables :
+
+a  Aux actions acquises par les entreprises auprès des sociétés ou organismes publics ou privés agréés à cet effet par le
+ministre de l'économie et des finances;
+
+b  Aux souscriptions, effectuées en numéraire par les entreprises françaises, au capital agréé des sociétés financières
+d'innovation visées à l'article 4-III de la loi n° 72-650 du 11 juillet 1972.
+
+Toutefois, le taux de l'amortissement exceptionnel est porté à 75 % pour les souscriptions au capital dont le montant est
+affecté, à titre principal, au financement d'opérations tendant à la réalisation d'un programme de recherche et de mise en
+oeuvre industrielle de techniques ou de produits nouveaux et associant à la société financière d'innovation des entreprises
+et des chercheurs dans le cadre d'une convention approuvée par l'autorité compétente. Un décret fixe les modalités
+d'application du présent alinéa (2).
+
+(1) Annexe II, art. 16.
+
+(2) Décret à émettre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 16
+	  - Loi n°72-650 1972-07-11 ART. 4 III
+
+	**Modifié par**:
+
+	  - Loi n°84-578 1984-07-09 art. 5 I, III JORF 11 juillet 1984
+	  - Loi n°84-578 du 9 juillet 1984 - art. 5 (P) JORF 11 juillet 1984
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 223 L (V)
+	  - Code général des impôts, CGI. - art. 39 A (V)
+	  - Code général des impôts, CGI. - art. 39 quindecies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 16 (V)
+	  - Livre des procédures fiscales - art. L80 B (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
 
 
 ###### Article 39 quinquies C
@@ -4829,6 +4881,37 @@ l'article 294 du même code, sont soumises au même régime que les pensions ali
 
 ##### VI : Bénéfices des professions non commerciales
 
+##### A : Définition des bénéfices imposables
+
+##### Gains nets en capital réalisés à l'occasion de la cession à titre onéreux de valeurs mobilières et de droits sociaux.
+
+###### Article 92 G
+
+Les dispositions des articles 92 B et 92 F ne s'appliquent pas aux cessions et aux rachats de parts de fonds communs de
+placement à risques visées à l'article 163 quinquies B, réalisés par les porteurs de parts, remplissant les conditions fixées
+aux I et II de l'article précité, après l'expiration de la période mentionnée au I du même article, pour leur fraction
+représentative de titres cotés.
+
+Cette disposition n'est pas applicable si, à la date de la cession ou du rachat, le fonds a cessé de remplir les conditions
+énumérées à l'article 163 quinquies B-II-1°.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 quinquies B I, II 1°
+	  - CGI 92 B
+	  - CGI 92 F
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Loi n°84-578 1984-07-09 art. 6 II JORF 11 juillet 1984, rectificatif JORF 14 juillet 1984
+
+
 ##### C : Régimes d'imposition
 
 ##### 1 : Régime de la déclaration contrôlée.
@@ -7330,6 +7413,44 @@ société d'investissement à capital variable [*SICAV*].
 
 	  - TXT_ASSOCIE: Instruction 2000-06-27 13D-1-00
 	  - TXT_ASSOCIE: Instruction 2000-08-03 4I-2-00
+
+
+###### Article 210 D
+
+Les plus-values que peut faire apparaître une opération visée à l'article 48 de la loi n° 78-763 du 19 juillet 1978 portant
+statut des sociétés coopératives ouvrières de production [*SCOP*] sont imposables au nom de la société coopérative ouvrière
+de production dans les conditions suivantes :
+
+a. Les plus-values afférentes aux immobilisations non amortissables font l'objet d'un report de taxation jusqu'à la cession,
+à titre onéreux, de ces immobilisations par la société coopérative ouvrière de production. Ces plus-values sont calculées
+d'après la valeur qu'avaient, du point de vue fiscal, ces immobilisations dans le bilan de la société transformée ;
+
+b. Les plus-values afférentes aux autres immobilisations sont réintégrées, par cinquième, dans les excédents nets de gestion
+imposables sur une période de cinq ans suivant la transformation. En contrepartie, les amortissements et les plus-values
+ultérieurs afférents à ces immobilisations sont calculés d'après la valeur qui leur a été attribuée lors de l'opération visée
+au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Cite**:
+
+	  - Loi n°78-763 du 19 juillet 1978 - art. 48 (V)
+
+	**Créé par**:
+
+	  - Loi n°84-578 du 9 juillet 1984 - art. 10 (P) JORF 11 juillet 1984, rectificatif JORF 14 juillet 1984
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 54 septies (V)
 
 
 ###### Article 210 quinquies
@@ -34098,6 +34219,31 @@ prévue à l'alinéa qui précède ainsi que la forme et le contenu de cette dé
 	**Cite**:
 
 	  - CGIAN4 121 Z bis
+
+
+# ASSIETTE ET LIQUIDATION DE LA TAXE
+
+## IMPOTS D'ETAT
+
+### DROITS D'ENREGISTREMENT
+
+#### LES TARIFS ET LEUR APPLICATION.
+
+###### Article 834 bis
+
+Les actes constatant les apports mobiliers effectués dans les conditions prévues aux articles 83 bis et 160 A sont
+enregistrés gratuitement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 160 A
+	  - CGI 83 bis
+
+	**Créé par**:
+
+	  - Loi n°84-578 du 9 juillet 1984 - art. 14 () JORF 11 juillet 1984, rectificatif JORF 14 juillet 1984
 
 
 # Livre II : Recouvrement de l'impôt
