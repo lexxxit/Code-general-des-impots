@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1987-01-28
+Version Consolidée au 1987-02-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -24470,6 +24470,93 @@ Est interdit tout mélange à l'alcool éthylique des produits qui lui sont assi
 
 ##### II : Droit de consommation
 
+##### Tarifs.
+
+###### Article 403
+
+En dehors de l'allocation en franchise de 10 litres d'alcool pur accordée aux bouilleurs de cru, les alcools supportent un
+droit de consommation dont le tarif par hectolitre d'alcool pur est fixé à :
+
+I 1° 2.595 F [*montant*] pour les quantités ajoutées pour la préparation des vins mousseux, des vins doux naturels mentionnés
+à l'article 417 et des vins de liqueur visés à l'article 417 bis ;
+
+2° 4.495 F pour les rhums, à l'exclusion des rhums légers, et pour les crèmes de cassis ;
+
+3° 6.930 F pour les apéritifs à base de vin, de cidre ou de poiré, les vermouths et les vins de liqueur et assimilés ;
+
+4° 7.810 F pour tous les autres produits à l'exception de ceux mentionnés au II de l'article 406 A.
+
+II. (Périmé).
+
+III. 1. Les tarifs prévus au I-4° sont réduits de 700 F par hectolitre d'alcool pur, pour les petits producteurs d'eaux-de-
+vie, à concurrence de 15 hl d'alcool pur, maximum, livrés dans l'année sur le marché intérieur.
+
+2. Sont considérés comme petits producteurs les exploitants dont la production totale est inférieure à 50 hl d'alcool pur par
+an ou qui, distillant et vendant eux-mêmes à la consommation le seul produit de leur récolte, exploitent une superficie
+inférieure à 12 hectares (1).
+
+IV. A l'égard des alcools bénéficiant d'un tarif réduit, l'administration peut prescrire toutes mesures de contrôle,
+d'identification ou autres, afin d'assurer l'utilisation de ces alcools aux usages comportant l'application dudit tarif.
+
+(1) Les petits producteurs ne livrant pas eux-mêmes à la consommation bénéficient, sous certaines conditions, d'un
+remboursement compensatoire de droit égal à 700 F par hectolitre d'alcool pur (loi 81-1160 du 30 décembre 1981, article 38 II
+2 ; loi n° 82-1126 du 29 décembre 1982, art. 19).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°81-1160 1981-12-30 ART. 38 II 2 FINANCES POUR 1982
+	  - Loi n°82-1126 1982-12-29 ART. 19 FINANCES POUR 1983
+	  - CGI 360
+	  - CGI 406 A II 1°, 2°
+	  - CGI 417 Bis
+	  - Décret n°1930-01-31
+
+	**Modifié par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 20 (P) JORF 31 décembre 1985
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 9 () JORF 31 décembre 1986 en vigueur le 1er février 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 55 (VT)
+	  - Arrêté du 19 décembre 2008 (V)
+	  - Arrêté du 19 décembre 2008 - art. 1 (V)
+	  - Arrêté du 29 décembre 2008 (V)
+	  - Arrêté du 19 octobre 2009 - art. 1 (V)
+	  - Arrêté du 7 novembre 2011 - art. 9 (V)
+	  - Arrêté du 22 décembre 2011 - art. 1 (V)
+	  - Arrêté du 15 décembre 2012 (V)
+	  - Arrêté du 15 décembre 2012 - art. 1 (V)
+	  - Arrêté du 29 décembre 2013 (V)
+	  - Arrêté du 29 décembre 2013 - art. 1 (V)
+	  - Arrêté du 19 décembre 2014 - art. 1 (V)
+	  - Arrêté du 18 décembre 2015 (V)
+	  - Arrêté du 18 décembre 2015 - art. 1 (V)
+	  - Décret n°2016-1585 du 24 novembre 2016 (V)
+	  - Code de commerce - art. L443-1 (V)
+	  - Code de commerce - art. L914-2 (V)
+	  - Code de commerce - art. L924-6 (V)
+	  - Code de commerce - art. L954-7 (V)
+	  - Code général des impôts annexe 1, CGIAN1. - art. 59 (V)
+	  - Code général des impôts, CGI. - art. 1698 C (VD)
+	  - Code général des impôts, CGI. - art. 1698 D (M)
+	  - Code général des impôts, CGI. - art. 302 B (VD)
+	  - Code général des impôts, CGI. - art. 302 D (V)
+	  - Code général des impôts, CGI. - art. 317 (V)
+	  - Code général des impôts, CGI. - art. 406 quinquies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H septies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 169-0 A (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 C (V)
+	  - Code rural - art. L731-3 (V)
+	  - Code rural - art. L732-58 (V)
+
+
 ##### Assiette.
 
 ###### Article 404
@@ -24548,6 +24635,40 @@ particulier non récoltant en cas de changement de cave ou de domicile.
 
 
 ##### II bis : Droit de fabrication.
+
+###### Article 406 A
+
+Les produits alcooliques ci-après supportent un droit de fabrication dont le tarif par hectolitre d'alcool pur est fixé à :
+
+I. 1° et 2° (Abrogés).
+
+II. 1° 790 F pour les produits de parfumerie et de toilette ;
+
+2° 300 F pour les produits à base d'alcool ayant un caractère exclusivement médicamenteux ou impropre à la consommation de
+bouche, figurant sur une liste établie par arrêté du ministre de l'économie et des finances (1).
+
+3° 405 F pour les alcools et les produits à base d'alcool impropres à la consommation en l'état qui sont utilisés, pour
+élaborer des produits destinés à l'alimentation humaine, dans les conditions et selon des modalités déterminées par décret
+(2).
+
+III. (Périmé).
+
+(1) Annexe IV, art. 53 et 54.
+
+(2) Annexe III, art. 169 A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 169 A
+	  - CGIAN4 53
+	  - CGIAN4 54
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 9 () JORF 31 décembre 1986, en vigueur le 1er février 1987
+
 
 ###### Article 406 B
 
@@ -27340,6 +27461,52 @@ prendre en application du traité instituant cette Communauté et compte tenu du
 	**Abrogé par**:
 
 	  - Décret n°95-6 du 4 janvier 1995 - art. 1 (V) JORF 5 janvier 1995
+
+
+##### Section III : Taxe sur les allumettes et les briquets.
+
+###### Article 586
+
+Il est créé une taxe sur les allumettes et les briquets commercialisés en France continentale et en Corse (1).
+
+Elle est due par le fabricant ou l'importateur.
+
+Les taux de la taxe sont fixés comme suit :
+
+DESIGNATION : Boîtes ou pochettes de 100 allumettes au plus
+
+PAR UNITE : 0,02 F
+
+DESIGNATION : Briquets à flamme ou recharges de briquets
+
+PAR UNITE : 0,50 F
+
+La taxe est liquidée chaque mois d'après les quantités livrées sur le marché intérieur au cours du mois précédent. Elle est
+acquittée au plus tard [*date du paiement*] le 5 du mois suivant celui de la liquidation.
+
+Elle est recouvrée selon les conditions, garanties et sanctions prévues en matière de contributions indirectes. A
+l'importation, elle est recouvrée comme en matière de douane.
+
+Un décret précise les conditions d'application du présent article, notamment les obligations déclaratives des fabricants et
+importateurs (2).
+
+(1) Taxe applicable à compter du 1er février 1987.
+
+(2) Annexe III, art. 222 à 228.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 222 à CGIAN3 228
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 40 (V) JORF 31 décembre 1986, en vigueur le 1er février 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
 
 
 #### Chapitre V : Dispositions communes à l'ensemble des contributions indirectes
@@ -53338,6 +53505,33 @@ de chèque en blanc, payables à leur caisse, doivent, sous peine, pour chaque c
 	  - HISTO: Edition du 11 avril 1997
 
 
+###### Article 1840 N
+
+Sauf application des sanctions prévues aux articles 1725, 1726 et 1729 pour inexactitude ou omission soit au répertoire, soit
+à l'extrait de répertoire, dont il est fait mention aux articles 982 et 983, toute infraction aux dispositions du présent
+code ou à celles des textes d'application qui régissent le droit de timbre des opérations de bourse de commerce ou des
+valeurs, est punie d'une amende de 5 F à 50 F.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1725, 1726, 1729, 982, 983
+
+	**Liens**:
+
+	  - HISTO: Edition 15 juillet 1988
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+	  - Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988, en vigueur le 1er février 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
 ###### Article 1840 N quinquies
 
 Conformément à l'article L. 314-9 du code forestier, tout défrichement effectué en infraction aux dispositions des articles
@@ -56689,24 +56883,6 @@ articles 1727 à 1731 et 1840 H.
 	  - CGI 1730
 	  - CGI 1731
 	  - CGI 1840 H
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1840 N
-
-Sauf application des sanctions prévues aux articles 1725, 1726 et 1731 pour inexactitude ou omission soit au répertoire, soit
-à l'extrait du répertoire, dont il est fait mention aux articles 982, 983, 986 et 988, toute infraction aux dispositions du
-présent code ou à celles des textes d'application qui régissent le droit de timbre des opérations de bourse de commerce ou
-des valeurs, est punie d'une amende de 5 F à 50 F [*montant*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1725, 1726, 1731, 983, 986, 988, 982
 
 	**Liens**:
 
