@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1981-03-21
+Version Consolidée au 1981-03-27
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2435,6 +2435,38 @@ l'alinéa précédent et il doit en être justifié par l'établissement émette
 
 
 
+##### 3° : Crédit mutuel et coopération agricoles
+
+###### Article 130
+
+Les dispositions relatives à la retenue à la source ne s'appliquent :
+
+1° Ni aux parts d'intérêt des sociétés ou unions de sociétés coopératives agricoles désignées aux articles L 521-1 et
+suivants du code rural, ainsi que des sociétés d'intérêt collectif agricole ayant bénéficié des avances de l'Etat, ni aux
+emprunts négociables ou obligations émis par les mêmes sociétés avant le 1er janvier 1965 ;
+
+2° Ni aux parts d'intérêt des sociétés de crédit agricole mutuel visées au livre V du code rural, ni aux emprunts négociables
+ou obligations émis par ces sociétés avant le 1er janvier 1965.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L521-1 ET S.
+
+	**Modifié par**:
+
+	  - Décret n°81-277 1981-03-18 ART. 2, ART. 3 JORF 27 MARS 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er juillet 1981
+
+
 ##### 5° : Obligations négociables - Régimes spéciaux
 
 ###### Article 131 ter
@@ -4517,6 +4549,33 @@ n° 63-254 du 15 mars 1963 ne peut, en aucun cas, donner droit au bénéfice des
 	  - CGI 43 bis
 	  - Ordonnance 58-876 1958-09-24
 	  - Loi n°63-254 1963-03-15
+
+
+###### Article 217 quater
+
+Les sommes correspondant à la part du bénéfice réalisé par les sociétés mixtes d'intérêt agricole qui est affectée aux
+fournisseurs ou clients ayant la qualité d'agriculteur ou d'organisme mentionné à l'article L 541-1 du code rural, au prorata
+des opérations effectuées par chacun d'eux, sont réparties en franchise d'impôt sur les sociétés lorsque ces derniers sont
+associés ou membres d'un des organismes visés à l'article précité, lui-même associé et dans la mesure où elles proviennent
+d'opérations faites avec eux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L541-1
+
+	**Modifié par**:
+
+	  - Décret n°81-276 1981-03-18 ART. 3, ART. 5 JORF 27 MARS 1981
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
 
 
 ###### Article 217 sexies
@@ -26386,28 +26445,6 @@ une émission publique d'actions.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 130
-
-Les dispositions relatives à la retenue à la source ne s'appliquent :
-
-1° Ni aux parts d'intérêt des sociétés ou unions de sociétés coopératives agricoles visées par le décret n° 59-286 du 4
-février 1959, modifié, ainsi que des sociétés d'intérêt collectif agricole ayant bénéficié des avances de l'Etat, ni aux
-emprunts négociables ou obligations émis par les mêmes sociétés avant le 1er janvier 1965 ;
-
-2° Ni aux parts d'intérêt des sociétés de crédit agricole mutuel visées au livre V du code rural, ni aux emprunts négociables
-ou obligations émis par ces sociétés avant le 1er janvier 1965.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°59-286 1959-02-04
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 131
 
 Sont affranchis de la retenue à la source [*exonération*] :
@@ -34733,25 +34770,6 @@ l'impôt sur les sociétés que pour les deux tiers de leur montant [*abattement
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 217 quater
-
-Les sommes correspondant à la part du bénéfice réalisé par les sociétés mixtes d'intérêt agricole qui est affectée aux
-fournisseurs ou clients ayant la qualité d'agriculteur ou d'organisme visé à l'article 15 de l'ordonnance n° 67-813 du 26
-septembre 1967, au prorata des opérations effectuées par chacun d'eux, sont réparties en franchise d'impôt sur les sociétés
-[*exonération*] lorsque ces derniers sont associés ou membres d'un des organismes visés à l'article 15 de l'ordonnance
-précitée, lui-même associé et dans la mesure où elles proviennent d'opérations faites avec eux [*conditions*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - Ordonnance n°67-813 du 26 septembre 1967 - art. 15, v. init.
 
 
 ###### Article 217 quinquies
@@ -49029,6 +49047,36 @@ dispositions sont soumises à une imposition fixe de 40 F [*montant*].
 	  - Code général des impôts, CGI. - art. 1133 ter (V)
 
 
+###### Article 1030
+
+Les actes, pièces et écrits de toute nature concernant les sociétés coopératives agricoles de céréales et leurs unions sont
+exonérés de tous droits de timbre autres que le droit de timbre de quittances.
+
+Sous réserve des dispositions de l'article 1020, ils sont également exonérés de tous droits d'enregistrement.
+
+Les moulins coopératifs, les coopératives agricoles de meunerie et de meunerie-boulangerie créés et fonctionnant sous le
+régime prévu par le titre II du livre V (nouveau) du code rural, relatif aux sociétés coopératives agricoles sont considérés
+comme coopératives de blé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1020
+
+	**Modifié par**:
+
+	  - Décret n°81-277 1981-03-18 ART. 2, ART. 3 JORF 27 MARS 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1020 (V)
+
+
 ##### AGRICULTURE.
 
 ###### Article 1024
@@ -49098,32 +49146,6 @@ Les dispositions du présent article sont applicables dans les départements d'o
 	  - Décret n°61-610 1961-06-14
 	  - Décret n°64-865 1964-08-20
 	  - Décret n°78-1072 1978-11-08
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 1020 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1030
-
-Les actes, pièces et écrits de toute nature concernant les sociétés coopératives agricoles de céréales et leurs unions sont
-exonérés de tous droits de timbre autres que le droit de timbre de quittances.
-
-Sous réserve des dispositions de l'article 1020, ils sont également exonérés de tous droits d'enregistrement.
-
-Les moulins coopératifs, les coopératives agricoles de meunerie et de meunerie-boulangerie créés et fonctionnant sous le
-régime prévu par le décret n° 59-286 du 4 février 1959 modifié sont considérés comme coopératives de blé.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1020
-	  - Décret n°59-286 1959-02-04
 
 	**Cité par**:
 
@@ -49283,12 +49305,12 @@ transmission de biens meubles ou immeubles entre les associés ou autres personn
 Les pouvoirs en vue de la représentation aux assemblées générales sont dispensés du timbre.
 
 Les sociétés anonymes d'habitations à loyer modéré ne sont admises au bénéfice des exonérations qui précèdent, qu'autant
-qu'elles remplissent les conditions énumérées aux articles L 422-2 et L 422-5 et suivants du code de la construction et de
+qu'elles remplissent les conditions énumérées aux articles L422-2 et L422-5 et suivants du code de la construction et de
 l'habitation.
 
 II. - Ces dispositions sont applicables :
 
-1° Aux sociétés de bains-douches et aux organismes de jardins familiaux visés aux articles 610 à 613 du code rural;
+1° Aux sociétés de bains-douches et aux organismes de jardins familiaux visés aux articles L561-1 et L561-2 du code rural ;
 
 2° Aux sociétés coopératives artisanales ainsi qu'aux groupements de ces mêmes coopératives visés à l'article 64 du code de
 l'artisanat.
@@ -49303,16 +49325,19 @@ leurs membres bénéficient des exonérations fiscales prévues au I.
 	  - CGI 809 I 1°
 	  - CGI 827 I
 	  - Code de l'artisanat - art. 64 (Ab)
-	  - Code de la construction L411-1 A Code de la construction L481-1
 	  - Code de la construction L422-2
 	  - Code de la construction L422-5
-	  - Code de la construction R411-1 A Code de la construction R461-30
-	  - Code rural 610 A Code rural 613
+	  - Code rural L561-1
+	  - Code rural L561-2
 	  - Loi n°1932-08-02 ART. 1
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°81-276 1981-03-18 ART. 3, ART. 5 JORF 27 MARS 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 ##### ETABLISSEMENTS FINANCIERS.
