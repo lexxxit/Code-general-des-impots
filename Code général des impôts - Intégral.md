@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1983-12-15
+Version Consolidée au 1983-12-28
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -36341,6 +36341,27 @@ du Trésor, et le privilège créé au profit des taxes communales, immédiateme
 	  - Code général des impôts, CGI. - art. 1923 (V)
 
 
+### Section III : Contributions indirectes
+
+###### Article 1928
+
+Les fournisseurs de tabacs visés à l'article 565, les fabricants de spiritueux composés, de boissons à base de céréales, de
+produits médicamenteux et de parfumerie ainsi que les expéditeurs de boissons sont, en ce qui concerne les droits de
+fabrication, de consommation et de circulation, subrogés au privilège conféré à l'administration par l'article 1927 pour le
+recouvrement des droits qu'ils ont payés pour le compte de leurs clients, sans toutefois que cette subrogation puisse
+préjudicier aux droits et privilèges de l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1927, 565
+
+	**Modifié par**:
+
+	  - Loi n°83-1159 du 24 décembre 1983 - art. 16 () JORF 28 décembre 1983
+
+
 ### Section V : Dispositions communes
 
 ###### Article 1929 sexies
@@ -39832,24 +39853,6 @@ privilège de même rang.
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1928 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1928
-
-Les fabricants de spiritueux composés, de boissons à base de céréales, de produits médicamenteux et de parfumerie ainsi que
-les expéditeurs de boissons sont, en ce qui concerne les droits de fabrication, de consommation et de circulation, subrogés
-au privilège conféré à l'administration par l'article 1927 pour le recouvrement des droits qu'ils ont payés pour le compte de
-leurs clients, sans toutefois que cette subrogation puisse préjudicier aux droits et privilèges de l'administration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1927
 
 	**Liens**:
 
