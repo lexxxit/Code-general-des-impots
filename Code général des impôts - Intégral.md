@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1992-07-18
+Version Consolidée au 1992-07-19
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -36607,9 +36607,14 @@ est appliquée.
 
 2  Pour l'application de la taxe sur la valeur ajoutée, les départements de la Guadeloupe, de la Martinique et de la Réunion,
 d'une part, et la France métropolitaine d'autre part, sont considérés respectivement comme territoires d'exportation. Il en
-est de même pour chacun de ces trois départements par rapport aux deux autres.
+est de même pour le département de la Réunion par rapport aux départements de la Guadeloupe ou de Martinique.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°92-676 1992-07-17 art. 12 1 JORF 19 juillet 1992
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 	**Cité par**:
 
@@ -36617,10 +36622,6 @@ est de même pour chacun de ces trois départements par rapport aux deux autres.
 	  - Code général des impôts, CGI. - art. 277 A (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 85 E (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 85 F (VD)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 295
@@ -40904,6 +40905,26 @@ Les dispositions du présent chapitre ne font pas échec aux dispositions spéci
 cidres, poirés et hydromels par les textes en vigueur, à l'égard des départements de la Corse, du Bas-Rhin, du Haut-Rhin et
 de la Moselle.
 
+
+
+###### Article 519
+
+A l'égard des formalités à la circulation prévues par la réglementation des contributions indirectes, les départements de la
+Guadeloupe, de la Guyane, de la Martinique et de la Réunion, d'une part, et la France métropolitaine, d'autre part, sont
+considérés respectivement comme territoires d'exportation.
+
+Il en est de même pour chacun de ces quatre départements par rapport aux trois autres sauf entre la Guadeloupe et la
+Martinique.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Loi n°92-676 1992-07-17 art. 12 2 JORF 19 juillet 1992
 
 
 ##### VII : Importations
