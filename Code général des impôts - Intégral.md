@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1988-02-01
+Version Consolidée au 1988-03-02
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18666,6 +18666,27 @@ pour le dépôt de la déclaration. Au-delà d'un mois de retard, la demande est
 	  - Décret n°86-1086 1986-10-07
 
 
+###### Article 230 A
+
+En cas de cession ou de cessation d'entreprise, ainsi que dans le cas de décès de l'exploitant, le préfet arrête le montant
+des exonérations auxquelles peut prétendre l'employeur. Ce montant est ultérieurement rectifié, s'il y a lieu, conformément à
+la décision du comité départemental.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+
 ###### Article 230 B
 
 La taxe d'apprentissage est due pour les établissements situés dans les départements du Bas-Rhin, du Haut-Rhin et de la
@@ -29409,6 +29430,43 @@ fixées par décret.
 
 ##### I : Déclarations
 
+##### 2° : Stocks
+
+###### Article 408
+
+La déclaration des stocks restant dans les caves des producteurs doit être souscrite, chaque année, avant le 1er septembre,
+dans les mêmes conditions que celles prévues à l'article 407 (1).
+
+**Nota:**
+
+(1) Voir l'article 267 octies de l'annexe II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 du 20 octobre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 30 mai 2013 - art. 1
+	  - Décret n°2013-443 du 30 mai 2013 - art. 12 (VD)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
+	  - Arrêté du 19 janvier 2017 (V)
+	  - Arrêté du 19 janvier 2017 - art. 1
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 213 (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 214 (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 215 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1247 du 7 octobre 2015 - art. 4
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 407
+
+
 ##### 3° : Dispositions communes
 
 ###### Article 410 bis
@@ -31205,6 +31263,49 @@ domicile ou déposés dans un local agréé par l'administration (1).
 
 ##### II : Dispositions générales
 
+##### Conditions d'exercice de la profession de distillateur.
+
+###### Article 311 bis
+
+La profession de distillateur ne peut s'exercer que dans un établissement fixe. Toutefois, des dérogations individuelles
+peuvent être accordées par arrêté du préfet sur proposition du directeur des services fiscaux. Les bénéficiaires desdites
+dérogations sont soumis aux obligations prévues aux articles 327 à 331. Les conditions de délivrance et de retrait des
+dérogations sont fixées par arrêté du ministre de l'économie et des finances (1).
+
+1) Annexe IV, art. 51 bis à 51 sexies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 327
+	  - CGI 328
+	  - CGI 329
+	  - CGI 330
+	  - CGI 331
+	  - CGIAN4 51 bis
+	  - CGIAN4 51 quater
+	  - CGIAN4 51 quinquies
+	  - CGIAN4 51 sexies
+	  - CGIAN4 51 ter
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1813 (V)
+	  - Code général des impôts, CGI. - art. 310 bis (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 sexies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 51 A (V)
+
+
 ##### Déclarations.
 
 ###### Article 312
@@ -31824,6 +31925,66 @@ Les impositions prévues aux articles 403 et 406 A sont applicables en Corse.
 ##### Section II : Vins et cidres
 
 ##### A : Production
+
+##### I : Déclarations
+
+##### Récolte.
+
+###### Article 407
+
+Sans préjudice des obligations imposées par la loi du 6 mai 1919, par le décret du 30 juillet 1935 ou les textes subséquents
+relatifs à la protection des appellations d'origine, chaque année, après la récolte de raisins, tout propriétaire, fermier,
+métayer produisant du vin doit déposer à la mairie de la commune du siège de son exploitation la déclaration prévue par le
+règlement n° 3929-87 de la Commission des communautés européennes du 17 décembre 1987.
+
+Dans chaque département, le délai dans lequel doivent être faites les déclarations est fixé annuellement par le préfet après
+avis du conseil général, à une époque aussi rapprochée que possible de la fin des vendanges et écoulages et au plus tard le
+25 novembre.
+
+En ce qui concerne les déclarations relatives aux vins à appellation d'origine contrôlée, un arrêté spécial fixera ce délai
+après avis du conseil général et de la chambre d'agriculture et après consultation des organisations professionnelles
+viticoles représentant les viticulteurs intéressés.
+
+Sous aucun prétexte, les récoltants ne peuvent être autorisés, soit individuellement, soit collectivement, à déclarer leur
+récolte après la date fixée par l'arrêté du préfet (1).
+
+(1) Voir annexe II, art. 267 octies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 267 octies
+	  - Décret n°1935-07-30
+	  - Loi n°1919-05-06
+	  - Loi n°1934-12-24 ART. 6
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Arrêté du 16 décembre 2008 - art. 1 (Ab)
+	  - Arrêté du 16 février 2009 - art. 16 bis (V)
+	  - Arrêté du 31 juillet 2009 (V)
+	  - Arrêté du 31 juillet 2009 - art. 9 (V)
+	  - Arrêté du 6 juillet 2010 - art. 17 (V)
+	  - Arrêté du 6 juillet 2010 - art. 9 (V)
+	  - Décret n°2015-1577 du 2 décembre 2015 - art. 2 (V)
+	  - Décret n°2016-292 du 11 mars 2016 - art. 4 (V)
+	  - Décret n°2016-1586 du 24 novembre 2016 (V)
+	  - Code général des impôts, CGI. - art. 408 (Ab)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 D (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 169 bis (Ab)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 C (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 E (V)
+
 
 ##### II : Vinage.
 
@@ -50781,6 +50942,79 @@ application des résultats de la révision.
 
 ##### II : Évaluation des propriétés non bâties
 
+##### A : Dispositions générales
+
+###### Article 1509
+
+I. La valeur locative des propriétés non bâties établie en raison du revenu de ces propriétés résulte des tarifs fixés par
+nature de culture et de propriété, conformément aux règles tracées par l'instruction ministérielle du 31 décembre 1908.
+
+II. Pour le calcul de la valeur locative, les pépinières exploitées sur terrains non aménagés doivent être comprises dans la
+catégorie des "terres" à la classe correspondant aux caractéristiques du terrain.
+
+III. La valeur locative prise en compte pour le calcul de la taxe foncière afférente aux bois, aux landes et aux étangs ainsi
+qu'aux terres utilisées principalement pour la chasse et n'appartenant pas à une commune ou un groupement de communes, inclut
+celle du droit de chasse effectivement perçu sur ces propriétés à moins :
+
+- que ce droit n'ait été apporté à une association communale ou intercommunale de chasse agréée ;
+
+- ou que la propriété n'ait été classée en réserve naturelle ou en réserve de chasse agréée.
+
+IV. Les terres incultes ou manifestement sous-exploitées figurant à l'état prévu à l'article 40 du code rural sont inscrites
+dans la catégorie des meilleures terres labourables jusqu'à leur mise en exploitation. Cette disposition prend effet à la
+date à laquelle le préfet informe le propriétaire, en application du I de l'article 40 du code rural, des demandes
+d'attribution formulées conformément à cet article. Toutefois, la mise en recouvrement des sommes complémentaires résultant
+de cette inscription n'intervient que si, dans le délai de trois ans à compter de cette information, et à défaut d'accord
+amiable entre les intéréssés, le commissaire de la République attribué à l'un des demandeurs l'autorisation d'exploiter. En
+outre, il est procédé au remboursement des sommes ainsi perçues si l'arrêté du préfet est annulé par le tribunal
+administratif, ou si l'attributaire n'a pas procédé à la mise en exploitation dans le délai d'un an à compter de
+l'attribution.
+
+Ces dispositions ne sont pas applicables aux fonds en nature de bois à la date de la mise en demeure prévue par l'article L
+321-11 du code forestier.
+
+V. Les terrains autres que ceux classés dans la catégorie fiscale des terrains à bâtir et dont la cession entre dans le champ
+d'application de l'article 257-7 sont imposés à la taxe foncière sur les propriétés non bâties en tant que terrains à bâtir,
+au titre de l'année de la cession et des deux années précédentes, à l'exception des années antérieures à 1980. Leur valeur
+locative est déterminée en appliquant à la moitié du prix de cession le taux d'intérêt retenu pour l'évaluation des terrains
+à bâtir. Les taux applicables au profit de chaque collectivité bénéficiaire sont ceux constatés dans la commune au titre de
+l'année ayant précédé la cession.
+
+La taxe foncière sur les propriétés non bâties acquittée au titre des années mentionnées au premier alinéa s'impute sur cette
+imposition. L'imposition définie au premier alinéa est due par le cédant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 257 7°
+	  - Code rural 40 I
+	  - Code forestier - art. L321-11 (M)
+	  - Instruction 1908-12-31 MINISTERIELLE
+
+	**Modifié par**:
+
+	  - Loi n°87-565 du 22 juillet 1987 - art. 29 () JORF 23 juillet 1987
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R262-22-1 (VT)
+	  - Code de l'action sociale et des familles - art. R262-74 (VD)
+	  - Code de la sécurité sociale. - art. R524-15-1 (VT)
+	  - Code de la sécurité sociale. - art. R524-4 (VT)
+	  - Code de la sécurité sociale. - art. R553-3-1 (V)
+	  - Code de la sécurité sociale. - art. R861-15-1 (V)
+	  - Code de la sécurité sociale. - art. R861-6 (V)
+	  - Code forestier (nouveau) - art. L133-10 (VD)
+	  - Code général des impôts, CGI. - art. 1396 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 333 I (V)
+
+
 ##### B : Procédure d'évaluation
 
 ##### 1 : Règles permanentes
@@ -52215,6 +52449,49 @@ les communes, dans les conditions fixées par arrêté ministériel (1).
 
 ##### Section II : Taxes facultatives
 
+##### II : Surtaxe sur les eaux minérales
+
+###### Article 1582
+
+Les communes sur le territoire desquelles sont situées des sources d'eaux minérales peuvent percevoir une surtaxe dans la
+limite de 0,020 F [*montant*] par litre ou fraction de litre (1).
+
+Lorsque le produit de cette surtaxe excède le montant des ressources ordinaires de la commune pour l'exercice précédent, le
+surplus est attribué au département.
+
+Toutefois, lorsque les communes qui perçoivent cette surtaxe exécutent, après avis favorable du préfet des travaux
+d'assainissement entrant dans la catégorie de ceux prévus à l'article L 141-2 du code des communes, elles conservent, à
+concurrence de la moitié au maximum du surplus ci-dessus visé, les sommes nécessaires pour porter les ressources qu'elles
+retirent de la surtaxe au montant, soit des travaux approuvés, s'ils sont payés directement par les communes, soit des
+charges des emprunts contractés par elles pour leur exécution.
+
+Les conditions générales d'assiette prévues par le présent code en matière de taxes sur le chiffre d'affaires sont
+applicables à la surtaxe susvisée.
+
+(1) Limite applicable à compter du 1er septembre 1985.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L2334-4 (V)
+	  - Code général des collectivités territoriales - art. L2336-2 (V)
+	  - Code général des impôts, CGI. - art. 1698 A (V)
+	  - Code général des impôts, CGI. - art. 1698 D (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L141-2 (Ab)
+
+
 ##### III : Taxe sur les jeux de boules et de quilles comportant des dispositifs électromécaniques
 
 ###### Article 1582 bis
@@ -52960,6 +53237,44 @@ Les dispositions des deux alinéas précédents ne sont pas applicables au droit
 	  - Code général des impôts, CGI. - art. 683 (V)
 
 
+###### Article 1594 E
+
+Le préfet notifie les nouveaux taux aux services fiscaux du département avant le 30 avril de chaque année [*date limite*].
+Les décisions prennent effet le 1er juin. A défaut de vote ou en cas de non-respect des règles énoncées à l'article 1594 D,
+les taux en vigueur sont reconduits.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1594 D
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 38 (V)
+	  - Code général des impôts, CGI. - art. 1137 (V)
+	  - Code général des impôts, CGI. - art. 1584 ter (V)
+	  - Code général des impôts, CGI. - art. 1594 F sexies (V)
+	  - Code général des impôts, CGI. - art. 1594 F ter (VT)
+	  - Code général des impôts, CGI. - art. 1594 G (M)
+	  - Code général des impôts, CGI. - art. 1594 H (V)
+	  - Code général des impôts, CGI. - art. 1594 H bis (V)
+	  - Code général des impôts, CGI. - art. 1594 H-0 bis (M)
+	  - Code général des impôts, CGI. - art. 1594 I (M)
+	  - Code général des impôts, CGI. - art. 1594 I bis (M)
+	  - Code général des impôts, CGI. - art. 1594 I ter (V)
+	  - Code général des impôts, CGI. - art. 1594 J (V)
+	  - Code général des impôts, CGI. - art. 1594 J bis (V)
+
+
 ##### II : Régime spécial
 
 ###### Article 1594 F
@@ -53226,6 +53541,39 @@ Chacun de ces coefficients multiplicateurs peut être modifié dans la limite de
 	  - Loi - art. 6 (V)
 
 
+###### Article 1599 H
+
+Le préfet notifie les nouveaux tarifs aux directeurs des services fiscaux concernés avant le 30 avril de chaque année. A
+défaut de délibération du conseil général ou en cas de non-respect des règles fixées au premier alinéa et à l'article 1599 G,
+les tarifs afférents à la période d'imposition précédente sont applicables de plein droit.
+
+**Nota:**
+
+Loi 2005-1719 2005-12-30 art. 14 VI :
+
+"Les dispositions prévues aux II, III, IV et VIII s'appliquent à compter de la période d'imposition s'ouvrant le 1er décembre
+2006."
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1599 G
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
+
+
 ###### Article 1599 I
 
 Pour les véhicules ayant moins de cinq ans d'âge, les tarifs applicables, majorés des frais d'assiette et de recouvrement
@@ -53268,6 +53616,50 @@ département d'immatriculation du véhicule.
 	**Liens**:
 
 	  - HISTO: Edition du 15 juillet 1985
+
+
+### Titre II bis : Impositions perçues au profit des régions et de la collectivité territoriale de Corse
+
+#### Chapitre II : Enregistrement, publicité foncière et timbre
+
+##### Section II : Taxe différentielle sur les véhicules à moteur perçue au profit de la collectivité territoriale de Corse
+
+###### Article 1599 duodecies
+
+Le préfet notifie les nouveaux tarifs aux directions des services fiscaux concernées avant le 30 avril de chaque année.
+
+A défaut de délibération de l'assemblée ou en cas de non-respect des règles fixées au premier alinéa et aux articles 1599
+decies et 1599 undecies, les tarifs applicables sont les tarifs retenus au titre de la précédente période d'imposition (1).
+
+(1) Toutefois, à compter de la période d'imposition s'ouvrant le 1er décembre 1988, le tarif des voitures particulières d'une
+puissance fiscale de 15 et 16 CV est déterminé en appliquant le coefficient de 11,5 au tarif de la période d'imposition
+précédente pour les véhicules ayant moins de cinq ans d'âge et d'une puissance fiscale inférieure ou égale à 4 CV.
+
+**Nota:**
+
+NOTA : Loi 2005-1719 2005-12-30 art. 14 VI Finances pour 2006 :
+
+Les dispositions prévues aux II, III, IV et VIII s'appliquent à compter de la période d'imposition s'ouvrant le 1er décembre
+2006.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1599 decies, 1599 undecies
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
 
 
 ### Titre II bis : Impositions régionales
@@ -57364,6 +57756,77 @@ commissions prévues aux articles 1651 à 1652 bis sont fixés par décret (1).
 	  - CGIAN3 345 à 348
 
 
+##### V : Commission départementale de Conciliation.
+
+###### Article 1653 A
+
+I. Il est institué, dans chaque département, une commission de conciliation composée :
+
+1° D'un magistrat du siège, désigné par arrêté du ministre de la justice, qui assure les fonctions de président;
+
+2° Du directeur des services fiscaux ou de son délégué;
+
+3° De trois fonctionnaires de la direction générale des impôts ayant au moins le grade d'inspecteur principal;
+
+4° D'un notaire désigné par la ou les chambres de notaires du département, ou de son suppléant;
+
+5° De trois représentants des contribuables, savoir :
+
+Un titulaire et deux suppléants désignés par la ou les chambres de commerce et d'industrie parmi les commerçants ou
+industriels, ou anciens commerçants ou industriels, éligibles aux tribunaux de commerce; si ce titulaire n'appartient pas à
+la profession exercée par le contribuable dont la situation est examinée, celui-ci peut demander son remplacement par un
+représentant de l'une des organisations professionnelles dont il fait partie ;
+
+Un titulaire et deux suppléants désignés par les fédérations départementales des syndicats d'exploitants agricoles du
+département, parmi les propriétaires ruraux passibles de l'impôt sur les bénéfices de l'exploitation agricole. Lorsqu'il
+existe dans un département plusieurs fédérations de syndicats d'exploitants agricoles, les membres de la commission sont
+nommés par le préfet, sur proposition de ces fédérations;
+
+Un titulaire et deux suppléants choisis par la ou les chambres syndicales de propriétaires du département.
+
+Les représentants ainsi désignés doivent être de nationalité française, âgés de vingt-cinq ans au moins et jouir de leurs
+droits civils.
+
+II. Un inspecteur des impôts remplit les fonctions de secrétaire et assiste aux séances avec voix consultative.
+
+III. Les membres non fonctionnaires de la commission sont nommés pour un an et leur mandat est renouvelable. Ils sont soumis
+aux obligations du secret professionnel.
+
+IV. La commission se réunit sur la convocation du directeur des services fiscaux.
+
+La commission délibère valablement, à condition qu'il y ait au moins cinq membres présents, y compris le président. En cas de
+partage des voix, celle du président est prépondérante.
+
+**Nota:**
+
+Nota : Voir annexe III, art. 349 à 350 C
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - CGIAN3 349
+	  - CGIAN3 350 A
+	  - CGIAN3 350 B
+	  - CGIAN3 350 C
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1653 BA (V)
+	  - Code général des impôts, CGI. - art. 1732 (V)
+	  - Code général des impôts, CGI. - art. 1753 (VD)
+	  - Code général des impôts, CGI. - art. 667 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 A (V)
+
+
 ##### V : Commission départementale de Conciliation (Voir les articles 349 à 350 C de l'annexe III)
 
 ###### Article 1653 B
@@ -57469,6 +57932,45 @@ La Banque de France acquitte les impôts dans les conditions de droit commun.
 	**Modifié par**:
 
 	  - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 décembre 1982, en vigueur le 1er janvier 1983
+
+
+##### II : Cercles privés
+
+###### Article 1655
+
+Les personnes qui, sous le couvert d'associations régies par la loi du 1er juillet 1901 ou par la loi locale maintenue en
+vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, servent des repas, vendent des boissons à consommer
+sur place ou organisent des spectacles ou divertissements quelconques sont soumises à toutes les obligations fiscales des
+commerçants et aux dispositions relatives à la réglementation administrative des débits de boissons ou à la police des
+spectacles. 
+
+Lorsque leur exploitation ne revêt pas un caractère commercial, les cercles privés ne sont pas soumis à la réglementation
+administrative des débits de boissons, s'ils servent exclusivement des boissons sans alcool, du vin, de la bière, du cidre,
+du poiré, de l'hydromel, des vins doux naturels bénéficiant du régime fiscal des vins et si leurs adhérents sont seuls admis
+à consommer. 
+
+Sur l'avis du maire de la commune et sur la proposition du préfet, il peut être délivré une licence de plein exercice,
+attachée au cercle et incessible, aux cercles privés régulièrement déclarés à la date du 1er janvier 1948 et comptant, à
+cette date, quinze années ininterrompues de fonctionnement, les années 1939 à 1945 n'étant pas prises en considération dans
+ce décompte. Ces cercles peuvent bénéficier des dispositions du deuxième alinéa.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi du 1er juillet 1901 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L3335-11 (V)
 
 
 ##### II bis : Coopératives d'administration ou d'entreprise
@@ -65967,8 +66469,7 @@ restitution partielle des droits.
 
 ###### Article 1658
 
-Les impôts directs et les taxes y assimilées sont recouvrés en vertu de rôles rendus exécutoires par arrêté du commissaire de
-la République.
+Les impôts directs et les taxes y assimilées sont recouvrés en vertu de rôles rendus exécutoires par arrêté du préfet.
 
 Celui-ci peut déléguer ses pouvoirs au directeur des services fiscaux, en ce qui concerne les rôles établis par ce chef de
 service, sans qu'il en résulte de modification au point de vue de la compétence des tribunaux.
@@ -65977,29 +66478,29 @@ service, sans qu'il en résulte de modification au point de vue de la compétenc
 
 	**Modifié par**:
 
-	  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
 
 	**Cité par**:
 
+	  - Décret n°2011-303 du 21 mars 2011 - art. 1 (V)
+	  - Décret n°2016-1116 du 11 août 2016 (V)
+	  - Décret n°2016-1116 du 11 août 2016 - art. 1
 	  - Code général des impôts, CGI. - art. 1659 (V)
 	  - Code général des impôts, CGI. - art. 1723 ter-00 A (VD)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 376-0 bis (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 351 (VD)
-	  - Décret n°2011-303 du 21 mars 2011 - art. 1 (V)
-	  - Décret n°2016-1116 du 11 août 2016 (V)
-	  - Décret n°2016-1116 du 11 août 2016 - art. 1
 	  - Livre des procédures fiscales - art. L253 (V)
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
 
 
 ###### Article 1659
 
-La date de mise en recouvrement des rôles est fixée par le commissaire de la République ou, en cas de délégation de la
-formalité d'homologation, par le directeur des services fiscaux d'accord avec le trésorier-payeur général. Cette date est
-indiquée sur le rôle ainsi que sur les avis d'imposition délivrés aux contribuables [*mention*].
+La date de mise en recouvrement des rôles est fixée par le préfet, ou, en cas de délégation de la formalité d'homologation,
+par le directeur des services fiscaux d'accord avec le trésorier-payeur général. Cette date est indiquée sur le rôle ainsi
+que sur les avis d'imposition délivrés aux contribuables [*mention*].
 
 Lorsque des erreurs d'expédition sont constatées dans les rôles, un état de ces erreurs est dressé par le directeur des
 services fiscaux et approuvé dans les mêmes conditions que ces rôles, auxquels il est annexé à titre de pièce justificative.
@@ -66009,15 +66510,15 @@ Le directeur rédige de nouveaux avis d'imposition et les fait parvenir aux int�
 
 	**Modifié par**:
 
-	  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1961 (V)
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
 
 
 ###### Article 1679 A
