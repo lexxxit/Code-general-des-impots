@@ -10,6 +10,19 @@ l'ensemble de leurs communes membres.
 Elles peuvent également percevoir à la place des communes membres, selon les compétences qui leur sont transférées, les
 ressources mentionnées à l'article 1609 nonies D.
 
+ménagères, dès la première année d'application des dispositions du premier alinéa, jusqu'au 31 mars, dès lors qu'elles
+exercent la compétence d'enlèvement et de traitement des ordures ménagères et que les communes qui ont décidé de la création
+de la communauté de communes, à l'exclusion de toute autre, étaient antérieurement associées dans un même syndicat de
+communes percevant une taxe d'enlèvement des ordures ménagères.
+
+((Elles peuvent instituer la taxe d'enlèvement des ordures ménagères, dès la première année d'application des dispositions du
+premier alinéa, jusqu'au 31 mars, dès lors qu'elles exercent la compétence d'enlèvement et de traitement des ordures
+ménagères et que les communes qui ont décidé de la création de la communauté de communes, à l'exclusion de toute autre,
+étaient antérieurement associées dans un même syndicat de communes percevant une taxe d'enlèvement des ordures ménagères.
+
+((Pour cette première année, elles ne peuvent voter que le produit de cette taxe, à l'exclusion de toute modification de ses
+règles d'établissement)) (M).
+
 II. Les communautés de communes ayant créé, créant ou gérant une zone d'activités économiques qui se situe sur le territoire
 d'une ou de plusieurs communes membres peuvent décider, par délibération du conseil de communauté statuant à la majorité des
 deux tiers, de se substituer à ces dernières pour la perception de la taxe professionnelle acquittée par les entreprises
@@ -40,8 +53,8 @@ relative des bases de ces trois taxes la même année.
 c) La variation des taux définis aux a et b est celle constatée l'année précédant celle au titre de laquelle la communauté de
 communes vote le taux de taxe professionnelle applicable dans la zone d'activités économiques.
 
-((2° bis En cas d'incorporation d'une commune ou partie de commune dans une zone d'activités économiques, les dispositions du
-III de l'article 1638 quater sont applicables)) (1) ;
+2° bis En cas d'incorporation d'une commune ou partie de commune dans une zone d'activités économiques, les dispositions du
+III de l'article 1638 quater sont applicables ;
 
 3° Les groupements de communes soumis aux dispositions du présent paragraphe bénéficient de la compensation prévue au IV bis
 de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), modifié par l'article 46 de la loi de
@@ -67,7 +80,7 @@ III. Les dispositions de l'article 1609 nonies C sont applicables aux communaut�
 communauté statuant à la majorité des trois quarts. Cette décision demeure applicable tant qu'elle n'a pas été rapportée dans
 les mêmes conditions.
 
-(1) Modification de la loi.
+(M) Modification de la loi 97-1269.
 
 **Liens relatifs à cet article**
 
@@ -80,16 +93,8 @@ les mêmes conditions.
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
 	  - TXT_ASSOCIE: Instruction 1994-03-16 6A-2-94
-
-	**Modifié par**:
-
-	  - Loi n°93-1352 du 30 décembre 1993 - art. 93 (V) JORF 31 décembre 1993
-
-	**Codifié par**:
-
-	  - Décret n°94-899 1994-10-17
+	  - HISTO: Edition du 22 avril 1998
 
 	**Cité par**:
 
@@ -126,3 +131,7 @@ les mêmes conditions.
 	  - Code général des impôts, CGI. - art. 1647 D (V)
 	  - Code général des impôts, CGI. - art. 1648 A (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 quaterdecies (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 94 () JORF 31 décembre 1997
