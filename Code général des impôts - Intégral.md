@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1983-06-08
+Version Consolidée au 1983-07-02
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13539,6 +13539,25 @@ L'inscription sur le registre des articles d'horlogerie usagés revêtus des poi
 	  - Code général des impôts, CGI. - art. 537 (V)
 
 
+##### Section V : Exportation ou livraison à destination d'un autre Etat membre de l'Union Européenne
+
+###### Article 547
+
+Les mesures complémentaires sont déterminées par décrets en Conseil d'Etat (1).
+
+(1) Annexe I, art. 204 à 211.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN1 204 à 211
+
+	**Modifié par**:
+
+	  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
+
+
 ##### Section X : Départements d'outre-mer
 
 ###### Article 553 bis
@@ -15650,6 +15669,42 @@ III. Les modalités d'application des dispositions qui précèdent seront, en ta
 
 ##### Section I : Titre des ouvrages.
 
+###### Article 521
+
+Les fabricants sont soumis à la législation de la garantie prévue au présent chapitre, non seulement à raison de leur propre
+production, mais également pour les ouvrages qu'ils ont fait réaliser pour leur compte par des tiers avec des matières leur
+appartenant.
+
+Le fait générateur du droit de garantie est constitué par l'apposition du poinçon de garantie.
+
+Les redevables du droit de garantie doivent déposer mensuellement une déclaration mentionnant les opérations imposables
+effectuées le mois précédent. Le montant des sommes exigibles est acquitté au moment du dépôt de cette déclaration.
+Toutefois, ils peuvent opter pour le paiement du droit lors de la présentation des ouvrages à la marque ; les conditions dans
+lesquelles s'effectue cette option sont fixées par décret en Conseil d'Etat (1).
+
+Les ouvrages d'or, d'argent ou de platine, commercialisés en France, doivent être conformes aux titres prescrits par la loi.
+
+La législation relative à la garantie du titre des matières d'or, d'argent et de platine est également applicable aux
+ouvrages composés d'éléments d'or, d'argent ou de platine.
+
+Ces titres, ou la quantité de fin contenue dans chaque pièce, s'expriment en millièmes.
+
+(1) Décret à émettre.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-558 du 1 juillet 1983 - art. 1 () JORF 2 JUILLET 1983
+	  - Loi n°83-558 du 1 juillet 1983 - art. 2 () JORF 2 JUILLET 1983
+	  - Loi n°83-558 du 1 juillet 1983 - art. 3 () JORF 2 JUILLET 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1794 (V)
+	  - Code général des impôts, CGI. - art. 553 bis (P)
+
+
 ###### Article 522
 
 Il y a trois titres légaux pour les ouvrages en or : 920 millièmes; 840 millièmes; 750 millièmes. Deux pour les ouvrages en
@@ -15698,6 +15753,38 @@ suite d'un essai et conformément aux règles établies ci-après.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 524
+
+Les ouvrages sont marqués de deux poinçons : celui du fabricant et celui du bureau de garantie.
+
+Le poinçon du fabricant a la forme d'un losange renfermant une lettre initiale de son nom et le symbole choisi par lui. Il
+peut être gravé par tel artiste qu'il lui plaît de choisir.
+
+Le poinçon de garantie est apposé après essai des ouvrages dont il garantit le titre.
+
+La forme des poinçons ainsi que les conditions dans lesquelles ils sont apposés sont fixées par décret (1).
+
+(1) Annexe III, art. 183 à 186.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 183
+	  - CGIAN3 184
+	  - CGIAN3 185
+	  - CGIAN3 186
+
+	**Modifié par**:
+
+	  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
+
+	**Cité par**:
+
+	  - Code général des impôts annexe 1, CGIAN1. - art. 213 (V)
+	  - Code général des impôts, CGI. - art. 1794 (V)
 
 
 ##### Section III : Droit de garantie et essai des métaux précieux
@@ -15754,6 +15841,39 @@ l'administration.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### III : Exemptions.
+
+###### Article 532
+
+Sont dispensés du droit de garantie :
+
+a. Les ouvrages antérieurs à l'année 1798 ;
+
+b. Les ouvrages en platine ou en or d'un poids maximum de 5 décigrammes et les ouvrages en argent d'un poids maximum de 5
+grammes ;
+
+c. Dans des proportions et limites fixées par décret (1), l'apport de métal précieux utilisé pour la réparation des
+ouvrages ;
+
+d. Les ouvrages qui ne peuvent supporter l'empreinte des poinçons sans détérioration.
+
+(1) Décret à émettre.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: ) Abrogation incorporée dans l'édition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°83-558 du 1 juillet 1983 - art. 4 () JORF 2 JUILLET 1983
+
+	**Abrogé par**:
+
+	  - Loi n°94-6 du 4 janvier 1994 - art. 12 () JORF 5 janvier 1994 art. 31, en vigueur le 13 décembre 1993
 
 
 ##### Section IV : Obligations des redevables
@@ -15840,6 +15960,20 @@ n'éprouver aucune altération au cours du finissage.
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 536
+
+Les ouvrages dépourvus de marques et achetés par les fabricants et marchands, même pour leur usage personnel, doivent être
+présentés au contrôle dans les trois jours ou brisés. Tout ouvrage d'or, d'argent ou de platine trouvé non marqué chez un
+marchand doit être saisi. Il en est de même pour les ouvrages trouvés achevés et non marqués chez un fabricant, sauf si, dès
+la fin de la fabrication, ils sont revêtus de son poinçon de maître et enregistrés dans sa comptabilité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-558 du 1 juillet 1983 - art. 5 () JORF 2 JUILLET 1983
+
+
 ###### Article 539
 
 Les fabricants et marchands ne peuvent acheter que de personnes connues ou ayant des répondants connus d'eux.
@@ -15879,6 +16013,30 @@ l'autorité municipale le registre dont la tenue leur est prescrite par l'articl
 
 ##### Section V : Exportation.
 
+###### Article 542
+
+Lorsque les ouvrages d'or, d'argent ou de platine de fabrication française, revêtus de l'empreinte des poinçons
+réglementaires intérieurs, sont exportés, le droit de garantie est remboursé à l'exportateur sous la condition que lesdits
+ouvrages soient marqués d'un poinçon spécial.
+
+Les fabricants ou marchands qui demandent le remboursement des droits doivent présenter les objets à l'un des bureaux de
+garantie spécialement désignés à cet effet.
+
+La restitution est subordonnée à la présentation, dans le délai de trois mois, d'un certificat de l'administration des
+douanes ou de celle des postes constatant la sortie de France des ouvrages exportés. En cas de sortie par avion, ce
+certificat est établi par la douane de destination.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-558 du 1 juillet 1983 - art. 6 () JORF 2 JUILLET 1983
+
+	**Cité par**:
+
+	  - Décret n°84-624 du 16 juillet 1984 - art. 2 (V)
+
+
 ###### Article 543
 
 Les ouvrages d'or, d'argent ou de platine peuvent, dans les conditions fixées par décret en Conseil d'Etat, être exportés
@@ -15908,6 +16066,59 @@ sans marque des poinçons intérieurs et sans paiement des droits de garantie (1
 	  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
 	  - Code général des impôts, CGI. - art. 1794 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+
+
+###### Article 545
+
+Les fabricants d'orfèvrerie, joaillerie, bijouterie, sont seuls autorisés à fabriquer à tous autres titres des objets d'or,
+de platine et d'argent exclusivement destinés à l'exportation.
+
+Les objets ainsi fabriqués ne peuvent, en aucun cas, sous peine de saisie, être livrés à la consommation intérieure et ils ne
+sont jamais revêtus des poinçons de l'Etat. Ils doivent être marqués, aussitôt après l'achèvement, avec un poinçon de maître.
+
+Il n'en est autrement que si le fabricant dépose au bureau de garantie une déclaration préalable de mise en fabrication de
+ces objets, les inscrit dès leur achèvement sur un registre spécial et les exporte dans un délai fixé par décret en Conseil
+d'Etat (1).
+
+(1) Décret à émettre.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-558 du 1 juillet 1983 - art. 7 () JORF 2 JUILLET 1983
+
+	**Cité par**:
+
+	  - Code général des impôts annexe 1, CGIAN1. - art. 213 (V)
+	  - Code général des impôts annexe 1, CGIAN1. - art. 215 (V)
+	  - Code général des impôts, CGI. - art. 1794 (V)
+	  - Code général des impôts, CGI. - art. 530 (V)
+	  - Code général des impôts, CGI. - art. 546 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 211 AC (V)
+
+
+###### Article 546
+
+Sont applicables auxdits fabricants [*d'orfèvrerie, joaillerie, bijouterie*] et négociants exportateurs toutes les
+dispositions de la législation sur le commerce des matières d'or, d'argent et de platine, compatibles avec celles de
+l'article 545.
+
+Les manquants constatés d'ouvrages fabriqués en vue de l'exportation donnent lieu à rédaction d'un procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 545
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
 
 
 ##### Section VI : Importation.
@@ -15971,6 +16182,39 @@ déclaration au bureau de garantie [*formalité obligatoire*].
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 551
+
+Ne peuvent prétendre à l'appellation "plaqué", "doublé" ou "métal argenté" que les ouvrages recouverts de métal précieux à un
+titre au moins égal à 500 millièmes et revêtus d'un poinçon spécial du fabricant.
+
+Les ouvrages en argent à un titre légal recouverts d'une couche d'or également à un titre légal ont seuls droit à
+l'appellation Vermeil.
+
+L'épaisseur minimale de la couche de métal précieux recouvrant les ouvrages désignés aux premier et deuxième alinéas est
+fixée par décret (1).
+
+Les infractions aux dispositions du présent article donnent lieu à l'application des sanctions prévues aux articles 1791 et
+1794.
+
+(1) Décret à émettre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1791
+	  - CGI 1794
+
+	**Modifié par**:
+
+	  - Loi n°83-558 du 1 juillet 1983 - art. 8 () JORF 2 JUILLET 1983
+
+	**Cité par**:
+
+	  - Décret n°84-624 du 16 juillet 1984 - art. 3 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 212 A (V)
 
 
 ##### Section IX : Modalités d'application.
@@ -23774,6 +24018,32 @@ cas échéant, dispensés de la formalité.
 	**Cite**:
 
 	  - CGI 679 3°
+
+
+###### Article 1063 A
+
+Les mutations et transferts opérés par les caisses d'épargne et de prévoyance, leurs groupements et sociétés affiliées, les
+unions régionales, l'union nationale et ses filiales, en application de la loi n° 83-557 du 1er juillet 1983 portant réforme
+des caisses d'épargne et de prévoyance et des textes d'application, sont exonérés de droits et taxes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°99-532 1999-01-25 art. 33 II JORF 29 juin 1999
+
+	**Cite**:
+
+	  - Loi n°83-557 1983-07-01
+
+	**Créé par**:
+
+	  - Loi n°83-557 du 1 juillet 1983 - art. 26 (Ab) JORF 2 juillet 1983
 
 
 ##### Entreprises d'assurances et de capitalisation
@@ -33736,6 +34006,52 @@ fiscales.
 	  - Code général des impôts, CGI. - art. 1804 A (V)
 
 
+###### Article 1794
+
+Pour les infractions énumérées ci-après, la pénalité de une à trois fois le montant des droits est remplacée par une pénalité
+dont le montant est compris entre une fois et trois fois celui de la valeur des appareils, objets, produits ou marchandises
+sur lesquels a porté la fraude :
+
+1° Infractions en matière d'alambics et portions d'alambics;
+
+2° Infractions à l'article 314, dernier alinéa, relatif aux compteurs de distillerie;
+
+3° Infractions en matière de déclarations de récolte et de stock des vins, des cidres et poirés. Toutefois, si l'infraction
+résulte exclusivement d'un excès ou d'une insuffisance des quantités déclarées, seule la valeur des boissons représentant cet
+excès ou cette insuffisance sert de base au calcul de ladite pénalité;
+
+4° Détention, transport, vente ou utilisation de sucres et glucoses en infraction à la réglementation des sucrages édictée
+par le présent code et les textes d'application;
+
+5° Infractions aux articles 521, 531, 545 à 547, 550 et 551 en matière de garantie;
+
+6° à 8° (Abrogés).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 314 AL. DERNIER
+	  - CGI 521
+	  - CGI 531
+	  - CGI 545 A CGI 547
+	  - CGI 550
+	  - CGI 551
+
+	**Modifié par**:
+
+	  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1804 A (V)
+	  - Code général des impôts, CGI. - art. 551 (V)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+
 ###### Article 1797
 
 En ce qui concerne les infractions commises en matière d'impôts sur les cercles et maisons de jeux, si les droits fraudés ou
@@ -38064,48 +38380,6 @@ peine d'emprisonnement.
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1753 (VD)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1794
-
-Pour les infractions énumérées ci-après, la pénalité de une à trois fois le montant des droits est remplacée par une pénalité
-dont le montant est compris entre une fois et trois fois celui de la valeur des appareils, objets, produits ou marchandises
-sur lesquels a porté la fraude :
-
-1° Infractions en matière d'alambics et portions d'alambics;
-
-2° Infractions à l'article 314, dernier alinéa, relatif aux compteurs de distillerie;
-
-3° Infractions en matière de déclarations de récolte et de stock des vins, des cidres et poirés. Toutefois, si l'infraction
-résulte exclusivement d'un excès ou d'une insuffisance des quantités déclarées, seule la valeur des boissons représentant cet
-excès ou cette insuffisance sert de base au calcul de ladite pénalité;
-
-4° Détention, transport, vente ou utilisation de sucres et glucoses en infraction à la réglementation des sucrages édictée
-par le présent code et les textes d'application;
-
-5° Infractions aux articles 521, 531, 544 à 547, 550 et 551 en matière de garantie;
-
-6° à 8° (Abrogés).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 314 AL. DERNIER
-	  - CGI 521
-	  - CGI 531
-	  - CGI 544 A CGI 547
-	  - CGI 550
-	  - CGI 551
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 1804 A (V)
-	  - Code général des impôts, CGI. - art. 551 (V)
 
 	**Liens**:
 
