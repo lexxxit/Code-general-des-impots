@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1986-07-12
+Version Consolidée au 1986-07-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4512,6 +4512,40 @@ ou obligations émis par ces sociétés avant le 1er janvier 1965.
 	  - HISTO: Edition du 1er juillet 1981
 
 
+##### 4° : Crédit national.
+
+###### Article 131
+
+Sont affranchis de la retenue à la source :
+
+1° à 4° (Dispositions périmées);
+
+4° bis  Pour toute leur durée, les obligations et bons à long terme émis conformément à la loi du 3 mars 1941 relative aux
+opérations financières assurées par le crédit national en exécution de la législation sur la réparation des dommages causés
+par faits de guerre;
+
+5° (Disposition périmée).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 41 V
+	  - Loi n°1941-03-03
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Modifié par**:
+
+	  - Décret n°86-1086 1986-10-07 art. 1 JORF 9 octobre 1986
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
 ##### 5° : Obligations négociables - Régimes spéciaux
 
 ###### Article 131 ter
@@ -4725,6 +4759,26 @@ de la loi du 28 juin 1941 ou pour le compte de ces organismes (1).
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### 12° : Emprunts regroupés
+
+###### Article 135
+
+L'impôt sur le revenu n'est pas applicable aux primes de remboursement provenant de l'échange de titres prévu à l'article 1er
+du décret n° 50-1401 du 9 novembre 1950 relatif au regroupement des titres gérés par la société nationale des chemins de fer
+français. Il ne sera perçu que lors du remboursement des titres de remplacement, qui seront réputés avoir été émis au même
+taux d'émission que ceux de l'emprunt regroupé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Modifié par**:
+
+	  - Décret n°86-1086 1986-10-07 art. 1 JORF 9 octobre 1986
 
 
 ##### 13° : Financement de certaines opérations d'exportation
@@ -5910,6 +5964,58 @@ l'article 294 du même code, sont soumises au même régime que les pensions ali
 ##### A : Définition des bénéfices imposables
 
 ##### Gains nets en capital réalisés à l'occasion de la cession à titre onéreux de valeurs mobilières et de droits sociaux.
+
+###### Article 92 B
+
+Sont considérés comme des bénéfices non commerciaux, les gains nets retirés des cessions à titre onéreux, effectuées
+directement ou par personne interposée, de valeurs mobilières inscrites à la cote officielle ou à la cote du second marché
+d'une bourse de de valeurs ou négociées sur le marché hors cote, de droits portant sur ces valeurs ou de titres
+représentatifs de telles valeurs, lorsque le montant de ces cessions excède, par foyer fiscal, 150.000 F par an.
+
+Toutefois, dans des cas et conditions fixés par décret en conseil d'Etat (1) et correspondant à l'intervention d'un évènement
+exceptionnel dans la situation personnelle, familiale ou professionnelle du contribuable, le franchissement de la limite
+précitée de 150.000 F est apprécié par référence à la moyenne des cessions de l'année considérée et des deux années
+précédentes. Les événements exceptionnels [*définition*] mentionnés ci-dessus doivent notamment s'entendre de la mise à la
+retraite, du chômage, du redressement judiciaire ainsi que de l'invalidité ou du décès du contribuable ou de l'un ou l'autre
+des époux soumis à une imposition commune.
+
+Ces dispositions ne sont pas applicables aux échanges de titres résultant d'une opération d'offre publique, de conversion, de
+division ou de regroupement, réalisée conformément à la réglementation en vigueur.
+
+Le chiffre de 150.000 F figurant au premier alinéa est révisé, chaque année dans la même proportion que la septième tranche
+du barème de l'impôt sur le revenu (2) (3).
+
+(1) Annexe II, art. 39 A.
+
+(2) Chiffre fixé à 265.600 F pour 1985, à 272.000 F pour 1986, à 281.000 F pour 1987.
+
+(3) En ce qui concerne les plus-values réalisées dans le cadre des opérations de nationalisation, voir art. 248 B.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 248 B
+	  - CGIAN2 39 A
+
+	**Modifié par**:
+
+	  - Loi n°85-98 1985-01-25 art. 233 JORF 26 janvier 1985 en vigueur le 1er janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°88-1201 1988-12-23 art. 42 III
+	  - HISTO: Edition du 31 juillet 1986
+
+	**Cité par**:
+
+	  - Loi n°88-1201 du 23 décembre 1988 - art. 42 (V)
+	  - Code général des impôts, CGI. - art. 167 bis (V)
+
 
 ###### Article 92 G
 
@@ -8799,6 +8905,87 @@ concerné, ces renseignements et joint le ou les états reçus des gestionnaires
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 76 () JORF 30 décembre 1983
 
 
+##### Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer.
+
+###### Article 199 undecies
+
+1. Il est institué une réduction d'impôt sur le revenu pour les contribuables qui investissent dans les départements de la
+Guadeloupe, de la Guyane, de la Martinique et de la Réunion jusqu'au 31 décembre 1996 [*date limite*].
+
+Elle s'applique :
+
+- au prix de revient de l'acquisition ou de la construction d'un immeuble neuf situé dans ces départements, que le
+contribuable affecte à son habitation principale ou loue nu à une personne qui en fait sa résidence principale ;
+
+- au prix de souscription de parts ou actions de sociétés dont l'objet réel est exclusivement de construire des logements
+neufs situés dans ces départements et qu'elles donnent en location nue à des personnes qui en font leur résidence
+principale ;
+
+- au montant des souscriptions en numéraire au capital des sociétés de développement régional de ces départements ou de
+sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun effectuant des investissements productifs
+dans ces départements et dont l'activité réelle se situe dans les secteurs de l'industrie, de la pêche, de l'hôtellerie, du
+tourisme, des énergies nouvelles, de l'agriculture, du bâtiment et des travaux publics, des transports et de l'artisanat.
+
+2. Pour avoir droit à la réduction d'impôt, la constitution ou l'augmentation du capital des sociétés mentionnées au 1. ci-
+dessus et dont le montant est supérieur à 30.000.000 F, doit avoir été portée, préalablement à sa réalisation, à la
+connaissance du ministre délégué auprès du ministre d'Etat, ministre de l'économie, des finances et de la privatisation,
+chargé du budget, et n'avoir pas appelé d'objection motivée de sa part dans un délai de trois mois.
+
+3. La réduction d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année d'achèvement de l'immeuble ou de son
+acquisition si elle est postérieure ou de souscription des parts ou actions et des quatre années suivantes. Chaque année, la
+base de la réduction est égale à 20 p. 100 des sommes effectivement payées à la date où le droit à réduction d'impôt est né.
+
+Pour la détermination de l'impôt dû au titre des années 1986 à 1989, la réduction d'impôt est égale à 50 p. 100 de la base
+définie à l'alinéa précédent. Pour les revenus des années 1990 à 1996, elle est égale à 25 p. 100.
+
+4. Pendant la période mentionnée au 3., en cas de non-utilisation de l'immeuble à titre de résidence principale par le
+contribuable ou son locataire, de cession de l'immeuble ou des parts et titres ou de non-respect de leur objet exclusif par
+les sociétés concernées, ou de dissolution de ces sociétés, la réduction d'impôt pratiquée fait l'objet d'une reprise au
+titre de l'année où interviennent les événements précités.
+
+Quand un contribuable pratique la réduction d'impôt définie au présent article, les dispositions du a) du 1° de l'article 199
+sexies et des articles 199 nonies et 199 decies du présent code ne sont pas applicables.
+
+5. Les dispositions du présent article ne concernent pas les constructions commencées, les parts ou actions souscrites ou les
+immeubles acquis en l'état futur d'achèvement avant le 1er janvier 1986.
+
+6. Les dispositions du présent article sont applicables, dans les mêmes conditions, aux territoires d'outre-mer et aux
+collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 decies
+	  - CGI 199 nonies
+	  - CGI 199 sexies 1°
+
+	**Anciens textes**:
+
+	  - CGI 238 bis HD
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Créé par**:
+
+	  - Décret n°86-1086 1986-10-07 art. 1 JORF 9 octobre 1986 en vigueur le 31 juillet 1986
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (M)
+	  - Code général des impôts, CGI. - art. 1055 bis (V)
+	  - Code général des impôts, CGI. - art. 217 undecies (V)
+	  - Code général des impôts, CGI. - art. 31 (VT)
+	  - Code général des impôts, CGI. - art. 793 (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 294 A (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 294 E (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG octies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG sexies (V)
+
+
 ##### IV : Imposition des gains nets réalisés à l'occasion de cessions de valeurs mobilières et de droits sociaux
 
 ###### Article 200 A
@@ -10003,6 +10190,47 @@ d'opérations faites avec eux.
 	**Liens**:
 
 	  - HISTO: Edition du 1er septembre 1982
+
+
+###### Article 217 septies
+
+Pour l'établissement de l'impôt sur les sociétés, les entreprises peuvent pratiquer, dès l'année de réalisation de
+l'investissement, un amortissement exceptionnel égal à 50 % du montant des sommes effectivement versées pour la souscription
+au capital des sociétés définies à l'article 238 bis HE.
+
+Le bénéfice de ce régime esr subordonné à l'agrément, par le ministre de l'économie et des finances, du capital de ces
+sociétés.
+
+Un décret fixe les modalités d'application du présent article, notamment les obligations déclaratives (1).
+
+(1) Annexe III, art. 46 quindecies E.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 46 quindecies E
+
+	**Créé par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 40 (V) JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 du 7 octobre 1986
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L332-2 (VT)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies E (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+	**Abrogé par**:
+
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 26
 
 
 ###### Article 217 sexies
@@ -11535,6 +11763,38 @@ NOTA : Cet article est abrogé pour les bénéfices réalisés au titre des exer
 
 ##### Section X : Participation des employeurs au développement de la formation professionnelle continue
 
+###### Article 235 ter C
+
+Tout employeur occupant au minimum dix salariés [*effectif*], à l'exception de l'Etat, des collectivités locales et de leurs
+établissements publics à caractère administratif, doit concourir au développement de la formation professionnelle continue en
+participant, chaque année, au financement des actions de formation mentionnées à l'article L. 900-2 du code du travail.
+
+[*(Dispositions transférées dans l'article 235 ter D)*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Arrêté du 19 février 2010 - art. 2 (V)
+	  - Arrêté du 11 août 2015 (V)
+	  - Arrêté du 5 octobre 2015 (V)
+	  - Arrêté du 5 octobre 2015 - art. 5 (V)
+	  - Arrêté du 18 avril 2017 (V)
+	  - Code général des impôts, CGI. - art. 235 ter F (V)
+
+	**Nouveaux textes**:
+
+	  - CGI 235 ter D b (2è al. du CGI 235 ter C)
+
+	**Cite**:
+
+	  - Code du travail - art. L900-2 (M)
+
+
 ###### Article 235 ter GB
 
 Les employeurs sont exonérés totalement ou partiellement de la cotisation prévue à l'article 235 ter GA lorsqu'ils ont
@@ -12438,6 +12698,40 @@ pour l'établissement de l'impôt sur le revenu ou de l'impôt sur les société
 	  - HISTO: Edition du 31 juillet 1986
 
 
+###### Article 238 bis HC
+
+Les bénéfices investis dans les territoires d'outre-mer, dans la collectivité territoriale de Mayotte et dans celle de Saint-
+Pierre-et-Miquelon peuvent, dans les mêmes conditions, bénéficier du régime prévu à l'article 238 bis HA.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGI 217 duodecies
+
+	**Cite**:
+
+	  - CGI 238 bis HA
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 juillet 1986
+	  - TXT_ASSOCIE: Instruction 1994-02-04 4A-5-94
+	  - TXT_ASSOCIE: Instruction 1996-02-07 4A-3-96
+	  - TXT_ASSOCIE: Instruction 1997-02-17 4A-4-97
+
+	**Modifié par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 14 (P) JORF 31 décembre 1985
+	  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet 1986
+
+	**Transféré par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1997
+	  - Loi n°97-1269 1997-12-30 art. 18 III, VI, VII Finances pour 1998 JORF 31 décembre 1997
+
+
 ##### 1° : Financement en capital d'oeuvres cinématographiques ou audiovisuelles
 
 ###### Article 238 bis HE
@@ -12527,6 +12821,52 @@ De tout document ou programme audiovisuel ne comportant qu'accessoirement des é
 	  - Code général des impôts, CGI. - art. 238 bis HG (V)
 
 
+###### Article 238 bis HG
+
+Les sociétés définies à l'article 238 bis HE doivent réaliser leurs investissements sous la forme :
+
+a. De souscription au capital de sociétés passibles de l'impôt sur les sociétés dans les conditions de droit commun et qui
+ont pour activité exclusive la réalisation d'oeuvres cinématographiques ou audiovisuelles entrant dans le champ d'application
+de l'agrément prévu à l'article précité.
+
+b. De versements en numéraire réalisés par contrat d'association à la production. Ce contrat doit être conclu et les
+versements doivent être effectués avant le début des prises de vues. Il permet d'acquérir un droit sur les recettes
+d'exploitation d'une oeuvre cinématographique ou audiovisuelle agréée dans les conditions prévues à l'article 238 bis HF et
+limite la responsabilité du souscripteur au montant du versement. Le contrat est inscrit au registre prévu au titre III du
+code de l'industrie cinématographique ; son titulaire ne jouit d'aucun droit d'exploitation de l'oeuvre et ne peut bénéficier
+du régime de soutien financier de l'Etat à l'industrie cinématographique et à l'industrie des programmes audiovisuels. Le
+financement par ces contrats ne peut pas excéder 50 p. 100 du coût total de l'oeuvre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HE, 238 bis HF
+
+	**Créé par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 40 (V) JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Arrêté du 24 septembre 2004 - art. 2 (V)
+	  - Code du cinéma et de l'image animée - art. Annexe 3-2 (V)
+	  - Code du cinéma et de l'image animée - art. Annexe 3-7 (V)
+	  - Code du cinéma et de l'image animée - art. D332-6 (V)
+	  - Code général des impôts, CGI. - art. 199 unvicies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies D (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies F (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
 ###### Article 238 bis HH
 
 Les actions souscrites doivent obligatoirement revêtir la forme nominative. Une même personne ne peut détenir, directement ou
@@ -12552,6 +12892,137 @@ cet article ne peuvent faire l'objet sur le plan fiscal d'une provision pour dé
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies C (V)
+
+
+###### Article 238 bis HI
+
+Les sociétés définies à l'article 238 bis HE ne peuvent bénéficier du régime prévu en faveur des sociétés de capital-risque
+par l'article 1er de la loi n° 85-695 du 11 juillet 1985, portant diverses dispositions d'ordre économique et financier.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HE
+	  - Loi n°85-695 du 11 juillet 1985 - art. 1, v. init.
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+	**Créé par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 40 (V) JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 238 bis HJ
+
+En cas de non-respect de la condition d'exclusivité de leur activité, les sociétés définies à l'article 238 bis HE doivent
+verser au Trésor une indemnité égale à 25 p. 100 de la fraction du capital qui n'a pas été utilisée de manière conforme à
+leur objet, sans préjudice de l'application des dispositions de l'article 1756 du code général des impôts. Le montant de
+cette indemnité est exclu des charges déductibles pour l'assiette du bénéfice imposable. La constatation, le recouvrement et
+le contentieux de cette indemnité sont exercés et suivis comme en matière d'impôts directs.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HE, 1756
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+	  - TXT_ASSOCIE: Loi n°97-1051 1997-18-11 art. 27 V A, C JORF 19 novembre 1997
+
+	**Créé par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 40 (V) JORF 12 juillet 1985
+
+
+###### Article 238 bis HK
+
+Les plus-values réalisées à l'occasion de la cession d'actions d'une société définie à l'article 238 bis HE sont soumises aux
+règles prévues aux articles 92 B et 160, sans préjudice de l'application des dispositions du troisiéme alinéa de l'article
+163 septdecies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HE, 92 B, 160, 163 septdecies
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 150-0 D bis (V)
+	  - Code général des impôts, CGI. - art. 150-0 D ter (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+	  - TXT_ASSOCIE: Loi n°97-1051 1997-18-11 art. 27 V B JORF 19 novembre 1997 / pêche artisanale
+
+	**Créé par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 40 (V) JORF 12 juillet 1985
+
+
+###### Article 238 bis HL
+
+En cas de dissolution de la société ou de réduction de son capital, le ministre de l'économie, des finances et du budget peut
+ordonner la réintégration des sommes déduites en application des articles 163 septdecies ou 217 septies au revenu net global
+ou au résultat imposable de l'année ou de l'exercice au cours desquels elles ont été déduites.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 217 septies, 163 septdecies
+
+	**Créé par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 40 (V) JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
+###### Article 238 bis HM
+
+Un décret fixe les modalités d'application des articles 238 bis HE à 238 bis HL, notamment les modalités de délivrance des
+agréments, les obligations déclaratives et, le cas échéant, les clauses-types du contrat d'association à la production (1). 
+
+(1) Annexe III, art. 46 quindecies A à 46 quindecies F.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 40 (V) JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 238 bis HE (V)
 
 
 ##### I bis : Réévaluation des immobilisations non amortissables
@@ -16185,6 +16656,60 @@ b. De la vente de billets imposés aux taux réduit dans les conditions prévues
 	  - Code général des impôts, CGI. - art. 297 (VD)
 
 
+###### Article 281 quinquies
+
+I. La taxe sur la valeur ajoutée est perçue au taux de 13 % (1) en ce qui concerne les ventes et les apports en société de
+terrains à bâtir, de biens assimilés à ces terrains par le I de l'article 691, autres que ceux visés au 2° dudit I, ainsi que
+les indemnités de toute nature perçues par les personnes qui exercent sur ces immeubles un droit de propriété ou de
+jouissance (2).
+
+II. Le taux de 13 % peut s'appliquer aux acquisitions de terrains attenant à ceux acquis précédemment en vue de la
+construction de maisons individuelles par des personnes physiques pour leur propre usage et à titre d'habitation principale
+(3). Toutefois, le bénéfice de cette disposition :
+
+N'est applicable qu'à la fraction du terrain attenant qui, compte tenu de la superficie du terrain antérieurement acquis,
+n'excède pas 2.500 mètres carrés par maison ou la superficie minimale éxigée par la législation sur le permis de construire
+lorsqu'elle est supérieure;
+
+Est subordonné à la condition que l'acquisition nouvelle soit effectuée moins de deux ans aprés l'achèvement de la
+construction.
+
+(1) Taux applicable à compter du 1er juillet 1986.
+
+(2) Voir toutefois annexe II, art. 253.
+
+(3) Voir annexe II, art. 255.
+
+du code de la construction et de l'habitation.
+
+**Nota:**
+
+NOTA : Loi 91-716 art. 10 VI" Les dispositions du présent article s'appliquent aux opérations réalisées à compter du 15
+juillet 1991. Toutefois, si la présente loi n'est pas promulguée à cette date, les dispositions mentionnées ci-dessus entrent
+en vigueur le premier lundi qui suit cette promulgation.
+
+Toutefois, le redevable de la taxe peut bénéficier des dispositions actuellement en vigueur pour les acquisitions de terrains
+à bâtir réalisées avant le 1er janvier 1992, pour autant que l'accord des parties ait été formalisé par un acte enregistré
+avant le 15 juillet 1991."
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 691 I 2°
+	  - CGIAN2 253
+	  - CGIAN2 255
+
+	**Créé par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 66 (V) JORF 31 décembre  1985 en vigueur le 1er juillet 1986
+	  - Décret n°86-414 1986-03-13  art. 1 2° JORF 15 mars 1986, textes incorporés au code le 31 juillet 1986
+
+	**Abrogé par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 10 (V) JORF 27 juillet 1991, en vigueur le 29 juillet 1991, art. 10 VI
+
+
 ##### II : Franchise et décote.
 
 ###### Article 282
@@ -17824,6 +18349,88 @@ l'administration un livre-journal servi au jour le jour et présentant le détai
 	  - Loi - art. 7 (V) JORF 31 décembre 1998
 
 
+###### Article 302 ter
+
+-  1. Le chiffre d'affaires et le bénéfice imposables sont fixés forfaitairement en ce qui concerne les entreprises dont le
+chiffre d'affaires annuel n'excède pas 500.000 F s'il s'agit d'entreprises dont le commerce principal est de vendre des
+marchandises, objets, fournitures et denrées à emporter ou à consommer sur place, ou de fournir le logement, ou 150.000 F
+[*montant plafond*] s'il s'agit d'autres entreprises.
+
+Lorsque l'activité d'une entreprise ressortit à la fois aux deux catégories définies ci-dessus, le régime du forfait n'est
+applicable que si son chiffre d'affaires global annuel n'excède pas 500.000 F et si le chiffre d'affaires annuel afférent aux
+activités de la deuxième catégorie ne dépasse pas 150.000 F.
+
+Les chiffres d'affaires annuels de 500.000 F et de 150.000 F s'entendent tous droits et taxes compris.
+
+Pour la détermination du chiffre d'affaires annuel, les ventes d'essence, de supercarburant et de gas-oil sont retenues à
+concurrence de 50 % de leur montant.
+
+1 bis. Le régime d'imposition forfaitaire du chiffre d'affaires et du bénéfice demeure applicable pour l'établissement de
+l'imposition due au titre de la première année au cours de laquelle les chiffres d'affaires limites prévus pour ce régime
+sont dépassés. Cette imposition est établie compte tenu de ces dépassements.
+
+Ces dispositions ne sont pas applicables en cas de changement d'activité.
+
+2. Sont exclues du régime du forfait :
+
+- les personnes morales passibles de l'impôt sur les sociétés;
+
+- les opérations portant sur des immeubles, des fonds de commerce ou des actions ou parts de sociétés immobilières et dont
+les résultats doivent être compris dans les bases de l'impôt sur le revenu au titre des bénéfices industriels et commerciaux;
+
+- les opérations soumises à la taxe sur la valeur ajoutée en vertu de l'article 257-7°;
+
+- les opérations de location de matériels ou de biens de consommation durable, sauf lorsqu'elles présentent un caractère
+accessoire et connexe pour une entreprise industrielle ou commerciale.
+
+2 bis. Les forfaits doivent tenir compte des réalités des petites entreprises et, en particulier, de l'évolution des marges
+dans l'activité considérée et de celle des charges imposées à l'entreprise. Ils sont, sous réserve d'une adaptation à chaque
+entreprise, établis sur la base des monographies professionnelles nationales ou régionales, élaborées par l'administration et
+communiquées aux organisations professionnelles qui peuvent présenter leurs observations.
+
+3 et 4  (Abrogés).
+
+5.  Les forfaits de chiffre d'affaires et de bénéfice sont établis par année civile (1) et pour une période de deux ans; les
+montants servant de base à l'impôt peuvent être différents pour chacune des deux années de cette période.
+
+6.  Les forfaits sont conclus après l'expiration de la première année de la période biennale pour laquelle ils sont fixés.
+
+7.  Les forfaits peuvent être modifiés en cas de changement d'activité ou de législation nouvelle.
+
+8.  Ils peuvent faire l'objet d'une reconduction tacite pour une durée d'un an renouvelable.
+
+Dans ce cas, le montant du forfait retenu pour l'application de l'impôt est celui qui a été fixé pour la seconde année de la
+période biennale.
+
+9. Ces forfaits peuvent être dénoncés :
+
+- par l'entreprise, avant le 16 février de la deuxième année qui suit la période biennale pour laquelle ils ont été conclus
+et, en cas de tacite reconduction, avant le 16 février de la deuxième année qui suit celle à laquelle s'appliquait la
+reconduction [*date limite*];
+
+- par l'administration, pendant les trois premiers mois des mêmes années.
+
+10. (Transféré sous l'article L8 du livre des procédures fiscales).
+
+(1) En cas de passage du régime du bénéfice réel ou du régime simplifié à celui du forfait, voir Annexe II, art. 38.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 257 7°
+	  - CGI L8
+	  - CGIAN2 38
+
+	**Modifié par**:
+
+	  - Loi n°74-1114 1974-12-27 art. 17 Finances rectificative pour 1974 JORF 28 décembre 1974
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
 #### Chapitre I bis : Régimes simplifiés d'imposition
 
 ##### 1° : Taxes sur le chiffre d'affaires
@@ -19230,6 +19837,65 @@ compte.
 ##### Section III : Circulation
 
 ##### I : Dispositions communes
+
+##### 1° : Titres de mouvement
+
+###### Article 445 A
+
+I Pour tenir lieu des congés prévus à l'article 445, des titres de mouvement, dits factures-congés, peuvent être confiés aux
+redevables, sur leur demande et moyennant un cautionnement spécial, à charge pour les intéressées d'en faire compléter
+l'impression et de les utiliser dans les conditions déterminées par arrêté du ministre de l'économie et des finances (1), qui
+fixe, en outre, les mentions devant figurer sur les factures-congés et les bases du cautionnement spécial.
+
+Les factures-congés peuvent être utilisées pour des livraisons comprenant à la fois des boissons à appellation d'origine
+contrôlée ou réglementée et d'autres boissons, sauf si les boissons à appellation d'origine contrôlée ou réglementée
+consistent :
+
+1° En eaux-de-vie de Cognac ou d'Armagnac expédiées dans les régions productrices ou déplacées à l'intérieur de ces régions ;
+
+2° En autres eaux-de-vie, vins ou vins de liqueur enlevés des lieux de production.
+
+Les appellations d'origine contrôlée ou réglementée doivent être mentionnées sur la facture-congé.
+
+II Les factures acquits-à-caution et les factures laissez-passer peuvent se substituer aux acquits-à-caution  et aux laissez-
+passer prévus à l'article 445 dans les conditions fixées au I.
+
+(1) Annexe IV, art. 54 A à 54 J.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 445
+	  - CGIAN4 54 A à CGIAN4 54 J
+
+	**Anciens textes**:
+
+	  - CGI 445, 3 derniers alinéas
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 31 juillet 1986
+	  - HISTO: Edition du 31 mars 2001
+
+	**Créé par**:
+
+	  - Décret n°48-1986 1948-12-09 art. 262 JORF 1er janvier 1949, rectificatif JORF 9 janvier 1949
+
+	**Modifié par**:
+
+	  - Décret n°50-1261 1950-10-06 art. 23 JORF 9 10 octobre 1950
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 64 (V) JORF 31 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Abrogé par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
+
 
 ##### 2° : Déclarations d'enlèvement
 
@@ -21845,6 +22511,41 @@ concerne les frais de confection des matrices et de surveillance de leur emploi,
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 A (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 U (V)
+
+
+###### Article 445
+
+Doivent circuler sous le couvert :
+
+a  D'acquits-à-caution, les boissons enlevées à destination :
+
+1° De négociants, marchands en gros, distillateurs et tous autres soumis aux exercices des agents des impôts avec le bénéfice
+du crédit des droits;
+
+2° Des dénaturateurs et fabricants de vinaigres;
+
+3° De l'étranger, des départements et territoires d'outre-mer et des Etats de la Communauté [*CEE*];
+
+4° D'ambassadeurs et autres membres du corps diplomatique directement accrédités auprès du chef de l'Etat.
+
+Doivent également circuler sous le couvert d'acquits-à-caution les cidres et poirés visés à l'article 434, deuxième alinéa.
+
+b  De passavants ou de laissez-passer, les boissons pour lesquelles est fournie la justification du paiement antérieur des
+droits, les alcools ramenés par les bouilleurs de cru de la brûlerie au siège de leur exploitation et les vins, cidres,
+poirés et hydromels déplacés par les récoltants dans les conditions prévues à l'article 441-1° et 2°.
+
+c  De congés, les boissons déplacées dans tous les autres cas.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 434 al. 2
+	  - CGI 441 1°, 2°
+
+	**Nouveaux textes**:
+
+	  - CGI 445 A (3 derniers alinéas)
 
 
 ##### Boissons warrantées.
@@ -27818,6 +28519,47 @@ Les dispositions ci-dessus sont applicables en cas de renonciation postérieure 
 	  - Loi n°2006-1771 du 30 décembre 2006 - art. 52 () JORF 31 décembre 2006
 
 
+###### Article 786
+
+Pour la perception des droits de mutation à titre gratuit, il n'est pas tenu compte du lien de parenté résultant de
+l'adoption simple.
+
+Cette disposition n'est pas applicable aux transmissions entrant dans les prévisions de l'alinéa 1er de l'article 368-1 du
+code civil, ainsi qu'à celles faites en faveur :
+
+1° D'enfants issus d'un premier mariage du conjoint de l'adoptant;
+
+2° De pupilles de l'Etat ou de la Nation ainsi que d'orphelins d'un père mort pour la France;
+
+3° D'adoptés qui, soit dans leur minorité et pendant cinq ans au moins, soit dans leur minorité et leur majorité et pendant
+dix ans au moins, auront reçu de l'adoptant des secours et des soins non interrompus;
+
+4° D'adoptés dont le ou les adoptants ont perdu, morts pour la France, tous leurs descendants en ligne directe;
+
+5° D'adoptés dont les liens de parenté avec la famille naturelle ont été déclarés rompus par le tribunal saisi de la requête
+en adoption, sous le régime antérieur à l'entrée en vigueur de la loi n° 66-500 du 11 juillet 1966;
+
+6° Des successibles en ligne directe descendante des personnes visées aux 1° à 5°;
+
+7° D'adoptés, anciens déportés politiques ou enfants de déportés n'ayant pas de famille naturelle en ligne directe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-500 1966-07-11
+	  - Code civil 368 1 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+	  - TXT_ASSOCIE: Note 1996-12-31 7G-1-97
+
+
 ###### Article 787 A
 
 Les dons et legs consentis aux pupilles de l'Etat ou de la Nation et aux enfants visés au 3° de l'article 46 du code de la
@@ -28098,6 +28840,44 @@ titre, à une date et sous une forme quelconques.
 
 	  - Code général des impôts, CGI. - art. 793 (VD)
 	  - Livre des procédures fiscales - art. L181 B (V)
+
+
+###### Article 794
+
+I Les régions, les départements, les communes, les établissements publics hospitaliers et les bureaux d'aide sociale sont
+exonérés des droit de mutation à titre gratuit sur les biens qui leur adviennent par donation ou succession.
+
+II  Les dispositions du I sont applicables aux libéralités faites aux organismes d'administration et de gestion de la
+sécurité sociale ainsi qu'à la caisse générale de prévoyance des marins et de leurs familles en cas d'accident, de maladie,
+d'invalidité et de maternité (1).
+
+(1) Voir également art. 1075.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1075
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Arrêté du 17 avril 2015 (V)
+	  - Décret n°2015-442 du 17 avril 2015 (V)
+	  - Décret n°2016-1369 du 12 octobre 2016 (V)
+	  - Décret n°2016-1369 du 12 octobre 2016 - art. 1
+	  - Arrêté du 17 octobre 2016 (V)
+	  - Code de commerce - art. R444-11-1 (V)
+	  - Code de la sécurité sociale. - art. L124-1 (V)
+	  - Code du patrimoine. - art. L122-2 (V)
+	  - Code général des impôts, CGI. - art. 777 (V)
+	  - Code général des impôts, CGI. - art. 788 (VD)
+	  - Code général des impôts, CGI. - art. 795 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 281 K (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 281 L (V)
 
 
 ###### Article 796
@@ -30787,6 +31567,36 @@ substitue, le cas échéant, aux diverses taxes auxquelles donnait ouverture, en
 	  - Loi n°85-1403 du 30 décembre 1985 - art. 12 (P) JORF 31 décembre 1985
 
 
+###### Article 950
+
+La carte spéciale délivrée aux étrangers exerçant une profession commerciale ou industrielle est assujettie, lors de sa
+délivrance ou de son renouvellement, à la perception d'une somme de (1) :
+
+a  620 F [*montant*] lorsque sa validité est supérieure à trois ans;
+
+b  310 F lorsque sa validité est supérieure à un an [*durée*], mais inférieure ou égale à trois ans;
+
+c  20 F par mois, lorsque sa validité est inférieure ou égale à un an.
+
+Les sommes ci-dessus sont réduites de moitié pour les cartes d'artisans.
+
+La carte qui sera délivrée aux étrangers exerçant une profession agricole (propriétaires ou exploitants, à l'exclusion de
+ceux ayant repris une exploitation abandonnée) est assujettie à la perception d'une somme de 310 F, quelle que soit la durée
+de validité.
+
+(1) Annexe III, art. 313 AT.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 AT
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
 ##### B : Exonérations
 
 ###### Article 952
@@ -30973,6 +31783,43 @@ vigueur.
 	**Abrogé par**:
 
 	  - Loi - art. 31 () JORF 31 décembre 1999
+
+
+##### VI : Navigation intérieure et navigation maritime de plaisance
+
+###### Article 963
+
+I  La délivrance du certificat d'immatriculation visé à l'article 83 du code des voies navigables et de la navigation
+intérieure est subordonnée au paiement par le propriétaire du bateau d'un droit fixe de 35 F [*montant*] pour tous frais.
+
+II  La délivrance du certificat de jaugeage est subordonnée au paiement par le propriétaire du bateau d'un droit fixe de 70
+F, à l'exclusion de tout autre droit, sans préjudice du remboursement des frais de déplacement des agents jaugeurs.
+
+III  La délivrance du permis de navigation est subordonnée au paiement par le propriétaire du bateau d'un droit fixe de 40 F,
+à l'exclusion de tout autre droit.
+
+IV  La délivrance du permis de conduire les navires de plaisance à moteur en mer et sur les eaux intérieures et du certificat
+de capacité pour la conduite des bateaux à propulsion mécanique est subordonnée au paiement par l'intéressé d'un droit fixe
+de 240 F, à l'exclusion de tout autre droit.
+
+V  Le droit d'examen pour l'obtention du permis de conduire les navires de plaisance à moteur en mer ou sur les eaux
+intérieures est fixé à 95 F.
+
+**Nota:**
+
+Nota : Voir annexe III, art. 313 AZ
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 AZ
+	  - Code du domaine public fluvial 83
+
+	**Cité par**:
+
+	  - Décret n°2017-971 du 9 mai 2017 - art. 1
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 313 AZ (V)
 
 
 ##### VII : Permis de chasser
@@ -33477,6 +34324,24 @@ Les dispositions qui précèdent sont applicables au mariage entre français et 
 
 ##### 7° : Marine
 
+###### Article 1074
+
+1 Les actes de l'état civil, les actes de notoriété et toutes autres pièces relatives à l'exécution de la loi du 12 avril
+1941 concernant le service des pensions de retraite dans la marine sont exonérés des droits de timbre et d'enregistrement.
+
+2 (Abrogé).
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+	**Cite**:
+
+	  - Loi n°1941-04-12
+
+
 ###### Article 1075
 
 Les dispositions de l'article 1083 sont applicables à la caisse générale de prévoyance des marins et de leurs familles en cas
@@ -33521,6 +34386,32 @@ employés des mines sont exonérés des droits de timbre et d'enregistrement et 
 
 	  - CGI 679
 	  - Loi n°1903-03-31 art. 84 à 96
+
+
+###### Article 1080
+
+Les dispositions de l'article 1087 relatives aux mutuelles s'appliquent aux sociétés de secours des ouvriers et employés des
+mines.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1087
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+	  - SPEC_APPLI: Décret n°86-1086 du 7 octobre 1986 - art. 1, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°85-773 du 25 juillet 1985 - art. 1 (V) JORF 26 juillet 1985
+	  - Loi n°85-773 du 25 juillet 1985 - art. 3 (V) JORF 26 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ##### 9° : Rapatriés et personnes dépossédées de leurs biens outre-mer
@@ -48341,6 +49232,41 @@ sceaux, ministre de la justice (2).
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 416 ter (V)
 
 
+###### Article 1929 septies
+
+En cas de redressement judiciaire, des cessions de rang de privilège ou d'hypothèque visant à garantir les créances du Trésor
+public ou l'abandon de ces sûretés peuvent être consentis dans les conditions précisées par décret en Conseil d'Etat (1).
+
+(1) Annexe II 396 bis A.
+
+**Nota:**
+
+NOTA : Loi 2005-845 2005-07-26 art. 165 II :
+
+Dans tous les textes législatifs et réglementaires, les références faites au redressement judiciaire et au plan de
+redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de redressement judiciaire,
+et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont remplacées par des références aux
+plans de sauvegarde ou de redressement judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 396 bis A
+
+	**Créé par**:
+
+	  - Loi n°85-98 1985-01-25 art. 24 JORF 26 janvier 1985 en vigueur le 1er janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
 ###### Article 1929 sexies
 
 Le privilège qui s'exerce en matière de taxes sur le chiffre d'affaires, de droits d'enregistrement, de taxe de publicité
@@ -50132,9 +51058,9 @@ constatation, le recouvrement et le contentieux de ces indemnités sont assurés
 ###### Article 1757
 
 Les majorations de droits prévues à l'article 1729-1 et 3 sont applicables en ce qui concerne toute personne qui, encaissant
-directement ou indirectement des revenus soit dans les territoires d'outre-mer ou dans les Etats de la Communauté [*CEE*],
-soit à l'étranger, ne les a pas mentionnés séparément dans la déclaration prévue à l'article 170. Toutefois, les majorations
-ne portent que sur le supplément de droit dû en application de l'article 173-2.
+directement ou indirectement des revenus soit dans les territoires d'outre-mer ou dans les Etats de l'ancienne Communauté
+[*CEE*], soit à l'étranger, ne les a pas mentionnés séparément dans la déclaration prévue à l'article 170. Toutefois, les
+majorations ne portent que sur le supplément de droit dû en application de l'article 173-2.
 
 **Liens relatifs à cet article**
 
@@ -50144,9 +51070,13 @@ ne portent que sur le supplément de droit dû en application de l'article 173-2
 	  - CGI 1729 1, 3
 	  - CGI 173 2
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°86-1086 1986-10-07
+
+	**Modifié par**:
+
+	  - Décret n°86-1086 1986-10-07 art. 1 JORF 9 octobre 1986 en vigueur le 31 juillet 1986
 
 
 ###### Article 1758
