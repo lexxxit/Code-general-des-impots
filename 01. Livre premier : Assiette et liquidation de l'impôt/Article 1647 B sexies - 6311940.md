@@ -1,6 +1,6 @@
 # Article 1647 B sexies
 
-I. Sur demande du redevable, la cotisation de taxe professionnelle de chaque entreprise est plafonnée à 4,5 % [*pourcentage*]
+I. Sur demande du redevable, la cotisation de taxe professionnelle de chaque entreprise est plafonnée à 4 % [*pourcentage*]
 de la valeur ajoutée produite au cours de la période retenue pour la détermination des bases imposables et définie selon les
 modalités prévues aux II et III (1).
 
@@ -69,6 +69,25 @@ entre cet élément et le montant total des bases.
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - Arrêté du 25 octobre 2006 - art. 1 (V)
+	  - Loi n°90-568 du 2 juillet 1990 - art. 21 (VD)
+	  - Loi n°2005-781 du 13 juillet 2005 - art. 67 (VT)
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 85 (V)
+	  - Décret n°2013-426 du 24 mai 2013 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 40 A (V)
+	  - Code général des impôts, CGI. - art. 1647 E (Ab)
+	  - Code général des impôts, CGI. - art. 1647-0 B septies (MMN)
+	  - Code général des impôts, CGI. - art. 1648 A (V)
+	  - Code général des impôts, CGI. - art. 1681 quater A (VD)
+	  - Code général des impôts, CGI. - art. 1929 quater (V)
+	  - Code général des impôts, CGI. - art. 238 bis HW (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 octodecies (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 septdecies (P)
+	  - Livre des procédures fiscales - art. L135 B (VT)
+	  - Livre des procédures fiscales - art. R*190-1 (V)
+
 	**Cite**:
 
 	  - CGI 1449 2°
@@ -82,23 +101,4 @@ entre cet élément et le montant total des bases.
 
 	**Modifié par**:
 
-	  - Loi n°88-1149 du 23 décembre 1988 - art. 31 (V) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
-
-	**Cité par**:
-
-	  - Loi n°90-568 du 2 juillet 1990 - art. 21 (VD)
-	  - Loi n°2005-781 du 13 juillet 2005 - art. 67 (VT)
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 85 (V)
-	  - Arrêté du 25 octobre 2006 - art. 1 (V)
-	  - Décret n°2013-426 du 24 mai 2013 (V)
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 40 A (V)
-	  - Code général des impôts, CGI. - art. 1647 E (Ab)
-	  - Code général des impôts, CGI. - art. 1647-0 B septies (MMN)
-	  - Code général des impôts, CGI. - art. 1648 A (V)
-	  - Code général des impôts, CGI. - art. 1681 quater A (VD)
-	  - Code général des impôts, CGI. - art. 1929 quater (V)
-	  - Code général des impôts, CGI. - art. 238 bis HW (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 octodecies (P)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 septdecies (P)
-	  - Livre des procédures fiscales - art. L135 B (VT)
-	  - Livre des procédures fiscales - art. R*190-1 (V)
+	  - Loi n°89-935 du 29 décembre 1989 de finances p... - art. 7
