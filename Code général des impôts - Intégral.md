@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1987-07-15
+Version Consolidée au 1987-07-19
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -51939,6 +51939,42 @@ reprise étant alors appréciée dans les conditions fixées par un arrêté du 
 	  - Loi n°48-2389 1948-08-26 art. 1
 
 
+###### Article 1716 A
+
+Lorsque leur auteur a acquis, en application de la loi n° 78-1 du 2 janvier 1978 relative à l'indemnisation des rapatriés
+d'outre-mer dépossédés de leurs biens et de la loi n° 87-549 du 16 juillet 1987 relative au règlement de l'indemnisation des
+rapatriés, une créance sur l'Etat, les droits de mutation par décès exigibles sur la créance revenant à chaque ayant droit
+peuvent ^etre acquittés par imputation sur cette créance.
+
+(1) Disposition applicable aux titres remis aux créanciers mentionnés au chapitre Ier du titre IV de la loi du 15 juillet
+1970 qui ont formé opposition conformément aux prescriptions de l'article 50 de la même loi et dont l'opposition a été
+validée dans les conditions prévues par le décret n° 70-813 du 11 septembre 1970 (Voir décret n° 78-231 du 2 mars 1978,
+article 3).
+
+**Nota:**
+
+Nota : Voir aussi annexe III, art. 391, 392 et 394 et annexe IV, 198 bis et 198 ter
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 391
+	  - CGIAN3 392
+	  - CGIAN3 394
+	  - CGIAN4 198 bis
+	  - CGIAN4 198 ter
+	  - Décret n°70-813 1970-09-11
+	  - Décret n°78-231 1978-03-02 art. 3
+	  - Loi n°1970-07-15 art. 50
+	  - Loi n°78-1 1978-01-02
+	  - Loi n°87-549 1987-07-16
+
+	**Modifié par**:
+
+	  - Loi n°87-549 du 16 juillet 1987 - art. 6 (V) JORF 19 juillet 1987
+
+
 #### V bis : Paiement par remise d'oeuvres d'art.
 
 ###### Article 1716 bis
@@ -58510,38 +58546,6 @@ Le recouvrement de l'imposition ou de la fraction d'imposition non réglée est 
 	**Cite**:
 
 	  - CGI 223 septies
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE
-
-###### Article 1716 A
-
-Lorsque leur auteur a acquis, en application de la loi n° 78-1 du 2 janvier 1978 relative à l'indemnisation des rapatriés
-d'outre-mer dépossédés de leurs biens, une créance sur l'Etat, les droits de mutation par décès exigibles sur la créance
-revenant à chaque ayant droit en application de l'article 12 de la loi précitée peuvent être acquittés par imputation sur
-cette créance (1).
-
-1) Disposition applicable aux titres remis aux créanciers mentionnés au chapitre Ier du titre IV de la loi du 15 juillet 1970
-qui ont formé opposition conformément aux prescriptions de l'article 50 de la même loi et dont l'opposition a été validée
-dans les conditions prévues par le décret n° 70-813 du 11 septembre 1970 (Voir décret n° 78-231 du 2 mars 1978, article 3).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 391
-	  - CGIAN3 392
-	  - CGIAN3 394
-	  - CGIAN4 198 bis
-	  - CGIAN4 198 ter
-	  - Loi n°70-632 1970-07-15 ART. 50
-	  - Décret n°70-813 1970-09-11
-	  - Loi n°78-1 du 2 janvier 1978 - art. 12 (V)
-	  - Décret n°78-231 1978-03-02 ART. 3
 
 	**Liens**:
 
