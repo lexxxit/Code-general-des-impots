@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1980-05-13
+Version Consolidée au 1980-05-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -7478,6 +7478,40 @@ poursuivies comme en matière de contributions indirectes.
 
 
 ##### Section VIII : Importations
+
+###### Article 292
+
+La base d'imposition est constituée par la valeur définie par la législation douanière conformément aux règlements
+communautaires en vigueur (1).
+
+Toutefois, sont à comprendre dans la base d'imposition :
+
+1° Les impôts, droits, prélèvements et autres taxes qui sont dus en raison de l'importation, à l'exception de la taxe sur la
+valeur ajoutée elle-même ;
+
+2° Les frais accessoires, tels que les frais de commission, d'emballage, de transport et d'assurance intervenant jusqu'au
+premier lieu de destination des biens à l'intérieur du pays ; par premier lieu de destination [*définition*], il faut
+entendre le lieu mentionné sur la lettre de voiture ou tout autre document de transport sous le couvert duquel les biens sont
+importés ; à défaut de cette mention, le premier lieu de destination est celui de la première rupture de charge.
+
+Ne sont pas à comprendre dans la base d'imposition les remises, rabais et autres réductions de prix acquis au moment de
+l'importation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Loi n°2004-639 du 2 juillet 2004 - art. 45 (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 octies (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 35 (P)
+
 
 ###### Article 293 A
 
@@ -37930,39 +37964,6 @@ qui portent sur des bateaux de sport ou de plaisance.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 P (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 octies (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 septies (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 292
-
-La base d'imposition est constituée par la valeur définie à l'article 35 du code des douanes.
-
-Toutefois, sont à comprendre dans la base d'imposition :
-
-1° Les impôts, droits, prélèvements et autres taxes qui sont dus en raison de l'importation, à l'exception de la taxe sur la
-valeur ajoutée elle-même;
-
-2° Les frais accessoires, tels que les frais de commission, d'emballage, de transport et d'assurance intervenant jusqu'au
-premier lieu de destination des biens à l'intérieur du pays; par premier lieu de destination [*définition*], il faut entendre
-le lieu mentionné sur la lettre de voiture ou tout autre document de transport sous le couvert duquel les biens sont
-importés; à défaut de cette mention, le premier lieu de destination est celui de la première rupture de charge.
-
-Ne sont pas à comprendre dans la base d'imposition les remises, rabais et autres réductions de prix acquis au moment de
-l'importation.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°2004-639 du 2 juillet 2004 - art. 45 (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 octies (V)
-
-	**Cite**:
-
-	  - Code des douanes - art. 35 (P)
 
 	**Liens**:
 
