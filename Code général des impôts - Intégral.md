@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1985-09-01
+Version Consolidée au 1985-12-05
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -29111,6 +29111,44 @@ siège social sur la remise d'une déclaration détaillée faisant connaître la
 	  - CGI 1005
 
 
+##### Section IV : Taxe sur les défrichements.
+
+###### Article 1011
+
+Conformément à l'article L. 314-1 du code forestier, une taxe est due à l'occasion de toute décision, expresse ou tacite,
+autorisant un défrichement en application des articles L. 311-1, L. 312-1 ou L. 363-2 du même code.
+
+Elle est liquidée par l'administration  chargée des forêts.
+
+Elle est recouvrée par les comptables de la direction générale des impôts dans les conditions prévues aux articles 1723 ter A
+et 1840 N quinquies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1723 ter A, 1840 N quinquies
+	  - Code forestier - art. L311-1 (M)
+	  - Code forestier - art. L312-1 (M)
+	  - Code forestier - art. L314-1 (M)
+	  - Code forestier - art. L363-2 (M)
+
+	**Modifié par**:
+
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 48 () JORF 5 décembre 1985
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 53 () JORF 5 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+	  - Décret n°2001-435 2001-05-21
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 57 () JORF 31 décembre 1999
+	  - HISTO: Edition du 31 mars 2001
+
+
 ##### Section V bis : Droit fixe de procédure.
 
 ###### Article 1018 A
@@ -43628,6 +43666,44 @@ de chèque en blanc, payables à leur caisse, doivent, sous peine, pour chaque c
 	  - HISTO: Edition du 11 avril 1997
 
 
+###### Article 1840 N quinquies
+
+Conformément à l'article L. 314-9 du code forestier, tout défrichement effectué en infraction aux dispositions des articles
+L. 311-1, L. 312-1 et L. 363-2 du même code entraîne l'éxigibilité immédiate de la taxe mentionnée à l'article 1011, calculée
+à partir de la surface des terrains défrichés, et d'une amende fiscale égale à 50 % du montant de cette taxe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1011
+	  - Code forestier - art. L311-1 (M)
+	  - Code forestier - art. L312-1 (M)
+	  - Code forestier - art. L314-9 (M)
+	  - Code forestier - art. L363-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+	  - Décret n°2001-435 2001-05-21
+	  - Décret n°2006-356 2006-03-24
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 57 () JORF 31 décembre 1999
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 31 mars 2001
+
+	**Modifié par**:
+
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 55 () JORF 5 décembre 1985
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 17 () JORF 8 décembre 2005
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 25 (V) JORF 8 décembre 2005
+
+
 ###### Article 1840 N sexies
 
 Les infractions aux dispositions de l'article 1er de la loi du 22 octobre 1940 relatives aux règlements par chèques et
@@ -45304,16 +45380,21 @@ Les époux sont solidaires pour le paiement de l'impôt sur les grandes fortunes
 ###### Article 1723 ter A
 
 En application des articles L 314-7 et R314-1 du code forestier, la taxe sur les défrichements des bois et forêts mentionnée
-à l'article 1011 est versée au comptable des impôts du lieu de défrichement dans les six mois de la notification au redevable
-[*délai*].
+à l'article 1011 est versée au comptable des impôts du lieu de défrichement dans les six mois de la notification au
+redevable. (Ce délai est porté [*durée*] à trois ans lorsque le défrichement autorisé a pour objet d'agrandir ou de créer une
+exploitation agricole dans la limite d'une surface au plus égale à trois fois la surface minimum d'installation fixée en
+application de l'article 188-4 du code rural. Il est fixé à cinq ans lorsque le défrichement a pour objet l'installation de
+cultures temporaires dont la liste est fixé par décret. Lorsque le défrichement est la conséquence de l'exploitation d'une
+substance minérale, le propriétaire s'acquitte de la taxe par tranche annuelle selon un échéancier annèxé à l'autorisation de
+défrichement).
 
-Elle peut être restituée dans les conditions prévues à l'article L 314-8 du code précité.
+La taxe  peut être restituée dans les conditions prévues à l'article L 314-8 du code précité.
 
 En application des articles L 314-10 à L 314-12 du même code :
 
 1° La taxe sur les défrichements et, éventuellement, l'amende fiscale de 50 % mentionnée à l'article 1840 N quinquies ou
 l'indemnité de retard due en vertu de l'article 1727, sont recouvrées par les comptables de la direction générale des impôts
-dans les conditions fixées au titre IV du livre des procédures fiscales ;
+dans les conditions fixées au titre IV du livre des procédures fiscales [*art. L252 à art. L283*] ;
 
 2° le recouvrement de la taxe est garanti par le privilège prévu à l'article 1929-1 et par l'hypothèque légale prévue à
 l'article 1929 ter ;
@@ -45331,21 +45412,21 @@ directs.
 	  - CGI 1840 N quinquies
 	  - CGI 1929 1
 	  - CGI 1929 ter
-	  - CGIAN4 199
-	  - CGIAN4 200
-	  - CGIAN4 201
-	  - CGIAN4 202
-	  - CGIAN4 203
-	  - CGIAN4 204
+	  - Code rural 188-4
 	  - Code forestier - art. L314-10 (Ab)
 	  - Code forestier - art. L314-11 (Ab)
 	  - Code forestier - art. L314-12 (Ab)
 	  - Code forestier - art. L314-7 (M)
+	  - Code forestier - art. L314-8 (M)
 	  - Code forestier R314-1
+
+	**Modifié par**:
+
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 53 () JORF 5 décembre 1985
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°86-1086 1986-10-07
 
 
 ###### Article 1723 undecies
@@ -47267,30 +47348,6 @@ II  (Abrogé)
 	**Codifié par**:
 
 	  - Décret n°85-1007 1985-09-24
-
-
-###### Article 1840 N quinquies
-
-En application de l'article L. 314-9 du code forestier, le défaut de production dans le délai imparti de la déclaration
-prévue à l'article L. 314-7 relative à la superficie des terrains défrichés au cours de l'année précédente, ainsi que tout
-défrichement effectué en infraction aux dispositions des articles L. 311-1 et L. 312-1 du même code, entraînent l'exigibilité
-immédiate de la taxe sur les défrichements et d'une amende fiscale égale à 50 % du montant de cette taxe. La taxe et
-l'amende, liquidées comme il est dit à l'article L. 314-9 précité, sont recouvrées dans les conditions prévues à l'article
-1723 ter A.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1723 ter A
-	  - Code forestier - art. L311-1 (M)
-	  - Code forestier - art. L312-1 (M)
-	  - Code forestier - art. L314-9 (M)
-	  - Code forestier 314-7
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 1840 O
