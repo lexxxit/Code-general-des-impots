@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1988-12-31
+Version Consolidée au 1989-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8637,6 +8637,49 @@ Voir annexe III, art. 2 C. (6) Ces dispositions s'appliquent aux opérations d'�
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 C (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies F (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies G (V)
+
+
+###### Article 38 bis A
+
+Par dérogation aux dispositions de l'article 38, les établissements de crédit et les maisons de titres mentionnées à
+l'article 99 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit qui
+inscrivent sur un compte de titres de transaction à l'actif de leur bilan des valeurs mobilières cotées ou négociables sur un
+marché sont imposés au taux normal et dans les conditions de droit commun sur l'écart résultant de l'évaluation de ces titres
+au cours le plus récent à la clôture de l'exercice ou lors de leur retrait du compte, ainsi que sur les profits et les pertes
+dégagés lors de leur cession.
+
+Si les valeurs mobilières ne sont pas cédées dans le délai de six mois suivant leur acquisition, elles sont transférées de
+manière irréversible au compte de titres de placement et inscrites à ce dernier compte au cours le plus récent au jour du
+transfert. En cas de cession de ces valeurs mobilières, le délai de deux ans mentionné à l'article 39 duodecies est décompté
+à partir de la date du transfert.
+
+Les valeurs mobilières inscrites au compte de titres de transaction ne peuvent faire l'objet d'un prêt dans les conditions
+prévues à l'article 31 de la loi n° 87-416 du 17 juin 1987 sur l'épargne que si son échéance n'intervient pas plus de six
+mois après l'acquisition de ces titres. Par dérogation à l'article 38 bis, la créance représentative des titres prêtés est
+inscrite au cours le plus récent des titres à la date du prêt ; elle est évaluée au cours le plus récent des titres prêtés à
+la clôture de l'exercice. Lors de leur restitution, les titres sont repris au compte de titres de transaction pour la valeur
+de la créance à cette date.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 38
+	  - CGI 39 duodecies
+	  - Loi n°84-46 1984-01-24 art. 99
+	  - Loi n°87-416 1987-06-17 art. 31
+
+	**Créé par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 25 () JORF 28 décembre 1988, en vigueur le 1er janvier 1989
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 145 (V)
+	  - Code général des impôts, CGI. - art. 219 (VD)
+	  - Code général des impôts, CGI. - art. 38 (V)
+	  - Code général des impôts, CGI. - art. 38 bis B (VD)
+	  - Code général des impôts, CGI. - art. 38 bis C (VD)
 
 
 ###### Article 38 ter
@@ -21466,6 +21509,115 @@ chiffre d'affaires.
 
 ##### Section II : Taxe sur les salaires
 
+###### Article 231
+
+1. Les sommes payées à titre de traitements, salaires, indemnités et émoluments, y compris la valeur des avantages en nature,
+sont soumises à une taxe sur les salaires égale à 4,25 % de leur montant, à la charge des personnes ou organismes, à
+l'exception des collectivités locales et de leurs groupements, des services départementaux de lutte contre l'incendie, des
+bureaux d'aide sociale dotés d'une personnalité propre lorsqu'ils sont subventionnés par les collectivités locales, du centre
+de formation des personnels communaux et des caisses des écoles [*exonérations*], qui paient des traitements, salaires,
+indemnités et émoluments lorsqu'ils ne sont pas assujettis à la taxe sur la valeur ajoutée ou ne l'ont pas été sur 90 %
+[*pourcentage*] au moins de leur chiffre d'affaires au titre de l'année civile précédant celle du paiement desdites
+rémunérations. L'assiette de la taxe due par ces personnes ou organismes est constituée par une partie des rémunérations
+versées, déterminée en appliquant à l'ensemble de ces rémunérations le rapport existant, au titre de cette même année, entre
+le chiffre d'affaires qui n'a pas été passible de la taxe sur la valeur ajoutée et le chiffre d'affaires total.
+
+Les entreprises entrant dans le champ d'application de la taxe sur la valeur ajoutée qui n'ont pas été soumises en fait à
+cette taxe en vertu d'une interprétation formellement admise par l'administration sont redevables de la taxe sur les
+salaires.
+
+Les rémunérations payées par l'Etat sur le budget général sont exonérées de taxe sur les salaires lorsque cette exonération
+n'entraîne pas de distorsion dans les conditions de la concurrence.
+
+1 bis. (Abrogé).
+
+1 ter. Les indemnités, remboursements et allocations forfaitaires pour frais versés aux dirigeants de sociétés désignés à
+l'article 80 ter sont, quel que soit leur objet, soumis à la taxe sur les salaires.
+
+2. (Abrogé).
+
+2 bis. Le taux de la taxe sur les salaires prévue au 1 est porté de 4,25 à 8,50 % pour la fraction comprise entre 32.800 F et
+65.600 F et à 13,60 % pour la fraction excédant 65.600 F de rémunérations individuelles annuelles. Ces limites sont relevées
+chaque année dans la même proportion que la limite supérieure de la septième tranche du barème de l'impôt sur le revenu de
+l'année précédente. Les montants obtenus sont arrondis, s'il y a lieu, à la dizaine de francs supérieure.
+
+Les taux majorés ne sont pas applicables aux traitements, salaires, indemnités et émoluments versés par les personnes
+physiques ou morales, associations et organismes domiciliés ou établis dans les départements d'outre-mer [*DOM*].
+
+3 a. Les conditions et modalités d'application du 1 sont fixées par décret (1). Il peut être prévu par ce décret des règles
+spéciales pour le calcul de la taxe sur les salaires en ce qui concerne certaines professions, notamment celles qui relèvent
+du régime agricole au regard des lois sur la sécurité sociale et celles qui comportent habituellement une rémunération par
+salaires-pourboires.
+
+Un décret en Conseil d'Etat fixera, en tant que de besoin, les modalités selon lesquelles sera déterminé le rapport défini au
+1.
+
+b. Un décret pris en conseil des ministres, après avis du Conseil d'Etat (2), fixe les conditions d'application du 2 bis,
+premier alinéa.
+
+4. Le produit de la taxe sur les salaires est affecté en totalité au budget général.
+
+5. Le taux de 4,25 % prévu au 1 est réduit à 2,95 %, dans les départements de la Guadeloupe, de la Martinique et de la
+Réunion, et à 2,55 % dans le département de la Guyane [*DOM*].
+
+6. Les dispositions de l'article 1er de la loi n° 68-1043 du 29 novembre 1968, qui, sous réserve du 1, ont supprimé la taxe
+sur les salaires pour les rémunérations versées à compter du 1er décembre 1968 [*date point de départ*], n'apportent aucune
+modification aux textes législatifs et réglementaires en vigueur, autres que ceux repris sous le présent article, et qui se
+réfèrent à la taxe sur les salaires.
+
+(1) Annexe III, art. 50 à 53 quater et 369 à 374.
+
+(2) Annexe II, art. 141 à 144 et 383.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 231 bis H
+	  - CGI 80 ter
+	  - CGIAN2 141
+	  - CGIAN2 142
+	  - CGIAN2 143
+	  - CGIAN2 144
+	  - CGIAN2 383
+	  - CGIAN3 369
+	  - CGIAN3 370
+	  - CGIAN3 371
+	  - CGIAN3 372
+	  - CGIAN3 373
+	  - CGIAN3 374
+	  - CGIAN3 50 A CGIAN3 53 quater
+	  - Loi n°66-537 1966-07-24 art. 208-1 à art. 208-8
+	  - Loi n°84-578 1984-07-08 (1984-07-09)
+	  - Loi n°68-1043 du 29 novembre 1968 - art. 1, v. init.
+	  - Loi n°70-1322 du 31 décembre 1970 - art. 1 ()
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 19 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+
+	**Cité par**:
+
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 5 (V)
+	  - Décret n°2013-265 du 28 mars 2013 (V)
+	  - Décret n°2016-1361 du 12 octobre 2016 - art. 1
+	  - Code de la construction et de l'habitation. - art. L313-1 (V)
+	  - Code de la sécurité sociale. - art. L131-8 (V)
+	  - Code de la sécurité sociale. - art. L135-3 (M)
+	  - Code du travail - art. R3142-1 (Ab)
+	  - Code du travail - art. R6331-47 (V)
+	  - Code du travail applicable à Mayotte. - art. R225-1 (V)
+	  - Code général des impôts, CGI. - art. 1679 (VD)
+	  - Code général des impôts, CGI. - art. 1681 quinquies (V)
+	  - Code général des impôts, CGI. - art. 1681 septies (VD)
+	  - Code général des impôts, CGI. - art. 231 bis C (MMN)
+	  - Code général des impôts, CGI. - art. 231 bis D (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 143 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 51 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 53 bis (V)
+
+
 ###### Article 231 bis C
 
 1. Dans la mesure où elles sont admises en déduction des bénéfices imposables de l'entreprise versante, en vertu de l'article
@@ -21576,6 +21728,41 @@ chapitre III de l'ordonnance n° 86-1134 du 21 octobre 1986 sont exonérées de 
 	**Codifié par**:
 
 	  - Décret n°87-940 1987-11-23
+
+
+###### Article 231 bis F
+
+Lorsque l'employeur contribue à l'acquisition, par le salarié bénéficiaire, des titres-restaurants émis conformément aux
+dispositions du titre III de l'ordonnance n° 67-830 du 27 septembre 1967 et que cette contribution est comprise entre un
+minimum et un maximum fixés par arrêté du ministre de l'économie et des finances (1), le complément de rémunération qui en
+résulte pour le salarié est exonéré, dans la limite de 18 F [*montant*] (2) par titre, de la taxe sur les salaires prévue à
+l'article 231.
+
+Cette exonération est subordonnée à la condition que l'employeur se conforme aux obligations qui sont mises à sa charge par
+le titre III de l'ordonnance susvisée du 27 septembre 1967 et les textes pris pour son application (3).
+
+(1) Annexe IV, art. 23 M.
+
+(2) Chiffre applicable depuis le 1er janvier 1989 ; cette limite était antérieurement de 15 F.
+
+(3) Annexe II, art. 145.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 231
+	  - CGIAN2 145
+	  - CGIAN4 23 M
+	  - Ordonnance 67-830 1967-09-27 TITRE III
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 20 (V) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L131-4 (V)
 
 
 ###### Article 231 bis G
@@ -27029,6 +27216,62 @@ impôts.
 	  - TXT_ASSOCIE: Instruction 2001-07-02 3L-2-01
 
 
+###### Article 260 C
+
+L'option mentionnée à l'article 260 B ne s'applique pas :
+
+1° Aux opérations effectuées entre eux par les organismes dépendant de la chambre syndicale des banques populaires;
+
+2° Aux opérations effectuées entre elles par les caisses de crédit mutuel adhérentes à la confédération nationale du crédit
+mutuel;
+
+3° Aux opérations effectuées entre elles par les caisses de crédit agricole mentionnées à l'article 614 du code rural;
+
+4° Aux intérêts, agios et rémunérations de prêts de titres effectués dans les conditions du chapitre V de la loi n° 87-416 du
+17 juin 1987 sur l'épargne ;
+
+5° Aux rémunérations assimilables à des intérêts ou agios dont la liste est établie par arrêté du ministre chargé des
+finances (1);
+
+6° Aux cessions de valeurs mobilieres  et de titres de créances négociables ;
+
+7° Aux sommes versées par le Trésor à la banque de France;
+
+8° Aux frais et commissions perçus lors de l'émission des actions des sociétés d'investissement à capital variable et aux
+sommes perçues lors des cessions de créances à des fonds communs de créances ou en rémunération de la gestion de ces
+créances ;
+
+9° Aux opérations bancaires afférentes au financement d'exportations ou d'affaires faites hors de France [*à l'étranger*],
+dont la liste est fixée par arrêté du ministre chargé des finances (2); toutefois, l'option englobe les commissions
+afférentes au financement d'exportations lorsque, par l'effet de l'option, les commissions de même nature sont elles-mêmes
+soumises à la taxe sur la valeur ajoutée en régime intérieur;
+
+10° Aux opérations soumises à la taxe sur les conventions d'assurance.
+
+(1)  Annexe IV, art. 23 O. 2)  Annexe IV, art. 23 P.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 260 B
+	  - CGI 978 et s.
+	  - CGIAN4 23 O
+	  - CGIAN4 23 P
+	  - Code rural 614
+	  - Loi n°87-416 1987-06-17 art. 38 I A
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 O (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 P (V)
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 25 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+	  - Loi n°88-1201 du 23 décembre 1988 - art. 42 (V) JORF 31 décembre 1988
+
+
 ##### II bis : Location de locaux destinés au logement en meublé
 
 ###### Article 260 D
@@ -30765,6 +31008,149 @@ de la Corse, des produits qui sont visés au 1.. II (abrogé) (3). III (disposit
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 duodecies A (V)
 
 
+##### III : Produits pétroliers
+
+###### Article 298
+
+1  1° Toute opération de mise à la consommation sur le marché intérieur de produits pétroliers et assimilés énumérés au
+tableau B de l'article 265 du code des douanes et désignés dans la suite du présent article par les mots "produits
+pétroliers" constitue un fait générateur de la taxe sur la valeur ajoutée;
+
+2° Les opérations portant sur ces produits, réalisées antérieurement à leur mise à la consommation, sont effectuées en
+suspension de la taxe, à l'exception des opérations de transport autres que les transports par pipe-line.
+
+2  L'assiette de la taxe sur la valeur ajoutée applicable aux produits pétroliers est déterminée conformément aux
+dispositions ci-après :
+
+1° Sauf en ce qui concerne les gaz de pétrole et autres hydrocarbures gazeux repris aux numéros 27-11-11, 27-11-14, ex
+27-11-19, ex 27-11-21, 27-11-29 du tarif des douanes et non destinés à être utilisés comme carburants, la valeur imposable
+lors de la mise à la consommation est fixée forfaitairement, pour chaque trimestre de l'année civile, par décision du
+directeur général des douanes et des droits indirects, sur proposition du directeur des carburants.     En ce qui concerne
+les produits autres que le gaz comprimé destiné à être utilisé comme carburant, cette valeur est établie sur la base du prix
+C.A.F. moyen des produits importés, majoré du montant des droits de douane applicables aux produits de l'espèce en régime de
+droit commun en tarif minimum et des taxes et redevances perçues lors de la mise à la consommation, à l'exception de la taxe
+sur la valeur ajoutée.    La valeur imposable peut être révisée au cours du trimestre par décision du directeur général des
+douanes et droits indirects sur proposition du directeur des hydrocarbures, dans le cas où les prix C.A.F. des produits
+pétroliers accusent une variation en plus ou en moins, égale ou supérieure à 10 p. 100 par rapport aux prix ayant servi de
+base au calcul de cette valeur.
+
+2° La valeur imposable lors des opérations postérieures à la mise à la consommation est fixée dans les conditions prévues aux
+articles 266 et 267;     3° (Abrogé)     3  Sous réserve des dispositions du 4, les droits à déduction dont peuvent
+bénéficier l'industrie et le commerce du pétrole sont déterminés dans les conditions prévues aux articles 271 et 273.     4
+1°. La taxe sur la valeur ajoutée qui a grevé des produits pétroliers et les services de toute nature utilisés pour la
+fabrication ou la commercialisation desdits produits n'est déductible que si ces produits sont ultérieurement livrés ou
+vendus en l'état ou sous forme d'autres produits pétroliers [*condition*].
+
+1° bis. Ouvrent droit à déduction de la taxe sur la valeur ajoutée, dans les conditions fixées par les articles 271 à 273,
+les achats, importations, livraisons et services portant sur :
+
+a  Les fiouls lourds (ex 27-10-00-79 du tarif des douanes) utilisés comme combustibles;
+
+b  Les fractions légères (ex 27-10-00-25 et ex 27-10-00-39 du tarif des douanes) utilisées comme combustibles;
+
+c  Les propanes (ex 27-11-12-99 du tarif des douanes) et les butanes (ex 27-11-13-90 du tarif des douanes) utilisés comme
+combustibles;
+
+d  Les produits pétroliers et assimilés visés au tableau B de l'article 265 du code des douanes, utilisés comme matières
+premières ou agents de fabrication.
+
+Pour l'application du d, on entend par matières premières [*définition*] les produits entrant dans la composition de produits
+passibles de la taxe sur la valeur ajoutée et par agents de fabrication [*définition*] les matières ou produits qui,
+normalement et sans entrer dans le produit fini, sont détruits ou perdent leurs qualités spécifiques au cours des opérations
+de fabrication d'un produit soumis à la taxe sur la valeur ajoutée à l'exclusion des produits utilisés pour la carburation,
+la lubrification proprement dite ou la combustion, sous réserve de ce qui est dit aux a, b et c.
+
+1° ter a. La taxe sur la valeur ajoutée afférente aux achats, importations, livraisons et services portant sur le gazole
+utilisé comme carburant est déductible à concurrence de 50 % de son montant, dans les conditions prévues aux articles 271 à
+273.
+
+Ce pourcentage est porté à 60 % pour 1988, 70 % pour 1989, 80 % pour 1990, 90 % pour 1991 et 100 % pour les années suivantes.
+
+Pour la taxe afférente au gazole [*gas-oil*] utilisé pour la réalisation de transports internationaux, le pourcentage est
+porté à 50 p. 100 pour 1985, 65 p. 100 pour 1986, 85 p. 100 jusqu'au 31 octobre 1987 et 100 p. 100 au-delà de cette date.
+
+Sont considérés comme des transports internationaux [*définition*] les transports exonérés de la taxe sur la valeur ajoutée
+en vertu des articles 262 et 291-II.
+
+Le gazole [*définition*] visé au présent article s'entend du produit relevant de la position 27-10-00-69 du tarif des douanes
+et repris au tableau B de l'article 265 du code des douanes sous l'indice d'identification 22.
+
+b. Les dispositions du a sont applicables au gaz de pétrole liquéfié (ex 27-11-19 du tarif des douanes) utilisé comme
+carburant routier ;
+
+1° quater. La taxe sur la valeur ajoutée afférente aux achats, importations, livraisons et services portant sur le fioul
+[*fuel*] domestique utilisé pour des usages agricoles est déductible à concurrence de 50 p. 100 de son montant, dans les
+conditions fixées aux articles 271 à 273, par les personnes visées à l'article 298 bis, par les coopératives d'utilisation de
+matériel agricole et par les entrepreneurs de travaux agricoles.    Le fioul domestique visé au présent article s'entend du
+produit mentionné au tableau B de l'article 265 du code des douanes (1) ;    1° quinquies. La taxe sur la valeur ajoutée
+afférente aux achats, importations, livraisons et services portant sur les carburéacteurs mentionnés à la position 27 10 00
+du tableau B de l'article 265 du code des douanes est déductible, dans les conditions prévues aux articles 271 à 273,
+lorsqu'ils sont utilisés pour les besoins de transports aériens publics de voyageurs ou de marchandises.
+
+En 1989 et en 1990, la déduction est limitée respectivement à un tiers et à deux tiers de son montant. 
+
+2° La taxe sur la valeur ajoutée ayant grevé les biens ou les services utilisés pour l'extraction, la fabrication, le
+transport par pipe-line ou le stockage des produits pétroliers ne peut être déduite, lorsque ces opérations sont effectuées
+dans des installations placées sous un régime suspensif prévu par la législation douanière, que de la taxe sur la valeur
+ajoutée due lors de la mise à la consommation de ces produits.
+
+3° Le montant brut de la taxe sur la valeur ajoutée exigible lors de la mise à la consommation des produits pétroliers ouvre
+droit à déduction. Cette déduction ne peut être opérée que sur la taxe sur la valeur ajoutée due au titre d'autres opérations
+que la mise à la consommation.
+
+Le droit à déduction correspondant peut être exercé sur la taxe due par l'entreprise au titre du mois pendant lequel ce droit
+à déduction a pris naissance.
+
+4° Les redevables de la taxe sur la valeur ajoutée qui, compte tenu des dispositions du 1-2° et du 2° ci-dessus, ne peuvent
+opérer eux-mêmes les déductions auxquelles ils ont droit sont autorisés à transférer leurs droits à déduction aux redevables
+de la taxe sur la valeur ajoutée exigible lors de la mise à la consommation des produits pétroliers.
+
+Ce transfert s'effectue sous le couvert de certificats de transfert de droits à déduction, délivrés par la direction générale
+des douanes et droits indirects [*autorité compétente*].
+
+5  La déduction de la taxe sur la valeur ajoutée qui a grevé les biens ou services autres que ceux visés au 4-2° peut être
+opérée indifféremment auprès de la direction générale des douanes et droits indirects ou auprès de la direction générale des
+impôts.
+
+6  Les dispositions du 4-1° et 2° ne s'appliquent pas en ce qui concerne les gaz de pétrole et autres hydrocarbures gazeux
+relevant des positions 27-11-11, 27-11-14, ex 27-11-19, ex 27-11-21, 27-11-29 du tarif des douanes et repris au tableau B de
+l'article 265 du code des douanes sous les indices d'identification 30, 33, 35, 37, 38 et 39.
+
+7  (Transféré sous l'article L 45 C du livre des procédures fiscales).
+
+(1) Pour l'application de ces dispositions, les droits à déduction  sont pris en compte à compter du 1er janvier 1986.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 18 décembre 2007 - art. 27 (V)
+	  - Arrêté du 18 décembre 2007 - art. 9 (V)
+	  - Loi n°2012-958 du 16 août 2012 - art. 10 (V)
+	  - Code des douanes - art. 266 quindecies (V)
+	  - Code général des impôts, CGI. - art. 1695 (V)
+	  - Code général des impôts, CGI. - art. 1790 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 210 (VT)
+
+	**Cite**:
+
+	  - CGI 262
+	  - CGI 266
+	  - CGI 267
+	  - CGI 271
+	  - CGI 272
+	  - CGI 273
+	  - CGI 291 II
+	  - CGI 298 bis
+	  - Loi n°82-540 1982-06-28 ART. 3 V
+	  - Code des douanes - art. 265 (M)
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 28 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+	  - Loi n°88-1193 du 29 décembre 1988 - art. 32 () JORF 30 décembre 1988
+
+
 ##### IV : Exploitants agricoles
 
 ###### Article 298 bis
@@ -31177,6 +31563,41 @@ mentionnées à l'article 298 septies.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Instruction 1999-10-08 3L-2-99
+
+
+###### Article 298 septies
+
+A compter du 1er janvier 1989, les ventes, commissions et courtages portant sur les publications qui remplissent les
+conditions prévues par les articles 72 et 73 de l'annexe III au présent code pris en application de l'article 52 de la loi du
+28 février 1934, sont soumis à la taxe sur la valeur ajoutée au taux de 2,1 p. 100 dans les départements de la France
+métropolitaine et de 1,05 p. 100 dans les départements de la Guadeloupe, de la Martinique et de la Réunion.
+
+1° 2° (Abrogé).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 72
+	  - CGIAN3 73
+	  - Loi n°1934-02-28 ART. 52
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 2001-02-20 3L-1-01
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 88 (P) JORF 31 décembre 1987, en vigueur le 1er janvier 1989
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 298 decies (V)
+	  - Code général des impôts, CGI. - art. 298 duodecies (V)
+	  - Code général des impôts, CGI. - art. 298 nonies (V)
+	  - Code général des impôts, CGI. - art. 298 terdecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 72 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 73-0 A (P)
 
 
 ###### Article 298 terdecies
@@ -31613,6 +32034,45 @@ du poids de viande net (1).
 	**Abrogé par**:
 
 	  - Loi n°88-1193 1988-12-29 art. 35 Finances rectificative pour 1988
+
+
+#### Chapitre VII : Taxe de sûreté sur les aéroports.
+
+###### Article 302 bis K
+
+A compter du 1er janvier 1987 une taxe de sûreté est due par les entreprises de transport public aérien. Elle est ajoutée aux
+prix demandés aux passagers. Elle est assise sur le nombre de passagers embarquant en France sur un vol commercial selon les
+tarifs suivants :
+
+5 F par passager embarqué à destination de l'étranger ;    3 F par passager embarqué vers d'autres destinations.
+
+La taxe est constatée et recouvrée comme en matière de taxe sur la valeur ajoutée avec les sûretés, garanties, privilèges et
+sanctions applicables à cette taxe. Les réclamations sont présentées, instruites et jugées comme pour cet impôt.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 30 décembre 2009 - art. Annexe 1 (V)
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 22 (V)
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 5 (V)
+	  - Arrêté du 22 février 2013 (V)
+	  - Arrêté du 25 mars 2014 (V)
+	  - Arrêté du 25 mars 2014 - art. 1 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 49 (V)
+	  - Décret n°2017-640 du 26 avril 2017 (V)
+	  - Code général des impôts, CGI. - art. 1609 quatervicies A (VD)
+	  - Code général des impôts, CGI. - art. 1647 (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 99 (V)
+
+	**Cite**:
+
+	  - CGI 257 7°
+	  - CGIAN2 38
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 37 (P) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
 
 
 ### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
@@ -40461,6 +40921,49 @@ décembre 1983, art. 28
 	  - Loi n°86-1317 du 30 décembre 1986 - art. 30 () JORF 31 décembre 1986, en vigueur le 1er janvier 1987
 
 
+###### Article 705
+
+I  Le taux de la taxe de publicité foncière ou du droit d'enregistrement est réduit à 0,60 % pour les acquisitions
+d'immeubles ruraux à condition :
+
+1° Qu'au jour de l'acquisition les immeubles soient exploités en vertu d'un bail consenti à l'acquéreur, à son conjoint, à
+ses ascendants ou aux ascendants de son conjoint et enregistré ou déclaré depuis au moins deux ans [*délai minimum*] ;
+
+2° Que l'acquéreur prenne l'engagement, pour lui et ses ayants cause à titre gratuit, de mettre personnellement en valeur
+lesdits biens pendant un délai minimal de cinq ans à compter de la date du transfert de la propriété. A défaut d'exécution de
+cet engagement ou si les biens sont aliénés à titre onéreux en totalité ou en partie dans ce délai de cinq ans, l'acquéreur
+ou ses ayants cause à titre gratuit sont, sous réserve du cas de force majeure, déchus de plein droit du bénéfice du taux
+réduit pour les immeubles dont ils cessent l'exploitation ou qui sont aliénés à titre onéreux. Toutefois, l'aliénation du
+bien acquis consentie à titre onéreux par l'acquéreur à un descendant ou au conjoint de celui-ci n'entraîne pas la déchéance
+du bénéfice du taux réduit, si le sous-acquéreur s'engage à poursuivre personnellement l'exploitation jusqu'à l'expiration du
+délai de cinq ans à compter de la date du transfert de propriété initial.
+
+Lorsque l'aliénation du bien acquis avec le bénéfice du taux réduit procède d'un échange, l'engagement pris par l'acquéreur
+est reporté sur les biens ruraux acquis en contre-échange à la condition que ces biens aient une valeur au moins égale à
+celle des biens cédés.
+
+L'apport du bien acquis dans les conditions prévues aux alinéas précédents à un groupement foncier agricole ou à une
+exploitation agricole à responsabilité limitée ne peut avoir pour effet de remettre en cause la perception de la taxe de
+publicité foncière au taux réduit.
+
+II  Le même taux est applicable aux acquisitions d'immeubles visées au I faites sous les mêmes conditions en vue de
+l'installation d'un descendant majeur de l'acquéreur. En pareil cas, l'engagement d'exploiter est pris par le descendant.
+L'aliénation ou la location du bien acquis consentie à titre onéreux par l'acquéreur au descendant installé n'entraîne pas la
+déchéance du bénéfice du taux réduit.
+
+**Nota:**
+
+Nota : Les droits d'enregistrement et la taxe de publicité foncièr exigibles sur les mutations de propriété à titre onéreux
+d'immeubles ont été transférés aux départements dans les conditions fixées aux articles 1594 A à 1594 E (loi n° 83-1179 du 29
+décembre 1983, art. 28
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 34 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+
+
 ###### Article 706
 
 Le taux de la taxe de publicité foncière ou du droit d'enregistrement est réduit à 0,60 % pour les ventes résultant de
@@ -41313,6 +41816,32 @@ fonds.
 	**Codifié par**:
 
 	  - Décret n°87-940 1987-11-23
+
+
+##### G : Autres biens mobiliers
+
+###### Article 733
+
+Lorsqu'elles ne sont pas soumises, en raison de leur objet, à un tarif différent, les ventes publiques mentionnées à
+l'article 635-2-6° des biens meubles corporels désignés à l'article 261-1-3°-a ou de biens meubles incorporels, sont
+assujetties à un droit d'enregistrement de 1,10 % [*taux*].
+
+Le droit est assis sur le montant des sommes que contient cumulativement le procès-verbal de la vente, augmenté des charges
+imposées aux acquéreurs [*assiette*].
+
+Les adjudications à la folle enchère de biens mentionnés au premier alinéa sont assujetties au même droit mais seulement sur
+ce qui excède le prix de la précédente adjudication, si le droit en a été acquitté.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 261 1 3° a
+	  - CGI 635 2 6°
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 30 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
 
 
 ##### H : Ventes simultanées de meubles et d'immeubles
@@ -43112,6 +43641,24 @@ quinze ans. Ces dispositions sont applicables aux donations-partages consenties 
 	  - Code général des impôts, CGI. - art. 787 C (V)
 
 
+###### Article 790 A
+
+Un abattement de 100 000 F par part est effectué pour la perception des droits de mutation à titre gratuit exigibles sur les
+donations de titres consenties à tout ou partie du personnel d'une entreprise. Cet abattement ne peut se cumuler avec un
+autre abattement. Il est subordonné à un agrément préalable du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 777 et suiv.
+	  - Code civil - art. 1075 (M)
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 13 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+
+
 ###### Article 791
 
 Le taux de la taxe de publicité foncière est réduit à 0,60 % pour les mutations entre vifs à titre gratuit.
@@ -43916,6 +44463,67 @@ Nota : Voir également art. 1717 bis
 
 	  - Loi n°80-1094 du 30 décembre 1980 - art. 1 (P) JORF 31 DECEMBRE 1980
 	  - Loi n°80-1094 du 30 décembre 1980 - art. 12 (P) JORF 31 DECEMBRE 1980
+
+
+###### Article 810
+
+I. Le taux du droit d'enregistrement perçu sur les apports mobiliers est fixé à 1 %.
+
+Toutefois, le montant du droit applicable aux apports en numéraire réalisés lors de la constitution de sociétés ne peut
+excéder le droit fixe prévu à l'article 680.
+
+II. Le taux du droit d'enregistrement ou de la taxe de publicité foncière perçus sur les apports immobiliers est fixé à 1 %.
+
+III. Le taux normal du droit d'enregistrement ou de la taxe de publicité foncière perçus sur les apports visés à l'article
+809-I-3° et II est fixé à 8,60 %.
+
+III bis. (Disposition périmée).
+
+IV. Les taux visés au II et au III sont réduits à 0,60 % :
+
+a. Pour les apports donnant lieu au paiement de la taxe sur la valeur ajoutée et concernant des immeubles autres que les
+terrains à bâtir et biens assimilés mentionnés à l'article 691-I ;
+
+b. Pour les apports immobiliers constatés dans les actes visés aux articles 822-I-1° et 2°, 826-2°, 828-II, 830-a, b, c et
+831-I qui, à raison des apports mobiliers, sont exonérés ou soumis à un droit fixe.
+
+V. Sont exonérés du droit ou de la taxe prévus au II, les apports donnant lieu au paiement de la taxe sur la valeur ajoutée
+[*TVA*] et concernant des terrains à bâtir et biens assimilés mentionnés à l'article 691-I.
+
+**Nota:**
+
+Nota : Voir également art. 1717 bis
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1717 bis
+	  - CGI 680
+	  - CGI 691 I
+	  - CGI 809 I 3°, II
+	  - CGI 822 I 1°, 2°
+	  - CGI 826 2°
+	  - CGI 828 II
+	  - CGI 830 a, b, c
+	  - CGI 831 I
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 14 (P) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 825 (V)
+	  - Code général des impôts, CGI. - art. 1595 (V)
+	  - Code général des impôts, CGI. - art. 809 (V)
+	  - Code général des impôts, CGI. - art. 810 bis (V)
+	  - Code général des impôts, CGI. - art. 814 C (V)
+	  - Code rural et de la pêche maritime - art. L328-4 (T)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code rural - art. L322-15 (V)
 
 
 ###### Article 811
@@ -48413,6 +49021,26 @@ internationaux de conduire, visés par la convention internationale du 24 avril 
 	  - Loi - art. 31 () JORF 31 décembre 1999
 
 
+###### Article 967
+
+I. Le droit d'examen pour l'obtention du permis de conduire les véhicules automobiles, les motocyclettes et tous autres
+véhicules à moteur est fixé à 160 F [*montant*] (1).
+
+II. (Abrogé).
+
+(1) Annexe III, art. 313 BE.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 BE
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 35 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+
+
 ##### C : Réception des véhicules automobiles
 
 ###### Article 968 A
@@ -49231,6 +49859,53 @@ dispositions des articles 991, 993 et 1708.
 
 ##### B : Régimes spéciaux et exonérations
 
+###### Article 995
+
+Sont exonérés de la taxe spéciale sur les conventions d'assurances :
+
+1° Les réassurances, sous réserve de ce qui est dit à l'article 1000;     2° Les assurances bénéficiant, en vertu de
+dispositions exceptionnelles, de l'exonération des droits de timbre et d'enregistrement sauf celles souscrites auprès des
+sociétés ou caisses d'assurances mutuelles agricoles visées à l'article 1032. Toutefois, les contrats souscrits auprès de ces
+sociétés ou caisses couvrant les risques de toute nature afférents aux récoltes, cultures, cheptel vif, cheptel mort,
+bâtiments affectés aux exploitations agricoles et exclusivement nécessaires au fonctionnement de celles-ci ainsi que les
+contrats d'assurance maladie complémentaire souscrits auprès de ces mêmes organismes demeurent exonérés ;    Le régime défini
+à la deuxième phrase du premier alinéa s'applique notamment aux camions, camionnettes, fourgonnettes à utilisations
+exclusivement utilitaires ; 7 p. 100.
+
+3° Les contrats d'assurances sur corps, marchandises transportées et responsabilité civile du transporteur, des navires de
+commerce et des navires de pêche souscrits contre les risques de toute nature de navigation maritime ou fluviale ;
+
+4° Les contrats d'assurances sur corps, marchandises transportées et responsabilité civile du transporteur, des aéronefs
+souscrits contre les risques de toute nature de navigation aérienne.
+
+5° Les contrats d'assurances en cas de décès qui garantissent le versement d'un capital ou d'une rente viagère à un enfant de
+l'assuré atteint d'une infirmité qui l'empêche, soit de se livrer dans des conditions normales de rentabilité à une activité
+professionnelle, soit, s'il est âgé de moins de dix-huit ans [*mineur*], d'acquérir une instruction ou une formation
+professionnelle d'un niveau normal;    5° bis Les contrats d'assurance en cas de vie qui garantissent le versement d'un
+capital ou d'une rente viagère à l'assuré atteint d'une infirmité qui l'empêche de se livrer dans des conditions normales de
+rentabilité à une activité professionelle ;     6° Les contrats d'assurances sur les risques de gel de récoltes et de
+tempêtes sur récoltes ou sur bois sur pied.     7° Les contrats d'assurances sur marchandises transportées et responsabilité
+civile du transporteur des transports terrestres ;
+
+8° Les assurances des crédits à l'exportation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1000
+	  - CGI 1032
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 1988-12-23 art. 24 III, IV Finances pour 1989 JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 24 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L871-1 (MMN)
+
+
 ###### Article 996
 
 Par dérogation à l'article 992 sont exonérées de la taxe spéciale :
@@ -49409,6 +50084,95 @@ dispositions de l'article 991.
 	**Codifié par**:
 
 	  - Décret n°90-798 1990-09-10
+
+
+##### II : Tarif
+
+###### Article 1001
+
+Le tarif de la taxe spéciale sur les contrats d'assurances est fixé :
+
+1° Pour les assurances contre l'incendie :
+
+- à 7 % pour les assurances contre l'incendie relatives à des risques agricoles non exonérés ; sont, d'une manière générale,
+considérées comme présentant le caractère d'assurance de risques agricoles [*définition*], les assurances de tous les risques
+des personnes physiques ou morales exerçant exclusivement ou principalement une profession agricole ou connexe à
+l'agriculture telles que ces professions sont définies par l'article 1060 du code rural, ainsi que les assurances des risques
+des membres de leurs familles vivant avec eux sur l'exploitation et de leur personnel et les assurances des risques, par leur
+nature, spécifiquement agricoles ou connexes ;
+
+- à 24 % pour les assurances contre l'incendie souscrites auprès des caisses départementales ;
+
+- à 30 % pour toutes les autres assurances contre l'incendie ;
+
+- toutefois les taux de la taxe sont réduits à 7 % pour les assurances contre l'incendie des biens affectés de façon
+permanente et exclusive à une activité industrielle, commerciale, artisanale ou agricole, ainsi que des bâtiments
+administratifs des collectivités locales ;
+
+2° Pour les assurances garantissant les pertes d'exploitation consécutives à l'incendie dans le cadre d'une activité
+industrielle, commerciale, artisanale ou agricole :
+
+- à 7 % ;
+
+3° Pour la navigation maritime, fluviale ou aérienne :
+
+- à 19 % pour les assurances contre les risques de toute nature de navigation maritime ou fluviale des bateaux de sport ou de
+plaisance ;
+
+4° Pour les assurances sur la vie :
+
+- à 5,15 % pour les assurances sur la vie et assimilées, y compris les contrats de rente viagère, autre que celles indiquées
+ci-après et pour les assurances de groupe ;
+
+- à 2,40 % pour les contrats de rente viagère immédiate ou différée de moins de trois ans, lorsque, au moment de la
+souscription du contrat, le souscripteur est âgé de plus de 60 ans ou atteint d'une infirmité le mettant dans l'impossibilité
+de subvenir par son travail aux nécessités de l'existence ;
+
+5° (Abrogé) ;
+
+5° bis Pour les assurances contre les risques de toute nature relatifs aux véhicules terrestres à moteur :
+
+- à 7 % ;
+
+6° Pour toutes autres assurances :
+
+- à 9 %    Les risques d'incendie couverts par des assurances ayant pour objet des risques de transport sont compris dans les
+risques désignés sous le 3° ou sous le 6°, suivant qu'il s'agit de transports par eau et par air ou de transports terrestres.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1060
+
+	**Cité par**:
+
+	  - Loi n°71-1130 du 31 décembre 1971 - art. 21-1 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 117-1 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 117-3 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 118 (V)
+	  - Décret n°96-887 du 10 octobre 1996 - art. Annexe (V)
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 52 (V)
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 2 (V)
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 78 (VT)
+	  - Arrêté du 6 janvier 2011 - art. 3 (V)
+	  - Loi n°2013-504 du 14 juin 2013 - art. 1 (V)
+	  - Décret n°2015-271 du 11 mars 2015 (V)
+	  - Décret n°2016-1876 du 27 décembre 2016 - art. 16
+	  - Décret n°2016-1876 du 27 décembre 2016 - art. 48
+	  - Code de la sécurité sociale. - art. L241-2 (M)
+	  - Code de la sécurité sociale. - art. L241-6 (MMN)
+	  - Code de la sécurité sociale. - art. L871-1 (MMN)
+	  - Code de la sécurité sociale. - art. L911-7 (MMN)
+	  - Code des assurances - art. A121-2 (V)
+	  - Code général des collectivités territoriales - art. L3332-2-1 (V)
+	  - Code général des collectivités territoriales - art. L3334-6 (V)
+	  - Code général des collectivités territoriales - art. L3663-9 (V)
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 1988-12-23 art. 24 I, II Finances pour 1989 JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 24 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
 
 
 ##### III : Obligations diverses
@@ -52593,16 +53357,17 @@ mètres autour de toute agglomération de maisons ou de bâtiments.
 
 ###### Article 1383 A
 
-I. Les entreprises, créées du 1er janvier 1983 au 31 décembre 1988, visées à l'article 1464 B-I peuvent être exonérées, dans
+I. Les entreprises, créées du 1er janvier 1983 au 31 décembre 1986, visées à l'article 1464 B-I peuvent être exonérées, dans
 les conditions prévues à l'article 1464 C, de la taxe foncière sur les propriétés bâties dont elles sont redevables, pour les
 établissements qu'elles ont créés ou repris à une entreprise en difficulté, au titre des deux années suivant celle de leur
 création.
 
+Pour les entreprises créées à compter du 1er janvier 1989, l'exonération mentionnée à l'alinéa précédent s'applique aux
+entreprises bénéficiant des exonérations prévues aux articles 44 sexies et 44 septies.
+
 II. Les entreprises ne peuvent bénéficier de cette exonération qu'à la condition de déclarer leurs acquisitions au service
 des impôts de la situation des biens dans les quinze jours de la signature de l'acte, ou au plus tard le 15 novembre 1983
 [*date limite*] pour les biens acquis avant le 31 octobre 1983.
-
-[*(1) Dispositions rendues applicables dans les mêmes conditions  aux entreprises créees en 1987 et 1988*].
 
 **Liens relatifs à cet article**
 
@@ -52610,15 +53375,12 @@ des impôts de la situation des biens dans les quinze jours de la signature de l
 
 	  - CGI 1464 B I
 	  - CGI 1464 C
+	  - CGI 44 septies
+	  - CGI 44 sexies
 
 	**Modifié par**:
 
-	  - Loi n°84-578 du 9 juillet 1984 - art. 17 () JORF 11 juillet 1984
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 38 (P) JORF 31 décembre 1986 en vigueur le 1er janvier 1987
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 14 (P) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
 
 	**Cité par**:
 
@@ -58604,6 +59366,78 @@ département d'immatriculation du véhicule.
 
 ### Titre II bis : Impositions perçues au profit des régions et de la collectivité territoriale de Corse
 
+#### Chapitre premier : Impôts directs et taxes assimilées
+
+##### III : Abattements
+
+###### Article 1599 quater
+
+Pour le calcul de la taxe d'habitation perçue par les régions et de la taxe spéciale d'équipement additionnelle à la taxe
+d'habitation perçue par la région d'Ile-de-France, les conseils régionaux peuvent, dans les conditions prévues à l'article
+1411, décider de fixer eux-mêmes le montant des abattements applicables aux valeurs locatives brutes. Dans ce cas, la valeur
+locative moyenne qui sert de référence pour le calcul des abattements est la valeur locative moyenne des habitations de la
+région.
+
+En l'absence de délibération des conseils régionaux, les abattements applicables sont ceux qui sont retenus pour le calcul de
+la taxe d'habitation perçue au profit des départements.
+
+Ces dispositions sont applicables aux régions de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, sous réserve
+des adaptations apportées, dans les départements d'outre-mer, à l'article 1411 conformément à l'article 1649 (1).
+
+(1) Annexe II, art. 331.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1411, 1649
+	  - CGIAN2 331
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2001
+
+	**Créé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 81 (P) JORF 31 décembre 1987 en vigueur le 1er janvier 1989
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Abrogé par**:
+
+	  - Loi n°2000-656 2000-07-13 art. 11 I 1 c Finances rectificative pour 2000 JORF du 14 juillet 2000
+
+
+#### Chapitre premier : Impôts directs
+
+##### I : Généralités
+
+###### Article 1599 bis
+
+Les régions autres que la région d'Ile-de-France perçoivent la taxe foncière sur les propriétés bâties, la taxe foncière sur
+les propriétés non bâties, la taxe d'habitation et la taxe professionnelle.
+
+**Nota:**
+
+NOTA : La table des matières est modifiée par le décret de codification 92-836 du 27 août 1992 édition du 4 juillet 1992, les
+mots "collectivité territoriale de Corse" sont ajoutés, et par le décret 93-1127, édition du 18 août 1993, le I intitulé
+"Généralités".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 81 (P) JORF 31 décembre 1987 en vigueur le 1er janvier 1989
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°93-1127 1993-09-24
+
+
 #### Chapitre II : Enregistrement, publicité foncière et timbre
 
 ##### Section I : Droits d'enregistrement - Taxe de publicité foncière
@@ -59101,6 +59935,95 @@ arrondi au décime inférieur.
 
 ### Titre II bis : Impositions régionales
 
+#### Chapitre premier : Impôts directs
+
+##### I : Généralités
+
+###### Article 1599 ter
+
+Les conseils régionaux votent les taux des taxes mentionnées à l'article 1599 bis dans les conditions prévues au premier
+alinéa du I de l'article 1636 B sexies.
+
+**Nota:**
+
+NOTA : La table des matières est modifiée par le décret de codification 92-836 du 27 août 1992 édition du 4 juillet 1992, les
+mots "collectivité territoriale de Corse" sont ajoutés, et par le décret 93-1127, édition du 18 août 1993, le I intitulé
+"Généralités".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1599 bis
+	  - CGI 1636 B sexies I al. 1
+
+	**Nouveaux textes**:
+
+	  - CGI 1636 B sexies
+
+	**Créé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 81 (P) JORF 31 décembre 1987 en vigueur le 1er janvier 1989
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°93-1127 1993-09-24
+
+
+##### Région d'Ile-de-France
+
+###### Article 1599 quinquies
+
+I. - Il est institué une taxe spéciale d'équipement destinée à financer des travaux figurant aux programmes d'équipement de
+la région d'Ile-de-France.
+
+Cette taxe constitue une taxe additionnelle à la taxe foncière sur les propriétés bâties, à la taxe foncière sur les
+propriétés non bâties, à la taxe d'habitation et à la taxe professionnelle ; elle est recouvrée dans les communes comprises
+dans le ressort de la région.
+
+II. Le conseil régional vote dans les conditions prévues au premier alinéa du I de l'article 1636 B sexies les taux de la
+taxe spéciale d'équipement additionnelle à la taxe foncière sur les propriétés bâties, à la taxe foncière sur les propriétés
+non bâties, à la taxe d'habitation et à la taxe professionnelle.
+
+Toutefois les bases devront être affectées de coefficients d'adaptation tenant compte de la situation géographique des
+communes à l'intérieur de la région par rapport à la zone directement intéressée par la réalisation des travaux.
+
+III. Les cotisations sont établies et recouvrées, les réclamations sont présentées et jugées comme en matière de
+contributions directes (1).
+
+(1) Voir annexe II, art. 318 B.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1607
+
+	**Cite**:
+
+	  - CGI 1636 B sexies I al. 1
+	  - CGIAN2 318 B
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+	**Créé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 81 (P) JORF 31 décembre 1987 en vigueur le 1er janvier 1989
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 78 (VT)
+	  - Code général des collectivités territoriales - art. L4414-2 (VD)
+	  - Code général des impôts, CGI. - art. 1647 C quinquies A (Ab)
+
+
 #### Chapitre II : Enregistrement, publicité foncière et timbre
 
 ##### Section II : Taxe différentielle sur les véhicules à moteur perçue au profit de la région de Corse
@@ -59301,6 +60224,42 @@ Un décret détermine les conditions d'application de la taxe prévue au présen
 	  - HISTO: EDITION 1979-07-01
 
 
+##### Section II bis : Dispositions communes à la taxe pour frais de chambres de commerce et d'industrie et à la taxe pour frais de chambres de métiers
+
+###### Article 1602 A
+
+Les entreprises, créées du 1er janvier 1983 au 31 décembre 1988, visées à l'article 1464 B-I peuvent être exonérées des taxes
+pour frais de chambres de commerce et d'industrie et pour frais de chambres de métiers dont elles sont redevables, pour les
+établissements qu'elles ont créés ou repris à une entreprise en difficulté, au titre des deux années suivant celle de leur
+création.
+
+Pour les entreprises créées à compter du 1er janvier 1989, l'exonération mentionnée à l'alinéa précédent s'applique aux
+entreprises bénéficiant des exonérations prévues aux articles 44 sexies et 44 septies.
+
+Cette exonération est subordonnée à une délibération des organismes consulaires dans le ressort desquels sont situés les
+établissements de ces entreprises.
+
+Ces délibérations sont prises dans les conditions prévues à l'article 1464 C-II.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1464 B I
+	  - CGI 1464 C II
+	  - CGI 44 septies
+	  - CGI 44 sexies
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 14 (P) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+
+	**Cité par**:
+
+	  - Décret n°2007-94 du 24 janvier 2007 - art. 2 (V)
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
+
+
 ##### Section III : Taxe perçue au profit du budget annexe des prestations sociales agricoles
 
 ###### Article 1603
@@ -59400,6 +60359,45 @@ Les conditions d'application du présent article sont fixées par décret en Con
 
 	  - Code général des impôts, CGI. - art. 1609 (Ab)
 	  - Code général des impôts, CGI. - art. 1647 B sexies (V)
+
+
+##### Section IX : Taxe spéciale d'équipement perçue au profit de l'établissement public de la métropole lorraine.
+
+###### Article 1609
+
+Il est institué une taxe spéciale d'équipement au profit de l'établissement public de la métropole lorraine.
+
+Le montant de cette taxe est arrêté chaque année dans la limite de 60 millions de francs par le conseil d'administration de
+l'établissement public et notifié au ministre de l'économie et des finances. Le montant maximum ne peut être modifié que par
+une loi de finances (1).
+
+La taxe est répartie et recouvrée dans la zone de compétence de l'établissement suivant les mêmes règles que pour la taxe
+mentionnée à l'article 1608.
+
+(1) Limite applicable à compter de 1986.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°87-204 1987-03-27 art. 2 JORF 29 mars 1987
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 81 (P) JORF 31 décembre 1987 en vigueur le 1er janvier 1989
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cite**:
+
+	  - CGI 1608
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1647 B sexies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
 
 
 ##### Section X : Impositions perçues au profit des communautés urbaines
@@ -60084,6 +61082,78 @@ La perception de la taxe peut être suspendue en totalité ou en partie par déc
 	**Modifié par**:
 
 	  - Loi n°84-1209 du 29 décembre 1984 - art. 20 (V) JORF 30 décembre 1984
+
+
+##### H : Huiles.
+
+###### Article 1618 quinquies
+
+I. Il est institué au profit du budget annexe des prestations sociales agricoles [*BAPSA*], en France continentale et en
+Corse, une taxe spéciale sur les huiles végétales, fluides ou concrètes, effectivement destinées, en l'état ou après
+incorporation dans tous produits alimentaires, à l'alimentation humaine.
+
+Cette taxe est due :
+
+a. Pour les huiles fabriquées en France continentale et en
+
+Corse, sur toutes les ventes ou livraison à soi-même de ces huiles par les producteurs ;
+
+b. Pour les huiles importées en France continentale et en Corse (y compris les huiles d'animaux marins qui, pour
+l'assujettissement à la taxe spéciale, sont assimilées aux huiles végétales alimentaires), lors de l'importation.
+
+II. Les taux de la taxe sont fixés comme suit (1) : Huile d'olive : Par kilogramme 0,796 F Par litre 0,717 F
+
+Huiles d'arachide et de maïs : Par kilogramme 0,717 F Par litre 0,653 F
+
+Huiles de colza et de pépins de raisin : Par kilogramme 0,367 F Par litre 0,335 F
+
+Autres huiles végétales fluides et huiles d'animaux marins (autres que la baleine) : Par kilogramme 0,625 F Par litre 0,547 F
+
+Huiles de coprah et de palmiste Par kilogramme 0,477 F Par litre 0,547 F
+
+Huile de palme et huile de baleine : Par kilogramme 0,436 F Par litre 0,547 F
+
+Pour les produits alimentaires importés incorporant des huiles imposables, la taxation est effectuée selon les quantités et
+les natures d'huile entrant dans la composition.
+
+Toutefois, pour les produits autres que la margarine, le redevable peut demander l'application d'un tarif forfaitaire, fixé
+par arrêté du ministre du budget (2) sur des bases équivalentes à celles qui sont retenues pour les produits similaires
+d'origine nationale.
+
+III. Les huiles exportées de France continentale et de Corse, ainsi que les huiles contenues dans les produits alimentaires
+visés ci-dessus, exportées hors de la France continentale et de Corse, sont exonérées de la taxe spéciale.
+
+IV. La taxe spéciale est établie et recouvrée selon les modalités, ainsi que sous les sûretés, garanties et sanctions
+applicables aux taxes sur le chiffre d'affaires.
+
+Seront toutefois fixées par décret (3) les mesures particulières et prescriptions d'ordre comptable notamment, nécessaires
+pour que la taxe spéciale ne frappe que les huiles effectivement destinées à l'alimentation humaine, pour qu'elle ne soit
+perçue qu'une seule fois, et pour qu'elle ne soit pas supportée en cas d'exportation.
+
+(1) Taux applicables à compter du 1er janvier 1989.
+
+(2) Voir annexe IV, art. 159 ter A. Le dernier tarif forfaitaire a été fixé par un arrêté du 30 décembre 1988 (J.O. du 4
+février 1989).
+
+(3) Annexe III, art. 333 A à 333 G bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1986-01-02
+	  - CGIAN3 333 A
+	  - CGIAN3 333 B
+	  - CGIAN3 333 C
+	  - CGIAN3 333 D
+	  - CGIAN3 333 E
+	  - CGIAN3 333 F
+	  - CGIAN3 333 G
+	  - CGIAN4 159 ter A
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 41 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
 
 
 ##### I : Tabacs fabriqués.
@@ -60899,6 +61969,49 @@ chaque commune membre et le taux moyen sont réduites d'un cinquième chaque ann
 	  - Décret n°81-866 1981-09-15
 
 
+###### Article 1636 B octies
+
+I. (Abrogé).
+
+II. Les produits des taxes spéciales d'équipement perçues au profit de l'établissement public d'aménagement de la Basse-Seine
+et de l'établissement public de la métropole lorraine sont répartis entre les taxes foncières, la taxe d'habitation et la
+taxe professionnelle proportionnellement aux recettes que chacune de ces taxes a procurées l'année précédente à l'ensemble
+des communes et de leurs groupements situés dans le ressort de ces établissements.
+
+III. Pour l'application du II, les recettes s'entendent de celles figurant dans les rôles généraux.
+
+IV. Le produit fiscal à recouvrer dans chacune des communes membres au profit d'un syndicat de communes ou d'un district qui
+fait application de l'article 1609 quater est réparti entre les taxes foncières, la taxe d'habitation et la taxe
+professionnelle proportionnellement aux recettes que chacune de ces taxes procurerait à la commune, si l'on appliquait les
+taux de l'année précédente aux bases de l'année d'imposition.
+
+V. Les dispositions du présent article entreront en vigueur à compter de 1981 [*date, point de départ*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1609 quater
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 1987-12-30 art. 81 IV, VI, [*art. 83*] Finances pour 1988 JORF 31 décembre 1987, en vigueur le 1er janvier 1989
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 81 (P) JORF 31 décembre 1987, en vigueur le 1er janvier 1989
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1608 (V)
+	  - Code général des impôts, CGI. - art. 1607 A (V)
+	  - Code général des impôts, CGI. - art. 1607 bis (VD)
+	  - Code général des impôts, CGI. - art. 1607 ter (V)
+	  - Code général des impôts, CGI. - art. 1609 B (V)
+	  - Code général des impôts, CGI. - art. 1609 quater (VT)
+
+
 ###### Article 1636 B septies
 
 I. Les taux des taxes foncières et de la taxe d'habitation votés par une commune ne peuvent excéder deux fois et demie le
@@ -61033,6 +62146,34 @@ moyens pondérés de chaque taxe dans l'ensemble des communes membres.
 
 
 ##### Section II : Dispositions particulières
+
+###### Article 1636 C
+
+Les taux de taxes additionnelles perçues au profit de l'établissement public de la Basse-Seine et de l'établissement public
+de la métropole lorraine sont, sous réserve de l'article 1636 B octies et des dispositions régissant ces organismes, fixés
+suivant des règles analogues à celles appliquées pour les impositions départementales.
+
+Dans le cas de la région d'Ile-de-France, le conseil régional peut décider une modulation par zone.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1636 B octies
+
+	**Modifié par**:
+
+	  - Décret n°87-204 1987-03-27 art. 1 JORF 29 mars 1987
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 81 (P) JORF 31 décembre 1987 en vigueur le 1er janvier 1989
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1608 (V)
+
 
 ###### Article 1638
 
@@ -61799,6 +62940,112 @@ compter de 1983.
 	  - Loi n°82-540 du 28 juin 1982 - art. 2 (V) JORF 29 juin 1982
 
 
+###### Article 1647 B sexies
+
+I. Sur demande du redevable, la cotisation de taxe professionnelle de chaque entreprise est plafonnée à 4,5 % [*pourcentage*]
+de la valeur ajoutée produite au cours de la période retenue pour la détermination des bases imposables et définie selon les
+modalités prévues aux II et III (1).
+
+I bis Le plafonnement prévu au I s'applique sur la cotisation de taxe professionnelle diminuée, le cas échéant, de l'ensemble
+des réductions et dégrèvements dont cette cotisation peut faire l'objet.
+
+Il ne s'applique pas aux taxes visées aux articles 1600 et 1601 ni aux prélèvements opérés par l'Etat sur ces taxes en
+application de l'article 1641.
+
+II. 1 La valeur ajoutée mentionnée au I est égale à l'excédent hors taxe de la production sur les consommations de biens et
+services en provenance de tiers constaté pour la période de référence définie aux articles 1467 A et 1478.
+
+2. Pour la généralité des entreprises, la production de l'exercice est égale à la différence entre [*calcul*] :
+
+- d'une part, les ventes, les travaux, les prestations de services ou les recettes, les produits accessoires ; les
+subventions d'exploitation ; les ristournes, rabais et remises obtenus ; les travaux faits par l'entreprise pour elle-même ;
+les stocks à la fin de l'exercice ;
+
+- et, d'autre part, les achats de matières et marchandises, droits de douane compris ; les réductions sur ventes ; les stocks
+au début de l'exercice.
+
+Les consommations de biens et services en provenance de tiers comprennent : les travaux, fournitures et services extérieurs,
+à l'exception des loyers afférents aux biens pris en crédit-bail, les frais de transports et déplacements, les frais divers
+de gestion.
+
+3. La production des établissements de crédit, des entreprises ayant pour activité exclusive la gestion des valeurs
+mobilières est égale à la différence entre :
+
+- d'une part, les produits d'exploitation bancaires et produits accessoires ;
+
+- et, d'autre part, les charges d'exploitation bancaires.
+
+4. En ce qui concerne les entreprises d'assurance, de capitalisation et de réassurance de toute nature, la production est
+égale à la différence entre :
+
+- d'une part, les primes ou cotisations ; les produits financiers ; les produits accessoires ; les subventions
+d'exploitation ; les ristournes, rabais et remises obtenus ; les commissions et participations reçues des réassureurs ; les
+travaux faits par l'entreprise pour elle-même ; les provisions techniques au début de l'exercice.
+
+- et, d'autre part, les prestations ; les réductions et ristournes de primes ; les frais financiers ; les provisions
+techniques à la fin de l'exercice.
+
+Les consommations intermédiaires comprennent également les commissions versées aux courtiers, agents et autres mandataires.
+
+5. En ce qui concerne les contribuables soumis à un régime forfaitaire d'imposition, la valeur ajoutée est égale à 80 % de la
+différence entre le montant des recettes et, le cas échéant, celui des achats corrigés de la variation des stocks.
+
+6. Un décret en Conseil d'Etat fixe, en tant que de besoin, les modalités d'application du présent paragraphe.
+
+III. La valeur ajoutée d'un établissement nouveau dépendant d'une entreprise à établissements multiples est, pour l'année
+d'imposition suivant celle de la création, obtenue :
+
+1° Lorsqu'il s'agit d'une entreprise soumise à un régime d'imposition d'après le bénéfice réel, en multipliant le total :
+
+- des frais de personnel de l'année de la création, ajustés pour correspondre à une année pleine ;
+
+- et du prix de revient des immobilisations affecté du taux moyen d'amortissement de l'entreprise par le rapport constaté
+pour les autres établissements entre ces éléments et le montant total des bases ;
+
+2° Lorsqu'il s'agit d'une entreprise soumise à un régime forfaitaire d'imposition, en multipliant le chiffre d'affaires de
+l'année de la création, ajusté pour correspondre à une année pleine, par le rapport constaté pour les autres établissements
+entre cet élément et le montant total des bases.
+
+(1) Taux applicable pour les impositions établies au titre de 1989 et des années suivantes. Précédemment le taux était de 5
+%.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1449 2°
+	  - CGI 1467 A
+	  - CGI 1478
+	  - CGI 1600
+	  - CGI 1601
+	  - CGI 1641
+	  - Loi n°80-10 1980-01-10 ART. 7, ART. 33
+	  - Loi n°80-10 du 10 janvier 1980 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 31 (V) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+
+	**Cité par**:
+
+	  - Loi n°90-568 du 2 juillet 1990 - art. 21 (VD)
+	  - Loi n°2005-781 du 13 juillet 2005 - art. 67 (VT)
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 85 (V)
+	  - Arrêté du 25 octobre 2006 - art. 1 (V)
+	  - Décret n°2013-426 du 24 mai 2013 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 40 A (V)
+	  - Code général des impôts, CGI. - art. 1647 E (Ab)
+	  - Code général des impôts, CGI. - art. 1647-0 B septies (MMN)
+	  - Code général des impôts, CGI. - art. 1648 A (V)
+	  - Code général des impôts, CGI. - art. 1681 quater A (VD)
+	  - Code général des impôts, CGI. - art. 1929 quater (V)
+	  - Code général des impôts, CGI. - art. 238 bis HW (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 octodecies (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 septdecies (P)
+	  - Livre des procédures fiscales - art. L135 B (VT)
+	  - Livre des procédures fiscales - art. R*190-1 (V)
+
+
 #### Chapitre II ter : Cotisation minimum de la taxe professionnelle.
 
 ###### Article 1647 D
@@ -61840,6 +63087,54 @@ bases d'imposition par application du taux de taxe professionnelle en vigueur da
 	  - Code général des impôts, CGI. - art. 1647 B sexies (VD)
 	  - Code général des impôts, CGI. - art. 1647 E (Ab)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G quinquies (V)
+
+
+#### Chapitre III : Fonds de péréquation
+
+##### Section II : Fonds nationaux de péréquation
+
+##### Sous-section II : Fonds national de péréquation.
+
+###### Article 1648 D
+
+I. A compter de 1983, il est institué une cotisation de péréquation de la taxe professionnelle à la charge des établissements
+situés dans les communes où le taux global de cette taxe est inférieur au taux global moyen constaté l'année précédente au
+niveau national [*redevables*].
+
+II. Cette cotisation est assise [*assiette*] sur les bases nettes imposables des établissements mentionnés au I.
+
+Son taux est fixé à [*tarif*] :
+
+1. 1 %  dans les communes où le rapport entre le taux global de la taxe et le taux moyen mentionné au I est inférieur à 0,5.
+Ce taux est éventuellement réduit de telle sorte que la somme du taux global de la taxe et du taux de la cotisation ne puisse
+excéder la moitié du taux moyen national, augmentée du taux de cotisation prévu au 2 ;
+
+2. 0,75 % dans les communes où le rapport visé au 1 est supérieur ou égal à 0,5 et inférieur à 0,75. Ce taux est
+éventuellement réduit de telle sorte que la somme du taux global de la taxe et du taux de la cotisation ne puisse excéder les
+trois-quarts du taux moyen national, augmentés du taux de cotisation prévu au 3 ;
+
+3. 0,5 % dans les communes où ce même rapport est supérieur ou égal à 0,75 et inférieur à 1. Ce taux est éventuellement
+réduit de telle sorte que la somme du taux global de la taxe et du taux de la cotisation ne puisse excéder le taux moyen
+national.
+
+II bis. Les taux de 1 %, de 0,75 % et de 0,50 % visés au II sont majorés et respectivement portés à 1,70 %, 1,25 % et 0,8 %
+pour les impositions établies au titre de 1990 et des années suivantes.
+
+III. A titre transitoire, le taux de la cotisation de péréquation pour 1983 est fixé à 0,75 % dans le cas visé au II-1.
+
+IV. Le taux global de taxe professionnelle est égal à la somme du taux perçu au profit des collectivités locales et de leurs
+groupements dotés d'une fiscalité propre.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 1988-12-23 art. 31 II, III Finances pour 1989 JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 31 (V) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1640 C (V)
 
 
 #### Chapitre III : Fonds de péréquation de la taxe professionnelle
@@ -62604,6 +63899,69 @@ professionnelles légalement constituées d'industriels, de commerçants, d'arti
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 1649 quater D
+
+I. La comptabilité des adhérents des centres de gestion doit être tenue, centralisée ou surveillée par un expert comptable,
+un comptable agréé ou une société membre de l'ordre qui vise les documents fiscaux après s'être assuré de leur régularité
+formelle et de leur concordance avec la comptabilité.
+
+II. Toutefois, les centres créés à l'initiative des organisations et organismes mentionnés à l'article 1649 quater C et dont
+l'activité concerne la comptabilité des exploitants agricoles imposés selon le régime du bénéfice réel sont admis, après
+agrément, à tenir et à présenter les documents comptables de leurs adhérents établis par les soins d'un personnel ayant un
+diplôme ou une expérience répondant à des conditions fixées par décret, sans préjudice des dispositions des articles 2 et 8
+de l'ordonnance n° 45-2138 du 19 septembre 1945 modifiée par la loi n° 68-946 du 31 octobre 1968 relatives à l'attestation de
+régularité et de sincérité. Les centres cités au présent paragraphe établissent ces documents selon une méthodologie définie
+dans le cadre d'une concertation permanente entre les organisations professionnelles habilitées à créer des centres de
+gestion et l'ordre des experts comptables et des comptables agréés. Ils font appel aux membres de l'ordre pour la
+vérification par sondages de ces documents.
+
+III. Les dispositions du II sont applicables à l'ensemble des des centres de gestion en ce qui concerne leurs adhérents
+industriels, commerçants et artisans soumis sur option au régime simplifié d'imposition prévu à l'article 302 septies A bis.
+
+IV. Les centres de gestion agréés et habilités peuvent tenir ou centraliser, dans des conditions fixées par décret, les
+documents comptables de leurs adhérents dont le chiffre d'affaires n'excède pas les limites du régime simplifié d'imposition.
+
+Ils peuvent également, dans les mêmes conditions, continuer de tenir ou de centraliser les documents comptables des
+entreprises adhérentes tant que le chiffre d'affaires réalisé par celles-ci n'excède pas une fois et demie ces limites. Les
+experts-comptables, les comptables agréés, les sociétés membres de l'ordre et les experts-comptables stagiaires autorisés
+exercent, sous leur responsabilité, une mission de surveillance sur chaque dossier et délivrent le visa mentionné au I, dans
+des conditions fixées par arrêté du ministre chargé du budget. Ils peuvent refuser d'accomplir cette formalité si leurs
+observations n'ont pas été suivies d'effet avant la clôture des comptes de l'exercice. Dans ce cas, l'administration fiscale
+apprécie, au vu des observations présentées par le contribuable, s'il y a lieu ou non d'accorder l'abattement prévu à
+l'article 158-4 bis. La rémunération de cette mission de surveillance peut être versée directement par le centre ; elle ne
+peut excéder une limite déterminée par arrêté du ministre chargé du budget (1).
+
+(1) Annexe IV, art. 164 F unvicies A à 164 F unvicies F.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1649 quater C
+	  - CGI 302 septies A bis CGI 158 4 bis
+	  - CGIAN3 344 IA
+	  - CGIAN3 344 IB
+	  - CGIAN3 344 IC
+	  - CGIAN3 344 ID
+	  - CGIAN4 164 F unvicies A A CGIAN4 164 F unvicies F
+	  - Ordonnance n°45-2138 du 19 septembre 1945 - art. 2 (M)
+	  - Ordonnance n°45-2138 du 19 septembre 1945 - art. 8 (M)
+	  - Loi n°68-946 1968-10-31
+
+	**Cité par**:
+
+	  - Ordonnance n°45-2138 du 19 septembre 1945 - art. 19 (M)
+	  - Décret n°2012-432 du 30 mars 2012 - art. 118 (V)
+	  - Décret n°2012-432 du 30 mars 2012 - art. 132 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 IA (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 IC (P)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F unvicies C (P)
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 18 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
 
 
 ###### Article 1649 quater E
@@ -64545,6 +65903,28 @@ dans les conditions et délais qui sont fixés par décret (1).
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 1679 A
+
+La taxe sur les salaires due par les associations régies par la loi du 1er juillet 1901 et par les syndicats professionnels
+et leurs unions visés au chapitre Ier du titre Ier du livre IV du code du travail à raison des rémunérations payées à compter
+du 1er janvier 1987 n'est exigible, au titre d'une année, que pour la partie de son montant dépassant 8.000 F.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 19 () JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 231 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 369 (VD)
+
+	**Cite**:
+
+	  - Loi n°1901-07-01
+
+
 ###### Article 1679 bis
 
 Toute personne, association ou organisme qui n'a pas versé dans les délais prescrits la taxe sur les salaires dont il est
@@ -66119,6 +67499,52 @@ décret (1).
 
 	  - Loi n°69-1168 du 26 décembre 1969, v. init.
 	  - Code général des impôts, CGI. - art. 658 (V)
+
+
+#### VII-0 A : Impôt de solidarité sur la fortune
+
+###### Article 1723 ter-00 A
+
+L'impôt de solidarité sur la fortune est recouvré et acquitté selon les mêmes règles et sous les mêmes garanties et sanctions
+que les droits de mutation par décès.
+
+Toutefois, ne sont pas applicables :
+
+1° Les dispositions des articles 1715 à 1716 A et de l'article 392 de l'annexe III relatives au paiement en valeur du Trésor
+ou en créances sur l'Etat ;
+
+2° Les dispositions des articles 1717, 1722 bis et 1722 quater relatives au paiement fractionné ou différé des droits.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1715
+	  - CGI 1716
+	  - CGI 1716 A
+	  - CGI 1717
+	  - CGI 1722 bis
+	  - CGI 1722 quater
+	  - CGIAN3 392
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+
+
+###### Article 1723 ter-00 B
+
+Les époux sont solidaires pour le paiement de l'impôt de solidarité sur la fortune.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1691 bis (VD)
 
 
 #### VII A : Droits de timbre
@@ -67973,6 +69399,24 @@ régime de l'épargne populaire créé par la loi n° 82-357 du 27 avril 1982 po
 	**Modifié par**:
 
 	  - Loi n°87-502 1987-07-08 art. 5 V JORF 9 juillet 1987
+
+
+###### Article 1756 quinquies
+
+Toute contravention à l'obligation prévue à l'article 1649 ter G est sanctionnée d'une amende fiscale de 5 000 F par
+renseignement omis, pierreries, objets d'art, de collection ou d'antiquité pour un établie et recouvrée sous les mêmes
+garanties et sanctions que les droits d'enregistrement. Un décret en Conseil d'Etat fixe, en tant que de besoin, les
+modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1649 ter G
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
 
 
 ###### Article 1756 septies
@@ -72483,28 +73927,6 @@ restitution partielle des droits.
 ## PAIEMENT DE L'IMPOT
 
 ### IMPOTS DIRECTS ET TAXES ASSIMILEES.
-
-###### Article 1679 A
-
-La taxe sur les salaires due par les associations régies par la loi du 1er juillet 1901 et par les syndicats professionnels
-et leurs unions visés au chapitre Ier du titre Ier du livre IV du code du travail à raison des rémunérations payées à compter
-du 1er janvier 1987 n'est exigible, au titre d'une année, que pour la partie de son montant dépassant 6.000 F.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°87-571 du 23 juillet 1987 - art. 15 () JORF 24 juillet 1987
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 231 A (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 369 (VD)
-
-	**Cite**:
-
-	  - Loi n°1901-07-01
-
 
 ###### Article 1679 quater A
 
