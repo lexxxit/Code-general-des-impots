@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1985-07-26
+Version Consolidée au 1985-09-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -16913,6 +16913,131 @@ déchets de magasin jusqu'à concurrence de 3 % des quantités prises en charge.
 	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
 
 
+##### B : Régime de l'alcool de betterave
+
+##### (Dispositions devenues sans objet à compter du 1er septembre 1991.)
+
+###### Article 358
+
+L'Etat achète chaque campagne, dans la limite de 1.265.000 hectolitres, une quantité d'alcool de betterave fixée après
+concertation avec les producteurs, proportionnellement aux quantités revendues par l'Etat lors de la dernière campagne
+connue.
+
+La quantité et les caractéristiques de l'alcool acquis de chaque usine sont déterminées par arrêté des ministres intéressés.
+
+Les prix d'achat sont fixés par arrêté des ministres intéressés en ajoutant une marge de distillation aux prix des betteraves
+payées par l'industrie de la sucrerie sur la base des prix fixés par le Conseil des Communautés européennes.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - PEREMPTION: Décret n°99-382 du 18 mai 1999 - art. 1 () JORF 20 mai 1999
+	  - HISTO: Edition du 31 mars 1999
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+	**Créé par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985, rectificatif JORF 13 juillet 1985, entrée en vigueur le 1er septembre 1985
+
+
+###### Article 359
+
+La construction d'usines nouvelles destinées à la production d'alcool de betterave visé à l'article 358 est subordonnée à
+l'autorisation donnée par arrêté des ministres intéressés après avis d'une commission [*conditions*], comprenant des
+représentants de la profession, dont la composition est fixée par décret.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 358
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 31 mars 1999
+	  - PEREMPTION: Décret n°99-382 du 18 mai 1999 - art. 1 () JORF 20 mai 1999
+
+	**Créé par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985, rectificatif JORF 13 juillet 1985, entrée en vigueur le 1er septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+
+###### Article 360
+
+Les usines visées à l'article 358 doivent disposer en permanence d'une capacité de stockage au moins égale à 70 % de la
+quantité d'alcool qui leur a été achetée par l'Etat lors de la campagne précédente. A défaut, les quantités achetées à ces
+usines peuvent être réduites par arrêté des ministres intéressés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 358
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - PEREMPTION: Décret n°99-382 du 18 mai 1999 - art. 1 () JORF 20 mai 1999
+	  - HISTO: Edition du 31 mars 1999
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+	**Créé par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985, rectificatif JORF 13 juillet 1985, entrée en vigueur le 1er septembre 1985
+
+
+###### Article 361
+
+Les prix de revente de l'alcool acheté par l'Etat sont fixés par arrêté du ministre de l'économie, des finances et du budget.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - PEREMPTION: Décret n°99-382 du 18 mai 1999 - art. 1 () JORF 20 mai 1999
+	  - HISTO: Edition du 31 mars 1999
+
+	**Créé par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985, rectificatif JORF 13 juillet 1985, entrée en vigueur le 1er septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+
+##### B ter : Dispositions communes aux régimes de l'alcool de betterave et du rhum.
+
+###### Article 363
+
+Les infractions aux prescriptions des textes législatifs ou réglementaires relatifs aux régimes de l'alcool de betterave et
+du rhum sont constatées et poursuivies comme en matière de contributions indirectes.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+
+	**Créé par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985, rectificatif JORF 13 juillet 1985, entrée en vigueur le 1er septembre 1985
+
+
 ##### C : Régime fiscal
 
 ##### II : Droit de consommation
@@ -18961,6 +19086,31 @@ déclarations de la direction générale des impôts.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### B bis : Régime du rhum.
+
+###### Article 362
+
+Peuvent être importés en France continentale et en Corse, en exemption de la soulte et jusqu'à concurrence d'une quantité
+annuelle fixée à 204.050 hectolitres d'alcool pur jusqu'au 31 décembre 1989, les rhums et tafias originaires des départements
+et territoires français d'outre-mer et des pays de la zone franc ayant passé avec la France des accords à cet effet, qui
+présentent les caractères spécifiques définis par les décrets rendus en exécution de la loi du 1er août 1905 sur les fraudes
+et falsifications en matière de produits ou de services et ne titrent pas plus de 80 % vol.
+
+Des arrêtés déterminent les modalités d'application de cette disposition et celles de la répartition des rhums et tafias
+entre les départements et territoires français d'outre-mer et les pays de la zone franc ayant passé avec la France des
+accords à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°1905-08-01
+
+	**Créé par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985, rectificatif JORF 13 juillet 1985, entrée en vigueur le 1er septembre 1985
 
 
 ##### C : Régime fiscal
