@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1979-07-14
+Version Consolidée au 1979-12-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5212,6 +5212,116 @@ locaux (taxe professionnelle et taxes foncières).
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 L bis (V)
 
 
+##### I quater : Détermination de la part de bénéfices correspondant aux droits détenus dans une société de personnes ou un groupement d'intérêt économique.
+
+###### Article 238 bis K
+
+I. Lorsque des droits dans une société ou un groupement mentionnés aux articles 8 ou 239 quater sont inscrits à l'actif d'une
+personne morale passible de l'impôt sur les sociétés dans les conditions de droit commun ou d'une entreprise industrielle,
+commerciale, artisanale ou agricole imposable à l'impôt sur le revenu de plein droit selon un régime de bénéfice réel, la
+part de bénéfice correspondant à ces droits est déterminée selon les règles applicables au bénéfice réalisé par la personne
+ou l'entreprise qui détient ces droits (1).
+
+II. Dans tous les autres cas, la part de bénéfice ainsi que les profits résultant de la cession des droits sociaux sont
+déterminés et imposés en tenant compte de la nature de l'activité et du montant des recettes de la société ou du groupement
+(1).
+
+(1) Dispositions applicables aux exercices ouverts à compter du 1er janvier 1980 [*date, point de départ*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 239 quater
+	  - CGI 8
+
+	**Créé par**:
+
+	  - Loi n°79-1102 du 21 décembre 1979 - art. 8 (V) JORF 22 DECEMBRE 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies E (V)
+
+
+##### I quinquies : Régime fiscal des sociétés créées de fait
+
+###### Article 238 bis L
+
+Les bénéfices réalisés par les sociétés créées de fait sont imposés selon les règles prévues au présent code pour les
+sociétés en participation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°79-1102 du 21 décembre 1979 - art. 6 (V) JORF 22 décembre 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Arrêté du 4 mai 2009 - art. Annexe (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 49 septies M (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 49 septies ZX (V)
+	  - Code général des impôts, CGI. - art. 244 quater B (V)
+	  - Code général des impôts, CGI. - art. 244 quater F (V)
+	  - Code général des impôts, CGI. - art. 244 quater G (VD)
+	  - Code général des impôts, CGI. - art. 244 quater H (V)
+	  - Code général des impôts, CGI. - art. 244 quater L (V)
+	  - Code général des impôts, CGI. - art. 244 quater M (V)
+	  - Code général des impôts, CGI. - art. 244 quater N (P)
+	  - Code général des impôts, CGI. - art. 244 quater O (V)
+	  - Code général des impôts, CGI. - art. 244 quater P (P)
+	  - Code général des impôts, CGI. - art. 244 quater Q (V)
+	  - Code général des impôts, CGI. - art. 244 quater R (P)
+	  - Code général des impôts, CGI. - art. 244 quater T (V)
+	  - Code général des impôts, CGI. - art. 244 quater U (V)
+	  - Code général des impôts, CGI. - art. 244 quater V (V)
+	  - Code général des impôts, CGI. - art. 244 quater W (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZO (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZZ (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er juillet 1981
+
+
+##### I sexies : Obligation des sociétés en participation
+
+###### Article 238 bis M
+
+Les sociétés en participation doivent, pour l'application des articles 8 et 60, inscrire à leur actif les biens dont les
+associés ont convenu de mettre la propriété en commun.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°79-1102 du 21 décembre 1979 - art. 6 (V) JORF 22 décembre 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 60 (V)
+	  - Code général des impôts, CGI. - art. 8 (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 8 quinquies (V)
+	  - Livre des procédures fiscales - art. L52 A (V)
+	  - Livre des procédures fiscales - art. L57 A (V)
+
+
 ##### II : Régime fiscal des groupements forestiers et de leurs membres
 
 ###### Article 238 ter
@@ -10052,6 +10162,51 @@ la limite des quantités produites annuellement avant cette publication.
 
 
 ##### V : Sucrages
+
+##### Déclarations.
+
+###### Article 422
+
+Quiconque veut ajouter du sucre à la vendange est tenu d'en faire la déclaration trois jours au moins à l'avance [*délai*] au
+bureau de déclarations de la direction générale des impôts [*lieu*] (1). La quantité de sucre ajoutée à la vendange ne peut
+être supérieure, par hectare de vigne ayant effectivement produit les vins pour lesquels l'enrichissement par sucrage est
+autorisé, à 250 kilogrammes dans les zones viticoles C et à 300 kilogrammes dans la zone viticole B. Le sucre ainsi utilisé
+est frappé d'une taxe de 80 F par 100 kilogrammes due au moment de l'emploi. A l'intérieur des régions délimitées de Cognac
+et d'Armagnac, les noms des producteurs qui se sont livrés à l'opération de sucrage en première cuvée sont relevés, dans
+chaque commune, sur un registre spécial, au bureau susvisé.
+
+Tout viticulteur procédant au déclassement des vins à appellation d'origine contrôlée ou de vins délimités de qualité
+supérieure est tenu de déclarer préalablement la teneur alcoolique des vins en cause au service des impôts [*formalité
+obligatoire*].
+
+Les viticulteurs ne peuvent déclasser les vins à appellation d'origine contrôlée ou les vins délimités de qualité supérieure
+obtenus après sucrage en première cuvée et titrant plus de 12 % vol. en alcool total (alcool acquis plus alcool en puissance)
+lorsque, dans le même département, le sucrage en première cuvée est interdit pour la production des autres vins.
+
+Un arrêté interministériel pourra, s'il y a lieu, fixer les modalités d'application des deux alinéas qui précèdent.
+
+(1) Voir renvoi (1) sous l'article 426.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 426
+
+	**Modifié par**:
+
+	  - Décret n°79-200 1979-03-05 ART. 4 JORF 11 MARS 1979
+	  - Loi n°79-1102 du 21 décembre 1979 - art. 13 () JORF 22 DECEMBRE 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 427 (Ab)
+	  - Code général des impôts, CGI. - art. 564 (Ab)
+
 
 ##### Détention et circulation des sucres.
 
@@ -22369,22 +22524,22 @@ révèlent pas l'identité dans les conditions prévues aux articles 117 et 240.
 
 ###### Article 13
 
-1  Le bénéfice ou revenu imposable [*définition*] est constitué par l'excédent du produit brut, y compris la valeur des
-profits et avantages dont le contribuable a joui en nature, sur les dépenses effectuées en vue de l'acquisition et de la
-conservation du revenu.
+1. Le bénéfice ou revenu imposable est constitué par l'excédent du produit brut, y compris la valeur des profits et avantages
+dont le contribuable a joui en nature, sur les dépenses effectuées en vue de l'acquisition et de la conservation du revenu.
 
-2  Le revenu global net annuel servant de base à l'impôt sur le revenu est déterminé [*calcul*] en totalisant les bénéfices
-ou revenus nets visés aux I à VII bis de la 1re sous-section de la présente section, compte tenu, le cas échéant, du montant
-des déficits visés à l'article 156-I, des charges énumérées au II dudit article et de l'abattement prévu à l'article 157 bis.
+2. Le revenu global net annuel servant de base à l'impôt sur le revenu est déterminé [*calcul*] en totalisant les bénéfices
+ou revenus nets visés aux I à VII bis de la 1re sous-section de la présente section [*art. 14 à art. 146 quater*], compte
+tenu, le cas échéant, du montant des déficits visés à l'article 156-I et I bis, des charges énumérées au II dudit article et
+de l'abattement prévu à l'article 157 bis.
 
-3  Le bénéfice ou revenu net de chacune des catégories de revenus visées au 2 est déterminé distinctement suivant les règles
+3. Le bénéfice ou revenu net de chacune des catégories de revenus visées au 2 est déterminé distinctement suivant les règles
 propres à chacune d'elles.
 
 Le résultat d'ensemble de chaque catégorie de revenus est obtenu en totalisant, s'il y a lieu, le bénéfice ou revenu afférent
 à chacune des entreprises, exploitations ou professions ressortissant à cette catégorie et déterminé dans les conditions
 prévues pour cette dernière.
 
-4  Pour l'application du 3, il est fait état, le cas échéant, du montant des bénéfices correspondant aux droits que le
+4. Pour l'application du 3, il est fait état, le cas échéant, du montant des bénéfices correspondant aux droits que le
 contribuable ou les personnes définies à l'article 6-1 et 2 bis possèdent en tant qu'associés ou membres de sociétés
 indiquées aux articles 8, 8 bis, 8 ter et 8 quater.
 
@@ -22392,17 +22547,18 @@ indiquées aux articles 8, 8 bis, 8 ter et 8 quater.
 
 	**Cite**:
 
-	  - CGI 156 I, II
-	  - CGI 157 BIS
-	  - CGI 6 1, 2 BIS
+	  - CGI 156 I
+	  - CGI 156 I bis
+	  - CGI 157 bis
+	  - CGI 6 1, 2 bis
 	  - CGI 8
-	  - CGI 8 BIS
-	  - CGI 8 QUATER
-	  - CGI 8 TER
+	  - CGI 8 bis
+	  - CGI 8 quater
+	  - CGI 8 ter
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°79-1102 du 21 décembre 1979 - art. 2 (V) JORF 22 DECEMBRE 1979
 
 
 ###### Article 62
@@ -23510,92 +23666,6 @@ du barème de l'impôt sur le revenu.
 
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 42 (V)
 	  - Code général des impôts, CGI. - art. 167 bis (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 93
-
-1  Le bénéfice [*définition*] à retenir dans les bases de l'impôt sur le revenu est constitué par l'excédent des recettes
-totales sur les dépenses nécessitées par l'exercice de la profession. Sous réserve des dispositions de l'article 151 sexies,
-il tient compte des gains ou des pertes [*plus-values, moins-values*] provenant soit de la réalisation des éléments d'actif
-affectés à l'exercice de la profession, soit des cessions de charges ou d'offices, ainsi que de toutes indemnités reçues en
-contrepartie de la cessation de l'exercice de la profession ou du transfert d'une clientèle.
-
-Les dépenses déductibles comprennent notamment : [*définition*]     1° Le loyer des locaux professionnels. Lorsque le
-contribuable est propriétaire de locaux affectés à l'exercice de sa profession, aucune déduction n'est apportée, de ce chef,
-au bénéfice imposable.
-
-2° Les amortissements effectués suivant les règles applicables en matière de bénéfices industriels et commerciaux.
-
-1 bis  (Abrogé).
-
-1 ter  Les agents généraux d'assurances et leurs sous-agents peuvent demander que le revenu imposable provenant des
-commissions versées par les compagnies d'assurances qu'ils représentent, ès qualités, soit déterminé selon les règles prévues
-en matière de traitements et salaires.
-
-Ce régime est subordonné aux conditions suivantes :
-
-- Les commissions reçues doivent être intégralement déclarées par les tiers;
-
-- Les intéressés ne doivent pas bénéficier d'autres revenus professionnels, à l'exception de courtages et autres
-rémunérations accessoires se rattachant directement à l'exercice de leur profession;
-
-- Le montant brut de ces courtages et rémunérations accessoires ne doit pas excéder 10 % [*pourcentage*] du montant brut des
-commissions.
-
-1 quater  Lorsqu'ils sont intégralement déclarés par les tiers, les produits de droits d'auteur perçus par les écrivains et
-compositeurs sont, sans préjudice de l'article 100 bis, soumis à l'impôt sur le revenu selon les règles prévues en matière de
-traitements et salaires.
-
-La déduction forfaitaire de 10 % pour frais professionnels, prévue à l'article 83-3°, s'applique au montant brut des droits
-perçus diminué des cotisations payées au titre des régimes obligatoire et complémentaire obligatoire de sécurité sociale.
-
-2  Dans le cas de concession de licence d'exploitation d'un brevet, ou de cession ou de concession d'un procédé ou formule de
-fabrication par l'inventeur lui-même, il est appliqué sur les produits d'exploitation ou sur le prix de vente un abattement
-de 30 % [*pourcentage*] pour tenir compte des frais exposés en vue de la réalisation de l'invention, lorsque les frais réels
-n'ont pas déjà été admis en déduction pour la détermination du bénéfice imposable, sauf application des dispositions du
-deuxième alinéa de l'article 93 quater-I.
-
-3  (Abrogé)
-
-4  (Transféré sous l'article 93 quater-II).
-
-4 bis  (Abrogé).
-
-5  Pour l'application du 1 :
-
-- la transmission à titre onéreux ou à titre gratuit ou le rachat des parts d'un associé d'une société civile professionnelle
-est considéré comme portant sur la quote-part des éléments de l'actif social qui correspond aux droits sociaux faisant
-l'objet de la transmission ou du rachat ;
-
-- les parts de sociétés civiles de moyens constituent des éléments affectés à l'exercice de la profession.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 100 bis
-	  - CGI 151 sexies
-	  - CGI 83 3°
-	  - CGI 93 quater I
-
-	**Cité par**:
-
-	  - Décret n°2011-361 du 1er avril 2011 - art. 6 (V)
-	  - Décret n°2017-122 du 1er février 2017 - art. 3
-	  - Code de commerce - art. R743-171 (V)
-	  - Code général des impôts, CGI. - art. 1417 (V)
-	  - Code général des impôts, CGI. - art. 151 nonies (V)
-	  - Code général des impôts, CGI. - art. 151 sexies (VD)
-	  - Code général des impôts, CGI. - art. 163 quatervicies (V)
-	  - Code général des impôts, CGI. - art. 170 (VD)
-	  - Code général des impôts, CGI. - art. 202 quater (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 E ter (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies F (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies G (V)
 
 	**Liens**:
 
@@ -25405,45 +25475,6 @@ Les dispositions de l'article 163 ne sont pas applicables.
 
 	  - Loi n°87-516 du 10 juillet 1987 - art. 1 (V)
 	  - Loi n°89-18 du 13 janvier 1989 - art. 24 (V)
-
-
-###### Article 151 septies
-
-Les plus-values réalisées dans le cadre d'une activité agricole, artisanale, commerciale ou libérale par des contribuables
-dont les recettes n'excèdent pas la limite du forfait ou de l'évaluation administrative sont exonérées, à condition que
-l'activité ait été exercée à titre principal pendant au moins cinq ans [*délai*], et que le bien n'entre pas dans le champ
-d'application de l'article 691 [*conditions*].
-
-Lorsque ces conditions ne sont pas remplies, il est fait application des règles des articles 150 A à 150 S.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 150 A A CGI 150 S
-	  - CGI 691
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 41 (V)
-	  - Code de la sécurité sociale. - art. L613-1 (V)
-	  - Code général des impôts, CGI. - art. 102 ter (V)
-	  - Code général des impôts, CGI. - art. 151 nonies (V)
-	  - Code général des impôts, CGI. - art. 151 octies (V)
-	  - Code général des impôts, CGI. - art. 151 octies B (V)
-	  - Code général des impôts, CGI. - art. 155 (VD)
-	  - Code général des impôts, CGI. - art. 221 bis (V)
-	  - Code général des impôts, CGI. - art. 238 quindecies (V)
-	  - Code général des impôts, CGI. - art. 50-0 (V)
-	  - Code général des impôts, CGI. - art. 69 (V)
-	  - Code général des impôts, CGI. - art. 70 (V)
-	  - Code général des impôts, CGI. - art. 93 quater (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 A (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 154
@@ -27581,6 +27612,41 @@ directement ou indirectement, à concurrence de plus de la moitié par des soci�
 	  - Loi n°82-1126 du 29 décembre 1982 - art. 67 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
 
 
+###### Article 80 sexies
+
+Pour l'assiette de l'impôt sur le revenu dont sont redevables les assistantes maternelles régies par la loi n° 77-505 du 17
+mai 1977, le revenu brut à retenir [*calcul*] est égal à la différence entre, d'une part, le total des sommes versées tant à
+titre de rémunération que d'indemnités pour l'entretien et l'hébergement des enfants et, d'autre part, une somme égale à
+trois fois le montant horaire du salaire minimum de croissance [*SMIC*], par jour et pour chacun des enfants qui leur sont
+confiés.
+
+Cette somme est portée à quatre fois le montant horaire du salaire minimum de croissance par jour et par enfant ouvrant droit
+à la majoration prévue à l'article L 773-10 du code du travail (1).
+
+(1) Dispositions applicables pour la première fois aux revenus perçus à compter du 1er janvier 1979 [*date, point de
+départ*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°77-505 1977-05-17
+	  - Code du travail - art. L773-10 (M)
+
+	**Créé par**:
+
+	  - Loi n°79-1102 du 21 décembre 1979 - art. 1 (V) JORF 22 DECEMBRE 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Loi n°2008-1330 du 17 décembre 2008 - art. 108 (V)
+	  - Loi n°2010-625 du 9 juin 2010 - art. 3 (V)
+
+
 ###### Article 92 D
 
 Les dispositions des articles 92 A et 92 B ne s'appliquent pas :
@@ -27653,6 +27719,91 @@ de rachat (1).
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
+
+
+###### Article 93
+
+1. Le bénéfice à retenir dans les bases de l'impôt sur le revenu est constitué par l'excédent des recettes totales sur les
+dépenses nécessitées par l'exercice de la profession. Sous réserve des dispositions de l'article 151 sexies, il tient compte
+des gains ou des pertes [*plus-values, moins-values*] provenant soit de la réalisation des éléments d'actif affectés à
+l'exercice de la profession, soit des cessions de charges ou d'offices, ainsi que de toutes indemnités reçues en contrepartie
+de la cessation de l'exercice de la profession ou du transfert d'une clientèle. Les dépenses déductibles comprennent
+notamment [*définition*] :
+
+1° Le loyer des locaux professionnels. Lorsque le contribuable est propriétaire de locaux affectés à l'exercice de sa
+profession, aucune déduction n'est apportée, de ce chef, au bénéfice imposable.
+
+2° Les amortissements effectués suivant les règles applicables en matière de bénéfices industriels et commerciaux.
+
+1 bis. (Abrogé).
+
+1 ter. Les agents généraux d'assurances et leurs sous-agents peuvent demander que le revenu imposable provenant des
+commissions versées par les compagnies d'assurances qu'ils représentent, ès qualités, soit déterminé selon les règles prévues
+en matière de traitements et salaires.
+
+Ce régime est subordonné aux conditions suivantes :
+
+- Les commissions reçues doivent être intégralement déclarées par les tiers ;
+
+- Les intéressés ne doivent pas bénéficier d'autres revenus professionnels, à l'exception de courtages et autres
+rémunérations accessoires se rattachant directement à l'exercice de leur profession ;
+
+- Le montant brut de ces courtages et rémunérations accessoires ne doit pas excéder 10 % du montant brut des commissions.
+
+1 quater. Lorsqu'ils sont intégralement déclarés par les tiers, les produits de droits d'auteur perçus par les écrivains et
+compositeurs sont, sans préjudice de l'article 100 bis, soumis à l'impôt sur le revenu selon les règles prévues en matière de
+traitements et salaires.
+
+La déduction forfaitaire de 10 % [*pourcentage*] pour frais professionnels, prévue à l'article 83-3°, s'applique au montant
+brut des droits perçus diminué des cotisations payées au titre des régimes obligatoire et complémentaire obligatoire de
+sécurité sociale.
+
+2. Dans le cas de concession de licence d'exploitation d'un brevet, ou de cession ou de concession d'un procédé ou formule de
+fabrication par l'inventeur lui-même, il est appliqué sur les produits d'exploitation ou sur le prix de vente un abattement
+de 30 % pour tenir compte des frais exposés en vue de la réalisation de l'invention, lorsque les frais réels n'ont pas déjà
+été admis en déduction pour la détermination du bénéfice imposable, sauf application des dispositions du deuxième alinéa de
+l'article 93 quater-I.
+
+3. (Abrogé).
+
+4. (Transféré sous l'article 93 quater-II).
+
+4 bis. (Abrogé).
+
+5. Pour l'application du 1, les parts de sociétés civiles de moyens constituent des éléments affectés à l'exercice de la
+profession.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 100 bis
+	  - CGI 151 sexies
+	  - CGI 83 3°
+	  - CGI 93 quater I, II
+
+	**Modifié par**:
+
+	  - Loi n°79-1102 du 21 décembre 1979 - art. 6 (V) JORF 22 DECEMBRE 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Décret n°2011-361 du 1er avril 2011 - art. 6 (V)
+	  - Décret n°2017-122 du 1er février 2017 - art. 3
+	  - Code de commerce - art. R743-171 (V)
+	  - Code général des impôts, CGI. - art. 1417 (V)
+	  - Code général des impôts, CGI. - art. 151 nonies (V)
+	  - Code général des impôts, CGI. - art. 151 sexies (VD)
+	  - Code général des impôts, CGI. - art. 163 quatervicies (V)
+	  - Code général des impôts, CGI. - art. 170 (VD)
+	  - Code général des impôts, CGI. - art. 202 quater (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 E ter (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies F (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies G (V)
 
 
 ###### Article 94 A
@@ -27792,6 +27943,63 @@ déclaration des sommes ou valeurs attribuées à chaque porteur de parts (1).
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
+
+
+###### Article 151 septies
+
+Les plus-values réalisées dans le cadre d'une activité agricole, artisanale, commerciale ou libérale par des contribuables
+dont les recettes n'excèdent pas la limite du forfait ou de l'évaluation administrative sont exonérées, à condition que
+l'activité ait été exercée pendant au moins cinq ans [*délai*], et que le bien n'entre pas dans le champ d'application de
+l'article 691.
+
+Lorsque ces conditions ne sont pas remplies, il est fait application :
+
+- des règles prévues aux articles 150 A à 150 S pour les terrains à bâtir et les terres à usage agricole ou forestier ;
+
+- du régime fiscal des plus-values professionnelles prévu aux articles 39 duodecies à 39 quindecies et à 93 quater pour les
+autres éléments de l'actif immobilisé.
+
+Les plus-values réalisées lors de la cession d'immeubles par des loueurs en meublé qui ne retirent pas de cette activité
+l'essentiel de leur revenu restent soumises aux règles prévues par les articles 150 A à 150 S.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 A A CGI 150 S
+	  - CGI 39 duodecies
+	  - CGI 39 quaterdecies
+	  - CGI 39 quindecies
+	  - CGI 39 terdecies
+	  - CGI 691
+	  - CGI 93 quater
+
+	**Modifié par**:
+
+	  - Loi n°79-1102 1979-12-21 ART. 4 I, II, III FINANCES RECTIFICATIVE POUR 1979 JORF 22 DECEMBRE 1979
+	  - Loi n°79-1102 du 21 décembre 1979 - art. 4 () JORF 22 DECEMBRE 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 41 (V)
+	  - Code de la sécurité sociale. - art. L613-1 (V)
+	  - Code général des impôts, CGI. - art. 102 ter (V)
+	  - Code général des impôts, CGI. - art. 151 nonies (V)
+	  - Code général des impôts, CGI. - art. 151 octies (V)
+	  - Code général des impôts, CGI. - art. 151 octies B (V)
+	  - Code général des impôts, CGI. - art. 155 (VD)
+	  - Code général des impôts, CGI. - art. 221 bis (V)
+	  - Code général des impôts, CGI. - art. 238 quindecies (V)
+	  - Code général des impôts, CGI. - art. 50-0 (V)
+	  - Code général des impôts, CGI. - art. 69 (V)
+	  - Code général des impôts, CGI. - art. 70 (V)
+	  - Code général des impôts, CGI. - art. 93 quater (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 A (V)
 
 
 ##### REVENU GLOBAL.
@@ -28590,41 +28798,54 @@ bénéfice est réservé aux produits encaissés avant le 1er janvier 1981 [*dat
 
 ###### Article 160
 
-I  Lorsqu'un associé, actionnaire, commanditaire ou porteur de parts bénéficiaires cède à un tiers, pendant la durée de la
+I. Lorsqu'un associé, actionnaire, commanditaire ou porteur de parts bénéficiaires cède à un tiers, pendant la durée de la
 société, tout ou partie de ses droits sociaux, l'excédent du prix de cession sur le prix d'acquisition - ou la valeur au 1er
 janvier 1949, si elle est supérieure - de ces droits est taxé exclusivement à l'impôt sur le revenu au taux de 15 %.
 
 L'imposition de la plus-value ainsi réalisée est subordonnée à la seule condition que les droits détenus directement ou
 indirectement dans les bénéfices sociaux par le cédant ou son conjoint, leurs ascendants et leurs descendants, aient dépassé
-ensemble 25 % [*pourcentage*] de ces bénéfices à un moment quelconque au cours des cinq dernières années [*période*].
+ensemble 25 % de ces bénéfices à un moment quelconque au cours des cinq dernières années.
 
-Ces dispositions ne sont pas applicables aux associés, commandités et membres de sociétés visés à l'article 8 [*non passibles
-de l'impôt sur les sociétés*] qui sont imposables chaque année à raison de la quote-part des bénéfices sociaux correspondant
-à leurs droits dans la société.
+Ces dispositions ne sont pas applicables aux associés, commandités et membres de sociétés visés à l'article 8 qui sont
+imposables chaque année à raison de la quote-part des bénéfices sociaux correspondant à leurs droits dans la société.
 
-Le taux prévu au premier alinéa est réduit de 30 % dans les départements de la Guadeloupe, de la Martinique et de la Réunion
-et de 40 % dans le département de la Guyane. Les taux résultant de ces dispositions sont arrondis, s'il y a lieu, à l'unité
-inférieure.
+Le taux prévu au premier alinéa est réduit de 30 % dans les départements de la Guadeloupe, de la Martinique [*DOM*] et de la
+Réunion et de 40 % dans le département de la Guyane. Les taux résultant de ces dispositions sont arrondis, s'il y a lieu, à
+l'unité inférieure.
 
-I bis  En cas d'échange de droits sociaux résultant d'une fusion ou d'une scission, le contribuable peut répartir la plus-
+1 bis. En cas d'échange de droits sociaux résultant d'une fusion ou d'une scission, le contribuable peut répartir la plus-
 value imposable sur l'année de l'échange et les quatre années suivantes.
 
-II  (Disposition périmée).
+I ter. Par exception aux dispositions du paragraphe I bis, l'imposition de la plus-value réalisée en cas d'échange de droits
+sociaux résultant d'une fusion ou d'une scission et intervenant entre le 1er janvier 1980 et le 31 décembre 1981 peut, sur
+demande expresse du contribuable, être reportée au moment où s'opérera la transmission ou le rachat des droits sociaux reçus
+à l'occasion de l'échange par cet associé.
+
+Ce report d'imposition est subordonné à la condition que l'opération de fusion ou de scission ait été préalablement agréée
+par le ministre du budget.
+
+Toutefois le contribuable est dispensé de l'agrément lorsqu'il prend l'engagement de conserver les titres acquis en échange
+pendant un délai de cinq ans à compter de la date de l'opération d'échange. Le non-respect de cet engagement entraîne
+l'établissement de l'imposition au titre de l'année au cours de laquelle l'échange de droits sociaux est intervenu, sans
+préjudice des sanctions prévues aux articles 1728 et 1729.
+
+II. (Disposition périmée).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 8
+	  - CGI 1728
+	  - CGI 1729
+
+	**Modifié par**:
+
+	  - Loi n°79-1102 du 21 décembre 1979 - art. 5 () JORF 22 DECEMBRE 1979
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 150 A bis (V)
 	  - Code général des impôts, CGI. - art. 167 bis (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 160 ter
@@ -28804,6 +29025,105 @@ l'importance des cessions réalisées par le porteur.
 	  - Code général des impôts, CGI. - art. 80 quaterdecies (V)
 	  - Code monétaire et financier - art. D221-109 (V)
 	  - Code monétaire et financier - art. D221-113-1 (V)
+
+
+##### DISPOSITIONS SPECIALES APPLICABLES EN CAS DE CESSION, DE CESSATION OU DE DECES.
+
+###### Article 201
+
+1. Dans le cas de cession ou de cessation, en totalité ou en partie, d'une entreprise industrielle, commerciale, artisanale
+ou minière, ou d'une exploitation agricole dont les résultats sont imposés d'après le régime du bénéfice réel, l'impôt sur le
+revenu dû en raison des bénéfices réalisés dans cette entreprise ou exploitation et qui n'ont pas encore été imposés est
+immédiatement établi.
+
+Les contribuables doivent, dans un délai de dix jours déterminé comme il est indiqué ci-après, aviser l'administration de la
+cession ou de la cessation et lui faire connaître la date à laquelle elle a été ou sera effective, ainsi que, s'il y a lieu,
+les nom, prénoms, et adresse du cessionnaire.
+
+Le délai de dix jours commence à courir :
+
+- lorsqu'il s'agit de la vente ou de la cession d'un fonds de commerce, du jour où la vente ou la cession a été publiée dans
+un journal d'annonces légales, conformément aux prescriptions du premier alinéa de l'article 3 de la loi du 17 mars 1909,
+modifiée par les lois subséquentes ;
+
+- lorsqu'il s'agit de la vente ou de la cession d'autres entreprises, du jour où l'acquéreur ou le cessionnaire a pris
+effectivement la direction des exploitations ;
+
+- lorsqu'il s'agit de la cessation d'entreprises, du jour de la fermeture définitive des établissements [*point de départ*].
+
+2. Pour les contribuables soumis au régime du forfait qui cessent leur activité au cours de la première année de la période
+biennale ou, en cas de reconduction tacite, au cours de l'année suivant celle couverte par cette reconduction, le forfait de
+bénéfice est obligatoirement fixé au montant du forfait établi pour l'année précédente, ajusté au prorata du temps écoulé du
+1er janvier jusqu'au jour où la cessation est devenue effective.
+
+Lorsque la cessation intervient au cours de la deuxième année de la période biennale, le forfait de bénéfice à retenir est
+celui qui est fixé pour l'année considérée, réduit au prorata du temps écoulé dans les conditions visées à l'alinéa
+précédent.
+
+Lorsque la cession ou la cessation du fonds intervient moins de cinq ans après la création ou l'acquisition de ce dernier, le
+bénéfice restant à taxer est augmenté, le cas échéant, du montant des plus-values provenant de la cession des stocks. Les
+plus-values provenant de la cession des éléments de l'actif immobilisé sont imposées dans les conditions prévues à l'article
+151 septies.
+
+Pour l'application de cette disposition, les redevables de cette catégorie sont tenus de faire parvenir à l'administration,
+dans le délai de dix jours prévu au 1, outre les renseignements visés audit paragraphe, une déclaration indiquant le montant
+net des plus-values visées à l'alinéa précédent et de produire, à l'appui de cette déclaration, toutes justifications utiles.
+
+3. Les contribuables non assujettis au forfait sont tenus de faire parvenir à l'administration, dans le délai de dix jours
+prévu au 1, outre les renseignements visés audit paragraphe, la déclaration de leur bénéfice réel accompagnée d'un résumé de
+leur compte de pertes et profits.
+
+Pour la détermination du bénéfice réel, il est fait application des dispositions des articles 39 duodecies, 39 terdecies-1 et
+2, et 39 quaterdecies à 39 quindecies A.
+
+Si les contribuables imposés d'après leur bénéfice réel ne produisent pas les déclarations ou renseignements visés au 1 et au
+premier alinéa du présent paragraphe, ou, si invités à fournir à l'appui de la déclaration de leur bénéfice réel les
+justifications nécessaires, ils s'abstiennent de les donner dans les trente jours qui suivent la réception de l'avis qui leur
+est adressé à cet effet, les bases d'imposition sont arrêtées d'office.
+
+4. A l'exception du 2, troisième et quatrième alinéas, les dispositions du présent article sont applicables dans le cas de
+décès de l'exploitant. Dans ce cas, les ayants droit du défunt doivent produire les renseignements nécessaires pour
+l'établissement de l'impôt dans les six mois de la date du décès.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 duodecies
+	  - CGI 39 quaterdecies
+	  - CGI 39 quindecies
+	  - CGI 39 quindecies A
+	  - CGI 39 terdecies 1, 2
+	  - Loi n°1909-03-17 ART. 3 AL. 1
+
+	**Modifié par**:
+
+	  - Loi n°79-1102 du 21 décembre 1979 - art. 4 () JORF 22 DECEMBRE 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater C (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater I (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater P (V)
+	  - Code de commerce - art. L143-21 (V)
+	  - Code général des collectivités territoriales - art. Rubrique 5 (V)
+	  - Code général des impôts, CGI. - art. 1586 octies (V)
+	  - Code général des impôts, CGI. - art. 1663 (VD)
+	  - Code général des impôts, CGI. - art. 1684 (V)
+	  - Code général des impôts, CGI. - art. 1727 (VD)
+	  - Code général des impôts, CGI. - art. 201 ter (V)
+	  - Code général des impôts, CGI. - art. 203 (V)
+	  - Code général des impôts, CGI. - art. 221 (V)
+	  - Code général des impôts, CGI. - art. 39 octies D (VD)
+	  - Code général des impôts, CGI. - art. 89 (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 F (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 duodecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 sexies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZZ bis B (V)
 
 
 #### IMPOT SUR LES BENEFICES DES SOCIETES *IS* ET AUTRES PERSONNES MORALES
@@ -30861,98 +31181,6 @@ III  (Abrogé) (2).
 
 
 ##### DISPOSITIONS SPECIALES APPLICABLES EN CAS DE CESSION, DE CESSATION OU DE DECES.
-
-###### Article 201
-
-1  Dans le cas de cession ou de cessation, en totalité ou en partie, d'une entreprise industrielle, commerciale, artisanale
-ou minière, ou d'une exploitation agricole dont les résultats sont imposés d'après le régime du bénéfice réel, l'impôt sur le
-revenu dû en raison des bénéfices réalisés dans cette entreprise ou exploitation et qui n'ont pas encore été imposés est
-immédiatement établi.
-
-Les contribuables doivent, dans un délai de dix jours déterminé comme il est indiqué ci-après, aviser l'administration de la
-cession ou de la cessation et lui faire connaître la date à laquelle elle a été ou sera effective, ainsi que, s'il y a lieu,
-les nom, prénoms, et adresse du cessionnaire.
-
-Le délai de dix jours commence à courir [*point de départ*] :
-
-- lorsqu'il s'agit de la vente ou de la cession d'un fonds de commerce, du jour où la vente ou la cession a été publiée dans
-un journal d'annonces légales, conformément aux prescriptions du premier alinéa de l'article 3 de la loi du 17 mars 1909,
-modifiée par les lois subséquentes;
-
-- lorsqu'il s'agit de la vente ou de la cession d'autres entreprises, du jour où l'acquéreur ou le cessionnaire a pris
-effectivement la direction des exploitations;
-
-- lorsqu'il s'agit de la cessation d'entreprises, du jour de la fermeture définitive des établissements.
-
-2  Pour les contribuables soumis au régime du forfait qui cessent leur activité au cours de la première année de la période
-biennale ou, en cas de reconduction tacite, au cours de l'année suivant celle couverte par cette reconduction, le forfait de
-bénéfice est obligatoirement fixé au montant du forfait établi pour l'année précédente, ajusté au prorata du temps écoulé du
-1er janvier jusqu'au jour où la cessation est devenue effective.
-
-Lorsque la cessation intervient au cours de la deuxième année de la période biennale, le forfait de bénéfice à retenir est
-celui qui est fixé pour l'année considérée, réduit au prorata du temps écoulé dans les conditions visées à l'alinéa
-précédent.
-
-Lorsque la cession ou la cessation du fonds intervient moins de cinq ans [*délai*] après la création ou l'acquisition de ce
-dernier, le bénéfice restant à taxer est augmenté, le cas échéant, du montant des plus-values provenant de la cession des
-stocks. Les plus-values provenant de la cession des éléments de l'actif immobilisé sont imposées dans les conditions prévues
-aux articles 150 A à 150 T.
-
-Pour l'application de cette disposition, les redevables de cette catégorie sont tenus de faire parvenir à l'administration,
-dans le délai de dix jours prévu au 1, outre les renseignements visés audit paragraphe, une déclaration indiquant le montant
-net des plus-values visées à l'alinéa précédent et de produire, à l'appui de cette déclaration, toutes justifications utiles
-[*formalités obligatoires*].
-
-3  Les contribuables non assujettis au forfait sont tenus de faire parvenir à l'administration, dans le délai de dix jours
-prévu au 1, outre les renseignements visés audit paragraphe, la déclaration de leur bénéfice réel accompagnée d'un résumé de
-leur compte de pertes et profits.
-
-Pour la détermination du bénéfice réel, il est fait application des dispositions des articles 39 duodecies, 39 terdecies-1 et
-2, et 39 quaterdecies à 39 sexdecies.
-
-Si les contribuables imposés d'après leur bénéfice réel ne produisent pas les déclarations ou renseignements visés au 1 et au
-premier alinéa du présent paragraphe, ou, si invités à fournir à l'appui de la déclaration de leur bénéfice réel les
-justifications nécessaires, ils s'abstiennent de les donner dans les trente jours qui suivent la réception de l'avis qui leur
-est adressé à cet effet [*délai*], les bases d'imposition sont arrêtées d'office [*sanction*].
-
-4  A l'exception du 2, troisième et quatrième alinéas, les dispositions du présent article sont applicables dans le cas de
-décès de l'exploitant. Dans ce cas, les ayants droit du défunt doivent produire les renseignements nécessaires pour
-l'établissement de l'impôt dans les six mois de la date du décès.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 150 A A CGI 150 T
-	  - CGI 39 duodecies
-	  - CGI 39 quaterdecies A CGI 39 sexdecies
-	  - CGI 39 terdecies 1, 2
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater C (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater I (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater P (V)
-	  - Code de commerce - art. L143-21 (V)
-	  - Code général des collectivités territoriales - art. Rubrique 5 (V)
-	  - Code général des impôts, CGI. - art. 1586 octies (V)
-	  - Code général des impôts, CGI. - art. 1663 (VD)
-	  - Code général des impôts, CGI. - art. 1684 (V)
-	  - Code général des impôts, CGI. - art. 1727 (VD)
-	  - Code général des impôts, CGI. - art. 201 ter (V)
-	  - Code général des impôts, CGI. - art. 203 (V)
-	  - Code général des impôts, CGI. - art. 221 (V)
-	  - Code général des impôts, CGI. - art. 39 octies D (VD)
-	  - Code général des impôts, CGI. - art. 89 (VD)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 F (P)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 duodecies (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 sexies (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZZ bis B (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 202
 
@@ -45402,17 +45630,21 @@ Toutefois ces dispositions ne sont pas applicables :
 Le droit de timbre sur les opérations de bourse n'est pas applicable :
 
 1° Aux opérations de contrepartie réalisées par les intermédiaires professionnels et enregistrées comme telles dans les
-comptes ouverts à cet effet dans les écritures des agents de change;
+comptes ouverts à cet effet dans les écritures des agents de change ;
 
 2° Aux achats ou ventes portant sur des obligations libellées en francs, inscrites à la cote officielle des bourses de
 valeurs :
 
-a  lorsque, dans les sept ans suivant la date de négociation [*délai*], ces titres doivent être amortis en totalité ou
-peuvent être intégralement remboursés à la demande des porteurs,     b  et lorsqu'il ne s'agit ni d'obligations échangeables
-ou convertibles en actions, ni de valeurs assorties de clauses d'indexation ou de clauses de participation aux bénéfices de
-la société émettrice, ni de titres dont les intérêts bénéficient du régime prévu par les articles 157-8°, 157-14° et 157-15°;
+a. lorsque, dans les sept ans suivant la date de négociation, ces titres doivent être amortis en totalité ou peuvent être
+intégralement remboursés à la demande des porteurs,    b. et lorsqu'il ne s'agit ni d'obligations échangeables ou
+convertibles en actions, ni de valeurs assorties de clauses d'indexation ou de clauses de participation aux bénéfices de la
+société émettrice, ni de titres dont les intérêts bénéficient du régime prévu par les articles 157-8°, 157-14° et 157-15° ;
 
-3° Aux opérations de bourse effectuées dans le cadre de placements en report par les personnes qui font de tels placements.
+3° Aux opérations de bourse effectuées dans le cadre de placements en report par les personnes qui font de tels placements ;
+
+4° Aux opérations portant sur des valeurs mobilières inscrites à la cote officielle d'une bourse de province ou au
+compartiment spécial du hors-cote ou figurant au relevé quotidien des valeurs non admises à la cote officielle d'une de ces
+bourses.
 
 **Liens relatifs à cet article**
 
@@ -45420,9 +45652,13 @@ la société émettrice, ni de titres dont les intérêts bénéficient du régi
 
 	  - CGI 157 8°, 14°, 15°
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°79-1102 du 21 décembre 1979 - art. 10 (V) JORF 22 DECEMBRE 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 ###### Article 982
