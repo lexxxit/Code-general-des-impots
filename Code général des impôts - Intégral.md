@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1985-01-10
+Version Consolidée au 1985-01-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -28401,6 +28401,40 @@ doivent ordonner d'office le dépôt de ces actes pour être immédiatement soum
 
 	  - PILOTE_SUIVEUR: Code rural - art. L127-2 (V)
 	  - HISTO: EDITION 1979-07-01
+
+
+##### Terres incultes - Mise en valeur.
+
+###### Article 1025
+
+Les contrats de concession, certificats, procès-verbaux et, d'une façon générale, tous actes se rapportant au classement ou à
+la concession des terres incultes ou manifestement sous-exploitées visés au chapitre V du titre Ier du livre Ier du code
+rural sont exonérés de timbre et, sous réserve des dispositions de l'article 1020, des droits d'enregistrement.
+
+Ces dispositions seront étendues par décret aux départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1020
+	  - Code rural 39 A Code rural 52
+
+	**Modifié par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 24 () JORF 10 janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1020 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code rural - art. L125-14 (V)
 
 
 ##### II : Organismes agricoles
