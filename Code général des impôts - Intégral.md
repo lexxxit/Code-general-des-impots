@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1987-01-01
+Version Consolidée au 1987-01-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -34492,6 +34492,38 @@ des droits de timbre applicables aux effets négociables.
 	  - Loi n°96-1181 du 30 décembre 1996 - art. 38 () JORF 31 décembre 1996
 
 
+##### III bis : Timbre des formules de chèques
+
+###### Article 916 A
+
+Les formules de chèques ne répondant pas aux caractéristiques de barrement d'avance et de non-transmissibilité par voie
+d'endossement mentionnées à l'article 85 de la loi n° 78-1239 du 29 décembre 1978 sont soumises à un droit de timbre de 5 F
+[*montant*] par formule (1).
+
+(1)  Annexe III, art. 313 BG bis et 313 BG ter;
+
+Annexe IV, art. 121 KL bis et 121 KL ter.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 BG bis
+	  - CGIAN3 313 BG ter
+	  - CGIAN4 121 KL bis
+	  - CGIAN4 121 KL ter
+	  - Loi n°78-1239 1978-12-29 ART. 85 FINANCES POUR 1979
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 30 () JORF 31 décembre 1986, en vigueur le 15 janvier 1987
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1723 ter-0 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 313 BG bis (V)
+
+
 ##### IV : Timbre des quittances
 
 ###### Article 919 B
@@ -35026,6 +35058,50 @@ substitue, le cas échéant, aux diverses taxes auxquelles donnait ouverture, en
 	**Modifié par**:
 
 	  - Loi n°85-1403 du 30 décembre 1985 - art. 12 (P) JORF 31 décembre 1985
+
+
+###### Article 948
+
+La carte de séjour de ressortissant d'un Etat membre de la Communauté économique européenne est assujettie, lors de son
+renouvellement, à un droit de timbre de même quotité que le droit perçu en application de l'article 947 lors de la délivrance
+de la carte nationale d'identité.
+
+Il en est de même pour la délivrance et le renouvellement des certificats de résidence prévus à l'article 7 bis de l'accord
+du 27 septembre 1968 modifié, publié par les décrets n° 69-243 du 18 mars 1969 et n° 86-320 du 7 mars 1986.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Accord 1968-09-27 art. 7 bis
+	  - CGI 947
+	  - Décret n°69-243 1969-03-18
+	  - Décret n°86-320 1986-03-07
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 1986-12-30 art. 42 IV, V Finances pour 1987 JORF 31 décembre 1986 en vigueur le 15 janvier 1987
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 42 (P) JORF 31 décembre 1986 en vigueur le 15 janvier 1987
+
+
+###### Article 949
+
+Les cartes de séjour des étrangers sont assujetties, lors de leur délivrance ou de leur renouvellement, à la perception d'une
+somme de 160 F [*montant*] (1). Toutefois, cette somme n'est pas exigible lors de la délivrance de la première carte de
+séjour.
+
+(1) Annexe III, art. 313 AT.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 AT
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 1986-12-30 art. 42 III, V Finances pour 1987 JORF 31 décembre 1986 en vigueur le 15 janvier 1987
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 42 (P) JORF 31 décembre 1986 en vigueur le 15 janvier 1987
 
 
 ###### Article 950
@@ -53632,6 +53708,76 @@ comptes. L'état est taxé sans frais par le tribunal de grande instance du dép
 
 ### Section V : Dispositions communes
 
+#### I : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor et de la direction générale des impôts.
+
+###### Article 1912
+
+1. Les frais de poursuites à la charge des contribuables sont calculés sur le montant des termes échus, conformément au tarif
+suivant :
+
+- commandement, 3 % [*taux, pourcentage*] du montant du débet ;
+
+- saisie, quelle que soit la nature de la saisie, 5 % du montant du débet ;
+
+- récolement sur saisie antérieure, 2,5 % du montant du débet ;
+
+- signification de vente, 1,5 % du montant du débet ;
+
+- affiches, 1,5 % du montant du débet ;
+
+- récolement avant la vente, 1 % du montant du débet ;
+
+- procès-verbal de vente, 1 % du montant du débet.
+
+En cas de saisie interrompue par un versement immédiat du contribuable à la caisse du comptable du Trésor chargé du
+recouvrement des impôts directs, le tarif des frais de saisie est réduit à 1 %. Il en est de même dans le cas où le
+contribuable se libère dans le délai d'un jour franc à compter de la saisie.
+
+Les frais à la charge des contribuables comportent un minimum de 50 F pour le commandement et de 100 F pour les actes de
+poursuites autres que le commandement.
+
+Les frais accessoires aux poursuites sont déterminés par un décret contresigné par le ministre de l'économie et des finances
+(1).
+
+2. En matière d'impôts directs, la taxe des frais de poursuites à recouvrer sur le débiteur est faite par le receveur des
+finances.
+
+Un arrêté ministériel fixe les conditions dans lesquelles cette taxe est opérée en ce qui concerne les impositions,
+redevances et sommes quelconques dont la perception incombe aux comptables de la direction générale des impôts.
+
+3. Le ministre de l'économie et des finances fixe les conditions dans lesquelles des remises ou modérations de frais de
+poursuites et de majorations appliquées au titre des articles 1761 et 1762 pourront être accordées à titre gracieux.
+
+(1) Annexe III, art. 415 et 416.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 30 mai 2013 - art. 1
+	  - Loi n°75-618 du 11 juillet 1975 - art. 7 (V)
+	  - Code général de la propriété des personnes publ... - art. L2323-2 (V)
+	  - Code général de la propriété des personnes publ... - art. L2323-6 (V)
+	  - Code général des collectivités territoriales - art. L1617-5 (M)
+	  - Code général des impôts, CGI. - art. 1917 (VT)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 396 B (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 396 C (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 216 (VD)
+	  - Livre des procédures fiscales - art. L247 (V)
+	  - Livre des procédures fiscales - art. L257-0 A (VD)
+
+	**Cite**:
+
+	  - CGI 1761
+	  - CGI 1762
+	  - CGIAN3 415
+	  - CGIAN3 416
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 42 (P) JORF 31 décembre 1986 en vigueur le 15 janvier 1987
+
+
 #### II : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des impôts.
 
 ###### Article 1917
@@ -56605,78 +56751,6 @@ La nullité prévue par l'alinéa qui précède ne peut être invoquée que par 
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-## PROCEDURES
-
-### DISPOSITIONS COMMUNES.
-
-###### Article 1912
-
-1. Les frais de poursuites à la charge des contribuables sont calculés sur le montant des termes échus, conformément au tarif
-suivant :
-
-- commandement, 3 % [*taux, pourcentage*] du montant du débet ;
-
-- saisie, quelle que soit la nature de la saisie, 5 % du montant du débet ;
-
-- récolement sur saisie antérieure, 2,5 % du montant du débet ;
-
-- signification de vente, 1,5 % du montant du débet ;
-
-- affiches, 1,5 % du montant du débet ;
-
-- récolement avant la vente, 1 % du montant du débet ;
-
-- procès-verbal de vente, 1 % du montant du débet.
-
-En cas de saisie interrompue par un versement immédiat du contribuable à la caisse du comptable du Trésor chargé du
-recouvrement des impôts directs, le tarif des frais de saisie est réduit à 1 %. Il en est de même dans le cas où le
-contribuable se libère dans le délai d'un jour franc à compter de la saisie.
-
-Les frais à la charge des contribuables comportent un minimum de 2 F pour le commandement et de 10 F pour les actes de
-poursuites autres que le commandement.
-
-Les frais accessoires aux poursuites sont déterminés par un décret contresigné par le ministre de l'économie et des finances
-(1).
-
-2. En matière d'impôts directs, la taxe des frais de poursuites à recouvrer sur le débiteur est faite par le receveur des
-finances.
-
-Un arrêté ministériel fixe les conditions dans lesquelles cette taxe est opérée en ce qui concerne les impositions,
-redevances et sommes quelconques dont la perception incombe aux comptables de la direction générale des impôts.
-
-3. Le ministre de l'économie et des finances fixe les conditions dans lesquelles des remises ou modérations de frais de
-poursuites et de majorations appliquées au titre des articles 1761 et 1762 pourront être accordées à titre gracieux.
-
-(1) Annexe III, art. 415 et 416.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 30 mai 2013 - art. 1
-	  - Loi n°75-618 du 11 juillet 1975 - art. 7 (V)
-	  - Code général de la propriété des personnes publ... - art. L2323-2 (V)
-	  - Code général de la propriété des personnes publ... - art. L2323-6 (V)
-	  - Code général des collectivités territoriales - art. L1617-5 (M)
-	  - Code général des impôts, CGI. - art. 1917 (VT)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 396 B (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 396 C (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 216 (VD)
-	  - Livre des procédures fiscales - art. L247 (V)
-	  - Livre des procédures fiscales - art. L257-0 A (VD)
-
-	**Cite**:
-
-	  - CGI 1761
-	  - CGI 1762
-	  - CGIAN3 415
-	  - CGIAN3 416
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
 
 
 ## SURETES ET PRIVILEGES
