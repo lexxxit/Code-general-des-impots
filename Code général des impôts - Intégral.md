@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1979-07-12
+Version Consolidée au 1979-07-14
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -23516,40 +23516,6 @@ du barème de l'impôt sur le revenu.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 92 D
-
-Les dispositions des articles 92 A et 92 B ne s'appliquent pas :
-
-1° Aux cessions mentionnées à l'article 160 ;
-
-2° Au rachat des parts de fonds communs de placement;
-
-3° Aux titres cédés dans le cadre de leur gestion par les fonds communs de placement constitués en application des
-législations sur la participation des salariés aux fruits de l'expansion des entreprises et des plans d'épargne d'entreprise;
-
-4° A la cession des titres acquis dans le cadre des législations sur la participation des travailleurs aux fruits de
-l'expansion des entreprises et sur l'actionnariat dans les entreprises, à la condition que ces titres revêtent la forme
-nominative et comportent la mention d'origine;
-
-5° A la cession de titres effectuée dans le cadre d'un engagement d'épargne à long terme lorsque les conditions fixées par
-l'article 163 bis A sont respectées;
-
-6° Aux profits réalisés dans le cadre des placements en report par les contribuables qui effectuent de tels placements.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 160
-	  - CGI 163 bis A
-	  - CGI 92 A
-	  - CGI 92 B
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 93
 
 1  Le bénéfice [*définition*] à retenir dans les bases de l'impôt sur le revenu est constitué par l'excédent des recettes
@@ -23682,70 +23648,6 @@ ans à compter de la publication du règlement d'administration publique propre 
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 94 A
-
-1  Les gains nets mentionnés aux articles 92 A et 92 B sont constitués par la différence entre le prix effectif de cession
-des titres ou droits, net des frais et taxes acquittés par le cédant, et leur prix effectif d'acquisition par celui-ci ou, en
-cas d'acquisition à titre gratuit, leur valeur retenue pour la détermination des droits de mutation [*calcul*]. Le prix ou la
-valeur d'acquisition est augmenté des frais d'acquisition autres que les droits de mutation à titre gratuit. Les frais
-d'acquisition à titre onéreux peuvent être fixés forfaitairement à 2 % [*pourcentage*].
-
-2  En cas de cession d'un ou plusieurs titres appartenant à une série de titres de même nature acquis pour des prix
-différents, le prix d'acquisition à retenir est la valeur moyenne pondérée d'acquisition de ces titres.
-
-En cas de détachement de droits de souscription ou d'attribution :
-
-- le prix d'acquisition des actions ou parts antérieurement détenues et permettant de participer à l'opération ne fait
-l'objet d'aucune modification ;
-
-- le prix d'acquisition des droits détachés est, s'ils font l'objet d'une cession, réputé nul;
-
-- le prix d'acquisition des actions ou parts reçues à l'occasion de l'opération est réputé égal aux prix des droits acquis
-dans ce but à titre onéreux, augmenté, s'il y a lieu, de la somme versée par le souscripteur.
-
-3  Pour l'ensemble des titres cotés acquis avant le 1er janvier 1979 [*date*], le contribuable peut retenir, comme prix
-d'acquisition, le cours au comptant le plus élevé de l'année 1978.
-
-Pour l'ensemble des valeurs françaises à revenu variable, il peut également retenir le cours moyen de cotation au comptant de
-ces titres pendant l'année 1972.
-
-A partir de 1984, le contribuable retiendra comme prix d'acquisition, pour l'ensemble des titres cotés acquis avant le 1er
-janvier 1984 [*date*], le cours au comptant le plus élevé de l'année 1983, sauf si leur prix effectif d'acquisition est d'un
-montant supérieur. La même disposition s'appliquera tous les cinq ans [*périodicité*].
-
-4  Le prix d'acquisition des titres acquis en vertu d'un engagement d'épargne à long terme est réputé égal au dernier cours
-coté au comptant de ces titres précédant l'expiration de cet engagement.
-
-5  En cas de vente ultérieure de titres reçus à l'occasion d'une opération d'offre publique de conversion, de division ou de
-regroupement, réalisée conformément à la réglementation en vigueur, le gain net est calculé à partir du prix ou de la valeur
-d'acquisition originels.
-
-6  Les pertes subies au cours d'une année sont imputables exclusivement sur les gains de même nature réalisés au cours de la
-même année ou des cinq années suivantes [*délai de report*].
-
-7  Les conditions d'application des dispositions du présent article sont fixées par décret en conseil d'Etat (1).
-
-1)  Annexe II, art. 39 B à 39 E.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 92 A
-	  - CGI 92 B
-	  - CGIAN2 39 B A CGIAN2 39 E
-
-	**Cité par**:
-
-	  - Code de commerce - art. L225-270 (V)
-	  - Code de commerce - art. L912-6 (V)
-	  - Code de commerce - art. L922-7 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 96
 
 I  Les contribuables qui réalisent ou perçoivent des bénéfices ou revenus visés à l'article 92 sont obligatoirement soumis au
@@ -23788,33 +23690,6 @@ et 12 % [*pourcentage*] pour chacune des années 1975, 1976 et 1977.
 	**Cite**:
 
 	  - CGI 92
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 96 A
-
-Les contribuables qui réalisent des opérations mentionnées aux articles 92 A et 92 B sont soumis obligatoirement, pour ce qui
-concerne ces opérations, au régime de la déclaration contrôlée.
-
-Les conditions d'application du présent article et notamment les obligations incombant aux intermédiaires ainsi qu'aux
-personnes interposées sont précisées par décret en conseil d'Etat (1).
-
-1)  Annexe II, art. 39 A à 39 I.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 92 A
-	  - CGI 92 B
-	  - CGIAN2 39 A A 39 I
-
-	**Cité par**:
-
-	  - Arrêté du 3 avril 2015 (V)
 
 	**Liens**:
 
@@ -27706,6 +27581,219 @@ directement ou indirectement, à concurrence de plus de la moitié par des soci�
 	  - Loi n°82-1126 du 29 décembre 1982 - art. 67 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
 
 
+###### Article 92 D
+
+Les dispositions des articles 92 A et 92 B ne s'appliquent pas :
+
+1° Aux cessions mentionnées à l'article 160 ;
+
+2° Aux titres cédés dans le cadre de leur gestion par les fonds communs de placement, constitués en application des
+législations sur la participation des salariés aux fruits de l'expansion des entreprises et les plans d'épargne d'entreprise
+ainsi qu'aux rachats de parts de tels fonds ;
+
+3° Aux titres cédés dans le cadre de leur gestion par les autres fonds communs de placement sous réserve qu'aucune personne
+physique agissant directement ou par personne interposée ne possède plus de 10 % des parts du fonds ;
+
+4° A la cession des titres acquis dans le cadre des législations sur la participation des travailleurs aux fruits de
+l'expansion des entreprises et sur l'actionnariat dans les entreprises, à la condition que ces titres revêtent la forme
+nominative et comportent la mention d'origine ;
+
+5° A la cession de titres effectuée dans le cadre d'un engagement d'épargne à long terme lorsque les conditions fixées par
+l'article 163 bis A sont respectées ;
+
+6° Aux profits réalisés dans le cadre des placements en report par les contribuables qui effectuent de tels placements.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 160
+	  - CGI 163 bis A
+	  - CGI 92 A
+	  - CGI 92 B
+
+	**Modifié par**:
+
+	  - Loi n°79-594 1979-07-13 ART. 27 I JORF 14 JUILLET 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 92 F
+
+Les gains nets résultant des rachats de parts de fonds communs de placement définis à l'article 92 D-3°, ou de leur
+dissolution, sont soumis à l'impôt dans les conditions prévues à l'article 92 B, lorsque le nombre de porteurs de parts est
+supérieur à 50.
+
+Dans le cas contraire, ces gains, déterminés dans les mêmes conditions, sont taxés selon les règles prévues à l'article 200
+A-4.
+
+Si, à la suite d'un rachat de parts, le nombre de porteurs de parts devient égal ou inférieur à 50, le gérant du fonds
+dispose d'un délai de trois mois pour rétablir les conditions de répartition des avoirs du fonds antérieures aux opérations
+de rachat (1).
+
+(1) Annexe III, art. 39 bis et 39 ter.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 200 A 4
+	  - CGI 92 B
+	  - CGI 92 D 3°
+	  - CGIAN3 39 bis
+	  - CGIAN3 39 ter
+
+	**Créé par**:
+
+	  - Loi n°79-594 1979-07-13 ART. 27 II JORF 14 JUILLET 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 94 A
+
+1. Les gains nets mentionnés aux articles 92 A, 92 B et 92 F sont constitués [*calcul*] par la différence entre le prix
+effectif de cession des titres ou droits, net des frais et taxes acquittés par le cédant, et leur prix effectif d'acquisition
+par celui-ci ou, en cas d'acquisition à titre gratuit, leur valeur retenue pour la détermination des droits de mutation. Le
+prix ou la valeur d'acquisition est augmenté des frais d'acquisition autres que les droits de mutation à titre gratuit. Les
+frais d'acquisition à titre onéreux peuvent être fixés forfaitairement à 2 %.
+
+2. En cas de cession d'un ou plusieurs titres appartenant à une série de titres de même nature acquis pour des prix
+différents, le prix d'acquisition à retenir est la valeur moyenne pondérée d'acquisition de ces titres.
+
+En cas de détachement de droits de souscription ou d'attribution :
+
+- le prix d'acquisition des actions ou parts antérieurement détenues et permettant de participer à l'opération ne fait
+l'objet d'aucune modification ;
+
+- le prix d'acquisition des droits détachés est, s'ils font l'objet d'une cession, réputé nul ;
+
+- le prix d'acquisition des actions ou parts reçues à l'occasion de l'opération est réputé égal aux prix des droits acquis
+dans ce but à titre onéreux, augmenté, s'il y a lieu, de la somme versée par le souscripteur.
+
+3. Pour l'ensemble des titres cotés acquis avant le 1er janvier 1979 [*date limite*], le contribuable peut retenir, comme
+prix d'acquisition, le cours au comptant le plus élevé de l'année 1978.
+
+Pour l'ensemble des valeurs françaises à revenu variable, il peut également retenir le cours moyen de cotation au comptant de
+ces titres pendant l'année 1972.
+
+A partir de 1984, le contribuable retiendra comme prix d'acquisition, pour l'ensemble des titre cotés acquis avant le 1er
+janvier 1984, le cours au comptant le plus élevé de l'année 1983, sauf si leur prix effectif d'acquisition est d'un montant
+supérieur. La même disposition s'appliquera tous les cinq ans.
+
+4. Le prix d'acquisition des titres acquis en vertu d'un engagement d'épargne à long terme est réputé égal au dernier cours
+coté au comptant de ces titres précédant l'expiration de cet engagement.
+
+5. En cas de vente ultérieure de titres reçus à l'occasion d'une opération d'offre publique de conversion, de division ou de
+regroupement, réalisée conformément à la réglementation en vigueur, le gain net est calculé à partir du prix ou de la valeur
+d'acquisition originels.
+
+6. Les pertes subies au cours d'une année sont imputables exclusivement sur les gains de même nature réalisés au cours de la
+même année ou des cinq années suivantes.
+
+7. Les conditions d'application des dispositions du présent article sont fixées par décret en Conseil d'Etat (1).
+
+(1) Annexe II, art. 39 B à 39 E
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 92 A
+	  - CGI 92 B
+	  - CGI 92 F
+	  - CGIAN2 39 B
+	  - CGIAN2 39 C
+	  - CGIAN2 39 D
+	  - CGIAN2 39 E
+
+	**Modifié par**:
+
+	  - Loi n°79-594 1979-07-13 ART. 27 II JORF 14 JUILLET 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code de commerce - art. L225-270 (V)
+	  - Code de commerce - art. L912-6 (V)
+	  - Code de commerce - art. L922-7 (V)
+
+
+###### Article 96 A
+
+Les contribuables qui réalisent des opérations mentionnées aux articles 92 A, 92 B et 92 F sont soumis obligatoirement, pour
+ce qui concerne ces opérations, au régime de la déclaration contrôlée.
+
+Les conditions d'application du présent article et notamment les obligations incombant aux intermédiaires ainsi qu'aux
+personnes interposées sont précisées par décret en Conseil d'Etat (1).
+
+(1) Annexe II, art. 39 A à 39 I.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 92 A
+	  - CGI 92 B
+	  - CGI 92 F
+	  - CGIAN2 39 A A CGIAN2 39 I
+
+	**Modifié par**:
+
+	  - Loi n°79-594 1979-07-13 ART. 27 II JORF 14 JUILLET 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Arrêté du 3 avril 2015 (V)
+
+
+###### Article 137 bis
+
+I. Les sommes ou valeurs réparties au titre de chaque année par un fonds commun de placement régi par la loi n° 79-594 du 13
+juillet 1979 constituent des revenus de capitaux mobiliers perçus par les porteurs de parts à la date de cette répartition.
+
+II. Les gérants des fonds communs de placement sont tenus, sous les sanctions prévues à l'article 1765 bis, de prélever à la
+date de répartition et de reverser au Trésor la retenue à la source ou le prélèvement prévus aux articles 119 bis-2 et 125 A-
+III, qui sont dus à raison de leur quote-part respective par les porteurs de parts dont le domicile fiscal ou le siège social
+est situé hors de France métropolitaine et des départements d'outre-mer [*DOM*].
+
+III. Un décret fixe les obligations fiscales des gérants des fonds communs de placement en ce qui concerne notamment la
+déclaration des sommes ou valeurs attribuées à chaque porteur de parts (1).
+
+(1) Annexe III, art. 41 sexdecies A à 41 sexdecies F.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 119 bis 2
+	  - CGI 125 A III
+	  - CGI 1765 bis
+	  - CGIAN3 41 sexdecies A A CGIAN4 41 sexdecies F
+	  - Loi n°79-594 1979-07-13
+
+	**Créé par**:
+
+	  - Loi n°79-594 1979-07-13 ART. 26 I, IV, V JORF 14 JUILLET 1979
+	  - Loi n°79-594 du 13 juillet 1979 - art. 26 (V) JORF 14 JUILLET 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
 ##### REVENU GLOBAL.
 
 ###### Article 156
@@ -28574,6 +28662,148 @@ adresses ont été indiqués à l'administration, lorsque ces sociétés ont opt
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### CALCUL DE L'IMPOT.
+
+###### Article 193
+
+Sous réserve des dispositions de l'article 196 B, le revenu imposable, arrondi à la dizaine (1) de F inférieure est, pour le
+calcul de l'impôt sur le revenu, divisé en un certain nombre de parts, fixé conformément à l'article 194, d'après la
+situation et les charges de famille du contribuable.
+
+Le revenu correspondant à une part entière est taxé par application du tarif prévu à l'article 197.
+
+L'impôt brut est égal au produit de la cotisation ainsi obtenue par le nombre de parts.
+
+L'impôt dû par le contribuable est calculé à partir de l'impôt brut sauf application, le cas échéant, de l'imputation prévue
+aux articles 182 B, 199 ter et 199 ter A et sous réserve de l'utilisation éventuelle de l'avoir fiscal visé à l'article 158
+bis.
+
+(1) Disposition applicable à compter de l'imposition des revenus de l'année 1980.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 158 bis
+	  - CGI 182 B
+	  - CGI 194
+	  - CGI 196 B
+	  - CGI 197
+	  - CGI 199 ter
+	  - CGI 199 ter A
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°76-1234 du 29 décembre 1976 - art. 14 (V) JORF 30 DECEMBRE 1976
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 194 (VD)
+	  - Code général des impôts, CGI. - art. 199 (V)
+
+
+###### Article 199 ter A
+
+Les porteurs de parts d'un fonds commun de placement régi par la loi n° 79-594 du 13 juillet 1979 peuvent effectuer
+l'imputation de tout ou partie des crédits d'impôts et avoirs fiscaux attachés aux produits des actifs compris dans ce fonds.
+
+Pour chaque année, le gérant du fonds calcule la somme totale à l'imputation de laquelle les produits encaissés par le fonds
+donnent droit.
+
+Le droit à imputation par chaque porteur est déterminé en proportion de sa quote-part dans la répartition faite au titre de
+l'année considérée et en tenant compte de la nature et de l'origine française ou étrangère des produits compris dans cette
+répartition. Ce droit à imputation ne peut excéder celui auquel l'intéressé aurait pu prétendre s'il avait perçu directement
+sa quote-part des mêmes produits.
+
+Le montant à imputer est ajouté pour l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés au revenu net perçu
+par les porteurs de parts.
+
+Un décret adapte les dispositions du présent code relatives à la restitution des sommes correspondant aux crédits d'impôt et
+aux avoirs fiscaux qui n'ont pu être imputés (1).
+
+(1) Annexe III, art. 41 sexdecies C à 41 sexdecies F.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 41 SEXDECIES C
+	  - CGIAN3 41 SEXDECIES D
+	  - CGIAN3 41 SEXDECIES E
+	  - CGIAN3 41 SEXDECIES F
+	  - Loi n°79-594 1979-07-13
+
+	**Créé par**:
+
+	  - Loi n°79-594 1979-07-13 ART. 26 II, V JORF 14 JUILLET 1979
+	  - Loi n°79-594 du 13 juillet 1979 - art. 26 (V) JORF 14 JUILLET 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 200 A
+
+1. Lorsque les gains nets obtenus par les personnes physiques lors de la cession à titre onéreux de valeurs mobilières ou de
+droits sociaux réalisée dans les conditions prévues à l'article 92 A dépassent l'ensemble des autres revenus imposables du
+contribuable, ils sont soumis à l'impôt sur le revenu dans les conditions de droit commun.
+
+Lorsque les mêmes gains sont égaux ou inférieurs à l'ensemble des autres revenus imposables du contribuable, ils sont soumis
+à l'impôt sur le revenu au taux forfaitaire de 30 % ou, sur demande du contribuable, dans les conditions de droit commun.
+
+2. Les gains nets obtenus dans les conditions prévues aux articles 92 B et 92 F, premier alinéa, sont imposés au taux
+forfaitaire de 15 %.
+
+3. Dans le cas où le souscripteur d'un engagement d'épargne à long terme ne respecte pas l'une des conditions fixées par
+l'article 163 bis A, les gains réalisés sur les cessions effectuées dans le cadre de cet engagement sont soumis à l'impôt sur
+le revenu au taux forfaitaire de 30 % au titre de l'année pendant laquelle le souscripteur aura cessé de respecter l'une de
+ces conditions.
+
+4. Les gains mentionnés à l'article 92 F, deuxième alinéa, sont taxés au taux forfaitaire de 30 %, quelle que soit
+l'importance des cessions réalisées par le porteur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 bis A
+	  - CGI 92 A
+	  - CGI 92 B
+	  - CGI 92 F
+
+	**Modifié par**:
+
+	  - Loi n°79-594 1979-07-13 ART. 27 II JORF 14 JUILLET 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 17 (V)
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 10 (VD)
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 42 (V)
+	  - Code de la sécurité sociale. - art. L136-6 (VT)
+	  - Code de la sécurité sociale. - art. L137-14 (M)
+	  - Code général des impôts, CGI. - art. 150 ter (V)
+	  - Code général des impôts, CGI. - art. 150-0 D (V)
+	  - Code général des impôts, CGI. - art. 154 quinquies (V)
+	  - Code général des impôts, CGI. - art. 163 bis G (V)
+	  - Code général des impôts, CGI. - art. 163 quinquies C (V)
+	  - Code général des impôts, CGI. - art. 1649-0 A (P)
+	  - Code général des impôts, CGI. - art. 167 bis (V)
+	  - Code général des impôts, CGI. - art. 182 A ter (M)
+	  - Code général des impôts, CGI. - art. 80 quaterdecies (V)
+	  - Code monétaire et financier - art. D221-109 (V)
+	  - Code monétaire et financier - art. D221-113-1 (V)
 
 
 #### IMPOT SUR LES BENEFICES DES SOCIETES *IS* ET AUTRES PERSONNES MORALES
@@ -30241,42 +30471,6 @@ charge en démontrant son caractère exagéré.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 193
-
-Sous réserve des dispositions de l'article 196 B, le revenu imposable, arrondi à la centaine de F inférieure est, pour le
-calcul de l'impôt sur le revenu, divisé en un certain nombre de parts, fixé conformément à l'article 194, d'après la
-situation et les charges de famille du contribuable.
-
-Le revenu correspondant à une part entière est taxé par application du tarif prévu à l'article 197.
-
-L'impôt brut [*définition, calcul*] est égal au produit de la cotisation ainsi obtenue par le nombre de parts.
-
-L'impôt dû par le contribuable est calculé à partir de l'impôt brut sauf application, le cas échéant, de l'imputation prévue
-aux articles 182 B, 199 ter et 244 bis A et sous réserve de l'utilisation éventuelle de l'avoir fiscal visé à l'article 158
-bis.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 158 bis
-	  - CGI 182 B
-	  - CGI 194
-	  - CGI 196 B
-	  - CGI 197
-	  - CGI 199 ter
-	  - CGI 244 bis A
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 194 (VD)
-	  - Code général des impôts, CGI. - art. 199 (V)
-
-
 ###### Article 194
 
 Le nombre de parts à prendre en considération pour la division du revenu imposable prévue à l'article 193 est fixé comme
@@ -30664,54 +30858,6 @@ III  (Abrogé) (2).
 	**Nouveaux textes**:
 
 	  - Livre des procédures fiscales L169 A
-
-
-###### Article 200 A
-
-Lorsque les gains nets [*plus-values*] obtenus par les personnes physiques lors de la cession à titre onéreux de valeurs
-mobilières ou de droits sociaux réalisée dans les conditions prévues à l'article 92 A dépassent l'ensemble des autres revenus
-imposables du contribuable, ils sont soumis à l'impôt sur le revenu dans les conditions de droit commun.
-
-Lorsque les mêmes gains sont égaux ou inférieurs à l'ensemble des autres revenus imposables du contribuable, ils sont soumis
-à l'impôt sur le revenu au taux forfaitaire de 30 % ou, sur demande du contribuable, dans les conditions de droit commun.
-
-2  Les gains nets obtenus dans les conditions prévues à l'article 92 B sont imposés aux taux forfaitaire de 15 %.
-
-3  Dans le cas où le souscripteur d'un engagement d'épargne à long terme ne respecte pas l'une des conditions fixées par
-l'article 163 bis A, les gains réalisés sur les cessions effectuées dans le cadre de cet engagement sont soumis à l'impôt sur
-le revenu au taux forfaitaire de 30 % au titre de l'année pendant laquelle le souscripteur aura cessé de respecter l'une de
-ces conditions.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 163 bis A
-	  - CGI 92 A
-	  - CGI 92 B
-
-	**Cité par**:
-
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 17 (V)
-	  - Loi n°2012-1509 du 29 décembre 2012 - art. 10 (VD)
-	  - Loi n°2013-1279 du 29 décembre 2013 - art. 42 (V)
-	  - Code de la sécurité sociale. - art. L136-6 (VT)
-	  - Code de la sécurité sociale. - art. L137-14 (M)
-	  - Code général des impôts, CGI. - art. 150 ter (V)
-	  - Code général des impôts, CGI. - art. 150-0 D (V)
-	  - Code général des impôts, CGI. - art. 154 quinquies (V)
-	  - Code général des impôts, CGI. - art. 163 bis G (V)
-	  - Code général des impôts, CGI. - art. 163 quinquies C (V)
-	  - Code général des impôts, CGI. - art. 1649-0 A (P)
-	  - Code général des impôts, CGI. - art. 167 bis (V)
-	  - Code général des impôts, CGI. - art. 182 A ter (M)
-	  - Code général des impôts, CGI. - art. 80 quaterdecies (V)
-	  - Code monétaire et financier - art. D221-109 (V)
-	  - Code monétaire et financier - art. D221-113-1 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### DISPOSITIONS SPECIALES APPLICABLES EN CAS DE CESSION, DE CESSATION OU DE DECES.
@@ -41664,20 +41810,25 @@ août 1932, facilitant la construction de ces locaux.
 
 ###### Article 749
 
-Sont exonérés du droit d'enregistrement ou de la taxe de publicité foncière prévus à l'article 746, les rachats de parts de
-fonds communs de placement prévus à l'article 2 du décret n° 57-1342 du 28 décembre 1957, ainsi que la répartition des avoirs
-entre les propriétaires.
+Sont exonérés du droit d'enregistrement ou de la taxe de publicité foncière prévus à l'article 746 les rachats de parts de
+fonds communs de placement mentionnés à l'article 7 de la loi n° 79-594 du 13 juillet 1979 relative aux fonds communs de
+placement, ainsi que la répartition des actifs entre les porteurs.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 746
-	  - Décret n°57-1342 du 28 décembre 1957 - art. 2 (Ab)
+	  - Loi n°79-594 du 13 juillet 1979 - art. 7 (Ab)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°79-594 1979-07-13 ART. 25, ART. 41 JORF 14 JUILLET 1979
+	  - Loi n°79-594 du 13 juillet 1979 - art. 41 (Ab) JORF 14 JUILLET 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 ###### Article 750 ter
@@ -43384,18 +43535,23 @@ au montant de l'imposition fixe visée au I.
 
 ###### Article 832
 
-Les souscriptions à des parts nouvelles prévues à l'article 2 du décret n° 57-1342 du 28 décembre 1957 relatif aux fonds
-communs de placement sont exonérées de tout droit d'enregistrement.
+Les souscriptions de parts de fonds communs de placement mentionnées à l'article 7 de la loi n° 79-594 du 13 juillet 1979
+relative aux fonds communs de placement, sont dispensées de tout droit d'enregistrement.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°79-594 1979-07-13 ART. 25, ART. 41 JORF 14 JUILLET 1979
+	  - Loi n°79-594 du 13 juillet 1979 - art. 41 (Ab) JORF 14 JUILLET 1979
+
 	**Cite**:
 
-	  - Décret n°57-1342 du 28 décembre 1957 - art. 2 (Ab)
+	  - Loi n°79-594 du 13 juillet 1979 - art. 7 (Ab)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°81-866 1981-09-15
 
 
 ###### Article 833
