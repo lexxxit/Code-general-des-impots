@@ -28,13 +28,13 @@ II. Les taux de la taxe sont fixés comme suit (1) :
     <td> :                                      :      F     :    F     :</td>
   </tr>
   <tr>
-    <td> : Huile d'olive                        :    0,510   :   0,46   :</td>
+    <td> : Huile d'olive                        :    0,596   :   0,538  :</td>
   </tr>
   <tr>
-    <td> : Huile d'arachide et de maïs          :    0,460   :   0,42   :</td>
+    <td> : Huile d'arachide et de maïs         :    0,538   :   0,491  :</td>
   </tr>
   <tr>
-    <td> : Huile de colza                       :    0,235   :   0,215  :</td>
+    <td> : Huile de colza                       :    0,275   :   0,251  :</td>
   </tr>
   <tr>
     <td> : Autres huiles végétales fluides et   :            :          :</td>
@@ -43,13 +43,13 @@ II. Les taux de la taxe sont fixés comme suit (1) :
     <td> :  huiles d'animaux marins (autres     :            :          :</td>
   </tr>
   <tr>
-    <td> :  que la baleine)                     :    0,40    :   0,35   :</td>
+    <td> :  que la baleine)                     :    0,468   :   0,409  :</td>
   </tr>
   <tr>
-    <td> : Huile de coprah et de palmiste       :    0,305   :    -     :</td>
+    <td> : Huile de coprah et de palmiste       :    0,357   :    -     :</td>
   </tr>
   <tr>
-    <td> : Huile de palme et huile de baleine   :    0,28    :    -     :</td>
+    <td> : Huile de palme et huile de baleine   :    0,327   :    -     :</td>
   </tr>
 </tbody></table>
 
@@ -70,7 +70,7 @@ Seront toutefois fixées par décret (3) les mesures particulières et prescript
 pour que la taxe spéciale ne frappe que les huiles effectivement destinées à l'alimentation humaine, pour qu'elle ne soit
 perçue qu'une seule fois, et pour qu'elle ne soit pas supportée en cas d'exportation.
 
-(1) Taux applicables à compter du 1er janvier 1981.
+(1) Taux applicables à compter du 1er janvier 1982.
 
 (2) Annexe IV, art. 159 ter A.
 
@@ -91,8 +91,4 @@ perçue qu'une seule fois, et pour qu'elle ne soit pas supportée en cas d'expor
 
 	**Modifié par**:
 
-	  - Loi n°80-1094 du 30 décembre 1980 - art. 16 (P) JORF 31 DECEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 48 () JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
