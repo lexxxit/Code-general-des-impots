@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1982-03-03
+Version Consolidée au 1982-03-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6133,23 +6133,29 @@ temporaire est calculé dans les conditions fixées par l'article 237 bis A-I, t
 
 ###### Article 235 ter E
 
-Le taux de la participation prévue à l'article L 950-1 du code du travail est fixé à 1,1 % du montant, entendu au sens de
-l'article 231-1 à 1 ter, des salaires payés pendant l'année en cours.
+Le taux de la participation prévue à l'article L 950-1 du code du travail est fixé à 1,1 % du montant des salaires payés
+pendant l'année en cours, déterminé selon les modalités prévus aux articles 231 et suivants ; toutefois l'exonération
+mentionnée à l'article 231 bis K n'est pas applicable.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 231 1 A 1 ter
+	  - CGI 231 1 et S.
+	  - CGI 231 bis K
 	  - Code du travail - art. L950-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Ordonnance 82-283 1982-03-26 art. 2 JORF 30 MARS 1982
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. D214-61 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### 4° : Employeurs de cinquante salariés et plus
@@ -37505,8 +37511,8 @@ majoré de 8 %. Les cotisations inférieures à 100 F ne sont pas exigibles. (Lo
 
 ###### Article 225
 
-La taxe est assise sur les salaires, selon les bases et modalités prévues aux articles 231 et suivants [*base d'imposition,
-assiette*].
+La taxe est assise sur les salaires, selon les bases et modalités prévues aux articles 231 et suivants. Toutefois
+l'exonération prévue par l'article 231 bis K n'est pas applicable.
 
 Son taux est fixé à 0,50 %.
 
@@ -37517,6 +37523,7 @@ Pour le calcul de la taxe, toute fraction du montant des appointements imposable
 	**Cite**:
 
 	  - CGI 231 ET S.
+	  - CGI 231 bis K
 
 	**Cité par**:
 
@@ -37525,9 +37532,13 @@ Pour le calcul de la taxe, toute fraction du montant des appointements imposable
 	  - Code général des impôts, CGI. - art. 230 H (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (V)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Ordonnance 82-283 1982-03-26 art. 2 JORF 30 MARS 1982
 
 
 ###### Article 227
@@ -37965,6 +37976,25 @@ avant l'expiration de ce délai sans perte du bénéfice de l'exonération susvi
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 231 bis K
+
+La contribution de l'employeur à l'acquisition de chèques-vacances par les salariés, dans les conditions prévues par
+l'ordonnance n° 82-283 du 26 mars 1982 (1), est exonérée de taxe sur les salaires.
+
+(1) Modifiée par l'article 31-II-1 de la loi n° 83-1179 du 29 décembre 1983.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 82-283 1982-03-26
+	  - Loi n°83-1179 1983-12-29 art. 31 II 1
+
+	**Créé par**:
+
+	  - Ordonnance 82-283 1982-03-26 art. 2 JORF 30 mars 1982
+
+
 ##### COTISATION PERCUE AU TITRE DE LA PARTICIPATION DES EMPLOYEURS A L'EFFORT DE CONSTRUCTION.
 
 ###### Article 235 bis
@@ -37972,8 +38002,9 @@ avant l'expiration de ce délai sans perte du bénéfice de l'exonération susvi
 1. Les employeurs qui, au 31 décembre de l'année suivant celle du paiement des salaires, n'ont pas procédé, dans les
 conditions fixées par décret en Conseil d'Etat (1) aux investissements prévus à l'article L 313-1 du code de la construction
 et de l'habitation sont, dans la mesure où ils n'ont pas procédé à ces investissements, assujettis à une cotisation de 2 %
-[*taux, pourcentage*] calculée sur le montant, entendu au sens de l'article 231, des salaires payés par eux au cours de
-l'année écoulée, compte tenu des dispositions de l'article 231-6.
+[*taux, pourcentage*] calculée sur le montant des salaires payés par eux au cours de l'année écoulée, déterminée selon les
+modalités prévues aux articles 231 et suivants ; toutefois, l'exonération mentionnée à l'article 231 bis K n'est pas
+applicable.
 
 Les agents des impôts peuvent exiger de ces employeurs et, le cas échéant, des organismes bénéficiaires des investissements,
 la justification qu'il a été satisfait aux obligations qui leur sont imposées (2).
@@ -37988,23 +38019,27 @@ la justification qu'il a été satisfait aux obligations qui leur sont imposées
 
 	**Cite**:
 
-	  - CGI 231 6
-	  - CGI R81-1
+	  - CGI 231 et S.
+	  - CGI R81-1 CGI 231 bis K
 	  - CGIAN2 161
 	  - CGIAN2 162
 	  - CGIAN2 163
 	  - Code de la construction L313-1
 	  - Code de la construction R313-1 A R313-56
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Ordonnance 82-283 1982-03-26 art. 2 JORF 30 MARS 1982
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 261 (VD)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 161 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 162 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
 
 
 ##### PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE
@@ -48603,6 +48638,8 @@ titres nominatifs ;
 pour l'application de la loi n° 80-834 du 24 octobre 1980 créant une distribution d'actions en faveur des salariés des
 entreprises industrielles et commerciales.
 
+10° Les chèques-vacances institués par l'ordonnance n° 82-283 du 26 mars 1982 portant création des chèques-vacances.
+
 (1) Décret n° 67-1165 du 22 décembre 1967 et arrêté du même jour.
 
 **Liens relatifs à cet article**
@@ -48622,23 +48659,19 @@ entreprises industrielles et commerciales.
 	  - CGI 868
 	  - Décret n°1935-10-30 ART. 57
 	  - Décret n°55-1595 du 7 décembre 1955 - art. 22 (M)
-	  - Ordonnance 67-830 1967-09-27 TITRE III
 	  - Décret n°67-1165 1967-12-22
 	  - Loi n°80-834 1980-10-24
+	  - Ordonnance 82-283 1982-03-26
 	  - Code de commerce 162
 	  - Loi n°49-1093 1949-08-02 ART. 1, ART. 2
 
-	**Modifié par**:
-
-	  - Décret n°72-788 1972-08-28 ART. 2 JORF 30 AOUT 1972
-	  - Loi n°80-30 du 18 janvier 1980 - art. 18 (P) JORF 19 JANVIER 1980
-	  - Loi n°80-834 du 24 octobre 1980 - art. 4 (V) JORF 25 OCTOBRE 1980
-	  - Décret n°80-1076 du 23 décembre 1980 - art. 1 (V) JORF 28 DECEMBRE 1980
-	  - Décret n°80-1076 du 23 décembre 1980 - art. 4 (V) JORF 28 DECEMBRE 1980
-
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Ordonnance 82-283 1982-03-26 ART. 2 JORF 30 MARS 1982
 
 	**Cité par**:
 
