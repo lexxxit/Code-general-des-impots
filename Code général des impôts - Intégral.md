@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1976-07-20
+Version Consolidée au 1976-12-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -120,6 +120,57 @@ indirectes.
 ### Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre
 
 #### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière
+
+##### Section II : Les tarifs et leur application
+
+##### IV : Mutations de jouissance
+
+##### C : Baux de chasse ou de pêche.
+
+###### Article 745
+
+I  Les locations de droits de pêche ou de droits de chasse sont assujetties, quelle qu'en soit la durée, à un droit
+d'enregistrement de 18 % [*taux*].
+
+II  Toutefois, sont soumises au droit de 2,50 % prévu à l'article 736 :
+
+1° Les locations de pêche consenties aux associations agréées de pêche et de pisciculture, bénéficiaires de l'article 5 du
+décret n° 76-1086 du 29 novembre 1976 (1), et aux sociétés coopérative de pêcheurs professionnels;
+
+2° L'exploitation utilitaire de la pêche dans les étangs de toute nature;
+
+3° Les locations du droit de pêche ou du droit de chasse consenties aux locataires des immeubles sur lesquels s'exercent ces
+droits;
+
+4° Les locations de droits de chasse portant sur des terrains destinés à la constitution de réserves de chasse approuvées par
+arrêté du ministre de l'agriculture.
+
+III  Les baux de biens de l'Etat sont assujettis aux mêmes droits.
+
+IV  Les droits sont liquidés sur le prix exprimé, augmenté des charges imposées au preneur, ou sur la valeur locative réelle
+des biens loués si cette valeur est supérieure au prix augmenté des charges.
+
+Ils sont dus sur le prix cumulé de toutes les années, sauf fractionnement du paiement (2).
+
+1)  Voir décret n° 57-1190 du 25 octobre 1957. 2)  Voir art. 1717 et Annexe III, art. 395 à 395 quater.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1717
+	  - CGI 736
+	  - CGIAN3 395
+	  - CGIAN3 395 bis
+	  - CGIAN3 395 quater
+	  - CGIAN3 395 ter
+	  - Décret n°57-1190 1957-10-25
+	  - Décret n°76-1086 du 29 novembre 1976 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
 
 ##### Section III : Obligations diverses
 
