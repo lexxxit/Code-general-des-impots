@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1994-10-17
+Version Consolidée au 1994-12-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -21266,11 +21266,9 @@ considérées comme un élément du bénéfice immédiatement imposable dans les
 
 1. Dans le cas de cessation de l'exercice d'une profession non commerciale, l'impôt sur le revenu dû en raison des bénéfices
 provenant de l'exercice de cette profession  y compris ceux qui proviennent de créances acquises et non encore recouvrées et
-qui n'ont pas encore été imposés est immédiatement établi.
-
-Les contribuables doivent, dans un délai de soixante jours déterminé comme il est indiqué ci-après, aviser l'administration
-de la cessation et lui faire connaître la date à laquelle elle a été ou sera effective, ainsi que, s'il y a lieu, les nom,
-prénoms et adresse du successeur.
+qui n'ont pas encore été imposés est immédiatement établi. Les contribuables doivent, dans un délai de soixante jours
+déterminé comme il est indiqué ci-après, aviser l'administration de la cessation et lui faire connaître la date à laquelle
+elle a été ou sera effective, ainsi que, s'il y a lieu, les nom, prénoms et adresse du successeur.
 
 Ce délai de soixante jours commence à courir [*point de départ*] :
 
@@ -21291,20 +21289,33 @@ sont arrêtées d'office [*sanction du défaut de déclaration : taxation d'offi
 nécessaires pour l'établissement de l'impôt sont produits par les ayants droit du défunt dans les six mois de la date du
 décès [*délai*].
 
+((4. Lorsque le contribuable imposé dans les conditions du 1 devient, dans un délai de trois mois à compter de la date de
+cessation d'activité, associé d'une société d'exercice libéral mentionnée à l'article 2 de la loi n° 90-1258 du 31 décembre
+1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire
+ou dont le titre est protégé pour y exercer sa profession, le paiement de l'impôt correspondant aux créances acquises visées
+au premier alinéa du 1 peut, sur demande expresse et irrévocable de sa part, être fractionné par parts égales sur l'année de
+cessation et les deux années suivantes. Le fractionnement donne lieu au paiement de l'intérêt, au taux légal, recouvré dans
+les mêmes conditions et sous les mêmes garanties et sanctions que l'impôt en principal.
+
+((En cas de transfert du domicile hors de France, de décès, de retrait de l'associé de la société ou de non-paiement de l'une
+des fractions de l'impôt, le solde restant dû, augmenté de l'intérêt couru, est exigible immédiatement)) (1).
+
+(1) Ces dispositions s'appliquent à compter de l'imposition des revenus de 1995. [*Cf. Instruction 1995-03-16 5G-8-95.*]
+
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1995-03-16 5G-8-95
+	  - SPEC_APPLI: Loi n°94-1163 1994-12-29 art. 23 II
 
 	**Cite**:
 
-	  - CGI 101
-	  - CGI 97
+	  - Loi n°90-1258 1990-12-31 art. 2
 
 	**Modifié par**:
 
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 87 () JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°90-798 1990-09-10
+	  - Loi n°94-1163 du 29 décembre 1994 - art. 23 (V) JORF 30 décembre 1994
 
 	**Cité par**:
 
@@ -50156,102 +50167,6 @@ c Les importateurs de rhums et tafias naturels fournissant les justifications de
 	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
 	  - Décret n°93-264 1993-02-26 art. 4 1° et 26 JORF 28 février 1993 en vigueur le 31 décembre 1992
 	  - Modifications directes incorporées dans l'édition du 18 août 1993
-
-
-##### Section VI : Bières et boissons non alcoolisées.
-
-###### Article 520 A
-
-I. Il est perçu un droit spécifique :
-
-a)  Sur les bières, dont le taux, par hectolitre, est fixé à :
-
-- 6,25 F par degré alcoométrique pour les bières dont le titre alcoométrique n'excède pas 2,8 p. 100 vol. ;
-
-- 12,50 F par degré alcoométrique pour les autres bières.
-
-b) Sur les boissons non alcoolisées énumérées ci-aprés dont le tarif, par hectolitre, est fixé à :
-
-- 3,50 F pour les eaux minérales naturelles ou artificielles, eaux de table, eaux de laboratoire filtrées, stérilisées ou
-pasteurisées, ainsi que pour les boissons gazéifiées ou non, ne renfermant pas plus de 1,2 p. 100 vol. d'alcool,
-commercialisées en fûts, bouteilles ou boîtes, à l'exception des sirops et des jus de fruits et de légumes et des nectars de
-fruits.
-
-Les mélanges de bière et de boissons non alcoolisées dont le titre alcoométrique est supérieur à 0,5 p. 100 vol. sont soumis
-au droit spécifique sur les bières (1).
-
-II. Le droit est dû par les fabricants, exploitants de sources ou importateurs sur toutes les quantités commercialisées sur
-le marché intérieur, y compris la Corse et les départements d'outre-mer.
-
-Les industriels ou grossistes qui reçoivent des bières en vrac sont substitués aux fabricants ou importateurs pour le
-paiement de l'impôt sur les quantités qu'ils conditionnent en fûts, bouteilles ou autres récipients.
-
-Le droit est liquidé lors du dépôt, au service de l'administration dont dépend le redevable, du relevé des quantités
-commercialisées au cours du mois précédent. Ce relevé doit être déposé et l'impôt acquitté avant le 25 de chaque mois (2).
-
-((Pour les eaux et boissons visées au b du 1)), (2') le droit est également dû par les personnes qui réalisent des
-acquisitions intracommunautaires sur toutes les quantités commercialisées sur le marché intérieur, y compris la Corse et les
-départements d'outre-mer.
-
-III. Les modalités d'application des dispositions qui précèdent seront, en tant que de besoin, fixées par décret.
-
-(1) Ces dispositions entrent en vigueur à compter du 1er mai 1993, loi 92-1376 1992-12-30 art. 45 II.
-
-(2) Voir annexe III art. 350 decies.
-
-(2') Modification de la loi 93-1353.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°92-1376 1992-12-30
-	  - CGI 45 II
-	  - CGIAN3 350 decies
-
-	**Modifié par**:
-
-	  - Loi n°93-1353 du 30 décembre 1993 - art. 24 () JORF 31 décembre 1993
-
-	**Codifié par**:
-
-	  - Décret n°94-899 1994-10-17
-
-	**Cité par**:
-
-	  - Arrêté du 19 décembre 2008 (V)
-	  - Arrêté du 19 décembre 2008 - art. 1 (V)
-	  - Arrêté du 29 décembre 2008 (V)
-	  - Arrêté du 19 octobre 2009 - art. 1 (V)
-	  - Arrêté du 22 décembre 2011 - art. 1 (V)
-	  - Arrêté du 29 décembre 2013 - art. 1 (V)
-	  - Arrêté du 19 décembre 2014 - art. 1 (V)
-	  - Arrêté du 18 décembre 2015 (V)
-	  - Code de la sécurité sociale. - art. L131-8 (V)
-	  - Code général des impôts, CGI. - art. 1582 (VD)
-	  - Code général des impôts, CGI. - art. 1613 bis (M)
-	  - Code général des impôts, CGI. - art. 1613 bis A (Ab)
-	  - Code général des impôts, CGI. - art. 1613 quater (M)
-	  - Code général des impôts, CGI. - art. 1613 ter (V)
-	  - Code général des impôts, CGI. - art. 1698 A (V)
-	  - Code général des impôts, CGI. - art. 1698 C (VD)
-	  - Code général des impôts, CGI. - art. 1698 D (M)
-	  - Code général des impôts, CGI. - art. 302 B (VD)
-	  - Code général des impôts, CGI. - art. 302 D (V)
-	  - Code général des impôts, CGI. - art. 520 B (T)
-	  - Code général des impôts, CGI. - art. 520 C (T)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 267 nonies (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 178-0 bis A (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 178-0 bis B (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 178-0 bis C (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 decies (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 septies (V)
-	  - Code rural - art. L731-3 (V)
-	  - Code rural et de la pêche maritime - art. L731-2 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 2 septembre 1994
 
 
 #### Chapitre II : Garantie des matières d'or, d'argent et de platine
