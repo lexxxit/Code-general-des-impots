@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 2000-07-08
+Version Consolidée au 2000-07-14
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -20483,9 +20483,9 @@ l'impôt sur le revenu :
 
 1. L'impôt est calculé en appliquant à la fraction de chaque part de revenu qui excède 26 230 F le taux de :
 
-10,5 % pour la fraction supérieure à 26 230 F et inférieure ou égale à 51 600 F ;
+9,5 % pour la fraction supérieure à 26 230 F et inférieure ou égale à 51 600 F ;
 
-24 % pour la fraction supérieure à 51 600 F et inférieure ou égale à 90 820 F ;
+23 % pour la fraction supérieure à 51 600 F et inférieure ou égale à 90 820 F ;
 
 33 % pour la fraction supérieure à 90 820 F et inférieure ou égale à 147 050 F ;
 
@@ -20512,10 +20512,9 @@ l'article 195 ont droit à une réduction d'impôt égale à 5 410 F pour chacun
 cotisation d'impôt est plafonnée en application du premier alinéa. Cette réduction d'impôt ne peut toutefois excéder
 l'augmentation de la cotisation d'impôt résultant du plafonnement.
 
-3. Le montant de l'impôt résultant de l'application des dispositions précédentes est réduit de 30 p. 100, dans la limite de
-33 310 F, pour les contribuables domiciliés dans les départements de la Guadeloupe, de la Martinique et de la Réunion ; cette
-réduction est égale à 40 p. 100, dans la limite de 44 070 F, pour les contribuables domiciliés dans le département de la
-Guyane.
+3. Le montant de l'impôt résultant de l'application des dispositions précédentes est réduit de 30 %, dans la limite de 33 310
+F, pour les contribuables domiciliés dans les départements de la Guadeloupe, de la Martinique et de la Réunion ; cette
+réduction est égale à 40 %, dans la limite de 44 070 F, pour les contribuables domiciliés dans le département de la Guyane.
 
 4. Le montant de l'impôt résultant de l'application des dispositions précédentes est diminué, dans la limite de son montant,
 de la différence entre 3 350 F et son montant.
@@ -20526,9 +20525,16 @@ libératoires ; elles ne peuvent pas donner lieu à remboursement.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-656 2000-07-13 art. 1 II
+	  - TXT_ASSOCIE: Instruction 1999-01-25 5B-4-99
+	  - TXT_ASSOCIE: Instruction 2000-01-07 5B-5-00
+	  - TXT_ASSOCIE: Instruction 2000-08-25 5B-19-00
+
 	**Modifié par**:
 
-	  - Loi - art. 2 (P) JORF 31 décembre 1999
+	  - Loi n°2000-656 du 13 juillet 2000 - art. 1 (V) JORF 14 juillet 2000
 
 	**Cité par**:
 
@@ -20572,13 +20578,6 @@ libératoires ; elles ne peuvent pas donner lieu à remboursement.
 	**Cite**:
 
 	  - CGI 4 B, 6, 194, 195, 199 quater B à 200
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Instruction 1997-02-10 5B-8-97
-	  - TXT_ASSOCIE: Instruction 1998-01-21 5B-6-98
-	  - TXT_ASSOCIE: Instruction 1999-01-25 5B-4-99
-	  - TXT_ASSOCIE: Instruction 2000-01-07 5B-5-00
 
 
 ###### Article 197 A
@@ -61423,11 +61422,11 @@ collectivités publiques ou privées ;
 6° Les titres-restaurants émis conformément aux dispositions du titre III de l'ordonnance n° 67-830 du 27 septembre 1967 et
 des textes pris pour son application ;
 
-7° (Disposition devenue sans objet : décret n° 83-359 du 2 mai 1983, art. 21) ;
+7° (sans objet) ;
 
 8° (Abrogé) ;
 
-9° (Disposition périmée).
+9° (périmé).
 
 10° Les chèques-vacances institués par l'ordonnance n° 82-283 du 26 mars 1982 modifiée portant création des chèques-vacances.
 
@@ -61439,8 +61438,8 @@ code de la consommation ;
 
 13° Les contrats de prêt sur gage consentis par les caisses de crédit municipal ;
 
-14° Les minutes, originaux et expéditions des actes constatant la formation de sociétés en nom collectif, en commandite
-simple, à responsabilité limitée et par actions ainsi que des sociétés civiles à objet agricole ;
+14° Les minutes, originaux et expéditions ainsi que leurs annexes des actes constatant la formation de sociétés en nom
+collectif, en commandite simple, à responsabilité limitée et par actions ainsi que des sociétés civiles à objet agricole ;
 
 15° Les prêts de titres effectués dans les conditions du chapitre V de la loi n° 87-416 du 17 juin 1987 sur l'épargne et les
 remises en garantie de valeurs, titres, effets ou sommes d'argent prévues à l'article 52 de la loi n° 96-597 du 2 juillet
@@ -61452,35 +61451,28 @@ remises en garantie de valeurs, titres, effets ou sommes d'argent prévues à l'
 
 	**Cite**:
 
-	  - CGI 671, 1594 F quinquies, 1594-0 G, 635, 867, 868, 1002, 902, 138
+	  - CGI 671, 1594 F quinquies, 1594-0 G, 635, 867, 868, 1002
 	  - Décret n°83-872 du 30 septembre 1983 - art. 4 (Ab)
 	  - Code de commerce 162
 	  - Code général des collectivités territoriales - art. L1611-6 (M)
-	  - Décret-loi 1935-10-30 art. 65-3
+	  - Décret-loi 1935-10-30
 	  - Ordonnance 67-830 1967-09-27
 	  - Ordonnance 82-283 1982-03-26
 	  - Loi n°87-416 1987-06-17
 	  - Loi n°96-597 du 2 juillet 1996 - art. 52 (M)
-	  - Loi n°98-657 1998-07-29
-	  - Loi n°49-1093 1949-08-02 art. 1, art. 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-	  - TXT_ASSOCIE: Instruction 2000-01-31 7M-1-00
-	  - SPEC_APPLI: Loi n°98-1267 1998-12-30 art. 27 XV Finances rectificative pour 1998
-
-	**Modifié par**:
-
-	  - Loi n°99-584 du 12 juillet 1999 - art. 2 () JORF 13 juillet 1999
-
-	**Codifié par**:
-
-	  - Décret n°2000-477 2000-06-02
 
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. L131-4 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 2000-01-31 7M-1-00
+	  - SPEC_APPLI: Loi n°2000-656 2000-07-13 art. 10 III Finances rectificative pour 2000
+
+	**Modifié par**:
+
+	  - Loi n°2000-656 du 13 juillet 2000 - art. 10 (V) JORF 14 juillet 2000
 
 
 ###### Article 903
@@ -65878,6 +65870,33 @@ instance est condamné à tous les frais.
 
 ##### Section IX : Dispositions diverses
 
+###### Article 1137
+
+Les acquisitions de propriétés en nature de bois et forêts et de terrains nus non frappés d'interdiction de boisement,
+constatées par un acte authentique signé avant le 1er janvier 2003, sont exonérées de toute perception au profit du Trésor si
+l'acquéreur prend l'engagement dans l'acte d'acquisition de reboiser les terrains nus dans un délai de cinq ans et de
+présenter dans le même délai une des garanties de bonne gestion prévues aux septième à dixième alinéas de l'article L. 101 du
+code forestier.
+
+Lorsque, postérieurement à la signature de l'acte, une disposition législative ou réglementaire ou une décision
+administrative édicte une interdiction de boisement, l'acquéreur est délié de son engagement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2000-656 du 13 juillet 2000 - art. 7 (V) JORF 14 juillet 2000
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1754 (V)
+	  - Code général des impôts, CGI. - art. 1840 G ter (V)
+
+	**Cite**:
+
+	  - Code forestier - art. L101 (Ab)
+
+
 ##### 1° : Achats en vue de la revente
 
 ###### Article 1115
@@ -68586,48 +68605,28 @@ l'année suivant celle de l'imposition.
 
 ###### Article 1417
 
-I. Pour les impositions établies au titres de 1998, les dispositions de l'article 1414 bis sont applicables aux contribuables
-dont le montant des revenus de 1997 n'excède pas la somme de 25 000 F pour la première part de quotient familial majorée de
-10 000 F pour chaque demi-part supplémentaire, retenues pour le calcul de l'impôt sur le revenu au titre de 1997.
+I. - Pour les impositions établies au titre de 2000, les dispositions de l'article 1391, du 3 du II et du III de l'article
+1411, des 2° et 3° du I de l'article 1414 sont applicables aux contribuables dont le montant des revenus de 1999 n'excède pas
+la somme de 44 110 F, pour la première part de quotient familial, majorée de 11 790 F pour chaque demi-part supplémentaire,
+retenues pour le calcul de l'impôt sur le revenu au titre de 1999. Pour la Martinique, la Guadeloupe et la Réunion, les
+montants des revenus sont fixés à 52 200 F, pour la première part, majorée de 12 470 F pour la première demi-part et 11 790 F
+pour chaque demi-part supplémentaire à compter de la deuxième. Pour la Guyane, ces montants sont fixés respectivement à 54
+570 F, 15 020 F et 11 790 F.
 
-I bis. Pour les impositions établies au titre de 1997, les dispositions de l'article 1391, du 3 du II et du III de l'article
-1411, des 2° et 3° du I de l'article 1414 ainsi que de l'article 1414 A sont applicables aux contribuables dont le montant
-des revenus de 1996 n'excède pas la somme de 43 080 F, pour la première part de quotient familial, majorée de 11 530 F pour
-chaque demi-part supplémentaire, retenues pour le calcul de l'impôt sur le revenu au titre de 1996. Pour la Martinique, la
-Guadeloupe et la Réunion, les montants des revenus sont fixés à 50 990 F, pour la première part, majorée de 12 190 F pour la
-première demi-part et 11 530 F pour chaque demi-part supplémentaire à compter de la deuxième. Pour la Guyane, ces montants
-sont fixés respectivement à 53 290 F, 14 670 F et 11 530 F.
+II. - Pour les impositions établies au titre de 2000, les dispositions de l'article 1414 A sont applicables aux contribuables
+dont le montant des revenus de 1999 n'excède pas la somme de 103 710 F, pour la première part de quotient familial, majorée
+de 24 230 F pour la première demi-part et 19 070 F à compter de la deuxième demi-part supplémentaire, retenues pour le calcul
+de l'impôt sur le revenu au titre de 1999. Pour la Martinique, la Guadeloupe et la Réunion, les montants des revenus sont
+fixés à 125 350 F, pour la première part, majorée de 26 600 F pour la première demi-part, 25 350 F pour la deuxième demi-part
+et 19 070 F pour chaque demi-part supplémentaire à compter de la troisième. Pour la Guyane, ces montants sont fixés à 137 370
+F pour la première part, majorée de 26 600 F pour chacune des deux premières demi-parts, 22 660 F pour la troisième demi-part
+et 19 070 F pour chaque demi-part supplémentaire à compter de la quatrième.
 
-II. Pour les impositions établies au titre de 1997, les dispositions de l'article 1414 B sont applicables aux contribuables
-dont le montant des revenus de 1996 n'excède pas la somme de 48 950 F, pour la première part de quotient familial, majorée de
-11 530 F pour chaque demi-part supplémentaire, retenues pour le calcul de l'impôt sur le revenu au titre de 1996. Pour la
-Martinique, la Guadeloupe et la Réunion, les montants des revenus sont fixés à 55 020 F, pour la première part, majorée de 16
-550 F pour la première demi-part et 11 530 F pour chaque demi-part supplémentaire à compter de la deuxième. Pour la Guyane,
-ces montants sont fixés à 57 990 F, pour la première part, majorée de 18 630 F pour la première demi-part, 12 650 F pour la
-deuxième demi-part et 11 530 F pour chaque demi-part supplémentaire à compter de la troisième.
+III. - Les dispositions des I et II s'appliquent dans les mêmes conditions aux impositions établies au titre de 2001 et des
+années suivantes. Toutefois, chaque année, les montants de revenus sont indexés comme la limite supérieure de la première
+tranche du barème de l'impôt sur le revenu.
 
-III. Pour les impositions établies au titre de 1998, les dispositions de l'article 1414 C sont applicables aux contribuables
-dont le montant des revenus de 1997 n'excède pas la somme de 102 370 F, pour la première part de quotient familial, majorée
-de 23 920 F pour la première demi-part et 18 830 F à compter de la deuxième demi-part supplémentaire, retenues pour le calcul
-de l'impôt sur le revenu au titre de 1997. Pour la Martinique, la Guadeloupe et la Réunion, les montants des revenus sont
-fixés à 123 730 F, pour la première part, majorée de 26 260 F pour la première demi-part, 25 030 F pour la deuxième demi-part
-et 18 830 F pour chaque demi-part supplémentaire à compter de la troisième. Pour la Guyane, ces montants sont fixés à 135 600
-F pour la première part, majorée de 26 260 F pour chacune des deux premières demi-parts, 22 370 F pour la troisième demi-part
-et 18 830 F pour chaque demi-part supplémentaire à compter de la quatrième.
-
-IV. Les dispositions des I bis et II s'appliquent dans les mêmes conditions aux impositions établies au titre de 1998 et des
-années suivantes. Toutefois, chaque année, l'indexation des montants de revenus est identique à l'indexation de la limite
-supérieure de la première tranche du barème de l'impôt sur le revenu.
-
-Les dispositions du I s'appliquent dans les mêmes conditions aux impositions établies au titre de 1999 et des années
-suivantes. Toutefois, chaque année, l'indexation des montants de revenus est identique à l'indexation de la limite supérieure
-de la première tranche du barème de l'impôt sur le revenu.
-
-Les dispositions du premier alinéa du III s'appliquent dans les mêmes conditions aux impositions établies au titre de 1999 et
-des années suivantes. Toutefois, chaque année, l'indexation des montants de revenus est identique à l'indexation de la limite
-supérieure de la première tranche du barème de l'impôt sur le revenu.
-
-V. 1° Pour l'application du présent article, le montant des revenus s'entend du montant net après application éventuelle des
+IV. 1° Pour l'application du présent article, le montant des revenus s'entend du montant net après application éventuelle des
 règles de quotient définies à l'article 163-0 A des revenus et plus-values retenus pour l'établissement de l'impôt sur le
 revenu au titre de l'année précédente.
 
@@ -68643,21 +68642,16 @@ c) du montant des revenus soumis aux prélèvements libératoires opérés en ap
 et II de l'article 81 A, de ceux perçus par les fonctionnaires des organisations internationales, ainsi que de ceux exonérés
 par application d'une convention internationale relative aux doubles impositions.
 
-Ces dispositions s'appliquent pour la détermination du montant des revenus de l'année 1997 et des années suivantes.
-
-2° Les limites de revenus à retenir pour l'application des articles 1414 B et 1414 C sont déterminées en tenant compte de la
-somme du nombre de parts retenues pour l'établissement de l'impôt sur le revenu de chacune des personnes au nom desquelles la
-taxe d'habitation est établie.
+2°) Abrogé (à compter des impositions établies au titre de 2000.)
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Arrêté 1998-02-25 6D-1-98
 	  - TXT_ASSOCIE: Arrêté 2000-02-28 6D-1-00
-	  - HISTO: Edition du 31 mars 2000
-	  - TXT_ASSOCIE: Instruction 1998-06-05 6D-2-98
+	  - SPEC_APPLI: Loi n°2000-656 2000-07-13 art. 11 VI 2
 	  - TXT_ASSOCIE: Instruction 2000-01-12 5B-1-00
+	  - TXT_ASSOCIE: Instruction 2000-06-23 5B-17-00
 
 	**Cité par**:
 
@@ -68730,17 +68724,13 @@ taxe d'habitation est établie.
 	  - Code monétaire et financier - art. L221-15 (V)
 	  - Code monétaire et financier - art. L221-19 (V)
 
-	**Codifié par**:
-
-	  - Décret n°2000-477 2000-06-02
-
 	**Modifié par**:
 
-	  - Décret n°2000-477 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
+	  - Loi n°2000-656 2000-07-13 art. 11 IV JORF 14 juillet 2000
 
 	**Cite**:
 
-	  - CGI 1414 bis, 1391, 1411, 1414, 1414 A, 1414 B, 1414 C, 163-0 A, 163 septdecies, 163 octodecies A, 163 vicies, 163 unvicies, 163 duovicies, 163 tervicies, 44 sexies, 44 octies, 44 decies, 158, 125 A, 81 A
+	  - CGI 1391, 1411, 1414, 1414 A, 163-0 A, 163 septdecies, 163 octodecies A, 163 vicies, 163 unvicies, 163 duovicies, 163 tervicies, 44 sexies, 44 octies, 44 decies, 158, 125 A, 81 A
 
 
 ##### Section V : Cotisation foncière des entreprises
@@ -80473,10 +80463,9 @@ l'ensemble des collectivités de même nature.
 
 ###### Article 1636 B sexies
 
-I. 1. Sous réserve des dispositions des articles 1636 B septies et 1636 B decies, les conseils régionaux autres que celui de
-la région d'Ile-de-France, les conseils généraux, les conseils municipaux et les instances délibérantes des organismes de
-coopération intercommunale dotés d'une fiscalité propre votent chaque année les taux des taxes foncières, de la taxe
-d'habitation et de la taxe professionnelle. Ils peuvent :
+I. 1. Sous réserve des dispositions des articles 1636 B septies et 1636 B decies, les conseils généraux, les conseils
+municipaux et les instances délibérantes des organismes de coopération intercommunale dotés d'une fiscalité propre votent
+chaque année les taux des taxes foncières, de la taxe d'habitation et de la taxe professionnelle. Ils peuvent :
 
 a) Soit faire varier dans une même proportion les taux des quatre taxes appliqués l'année précédente ;
 
@@ -80495,10 +80484,10 @@ diminuer moins que le taux de la taxe d'habitation.
 
 2. Toutefois, le taux de la taxe d'habitation, le taux de la taxe foncière sur les propriétés bâties ou le taux de la taxe
 foncière sur les propriétés non bâties peut, à compter de 1989, être diminué jusqu'au niveau du taux moyen national de la
-taxe constaté l'année précédente pour, selon le cas, les communes et leurs ((établissements publics de coopération
-intercommunale)) (M), les départements, les régions ou, s'il est plus élevé, jusqu'au niveau du taux de la taxe
-professionnelle de la collectivité ou de ((l'établissement public de coopération intercommunale)) (M) concerné sans que ces
-diminutions soient prises en compte pour l'application, à la baisse, des dispositions du b du 1.
+taxe constaté l'année précédente pour, selon le cas, les communes et leurs établissements publics de coopération
+intercommunale, les départements, ou, s'il est plus élevé, jusqu'au niveau du taux de la taxe professionnelle de la
+collectivité ou de l'établissement public de coopération intercommunale concerné sans que ces diminutions soient prises en
+compte pour l'application, à la baisse, des dispositions du b du 1.
 
 Lorsque les dispositions du premier alinéa ne sont pas applicables, le taux de la taxe d'habitation peut cependant être
 diminué, à compter de 1997, jusqu'au niveau du taux moyen national constaté l'année précédente pour cette taxe dans
@@ -80506,9 +80495,9 @@ l'ensemble des collectivités de même nature, si le taux de taxe professionnell
 moyen national constaté la même année pour cette taxe dans l'ensemble des collectivités de même nature, sans que cette
 diminution soit prise en compte pour l'application, à la baisse, des dispositions du b du 1.
 
-Pour l'application des dispositions des premier et deuxième alinéas aux communes membres des ((établissements publics de
-coopération intercommunale)) (M) dotés ou non d'une fiscalité propre, les taux communaux de la taxe d'habitation, des taxes
-foncières et de la taxe professionnelle sont majorés des taux de ces ((établissements publics de coopération intercommunale))
+Pour l'application des dispositions des premier et deuxième alinéas aux communes membres des établissements publics de
+coopération intercommunale dotés ou non d'une fiscalité propre, les taux communaux de la taxe d'habitation, des taxes
+foncières et de la taxe professionnelle sont majorés des taux de ces établissements publics de coopération intercommunale
 pour l'année précédant celle de l'imposition.
 
 Lorsque au titre d'une année il est fait application des dispositions du premier ou du deuxième alinéa la variation en hausse
@@ -80531,15 +80520,17 @@ seule commune membre, le conseil municipal de cette dernière peut, pour l'appli
 des taxes foncières, de la taxe d'habitation et de la taxe professionnelle perçues au profit de la commune et les taux
 respectifs des mêmes taxes, votés l'année précédente par la communauté urbaine.
 
-Dans les communes, membres d'un ((établissement public de coopération intercommunale)) (M), qui, l'année de l'adhésion à
-((l'établissement public de coopération intercommunale)) et l'année suivante, ont rempli les conditions pour bénéficier des
+Dans les communes, membres d'un établissement public de coopération intercommunale, qui, l'année de l'adhésion à
+l'établissement public de coopération intercommunale et l'année suivante, ont rempli les conditions pour bénéficier des
 dispositions du premier ou du deuxième alinéa, le conseil municipal peut, à compter de la deuxième année suivant celle de
 l'adhésion, majorer le taux de taxe professionnelle selon les modalités prévues ci-dessus lorsque, à compter de cette même
 année, le taux de la taxe professionnelle déterminé en application du 1 est inférieur à la moyenne constatée pour cette taxe
 l'année précédente dans l'ensemble des communes et que le taux moyen pondéré des trois autres taxes perçues au profit de la
 collectivité concernée est au plus inférieur de 20 p. 100 au taux moyen pondéré constaté l'année précédente pour ces trois
-taxes dans l'ensemble des communes. Ces règles sont applicables pour les communes qui ont adhéré à un ((établissement public
-de coopération intercommunale)) (M) à compter de 1995.
+taxes dans l'ensemble des communes. Ces règles sont applicables pour les communes qui ont adhéré à un établissement public de
+coopération intercommunale à compter de 1995.
+
+4. et 5. (périmés).
 
 I bis. Dans les communes où le taux ou les bases de la taxe professionnelle étaient nuls l'année précédente, le conseil
 municipal peut fixer le taux de cette taxe. Toutefois, le rapport entre le taux ainsi voté et le taux moyen constaté pour la
@@ -80548,14 +80539,12 @@ moyen de la taxe d'habitation et des taxes foncières, pondéré par l'importanc
 commune pour l'année d'imposition, et, d'autre part, le taux moyen pondéré de ces trois taxes constaté l'année précédente
 dans l'ensemble des communes.
 
-I ter. (Dispositions périmées).
+I ter. (périmé).
 
-II. En cas de création d'un ((établissement public de coopération intercommunale)) (M) doté d'une fiscalité propre, les
-rapports entre les taux des quatre taxes établies par ((l'établissement public de coopération intercommunale)) doivent être
-égaux, la première année, aux rapports constatés l'année précédente entre les taux moyens pondérés de chaque taxe dans
-l'ensemble des communes membres.
-
-(M) Modification.
+II. En cas de création d'un établissement public de coopération intercommunale doté d'une fiscalité propre, les rapports
+entre les taux des quatre taxes établies par l'établissement public de coopération intercommunale doivent être égaux, la
+première année, aux rapports constatés l'année précédente entre les taux moyens pondérés de chaque taxe dans l'ensemble des
+communes membres.
 
 **Liens relatifs à cet article**
 
@@ -80583,12 +80572,11 @@ l'ensemble des communes membres.
 
 	**Modifié par**:
 
-	  - Loi n°99-586 du 12 juillet 1999 - art. 89 () JORF 13 juillet 1999
+	  - Loi n°2000-656 2000-07-13 art. 11 II 1 Finances rectificative pour 2000 JORF 14 juillet 2000
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Instruction 1997-02-06 Numéro spécial BOI n°39
-	  - TXT_ASSOCIE: Instruction 1997-06-04 6IDL Numéro spécial
+	  - SPEC_APPLI: Loi n°2000-656 2000-07-13 art. 11 VI 1 Finances rectificative pour 2000
 
 
 ##### Section II : Dispositions particulières
@@ -80913,12 +80901,13 @@ adoption.
 1999 relative au renforcement et à la simplification de la coopération intercommunale ayant institué la taxe d'enlèvement des
 ordures ménagères, prises par les communes ou leurs établissements publics de coopération intercommunale conformément aux
 articles 1520, 1609 bis, 1609 quater, 1609 quinquies, 1609 quinquies C et 1609 nonies D dans leur rédaction en vigueur avant
-l'adoption de cette loi, restent applicables pour l'établissement des impositions afférentes à 2000 et 2001, sous réserve des
-délibérations prises avant le 15 octobre 2000 pour percevoir la taxe dans les conditions prévues par cette même loi.
+l'adoption de cette loi, restent applicables pour l'établissement des impositions afférentes à 2000, 2001 et 2002, sous
+réserve des délibérations prises avant le 15 octobre 2001 pour percevoir la taxe dans les conditions prévues par cette même
+loi.
 
-Au 15 octobre 2001, les communes ou les établissements public s de coopération intercommunale devront s'être mis en
-conformité avec la loi pour pouvoir continuer à percevoir la taxe d'enlèvement des ordures ménagères au 1er janvier 2002. A
-défaut, ces collectivités perdront le bénéfice de la perception de cette taxe.
+Au 15 octobre 2002, les communes ou les établissements publics de coopération intercommunale devront s'être mis en conformité
+avec la loi pour pouvoir continuer à percevoir la taxe d'enlèvement des ordures ménagères au 1er janvier 2003. A défaut, ces
+collectivités perdront le bénéfice de la perception de cette taxe.
 
 **Liens relatifs à cet article**
 
@@ -81021,16 +81010,11 @@ défaut, ces collectivités perdront le bénéfice de la perception de cette tax
 
 	**Modifié par**:
 
-	  - Loi n°99-586 du 12 juillet 1999 - art. 81 () JORF 13 juillet 1999
+	  - Loi n°2000-656 du 13 juillet 2000 - art. 33 () JORF 14 juillet 2000
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°99-1126 1999-12-28 art. 16 I C
-	  - HISTO: Edition du 31 mars 2000
-
-	**Codifié par**:
-
-	  - Décret n°2000-477 2000-06-02
+	  - TXT_ASSOCIE: Instruction 2000-05-16 6F-2-00
 
 
 ###### Article 1639 A quater
