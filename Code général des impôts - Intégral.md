@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1988-01-01
+Version Consolidée au 1988-01-05
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6845,6 +6845,36 @@ concessionnaires de cet aménagement.
 
 ##### VII bis : Profits réalisés en France sur les marchés à terme, sur les marchés d'options négociables et sur les opérations de bons d'option
 
+###### Article 150 octies
+
+Les dispositions des articles 150 ter à 150 quinquies s'appliquent aux opérations à terme sur marchandises réalisées sur le
+marché à terme mentionné à l'article 5 de la loi du 28 mars 1885.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 ter à 150 quinquies
+	  - Loi n°1885-03-28 art. 5
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - SPEC_APPLI: Loi n°91-1323 1991-12-30 art. 43
+
+	**Créé par**:
+
+	  - Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies I (V)
+
+
 ###### Article 150 quater
 
 Pour chaque opération, le profit ou la perte est égal à la différence reçue ou versée par l'entremise de la chambre de
@@ -7240,6 +7270,32 @@ commencée compte pour une année pleine.
 	**Abrogé par**:
 
 	  - Loi - art. 10 (V) JORF 31 décembre 2003
+
+
+###### Article 150 N
+
+Sous réserve des dispositions de l'article 150 octies, sont assimilées aux transactions désignées aux articles 150 J à 150 M
+les opérations de toute nature portant sur des droits immobiliers ou des marchandises et qui ne se matérialisent pas par la
+livraison effective ou la levée des biens ou des droits. Les conditions d'application du présent article sont précisées par
+décret en Conseil d'Etat (1).
+
+(1) Annexe II, art. 74 N
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 octies, 150 J à 150 M
+	  - CGIAN2 74 N
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+	  - TXT_ASSOCIE: Instruction 2001-12-14 8M-3-01
+
+	**Modifié par**:
+
+	  - Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988) A(Loi 2003-1311 2003-12-30 art. 10 II Z Finances pour 2004 JORF 31 décembre 2003
 
 
 ###### Article 150 N bis
