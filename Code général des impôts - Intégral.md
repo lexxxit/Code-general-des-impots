@@ -1,11 +1,51 @@
 # Code général des impôts  
-Version Consolidée au 1959-01-09
+Version Consolidée au 1965-07-14
 
 # Livre premier : Assiette et liquidation de l'impôt
 
 ## Première Partie : Impôts d'État
 
 ### Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre
+
+#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière
+
+##### Section III : Obligations diverses
+
+##### I : Obligations des redevables et des officiers publics et ministériels
+
+##### A : Obligations des redevables
+
+##### Affirmation de sincérité.
+
+###### Article 850
+
+Dans tout acte ou déclaration ayant pour objet, soit une vente d'immeubles, soit une cession de fonds de commerce ou du droit
+à un bail ou du bénéfice d'une promesse de bail portant sur tout ou partie d'un immeuble, soit un échange ou un partage
+comprenant des immeubles ou un fonds de commerce, les vendeurs, acquéreurs, échangistes, copartageants, leurs tuteurs ou
+administrateurs légaux sont tenus de terminer l'acte ou la déclaration par une mention ainsi conçue :
+
+"Les parties affirment, sous les peines édictées par l'article 8 de la loi du 18 avril 1918 (art. 1837 du code général des
+impôts) que le présent acte (ou la présente déclaration) exprime l'intégralité du prix ou de la soulte convenue".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1837
+	  - Loi n°1918-04-18 ART. 8
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 863 (V)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°570 DU 13 JUILLET 1965 CODIFIEE SOUS L'ARTICLE 216 DU CODE CIVIL
+
 
 #### Chapitre IV : Régimes spéciaux et exonérations de portée générale
 
