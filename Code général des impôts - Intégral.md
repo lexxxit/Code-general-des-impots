@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1984-01-25
+Version Consolidée au 1984-02-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8533,6 +8533,34 @@ recette des impôts compétente pour recevoir cette déclaration (1).
 
 ##### Section II : Taxe sur les salaires
 
+###### Article 231 bis G
+
+En application de l'article L 961-9 du code du travail les contributions versées par les employeurs et destinées à alimenter
+les fonds d'assurance-formation prévus audit article sont exonérées de la taxe sur les salaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+	  - Décret n°2002-923 2002-06-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+	  - HISTO: Edition du 31 mars 2002
+	  - PEREMPTION: Loi - art. 10 (V) JORF 31 décembre 2000
+	  - PEREMPTION: Loi n°2000-1352 2000-12-30 art. 10 IV 5°, V Finances pour 2001 JORF 31 décembre 2000
+
+	**Modifié par**:
+
+	  - Loi n°84-130 1984-02-24 art. 11 III JORF 25 février 1984
+
+	**Cite**:
+
+	  - Code du travail - art. L961-9 (M)
+
+
 ###### Article 231 bis I
 
 Dans les conditions fixées par décret, la partie du salaire versée aux apprentis qui donne lieu à l'exonération de taxe
@@ -8802,6 +8830,9 @@ Le taux de la participation prévue à l'article L 950-1 du code du travail est 
 pendant l'année en cours, déterminé selon les modalités prévus aux articles 231 et suivants ; toutefois les exonérations
 mentionnées aux articles 231 bis K et 231 bis L ne sont pas applicables.
 
+Le taux prévu au premier alinéa peut être revalorisé par la loi de finances après consultation du conseil national de la
+formation professionnelle, de la promotion sociale et de l'emploi prévu à l'article L. 910-1 du code précité.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -8809,19 +8840,20 @@ mentionnées aux articles 231 bis K et 231 bis L ne sont pas applicables.
 	  - CGI 231 bis K
 	  - CGI 231 bis L
 	  - CGI 231 et S.
+	  - Code du travail - art. L910-1 (M)
 	  - Code du travail - art. L950-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. D214-61 (V)
 
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
 	**Modifié par**:
 
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 9 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+	  - Loi n°84-130 1984-12-24 art. 26 JORF 25 février 1984
 
 
 ###### Article 235 ter EA
@@ -8933,13 +8965,92 @@ versement de 0,2 % du montant des salaires versés au cours de l'année précéd
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 235 ter H bis
+
+Pour financer les congés individuels de formation, une fraction de la participation des employeurs au développement de la
+formation professionnelle continue, égale au moins à 0,10 % des salaires de l'année de référence, est obligatoirement versée
+à des organismes paritaires agréés par l'Etat. Tout employeur ne peut verser sa contribution qu'à un seul organisme paritaire
+agréé. Toutefois, un décret fixe les conditions dans lesquelles il peut être dérogé à cette disposition, notamment en ce qui
+concerne les entreprises à établissements multiples.
+
+Ce pourcentage peut être revalorisé par la loi de finances, après consultation du conseil national de la formation
+professionnelle, de la promotion sociale et de l'emploi prévu à l'article L. 910-1 du code du travail.
+
+Lorsqu'un employeur n'a pas effectué le versement prévu au premier alinéa avant le 1er mars de l'année suivant celle au titre
+de laquelle est due cette participation, ou a effectué un versement insuffisant, le montant de sa participation au
+développement de la formation professionnelle continue est majoré de l'insuffisance constatée. Le versement au Trésor à
+raison de cette insuffisance doit être opéré en même temps que le dépôt de la déclaration prévue à l'article 235 ter J.
+
+Les excédents reportables des années antérieures ainsi que ceux dégagés l'année au cours de laquelle l'insuffisance est
+constatée ne peuvent s'imputer sur la majoration mentionnée au troisième alinéa.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 ter J
+	  - Code du travail - art. L910-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°84-130 1984-02-24 art. 29 JORF 25 février 1984
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+
+###### Article 235 ter H quater
+
+Les dépenses effectivement supportées par l'employeur au titre du congé individuel de formation, en sus du versement
+obligatoire prévu à l'article 235 ter H bis, sont imputables sur le montant de la participation établie par l'article 235 ter
+E.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 ter E
+	  - CGI 235 ter H bis
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Loi n°84-130 1984-02-24 art. 29 JORF 25 février 1984
+
+
+###### Article 235 ter H ter
+
+Les emplois de fonds par les organismes paritaires agréés prévus à l'article 235 ter H bis qui ne répondent pas aux règles
+posées par l'article L. 950-2-2 du code du travail et par les textes pris pour son application, donnent lieu à un reversement
+de même montant par l'organisme au Trésor public.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 ter H bis
+	  - Code du travail - art. L950-2-2 (T)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Loi n°84-130 1984-02-24 art. 29 JORF 25 février 1984
+
+
 ###### Article 235 ter HA
 
-Les fonds non employés à l'issue des actions de formation au bénéfice de demandeurs d'emploi sans contrat de travail, prévues
-par l'article L 950-2-4° du code du travail et organisées dans des centres de formation conventionnés, sont versés au Trésor
-public par ces centres (1).
+Les fonds non employés à l'issue des actions de formation au bénéfice de travailleurs privés d'emploi, prévues par l'article
+L. 950-2-3° du code du travail et organisées dans des centres de formation conventionnés, sont versés au Trésor public par
+ces centres (1).
 
-1)  Voir Annexe III, art. 381 U à 381 X.
+(1) Voir Annexe III, art. 381 U à 381 X.
 
 **Liens relatifs à cet article**
 
@@ -8949,22 +9060,53 @@ public par ces centres (1).
 	  - CGIAN3 381 V
 	  - CGIAN3 381 W
 	  - CGIAN3 381 X
-	  - Code du travail L950-2 4°
+	  - Code du travail L950-2 3°
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
-
-	**Anciens textes**:
-
-	  - Loi n°76-656 1976-07-16 ART. 2 AL. 2
+	  - Loi n°84-130 1984-02-24 art. 26 JORF 25 février 1984
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 U (P)
 
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
 
 ##### 4° : Fonds d'assurance-formation.
+
+###### Article 235 ter HC
+
+Lorsque des dépenses faites par le dispensateur de formation pour l'exécution d'une convention du titre II du livre IX du
+code du travail ne sont pas admises parce qu'elles ne peuvent, par leur nature, être rattachées à l'exécution d'une
+convention de formation ou que le prix des prestations est excessif, le dispensateur est tenu, solidairement avec ses
+dirigeants de fait ou de droit, de verser au Trésor public, en application de l'article L. 920-10 du code précité, une somme
+égale au montant de ces dépenses.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°84-130 1984-02-24 art. 41 JORF 25 février 1984
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 381 X (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L920-10 (M)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
 
 ###### Article 235 ter K
 
@@ -8988,6 +9130,56 @@ Les adaptations nécessaires à l'application des articles 235 ter C à 235 ter 
 
 	  - CGI 235 ter F, 235 ter J, 235 ter C à 235 ter J
 	  - CGIAN2 163 nonies à 163 sexdecies
+
+
+##### Fonds d'assurance-formation.
+
+###### Article 235 ter HB
+
+En application de l'article L 961-8 du code du travail, un décret en Conseil d'Etat fixe les modalités de reversement au
+Trésor public par les fonds d'assurance formation des fonds non utilisés et les dépenses afférentes aux actions de formation
+non admises par les agents commissionnés désignés à l'article L 950-8 du même code (1).
+
+(1) Annexe II, art. 383 bis B et 383 bis C.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 383 bis B
+	  - CGIAN2 383 bis C
+	  - Code du travail - art. L950-8 (M)
+	  - Code du travail - art. L961-8 (M)
+
+	**Modifié par**:
+
+	  - Loi n°84-130 1984-02-24 art. 11 III JORF 25 février 1984
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+
+###### Article 235 ter JA
+
+Le contrôle et le contentieux de la participation des employeurs, autres que ceux prévus aux articles L. 950-8 et L. 950-9 du
+code du travail pour les litiges relatifs à la réalité et à la validité des dépenses de formation, sont effectués selon les
+règles applicables en matière de taxe sur le chiffre d'affaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°84-130 1984-02-24 art. 45 JORF 25 février 1984
+
+	**Cite**:
+
+	  - Code du travail - art. L950-8 (M)
+	  - Code du travail - art. L950-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
 
 
 ##### Section XI : Prélèvement spécial sur les bénéfices résultant de la vente, la location ou l'exploitation d'oeuvres pornographiques ou d'incitation à la violence
@@ -9086,6 +9278,28 @@ le revenu ou à l'impôt sur les sociétés.
 	**Cite**:
 
 	  - Code des débits de boissons L17, L18, L20
+
+
+###### Article 237 quinquies
+
+Les contributions mises à la charge des employeurs et des membres des professions non salariées, destinées à alimenter les
+fonds d'assurance-formation prévus aux articles L. 961-9 et L. 961-10 du code du travail, sont déductibles pour
+l'établissement de l'impôt sur le revenu et de l'impôt sur les sociétés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°78-754 1978-07-17 art. 11 JORF 18 juillet 1978
+	  - Loi n°84-130 1984-02-28 art. 11 III JORF 25 février 1984
 
 
 ###### Article 238
@@ -34128,6 +34342,53 @@ redevable est personnellement imposé par voie de rôle d'une somme égale à ce
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 53 bis (V)
 
 
+##### 7 bis : Participation des employeurs au développement de la formation professionnelle continue
+
+###### Article 1679 bis B
+
+1. Les versements au Trésor prévus aux articles 235 ter G, 235 ter GA et 235 ter ter H bis sont établis et recouvrés selon
+les modalités et sous les sûretés, garanties et sanctions applicables aux taxes sur le chiffre d'affaires (1) (2).
+
+2. Les versements prévus aux articles 235 ter HC et 235 ter HD sont recouvrés selon les modalités et sous les sûretés,
+garanties et sanctions applicables aux taxes sur le chiffre d'affaires.
+
+3. Les versements exigibles en application de l'article L. 950-9 du code du travail et les pénalités correspondantes sont
+recouvrés immédiatement dans les conditions prévues au 1.
+
+(1) Voir Annexe II, art. 383 bis A et Annexe III, art. 381 V à 381 W.
+
+(2) En ce qui concerne les règles de prescription, voir livre des procédures fiscales art. L 172 A.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°84-130 1984-02-24 art. 29, art. 44 JORF 25 février 1984
+
+	**Cité par**:
+
+	  - Arrêté du 19 février 2010 - art. 2 (V)
+	  - Arrêté du 5 octobre 2015 (V)
+	  - Arrêté du 5 octobre 2015 - art. 5 (V)
+
+	**Cite**:
+
+	  - CGI 235 ter G
+	  - CGI 235 ter GA
+	  - CGI 235 ter H bis
+	  - CGI 235 ter HC
+	  - CGI 235 ter HD
+	  - CGI L172 A
+	  - CGIAN2 383 bis A
+	  - CGIAN3 381 V
+	  - CGIAN3 381 W
+	  - Code du travail - art. L950-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+
 ##### 8 : Prélèvement à la charge des sociétés
 
 ###### Article 1679 ter
@@ -35851,8 +36112,8 @@ l'importance de la fraude peut être évaluée
 
 En ce qui concerne les taxes sur le chiffre d'affaires et taxes assimilées, les droits d'enregistrement, de timbre, la taxe
 de publicité foncière et les taxes assimilées à ces droits et taxe, la taxe sur les salaires, la taxe d'apprentissage, la
-participation des employeurs au financement de la formation professionnelle continue, ainsi que les retenues opérées au titre
-de l'impôt sur le revenu, les insuffisances, les inexactitudes ou omissions mentionnées à l'article 1728 donnent lieu,
+participation des employeurs au développement de la formation professionnelle continue, ainsi que les retenues opérées au
+titre de l'impôt sur le revenu, les insuffisances, les inexactitudes ou omissions mentionnées à l'article 1728 donnent lieu,
 lorsque la mauvaise foi du redevable est établie, à l'application d'une amende fiscale égale au double des majorations
 prévues à l'article 1729 et déterminée, dans les mêmes conditions que ces majorations, en fonction du montant des droits
 éludés.
@@ -35867,6 +36128,14 @@ vérifiée de l'exercice en cours.
 
 	  - CGI 1728
 	  - CGI 1729
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°84-130 1984-02-24 art. 24 JORF 25 février 1984
 
 	**Cité par**:
 
@@ -35897,10 +36166,6 @@ vérifiée de l'exercice en cours.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 53 bis (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 undecies (V)
 	  - Code monétaire et financier - art. L612-20 (VD)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 #### B : Sanctions pénales.
@@ -39326,44 +39591,6 @@ du 1er janvier 1983 n'est exigible, au titre d'une année, que pour la partie de
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 369 (VD)
 
 
-###### Article 1679 bis B
-
-Les versements au Trésor prévus aux articles 235 ter G et 235 ter GA ainsi que ceux prévus aux articles 1783 quater et 1783
-quinquies sont établis et recouvrés selon les modalités et sous les sûretés, garanties et sanctions applicables aux taxes sur
-le chiffre d'affaires (1) (2).
-
-(1) Voir Annexe II, art. 383 bis A et Annexe III, art. 381 V à 381 W.
-
-(2) En ce qui concerne les règles de prescription, voir livre des procédures fiscales art. L 172 A.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 19 février 2010 - art. 2 (V)
-	  - Arrêté du 5 octobre 2015 (V)
-	  - Arrêté du 5 octobre 2015 - art. 5 (V)
-
-	**Cite**:
-
-	  - CGI 1783 quater
-	  - CGI 1783 quinquies
-	  - CGI 235 ter G
-	  - CGI 235 ter GA
-	  - CGI L172 A
-	  - CGIAN2 383 bis A
-	  - CGIAN3 381 V
-	  - CGIAN3 381 W
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-	**Modifié par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 27 (V) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
-
-
 ###### Article 1679 quater A
 
 La taxe sur les encours de crédits prévue à l'article 235 ter N doit être versée le 31 juillet au plus tard [*date limite de
@@ -40295,7 +40522,7 @@ mentionnée à l'article 1729-1, soit de l'amende, égale au double de cette maj
 acquitté.
 
 2. Toutefois, en ce qui concerne les impôts sur les revenus et les taxes accessoires, autres que l'impôt sur les sociétés, la
-taxe d'apprentissage, la participation des employeurs au financement de la formation professionnelle continue, les retenues
+taxe d'apprentissage, la participation des employeurs au développement de la formation professionnelle continue, les retenues
 opérées au titre de l'impôt sur le revenu et de la taxe sur les salaires, le point de départ du calcul des intérêts de retard
 prévus à l'article 1728 et à l'article L 62 du livre des procédures fiscales est le 1er juillet de l'année suivant celle au
 titre de laquelle l'imposition est établie.
@@ -40325,19 +40552,19 @@ l'inexactitude ou l'omission relevée.
 	  - CGI 204
 	  - CGI L62
 
+	**Abrogé par**:
+
+	  - Loi n°87-502 1987-07-08 art. 2 VI JORF 9 juillet 1987
+
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°84-875 1984-10-01
 
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. L2222-22 (V)
 	  - Code général des impôts, CGI. - art. 1789 (V)
 	  - Livre des procédures fiscales - art. L45 (V)
-
-	**Liens**:
-
-	  - HISTO: date d'entrée en vigueur 1 JANVIER 1982)
 
 
 ###### Article 1735 bis
