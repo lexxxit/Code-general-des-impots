@@ -31,7 +31,7 @@ Le chiffre d'affaires à prendre en considération s'entend du chiffre d'affaire
 exercice clos.
 
 Cette imposition n'est pas applicable aux organismes sans but lucratif visés au 5 de l'article 206 ainsi qu'aux personnes
-morales exonérées de l'impôt sur les sociétés en vertu des articles 207 et 208.
+morales exonérées de l'impôt sur les sociétés en vertu des articles 207, 208 et 208 D.
 
 Les sociétés dont le capital est constitué pour la moitié au moins par des apports en numéraire sont, pour leurs trois
 premières années d'activité, exonérées de cette imposition.
@@ -43,12 +43,11 @@ jugement déclaratif de liquidation.
 
 	**Cite**:
 
-	  - CGI 206 5, 207, 208
+	  - CGI 206 5, 207, 208, 208 D
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 7 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi - art. 91 (V) JORF 31 décembre 2003
 
 	**Cité par**:
 
@@ -63,10 +62,5 @@ jugement déclaratif de liquidation.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 1999-01-18 4L-1-99
-	  - TXT_ASSOCIE: Instruction 1999-02-16 4H-1-99
-	  - TXT_ASSOCIE: Instruction 2000-02-21 4L-2-00
-	  - TXT_ASSOCIE: Instruction 2000-08-03 4I-2-00
+	  - HISTO: Edition du 1er janvier 2004
 	  - TXT_ASSOCIE: Instruction 2002-01-17 4L-1-02
-	  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)

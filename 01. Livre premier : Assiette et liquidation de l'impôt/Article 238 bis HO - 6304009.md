@@ -1,28 +1,16 @@
 # Article 238 bis HO
 
 Pour l'établissement de l'impôt sur le revenu ou de l'impôt sur les sociétés, les souscriptions en numéraire, effectuées
-entre le 1er janvier 1998 et le 31 décembre 2003, au capital de sociétés soumises à l'impôt sur les sociétés dans les
+entre le 1er janvier 1998 et le 31 décembre 2010, au capital de sociétés soumises à l'impôt sur les sociétés dans les
 conditions de droit commun qui ont pour activité le financement de la pêche artisanale et qui sont agréées par le ministre
 chargé du budget après avis du ministre chargé de la pêche sont admises en déduction dans les conditions définies aux
-articles 163 duovicies et 217 decies (1).
-
-(1) Un décret fixe les modalités d'application notamment les obligations déclaratives.
+articles 163 duovicies et 217 decies.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 163 duovicies, 217 decies
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-1051 1997-11-18 art. 27 VI
-	  - HISTO: Edition du 22 avril 1998
-	  - TXT_ASSOCIE: Instruction 1999-05-14 4D-2-99
-
-	**Créé par**:
-
-	  - Loi n°97-1051 du 18 novembre 1997 - art. 27 (V) JORF 19 novembre 1997
+	  - Loi n°2003-1312 2003-12-30 art. 51 3° Finances rectificative pour 2003 JORF 31 décembre 2003
 
 	**Cité par**:
 
@@ -32,3 +20,7 @@ articles 163 duovicies et 217 decies (1).
 	  - Code général des impôts, CGI. - art. 238 bis HP (V)
 	  - Code général des impôts, CGI. - art. 238 bis HR (V)
 	  - Code général des impôts, CGI. - art. 238 bis HU (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 217 decies (V)

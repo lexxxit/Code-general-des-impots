@@ -2,7 +2,7 @@
 
 La plus-value réalisée dans le cadre d'une activité agricole, artisanale, commerciale ou libérale est calculée, si le bien
 cédé a figuré pendant une partie du temps écoulé depuis l'acquisition dans le patrimoine privé du contribuable, suivant les
-règles des articles 150 A à 150 S, pour la partie correspondant à cette période. Cette partie est exonérée s'il s'agit d'une
+règles des articles 150 U à 150 VH, pour la partie correspondant à cette période. Cette partie est exonérée s'il s'agit d'une
 terre agricole qui n'entre pas dans le champ d'application du A de l'article 1594-0 G et qui est exploitée par un agriculteur
 ayant exercé son activité à titre principal pendant au moins cinq ans.
 
@@ -14,7 +14,7 @@ de l'article 1594-0 G.
 
 	**Cite**:
 
-	  - CGI 150 A à 150 S, 1594-0 G
+	  - CGI 150 U à 150 VH, 1594-0 G
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-15 (M)
 
 	**Cité par**:
@@ -27,12 +27,8 @@ de l'article 1594-0 G.
 
 	**Modifié par**:
 
-	  - Loi n°98-1266 1998-12-30 art. 39 I 23 Finances pour 1999 JORF 31 décembre 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
+	  - Loi - art. 10 (V) JORF 31 décembre 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 1er janvier 2004

@@ -1,23 +1,17 @@
 # Article 238 terdecies
 
-Les articles 238 nonies à 238 duodecies s'appliquent lorsque la cession intervient au moins deux ans après l'acquisition.
+Les articles 238 nonies à 238 duodecies s'appliquent lorsque la cession intervient au moins deux ans après l'acquisition. 
 
-Toutefois, le différé d'imposition ne peut excéder cinq ans.
+Toutefois, le différé d'imposition ne peut excéder cinq ans. Les articles 238 nonies à 238 duodecies ne s'appliquent pas aux
+plus-values imposées conformément à l'article 150 U.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 238 nonies à CGI 238 duodecies
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
 	**Modifié par**:
 
-	  - Décret n°88-1001 1988-10-20 art. 1 JORF 22 octobre 1988
+	  - Loi - art. 10 (V) JORF 31 décembre 2003
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 15 juillet 1988
+	  - Code général des impôts, CGI. - art. 150 U (V)
+	  - Code général des impôts, CGI. - art. 238 nonies (V)
