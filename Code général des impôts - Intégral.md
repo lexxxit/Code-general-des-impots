@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1996-05-12
+Version Consolidée au 1996-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -21035,38 +21035,6 @@ de la réduction d'impôt.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 E (V)
 
 
-##### Réduction d'impôt accordée au titre des sommes déposées dans les fonds salariaux.
-
-###### Article 199 octies A
-
-Un décret (1) précise les conditions dans lesquelles les gestionnaires des fonds salariaux communiquent chaque année à
-l'administration et au contribuable le montant des versements de l'année et le montant des intérêts servis (2). Le
-contribuable, par déclaration spéciale jointe à sa déclaration de revenus, fournit, pour chaque membre du foyer fiscal
-concerné, ces renseignements et joint le ou les états reçus des gestionnaires des fonds salariaux.
-
-(1) Décret à émettre.
-
-(2) Voir l'annexe III, articles 41 DA et 41 DB.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 41 DA, 41 DB
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Liens**:
-
-	  - HISTO: Edition du 20 juillet 1984
-
-	**Créé par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 76 () JORF 30 décembre 1983
-
-
 ##### 10° : Réduction d'impôt accordée au titre des sommes déposées dans les fonds salariaux.
 
 ###### Article 199 octies
@@ -21103,6 +21071,30 @@ fiscal participant au financement d'un fonds salarial.
 	**Modifié par**:
 
 	  - Loi n°93-1352 du 30 décembre 1993 - art. 2 () JORF 31 décembre 1993
+
+
+##### 10° : Réduction d'impôt accordée au titre des sommes déposées dans le fonds salariaux.
+
+###### Article 199 octies A
+
+Un décret précise les conditions dans lesquelles les gestionnaires des fonds salariaux communiquent chaque année à
+l'administration et au contribuable le montant des versements de l'année et le montant des intérêts servis. Le contribuable,
+par déclaration spéciale jointe à sa déclaration de revenus, fournit, pour chaque membre du foyer fiscal concerné, ces
+renseignements et joint le ou les états reçus des gestionnaires des fonds salariaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 41 DA, 41 DB
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1998-01-13 5B-4-98
+
+	**Abrogé par**:
+
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 90 () JORF 31 décembre 1996
 
 
 ##### Réduction d'impôt accordée au titre des investissements immobiliers locatifs.
@@ -47473,6 +47465,39 @@ récoltées les vendanges.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 C (V)
 
 
+###### Article 417
+
+Les vins doux naturels mentionnés à l'article 402 bis sont :
+
+1° Les vins doux naturels à appellation d'origine contrôlée ;
+
+2° Les autres vins doux naturels obtenus, dans les communes ne bénéficiant pas d'une telle appellation, sur les exploitations
+ou par les caves coopératives qui se livraient à leur préparation avant la publication de la loi du 28 août 1942 et ce, dans
+la limite des quantités produites annuellement avant cette publication (Nota).
+
+**Nota:**
+
+Les dispositions du 2° sont abrogées à compter du 1er janvier 2000, article 29 de la loi 96-1182.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 402 bis (V)
+
+	**Cite**:
+
+	  - Loi n°1942-08-28
+
+	**Modifié par**:
+
+	  - Loi n°96-1182 du 30 décembre 1996 - art. 29 () JORF 31 décembre 1996
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1247 du 7 octobre 2015 - art. 4
+
+
 ###### Article 417 bis
 
 Sont assimilés, du point de vue fiscal, aux vins doux naturels visés à l'article 416, les vins de liqueur de qualité produits
@@ -52650,39 +52675,6 @@ lieu au paiement des frais de surveillance.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quater (V)
-
-
-##### IV : Vins doux naturels.
-
-###### Article 417
-
-Les vins doux naturels mentionnés à l'article 402 bis sont :
-
-1° Les vins doux naturels à appellation d'origine contrôlée ;
-
-2° Les autres vins doux naturels obtenus, dans les communes ne bénéficiant pas d'une telle appellation, sur les exploitations
-ou par les caves coopératives qui se livraient à leur préparation avant la publication de la loi du 28 août 1942 et ce, dans
-la limite des quantités produites annuellement avant cette publication.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 402 bis
-	  - Loi n°1942-08-28
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-	  - TXT_ASSOCIE: Loi n°92-1476 1992-12-31 art. 32 XIII Finances rectificative pour 1992
-
-	**Modifié par**:
-
-	  - Loi - art. 32 (V) JORF 5 janvier 1993 en vigueur le 1er février 1993
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 402 bis (V)
 
 
 ##### B : Régime fiscal
