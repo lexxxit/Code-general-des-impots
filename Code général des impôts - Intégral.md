@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1983-01-29
+Version Consolidée au 1983-03-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17999,6 +17999,35 @@ décembre 1983, art. 28
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 707 bis
+
+En cas d'éviction d'un acquéreur, l'exercice du droit de préemption institué par les articles L. 412-1 à L. 412-13 du code
+rural, relatifs au statut du fermage et du métayage, ou par les articles L. 461-18 à L. 461-23 du même code, relatifs au bail
+à ferme dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, ne donne pas ouverture à la
+perception d'un nouvel impôt proportionnel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L412-1 A Code rural L412-13
+	  - Code rural L461-18 A Code rural L461-23
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Décret n°83-212 du 16 mars 1983 - art. 2 (V) JORF 22 MARS 1983
+	  - Décret n°83-212 du 16 mars 1983 - art. 3 (Ab) JORF 22 MARS 1983
+	  - Décret n°83-212 du 16 mars 1983 - art. 4 (V) JORF 22 MARS 1983
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+
+
 ###### Article 708
 
 Les échanges d'immeubles ruraux effectués conformément à l'article 37 du code rural sont exonérés de la taxe de publicité
@@ -18573,6 +18602,34 @@ présent code.
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 689 (V)
+
+
+##### Régimes spéciaux
+
+###### Article 743
+
+Sont exonérés de la taxe de publicité foncière :
+
+1° Les baux à construction;
+
+2° Les baux à long terme conclus en application des articles L. 416-1 à L. 416-6, L. 416-8 et L. 416-9.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L416-1 A Code rural L416-6
+	  - Code rural L416-8 A Code rural L416-9
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Décret n°83-212 du 16 mars 1983 - art. 2 (V) JORF 22 MARS 1983
+	  - Décret n°83-212 du 16 mars 1983 - art. 3 (Ab) JORF 22 MARS 1983
+	  - Décret n°83-212 du 16 mars 1983 - art. 4 (V) JORF 22 MARS 1983
 
 
 ##### B : Baux à vie ou à durée illimitée.
