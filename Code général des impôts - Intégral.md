@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1982-01-01
+Version Consolidée au 1982-02-13
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3065,6 +3065,36 @@ finances.
 	**Cite**:
 
 	  - CGI 125 A
+
+
+##### 10° : Obligations reçues en échange d'actions de sociétés concernées par l'extension du secteur public
+
+###### Article 132 ter
+
+Les revenus des obligations remises par la caisse nationale de l'industrie et la caisse nationale des banques en échange
+d'actions transférées à l'Etat en application de la loi de nationalisation n° 82-155 du 11 février 1982 sont assujettis aux
+dispositions fiscales applicables aux revenus des obligations à taux fixe émises par l'Etat. 
+
+Il en est de même des revenus des obligations émises par l'office national d'études et de recherches aérospatiales en échange
+d'actions de la société Matra.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Loi n°81-1179 du 31 décembre 1981 - art. 19 (V) JORF 1 JANVIER 1982
+
+	**Cite**:
+
+	  - Loi n°82-155 du 11 février 1982 (V)
+
+	**Modifié par**:
+
+	  - Loi n°82-155 du 11 février 1982 - art. 46 (V) JORF 13 FEVRIER 1982
 
 
 ##### 11° : Emprunts des départements, communes et établissements publics
@@ -21965,6 +21995,39 @@ d'Etat.
 
 
 
+##### Attribution gratuite d'actions ou de parts sociales au personnel des entreprises.
+
+###### Article 1127
+
+Ne donnent lieu à la perception d'aucun impôt les attributions gratuites d'actions faites en application :
+
+1° De l'article 2 de la loi n° 70-11 du 2 janvier 1970 relative à la Régie nationale des usines Renault;
+
+2° (Abrogé) ;
+
+3° Des articles L 322-13 et L 322-22 du code des assurances relatifs aux entreprises nationales d'assurances;
+
+4° De la loi n° 73-9 du 4 janvier 1973 relative à la mise en oeuvre de l'actionnariat du personnel à la Société nationale
+industrielle aérospatiale et à la Société nationale d'étude et de construction de moteurs d'aviation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°70-11 du 2 janvier 1970 - art. 2 (V)
+	  - Loi n°73-9 1973-01-04
+	  - Code des assurances - art. L322-13 (M)
+	  - Code des assurances - art. L322-22 (M)
+
+	**Modifié par**:
+
+	  - Loi n°82-155 du 11 février 1982 - art. 27 (V) JORF 13 FEVRIER 1982
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+
 ##### 6° : Certificats de vie
 
 ###### Article 1128
@@ -39192,6 +39255,47 @@ quater-I ter-3 différente de celle prévue par le présent article (Loi n° 81-
 	  - PEREMPTION: Décret n°89-801 1989-10-27 : article périmé, disposition incorporée au code le 14 juillet 1989
 
 
+##### DISPOSITIONS SPECIALES APPLICABLES AUX OPERATIONS DE NATIONALISATION.
+
+###### Article 248 B
+
+Les dispositions des articles 92, 92 A, 92 B et 160 ne sont pas applicables aux échanges de titres effectués dans le cadre de
+la loi de nationalisation n° 82-155 du 11 février 1982.
+
+En cas de vente des titre reçus en échange :
+
+La plus ou moins-value est calculée à partir du prix ou de la valeur d'acquisition des titres ayant ouvert droit à
+l'indemnisation ;
+
+La plus-value relève, le cas échéant, des dispositions de l'article 160, les conditions d'application de cet article étant
+appréciées à la date de l'échange.
+
+Pour l'application de ces dispositions, le remboursement des titres reçus en échange est assimilé à une vente.
+
+(1) Dispositions également applicables, à l'exception de celle relative à l'article 160, en ce qui concerne les opérations
+d'échange des obligations émises par l'office national d'études et de recherches aérospatiales contre des actions de la
+société Matra (Loi n° 81-1179 du 31 décembre 1981, art. 19-IV).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 160
+	  - CGI 92
+	  - CGI 92 A
+	  - CGI 92 B
+	  - Loi n°81-1179 1981-12-31 ART. 19 IV
+	  - Loi n°82-155 1982-02-11
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Loi n°82-155 du 11 février 1982 - art. 48 (V) JORF 13 FEVRIER 1982
+
+
 #### DISPOSITIONS COMMUNES AUX IMPOTS ET TAXES, REVENUS ET BENEFICES VISES AUX CHAPITRES I A III *ART. 1 A 235 ter W*
 
 ##### PLUS-VALUES REALISEES A L'OCCASION DE LA CONSTRUCTION ET DE LA VENTE D'IMMEUBLES *PROFITS DE CONSTRUCTION*.
@@ -51279,37 +51383,6 @@ de l'agence France-Presse sont exonérés du timbre, ainsi que des droits d'enre
 	**Codifié par**:
 
 	  - Décret n°86-1086 1986-10-07
-
-
-##### DISPOSITIONS DIVERSES.
-
-###### Article 1127
-
-Ne donnent lieu à la perception d'aucun impôt les attributions gratuites d'actions faites en application :
-
-1° De l'article 2 de la loi n° 70-11 du 2 janvier 1970 relative à la Régie nationale des usines Renault;
-
-2° De l'article 1er de la loi n° 73-8 du 4 janvier 1973 relative à la mise en oeuvre de l'actionnariat du personnel dans les
-banques nationales;
-
-3° Des articles L 322-13 et L 322-22 du code des assurances relatifs aux entreprises nationales d'assurances;
-
-4° De la loi n° 73-9 du 4 janvier 1973 relative à la mise en oeuvre de l'actionnariat du personnel à la Société nationale
-industrielle aérospatiale et à la Société nationale d'étude et de construction de moteurs d'aviation.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - Loi n°70-11 du 2 janvier 1970 - art. 2 (V)
-	  - Loi n°73-9 1973-01-04
-	  - Loi n°73-8 1973-01-04 ART. 1
-	  - Code des assurances - art. L322-13 (M)
-	  - Code des assurances - art. L322-22 (M)
 
 
 ##### PRESSE
