@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1983-06-03
+Version Consolidée au 1983-06-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -24215,6 +24215,28 @@ judiciaire, condamné.
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 1090 C
+
+I à III (Disjoints).
+
+IV Le recouvrement des sommes dues au titre de l'aide judiciaire a lieu selon les modalités et sous les garanties prévues en
+matière d'amendes et de condamnations pécuniaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°81-1179 du 31 décembre 1981 - art. 12 () JORF 1er janvier 1982, Loi 83-456 1983-06-02 JORF 8 juin 1983
+
+
 ###### Article 1090 D
 
 Le retrait de l'aide judiciaire rend immédiatement exigibles, dans les limites fixées par la décision de retrait, les droits,
@@ -38922,21 +38944,6 @@ d'immeubles à construire.
 	  - Code général des impôts, CGI. - art. 644 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 A (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 406 ter (VT)
-
-
-###### Article 1929 A
-
-Pour le recouvrement de ses avances en matière d'aide judiciaire, l'Etat est subrogé dans les droits et actions que le
-bénéficiaire de l'aide judiciaire possède envers son adversaire.
-
-La créance de l'Etat pour ces avances, ainsi que pour les redevances de greffe, a la préférence sur celle des autres ayants
-droit.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ### DISPOSITIONS COMMUNES.
