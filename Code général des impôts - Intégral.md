@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1990-07-06
+Version Consolidée au 1990-07-14
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8031,13 +8031,13 @@ du présent article.
 
 III bis. Le taux du prélèvement est fixé :
 
-1° A 15 % pour les produits d'obligations négociables et de titres participatifs.
+1° A 15 % pour les produits d'obligations négociables et de titres participatifs (3).
 
 Ce taux est applicable aux intérêts servis aux salariés sur les versements effectués dans les fonds salariaux et aux produits
 capitalisés sur un plan d'épargne populaire dont la durée est égale ou supérieure à 4 ans ;
 
-I° bis. A 15 p. 100 pour les produits des titres de créances négociables sur un marché réglementé en application d'une
-disposition législative particulière et non susceptibles d'être cotés.
+1° bis. A 15 p. 100 pour les produits des titres de créances négociables sur un marché réglementé en application d'une
+disposition législative particulière et non susceptibles d'être cotés (3).
 
 2° A un tiers pour les produits des bons du Trésor sur formules, des bons d'épargne des PTT, des bons de la caisse nationale
 du crédit agricole, des bons de caisse du crédit mutuel, des bons à cinq ans du crédit foncier de France, des bons émis par
@@ -8048,23 +8048,24 @@ les groupements régionaux d'épargne et de prévoyance, des bons de la caisse n
 la loi n° 80-30 du 18 janvier 1980 et pour les produits des autres placements courus antérieurement au 1er janvier 1980 ;
 
 4° A 38 % pour les produits des bons et titres émis à compter de la date d'entrée en vigueur de la loi n° 80-30 du 18 janvier
-1980 et avant le 1er janvier 1983 lorsque le bénéficiaire des intérêts communique  aux établissements payeurs, au moment du
-paiement, son identité et son domicile fiscal,    et à 42 % lorsque cette condition n'est pas remplie ;
+1980 et avant le 1er janvier 1983 lorsque le bénéficiaire des intérêts autorise l'établissement payeur, au moment du
+paiement, à communiquer son identité et son domicile fiscal à l'administration fiscale,
+
+et à 42 % lorsque cette condition n'est pas remplie ;
 
 5° A 38 % pour les produits des placements, autres que les bons et titres, courus du 1er janvier 1980 au 31 décembre 1982
 inclus ;
 
 6° A 45 % pour les produits des bons et titres émis à compter du 1er janvier 1983 et à 35 p. 100 pour les produits des bons
-et titres émis à compter du 1er janvier 1990, lorsque le bénéficiaire des intérêts communique  aux établissements payeurs, au
-moment du paiement, son identité et son domicile fiscal,    et à 50 % lorsque cette condition n'est pas remplie ;
+et titres émis à compter du 1er janvier 1990, lorsque le bénéficiaire des intérêts autorise l'établissement payeur, au moment
+du paiement, à communiquer son identité et son domicile fiscal à l'administration fiscale, et à 50 % lorsque cette condition
+n'est pas remplie ;
 
-7° A 45 % pour les produits des placements, autres que les bons et titres courus à partir du 1er janvier 1983, et à 35 p. 100
+7° A 45 % pour les produits des placements, autres que les bons et titres courus à partir du 1er janvier 1983, à 35 p. 100
 pour les produits de placements courus à partir du 1er janvier 1990.
 
-et à 50 % lorsque cette condition n'est pas remplie ;
-
 8° A 15 p. 100 pour les produits des parts émises par les fonds communs de créances. Le boni de liquidation peut être soumis
-à ce prélèvement au taux de 35 p. 100.
+à ce prélèvement au taux de 35 p. 100 (3).
 
 IV. L'option pour le prélèvement est subordonnée :
 
@@ -8082,20 +8083,35 @@ V. Le caractère libératoire du prélèvement ne peut être invoqué pour les p
 détermination du bénéfice imposable d'une entreprise industrielle, commerciale, artisanale ou agricole, ou d'une profession
 non commerciale.
 
-VI. Les modalités et conditions d'application du présent article sont fixées par décret (3).
+VI. Les modalités et conditions d'application du présent article sont fixées par décret (4).
 
 (1) Annexe IV, art. 6 quater et 6 quinquies.
 
 (2) Voir décret n° 76-79 du 26 janvier 1976 (J.O. du 29).
 
-(3) Annexe III, art. 41 duodecies A à 41 duodecies H.
+(3) Taux applicable aux produits encaissés à compter du 1er janvier 1990.
+
+(4) Annexe III, art. 41 duodecies A à 41 duodecies H.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Ordonnance n°58-966 du 16 octobre 1958 - art. 5, v. init.
+	  - Loi n°80-30 1980-01-18
+	  - CGI 119 bis 1
+	  - CGI 125 B
+	  - CGI 158 3 al. 3
+	  - CGIAN3 41 duodecies A à CGIAN3 41 duodecies H
+	  - CGIAN4 6 quater
+	  - CGIAN4 6 quinquies
+	  - Décret n°62-1305 1962-11-06
+	  - Décret n°76-79 1976-01-26
+
 	**Cité par**:
 
-	  - Arrêté du 3 janvier 1991 - art. 4 (V)
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 42 (V)
+	  - Arrêté du 3 janvier 1991 - art. 4 (V)
 	  - Loi n°97-1164 du 19 décembre 1997 - art. 5 (V)
 	  - Loi n°97-1164 du 19 décembre 1997 - art. 9 (V)
 	  - Loi n°2004-626 du 30 juin 2004 - art. 19 (V)
@@ -8163,26 +8179,13 @@ VI. Les modalités et conditions d'application du présent article sont fixées 
 	  - Livre des procédures fiscales - art. L16 (V)
 	  - Livre des procédures fiscales - art. L169 A (VD)
 
-	**Cite**:
-
-	  - CGI 119 bis 1
-	  - CGI 125 B
-	  - CGI 158 3 al. 3
-	  - CGIAN3 41 duodecies A à CGIAN3 41 duodecies H
-	  - CGIAN4 6 quater
-	  - CGIAN4 6 quinquies
-	  - Ordonnance n°58-966 du 16 octobre 1958 - art. 5, v. init.
-	  - Décret n°62-1305 1962-11-06
-	  - Loi n°80-30 1980-01-18
-	  - Décret n°76-79 1976-01-26
-
 	**Modifié par**:
 
-	  - Loi n°89-935 1989-12-29 art. 14 I III, art. 109 III Finances pour 1990 JORF 30 décembre 1989
+	  - Loi n°90-614 1990-07-12 art. 13 JORF 14 juillet 1990
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°90-798 1990-09-10
+	  - HISTO: Edition du 24 juin 1991
 
 
 ##### 4 ter : Prélèvement sur les produits de placements à revenu fixe
@@ -52383,9 +52386,10 @@ code de commerce.
 
 ###### Article 990 A
 
-Les bons mentionnés à l'article 125 A-III bis-2° et les titres de même nature, quelle que soit leur date d'émission, sont,
-lorsque leur détenteur ne communique pas à l'établissement qui assure le paiement des intérêts son identité et son domicile
-fiscal, soumis d'office à un prélèvement. Ce prélèvement est assis sur le montant nominal du bon [*assiette*].
+Les bons mentionnés au 2° du III bis de l'article 125 A et les titres de même nature, quelle que soit leur date d'émission,
+sont, lorsque le détenteur n'autorise pas l'établissement qui assure le paiement des intérêts à communiquer son identité et
+son domicile fiscal à l'administration fiscale, soumis d'office à un prélèvement. Ce prélèvement est assis sur leur montant
+nominal.
 
 **Liens relatifs à cet article**
 
@@ -52393,9 +52397,13 @@ fiscal, soumis d'office à un prélèvement. Ce prélèvement est assis sur le m
 
 	  - CGI 125 A III bis 2°
 
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
 	**Modifié par**:
 
-	  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988
+	  - Loi n°90-614 1990-07-12 art. 13 JORF 14 juillet 1990
 
 	**Cité par**:
 
