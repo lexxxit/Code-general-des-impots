@@ -6,9 +6,9 @@ par les entreprises de transport public aérien. Elle est ajoutée aux prix dema
 La taxe est exigible pour chaque vol commercial. Elle est assise sur le nombre de passagers embarquant en France selon le
 tarif suivant :
 
-17 F par passager embarqué à destination d'un territoire étranger ;
+((18 F par passager embarqué à destination d'un territoire étranger ;
 
-10 F par passager embarqué vers d'autres destinations.
+((11 F par passager embarqué vers d'autres destinations)) (M).
 
 Les entreprises de transport aérien déclarent chaque mois, sur un imprimé fourni par l'administration de l'aviation civile,
 le nombre de passagers embarqués le mois précédent sur chacun des vols effectués au départ de la France.
@@ -47,21 +47,22 @@ d'affaires.
 Le contentieux est suivi par la direction générale de l'aviation civile. Les réclamations sont présentées, instruites et
 jugées comme pour les taxes sur le chiffre d'affaires.
 
+(M) Modification de la loi.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi - art. 55 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
+	  - Loi - art. 42 () JORF 31 décembre 1995
 
 	**Cité par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 22 (V)
 	  - Arrêté du 30 décembre 2009 - art. Annexe 1 (V)
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 5 (V)
 	  - Arrêté du 22 février 2013 (V)
 	  - Arrêté du 25 mars 2014 (V)
 	  - Arrêté du 25 mars 2014 - art. 1 (V)
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 22 (V)
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 5 (V)
 	  - Loi n°2015-1785 du 29 décembre 2015 - art. 49 (V)
 	  - Décret n°2017-640 du 26 avril 2017 (V)
 	  - Code général des impôts, CGI. - art. 1609 quatervicies A (VD)
@@ -71,3 +72,7 @@ jugées comme pour les taxes sur le chiffre d'affaires.
 	**Cite**:
 
 	  - CGI 1729, 1728
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
