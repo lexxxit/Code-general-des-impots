@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1992-07-14
+Version Consolidée au 1992-07-16
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -7985,33 +7985,23 @@ ministériel.
 
 Les dispositions prévues par l'article 100 bis du code général des impôts [*imposition étalée*] sont applicables, sous les
 mêmes conditions, pour la détermination des salaires imposables des artistes du spectacle, titulaires d'un contrat entrant
-dans les prévisions de l'article L. 762-1 du code du travail (1).
-
-(1) Disposition applicable à compter de l'imposition des revenus de 1986.
-
-**Nota:**
-
-(*) En ce qui concerne la taxe sur les salaires, voir art. 231.
+dans les prévisions de l'article L. 762-1 du code du travail et des salaires imposables des sportifs perçus au titre de la
+pratique d'un sport.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 100 bis
-	  - Code du travail - art. L762-1 (AbD)
-
-	**Créé par**:
-
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 61 (V) JORF 31 décembre 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
+	  - Loi n°92-652 du 13 juillet 1992 - art. 35 () JORF 16 juillet 1992
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1649-0 A (P)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46-0 B bis (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 85
@@ -9191,7 +9181,7 @@ l'exclusion de la part de loyer visée à l'article 39-4.
 sont pas prises en compte pour la détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du fait de la
 réduction d'impôt mentionnée à l'article 199 quater B.
 
-Les dépenses exposées en vue de l'obtention d'un diplôme ou d'une qualification professionnelle dans la perspective d'une
+5° Les dépenses exposées en vue de l'obtention d'un diplôme ou d'une qualification professionnelle dans la perspective d'une
 insertion ou d'une conversion professionnelle par les personnes tirant un revenu de la pratique d'un sport.
 
 1 bis. (Abrogé).
@@ -9266,11 +9256,8 @@ cession et s'il cesse d'exercer une activité de chef d'entreprise (2).
 
 	**Modifié par**:
 
-	  - Loi - art. 92 (V) JORF 31 décembre 1991
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
+	  - Loi n°92-652 du 13 juillet 1992 - art. 33 () JORF 16 juillet 1992
+	  - Modification directe incorporée dans l'édition du 18 août 1993
 
 	**Cité par**:
 
@@ -9680,13 +9667,14 @@ journal ou de leur comptabilité.
 
 ###### Article 100 bis
 
-I - Les bénéfices imposables provenant de la production littéraire, scientifique ou artistique peuvent, à la demande des
-contribuables soumis au régime de la déclaration contrôlée, être déterminés en retranchant, de la moyenne des recettes de
-l'année de l'imposition et des deux années précédentes, la moyenne des dépenses de ces mêmes années [*calcul, définition*].
+I - Les bénéfices imposables provenant de la production littéraire, scientifique ou artistique de même que ceux provenant de
+la pratique d'un sport peuvent, à la demande des contribuables soumis au régime de la déclaration contrôlée, être déterminés
+en retranchant, de la moyenne des recettes de l'année de l'imposition et des deux années précédentes, la moyenne des dépenses
+de ces mêmes années.
 
 Les contribuables qui adoptent ce mode d'évaluation pour une année quelconque ne peuvent revenir sur leur option pour les
 années suivantes et sont obligatoirement soumis au régime de la déclaration contrôlée en ce qui concerne les bénéfices
-provenant de leur production littéraire, scientifique ou artistique.
+provenant de leur production littéraire, scientifique ou artistique ou de ceux provenant de la pratique d'un sport.
 
 II - A compter de l'imposition des revenus de 1982, les contribuables peuvent également demander qu'il soit tenu compte de la
 moyenne des recettes et des dépenses de l'année d'imposition et des quatre années précédentes.
@@ -9697,7 +9685,8 @@ Les contribuables qui adoptent cette période de référence ne peuvent revenir 
 
 	**Modifié par**:
 
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 9 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+	  - Loi n°92-652 du 13 juillet 1992 - art. 36 () JORF 16 juillet 1992
+	  - Modification directe incorporée dans l'édition du 18 août 1993
 
 	**Cité par**:
 
@@ -9705,10 +9694,6 @@ Les contribuables qui adoptent cette période de référence ne peuvent revenir 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 84 A (VD)
 	  - Code général des impôts, CGI. - art. 93 (VT)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46-0 B bis (V)
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
 
 
 ##### 2 : Régime de l'évaluation administrative.
@@ -49607,6 +49592,37 @@ dans la limite d'un maximum de 3.000 F [*montant*].
 	  - HISTO: EDITION 1979-07-01
 
 
+##### Indemnités versées aux personnes contaminées par le virus d'immunodéficience humaine (Sida).
+
+###### Article 775 bis
+
+Les indemnités versées ou dues par le fonds prévu au III de l'article 47 de la loi n° 91-1406 du 31 décembre 1991 portant
+diverses dispositions d'ordre social sont déduites, pour leur valeur nominale, de l'actif de la succession de la victime
+visée au I du même article.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Article incorporé dans l'édition du 18 août 1993
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1992-08-07 7G-7-92
+
+	**Cite**:
+
+	  - Loi n°91-1406 1991-12-31 art. 47
+
+	**Créé par**:
+
+	  - Loi n°92-655 du 15 juillet 1992 - art. 4 () JORF 16 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi - art. 63 (V) JORF 5 janvier 1993
+
+
 ##### 3 : Dispositions spéciales aux donations
 
 ###### Article 776
@@ -61774,17 +61790,24 @@ l'article 5 de la loi n° 68-978 du 12 novembre 1968 ou qui ont fait l'objet d'u
 dispositions de la loi n° 54-11 du 6 janvier 1954, modifiée, sur la sauvegarde de la vie humaine en mer et l'habitabilité à
 bord des navires de commerce, de pêche et de plaisance.
 
+7° Les sportifs pour la seule pratique d'un sport.
+
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+	  - TXT_ASSOCIE: Instruction 1998-04-23 6E-5-98
 
 	**Cite**:
 
-	  - Loi n°54-11 1954-01-06 MODIFIEE
-	  - Loi n°59-1557 1959-12-31 MODIFIEE
+	  - Loi n°54-11 1954-01-06
+	  - Loi n°59-1557 1959-12-31
 	  - Loi n°68-978 du 12 novembre 1968 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°92-652 du 13 juillet 1992 - art. 37 () JORF 16 juillet 1992
 
 
 ###### Article 1461
@@ -75325,17 +75348,15 @@ leurs unions visés au chapitre Ier du titre Ier du livre IV du code du travail 
 mutualité lorsqu'elles emploient moins de trente salariés n'est exigible, au titre d'une année, que pour la partie de son
 montant dépassant 8 000 F (1).
 
-(1) La mesure s'applique aux rémunérations versées par les mutuelles à compter du 1er janvier 1990.
+((Dans le cas des associations sportives régies par la loi du 1er juillet 1901, la taxe sur les salaires dus n'est exigible,
+au titre d'une année, que pour la partie de son montant dépassant 20.000 F.))    (1) La mesure s'applique aux rémunérations
+versées par les mutuelles à compter du 1er janvier 1990.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°89-935 1989-12-29 art. 38 Finances pour 1990 JORF 30 décembre 1989
-
-	**Codifié par**:
-
-	  - Décret n°90-798 1990-09-10
+	  - Loi n°92-652 du 13 juillet 1992 - art. 40 () JORF 16 juillet 1992
 
 	**Cité par**:
 
