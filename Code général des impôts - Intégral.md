@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1986-01-08
+Version Consolidée au 1986-01-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -29848,6 +29848,24 @@ souscripteur en cas d'appel public à l'épargne.
 	  - Loi n°66-537 1966-07-24
 
 
+##### C : Tarifs
+
+###### Article 907
+
+Sous réserve des dispositions de l'article 905, dernier alinéa, il n'y a pas de droit de timbre inférieur à 30 F [*montant*],
+quelle que soit la dimension du papier au-dessous de la demi-feuille de papier normal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 905 AL. DERNIER
+
+	**Modifié par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 20 (P) JORF 31 décembre 1985 en vigueur le 15 janvier 1986
+
+
 ##### D : Prescriptions et prohibitions
 
 ###### Article 908
@@ -29918,6 +29936,40 @@ France.
 ##### 2 : Exonérations
 
 ##### a : Chèques et ordres de virement.
+
+###### Article 913
+
+Les dispositions de l'article 910 ne sont pas applicables aux chèques et aux ordres de virement. Toutefois, le chèque tiré
+pour le compte d'un tiers, lorsqu'il est émis et payable en France, et qu'il intervient en règlement d'opérations
+commerciales comportant un délai de paiement, est soumis au droit prévu au I du même article, dans les conditions prévues aux
+articles 1840 T bis à 1840 T quinquies.
+
+Il en est de même du chèque tiré hors de France, s'il n'est pas souscrit conformément aux prescriptions de l'article 1er de
+la loi du 14 juin 1865, modifié par l'article 1er du décret du 30 octobre 1935 unifiant le droit en matière de chèques. Dans
+ce cas, le bénéficiaire, le premier endosseur, le porteur ou le tiré sont tenus de le faire timbrer avant tout usage en
+France, dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 910, 1840 T bis à 1840 T quinquies
+	  - Décret n°1935-10-30 art. 1
+	  - Loi n°1865-06-14 art. 1
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+	  - TXT_ASSOCIE: Instruction 1997-05-14 7M-3-97
+
+	**Modifié par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 18 () JORF 31 décembre 1985 en vigueur le 15 janvier 1986
+
+	**Abrogé par**:
+
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 38 () JORF 31 décembre 1996
+
 
 ###### Article 915
 
@@ -30433,6 +30485,46 @@ Nota : Voir annexe III, art. 313 BA
 	  - HISTO: EDITION 1979-07-01
 
 
+##### III : Passeports, laissez-passer, sauf-conduits et titres de voyage
+
+###### Article 953
+
+I. La durée de validité des passeports ordinaires délivrés en France est fixée à cinq ans. Le prix en est de 350 F
+[*montant*], y compris les frais de papier et de timbre et tous frais d'expédition.
+
+II. Sont dispensés du paiement du prix fixé au I les passeports délivrés aux fonctionnaires se rendant en mission à
+l'étranger.
+
+III. Les laissez-passer et sauf-conduits pour l'étranger, valables pour deux jours et pour un seul voyage, sont assujettis à
+une taxe de 30 F.
+
+IV. Les titres de voyage délivrés aux réfugiés ou apatrides sont valables deux ans et sont soumis à une taxe de 55 F.
+
+**Nota:**
+
+Nota : Voir annexe III, art. 313 BA
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 26 () JORF 31 décembre 1985, en vigueur le 15 janvier 1986
+
+	**Cité par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 46 (V)
+	  - Arrêté du 22 décembre 2014 - art. Annexe 1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-17 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L753-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L812-7 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 313 BA (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 KA (V)
+
+	**Cite**:
+
+	  - CGIAN3 313 BA
+
+
 ##### V : Formalités administratives.
 
 ###### Article 960
@@ -30567,6 +30659,38 @@ internationaux de conduire, visés par la convention internationale du 24 avril 
 	**Abrogé par**:
 
 	  - Loi - art. 31 () JORF 31 décembre 1999
+
+
+##### C : Réception des véhicules automobiles
+
+###### Article 968 A
+
+La vérification, par le service des mines, des véhicules automobiles et des véhicules remorqués effectuée par types ou par
+unités isolées dans les conditions prévues à l'article R106 du code de la route est subordonnée au versement préalable d'un
+droit acquitté par apposition de timbres mobiles, dont le montant est fixé comme suit :
+
+Réception des véhicules automobiles - Droit.
+
+Réception des véhicules automobiles par type - 580 F.
+
+Réception des véhicules automobiles à titre isolé - 120 F.    Réception des véhicules remorqués pesant en charge plus de 750
+kilogrammes par type - 290 F.
+
+Réception des véhicules remorqués pesant en charge plus de 750 kilogrammes, à titre isolé - 60 F.
+
+Réception des motocyclettes et des cyclomoteurs par type - 250 F.
+
+Réception des motocyclettes et des cyclomoteurs à titre isolé - 60 F.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 11 (P) JORF 31 décembre 1985, en vigueur le 15 janvier 1986
+
+	**Cite**:
+
+	  - Code de la route R106
 
 
 ##### Section III : Régimes spéciaux et exonérations de portée générale
