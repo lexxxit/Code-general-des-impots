@@ -44,9 +44,8 @@ taxe professionnelle unique dans l'établissement public de coopération interco
 peut toutefois avoir pour effet de supprimer cet écart dans un délai plus court que celui résultant des dispositions du a.
 
 II. Pour l'application des dispositions du I, le taux de taxe professionnelle de la commune doit, lorsque celle-ci appartient
-également à une communauté urbaine, à un district, ou à une communauté de communes, être majoré du taux de taxe
-professionnelle voté par ces établissements publics de coopération intercommunale l'année au cours de laquelle le
-rattachement est décidé.
+également à une communauté urbaine, ou à une communauté de communes, être majoré du taux de taxe professionnelle voté par ces
+établissements publics de coopération intercommunale l'année au cours de laquelle le rattachement est décidé.
 
 II bis. - 1. Toutefois, par exception aux dispositions du I et pour l'année suivant celle du rattachement de la commune,
 l'établissement public de coopération intercommunale peut, sur délibération du conseil communautaire statuant à la majorité
@@ -121,10 +120,8 @@ dans la commune rattachée.
 
 	**Modifié par**:
 
-	  - Loi - art. 61 (V) JORF 31 décembre 2003
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 7 () JORF 27 mars 2004
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°2003-1312 2003-12-30 art. 61 III
 	  - HISTO: Edition du 1er janvier 2004
-	  - TXT_ASSOCIE: Instruction 2002-07-03 6A-4-02
