@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1984-12-29
+Version Consolidée au 1984-12-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -32481,7 +32481,8 @@ donnée par les parties, qu'elle soit qualifiée cession de pas de porte, indemn
 Cette taxe, dont la perception est confiée au service des impôts, est fixée à 1,20 % [*taux*].
 
 Dans le cas prévu au 1° du premier alinéa, elle s'ajoute au droit départemental d'enregistrement ou à la taxe départementale
-de publicité foncière mentionnés à l'article 1594 A, sauf lorsque la mutation est soumise au taux proportionnel de 0,60 %.
+de publicité foncière mentionnés aux articles 1594 A et 1594 F , sauf lorsque la mutation est soumise au taux proportionnel
+de 0,60 %.
 
 La taxe est soumise aux règles qui gouvernent l'exigibilité, la restitution et le recouvrement des droits ou de la taxe
 auxquels elle s'ajoute (2).
@@ -32501,21 +32502,22 @@ fiscal fourni par la collectivité bénéficiaire.
 	**Cite**:
 
 	  - CGI 1594 A
+	  - CGI 1594 F
 	  - CGI 1595 ter
 	  - Loi n°71-1025 1971-12-24 ART. 10 I
 
 	**Modifié par**:
 
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 28 (V) JORF 30 décembre 1983
+	  - Loi n°84-1208 1984-12-29 art. 36 I Finances pour 1985 JORF 30 décembre 1984
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
 
 	**Cité par**:
 
 	  - Code général des collectivités territoriales - art. L2331-2 (V)
 	  - Code général des impôts, CGI. - art. 1595 bis A (P)
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
 
 
 ##### Section II : Autres taxes
@@ -33246,6 +33248,91 @@ Un décret fixe les conditions d'application des articles 1609 decies A à 1609 
 
 #### Chapitre II : Contributions indirectes
 
+##### Section II : Taxe sur les produits des exploitations forestières.
+
+###### Article 1613
+
+I  Il est institué une taxe sur les produits des exploitations forestières à l'exclusion des bois de chauffage sur les
+produits de scieries et sur les sciages rabotés, rainés, bouvetés, languetés, feuillurés, chanfreinés ou similaires,
+imprégnés, injectés ou enduits qui sont produits en France ou importés (1).
+
+Son taux est fixé à 4,70 %.
+
+Le produit de cette taxe, après prélèvement annuel de la somme visée à l'article 564 bis, est réparti de la manière
+suivante :
+
+a  94,75 % versés au compte spécial du Trésor, intitulé "Fonds forestier national";
+
+Sur les recettes qui lui sont ainsi affectées, le fonds forestier national attribue :
+
+Une subvention égale à 7,50 % au centre technique du bois pour être utilisée dans la limite du budget de cet organisme,
+approuvé par les ministres chargés de l'économie et des finances, de l'agriculture et de l'industrie;
+
+Une subvention égale à 4,25 % au fonds national de développement agricole pour être utilisée par l'association nationale de
+développement agricole dans la limite du budget de cette association approuvé par les ministres chargés de l'économie et des
+finances et de l'agriculture;
+
+Une subvention égale à 4,25 % aux centres régionaux de la propriété forestière pour être utilisée dans la limite de leurs
+budgets respectifs approuvés par les ministres chargés de l'économie et des finances et de l'agriculture;
+
+b  4,35 % versés en recettes du budget général ;
+
+c  0,90 % affecté à des subventions allouées pour la diffusion des emplois du bois et des produits de la forêt, dans les
+conditions fixées par arrêté conjoint du ministre de l'agriculture et du ministre de l'industrie après consultation des
+principales associations professionnelles et des associations des communes forestières désignées par les ministres
+intéressés.
+
+La taxe donne lieu à un prélèvement pour frais d'assiette et de perception dans les conditions fixées par décret (2).
+
+II  Sous réserve des dispositions des 1° à 5°, la taxe est assise [*assiette*] et recouvrée suivant les mêmes règles, sous
+les mêmes garanties et sous les mêmes sanctions que la taxe sur la valeur ajoutée :
+
+1° En ce qui concerne les sciages rabotés, rainés, bouvetés, languetés, feuillurés, chanfreinés ou similaires, imprégnés,
+injectés ou enduits la taxe est assise sur la valeur des sciages bruts. Pour les sciages importés, cette valeur est
+déterminée par application de réfactions dont les taux sont fixés par arrêté conjoint du ministre de l'agriculture et du
+ministre des finances (3);
+
+2° A l'importation, la taxe est assise et recouvrée par le service des douanes selon les mêmes règles, sous les mêmes
+garanties et les mêmes sanctions qu'en matière de droits de douane;
+
+3° Le fait générateur de la taxe est constitué pour les affaires de vente  y compris les ventes à l'exportation  par
+l'encaissement du prix et pour les utilisations et les transferts par livraison des produits bruts;
+
+4° L'application de la taxe est étendue à toute personne, ayant ou non un établissement en France, quelle que soit sa
+situation au regard des impôts et taxes visés au livre Ier du présent code, qui exploite en France des coupes de bois en vue
+de la livraison des produits à l'étranger ou qui achète en vue de l'exportation, directement ou par l'intermédiaire,
+notamment, de commissionnaires, courtiers, représentants, même aux conditions de livraison de la marchandise hors de France,
+des produits d'exploitation forestière et des produits de scierie à une personne non assujettie à ladite taxe; la valeur
+imposable est celle qui est définie par l'article 36 du code des douanes, sauf si le prix des produits a été stipulé
+"départ". S'il ne s'agit pas de produits bruts, la valeur imposable est la valeur justifiée des bois ou produits bruts
+utilisés; un décret fixe en tant que de besoin les modalités d'application du présent paragraphe     5° La perception de la
+taxe peut être suspendue en totalité ou en partie par décret pour certains produits (4).
+
+1) Annexe IV, art. 156 et 157.
+
+2) Annexe III, art. 332.
+
+3) Annexe IV, art. 157 bis.
+
+4) Annexe III, art. 332 bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 564 bis
+	  - CGIAN3 332
+	  - CGIAN3 332 bis
+	  - CGIAN4 156
+	  - CGIAN4 157
+	  - CGIAN4 157 bis
+	  - Code des douanes - art. 36 (V)
+
+	**Modifié par**:
+
+	  - Loi n°84-1209 du 29 décembre 1984 - art. 20 (V) JORF 30 décembre 1984
+
+
 ##### Section IV : Prélèvements et perceptions destinés au budget annexe des prestations sociales agricoles
 
 ##### A bis : Alcools soumis au droit de consommation.
@@ -33294,6 +33381,43 @@ Cette taxe est perçue sur les betteraves exportées directement.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### E : Produits des exploitations forestières.
+
+###### Article 1618 bis
+
+Il est attribué au budget annexe des prestations sociales agricoles le produit d'une taxe de 1,20 %, frappant les produits
+des exploitations forestières à l'exclusion des bois de chauffage, les produits de scierie, ainsi que les sciages rabotés,
+rainés, bouvetés, languetés, feuillurés, chanfreinés ou similaires imprégnés, injectés ou enduits qui sont produits en France
+ou importés.
+
+Ce taux peut être réduit par décret dans la limite de 15 % [*pourcentage*] et dans la mesure où cette réduction n'affecte pas
+le financement du budget annexe des prestations sociales agricoles.
+
+Cette taxe est applicable aux produits d'exploitation forestière et de scierie provenant d'importation.
+
+Elle est assise [*assiette*] et recouvrée selon les règles, conditions, garanties et sanctions prévues à l'article 1613.
+
+La perception de la taxe peut être suspendue en totalité ou en partie par décret pour certains produits (1).
+
+(1) Voir Annexe III, art. 332 et 332 bis et Annexe IV, art. 156, 157 et 159 bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1613
+	  - CGIAN3 332
+	  - CGIAN3 332 bis
+	  - CGIAN4 156
+	  - CGIAN4 157
+	  - CGIAN4 159 bis
+	  - Loi n°77-1467 1977-12-30 ART. 32 FINANCES POUR 1978
+
+	**Modifié par**:
+
+	  - Loi n°84-1209 du 29 décembre 1984 - art. 20 (V) JORF 30 décembre 1984
 
 
 ##### I : Tabacs fabriqués.
@@ -33397,6 +33521,49 @@ fabriqué par les producteurs récoltants et réservé à leur propre consommati
 #### Chapitre III : Enregistrement, publicité foncière et timbre
 
 ##### Section I : Taxes à percevoir pour l'alimentation du fonds commun des accidents du travail agricole
+
+###### Article 1622
+
+Le fonds commun des accidents du travail agricole, prévu à l'article 1er du décret n° 57-1360 du 30 décembre 1957 modifié,
+est alimenté par une contribution des exploitants assurés perçue sur les primes d'assurances acquittées au titre de la
+législation sur les accidents du travail agricole et établie suivant les modalités déterminées par décret pris sur le rapport
+du ministre de l'économie et des finances, du ministre de l'agriculture et du secrétaire d'Etat au budget (1). Cette
+contribution est recouvrée en même temps que les primes par les organismes d'assurances et la caisse nationale d'assurances
+en cas d'accident.
+
+Le décret prévu ci-dessus détermine les conditions dans lesquelles sont effectués les versements des sociétés d'assurances,
+des syndicats de garantie et de la caisse nationale d'assurances en cas d'accidents. Il prévoit les mesures nécessaires pour
+assurer l'exécution du présent article et les conditions d'intervention du service des impôts.
+
+(1) Annexe III, art. 334 à 336 et 339 bis.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°84-1208 1984-12-29 art. 108 Finances pour 1985 JORF 30 décembre 1984
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Arrêté du 10 septembre 2009 - art. 2 (V)
+	  - Arrêté du 10 septembre 2009 - art. 3 (V)
+	  - Arrêté du 8 août 2012 - art. 2 (V)
+	  - Arrêté du 8 août 2012 - art. 3 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 336 bis (V)
+
+	**Cite**:
+
+	  - CGIAN3 334 à 336
+	  - Décret n°57-1360 du 30 décembre 1957 - art. 1 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
 
 ###### Article 1623
 
@@ -43599,27 +43766,6 @@ l'article 223 septies.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 1925
-
-Le privilège prévu aux articles 1920 et 1924 sera réputé avoir été exercé sur le gage et sera conservé, quelle que soit
-l'époque de la réalisation de celui-ci, dès que ce gage aura été appréhendé par le moyen d'une saisie.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1920
-	  - CGI 1924
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°84-1208 du 29 décembre 1984 - art. 103 (V) JORF 30 décembre 1984 : l'article 1925 devient sans objet
-
-
 ### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.
 
 ###### Article 1926
@@ -43663,27 +43809,6 @@ intégralité au profit de tous ceux qui les acquittent les privilèges et garan
 	**Modifié par**:
 
 	  - Loi n°81-1179 du 31 décembre 1981 - art. 8 (P) JORF 1 JANVIER 1982
-
-
-###### Article 1926 bis
-
-Les dispositions de l'article 1925 sont étendues au privilège de l'article 1926 pour le recouvrement, par le comptable
-compétent, des taxes sur le chiffre d'affaires et des taxes assimilées.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1925
-	  - CGI 1926
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°84-1208 du 29 décembre 1984 - art. 103 (V) JORF 30 décembre 1984 : l'article 1926 bis devient sans objet
 
 
 ### CONTRIBUTIONS INDIRECTES.
@@ -43778,24 +43903,6 @@ sceaux, ministre de la justice (2).
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1929 quinquies
-
-La publicité prévue à l'article 1929 quater conserve le privilège du Trésor sur l'ensemble des biens meubles du redevable
-sans qu'il soit nécessaire que lesdits biens aient été appréhendés au moyen de l'une des mesures prévues à l'article 1925.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1925
-	  - CGI 1929 quater
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°84-1208 du 29 décembre 1984 - art. 103 (V) JORF 30 décembre 1984 : l'article 1929 quinquies devient sans objet
 
 
 ###### Article 1929 ter
