@@ -1,28 +1,30 @@
 # Article 1762 octies
 
-Le défaut de production de la déclaration ou le défaut de paiement dans le délai prévu au premier alinéa du IV de l'article
-1647 E ou les omissions ou inexactitudes relevées dans les renseignements devant figurer dans la déclaration entraînent
-l'application d'une majoration égale à 10 p. 100 des droits mis à la charge du contribuable ou résultant de la déclaration
-tardive.
+Le défaut de production de la déclaration ou le défaut ou l'insuffisance de paiement de l'acompte ou du solde dans les délais
+prévus à l'article 1679 septies ou les omissions ou inexactitudes relevées dans les renseignements devant figurer dans la
+déclaration entraînent l'application d'une majoration égale à 10 p. 100 des droits mis à la charge du contribuable ou
+résultant de la déclaration tardive.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1647 E
-
-	**Anciens textes**:
-
-	  - CGI 1647 E IV 3è alinéa
-
-	**Créé par**:
-
-	  - Loi - art. 17 () JORF 31 décembre 1995
+	  - CGI 1679 septies
 
 	**Codifié par**:
 
-	  - Décret n°96-556 1996-06-21
+	  - Décret n°2006-356 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 31 mars 1999
+	  - TXT_ASSOCIE: Instruction 1999-11-22 6E-9-99
+
+	**Modifié par**:
+
+	  - Loi n°98-1266 1998-12-30 art. 44 A XII Finances pour 1998 JORF 31 décembre 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 17 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006

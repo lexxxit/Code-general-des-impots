@@ -1,16 +1,14 @@
 # Article 1649 quater A
 
 Les personnes physiques qui transfèrent vers l'étranger ou en provenance de l'étranger des sommes, titres ou valeurs, sans
-l'intermédiaire d'un organisme soumis à la loi n° 84-46 du 24 janvier 1984 ((modifiée)) (M) relative à l'activité et au
-contrôle des établissements de crédit, ou d'un organisme cité à l'article 8 de ladite loi, doivent en faire la déclaration
-dans les conditions fixées par décret (1).
+l'intermédiaire d'un organisme soumis à la loi n° 84-46 du 24 janvier 1984 modifiée relative à l'activité et au contrôle des
+établissements de crédit, ou d'un organisme cité à l'article 8 modifié de ladite loi, doivent en faire la déclaration dans
+les conditions fixées par décret (1).
 
 Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 50 000 F.
 
 Les sommes, titres ou valeurs transférés vers l'étranger ou en provenance de l'étranger constituent, sauf preuve contraire,
 des revenus imposables lorsque le contribuable n'a pas rempli les obligations prévues aux premier et deuxième alinéas.
-
-(M) Modification de la loi.
 
 (1) Voir annexe III art. 344 I bis.
 
@@ -22,16 +20,8 @@ des revenus imposables lorsque le contribuable n'a pas rempli les obligations pr
 
 	**Modifié par**:
 
-	  - Loi n°96-597 1996-07-02 art. 10 II, III, IV, art. 20, art. 72, art. 95, art. 99, JORF 4 juillet 1996
 	  - Loi n°96-597 du 2 juillet 1996 - art. 10 () JORF 4 juillet 1996
-	  - Loi n°96-597 du 2 juillet 1996 - art. 20 () JORF 4 juillet 1996
-	  - Loi n°96-597 du 2 juillet 1996 - art. 72 () JORF 4 juillet 1996
-	  - Loi n°96-597 du 2 juillet 1996 - art. 95 () JORF 4 juillet 1996
-	  - Loi n°96-597 du 2 juillet 1996 - art. 99 () JORF 4 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°97-661 1997-05-28
+	  - Loi n°98-261 du 6 avril 1998 - art. 7 () JORF 7 avril 1998
 
 	**Cité par**:
 
@@ -42,4 +32,4 @@ des revenus imposables lorsque le contribuable n'a pas rempli les obligations pr
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 31 mars 1999
