@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1982-12-31
+Version Consolidée au 1983-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1773,6 +1773,34 @@ les faits qui l'ont motivée subsistent.
 
 ##### B : Détermination du résultat imposable
 
+###### Article 73 A
+
+La déduction fiscale prévue aux articles 244 undecies à 244 sexdecies est étendue, sous les mêmes conditions, aux
+investissements réalisés entre le 1er janvier 1982 et le 31 décembre 1982 par les exploitants agricoles placés sous le régime
+du bénéfice réel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 undecies à 244 sexdecies
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 1982-12-29 art. 71 3 Finances pour 1983 JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+	  - Décret n°2003-298 2003-03-31
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 1 () JORF 2 avril 2003
+	  - HISTO: Edition du 15 juillet 1985
+	  - HISTO: Edition du 1er janvier 2003
+
+
 ##### Régime simplifié
 
 ###### Article 74 B
@@ -2426,6 +2454,49 @@ d'investissement à capital variable, le gain net est calculé à partir du prix
 	  - Loi - art. 94 (V) JORF 31 décembre 1999
 
 
+###### Article 92 F
+
+Les gains nets résultant des rachats de parts de fonds communs de placement définis à l'article 92 D 3°, ou de leur
+dissolution, sont soumis à l'impôt dans les conditions prévues à l'article 92 B (1).
+
+(1) Annexe III, art. 39 bis et 39 ter.
+
+**Nota:**
+
+NOTA : Cet article demeure applicable aux plus-values en report d'imposition à la date du 1er janvier 2000. L'imposition de
+ces plus-values est reportée de plein droit lorsque les titres reçus en échange font l'objet d'une nouvelle opération
+d'échange dans les conditions prévues à l'article 150-0 B du code général des impôts.
+
+En cas de vente ultérieure de titres reçus avant le 1er janvier 2000 à l'occasion d'une opération de conversion, de division
+ou de regroupement ainsi qu'en cas de vente ultérieure de titres reçus, avant le 1er janvier 1992, à l'occasion d'une
+opération d'offre publique, de fusion, de scission, d'absorption d'un fonds commun de placement par une société
+d'investissement à capital variable, le gain net est calculé à partir du prix ou de la valeur d'acquisition des titres
+échangés, diminué de la soulte reçue ou majoré de la soulte versée lors de l'échange.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 92 D, 92 B, 150-0 B
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+	  - HISTO: Edition du 31 mars 2001
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+
+	**Abrogé par**:
+
+	  - Loi - art. 94 (V) JORF 31 décembre 1999
+
+
 ##### B : Détermination des bénéfices imposables
 
 ##### 1° : Organismes d'études et de recherches
@@ -2542,6 +2613,39 @@ journal ou de leur comptabilité.
 	**Cite**:
 
 	  - CGI 96 I
+
+
+###### Article 100 bis
+
+I - Les bénéfices imposables provenant de la production littéraire, scientifique ou artistique peuvent, à la demande des
+contribuables soumis au régime de la déclaration contrôlée, être déterminés en retranchant, de la moyenne des recettes de
+l'année de l'imposition et des deux années précédentes, la moyenne des dépenses de ces mêmes années [*calcul, définition*].
+
+Les contribuables qui adoptent ce mode d'évaluation pour une année quelconque ne peuvent revenir sur leur option pour les
+années suivantes et sont obligatoirement soumis au régime de la déclaration contrôlée en ce qui concerne les bénéfices
+provenant de leur production littéraire, scientifique ou artistique.
+
+II - A compter de l'imposition des revenus de 1982, les contribuables peuvent également demander qu'il soit tenu compte de la
+moyenne des recettes et des dépenses de l'année d'imposition et des quatre années précédentes.
+
+Les contribuables qui adoptent cette période de référence ne peuvent revenir sur leur option pour les années suivantes.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 9 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1649-0 A (VT)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 84 A (VD)
+	  - Code général des impôts, CGI. - art. 93 (VT)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46-0 B bis (V)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
 
 
 ##### 2 : Régime de l'évaluation administrative.
@@ -3251,7 +3355,117 @@ concessionnaires de cet aménagement.
 
 ##### VII ter : Plus-values de cession à titre onéreux de biens ou de droits de toute nature
 
+##### A : Champ d'application.
+
+##### Exonérations.
+
+###### Article 150 C
+
+I Toute plus-value réalisée lors de la cession d'une résidence principale est exonérée.
+
+Sont considérés comme résidences principales [*définition*] :
+
+a  Les immeubles ou parties d'immeubles constituant la résidence habituelle du propriétaire depuis l'acquisition ou
+l'achèvement ou pendant au moins cinq ans ; aucune condition de durée n'est requise lorsque la cession est motivée par des
+impératifs d'ordre familial ou un changement de résidence;
+
+b  Les immeubles ou parties d'immeubles constituant la résidence en France des Français domiciliés hors de France, dans la
+limite d'une résidence par contribuable.
+
+Cette définition englobe les dépendances immédiates et nécessaires de l'immeuble.
+
+II Il en est de même pour la première cession d'un logement lorsque le cédant ou son conjoint n'est pas propriétaire de sa
+résidence principale, directement ou par personne interposée, et que la cession est réalisée au moins cinq ans après
+l'acquisition ou l'achèvement.
+
+Toutefois, cette exonération n'est pas applicable lorsque la cession intervient dans les deux ans de celle de la résidence
+principale.
+
+Les délais de cinq ans et de deux ans ne sont pas exigés lorsque la cession est motivée par l'un des événements dont la liste
+est fixée par un décret en Conseil d'Etat (1) et concernant la situation personnelle, familiale ou professionnelle du
+contribuable (2).
+
+(1) Annexe II, art. 74 B bis.
+
+(2) Disposition applicable à compter du 1er janvier 1982.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 74 B bis
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
+
 ##### 2. Biens et droits mobiliers ou immobiliers
+
+###### Article 150 A
+
+Sous réserve des dispositions particulières qui sont propres aux bénéfices professionnels et aux profits de construction, les
+plus-values effectivement réalisées par des personnes physiques ou des sociétés de personnes lors de la cession à titre
+onéreux de biens ou de droits de toute nature sont passibles :
+
+1° De l'impôt sur le revenu, lorsque ces plus-values proviennent de biens immobiliers cédés moins de deux ans après
+l'acquisition ou de biens mobiliers cédés moins d'un an après celle-ci ;
+
+2° De l'impôt sur le revenu suivant les règles particulières définies aux articles 150 B à 150 T, selon que ces plus-values
+proviennent de biens immobiliers cédés plus de deux ans ou de biens mobiliers cédés plus d'un an après l'acquisition.
+
+A l'exception des gains définis à l'article 150 A bis, les plus-values consécutives à la cession à titre onéreux de valeurs
+mobilières ou de droits sociaux, ne sont pas imposables en application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 A bis, 150 B à 150 T
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+	  - TXT_ASSOCIE: Instruction 2001-12-14 8M-3-01
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 décembre 1982 en vigueur le 1er Janvier 1983
+
+	**Cité par**:
+
+	  - Loi n°87-516 du 10 juillet 1987 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Loi - art. 10 (V) JORF 31 décembre 2003
+
+
+###### Article 150 E
+
+Les plus-values immobilières réalisées à la suite de déclarations d'utilité publique prononcées en vue d'une expropriation
+n'entraînent aucune taxation quand il est procédé au remploi de l'indemnité par l'achat d'un ou de plusieurs biens de même
+nature dans un délai de six mois du paiement.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+	  - TXT_ASSOCIE: Instruction 2001-12-14 8M-3-01
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 décembre 1982 en vigueur le 1er Janvier 1983
+
+	**Abrogé par**:
+
+	  - Loi - art. 10 (V) JORF 31 décembre 2003
+
 
 ###### Article 150 F
 
@@ -3289,6 +3503,39 @@ réalisées moins d'un an après l'acquisition de ceux-ci sont intégralement as
 
 	  - HISTO: Edition du 1er janvier 2004
 	  - TXT_ASSOCIE: Instruction 2001-12-14 8M-3-01
+
+	**Abrogé par**:
+
+	  - Loi - art. 10 (V) JORF 31 décembre 2003
+
+
+###### Article 150 K
+
+Les plus-values immobilières réalisées plus de deux ans après l'acquisition du bien et les plus-values sur biens mobiliers
+réalisées plus d'un an après l'acquisition sont déterminées comme à l'article 150 H. En outre, le prix d'acquisition et ses
+majorations éventuelles, à l'exception des intérêts des emprunts indiqués au quatrième alinéa de l'article précité, sont
+révisés proportionnellement à la variation de l'indice moyen annuel des prix à la consommation depuis l'acquisition ou la
+dépense.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 H
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+	  - TXT_ASSOCIE: Instruction 1999-12-09 8M-4-99
+	  - TXT_ASSOCIE: Instruction 2000-11-21 8M-4-00
+	  - TXT_ASSOCIE: Instruction 2001-11-28 8M-2-01
+	  - TXT_ASSOCIE: Instruction 2001-12-14 8M-3-01
+	  - TXT_ASSOCIE: Instruction 2002-12-03 8M-4-02
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 1982-12-29 art. 7 II A, C Finances pour 1983 JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
 
 	**Abrogé par**:
 
@@ -3408,6 +3655,30 @@ partir de la date et de la valeur de l'acquisition par le donateur [*point de d�
 
 ##### 2. Biens et droits mobiliers et immobiliers.
 
+###### Article 150 P
+
+La différence entre la valeur d'indemnisation découlant de l'application de la loi n° 70-632 du 15 juillet 1970 relative à
+une contribution nationale à l'indemnisation des Français dépossédés de biens situés dans un territoire antérieurement placé
+sous la souveraineté, le protectorat ou la tutelle de la France, modifiée, et l'indemnité due ou perçue en application de
+l'article 41 de la même loi constitue une moins-value imputable, sans limitation de durée et dans la limite de 75.000 F, sur
+les plus-values réalisées par des personnes physiques et les sociétés de personnes définies aux articles 2 et 5 de la loi
+précitée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Cite**:
+
+	  - Loi n°70-632 1970-07-15 art. 2, art. 5, art. 41
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+
+
 ###### Article 150 Q
 
 Un abattement de 6.000 F est opéré sur le total imposable des plus-values réalisées au cours d'une même année, après
@@ -3465,6 +3736,43 @@ précisées par un décret en conseil d'Etat (1).
 	**Abrogé par**:
 
 	  - Loi - art. 10 (V) JORF 31 décembre 2003
+
+
+##### C : Calcul de l'impôt.
+
+###### Article 150 R
+
+Le total net des plus-values, à l'exception de celles mentionnées à l'article 150 J, est divisé par cinq. Le résultat est
+ajouté au revenu global net. L'impôt est égal à cinq fois la cotisation supplémentaire ainsi obtenue ; son paiement peut être
+fractionné pendant une période de cinq ans selon des modalités qui sont précisées par décret (1).
+
+Lorsque le revenu global net est négatif, il est compensé, à due concurrence, avec la plus-value. L'excédent éventuel de
+plus-value est ensuite imposé suivant les règles de l'alinéa précédent.
+
+Les dispositions de l'article 163 ne sont pas applicables.
+
+(1)  Annexe II, art. 74 R.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 J
+	  - CGI 163
+	  - CGIAN2 74 R
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
+	**Cité par**:
+
+	  - Loi n°87-516 du 10 juillet 1987 - art. 1 (V)
+	  - Loi n°89-18 du 13 janvier 1989 - art. 24 (V)
 
 
 ##### VIII : Dispositions communes aux différentes catégories de revenus
@@ -3741,6 +4049,37 @@ l'article 294 du même code, sont soumises au même régime que les pensions ali
 
 ##### 1 : Régime de la déclaration contrôlée.
 
+###### Article 96 A
+
+Les contribuables qui réalisent des opérations mentionnées aux articles 92 B et 92 F sont soumis obligatoirement, pour ce qui
+concerne ces opérations, au régime de la déclaration contrôlée.
+
+Les conditions d'application du présent article et notamment les obligations incombant aux intermédiaires ainsi qu'aux
+personnes interposées sont précisées par décret en Conseil d'Etat (1).
+
+(1) Annexe II, art. 39 A à 39 I.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 92 B
+	  - CGI 92 F
+	  - CGIAN2 39 A A CGIAN2 39 I
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
+	**Cité par**:
+
+	  - Arrêté du 3 avril 2015 (V)
+
+
 ###### Article 99
 
 Les contribuables soumis obligatoirement au régime de la déclaration contrôlée ou qui désirent être imposés d'après ce régime
@@ -3825,6 +4164,58 @@ Les dispositions de l'article 150 A s'appliquent à la plus-value résultant de 
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### Exonérations.
+
+###### Article 150 D
+
+Les dispositions de l'article 150 A ne s'appliquent pas :
+
+1° Sous réserve de l'article 302 bis A, aux meubles meublants, aux appareils ménagers et aux voitures automobiles;
+
+2° Aux terrains à usage agricole ou forestier ou aux terrains supportant une construction lorsque le prix de cession,
+l'indemnité d'expropriation, la valeur d'échange, le montant de l'apport à un groupement agricole ou forestier, ou la cession
+de parts de ces mêmes groupements (1) n'excèdent pas au mètre carré un chiffre fixé par décret (2) compte tenu notamment de
+la nature des cultures. Ce chiffre ne peut être inférieur à 33 F [*montant minimum*] pour les vignobles à appellation
+contrôlée et les cultures florales, à 11 F pour les cultures fruitières ou maraîchères et à 5 F pour les autres terrains
+agricoles ou forestiers ;
+
+3° Aux peuplements forestiers ;
+
+4° Aux plus-values résultant de l'encaissement des indemnités d'assurance consécutives à un sinistre partiel ou total sur un
+bien personnel;
+
+5° Aux biens échangés dans le cadre d'opérations de remembrement, d'opérations assimilées, d'opérations d'échanges amiables
+individuels ou collectifs ainsi qu'aux soultes versées par les collectivités sur plus-values transitoires ou permanentes
+consignées au procès-verbal de remembrement rural (art. 21 du code rural) à moins que ne soit apportée la preuve d'une
+intention spéculative. Ces exceptions sont limitées aux opérations conformes aux procédures réglementaires en vigueur. En cas
+de vente de biens reçus à cette occasion, la plus-value est calculée à partir de la date et du prix d'acquisition du bien
+originel ou de la partie constitutive la plus ancienne dans les cas de vente de lots remembrés [*point de départ*] ;
+
+6° Aux plus-values réalisées par les titulaires de pensions vieillesse non assujettis à l'impôt sur le revenu.
+
+1)  Voir Annexe II, art. 74 M.
+
+2)  Annexe III, art. 41 duovicies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 A
+	  - CGI 302 bis A
+	  - CGIAN2 74 M
+	  - CGIAN3 41 duodecies
+	  - Code rural 21
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
 
 
 ##### VIII : Dispositions communes aux différentes catégories de revenus
@@ -4789,6 +5180,167 @@ revenu dû en raison des sommes qui ont supporté cette retenue.
 	  - CGI 119 bis 2
 
 
+##### Réduction d'impôt accordée aux contribuables titulaires d'un compte d'épargne en actions.
+
+###### Article 199 quinquies A
+
+Les achats nets [*définition*] s'entendent de l'excédent annuel des achats à titre onéreux sur les cessions à titre onéreux
+dans la limite de 7.000 F [*montant*] pour une personne célibataire, veuve ou divorcée et de 14.000 F pour un couple marié.
+Les rachats d'actions de sociétés d'investissement à capital variable (SICAV) et de parts de fonds communs de placement sont
+assimilés à des cessions à titre onéreux.
+
+La réduction s'applique sur l'impôt calculé dans les conditions fixées par l'article 197 avant, le cas échéant, application
+des dispositions du VI de cet article ; elle ne peut donner lieu à remboursement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 197 VI
+
+	**Créé par**:
+
+	  - Loi n°82-1126 1982-12-29 ART. 66 3 FINANCES POUR 1983 JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°94-899 du 17 octobre 1994 - art. 1 () JORF 19 octobre 1994
+
+
+###### Article 199 quinquies C
+
+Pour bénéficier de la réduction d'impôt le contribuable doit déposer chez un ou plusieurs intermédiaires agréés et maintenir
+en dépôt pendant toute la période d'application des articles 199 quinquies à 199 quinquies G les valeurs mentionnées à
+l'article 163 octies et les obligations remises en échange des titres transférés à l'Etat en vertu des dispositions de la loi
+de nationalisation n° 82-155 du 11 février 1982, qu'il détient ou que détiennent son conjoint et ses enfants considérés comme
+à charge pour le calcul de l'impôt sur le revenu [*obligation de dépôt*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 octies
+	  - CGI 199 quinquies A A CGI 199 quinquies G
+	  - Loi n°82-155 1982-02-11
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 66 (P) JORF 30 DECEMBRE 1982 en vigueur 1 JANVIER 1983
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°94-899 du 17 octobre 1994 - art. 1 () JORF 19 octobre 1994
+
+
+###### Article 199 quinquies D
+
+A l'exception de la première, aucune réduction ne peut être pratiquée si, dans l'ensemble des autres comptes et du compte
+d'épargne en actions, pour l'année au titre de laquelle la réduction est demandée, la somme algébrique des soldes nets
+trimestriels des opérations portant sur les valeurs mentionnées aux articles
+
+199 quinquies et 199 quinquies C pondérés chacun par le nombre de trimestres qui séparent la date où ils sont constatés du 31
+décembre de l'année considérée, est négative. Les soldes nets trimestriels s'entendent de la différence nette trimestrielle
+entre les achats et cessions à titre onéreux. Chacun de ces soldes est réputé être constaté au premier jour du trimestre
+correspondant.
+
+Par ailleurs, aucune réduction ne peut être pratiquée si, dans l'ensemble des autres comptes, au 31 décembre de l'année au
+titre de laquelle la réduction est demandée, pour toutes les opérations portant sur les valeurs soumises à l'obligation de
+dépôt définie à l'article 199 quinquies C, la somme algébrique des soldes nets annuels constatés depuis le 1er janvier de
+l'année qui précède celle de l'ouverture du compte d'épargne en actions, ou depuis le 1er janvier 1982 si ce compte est
+ouvert en 1983 ou 1984, est négative. Les soldes nets annuels s'entendent de la différence nette annuelle entre les achats et
+cessions à titres onéreux. Pour ces calculs, il n'est pas tenu compte des achats nets à hauteur desquels une déduction a été
+demandée en application des articles 163 sexies à 163 quindecies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 sexies A CGI 163 quindecies
+	  - CGI 199 quinquies
+	  - CGI 199 quinquies C
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 66 (P) JORF 30 DECEMBRE 1982 en vigueur 1 JANVIER 1983
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°94-899 du 17 octobre 1994 - art. 1 () JORF 19 octobre 1994
+
+
+###### Article 199 quinquies E
+
+Les contribuables ayant ouvert un compte d'épargne en actions sont réputés avoir définitivement renoncé au bénéfice de la
+déduction prévue à l'article 163 quindecies [*présomption*].
+
+Les achats et cessions à titre onéreux effectués dans le cadre d'un compte d'épargne en actions ne sont pas pris en compte
+pour le calcul des réintégrations dans le revenu imposable prévues aux articles 163 septies, 163 quaterdecies et 163
+quindecies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 quaterdecies
+	  - CGI 163 quindecies
+	  - CGI 163 septies
+
+	**Créé par**:
+
+	  - Loi n°82-1126 1982-12-29 ART. 66 6 FINANCES POUR 1983 JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°94-899 du 17 octobre 1994 - art. 1 () JORF 19 octobre 1994
+
+
+###### Article 199 quinquies F
+
+Les intermédiaires agréés doivent communiquer chaque année à l'administration et au contribuable le solde annuel des achats
+et des cessions à titre onéreux effectués sur le compte d'épargne en actions ainsi que les sommes algébriques des soldes nets
+trimestriels pondérés et des soldes nets annuels définis à l'article
+
+199 quinquies D [*obligation de communication*].
+
+Le contribuable doit, par déclaration spéciale jointe à sa déclaration de revenus, fournir à l'administration les
+renseignements prévus au premier alinéa et joindre les états reçus des intermédiaires financiers [*obligation de dépôt,
+formalités obligatoires*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 quinquies D
+
+	**Créé par**:
+
+	  - Loi n°82-1126 1982-12-29 ART. 66 7 FINANCES POUR 1983 JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°94-899 du 17 octobre 1994 - art. 1 () JORF 19 octobre 1994
+
+
 ##### Section VI : Dispositions spéciales applicables en cas de cession, de cessation ou de décès
 
 ###### Article 201 ter
@@ -5470,6 +6022,39 @@ III. (Disposition périmée).
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 216 A
+
+Lorsqu'ils ne sont pas déductibles des résultats imposables d'une société créancière, les abandons de créances consentis par
+celle-ci à une autre société dans laquelle elle détient une participation au sens de l'article 145 ne sont pas pris en compte
+pour la détermination des résultats imposables de la société débitrice.
+
+Pour bénéficier de cette disposition, la société débitrice doit s'engager à augmenter son capital au profit de la société
+créancière, d'une somme au moins égale aux abandons de créances visés au premier alinéa. L'engagement doit être joint à la
+déclaration de résultats de l'exercice au cours duquel les abandons sont intervenus ; l'augmentation de capital doit être
+effectuée, en numéraire ou par conversion de créance, avant la clôture du second exercice suivant.
+
+En cas de manquement à l'engagement pris, la société débitrice doit rapporter le montant des abandons accordés aux résultats
+imposables de l'exercice au cours duquel ceux-ci sont intervenus.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 145
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 15 (P) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+
+
 ###### Article 216 bis
 
 Les intérêts et produits, encaissés après le 31 décembre 1955, des actions A de la Société nationale des chemins de fer
@@ -5714,6 +6299,41 @@ pendant l'année de l'exigibilité de cette imposition et les deux années suiva
 	  - Loi n°2005-1719 du 30 décembre 2005 - art. 21 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
+###### Article 220 B
+
+Le crédit d'impôt pour dépenses de recherche défini à l'article 244 quater B est imputé sur l'impôt sur les sociétés dû par
+l'entreprise dans les conditions prévues à l'article 199 ter B (1).
+
+(1) Voir également annexe III art. 49 septies L.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 ter B
+	  - CGI 244 quater B
+	  - CGIAN3 49 septies L
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+	  - TXT_ASSOCIE: Instruction 2000-01-21 4A-1-00
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 67 (P) JORF 30 décembre 1982, en vigueur le 1er janvier 1983
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 49 septies M (V)
+	  - Code de la recherche - art. L131-1 (Ab)
+	  - Code de la recherche - art. L511-1 (V)
+
+
 ###### Article 220 bis
 
 1. Toute société qui attribue gratuitement à l'ensemble de son personnel des actions ou parts sociales de son capital a droit
@@ -5920,6 +6540,39 @@ Cette exonération s'applique également aux centres de gestion agréés mention
 
 ##### Section I : Taxe d'apprentissage
 
+###### Article 225
+
+La taxe est assise sur les salaires, selon les bases et modalités prévues aux articles 231 et suivants. Toutefois les
+exonérations prévues par les articles 231 bis K et 231 bis L ne sont pas applicables.
+
+Son taux est fixé à 50 %.
+
+Pour le calcul de la taxe, toute fraction du montant des appointements imposables n'excédant pas 10 F est négligé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 231 ET S.
+	  - CGI 231 bis K
+	  - CGI 231 bis L
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 1982-12-29 art. I 2 Finances pour 1983 JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 224 (VD)
+	  - Code général des impôts, CGI. - art. 1599 quinquies A (Ab)
+	  - Code général des impôts, CGI. - art. 230 H (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (V)
+
+
 ###### Article 226
 
 En application de l'article L 118-1 du code du travail, une partie du salaire versé aux apprentis est admise, sans
@@ -5950,6 +6603,37 @@ Cette partie de salaire ne donne lieu à aucune charge fiscale ou parafiscale.
 
 	  - HISTO: EDITION 1979-07-01
 	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 226 A
+
+En application de l'article 9 de la loi n° 79-575 du 10 juillet 1979, une fraction de la taxe d'apprentissage dont le montant
+est fixé par décret en Conseil d'Etat (1) fait obligatoirement l'objet par l'employeur assujetti, avant le 1er mars, d'un
+versement à un fonds national destiné à assurer une compensation forfaitaire des salaires versés par les maîtres
+d'apprentissage, définis à l'article L. 118-6 du code du travail, et qui correspond au temps passé par leurs apprentis dans
+un centre de formation d'apprentis.
+
+(1) Annexe II art. 140 JA.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 140 JA
+	  - Loi n°79-575 du 10 juillet 1979 - art. 9, v. init.
+	  - Code du travail - art. L118-6 (M)
+
+	**Créé par**:
+
+	  - Loi n°79-575 1979-07-10 art. 9 JORF 11 JUILLET 1979
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 103 (P) JORF 30 DECEMBRE 1982 en vigueur le 1 JANVIER 1983
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
 
 
 ###### Article 226 bis
@@ -6056,6 +6740,48 @@ Il peut rectifier les déclarations en se conformant à la procédure prévue à
 	  - Livre des procédures fiscales - art. L10
 	  - Livre des procédures fiscales - art. L15 (V)
 	  - Livre des procédures fiscales - art. L55 (M)
+
+
+###### Article 230 B
+
+La taxe d'apprentissage est due pour les établissements situés dans les départements du Bas-Rhin, du Haut-Rhin et de la
+Moselle, quel que soit le siège du principal établissement de l'entreprise (1).
+
+Toutefois, le taux de la taxe est réduit au pourcentage fixé par le décret prévu à l'article 226 et le redevable ne peut être
+exonéré sur sa demande qu'à concurrence des versements prévus au même article (2).
+
+Le versement prévu par l'article 226 A est dû pour les établissements mentionnés au premier alinéa. Il s'ajoute à la taxe
+d'apprentissage.
+
+(1) Voir Annexe II, art. 140 N.
+
+(2) Annexe II, art. 140 M.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 226
+	  - CGI 226 A
+	  - CGIAN2 140 M
+	  - CGIAN2 140 N
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 103 (P) JORF 30 DECEMBRE 1982 en vigueur 1er JANVIER 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1599 quinquies A (Ab)
+	  - Code général des impôts, CGI. - art. 230 H (V)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
 
 
 ###### Article 230 C
@@ -6175,6 +6901,54 @@ redevance fixe des mines et précisent les conditions de l'exonération prévue 
 	  - Modification directe incorporée dans l'édition du 4 juillet 1992
 
 
+##### Section VII : Cotisation perçue au titre de la participation des employeurs à l'effort de construction.
+
+###### Article 235 bis
+
+1. Les employeurs qui, au 31 décembre de l'année suivant celle du paiement des salaires, n'ont pas procédé, dans les
+conditions fixées par décret en Conseil d'Etat (1) aux investissements prévus à l'article L 313-1 du code de la construction
+et de l'habitation sont, dans la mesure où ils n'ont pas procédé à ces investissements, assujettis à une cotisation de 2 %
+[*taux, pourcentage*] calculée sur le montant des salaires payés par eux au cours de l'année écoulée, déterminée selon les
+modalités prévues aux articles 231 et suivants ; toutefois, les exonérations mentionnées aux articles 231 bis K et 231 bis L
+ne sont pas applicables.
+
+Les agents des impôts peuvent exiger de ces employeurs et, le cas échéant, des organismes bénéficiaires des investissements,
+la justification qu'il a été satisfait aux obligations qui leur sont imposées (2).
+
+2. (Abrogé).
+
+(1) Voir Annexe II, art. 161 à 163 et code de la construction et de l'habitation, art. R313-1 à R313-56.
+
+(2) Voir livre des procédures fiscales, art. R81-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 231 bis L
+	  - CGI 231 et S.
+	  - CGI R81-1 CGI 231 bis K
+	  - CGIAN2 161
+	  - CGIAN2 162
+	  - CGIAN2 163
+	  - Code de la construction L313-1
+	  - Code de la construction R313-1 A R313-56
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 9 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 261 (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 161 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 162 (VD)
+
+
 ##### Section VIII : Prélèvement spécial sur les bénéfices réalisés à l'occasion de la création d'une force de dissuasion.
 
 ###### Article 235 ter
@@ -6285,28 +7059,61 @@ temporaire est calculé dans les conditions fixées par l'article 237 bis A-I, t
 ###### Article 235 ter E
 
 Le taux de la participation prévue à l'article L 950-1 du code du travail est fixé à 1,1 % du montant des salaires payés
-pendant l'année en cours, déterminé selon les modalités prévus aux articles 231 et suivants ; toutefois l'exonération
-mentionnée à l'article 231 bis K n'est pas applicable.
+pendant l'année en cours, déterminé selon les modalités prévus aux articles 231 et suivants ; toutefois les exonérations
+mentionnées aux articles 231 bis K et 231 bis L ne sont pas applicables.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 231 1 et S.
 	  - CGI 231 bis K
+	  - CGI 231 bis L
+	  - CGI 231 et S.
 	  - Code du travail - art. L950-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-	**Créé par**:
-
-	  - Ordonnance 82-283 1982-03-26 art. 2 JORF 30 MARS 1982
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. D214-61 (V)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 9 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
+
+###### Article 235 ter EA
+
+Pour les employeurs qui, en raison de l'accroissement de l'effectif de leur entreprise, atteignent ou dépassent l'effectif de
+dix salariés, le montant des salaires retenu pour le calcul de la base de la participation est diminué pendant cinq ans d'un
+produit du salaire moyen versé par l'entreprise au cours de l'année (1). 
+
+Ce produit est égal à neuf fois le salaire moyen la première année, sept fois la deuxième année, cinq fois la troisième
+année, trois fois la quatrième année, une fois la cinquième année. 
+
+Le salaire moyen pour une année donnée est défini comme la somme des salaires mensuels moyens. Le salaire mensuel moyen est
+lui-même défini comme le rapport de la masse salariale mensuelle aux effectifs salariés en début de mois.
+
+(1) De 1979 à 1982 ces employeurs ont bénéficié à titre exceptionnel d'un abattement à la base sur le montant des salaires
+retenu pour le calcul de la participation (loi n° 79-575 du 10 juillet 1979, art. 5 ; loi n° 81-734 du 3 août 1981, art. 24-
+V.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Cite**:
+
+	  - Loi n°79-575 du 10 juillet 1979 - art. 5, v. init.
+	  - Loi n°81-734 1981-08-03 ART. 24 V FINANCES RECTIFICATIVE POUR 1981
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 104 () JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
 
 
 ##### 4° : Employeurs de cinquante salariés et plus
@@ -7556,7 +8363,7 @@ Pour l'application de ces dispositions les donations entre vifs ne sont pas oppo
 
 I  Sous réserve des conventions internationales, les personnes qui ne sont pas fiscalement domiciliées en France au sens de
 l'article 4 B, ou dont le siège social est situé hors de France [*à l'étranger*], sont soumises à un prélèvement d'un tiers
-sur les plus-values imposables en application des articles 35 A et 150 A et résultant de la cession d'immeubles, de droits
+sur les plus-values imposables en application de l'article 150 A et résultant de la cession d'immeubles, de droits
 immobiliers ou d'actions et parts de sociétés non cotées en bourse dont l'actif est constitué principalement par de tels
 biens et droits.
 
@@ -7570,9 +8377,9 @@ ces Etats sont exonérés dans les conditions prévues à l'article 131 sexies.
 II  Le prélèvement mentionné au I est libératoire de l'impôt sur le revenu dû en raison des sommes qui ont supporté ce
 prélèvement.
 
-1)  Voir art. 289 A.
+(1)  Voir art. 289 A.
 
-2)  Voir annexe II, art. 171 ter A et 171 quater.
+(2)  Voir annexe II, art. 171 ter A et 171 quater.
 
 **Liens relatifs à cet article**
 
@@ -7581,10 +8388,13 @@ prélèvement.
 	  - CGI 131 sexies
 	  - CGI 150 A
 	  - CGI 289 A
-	  - CGI 35 A
 	  - CGI 4 B
 	  - CGIAN2 171 quater
 	  - CGIAN2 171 ter A
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
 
 	**Cité par**:
 
@@ -7606,9 +8416,13 @@ prélèvement.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 171 quater (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 317 B (V)
 
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - TXT_ASSOCIE: Instruction 1994-09-07 8M-5-94
 
 
 ##### B : Plus-values de cessions de droits sociaux.
@@ -7654,9 +8468,9 @@ sexies.
 
 ###### Article 244 bis C
 
-Les dispositions des articles 92 A et 92 B ne s'appliquent pas aux plus-values réalisées à l'occasion de cessions à titre
-onéreux de valeurs mobilières effectuées par les personnes qui ne sont pas fiscalement domiciliées en France au sens de
-l'article 4 B, ou dont le siège social est situé hors de France [*à l'étranger*].
+Les dispositions de l'article 92 B ne s'appliquent pas aux plus-values réalisées à l'occasion de cessions à titre onéreux de
+valeurs mobilières effectuées par les personnes qui ne sont pas fiscalement domiciliées en France au sens de l'article 4 B,
+ou dont le siège social est situé hors de France.
 
 Il en est de même des plus-values réalisées par les organisations internationales, les Etats étrangers, les banques centrales
 et les institutions financières publiques de ces Etats lorsque les conditions prévues à l'article 131 sexies sont remplies.
@@ -7665,19 +8479,24 @@ et les institutions financières publiques de ces Etats lorsque les conditions p
 
 	**Cite**:
 
-	  - CGI 131 sexies
-	  - CGI 4 B
-	  - CGI 92 A
-	  - CGI 92 B
+	  - CGI 92 B, 4 B, 131 sexies
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 10 juillet 1983
 
 	**Anciens textes**:
 
 	  - Loi n°76-660 1976-07-19 ART. 8 III AL. 3 ET 5
 	  - Loi n°78-688 du 5 juillet 1978 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
 
 
 ##### XXIV : Sociétés civiles visées à l'article 20 de la loi n° 64-1247 du 16 décembre 1964 instituant le bail à construction et relative aux opérations d'urbanisation.
@@ -7779,6 +8598,97 @@ reconstitution des gisements.
 	  - Loi n°80-1094 du 30 décembre 1980 - art. 6 (P) JORF 31 décembre 1980 en vigueur le 1er janvier 1981
 
 
+###### Article 244 quaterdecies
+
+I - La déduction prévue à l'article 244 undecies s'applique aux investissements réalisés entre le 1er octobre 1980 et le 31
+décembre 1982.
+
+II - En ce qui concerne les investissements réalisés du 1er octobre au 31 décembre 1980, la déduction ne peut être pratiquée
+que si l'entreprise renonce pour l'année 1980 à celle instituée par l'article premier de la loi n° 79-525 du 3 juillet 1979
+relative au soutien de l'investissement productif industriel.
+
+III - En ce qui concerne les investissements réalisés ou créés à compter du 1er janvier 1982, le bénéfice de la déduction est
+subordonné :
+
+- pour les entreprises comptant au plus 100 salariés employés à titre permanent à la date d'ouverture de l'exercice au cours
+duquel l'investissement a été réalisé, à la condition que l'effectif des salariés employés à titre permanent à la date de
+clôture de cet exercice soit au moins égal à l'effectif des salariés employés dans les mêmes conditions à l'ouverture du même
+exercice ;
+
+- pour les entreprises employant plus de 100 salariés employés à titre permanent à la date d'ouverture de l'exercice au cours
+duquel l'investissement a été réalisé, à la condition que l'effectif des salariés employés à titre permanent à la date de
+clôture de cet exercice, soit supérieur à l'effectif des salariés employés dans les mêmes conditions à l'ouverture du même
+exercice.
+
+Toutefois, pour les exercices clos jusqu'au 31 décembre 1982, la condition mentionnée ci-dessus s'apprécie par rapport à
+l'effectif des salariés employés à titre permanent au 1er octobre 1981.
+
+Un décret en Conseil d'Etat adapte, en tant que de besoin, les dispositions du présent paragraphe au cas des entreprises
+nouvelles, de celles ayant procédé à des opérations de fusion, de scission ou d'apport partiel d'actifs ainsi qu'au cas de
+celles dont l'exercice ne coïncide pas avec l'année civile.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 undecies
+	  - Loi n°79-525 du 3 juillet 1979 - art. 1, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 2003-03-31
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 1982-12-29 art. 71 3 Finances pour 1983 JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 1 () JORF 2 avril 2003
+	  - HISTO: Edition du 10 juillet 1983
+	  - HISTO: Edition du 1er janvier 2003
+
+
+###### Article 244 quindecies
+
+La déduction prévue à l'article 244 undecies est opérée sur les résultats de l'exercice au cours duquel l'investissement a
+été réalisé, au prorata du temps écoulé entre la date de cette réalisation et la clôture de l'exercice. Le solde est déduit
+des résultats de l'exercice suivant.
+
+En cas de cession d'une immobilisation créée ou acquise avec le bénéfice de la déduction avant l'expiration d'un délai de
+cinq ans, la déduction est rapportée au résultat imposable de l'exercice de la cession dans la limite de 10 % ou 15 % de la
+valeur non amortie du bien ou de 10 % ou 15 % de son prix de vente si ce dernier est supérieur à cette valeur, selon que le
+taux de la déduction à laquelle l'immobilisation cédée avait donné lieu, avait été de 10 % ou 15 %. Il en est de même lorsque
+le local commercial dont l'aménagement a ouvert droit à la déduction cesse de remplir les conditions prévues au présent
+article.
+
+Lorsque l'immobilisation est cédée à une entreprise qui l'a prise en location de manière continue depuis sa création ou son
+acquisition à l'état neuf, le locataire peut, s'il remplit les conditions prévues au présent article et en contrepartie de la
+réintégration effectuée par le loueur, pratiquer la déduction. Celle-ci est calculée sur le prix de cession du bien.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 undecies
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 1982-12-29 art. 71 3 Finances pour 1983 JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 2003-03-31
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 1 () JORF 2 avril 2003
+	  - HISTO: Edition du 10 juillet 1983
+	  - HISTO: Edition du 1er janvier 2003
+
+
 ###### Article 244 sexdecies
 
 Un décret en Conseil d'Etat fixe les conditions d'application des articles 244 undecies à 244 quindecies, les déclarations et
@@ -7839,6 +8749,34 @@ d'assurances de toute nature, les entreprises de location et de gestion d'immeub
 	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 1 () JORF 2 avril 2003
 	  - HISTO: Edition du 1er janvier 2003
 	  - HISTO: Edition du 1er juillet 1981
+
+
+###### Article 244 undecies
+
+Pour la détermination de leur résultat imposable, les entreprises industrielles, commerciales ou artisanales répondant aux
+conditions posées à l'article 244 terdecies peuvent déduire de leur résultat une somme égale à 10 % de leurs investissements
+réalisés entre le 1er octobre 1980 et le 31 décembre 1981 et à 15 % de ceux réalisés en 1982.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 terdecies
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 1982-12-29 art. 71 3 finances pour 1983 JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 2003-03-31
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 1 () JORF 2 avril 2003
+	  - HISTO: Edition du 10 juillet 1983
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ##### Section V : Impôt sur le revenu, impôt sur les sociétés et taxes visées au chapitre III
@@ -7912,6 +8850,52 @@ III).
 
 	  - Code général des impôts, CGI. - art. 248 E (V)
 	  - Code général des impôts, CGI. - art. 54 septies (V)
+
+
+##### 2° : Plus-values mobilières réalisées par les particuliers
+
+###### Article 248 B
+
+Les dispositions des articles 92, 92 B et 160 ne sont pas applicables aux échanges de titres effectués dans le cadre de la
+loi de nationalisation n° 82-155 du 11 février 1982.
+
+En cas de vente des titre reçus en échange :
+
+La plus ou moins-value est calculée à partir du prix ou de la valeur d'acquisition des titres ayant ouvert droit à
+l'indemnisation ;
+
+La plus-value relève, le cas échéant, des dispositions de l'article 160, les conditions d'application de cet article étant
+appréciées à la date de l'échange.
+
+Pour l'application de ces dispositions, le remboursement des titres reçus en échange est assimilé à une vente.
+
+**Nota:**
+
+NOTA : Dispositions applicables, à l'exception de celle relative à l'article 160, en ce qui concerne les opérations d'échange
+des obligations émises par l'office national d'études et de recherches aérospatiales contre des actions de la société Matra
+(Loi n° 81-1179 du 31 décembre 1981, art. 19-IV).Elles sont également applicables à l'échange de ces obligations contre des
+obligations émises par la caisse nationale de l'industrie (loi n°82-1152 du 30 décembre 1982, art. 14).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 92, 92 B, 160
+	  - Loi n°81-1179 1981-12-31 art. 19 Finances rectificative pour 1981
+	  - Loi n°82-155 1982-02-11
+	  - Loi n°82-1152 du 30 décembre 1982 - art. 14, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
 
 
 ##### 3° : Subrogation des obligations
@@ -8892,6 +9876,36 @@ du 28 juin 1982, art. 3-V).
 	  - Loi n°92-655 1992-07-15 art. 1 JORF 16 juillet 1992 en vigueur le 13 avril 1992
 
 
+###### Article 281 bis G
+
+Le taux majoré de la taxe sur la valeur ajoutée s'applique aux opérations d'achat, d'importation, de vente, de livraison, de
+commission, de courtage ou de façon portant sur les pelleteries tannées, apprêtées et lustrées, neuves ou d'occasion
+[*fourrures*], à l'exception de celles provenant de lapins ou de moutons d'espèces communes non dénommées, ainsi que sur les
+vêtements et accessoires dans la valeur desquels ces pelleteries entrent pour 40 % et plus (1). 
+
+(1) Dispositions applicables aux opérations pour lesquelles la taxe est exigible à compter du 1er janvier 1983 (loi n°
+82-1126 du 29 décembre 1982 art. 2-II-2).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°82-1126 1982-12-29 ART. 2 II 2
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 2 (V) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-716 1991-07-26 art. 11 XI
+
+	**Abrogé par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 11 (V) JORF 27 juillet 1991 en vigueur le 1er janvier 1993
+	  - Loi n°92-655 1992-07-15 art. 1 JORF 16 juillet 1992 en vigueur le 13 avril 1992
+
+
 ##### II : Franchise et décote.
 
 ###### Article 282 bis
@@ -9836,6 +10850,92 @@ prix d'acquisition. Les conditions de l'option sont fixées par décret en conse
 
 ##### Régime applicable jusqu'au 31 décembre 1989.
 
+###### Article 302 bis F
+
+Une taxe de protection sanitaire et d'organisation des marchés des viandes est perçue :
+
+- dans les abattoirs privés et à l'importation en provenance des pays autres que ceux appartenant aux communautés
+européennes, pour le compte de l'Etat (1) ;
+
+- dans les abattoirs publics, à concurrence de 67 % sur les viandes de l'espèce bovine et de 57 % sur les viandes des autres
+espèces, pour le compte de l'Etat, et à concurrence respectivement de 33 % et 43 % pour le compte des collectivités locales
+ou de leurs groupements propriétaires desdits abattoirs.
+
+(1) Disposition applicable à compter du 1er janvier 1983.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+	  - Décret n°90-798 1990-09-10
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 28 () JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
+
+	**Abrogé par**:
+
+	  - Loi n°88-1193 1988-12-29 art. 35 Finances rectificative pour 1988
+
+
+###### Article 302 bis G
+
+Le tarif de la taxe est fixé par kilogramme de viande net, pour une année civile, à partir des prix directeurs définis ci-
+dessous, en vigueur au 15 novembre de l'année précédente.
+
+Par espèce, le taux à prendre est égal :
+
+- pour les gros bovins et les veaux, à 0,37 % du prix au kilogramme net des gros bovins obtenu en affectant le prix
+d'orientation communautaire de campagne, exprimé en kilogramme vif, d'un coefficient de rendement à l'abattage de 54 %;
+
+- pour les espèces chevaline, asine et leurs croisements, à 0,25 % du prix au kilogramme net des gros bovins défini ci-
+dessus;
+
+- pour les ovins, à 0,21 % du prix de base communautaire de la viande ovine, et pour les caprins à 0,18 % de ce même prix;
+
+- pour les porcins, à 0,54 % du prix de base communautaire;
+
+- pour les volailles, à 0,14 % du prix obtenu en faisant la somme du prix d'écluse communautaire et du prélèvement pour le
+poulet éviscéré avec abats.
+
+Un arrêté conjoint du ministre de l'économie et des finances et du ministre de l'agriculture constate pour chaque année
+civile et par espèce :
+
+- les prix directeurs de campagne en vigueur le 15 novembre;
+
+- le taux de conversion en francs de l'unité de compte communautaire en vigueur le 15 novembre pour les échanges agricoles.
+
+Le tarif de la taxe est exprimé en francs kilogramme net (1).
+
+1)  Pour l'année 1981, arrêté du 26 décembre 1980 (J.O. du 31). Pour l'année 1982, arrê té du 30 décembre 1981 (J.O. du 20
+janvier 1982). Pour l'année 1983, arrêté du 30 décembre 1982 (J.O. du 12 janvier 1983). Pour l'année 1984, arrêté du 30
+décembre 1983 (JO du 31). Pour l'année 1985, arrêté du 21 décembre 1984 (JO du 30).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1980-12-16
+	  - Arrêté 1981-12-30
+	  - Arrêté 1982-12-30
+	  - Arrêté 1983-12-30
+	  - Arrêté 1984-12-21
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+	  - Décret n°90-798 1990-09-10
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 28 () JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
+
+	**Abrogé par**:
+
+	  - Loi n°88-1193 1988-12-29 art. 35 Finances rectificative pour 1988
+
+
 ###### Article 302 bis H
 
 La taxe est due par les personnes physiques ou morales qui, lors de l'abattage, sont propriétaires ou copropriétaires des
@@ -9864,6 +10964,68 @@ sanctions applicables à cette taxe. Les réclamations sont présentées, instru
 	**Codifié par**:
 
 	  - Décret n°90-798 1990-09-10
+
+
+###### Article 302 bis I
+
+La taxe de protection sanitaire et d'organisation des marchés des viandes frappe à l'importation les viandes, préparées ou
+non, des animaux mentionnés à l'article 302 bis G. Elle est due par l'importateur ou par le déclarant en douane lors du
+dédouanement pour la mise à la consommation. Elle est perçue par le service des douanes. Elle est recouvrée suivant les mêmes
+règles, sous les mêmes garanties qu'en matière de droit de douane. Les contraventions sont punies, les poursuites effectuées
+et les instances instruites et jugées comme en matière de douane et par les tribunaux compétents en cette matière (1).
+
+(1) Cf. Annexe III, art. 111 quater J et 111 quater K.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 302 bis G CGIAN3 111 quater J
+	  - CGIAN3 111 quater K
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+	  - Décret n°90-798 1990-09-10
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 28 () JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
+	  - Loi n°82-1152 du 30 décembre 1982 - art. 30 (V) JORF 31 DECEMBRE 1982
+
+	**Abrogé par**:
+
+	  - Loi n°88-1193 1988-12-29 art. 35 Finances rectificative pour 1988
+
+
+###### Article 302 bis J
+
+Un décret fixe les conditions d'application des articles 302 bis F à 302 bis H et définit notamment les modalités de calcul
+du poids de viande net (1).
+
+(1) Annexe III, art. 111 quater A à 111 quater I.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 302 bis F
+	  - CGI 302 bis G
+	  - CGI 302 bis H
+	  - CGIAN3 111 quater A A CGIAN3 111 quater I
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+	  - Décret n°90-798 1990-09-10
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 28 () JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
+
+	**Abrogé par**:
+
+	  - Loi n°88-1193 1988-12-29 art. 35 Finances rectificative pour 1988
 
 
 ### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
@@ -10055,9 +11217,8 @@ II  La déclaration de résultat que ces entreprises souscrivent en application 
 
 - le relevé des provisions.
 
-Ces entreprises sont, par ailleurs, dispensées de fournir à l'administration le bilan et les autres documents prévus par le
-premier alinéa de l'article 54. En outre, lors des vérifications de comptabilité, elles sont dispensées de présenter leur
-bilan.
+Ces entreprises sont tenues de produire un bilan abrégé à l'appui de leurs déclarations de résultats. Elles sont, par
+ailleurs, dispensées de fournir à l'administration les autres documents prévus par le premier alinéa de l'article 54.
 
 III  Le bénéfice des dispositions du II est réservé :
 
@@ -10098,16 +11259,20 @@ renoncer au bénéfice du présent article, ainsi que les conditions d'exercice 
 
 	  - CGI 302 septies A CGIAN2 38
 	  - CGI 53
-	  - CGI 54
+	  - CGI 54 Al. 1
 	  - CGIAN2 267 septies A
 	  - CGIAN2 267 septies B
 	  - CGIAN2 267 septies C
 	  - CGIAN2 38 bis
 	  - Loi n°66-879 du 29 novembre 1966 - art. 36 (M)
 
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
 	**Modifié par**:
 
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 85 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 72 (V) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
 
 
 ###### Article 302 septies A ter
@@ -10125,6 +11290,38 @@ commun d'imposition du bénéfice et du chiffre d'affaires réels.
 	**Anciens textes**:
 
 	  - Loi n°77-1467 1977-12-30 ART. 71 FINANCES POUR 1978
+
+
+##### 3° : Dispositions communes aux taxes sur le chiffre d'affaires et aux bénéfices industriels et commerciaux
+
+###### Article 302 septies A ter A
+
+Les contribuables relevant de l'impôt sur le revenu et soumis au régime défini à l'article 302 septies A bis peuvent tenir
+une comptabilité super-simplifiée. Cette comptabilité n'enregistre journellement que le détail des encaissements et des
+paiements. Les créances et les dettes sont constatées à la clôture de l'exercice ; les stocks et les travaux en cours peuvent
+être évalués selon une méthode simplifiée définie par un arrêté du ministre chargé du budget (1). 
+
+(1) Annexe IV art. 4 LA.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 302 septies A bis
+	  - CGIAN4 4 LA
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 72 (V) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies-00 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies-00 B (V)
 
 
 #### Chapitre I bis A : Régimes d'imposition des titulaires de revenus non commerciaux redevables de la taxe sur la valeur ajoutée.
@@ -12159,6 +13356,47 @@ cuvée.
 #### Chapitre IV : Tabacs
 
 ##### Section I : Tabacs
+
+##### 0I : Dispositions générales
+
+###### Article 564 decies
+
+Sont assimilés aux tabacs manufacturés :
+
+1°) Les produits destinés à être fumés, prisés ou mâchés, même s'ils ne sont que partiellement constitués de tabac ;
+
+2°) Les cigarettes et produits à fumer, même s'ils ne contiennent pas de tabac, à la seule exclusion des produits qui sont
+destinés à à un usage médicamenteux.
+
+(1) Voir annexe II, art. 275 A à 275 G.
+
+**Nota:**
+
+(1) Voir les articles 275 A à 275 G de l'annexe II.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 275 A à 275 G
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 18 (V) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L3816-1 (VT)
+	  - Code de la santé publique - art. L3822-4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+
 
 ##### I : Régime économique
 
@@ -14717,6 +15955,67 @@ nationale d'exploitation industrielle des tabacs et allumettes.
 	  - Décret n°95-6 du 4 janvier 1995 - art. 1 (V) JORF 5 janvier 1995
 
 
+###### Article 568
+
+Le monopole de vente au détail est confié à l'administration des impôts qui l'exerce par l'intermédiaire de débitants
+désignés comme ses préposés et tenus à redevances.
+
+Ces redevances sont recouvrées selon les règles, conditions et garanties prévues en matière domaniale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 18 (V) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
+	**Cité par**:
+
+	  - Décret n°2006-157 du 13 février 2006 - art. 2 bis (Ab)
+	  - Décret n°2006-157 du 13 février 2006 - art. 3 (Ab)
+	  - Décret n°2006-157 du 13 février 2006 - art. 4 (Ab)
+	  - Décret n°2007-906 du 15 mai 2007 - art. 1 (Ab)
+	  - Décret n°2007-906 du 15 mai 2007 - art. 16 (Ab)
+	  - Arrêté du 26 décembre 2007 (V)
+	  - Décret n°2007-1861 du 26 décembre 2007 (V)
+	  - Décret n°2007-1862 du 26 décembre 2007 (V)
+	  - Arrêté du 6 février 2009 (V)
+	  - Arrêté du 24 mars 2010 (V)
+	  - Décret n°2010-720 du 28 juin 2010 (V)
+	  - Décret n°2010-720 du 28 juin 2010 - art. 51 (V)
+	  - Arrêté du 30 décembre 2010 (V)
+	  - Arrêté du 20 décembre 2011 (V)
+	  - Arrêté du 17 décembre 2012 (V)
+	  - Décret n°2013-541 du 25 juin 2013 (Ab)
+	  - Arrêté du 18 décembre 2013 (V)
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Arrêté du 17 décembre 2015 (V)
+	  - Arrêté du 19 décembre 2016 (V)
+	  - Décret n°2016-1139 du 22 août 2016 - art. 2
+	  - Décret n°2016-1987 du 30 décembre 2016 (V)
+	  - Décret n°2016-1987 du 30 décembre 2016 - art. 1 (V)
+	  - Décret n°2016-1987 du 30 décembre 2016 - art. 2 (V)
+	  - Décret n°2016-1987 du 30 décembre 2016 - art. 5 (V)
+	  - Décret n°2016-1987 du 30 décembre 2016 - art. 6
+	  - Décret n°2017-977 du 10 mai 2017 (V)
+	  - Code de la santé publique - art. D3511-15 (Ab)
+	  - Code de la santé publique - art. D3512-9-1 (V)
+	  - Code de la sécurité sociale. - art. L131-8 (V)
+	  - Code général des impôts, CGI. - art. 568 bis (V)
+	  - Code général des impôts, CGI. - art. 570 (V)
+	  - Code général des impôts, CGI. - art. 572 bis (V)
+	  - Code général des impôts, CGI. - art. 573 (Ab)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 AJ (V)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+
 ###### Article 571
 
 Les fournisseurs mentionnés à l'article 570 sont tenus de déclarer à l'administration des impôts chacun de leurs
@@ -16546,6 +17845,35 @@ date d'acquisition.
 	  - Loi n°98-1266 1998-12-30 art. 39 I 4 JORF 31 décembre 1998
 
 
+###### Article 711 A
+
+Le taux réduit de la taxe de publicité foncière ou de droit d'enregistrement prévu aux articles 710 et 711 n'est pas
+applicable aux acquisitions d'immeubles situés en France faites par des personnes morales dont le siège est situé dans un
+pays ou territoire n'ayant pas conclu avec la France de convention d'assistance administrative en vue de lutter contre la
+fraude et l'évasion fiscales [*paradis fiscal*].
+
+**Nota:**
+
+Nota : Les droits d'enregistrement et la taxe de publicité foncièr exigibles sur les mutations de propriété à titre onéreux
+d'immeubles ont été transférés aux départements dans les conditions fixées aux articles 1594 A à 1594 E (loi n° 83-1179 du 29
+décembre 1983, art. 28
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 710
+	  - CGI 711
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 4 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
+
 ###### Article 712
 
 Les cessions de constructions provisoires, réalisées en application de l'article L 60 du code du domaine de l'Etat, sont
@@ -16872,7 +18200,7 @@ lesquels le droit d'enregistrement n'est pas établi, sont assujettis à un droi
 
 ###### Article 738
 
-Sont enregistrées au droit fixe de 250 F [*montant*] :
+Sont enregistrées au droit fixe de 300 F [*montant*] :
 
 1° Les cessions, subrogations, rétrocessions et résiliations de baux à durée limitée de biens de toute nature.
 
@@ -16891,13 +18219,9 @@ résultée de la convention ;
 	  - CGI 1378 quinquies
 	  - CGI 736
 
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
 	**Modifié par**:
 
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 43 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 26 () JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
 
 
 ###### Article 739
@@ -17218,6 +18542,53 @@ attribués à des apporteurs, à leurs conjoints survivants ou à leurs ayants d
 ##### VI : Mutations à titre gratuit
 
 ##### A : Champ d'application des droits de mutation à titre gratuit
+
+##### 01 : Territorialité
+
+###### Article 750 ter
+
+Sont soumis aux droits de mutation à titre gratuit :
+
+1° Les biens meubles et immeubles situés en France ou hors de France, et notamment les fonds publics, parts d'intérêts,
+créances et généralement toutes les valeurs mobilières françaises ou étrangères de quelque nature qu'elles soient, lorsque le
+donateur ou le défunt a son domicile fiscal en France au sens de l'article 4 B (1) ;
+
+2° Les biens meubles et immeubles situés en France, et notamment les fonds publics français, parts d'intérêts, créances et
+valeurs mobilières françaises, lorsque le donateur ou le défunt n'a pas son domicile fiscal en France au sens de l'article
+précité.
+
+Sont considérées comme françaises les créances sur un débiteur qui est établi en France ou qui y a son domicile fiscal au
+sens du même article ainsi que les valeurs mobilières émises par l'Etat français, une personne morale de droit public
+française ou une société qui a en France son siège social statutaire ou le siège de sa direction effective.
+
+Sont également considérées comme françaises les actions et parts de sociétés ou personnes morales non cotées en bourse dont
+le siège est situé hors de France et dont l'actif est principalement constitué d'immeubles ou de droits immobiliers situés
+sur le territoire français, et ce à proportion de la valeur de ces biens par rapport à l'actif total de la société. Pour
+l'application de cette disposition ne sont pas pris en considération les immeubles situés sur le territoire français,
+affectés par la société à sa propre exploitation industrielle, commerciale, agricole ou à l'exercice d'une profession non
+commerciale.
+
+(1) Voir art. 784 A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 4 B, 784 A
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Jurisprudence 1998-01-08 7G-2-98
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 4 (P) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 784 A (V)
+	  - Code général des impôts, CGI. - art. 885 L (V)
+
 
 ##### 1 : Présomptions de propriété
 
@@ -18081,6 +19452,26 @@ exonérée des droits de mutation par décès.
 	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
 
 
+###### Article 797 A
+
+Les actions ou parts des personnes morales assujetties à la taxe prévue à l'article 990 D, détenues par des personnes
+physiques n'ayant pas leur domicile fiscal en France, ne sont pas soumises aux droits de mutation à titre gratuit.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 990 D
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 4 (P) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+
+	**Abrogé par**:
+
+	  - Loi - art. 29 (V) JORF 31 décembre 1992 en vigueur le 1er janvier 1993
+
+
 ##### E : Obligations diverses
 
 ##### 1 : Dispositions communes aux successions et aux donations.
@@ -18593,6 +19984,55 @@ télécommunications sont assimilées à une décision de justice.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### X : Inscriptions de privilèges et d'hypothèques
+
+##### B : Exonérations
+
+###### Article 845
+
+Sont exonérés de la taxe de publicité foncière :
+
+1° Les inscriptions requises par l'Etat.
+
+Toutefois, la taxe qui n'a pas été perçue sur une inscription d'hypothèque judiciaire ou conventionnelle doit être acquittée
+lors de la radiation de l'inscription. A cet effet, le conservateur est tenu d'énoncer, tant sur le bordereau destiné aux
+archives que sur le bordereau remis au requérant, le montant de la taxe non perçue;
+
+2° Les inscriptions :
+
+a) Des hypothèques conventionnelles pour sûreté des avances consenties par l'Etat aux organismes d'habitations à loyer
+modéré;
+
+b) Des hypothèques prises par les organismes d'habitations à loyer modéré et de crédit immobilier pour la sûreté et le
+recouvrement des prêts individuels qu'ils sont appelés à consentir à des particuliers;
+
+c) Des hypothèques prises en garantie des prêts d'épargne des travailleurs manuels prévus à l'article 80-III, deuxième
+alinéa, modifié, de la loi n° 76-1232 du 29 décembre 1976.
+
+3° Les actes des prêts spéciaux à la construction désignés aux articles L 311-9 et L 312-1 du code de la construction et de
+l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la construction L311-9
+	  - Code de la construction L312-1 CGI 80 III AL. 2
+	  - Loi n°76-1232 1976-12-29
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 22 (V) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1er JANVIER 1983
 
 
 ##### XI : Actes divers
@@ -20185,12 +21625,16 @@ exclusivement artisanale, est exonérée de la taxe établie par l'article 950.
 ###### Article 954
 
 Chaque visa de passeport étranger, dont la durée de validité ne peut être supérieure à un an, donne lieu à la perception d'un
-droit de 35 F [*montant*], si le visa est valable pour l'aller et retour, et de 15 F, s'il n'est valable que pour la sortie.
+droit de 50 F [*montant*], si le visa est valable pour l'aller et retour, et de 25 F, s'il n'est valable que pour la sortie.
 Toutefois, le visa est délivré gratuitement, par mesure de réciprocité, aux ressortissants des puissances étrangères dont la
 liste est établie par arrêté du ministre des affaires étrangères, du ministre de l'intérieur et du ministre de l'économie et
 des finances.
 
 Les dispositions du présent article sont applicables aux visas des titres de voyage délivrés aux réfugiés et aux apatrides.
+
+**Nota:**
+
+Nota : Voir annexe III, art. 313 BA
 
 **Liens relatifs à cet article**
 
@@ -20200,7 +21644,7 @@ Les dispositions du présent article sont applicables aux visas des titres de vo
 
 	**Modifié par**:
 
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 43 (P) JORF 31 DECEMBRE 1981 date d'entrée en vigueur 1 JANVIER 1982
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 2 (V) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
 
 	**Cité par**:
 
@@ -20553,11 +21997,134 @@ code de commerce.
 
 #### Chapitre III : Autres droits et taxes
 
+##### Section 0II : Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales n'y ayant pas leur siège social
+
+###### Article 990 D
+
+Les personnes morales dont le siège est situé hors de France [*à l'étranger*] et qui, directement ou par personne interposée,
+possèdent un ou plusieurs immeubles situés en France ou sont titulaires de droits réels portant sur ces biens sont redevables
+d'une taxe annuelle égale à 3 % [*taux, montant*] de la valeur vénale de ces immeubles ou droits (1). La personne interposée
+est solidairement responsable du paiement de la taxe. 
+
+(1) Disposition applicable à compter du 1er janvier 1983.
+
+[*Cf. Jurisprudence 1995-08-01 7Q-1-95.*]
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 4 (P) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 121 K ter (V)
+	  - Code général des impôts, CGI. - art. 750 ter (V)
+	  - Code général des impôts, CGI. - art. 990 E (V)
+	  - Code général des impôts, CGI. - art. 990 F (V)
+	  - Code général des impôts, CGI. - art. 990 G (V)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Jurisprudence 1995-08-01 7Q-1-95
+
+
+###### Article 990 E
+
+La taxe prévue à l'article 990 D n'est pas applicable [*hors du champ d'application*] : 
+
+1° Aux personnes morales dont les immeubles situés en France, autres que ceux affectés à leur propre exploitation
+industrielle, commerciale, agricole ou à l'exercice d'une profession non commerciale, représentent moins de 50 % des actifs
+français ; 
+
+2° Aux personnes morales qui, ayant leur siège dans un pays ou territoire ayant conclu avec la France une convention
+d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, déclarent chaque année, au plus tard le
+15 mai, au lieu fixé par l'arrêté prévu à l'article 990 F, la situation, la consistance et la valeur des immeubles possédés
+au 1er janvier, l'identité et l'adresse de leurs associés à la même date ainsi que le nombre des actions ou parts détenues
+par chacun d'eux ; 
+
+3° Aux organisations internationales, aux Etats souverains étrangers, et aux institutions publiques étrangères ; 
+
+4° Aux caisses de retraite et aux autres organismes à but non lucratif [*dont associations*] qui exercent une activité
+désintéressée de caractère social, philanthropique, éducatif ou culturel et qui établissent que cette activité justifie la
+propriété des immeubles ou droits immobiliers.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 990 D
+	  - CGI 990 F
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 4 (P) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 313-0 BR (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 313-0 BR bis (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 990 D (V)
+	  - Code général des impôts, CGI. - art. 990 F (V)
+	  - Livre des procédures fiscales - art. R23 B-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+
 ##### Section I : Taxe sur les conventions d'assurances
 
 ##### I : Champ d'application
 
 ##### A : Conventions imposables
+
+###### Article 991
+
+Toute convention d'assurance ou de rente viagère conclue avec une société ou compagnie d'assurances ou avec tout autre
+assureur français ou étranger est soumise, quels que soient le lieu et la date auxquels elle est ou a été conclue, à une taxe
+annuelle et obligatoire moyennant le paiement de laquelle tout écrit qui constate sa formation, sa modification ou sa
+résiliation amiable, ainsi que les expéditions, extraits ou copies qui en sont délivrés, sont, quelque soit le lieu où ils
+sont ou ont été rédigés, exonérés du droit de timbre et enregistrés gratis [*gratuité*] lorsque la formalité est requise.
+
+La taxe est perçue sur le montant des sommes stipulées au profit de l'assureur et de tous accessoires dont celui-ci bénéficie
+directement ou indirectement du fait de l'assuré [*assiette*].
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
+
+	**Cité par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 5 (V)
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 146 (V)
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 57 (V)
+	  - Décret n°2016-272 du 4 mars 2016 (V)
+	  - Code de l'environnement - art. L561-3 (V)
+	  - Code des assurances - art. L421-4-1 (V)
+	  - Code des assurances - art. L421-8 (V)
+	  - Code des assurances - art. L422-1 (V)
+	  - Code des assurances - art. L426-1 (V)
+	  - Code général des impôts, CGI. - art. 1635 bis AA (V)
+	  - Code général des impôts, CGI. - art. 1635 bis AD (V)
+	  - Code général des impôts, CGI. - art. 1723 quindecies (V)
+	  - Code général des impôts, CGI. - art. 990 I (M)
+	  - Code général des impôts, CGI. - art. 998 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (VD)
+	  - Code rural - art. L371-9 (M)
+	  - Code rural et de la pêche maritime - art. L361-2 (V)
+	  - Livre des procédures fiscales - art. L182 (V)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
 
 ###### Article 992
 
@@ -20692,6 +22259,44 @@ autonomes mutualistes par des adhérents dont l'affiliation est antérieure au 1
 	**Codifié par**:
 
 	  - Décret n°90-798 1990-09-10
+
+
+###### Article 998
+
+Par dérogation aux articles 991, 992 et 993, sont exonérées de la taxe spéciale :
+
+1° Les assurances de groupe souscrites par une entreprise ou un groupe d'entreprises au profit de leurs salariés ou par un
+groupement professionnel représentatif d'entreprises au profit des salariés de celles-ci ou par une organisation
+représentative d'une profession non salariée ou d'agents des collectivités publiques au profit de ses membres ou dans le
+cadre de régimes collectifs de retraite organisés conformément aux dispositions des articles R. 140-1 et R. 441-1 à R. 441-34
+du code des assurances et gérés paritairement par les assurés et les assureurs, et dont 80 % au moins de la prime ou de la
+cotisation globale sont affectés à des garanties liées à la durée de la vie humaine, à l'invalidité, à l'incapacité de
+travail ou au décès par accident, à l'exclusion des remboursements des frais médicaux, chirurgicaux, pharmaceutiques ou
+dentaires. Dans le cas des assurances souscrites par une entreprise ou pour son compte, l'exonération n'est applicable qu'aux
+assurances constituant un moyen de satisfaire à une disposition prévue par une convention collective ou un accord
+d'entreprise ou résultant du contrat de travail de l'ensemble ou d'un nombre significatif de salariés de l'entreprise.
+
+2° Les assurances temporaires en cas de décès prévues par la législation sur les habitations à loyer modéré, le crédit mutuel
+et la coopération agricoles et le crédit maritime mutuel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 991
+	  - CGI 992
+	  - CGI 993
+	  - Code des assurances R. 441-1 à R. 441-34
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 14 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
+	**Cité par**:
+
+	  - Loi n°96-126 du 21 février 1996 - art. 2 (V)
+	  - Code de la sécurité sociale. - art. L862-4 (V)
+	  - Code général des impôts, CGI. - art. 990 I (VT)
 
 
 ###### Article 1000
@@ -26756,6 +28361,33 @@ Un décret fixe les conditions d'application des articles 1609 decies A à 1609 
 
 ##### Section IV : Prélèvements et perceptions destinés au budget annexe des prestations sociales agricoles
 
+##### A bis : Alcools soumis au droit de consommation.
+
+###### Article 1615 bis
+
+Il est effectué au profit du budget annexe des prestations sociales agricoles [*BAPSA*] un prélèvement de 100 F [*montant*]
+par hectolitre d'alcool pur sur le produit du droit de consommation mentionné aux articles 403-I-4° et 403-III perçu dans les
+départements métropolitains.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 403 A I 4°, III
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - SPEC_APPLI: L'article 1615 bis est modifié à la suite de la péremption de l'article 403 II
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 19 () JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
+
 ##### C : Betteraves.
 
 ###### Article 1617
@@ -27907,6 +29539,36 @@ professionnelles dont ils relèvent, d'améliorer la connaissance des revenus de
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 1649 quater G
+
+Les documents tenus par les adhérents des associations définies à l'article 1649 quater F en application de l'article 99 ou
+101 bis du présent code doivent être établis conformément à l'un des plans comptables professionnels agréés par le ministre
+de l'économie et des finances (1).
+
+Les documents comptables mentionnés au premier alinéa comportent, quelle que soit la profession exercée par l'adhérent,
+l'identité du client ainsi que le montant, la date et la forme du versement des honoraires (2).
+
+(1) Annexe IV, art. 164 F tervicies.
+
+(2) Voir également livre des procédures fiscales, art. L. 86 A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1649 quater F, 99
+	  - Livre des procédures fiscales - art. L86 A (M)
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 73 () JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1649 quater H (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Y (V)
+
+
 ###### Article 1649 quater H
 
 Les associations mentionnées à l'article 1649 quater F sont habilitées à élaborer pour le compte de leurs adhérents, placés
@@ -27940,6 +29602,30 @@ et l'administration (1).
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### III : Dispositions communes
+
+###### Article 1649 quater I
+
+Le directeur des services fiscaux ou son représentant assiste, avec voix consultative, aux délibérations des organes
+dirigeants des centres de gestion et associations agréés, lorsqu'elles sont relatives au budget et aux conditions de
+fonctionnement de ceux-ci. A cet effet, les documents utiles lui sont communiqués huit jours au moins avant la date de ces
+délibérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 72 (V) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
 
 
 #### Chapitre II : Casier fiscal
@@ -28275,6 +29961,55 @@ agents supérieurs de la direction générale des impôts, pour remplir les fonc
 
 #### Chapitre II : Régime de certains organismes et sociétés
 
+##### I : Établissements publics et autres organismes
+
+###### Article 1654
+
+Les établissements publics, les exploitations industrielles ou commerciales de l'Etat ou des collectivités locales, les
+entreprises concessionnaires ou subventionnées, les entreprises bénéficiant de statuts, de privilèges, d'avances directes ou
+indirectes ou de garanties accordées par l'Etat ou les collectivités locales, les entreprises dans lesquelles l'Etat ou les
+collectivités locales ont des participations, les organismes ou groupements de répartition, de distribution ou de
+coordination, créés sur l'ordre ou avec le concours ou sous le contrôle de l'Etat ou des collectivités locales doivent  sous
+réserve des dispositions des articles 133, 207, 208, 1040, 1382, 1394 et 1449 à 1463 acquitter, dans les conditions de droit
+commun, les impôts et taxes de toute nature auxquels seraient assujetties des entreprises privées effectuant les mêmes
+opérations (1).
+
+La Banque de France acquitte les impôts dans les conditions de droit commun.
+
+(1) Annexe IV, art. 165 à 170.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1040
+	  - CGI 133
+	  - CGI 1382
+	  - CGI 1394
+	  - CGI 1449 A CGI 1463
+	  - CGI 207
+	  - CGI 208
+	  - CGIAN4 165 A CGIAN4 170
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1961 (V)
+	  - Loi n°90-568 du 2 juillet 1990 - art. 18 (V)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+	  - TXT_ASSOCIE: Instruction 1998-01-15 3A-2-98
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 décembre 1982, en vigueur le 1er janvier 1983
+
+
 ##### II bis : Coopératives d'administration ou d'entreprise
 
 ###### Article 1655 A
@@ -28363,133 +30098,6 @@ prévue à l'alinéa qui précède ainsi que la forme et le contenu de cette dé
 	**Cite**:
 
 	  - CGIAN4 121 Z bis
-
-
-# ASSIETTE ET LIQUIDATION
-
-## IMPOTS D'ETAT
-
-### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES
-
-#### TAXE DE PROTECTION SANITAIRE ET D'ORGANISATION DES MARCHES DES VIANDES.
-
-###### Article 302 bis F
-
-Une taxe de protection sanitaire et d'organisation des marchés des viandes est perçue (1) :
-
-- dans les abattoirs privés et à l'importation, pour le compte de l'Etat;
-
-- dans les abattoirs publics, à concurrence de 67 % [*pourcentage*] sur les viandes de l'espèce bovine et de 57 % sur les
-viandes des autres espèces, pour le compte de l'Etat, et à concurrence respectivement de 33 % et 43 % pour le compte des
-collectivités locales ou de leurs groupements propriétaires desdits abattoirs.
-
-1)  Disposition entrée en vigueur dans les délais normaux de publication de l'arrêté du 9 août 1977 (J.O. du 12) qui fixe les
-tarifs de la taxe.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Anciens textes**:
-
-	  - Loi n°77-646 du 24 juin 1977 - art. 1 (Ab)
-
-
-###### Article 302 bis G
-
-Le tarif de la taxe est fixé par kilogramme de viande net, pour une année civile, à partir des prix directeurs définis ci-
-dessous, en vigueur au 15 novembre de l'année précédente.
-
-Par espèce, le taux à prendre est égal :
-
-- pour les gros bovins et les veaux, à 0,37 % du prix au kilogramme net des gros bovins obtenu en affectant le prix
-d'orientation communautaire de campagne, exprimé en kilogramme vif, d'un coefficient de rendement à l'abattage de 54 %;
-
-- pour les espèces chevaline, asine et leurs croisements, à 0,25 % du prix au kilogramme net des gros bovins défini ci-
-dessus;
-
-- pour les ovins, à 0,21 % du prix de seuil national de la viande ovine, et pour les caprins à 0,18 % de ce même prix;
-
-- pour les porcins, à 0,54 % du prix de base communautaire;
-
-- pour les volailles, à 0,14 % du prix obtenu en faisant la somme du prix d'écluse communautaire et du prélèvement pour le
-poulet éviscéré avec abats.
-
-Un arrêté conjoint du ministre de l'économie et des finances et du ministre de l'agriculture constate pour chaque année
-civile et par espèce :
-
-- les prix directeurs de campagne en vigueur le 15 novembre;
-
-- le taux de conversion en francs de l'unité de compte communautaire en vigueur le 15 novembre pour les échanges agricoles.
-
-Le tarif de la taxe est exprimé en francs kilogramme net (1).
-
-1)  Pour l'année 1977, arrêté du 9 août 1977 (J.O. du 12). Pour l'année 1978, arrêté du 26 décembre 1977 (J.O. du 31). Pour
-l'année 1979, arrêté du 19 décembre 1978 (J.O. du 10 janvier 1979).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1977-08-09
-	  - Arrêté 1977-12-26
-	  - Arrêté 1978-12-19
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Anciens textes**:
-
-	  - Loi n°77-646 du 24 juin 1977 - art. 2 (Ab)
-
-
-###### Article 302 bis I
-
-La taxe de protection sanitaire et d'organisation des marchés des viandes frappe à l'importation les viandes, préparées ou
-non, des animaux mentionnés à l'article 302 bis G. Elle est due par l'importateur ou par le déclarant en douane lors du
-dédouanement pour la mise à la consommation [*redevable*]. Elle est perçue par le service des douanes. Elle est recouvrée
-suivant les mêmes règles, sous les mêmes garanties qu'en matière de droit de douane. Les contraventions sont punies, les
-poursuites effectuées et les instances instruites et jugées comme en matière de douane et par les tribunaux compétents en
-cette matière.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 302 bis G
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Anciens textes**:
-
-	  - Loi n°77-646 du 24 juin 1977 - art. 4 (Ab)
-
-
-###### Article 302 bis J
-
-Un décret fixe les conditions d'application des articles 302 bis F à 302 bis I et définit notamment les modalités de calcul
-du poids de viande net (1).
-
-1)  Annexe III, art. 111 quater A à 111 quater K.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 302 bis F
-	  - CGI 302 bis G
-	  - CGI 302 bis H
-	  - CGI 302 bis I
-	  - CGIAN3 111 quater A A CGIAN3 111 quater K
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 # Livre II : Recouvrement de l'impôt
@@ -28788,6 +30396,30 @@ III. Le versement de la taxe d'apprentissage doit accompagner le dépôt de la d
 	**Cite**:
 
 	  - CGI 229
+
+
+###### Article 1678 sexies
+
+La cotisation complémentaire à la taxe d'apprentissage prévue par l'article 230 E n'est pas exigible lorsque son montant est
+inférieur à 100 F.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 230 E
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 27 (V) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°93-121 du 27 janvier 1993 - art. 92 () JORF 30 janvier 1993
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
 
 
 ##### 6 : Taxe sur les salaires
@@ -33688,11 +35320,37 @@ Sont également exigibles immédiatement pour la totalité les droits et pénali
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 1679 A
+
+La taxe sur les salaires due par les associations régies par la loi du 1er juillet 1901 et par les syndicats professionnels
+et leurs unions visés au chapitre Ier du titre Ier du livre IV du code du travail à raison des rémunérations payées à compter
+du 1er janvier 1983 n'est exigible, au titre d'une année, que pour la partie de son montant dépassant 3.000 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Cite**:
+
+	  - Loi n°1901-07-01
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 9 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 231 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 369 (VD)
+
+
 ###### Article 1679 bis B
 
-Le versement au Trésor prévu à l'article 235 ter G ainsi que ceux prévus aux articles 1783 quater et 1783 quinquies sont
-établis et recouvrés selon les modalités et sous les sûretés, garanties et sanctions applicables aux taxes sur le chiffre
-d'affaires (1) (2).
+Les versements au Trésor prévus aux articles 235 ter G et 235 ter GA ainsi que ceux prévus aux articles 1783 quater et 1783
+quinquies sont établis et recouvrés selon les modalités et sous les sûretés, garanties et sanctions applicables aux taxes sur
+le chiffre d'affaires (1) (2).
 
 (1) Voir Annexe II, art. 383 bis A et Annexe III, art. 381 V à 381 W.
 
@@ -33711,10 +35369,19 @@ d'affaires (1) (2).
 	  - CGI 1783 quater
 	  - CGI 1783 quinquies
 	  - CGI 235 ter G
+	  - CGI 235 ter GA
 	  - CGI L172 A
 	  - CGIAN2 383 bis A
 	  - CGIAN3 381 V
 	  - CGIAN3 381 W
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 27 (V) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
 
 
 ###### Article 1679 quater A
@@ -34936,12 +36603,10 @@ soustrait ou a tenté de se soustraire frauduleusement à l'établissement ou au
 la présente codification, soit qu'il ait volontairement omis de faire sa déclaration dans les délais prescrits, soit qu'il
 ait volontairement dissimulé une part des sommes sujettes à l'impôt, soit qu'il ait organisé son insolvabilité ou mis
 obstacle par d'autres manoeuvres au recouvrement de l'impôt, soit en agissant de toute autre manière frauduleuse, est
-passible, indépendamment des sanctions fiscales applicables, d'une amende de 5.000 F à 250.000 F, et d'un emprisonnement d'un
-an à cinq ans ou de l'une de ces deux peines seulement. Lorsque les faits ont été réalisés ou facilités au moyen soit
-d'achats ou de ventes sans facture, soit de factures ne se rapportant pas à des opérations réelles, ou qu'ils ont eu pour
-objet d'obtenir de l'Etat des remboursements injustifiés, leur auteur est passible d'une amende de 5.000 F à 500.000 F et
-d'un emprisonnement de deux à cinq ans ou de l'une de ces deux peines seulement. Les dispositions de l'article 463 du code
-pénal sont applicables.
+passible, indépendamment des sanctions fiscales applicables, d'une amende de 5.000 F à 250.000 F et d'un emprisonnement d'un
+an à cinq ans. Lorsque les faits ont été réalisés ou facilités au moyen soit d'achats ou de ventes sans facture, soit de
+factures ne se rapportant pas à des opérations réelles, ou qu'ils ont eu pour objet d'obtenir de l'Etat des remboursements
+injustifiés, leur auteur est passible d'une amende de 5.000 F à 500.000 F et d'un emprisonnement de deux à cinq ans.
 
 Toutefois, cette disposition n'est applicable, en cas de dissimulation, que si celle-ci excède le dixième de la somme
 imposable ou le chiffre de 1.000 F.
@@ -34957,23 +36622,13 @@ emprisonnement de quatre ans à dix ans et peut être privé en tout ou partie, 
 des droits civiques énumérés par l'article 42 du code pénal. L'affichage et la publicité du jugement sont ordonnés dans les
 conditions prévues à l'alinéa précédent.
 
-L'article 463 du code pénal peut être appliqué, sauf en ce qui concerne les peines prévues au troisième alinéa et à la
-deuxième phrase du quatrième alinéa du présent article.
-
 Les poursuites sont engagées dans les conditions prévues aux articles L 229 à L 231 du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI L229
-	  - CGI L230
-	  - CGI L231
-	  - Code pénal 42
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 74 () JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
 
 	**Cité par**:
 
@@ -35035,9 +36690,12 @@ Les poursuites sont engagées dans les conditions prévues aux articles L 229 à
 	  - Livre des procédures fiscales - art. L231 (V)
 	  - Livre des procédures fiscales - art. L233 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: date d'entrée en vigueur 1 JANVIER 1982)
+	  - CGI L229
+	  - CGI L230
+	  - CGI L231
+	  - Code pénal 42
 
 
 ###### Article 1751
@@ -35300,6 +36958,34 @@ articles L 169 à L 172 du livre des procédures fiscales.
 	**Abrogé par**:
 
 	  - loi 87-502 1987-07-08 art. 5 VII JORF 9 juillet 1987
+
+
+###### Article 1758 quater
+
+Lorsque l'entreprise n'a pas effectué, dans le délai prévu à l'article 226 A, le versement mentionné au même article ou a
+effectué un versement insuffisant, le montant de la taxe d'apprentissage est majoré de l'insuffisance constatée (1). 
+
+Le complément de taxe prévu au premier alinéa donne lieu à l'application des dispositions des articles 1727, 1731 et 1758 ter
+lorsqu'il n'a pas été versé dans le délai légal de paiement de la taxe d'apprentissage. 
+
+(1) Disposition applicable pour la taxe d'apprentissage due à raison des salaires versés à compter du 1er janvier 1983.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1727
+	  - CGI 1731
+	  - CGI 1758 ter
+	  - CGI 226 A
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 103 (P) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
 
 
 ###### Article 1758 ter
@@ -35577,6 +37263,41 @@ quatre ans d'infraction relative à la déclaration de certains éléments du tr
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1763 C (V)
+
+
+###### Article 1763 C
+
+Toute infraction aux dispositions de l'article 170-1 bis, troisième alinéa, donne lieu à l'application, avec un minimum de
+200 F, d'une amende égale à 5 % des sommes non déclarées. 
+
+Cette amende, établie et recouvrée comme en matière d'impôt sur le revenu, n'est pas appliquée dans le cas prévu à l'article
+1725-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 170 1 bis AL. 3
+	  - CGI 1725 3
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+	  - Décret n°86-1086 1986-10-07
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 68 (P) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°85-1403 du 30 décembre 1985 - art. 12 (P) JORF 31 décembre 1985
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 299 octies A (V)
+	  - Code monétaire et financier - art. D214-80-11 (Ab)
+	  - Code monétaire et financier - art. D214-80-9 (V)
 
 
 ###### Article 1765 bis
@@ -36401,35 +38122,6 @@ dispositions de l'article 893 sont confisqués au profit du Trésor.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 1840 U
-
-En ce qui concerne les affiches mentionnées à l'article 944, le paiement du droit de timbre et des pénalités peut être
-poursuivi solidairement :
-
-1° Contre ceux dans l'intérêt desquels la publicité est effectuée;
-
-2° Contre l'afficheur ou l'entrepreneur d'affichage.
-
-Les affiches pour lesquelles le droit de timbre n'a pas été acquitté ou l'a été insuffisamment, pourront être lacérées ou
-détruites sur l'ordre de l'autorité publique et aux frais des contrevenants.
-
-En ce qui concerne la publicité lumineuse, les sources d'éclairement pourront être coupées dans les mêmes conditions.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 944
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
 
 
 ###### Article 1840 V

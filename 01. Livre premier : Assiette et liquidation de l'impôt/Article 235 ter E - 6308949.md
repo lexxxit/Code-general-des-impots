@@ -1,25 +1,26 @@
 # Article 235 ter E
 
 Le taux de la participation prévue à l'article L 950-1 du code du travail est fixé à 1,1 % du montant des salaires payés
-pendant l'année en cours, déterminé selon les modalités prévus aux articles 231 et suivants ; toutefois l'exonération
-mentionnée à l'article 231 bis K n'est pas applicable.
+pendant l'année en cours, déterminé selon les modalités prévus aux articles 231 et suivants ; toutefois les exonérations
+mentionnées aux articles 231 bis K et 231 bis L ne sont pas applicables.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 231 1 et S.
 	  - CGI 231 bis K
+	  - CGI 231 bis L
+	  - CGI 231 et S.
 	  - Code du travail - art. L950-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-	**Créé par**:
-
-	  - Ordonnance 82-283 1982-03-26 art. 2 JORF 30 MARS 1982
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. D214-61 (V)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 9 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
