@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1978-08-30
+Version Consolidée au 1978-12-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -319,6 +319,35 @@ plan d'équipement et de la productivité.
 	  - HISTO: Edition du 1er juillet 1981
 
 
+### Titre II : Taxes sur le chiffre d'affaires et taxes assimilées
+
+#### Chapitre premier : Taxe sur la valeur ajoutée
+
+##### Section IX : Régimes spéciaux
+
+##### VI : Régime de la presse et de ses fournisseurs
+
+###### Article 298 nonies
+
+Le fait générateur de la taxe sur la valeur ajoutée intervient lors de l'encaissement des acomptes ou du prix en ce qui
+concerne les ventes des publications désignées à l'article 298 septies ainsi que les ventes de papier réalisées par la
+société professionnelle des papiers de presse.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 298 septies
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 38 () JORF 30 décembre 1978
+
+
 ### Titre III : Contributions indirectes et monopoles fiscaux - taxes diverses
 
 #### Chapitre III quinquies : Cotisation de solidarité sur les graines oléagineuses.
@@ -348,6 +377,57 @@ indirectes.
 	**Codifié par**:
 
 	  - Décret n°82-881 1982-10-15
+
+
+#### Chapitre IV : Monopoles
+
+##### Section I : Tabacs
+
+##### I : Régime économique.
+
+###### Article 565
+
+1. En France métropolitaine continentale, l'importation et la commercialisation en gros des tabacs manufacturés en provenance
+des Etats membres de la Communauté économique européenne [*CEE*] et originaires de ces Etats ou mis en libre pratique dans
+l'un de ceux-ci peuvent être effectuées par toute personne physique ou morale qui s'établit en qualité de fournisseur en vue
+d'exercer cette activité dans les conditions fixées par décret en Conseil d'Etat (1).
+
+2. Sur ce même territoire, l'importation et la commercialisation en gros des tabacs manufacturés autres que ceux mentionnés
+au paragraphe 1 sont réservées à l'Etat. Il en est de même de toute fabrication et de vente au détail des tabacs
+manufacturés.
+
+(1) Annexe II, art. 276 à 279.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 24 février 2012 - art. 9 (V)
+	  - Décret n°63-1104 du 30 octobre 1963 - art. 2 (V)
+	  - Arrêté du 30 août 2011 - art. (V)
+	  - Code de la sécurité sociale. - art. L137-27 (V)
+	  - Code général des impôts, CGI. - art. 1928 (V)
+	  - Code général des impôts, CGI. - art. 568 (VT)
+	  - Code général des impôts, CGI. - art. 570 (VD)
+	  - Code général des impôts, CGI. - art. 574 (V)
+	  - Code général des impôts, CGI. - art. 575 K (V)
+
+	**Cite**:
+
+	  - CGIAN2 276
+	  - CGIAN2 277
+	  - CGIAN2 278
+	  - CGIAN2 279
+
+	**Modifié par**:
+
+	  - Loi n°76-448 1976-05-24 ART. 9 JORF 25 MAI 1976
+	  - Décret n°76-1314 1976-12-31 ART. 1 JORF 5 JANVIER 1977
+	  - Loi n°78-1239 du 29 décembre 1978 - art. 25 (V) JORF 30 DECEMBRE 1978
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 ### Titre IV : Enregistrement, publicité foncière. Impôt de solidarité sur la fortune, timbre
@@ -944,6 +1024,77 @@ de jetons de présence [*conditions*].
 #### TAXES DIVERSES
 
 ##### TAXE D'APPRENTISSAGE.
+
+###### Article 224
+
+1. Il est établi une taxe, dite taxe d'apprentissage, dont le produit est inscrit au budget de l'Etat pour y recevoir
+l'affectation prévue par la loi (1).
+
+2. Cette taxe est due [*champ d'application, redevables*] :
+
+1° Par les personnes physiques, ainsi que par les sociétés en nom collectif, en commandite simple et par les sociétés en
+participation n'ayant pas opté pour le régime applicable aux sociétés par actions et par les sociétés à responsabilité
+limitée ayant opté pour le régime fiscal des sociétés de personnes dans les conditions prévues à l'article 3-IV du décret n°
+55-594 du 20 mai 1955 modifié, lorsque ces personnes et sociétés exercent une activité visée aux articles 34 et 35 ;
+
+2° Par les sociétés, associations et organismes passibles de l'impôt sur les sociétés en vertu de l'article 206, à
+l'exception de ceux désignés au 5 de l'article précité, quel que soit leur objet ;
+
+3° Par les sociétés coopératives de production, transformation, conservation et vente de produits agricoles, ainsi que par
+leurs unions fonctionnant conformément aux dispositions légales qui les régissent, quelles que soient les opérations
+poursuivies par ces sociétés ou unions.
+
+3. Sont affranchis de la taxe [*exonération*] :
+
+1° Les artisans inscrits au répertoire des métiers et les veuves d'artisans occupant un ou plusieurs apprentis de moins de 20
+ans avec lesquels un contrat régulier d'apprentissage a été passé dans les conditions prévues aux articles L 117-1 à L 117-18
+du code du travail, lorsque la base annuelle d'imposition déterminée conformément aux dispositions de l'article 225 n'excède
+pas 20.000 F ;
+
+2° Les sociétés par actions ou à responsabilité limitée ayant pour objet exclusif les divers ordres d'enseignement.
+
+(1) Pour les années 1978 à 1981 [*période*], les entreprises doivent acquitter une cotisation additionnelle de 0,1 %
+[*pourcentage*] du montant des salaires retenus au titre de l'année précédente pour l'assiette de la taxe d'apprentissage,
+majoré de 8 %. Les cotisations inférieures à 100 F ne sont pas exigibles. (Loi n° 78-653 du 22 juin 1978, art. 2, loi n°
+78-1239 du 29 décembre 1978, art. 33 et loi n° 80-30 du 18 janvier 1980, art. 21).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Arrêté du 19 février 2010 - art. 2 (V)
+	  - Arrêté du 20 juillet 2012 - art. 5 (Ab)
+	  - Arrêté du 11 août 2015 (V)
+	  - Arrêté du 5 octobre 2015 (V)
+	  - Arrêté du 5 octobre 2015 - art. 5 (V)
+	  - Arrêté du 18 avril 2017 (V)
+	  - Loi n°71-578 du 16 juillet 1971 - art. 1 (Ab)
+	  - Code général des impôts, CGI. - art. 1599 quinquies A (Ab)
+	  - Code général des impôts, CGI. - art. 1647 (M)
+	  - Code général des impôts, CGI. - art. 230 C (T)
+	  - Code général des impôts, CGI. - art. 230 H (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (V)
+
+	**Cite**:
+
+	  - CGI 206 5
+	  - CGI 225
+	  - CGI 34
+	  - CGI 35
+	  - Loi n°78-653 1978-06-22 ART. 2
+	  - Loi n°78-1239 1978-12-29 ART. 33 FINANCES POUR 1979
+	  - Loi n°80-30 1980-01-18 ART. 21 FINANCES POUR 1980
+	  - Code du travail L117-1 A Code du travail L117-18
+	  - Décret n°55-594 1955-05-20 ART. 3 IV
+
+	**Modifié par**:
+
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 23 (P) JORF 30 DECEMBRE 1978
+
 
 ###### Article 227
 
