@@ -23,8 +23,8 @@ l'importance des droits détenus et de la nature des fonctions exercées, chaque
 conditions prévues pour avoir la qualité de biens professionnels, et que les sociétés en cause ont effectivement des
 activités soit similaires, soit connexes et complémentaires.
 
-Par dérogation aux dispositions du premier alinéa du 2° du présent article, la condition de possession de 25 p. 100 au moins
-du capital de la société n'est pas exigée des gérants et associés visés à l'article 62.
+Par dérogation aux dispositions du premier alinéa du 2°, la condition de possession de 25 p. 100 au moins du capital de la
+société n'est pas exigée des gérants et associés visés à l'article 62.
 
 Sont également considérées comme des biens professionnels les parts ou actions détenues directement par le gérant nommé
 conformément aux statuts d'une société à responsabilité limitée ou en commandite par actions, le président, le directeur
@@ -32,10 +32,10 @@ général, le président du conseil de surveillance ou le membre du directoire d
 conditions prévues au 1° ci-dessus, lorsque leur valeur excède 75 p. 100 de la valeur brute des biens imposables, y compris
 les parts et actions précitées.
 
-Sont également considérées comme des biens professionnels, dans la limite d'un million de francs, les parts ou actions
-acquises par un salarié lors de la constitution d'une société créée pour le rachat de tout ou partie du capital d'une
-entreprise dans les conditions mentionnées aux articles 220 quater ou 220 quater A tant que le salarié exerce son activité
-professionnelle principale dans la société rachetée et que la société créée bénéficie du crédit d'impôt prévu à ces articles.
+Sont également considérées comme des biens professionnels, dans la limite de 150 000 euros, les parts ou actions acquises par
+un salarié lors de la constitution d'une société créée pour le rachat de tout ou partie du capital d'une entreprise dans les
+conditions mentionnées aux articles 220 quater ou 220 quater A tant que le salarié exerce son activité professionnelle
+principale dans la société rachetée et que la société créée bénéficie du crédit d'impôt prévu à ces articles.
 
 **Liens relatifs à cet article**
 
@@ -43,9 +43,16 @@ professionnelle principale dans la société rachetée et que la société cré�
 
 	  - CGI 220 quater, 220 quater A, 62
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+	  - TXT_ASSOCIE: Jurisprudence 1999-06-28 7S-5-99
+	  - TXT_ASSOCIE: Jurisprudence 2000-02-16 7S-3-00
+	  - TXT_ASSOCIE: Jurisprudence 2000-09-13 7S-7-00
+
 	**Modifié par**:
 
-	  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -63,10 +70,3 @@ professionnelle principale dans la société rachetée et que la société cré�
 	  - Code général des impôts, CGI. - art. 885 O quinquies (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 294 bis (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater K (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Jurisprudence 1999-06-28 7S-5-99
-	  - TXT_ASSOCIE: Jurisprudence 2000-02-16 7S-3-00
-	  - TXT_ASSOCIE: Jurisprudence 2000-09-13 7S-7-00
-	  - TXT_ASSOCIE: Réponse ministérielle 1996-09-23 7S-6-96
