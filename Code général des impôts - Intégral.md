@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 2000-03-31
+Version Consolidée au 2000-04-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15815,59 +15815,6 @@ précisées par un décret en conseil d'Etat (1).
 	  - Loi - art. 10 (V) JORF 31 décembre 2003
 
 
-##### D : Dispositions particulières.
-
-###### Article 150 VA
-
-Pour l'application des dispositions de l'article 150 A, la plus-value réalisée du 25 novembre 1993 au 31 décembre 1994 lors
-de la cession d'un logement peut, sur demande du contribuable, être exonérée lorsque le produit de la cession est investi,
-dans un délai de quatre mois, dans l'acquisition ou la construction d'un immeuble situé en France et affecté exclusivement à
-l'habitation principale du cédant.
-
-Cette exonération s'applique dans la limite d'un montant de cession de 600.000 F pour un contribuable célibataire, veuf ou
-divorcé ou 1.200.000 F pour des contribuables mariés soumis à imposition commune. Ces limites s'apprécient sur la période
-mentionnée à l'alinéa précédent.
-
-En cas de franchissement de ces limites, la fraction de la plus-value dont le montant est exonéré est déterminée selon le
-rapport existant entre 600.000 F ou 1.200.000 F, selon le cas, et le montant de la cession.
-
-Ces dispositions ne sont pas applicables aux cessions d'immeubles dont l'acquisition a ouvert droit au bénéfice des
-dispositions des articles 199 nonies, 199 decies A et 199 undecies.
-
-Un décret précise les modalités d'application du présent article, notamment les obligations déclaratives des contribuables.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 150 A, 199 nonies, 199 decies A, 199 undecies
-
-	**Créé par**:
-
-	  - Loi n°93-1352 du 30 décembre 1993 - art. 9 () JORF 31 décembre 1993
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°99-382 du 18 mai 1999 - art. 1 () JORF 20 mai 1999
-	  - HISTO: Edition du 2 septembre 1994
-	  - HISTO: Edition du 31 mars 1999
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 150 U (V)
-	  - Code général des impôts, CGI. - art. 1529 (V)
-	  - Code général des impôts, CGI. - art. 1531 (T)
-	  - Code général des impôts, CGI. - art. 1605 nonies (VD)
-	  - Code général des impôts, CGI. - art. 1609 nonies F (Ab)
-	  - Code général des impôts, CGI. - art. 1635 ter A (Ab)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 74 SI (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duovicies H (V)
-
-
 ##### VII quater : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité
 
 ###### Article 150 V bis
@@ -27872,81 +27819,6 @@ de crédit-bail.
 	**Créé par**:
 
 	  - Loi - art. 51 (V) JORF 5 janvier 1993
-
-
-##### 4° : Crédit d'impôt au titre des emplois créés.
-
-###### Article 220 octies
-
-1. Les entreprises soumises à l'impôt sur les sociétés dans les conditions de droit commun peuvent bénéficier d'un crédit
-d'impôt au titre des emplois créés en 1998.
-
-Ce crédit d'impôt est égal au produit de la somme de 10 000 F par la variation de l'effectif salarié déterminée dans les
-conditions prévues au 3.
-
-Le crédit d'impôt s'apprécie en prenant en compte la variation de l'effectif salarié moyen de l'entreprise et la fraction de
-celle, correspondant aux droits de cette entreprise, constatée dans les sociétés de personnes mentionnées aux articles 8, 238
-bis L, 238 ter et 239 ter et les groupements mentionnés aux articles 239 quater, 239 quater A, 239 quater B, 239 quater C et
-239 quinquies.
-
-En cas de transfert de personnels entre entreprises ayant des liens de dépendance directe ou indirecte tels que définis au 1
-bis de l'article 39 terdecies, ou résultant de fusions, scissions, apports ou opérations assimilées, il est fait abstraction
-pour le calcul de la variation de l'effectif salarié de la part de cette variation provenant de ce transfert.
-
-2. Le crédit d'impôt est imputé sur la contribution prévue à l'article 235 ter ZA, due au titre de l'exercice ouvert en 1998,
-dans la limite de 500 000 F.
-
-Le crédit d'impôt n'est pas restituable.
-
-3. Pour le calcul du crédit d'impôt, la variation d'effectif sera déterminée en rapportant les douze quinzièmes de l'effectif
-salarié moyen occupé pendant la période du 1er octobre 1997 au 31 décembre 1998 aux douze neuvièmes de celui occupé du 1er
-janvier 1997 au 30 septembre 1997.
-
-4. Un décret précise les modalités d'application du présent article, notamment les conditions du calcul de l'effectif salarié
-mentionné au deuxième alinéa du 1.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 8, 238 bis L, 238 ter, 239 ter, 239 quater, 239 quater A, 239 quater B, 239 quater C, 239 quinquies, 39 terdecies, 235 ter ZA
-
-	**Modifié par**:
-
-	  - Loi - art. 23 () JORF 31 décembre 1999
-
-	**Codifié par**:
-
-	  - Décret n°2000-477 2000-06-02
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2000-477 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
-	  - HISTO: Edition du 31 mars 2000
-	  - TXT_ASSOCIE: Instruction 1998-05-20 4L-3-98
-
-	**Cité par**:
-
-	  - Décret n°2006-1764 du 23 décembre 2006 - art. 1 (V)
-	  - Décret n°2006-1764 du 23 décembre 2006 - art. 2 (V)
-	  - Décret n°2006-1764 du 23 décembre 2006 - art. 3 (V)
-	  - Décret n°2006-1764 du 23 décembre 2006 - art. 4 (V)
-	  - Décret n°2006-1764 du 23 décembre 2006 - art. 5 (V)
-	  - Décret n°2006-1764 du 23 décembre 2006 - art. 6 (V)
-	  - Décret n°2006-1764 du 23 décembre 2006 - art. 7 (V)
-	  - Décret n°2006-1764 du 23 décembre 2006 - art. 9 (V)
-	  - Décret n°2009-700 du 15 juin 2009 (V)
-	  - Décret n°2013-603 du 9 juillet 2013 (V)
-	  - Décret n°2014-1167 du 9 octobre 2014 (V)
-	  - Décret n°2015-704 du 19 juin 2015 (V)
-	  - Décret n°2015-704 du 19 juin 2015 - art. 1 (V)
-	  - Décret n°2016-1422 du 21 octobre 2016 - art. 16 (V)
-	  - Décret n°2016-1422 du 21 octobre 2016 - art. 5 (V)
-	  - Décret n°2017-924 du 6 mai 2017 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 223 O (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YS (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YT (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YU (V)
 
 
 ##### Section VI : Etablissement de l'impôt
@@ -53260,27 +53132,27 @@ Pour les différents groupes de produits définis à l'article 575, le taux norm
 
 Groupe de produits : Cigarettes
 
-Taux normal à compter du 1er août 1995 : 58,30
+Taux normal à compter du 1er avril 2000 : 58,99
 
 Groupe de produits : Cigares
 
-Taux normal à compter du 1er août 1995 : 28,86
+Taux normal à compter du 1er avril 2000 : 29,55
 
 Groupe de produits : Tabacs fine coupe destinés à rouler les cigarettes
 
-Taux normal à compter du 1er août 1995 : 51
+Taux normal à compter du 1er avril 2000 : 51,69
 
 Groupe de produits : Autres tabacs à fumer
 
-Taux normal à compter du 1er août 1995 : 46,74
+Taux normal à compter du 1er avril 2000 : 47,43
 
 Groupe de produits : Tabacs à priser
 
-Taux normal à compter du 1er août 1995 : 40,20
+Taux normal à compter du 1er avril 2000 : 40,89
 
 Groupe de produits : Tabacs à mâcher
 
-Taux normal à compter du 1er août 1995 : 27,47
+Taux normal à compter du 1er avril 2000 : 28,16
 
 Le minimum de perception mentionné à l'article 575 est fixé à 530 F pour les cigarettes. Toutefois, pour les cigarettes
 brunes, ce minimum de perception est fixé à 470 F.
@@ -53288,7 +53160,7 @@ brunes, ce minimum de perception est fixé à 470 F.
 Il est fixé à 250 F pour les tabacs fine coupe destinés à rouler les cigarettes.
 
 Sont considérées comme cigarettes brunes les cigarettes dont la composition en tabac naturel comprend un minimum de 60 % de
-tabacs relevant des codes NC 2401.10.41, 2401.10.70, 2401.20.41 ou 2401.20.70 du tarif des douanes.
+tabacs relevant des codes NC 2401-10-41, 2401-10-70, 2401-20-41 ou 2401-20-70 du tarif des douanes.
 
 **Liens relatifs à cet article**
 
@@ -53320,9 +53192,13 @@ tabacs relevant des codes NC 2401.10.41, 2401.10.70, 2401.20.41 ou 2401.20.70 du
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 D (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (VD)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-656 2000-07-13 art. 8 II
+
 	**Modifié par**:
 
-	  - Loi - art. 56 (P) JORF 31 décembre 1999 en vigueur le 3 janvier 2000
+	  - Loi n°2000-656 du 13 juillet 2000 - art. 8 (V) JORF 14 juillet 2000 en vigueur le 1er avril 2000
 
 
 ###### Article 575 B
