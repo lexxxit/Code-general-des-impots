@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1986-01-03
+Version Consolidée au 1986-01-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -27451,6 +27451,32 @@ Les dispositions ci-dessus sont applicables en cas de renonciation postérieure 
 	  - Loi n°2006-1771 du 30 décembre 2006 - art. 52 () JORF 31 décembre 2006
 
 
+###### Article 787 A
+
+Les dons et legs consentis aux pupilles de l'Etat ou de la Nation et aux enfants visés au 3° de l'article 46 du code de la
+famille et de l'aide sociale bénéficient du régime fiscal des mutations à titre gratuit en ligne directe lorsque le donateur
+ou le défunt a pourvu à leur entretien pendant cinq ans au moins au cours de leur minorité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°86-17 1986-01-06 art. 31, art. 80 JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale 46 3°
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Note 1996-12-31 7G-1-97
+
+
 ##### b : Dispositions spéciales aux successions
 
 ###### Article 788
@@ -32568,6 +32594,51 @@ dispensés de la formalité.
 	  - Loi n°1892-12-29
 
 
+##### Section IV : Institutions à caractère social
+
+##### Assistance et protection de l'enfance.
+
+###### Article 1067
+
+Sans préjudice du bénéfice de la loi du 3 janvier 1972 sur l'aide judiciaire (1), les certificats, significations, contrats
+et autres actes, faits en vertu des articles 40 à 87 du code de la famille et de l'aide sociale à l'enfance, ainsi qu'en
+vertu de la loi du 19 avril 1898 sur la répression des violences, voies de fait, actes de cruauté et attentats commis envers
+les enfants (2), concernant exclusivement le service de l'aide sociale à l'enfance, sont exonérés des droits de timbre et,
+sous réserve des dispositions des articles 679-3° et 1020, des droits d'enregistrement.
+
+Les comptes de tutelle sont approuvés par le conseil de famille et rendus sans frais.
+
+(1) La loi 91-647 du 10 juillet 1991, en vigueur le 1er janvier 1992, art. 74, remplace les références à la loi 72-11 du 3
+janvier 1972, abrogée. Les mots "aide juridictionnelle" remplacent les mots "aide judiciaire ou indemnisation des commissions
+et désignations d'office".
+
+(2) Codifié pour partie sous les articles 312, 349 à 353 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1020
+	  - CGI 679 3°
+	  - Code pénal 312, 349 à 353
+	  - Code de la famille et de l'aide sociale 40 à 87
+	  - Loi n°1898-04-19
+	  - Loi n°72-11 1972-01-03
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L228-6 (V)
+
+	**Modifié par**:
+
+	  - Loi n°86-17 1986-01-06 art. 31, art. 80 JORF 8 janvier 1986
+	  - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
+
+
 ##### Section V : Établissements financiers
 
 ##### 1° : Banque des règlements internationaux
@@ -35401,6 +35472,169 @@ crédit municipal.
 	  - Code général des impôts, CGI. - art. 1640 (V)
 	  - Code général des impôts, CGI. - art. 1647 C quinquies A (Ab)
 	  - Code général des impôts, CGI. - art. 1679 septies (V)
+
+
+###### Article 1464 C
+
+I. L'exonération de la taxe foncière sur les propriétés bâties et de la taxe professionnelle prévue aux articles 1383 A et
+1464 B est subordonnée à une décision de l'organe délibérant de chacune des collectivités territoriales ou de leurs
+groupements dotés d'une fiscalité propre dans le ressort desquels sont situés les établissements des entreprises en cause. 
+
+L'exonération porte sur la totalité de la part revenant à chaque collectivité territoriale, groupement doté d'une fiscalité
+propre ou établissement public ayant pris une délibération. Toutefois, les délibérations prises par les conseils municipaux
+s'appliquent à la cotisation de péréquation de la taxe professionnelle. 
+
+Lorsque tout ou partie de la part communale de la taxe foncière sur les propriétés bâties ou de la taxe professionnelle
+acquittée par les entreprises implantées sur une zone d'activités économiques créée ou gérée par un groupement de communes
+est affecté à ce groupement en vertu des articles 29 ou 11 de la loi n° 80-10 du 10 janvier 1980 portant aménagement de la
+fiscalité directe locale, celui-ci est substitué à la commune pour l'application du présent article. 
+
+II. Les délibérations mentionnées ci-dessus sont de portée générale. Elles peuvent concerner : 
+
+1° La taxe foncière sur les propriétés bâties et la taxe professionnelle ou l'une de ces deux taxes seulement ;
+
+2° Les établissements créés et les établissements repris par les entreprises visées à l'article 1464 B-I ou l'une seulement
+de ces deux catégories d'établissements. 
+
+Elles peuvent être prises jusqu'au 31 octobre 1983 ou, pour les entreprises créées en 1984, jusqu'au 1er juillet 1984.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1383 A
+	  - CGI 1464 B I
+	  - Loi n°80-10 1980-01-10 ART. 11, ART. 29
+	  - Loi n°80-10 du 10 janvier 1980 - art. 11 (M)
+
+	**Modifié par**:
+
+	  - Loi n°86-16 du 6 janvier 1986 - art. 36 (V) JORF 8 janvier 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
+	  - Code général des impôts, CGI. - art. 1383 A (V)
+	  - Code général des impôts, CGI. - art. 1464 B (V)
+	  - Code général des impôts, CGI. - art. 1586 nonies (V)
+	  - Code général des impôts, CGI. - art. 1602 A (V)
+
+
+###### Article 1465
+
+Dans les zones définies par l'autorité compétente où l'aménagement du territoire le rend utile, les collectivités locales et
+les communautés urbaines peuvent, par une délibération de portée générale, exonérer de la taxe professionnelle en totalité ou
+en partie les entreprises qui procèdent sur leur territoire, soit à des décentralisations, extensions ou créations
+d'activités industrielles ou de recherche scientifique et technique, ou de services de direction, d'études, d'ingénierie et
+d'informatique, soit à une reconversion d'activité, soit à la reprise d'établissements en difficulté. Cette délibération ne
+peut avoir pour effet de reporter l'application du régime d'imposition de droit commun au-delà du 1er janvier de la cinquième
+année suivant celle au cours de laquelle sont intervenues la décentralisation, la création, l'extension, la reconversion
+d'activité ou la reprise d'établissements [*délai*].
+
+Lorsqu'il s'agit de décentralisations, extensions ou créations d'établissements industriels ou de recherche scientifique et
+technique répondant à des conditions fixées par décret (1) en tenant compte notamment du volume des investissements et du
+nombre des emplois créés, l'exonération est acquise sans autre formalité. En cas de décentralisation, extension ou création
+de services de direction, d'études, d'ingénierie et d'informatique et en cas de reconversion d'activité ou de reprise
+d'établissements, elle est soumise à agrément dans les conditions prévues à l'article 1649 nonies.
+
+Quand l'agrément est nécessaire pour des entreprises petites ou moyennes, il est accordé par une procédure décentralisée.
+
+Quand l'agrément n'est pas nécessaire, l'exonération porte sur l'augmentation nette des bases d'imposition résultant des
+emplois créés et des immobilisations nouvelles appréciée par rapport à la dernière année précédant l'opération ou par rapport
+à la moyenne des trois dernières années si celle-ci est supérieure. Toutefois, le prix de revient des immobilisations
+exonérées ne peut excéder un million de francs [*montant*] par emploi créé.
+
+L'entreprise ne peut bénéficier d'une exonération non soumise à agrément qu'à condition de l'avoir indiqué au service des
+impôts au plus tard lors du dépôt de la première déclaration dans laquelle doivent figurer les éléments nouveaux concernés.
+
+L'entreprise déclare chaque année les éléments entrant dans le champ d'application de l'exonération. Deux périodes
+d'exonération ne peuvent courir simultanément.
+
+L'exonération cesse pour la période restant à courir lorsqu'au cours de cette période l'entreprise ne remplit plus les
+conditions exigées pour l'obtention de cette exonération.
+
+Pour l'application du présent article, les délibérations prises par les conseils municipaux s'appliquent aux impositions
+perçues au profit des groupements de communes autres que les communautés urbaines.
+
+Lorsque tout ou partie de la part communale de la taxe professionnelle acquittée par les entreprises implantées sur une zone
+d'activités économiques créée ou gérée par un groupement de communes est affectée à ce groupement en vertu de l'article 11 de
+la loi n° 80-10 du 10 janvier 1980 portant aménagement de la fiscalité directe locale, celui-ci est substitué à la commune
+pour l'application du présent article.
+
+Nonobstant les dispositions de l'article L174 du livre des procédures fiscales, toute entreprise qui cesse volontairement son
+activité pendant une période d'exonération prévue au présent article, ou dans les cinq années suivant la fin de celle-ci, est
+tenue de verser les sommes qu'elle n'a pas acquittées au titre de la taxe professionnelle.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article (2).
+
+(1) Annexe III, art. 322 G à 322 L.
+
+(2) Annexe II, art. 310 HB bis à 310 HB septies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1649 nonies
+	  - CGI L174
+	  - CGIAN2 310 HB bis
+	  - CGIAN2 310 HB quater
+	  - CGIAN2 310 HB quinquies
+	  - CGIAN2 310 HB septies
+	  - CGIAN2 310 HB sexies
+	  - CGIAN2 310 HB ter
+	  - CGIAN3 322 G
+	  - CGIAN3 322 H
+	  - CGIAN3 322 I
+	  - CGIAN3 322 J
+	  - CGIAN3 322 K
+	  - CGIAN3 322 L
+	  - Loi n°80-10 du 10 janvier 1980 - art. 11 (M)
+
+	**Modifié par**:
+
+	  - Loi n°86-16 du 6 janvier 1986 - art. 36 (V) JORF 8 janvier 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Décret n°88-988 du 17 octobre 1988 - art. 1 (V)
+	  - Loi n°95-115 du 4 février 1995 - art. 43 (VD)
+	  - Décret n°2010-713 du 28 juin 2010 - art. 1 (V)
+	  - Loi n°2015-991 du 7 août 2015 - art. 59
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1466 E (V)
+	  - Code de l'éducation - art. L632-6 (V)
+	  - Code général des impôts, CGI. - art. 1464 B (V)
+	  - Code général des impôts, CGI. - art. 1465 A (VD)
+	  - Code général des impôts, CGI. - art. 1465 B (V)
+	  - Code général des impôts, CGI. - art. 1466 (VT)
+	  - Code général des impôts, CGI. - art. 1466 C (V)
+	  - Code général des impôts, CGI. - art. 1466 D (V)
+	  - Code général des impôts, CGI. - art. 1466 F (V)
+	  - Code général des impôts, CGI. - art. 1586 nonies (VT)
+	  - Code général des impôts, CGI. - art. 1639 A ter (V)
+	  - Code général des impôts, CGI. - art. 1640 (V)
+	  - Code général des impôts, CGI. - art. 1647 C sexies (Ab)
+	  - Code général des impôts, CGI. - art. 1649 (V)
+	  - Code général des impôts, CGI. - art. 1679 septies (V)
+	  - Code général des impôts, CGI. - art. 39 quaterdecies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310 HB bis (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310 HB quater (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310 HB sexies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310 HB ter (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 322 G (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quinquies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB sexies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 quinquies (V)
 
 
 ###### Article 1466
