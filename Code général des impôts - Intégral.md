@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1988-01-05
+Version Consolidée au 1988-01-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2699,6 +2699,70 @@ déclarations est suivie directement entre l'administration et la copropriété 
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### III : Rémunérations allouées aux gérants et associés de certaines sociétés
+
+###### Article 62
+
+Les traitements, remboursements forfaitaires de frais et toutes autres rémunérations sont soumis à l'impôt sur le revenu au
+nom de leurs bénéficiaires s'ils sont admis en déduction des bénéfices soumis à l'impôt sur les sociétés par application de
+l'article 211, même si les résultats de l'exercice social sont déficitaires, lorsqu'ils sont alloués :
+
+Aux gérants majoritaires des sociétés à responsabilité limitée n'ayant pas opté pour le régime fiscal des sociétés de
+personnes dans les conditions prévues à l'article 3-IV du décret n° 55-594 du 20 mai 1955 modifié ou dans celles prévues à
+l'article 239 bis AA ;
+
+Aux gérants des sociétés en commandite par actions ;
+
+Aux associés en nom des sociétés de personnes, aux membres des sociétés en participation et aux associés mentionnés aux 4° et
+5° de l'article 8 lorsque ces sociétés ou exploitations ont opté pour le régime fiscal des sociétés de capitaux.
+
+Le montant imposable des rémunérations visées à l'alinéa précédent est déterminé  sous déduction des frais inhérents à
+l'exploitation sociale et effectivement supportés par les bénéficiaires dans l'exercice de leurs fonctions ainsi que des
+intérêts des emprunts visés aux 2° quater et 2° quinquies de l'article 83 dans les conditions et limites énoncées à cet
+article. Le revenu net ainsi obtenu est retenu dans les bases de l'impôt sur le revenu après application d'un abattement
+calculé dans les conditions prévues aux quatrième, cinquième et sixième alinéas du a du 5 de l'article 158 (1).
+
+(1) Disposition  applicable à compter de l'imposition des revenus de 1988.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 158 5 a
+	  - CGI 211
+	  - CGI 239 bis AA
+	  - CGI 8 4°, 5°
+	  - CGI 83 2° quater, 2° quinquies
+	  - CGIAN3 38 sexdecies OA
+	  - Décret n°55-594 1955-05-20 art. 3 IV
+
+	**Cité par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 4 (V)
+	  - Loi n°2003-1199 du 18 décembre 2003 - art. 9 (V)
+	  - Décret n°2015-1709 du 21 décembre 2015 - art. 1
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 211 (V)
+	  - Code de l'action sociale et des familles - art. R262-20 (VD)
+	  - Code de la sécurité sociale. - art. R821-4 (V)
+	  - Code de la sécurité sociale. - art. R845-3 (VD)
+	  - Code général des impôts, CGI. - art. 155 (VD)
+	  - Code général des impôts, CGI. - art. 158 (V)
+	  - Code général des impôts, CGI. - art. 163 quatervicies (V)
+	  - Code général des impôts, CGI. - art. 1754 (V)
+	  - Code général des impôts, CGI. - art. 200 sexies (Ab)
+	  - Code général des impôts, CGI. - art. 239 (V)
+	  - Code général des impôts, CGI. - art. 885 O bis (V)
+	  - Code général des impôts, CGI. - art. 885 R (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies-0 A (P)
+	  - Code rural et de la pêche maritime - art. D731-17 (V)
+	  - Livre des procédures fiscales - art. L54 (V)
+
+	**Modifié par**:
+
+	  - Loi n°88-15 du 5 janvier 1988 - art. 48 () JORF 6 janvier 1988
 
 
 ##### IV : Bénéfices de l'exploitation agricole
@@ -7612,6 +7676,68 @@ soumises au régime défini à l'article 33 bis.
 
 ##### 1 quater : Plus-values réalisées dans le cadre d'une activité agricole, artisanale, commerciale ou libérale
 
+###### Article 151 septies
+
+Les plus-values réalisées dans le cadre d'une activité agricole, artisanale, commerciale ou libérale par des contribuables
+dont les recettes n'excèdent pas le double de la limite (1) du forfait ou de l'évaluation administrative sont exonérées, à
+condition que l'activité ait été exercée pendant au moins cinq ans [*délai*], et que le bien n'entre pas dans le champ
+d'application de l'article 691.
+
+Lorsque ces conditions ne sont pas remplies, il est fait application :
+
+- des règles prévues aux articles 150 A à 150 S pour les terrains à bâtir et les terres à usage agricole ou forestier ;
+
+- du régime fiscal des plus-values professionnelles prévu aux articles 39 duodecies à 39 quindecies et à 93 quater pour les
+autres éléments de l'actif immobilisé.
+
+Les dispositions des articles 150 A à 150 S sont applicables aux plus-values réalisées, à compter du 1er janvier 1982, lors
+de la cession de locaux d'habitation meublés ou destinés à être loués meublés et faisant l'objet d'une location directe ou
+indirecte par des personnes autres que les loueurs professionnels. Les loueurs professionnels s'entendent des personnes
+inscrites en cette qualité au registre du commerce et des sociétés qui réalisent plus de 150.000 F de recettes annuelles ou
+retirent de cette activité au moins 50 % de leur revenu.
+
+(1) Plafond applicable aux plus-values réalisées à compter du 1er janvier 1988. Antérieurement les recettes ne devaient pas
+excéder la limite du forfait ou de l'évaluation administrative.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 A A CGI 150 S
+	  - CGI 39 duodecies
+	  - CGI 39 quaterdecies
+	  - CGI 39 quindecies
+	  - CGI 39 terdecies
+	  - CGI 691
+	  - CGI 93 quater
+
+	**Modifié par**:
+
+	  - Loi n°88-15 du 5 janvier 1988 - art. 49 () JORF 6 janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 41 (V)
+	  - Code de la sécurité sociale. - art. L613-1 (V)
+	  - Code général des impôts, CGI. - art. 102 ter (V)
+	  - Code général des impôts, CGI. - art. 151 nonies (V)
+	  - Code général des impôts, CGI. - art. 151 octies (V)
+	  - Code général des impôts, CGI. - art. 151 octies B (V)
+	  - Code général des impôts, CGI. - art. 155 (VD)
+	  - Code général des impôts, CGI. - art. 221 bis (V)
+	  - Code général des impôts, CGI. - art. 238 quindecies (V)
+	  - Code général des impôts, CGI. - art. 50-0 (V)
+	  - Code général des impôts, CGI. - art. 69 (V)
+	  - Code général des impôts, CGI. - art. 70 (V)
+	  - Code général des impôts, CGI. - art. 93 quater (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 A (V)
+
+
 ###### Article 151 sexies
 
 La plus-value réalisée dans le cadre d'une activité agricole, artisanale, commerciale ou libérale est calculée, si le bien
@@ -10475,6 +10601,25 @@ correspondant respectivement à la part de l'indemnité afférente à chacune de
 	**Anciens textes**:
 
 	  - Loi n°78-753 1978-07-17 art. 57
+
+
+###### Article 163 quinquies A
+
+L'aide de l'Etat versée en application de l'article L 351-24 du code du travail et utilisée dans les conditions énoncées à
+cet article n'est pas comprise dans le revenu imposable du bénéficiaire. Elle est ajoutée au revenu imposable de l'année au
+cours de laquelle le bénéficiaire cède son entreprise individuelle, cesse son activité ou cède les actions ou parts de la
+société créée ou reprise, ou au cours de laquelle la société créée ou reprise cesse son activité, si la cession ou cessation
+intervient dans les cinq ans qui suivent l'année du versement de l'aide.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°88-15 du 5 janvier 1988 - art. 44 () JORF 6 janvier 1988
+
+	**Cite**:
+
+	  - Code du travail - art. L351-24 (M)
 
 
 ##### b : Détaxation du revenu investi en actions
@@ -16324,6 +16469,112 @@ III. La fusion visée au 3° du II bénéficie du régime prévu à l'article 21
 	**Liens**:
 
 	  - HISTO: Edition du 10 août 1987
+
+
+###### Article 220 quater A
+
+I. La société constituée exclusivement pour le rachat de tout ou partie du capital d'une entreprise, dans les conditions
+mentionnées au paragraphe II (1), peut bénéficier d'un crédit d'impôt.
+
+Pour chaque exercice, le crédit d'impôt est égal à un pourcentage des intérêts dus au titre de cet exercice sur les emprunts
+contractés par la société constituée en vue du rachat au cours de l'année de création de cette société. Ce pourcentage est
+égal au taux normal de l'impôt sur les sociétés applicable aux bénéfices réalisés par la société rachetée au titre de
+l'exercice précédent. Le crédit d'impôt est limité au montant de l'impôt sur les sociétés acquitté par la société rachetée au
+titre de ce dernier exercice, dans la proportion des droits sociaux que la société nouvelle détient dans la société rachetée.
+Il est imputé sur l'impôt sur les sociétés dû au titre du même exercice par la société nouvelle ; l'excédent est remboursé à
+la société.
+
+Le crédit d'impôt prévu au présent article ne constitue pas un produit imposable pour la détermination du résultat de la
+société créée. Les intérêts qui servent de base au calcul du crédit d'impôt ne constituent pas une charge déductible pour la
+détermination de ce résultat imposable. Si le crédit d'impôt est limité par application des dispositions de l'alinéa
+précédent, le montant non déductible est réduit dans la même proportion.
+
+Les actions de la société nouvelle peuvent bénéficier d'un droit de vote double dès leur émission.
+
+La société nouvelle peut émettre des obligations convertibles ou des obligations à bons de souscription d'actions dès sa
+création. Pendant un délai de deux ans, ces titres ne peuvent être cédés qu'aux porteurs de titres de la société nouvelle.
+
+Les administrateurs de la société rachetée peuvent lui être liés par un contrat de travail.
+
+II. Le bénéfice des dispositions du paragraphe I est subordonné aux conditions suivantes :
+
+a) La société rachetée et la société nouvelle doivent être soumises au régime de droit commun de l'impôt sur les sociétés.
+
+b) La société rachetée doit exercer une activité industrielle et commerciale au sens de l'article 34 ou une activité
+professionnelle au sens du 1 de l'article 92 ou une activité agricole. Elle doit avoir employé au moins vingt salariés
+[*nombre, effectif*] au cours de chacune des deux années qui précèdent le rachat [*période*].
+
+c) Les droits de vote attachés aux actions ou aux parts de la société nouvelle doivent être détenus pour plus de 50 p. 100
+par les personnes qui, à la date du rachat, sont salariées de la société rachetée. Ce pourcentage est apprécié en tenant
+compte des droits de vote attachés aux titres émis par la société nouvelle ainsi que de ceux qui sont susceptibles de
+résulter de la conversion d'obligations ou de l'exercice de bons de souscription d'actions.
+
+Pour l'application de ces dispositions, le salarié d'une entreprise dont le capital est détenu pour plus de 50 p. 100 par la
+société rachetée est assimilé à un salarié de cette dernière.
+
+Ces droits ne doivent pas être détenus, directement ou indirectement, pour plus de 50 p. 100 par d'autres sociétés.
+
+Pour l'application des dispositions du présent paragraphe, les droits de vote de la société nouvelle qui sont détenus par une
+société en nom collectif ou une société civile, n'ayant pas opté pour l'impôt sur les sociétés, constituée exclusivement
+entre les personnes salariées mentionnées au premier alinéa du présent c, sont considérés comme détenus par ces mêmes
+personnes, si la société a pour seul objet la détention des titres de la société nouvelle.
+
+Si des titres de la société nouvelle sont cédés par la société en nom collectif ou la société civile ou si des titres de
+l'une de ces deux dernières sociétés sont cédés par les salariés, les sanctions prévues aux quatrième et cinquième alinéas du
+paragraphe II de l'article 83 bis et à l'article 1740 quinquies sont applicables.
+
+d) La société nouvelle doit détenir, dès sa création, plus de 50 p. 100 des droits de vote de la société rachetée. La
+direction de la société rachetée doit être assurée par une ou plusieurs des personnes salariées mentionnées au c.
+
+Un salarié ne peut détenir, directement ou indirectement, 50 p. 100 ou plus des droits de vote de la société nouvelle ou de
+la société rachetée. Les titres de la société rachetée qui sont détenus, directement ou indirectement, par les salariés
+mentionnés au c ne peuvent être cédés à la société nouvelle que contre remise de titres de cette dernière société.
+
+En cas de fusion des deux sociétés, les salariés en cause doivent détenir plus de 50 p. 100 des droits de vote de la société
+qui résulte de la fusion.
+
+Les emprunts mentionnés au deuxième alinéa du paragraphe I doivent être contractés pour une durée égale à quinze ans au plus.
+Leur taux actuariel brut est au plus égal au taux moyen de rendement brut à l'émission des obligations des sociétés privées
+de l'année civile qui précède la date du contrat, majoré de deux points et demi. Ils ne doivent comporter aucun autre
+avantage ou droit au profit du prêteur autres que ceux attachés à des obligations convertibles ou à des obligations assorties
+de bons de souscription d'actions mentionnées au dernier alinéa du paragraphe I.
+
+Le rachat est effectué entre le 15 avril 1987 et le 31 décembre  1991 [*dates, période*].
+
+(1) Voir l'article 1740 quinquies pour le cas ou l'une des conditions cesse d'être satisfaite.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1740 quinquies
+	  - CGI 34
+	  - CGI 83 bis II al. 4, al. 5
+	  - CGI 92 1
+
+	**Modifié par**:
+
+	  - Loi n°88-15 du 5 janvier 1988 - art. 39 () JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - Loi n°90-1258 du 31 décembre 1990 - art. 5 (V)
+	  - Code du travail - art. L3332-15 (V)
+	  - Code général des impôts, CGI. - art. 1757 (V)
+	  - Code général des impôts, CGI. - art. 220 quater B (V)
+	  - Code général des impôts, CGI. - art. 223 L (V)
+	  - Code général des impôts, CGI. - art. 726 (V)
+	  - Code général des impôts, CGI. - art. 83 bis (VT)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies F (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 RA (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 RB (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 RC (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 RD (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 RE (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 RF (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 RG (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 S (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 W (V)
 
 
 ###### Article 220 quater B
@@ -38777,6 +39028,35 @@ au profit du Conservatoire de l'espace littoral et des rivages lacustres.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 281 L (V)
 
 
+###### Article 795 A
+
+Sont exonérés des droits de mutation à titre gratuit les biens immeubles par nature ou par destination qui sont, pour
+l'essentiel, classés ou inscrits sur l'inventaire supplémentaire des monuments historiques, ainsi que les biens meubles qui
+en constituent le complément historique ou artistique, dès lors que les héritiers, les donataires ou les légataires ont
+souscrit avec les ministres chargés de la culture et des finances une convention à durée indéterminée prévoyant le maintien
+dans l'immeuble des meubles exonérés et leurs conditions de présentation, les modalités d'accès du public ainsi que les
+conditions d'entretien des biens exonérés, conformément à des dispositions types approuvées par décret.
+
+En cas de non-respect des règles fixées par cette convention, les biens exonérés sont soumis aux droits de mutation sur la
+base de leur valeur au jour où la convention n'est pas respectée ou de la valeur déclarée lors de la donation ou du décès si
+cette valeur est supérieure et aux taux auxquels ils auraient été soumis lors de leurs transmission.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L623-1 (V)
+	  - Code général des impôts, CGI. - art. 1727 (VD)
+	  - Code général des impôts, CGI. - art. 885 H (V)
+	  - Code général des impôts, CGI. - art. 885 I (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 281 bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 281 ter (V)
+
+	**Créé par**:
+
+	  - Loi n°88-12 1988-06-01 art. 5 I JORF 6 janvier 1988
+
+
 ###### Article 796
 
 I  Sont exonérées de l'impôt de mutation par décès les successions :
@@ -54912,6 +55192,137 @@ bases d'imposition par application du taux de taxe professionnelle en vigueur da
 
 
 #### Chapitre III : Fonds de péréquation de la taxe professionnelle
+
+##### Section I : Fonds départementaux de péréquation de la taxe professionnelle.
+
+###### Article 1648 A
+
+I. Lorsque dans une commune les bases d'imposition d'un établissement, divisées par le nombre d'habitants, excèdent deux fois
+la moyenne des bases de taxe professionnelle par habitant constatée au niveau national, il est perçu directement, au profit
+d'un fonds départemental de la taxe professionnelle, un prélèvement égal au produit du montant des bases excédentaires par le
+taux en vigueur dans la commune (1).
+
+(Périmé).
+
+Pour la détermination du potentiel fiscal, chaque fois qu'il est fait référence à cette notion, est prise en compte la valeur
+nette des bases de taxe professionnelle après écrêtement.
+
+Dans le cas où une commune visée par les dispositions qui précèdent appartient à un groupe de communes auquel elle versait,
+avant le 1er janvier 1976, une contribution budgétaire calculée par référence au produit global de sa taxe professionnelle ou
+s'était engagée, avant cette date, par accord conventionnel, à reverser une partie de ce produit à une ou plusieurs communes
+voisines, il est appliqué sur les bases de cette commune, pour l'application des premier et deuxième alinéas, une réduction
+de bases correspondant au montant des sommes en cause.
+
+(Périmé). Pour les établissements créés avant le 1er janvier 1976 , à l'exception de ceux produisant de l'énergie ou traitant
+des combustibles, l'assiette du prélèvement est limitée de manière que la commune conserve au moins 80 % du montant des bases
+de taxe professionnelle imposables à son profit en 1979.
+
+Les dispositions du présent paragraphe ne s'appliquent pas aux agglomérations nouvelles.
+
+II. Les ressources du fond sont réparties par le conseil général si les collectivités concernées sont situées dans les
+limites d'un même département, ou par une commission interdépartementale réunie à l'initiative de l'un des conseils si les
+communes concernées sont situées dans deux ou plusieurs départements. Chaque conseil général désigne sept membres pour siéger
+à cette commission.
+
+La liste des communes concernées est arrêtée par le conseil général du département où est implanté l'établissement dont les
+bases sont écrêtées ou par la commission interdépartementale lorsque plusieurs départements sont concernés.
+
+Sur ce fonds, le conseil général prélève, par priorité, au profit des communes ou syndicats de communes bénéficiaires de ces
+ressources et à concurrence du montant de l'écrêtement, les sommes qui leur sont nécessaires pour permettre le remboursement
+des annuités d'emprunts contractés par eux avant le 1er juillet 1975.
+
+Le solde est réparti :
+
+1° D'une part entre les communes, les groupements de communes et les agglomérations nouvelles, défavorisés par la faiblesse
+de leur potentiel fiscal ou l'importance de leurs charges ;
+
+2° D'autre part :
+
+a. Entre les commune qui sont situées à proximité de l'établissement lorsqu'elles ou leurs groupements subissent de ce fait
+un préjudice ou une charge quelconque et en particulier lorsqu'une partie des salariés de cet établissement y réside, le
+nombre de ceux-ci étant un élément déterminant de la répartition ; b. Entre les communes d'implantation des barrages
+réservoirs et barrages retenues conçus et construits en vue de régulariser le débit des fleuves auprès desquels sont situés
+les établissements mentionnés au III qui produisent de l'énergie en traitant des combustibles nucléaires, mais à l'exclusion
+des communes d'implantation des barrages réservoirs et retenues dont l'objet principal est la production d'énergie
+électrique.
+
+Les communes mentionnées au b ci-dessus bénéficient d'une fraction égale à 8 p. 100 du minimum des ressources réservées à la
+catégorie définie au 2°. Cette fraction est répartie par le conseil général du département où sont situées les communes
+d'implantation du barrage ou par une commission interdépartementale lorsque les communes sont situées sur le territoire de
+plusieurs départements.
+
+Une commune d'implantation de barrage réservoir ou de barrage retenue ne peut bénéficier d'une attribution , pour un même
+fonds départemental, qu'au titre de l'une ou l'autre des catégories définies au a et au b ci-dessus.
+
+Chacune des catégories définies aux 1° et 2° recevra au minimum 40 % des ressources de ce fonds.
+
+III. Lorsque l'excédent provient d'un établissement produisant de l'énergie ou traitant des combustibles, créé à partir du
+1er janvier 1976, la répartition de la fraction de ressources mentionnée au 2° du II, établie par le ou les départements
+concernés dans les conditions prévues au II, est soumise à l'accord, à la majorité qualifiée, des communes d'implantation et
+des communes concernées, telles qu'elles sont définies au 2° du II (1).
+
+Pour l'application du présent paragraphe, chaque unité de production ou de traitement est considérée comme un établissement.
+
+IV. A défaut d'accord prévu au II sur le plan interdépartemental et au III, la répartition est effectuée par arrêté du
+ministre de l'intérieur.
+
+IV bis- (Périmé).
+
+V. Une fraction des recettes départementales de la taxe professionnelle peut également être affectée au fonds par décision du
+conseil général. Ce supplément de recettes est réparti par lui entre les communes suivant les critères qu'il détermine.
+
+V bis - (Devenu sans objet).
+
+V ter - Pour l'application des paragraphes II et suivants, le potentiel fiscal de chaque commune membre d'une communauté ou
+d'un syndicat d'agglomération nouvelle visés à l'article 1609 nonies B est calculé de la façon suivante :
+
+a. Pour la première année de fonctionnement de la communauté ou du syndicat d'agglomération nouvelle, le potentiel fiscal de
+chaque commune intègre, au titre de la taxe professionnelle, une quote-part des bases d'imposition de l'ensemble de
+l'agglomération, proportionnelle à la population de la commune ;
+
+b. A compter de la seconde année de fonctionnement de la communauté ou du syndicat d'agglomération nouvelle, le potentiel
+fiscal de chaque commune est celui qui est défini au premier alinéa de l'article 31 de la loi n° 83-636 du 13 juillet 1983.
+
+VI. Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat (2).
+
+(1) La moyenne des bases de taxe professionnelle par habitant retenue en 1987 est réduite de 16 %.
+
+(2) Voir annexe II, art. 328 à 328 B et décret n° 81-120 du 6 février 1981 (J.O. des 9 et 10).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1609 nonies B
+	  - CGIAN2 328 à CGIAN2 328 B
+	  - Décret n°81-120 1981-02-06
+	  - Loi n°83-636 1983-07-13 art. 31
+
+	**Cité par**:
+
+	  - Loi n°80-10 du 10 janvier 1980 - art. 11 (V)
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 6 (V)
+	  - Décret n°88-988 du 17 octobre 1988 - art. 1 (V)
+	  - Décret n°88-988 du 17 octobre 1988 - art. 2 (VD)
+	  - Décret n°88-988 du 17 octobre 1988 - art. 3 (VD)
+	  - Décret n°88-988 du 17 octobre 1988 - art. 4 (VD)
+	  - Décret n°88-988 du 17 octobre 1988 - art. 5 (V)
+	  - Décret n°88-988 du 17 octobre 1988 - art. 6 (V)
+	  - Loi n°94-1131 du 27 décembre 1994 - art. 2 (V)
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 85 (V)
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 78 (VD)
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 125 (Ab)
+	  - Code général des collectivités territoriales - art. L2334-14-1 (V)
+	  - Code général des collectivités territoriales - art. L2334-4 (V)
+	  - Code général des collectivités territoriales - art. L2531-13 (V)
+	  - Code général des collectivités territoriales - art. L5334-13 (VT)
+	  - Code général des collectivités territoriales - art. L5334-4 (V)
+	  - Code général des impôts, CGI. - art. 1640 B (V)
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 45 () JORF 6 janvier 1988
+
 
 ##### Section II : Fonds national de péréquation de la taxe professionnelle.
 
