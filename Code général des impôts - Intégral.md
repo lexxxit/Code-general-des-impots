@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1983-07-09
+Version Consolidée au 1983-07-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4626,6 +4626,39 @@ subordonnée à la condition que le contribuable ait préalablement effectué de
 	  - HISTO: Edition du 22 avril 1998
 
 
+###### Article 163 duodecies
+
+Les contribuables qui, au cours d'une année, utilisent les possibilités de déduction ouvertes par les articles 163 sexies à
+163 decies ne peuvent cumuler le bénéfice de cette déduction avec l'abattement sur les dividendes d'actions émises en France
+prévu au 3 de l'article 158 que dans la limite d'un total de 3.000 F.
+
+Les valeurs acquises dans le cadre d'un engagement d'épargne à long terme ne sont pas prises en considération pour
+l'application du régime de détaxation de l'épargne investie en actions, sauf si le contribuable renonce pour l'année en cours
+et les années suivantes au bénéfice de l'exonération des produits des placements effectués en vertu de son engagement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 sexies à 163 decies, 158
+
+	**Liens**:
+
+	  - SPEC_APPLI: Conséquence du transfert de l'article 163 undecies
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 1 () JORF 24 mai 1998
+	  - HISTO: Edition du 10 juillet 1983
+	  - HISTO: Edition du 22 avril 1998
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+	  - Décret n°98-400 1998-05-22
+
+	**Anciens textes**:
+
+	  - Loi n°78-741 du 13 juillet 1978 - art. 7 (V)
+
+
 ###### Article 163 nonies
 
 Pour bénéficier de la déduction prévue à l'article 163 septies le contribuable devra :
@@ -4752,6 +4785,36 @@ décembre 1981 est déductible de leur revenu net global dans les conditions et 
 	**Codifié par**:
 
 	  - Décret n°98-400 1998-05-22
+
+
+###### Article 163 terdecies
+
+Un décret en conseil d'Etat fixe les modalités d'application des articles 163 sexies à 163 duodecies et 163 quindecies (1).
+
+(1) Annexe II, art. 75-O E à 75-0 W.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 sexies à 163 duodecies, 163 quindecies
+	  - CGIAN2 75-0 E à 75-0 W
+
+	**Liens**:
+
+	  - SPEC_APPLI: Conséquence du transfert de l'article 163 undecies
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 1 () JORF 24 mai 1998
+	  - HISTO: Edition du 10 juillet 1983
+	  - HISTO: Edition du 22 avril 1998
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+	  - Décret n°98-400 1998-05-22
+
+	**Anciens textes**:
+
+	  - Loi n°78-741 du 13 juillet 1978 - art. 8 (V)
 
 
 ##### 2° : Régime applicable du 1er janvier au 31 décembre 1982.
@@ -7133,6 +7196,32 @@ sociales destinées exclusivement à leurs salariés.
 	  - Loi n°78-763 du 19 juillet 1978 - art. 40 (V)
 
 
+###### Article 231 bis L
+
+Les salaires versés par les organismes et oeuvres mentionnés aux a et b du 1° du 7 de l'article 261 ainsi que par les
+organismes permanents à caractère social des collectivités locales et des entreprises, aux personnes recrutées à l'occasion
+et pour la durée des manifestations de bienfaisance ou de soutien exonérées de taxe sur la valeur ajoutée en vertu du c du 1°
+du 7 de l'article 261, sont exonérés de taxe sur les salaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 2002-09-12 5L-5-02
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 9 (P) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 261 (V)
+
+
 ##### Section V : Redevance fixe des mines.
 
 ###### Article 234
@@ -8261,6 +8350,73 @@ ses associés.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 J (V)
 
 
+##### XIV : Régime fiscal des groupements d'intérêt économique et de leurs membres
+
+###### Article 239 quater
+
+I  Les groupements d'intérêt économique constitués et fonctionnant dans les conditions prévues par l'ordonnance n° 67-821 du
+23 septembre 1967 n'entrent pas dans le champ d'application de l'article 206-1, mais chacun de leurs membres est
+personnellement passible, pour la part des bénéfices correspondant à ses droits dans le groupement, soit de l'impôt sur le
+revenu, soit de l'impôt sur les sociétés s'il s'agit de personnes morales relevant de cet impôt.
+
+Pour l'application de cette disposition, la répartition est effectuée dans les conditions fixées par le contrat de groupement
+ou, à défaut, par fractions égales.
+
+II  (Périmé).
+
+III  Les membres d'un groupement d'intérêt économique bénéficient des mêmes avantages fiscaux que les membres des sociétés
+conventionnées instituées par l'ordonnance n° 59-248 du 4 février 1959 (1) et des groupements visés aux articles 39 octies-2
+et 39 octies A, lorsqu'ils remplissent toutes les conditions prévues par ces dispositions.
+
+(1) Voir art. 39 quinquies C, 40 quinquies et 93 ter
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 67-821 1967-09-23
+	  - CGI 206 1
+	  - CGI 39 octies 2
+	  - CGI 39 octies A
+	  - CGI 39 quinquies C
+	  - CGI 40 quinquies
+	  - CGI 93 ter
+	  - Ordonnance 59-248 1959-02-04
+	  - Loi n°1901-07-01
+
+	**Cité par**:
+
+	  - Arrêté du 4 mai 2009 - art. Annexe (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 49 septies M (V)
+	  - Code de commerce - art. A123-84 (V)
+	  - Code général des impôts, CGI. - art. 199 undecies B (V)
+	  - Code général des impôts, CGI. - art. 202 ter (V)
+	  - Code général des impôts, CGI. - art. 217 undecies (V)
+	  - Code général des impôts, CGI. - art. 220 septies (P)
+	  - Code général des impôts, CGI. - art. 238 bis K (V)
+	  - Code général des impôts, CGI. - art. 244 quater B (V)
+	  - Code général des impôts, CGI. - art. 244 quater C (V)
+	  - Code général des impôts, CGI. - art. 244 quater E (V)
+	  - Code général des impôts, CGI. - art. 244 quater F (V)
+	  - Code général des impôts, CGI. - art. 244 quater G (VD)
+	  - Code général des impôts, CGI. - art. 244 quater H (V)
+	  - Code général des impôts, CGI. - art. 244 quater J (VD)
+	  - Code général des impôts, CGI. - art. 244 quater L (V)
+	  - Code général des impôts, CGI. - art. 244 quater M (V)
+	  - Code général des impôts, CGI. - art. 244 quater O (V)
+	  - Code général des impôts, CGI. - art. 244 quater P (P)
+	  - Code général des impôts, CGI. - art. 244 quater U (V)
+	  - Code général des impôts, CGI. - art. 244 quater V (V)
+	  - Code général des impôts, CGI. - art. 244 quater W (V)
+	  - Code général des impôts, CGI. - art. 39 C (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZO (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 decies (M)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+
 ##### XIV bis : Sociétés civiles de moyens
 
 ###### Article 239 quater A
@@ -8384,6 +8540,35 @@ l'administration, en fin de bail, les renseignements nécessaires pour établir 
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 239 sexies A
+
+Les dispositions du I de l'article 239 sexies sont applicables aux locataires qui acquièrent des installations et des
+matériels qui leur sont donnés en crédit-bail par les sociétés agréées pour le financement des économies d'énergie
+mentionnées au 3° sexies de l'article 208.
+
+Ces sociétés doivent remplir les obligations prévues au II de l'article 239 sexies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 239 sexies, 208
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+	  - HISTO: Edition du 31 mars 2000
+	  - TXT_ASSOCIE: Instruction 1997-05-29 5G-8-97
+
+	**Créé par**:
+
+	  - Loi n°82-1152 du 30 décembre 1982 - art. 32 (V) JORF 31 décembre 1982 en vigueur le 1er janvier 1983
+
+	**Abrogé par**:
+
+	  - Loi - art. 29 (V) JORF 31 décembre 1999
 
 
 ##### XVII : Sociétés civiles autorisées à faire publiquement appel à l'épargne.
@@ -22703,6 +22888,40 @@ propriété des immeubles ou droits immobiliers.
 	  - Décret n°83-899 1983-10-06
 
 
+##### Section 0II : Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales
+
+###### Article 990 G
+
+La taxe prévue à l'article 990 D n'est pas déductible pour l'assiette de l'impôt sur le revenu ou de l'impôt sur les
+sociétés.
+
+La section 0II devient 0I bis dans l'édition du 31 mars 1999 :
+
+décret 99-381 du 18 mai 1999 art. 1, JO du 20 mai.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 990 D
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 39 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 4 (P) JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983
+
+
 ##### Section I : Taxe sur les conventions d'assurances
 
 ##### I : Champ d'application
@@ -33246,6 +33465,38 @@ préjudice de l'intérêt de retard prévu à l'article 1734 et compté de la da
 	**Cite**:
 
 	  - CGI 1734
+
+
+###### Article 1756 sexies
+
+1. Sauf en cas de manoeuvres frauduleuses, les majorations fiscales, de quelque nature qu'elles soient, ne sont pas
+applicables aux contribuables qui auront fait connaître spontanément, par lettre recommandée expédiée dans les trois mois
+suivant leur adhésion à un centre de gestion ou une association agréés, les insuffisances, inexactitudes ou omissions que
+comportent les déclarations. 
+
+2. Le bénéfice de cette mesure est subordonné à la double condition :
+
+a. Que ces insuffisances, inexactitudes ou omissions n'aient fait l'objet, antérieurement à la date d'expédition de la lettre
+recommandée mentionnée au 1, de l'engagement d'aucune procédure administrative ou judiciaire ni d'aucune notification de
+redressement ; 
+
+b. Que l'impôt en principal soit acquitté dans les délais impartis (1). 
+
+(1) Dispositions applicables à compter du 1er janvier 1983.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 72 (V) JORF 30 décembre 1982 en vigueur le 1er janvier 1983
 
 
 ### Section II : Dispositions particulières
