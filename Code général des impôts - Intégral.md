@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1979-01-01
+Version Consolidée au 1979-03-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -348,7 +348,194 @@ société professionnelle des papiers de presse.
 	  - Loi n°78-1240 du 29 décembre 1978 - art. 38 () JORF 30 décembre 1978
 
 
+### Titre III : Contributions indirectes et taxes diverses
+
+#### Chapitre premier : Boissons
+
+##### Section IV : Commerce
+
+##### II : Marchands en gros
+
+##### 2° : Obligations
+
+###### Article 488
+
+Chez les marchands en gros de spiritueux, les produits en bouteilles doivent être rangés distinctement par titre
+alcoométrique volumique qui doit être indiqué d'une manière apparente par des étiquettes.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 1er juillet 1981
+	  - HISTO: Edition du 31 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°79-200 1979-03-05 art. 3 JORF 11 mars 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Abrogé par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
+
+
+##### 3° : Comptes
+
+###### Article 491
+
+Pour les eaux-de-vie et alcools naturels bénéficiant de titres de mouvement blancs ou jaune d'or un compte spécial est suivi,
+et les spiritueux qui y sont pris en charge ne peuvent être l'objet d'aucun coupage avec d'autres spiritueux provenant du
+compte général, ni d'aucune addition de substances propres à en modifier la composition ou le goût. Si un mouillage est
+nécessaire pour les ramener au titre alcoométrique volumique de consommation, l'opération doit faire l'objet d'une
+déclaration préalable indiquant la quantité d'eau qui doit être ajoutée et l'augmentation de volume escomptée.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 1er juillet 1981
+	  - HISTO: Edition du 31 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°79-200 1979-03-05 ART. 3 JORF 11 MARS 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Abrogé par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
+
+
+##### III : Débitants
+
+##### 2 : Autres débitants
+
+##### 3° : Interdictions relatives à la détention des alcools
+
+###### Article 505
+
+1. Il est interdit aux débitants de boissons de détenir des alcools ayant le caractère de spiritueux rectifiés au sens de la
+réglementation en matière de fraudes commerciales, à l'exception des eaux-de-vie de fantaisie et des genièvres artificiels ou
+de fantaisie ne titrant pas plus de 40 % vol. et reçus en bouteilles capsulées et sous étiquette mentionnant les nom et
+adresse du fabricant ou du préparateur.
+
+2. Sans préjudice des interdictions prévues au 1, il est interdit aux personnes visées à l'article 502 de recevoir, détenir,
+vendre à consommer sur place ou à emporter, expédier des spiritueux autrement que dans des bouteilles conditionnées comme il
+est dit à l'article 464 bis. Des arrêtés du ministre de l'économie et des finances déterminent, en tant que de besoin, les
+conditions d'application des dispositions du présent paragraphe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 464 bis, 502
+
+	**Modifié par**:
+
+	  - Décret n°79-200 1979-03-05 ART. 4 JORF 11 MARS 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1816 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dans l'édition 1997, les mots "monopoles fiscaux" disparaissent de l'intitulé du Titre III et de celui du chapitre IV
+	  - HISTO: Edition du 1er juillet 1981
+
+
 ### Titre III : Contributions indirectes et monopoles fiscaux - taxes diverses
+
+#### Chapitre premier : Boissons
+
+##### Section I : Alcools
+
+##### A : Production
+
+##### V : Bouilleurs ambulants
+
+##### Registre journal.
+
+###### Article 330
+
+Le loueur d'alambic ambulant est tenu de consigner sur un registre journal dont la remise lui est faite par l'administration,
+le jour, l'heure et le lieu où commence et s'achève chacune de ses distillations, les quantités et espèces de matières mises
+en oeuvre et, dès l'achèvement de chaque chauffe ou repasse, le volume et le titre alcoométrique volumique [*degré*] des
+produits obtenus [*mentions obligatoires*].
+
+En cas d'emploi d'alambics à marche continue, l'indication du volume et du titre alcoométrique volumique des produits obtenus
+a lieu à chaque interruption des travaux, à chaque visite des employés, ou, à défaut, en fin de journée.
+
+Le loueur doit représenter le registre à toute réquisition des agents des impôts, soit à son domicile ordinaire ou
+temporaire, soit en tous autres lieux où il se livre à l'exercice de sa profession.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°79-200 1979-03-05 ART. 3 JORF 11 MARS 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 331 (V)
+
+
+##### VII : Fabrication de produits divers
+
+##### Mistelles, vermouths, vins de liqueur et produits similaires.
+
+###### Article 343
+
+Toute fabrication de mistelles, vermouths, vins de liqueur ou apéritifs à base de vin, de cidre ou de poiré, effectuée en vue
+de la vente par une personne autre qu'un producteur mettant exclusivement en oeuvre des produits de sa récolte, doit être
+précédée d'une déclaration faite au bureau de déclarations de la direction générale des impôts [*lieu*], quatre heures avant
+le début des opérations dans les villes et douze heures dans les campagnes [*délai*]. Cette déclaration indique le volume et
+le titre alcoométrique volumique [*degré*] des vins, cidres ou poirés à viner et de l'alcool à ajouter [*mentions
+obligatoires*] ; l'alcool pur contenu naturellement dans les vins, cidres ou poirés est soumis à la prise en charge ou au
+paiement des droits propres à l'alcool.
+
+Les préparateurs doivent s'engager à rembourser à l'administration le montant des frais de surveillance.
+
+Les contestations qui peuvent s'élever sur la nature des produits visés au présent article sont déférés à la commission de
+conciliation et d'expertise douanière [*autorité compétente*] chargée de statuer sur les contestations portant sur l'espèce,
+l'origine ou la valeur des marchandises déclarées dans les bureaux de douane.
+
+En la circonstance, le représentant du directeur général des douanes et droits indirects est remplacé par un représentant du
+directeur général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°79-200 1979-03-05 ART. 3 JORF 11 MARS 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 quinquies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 C (V)
+
 
 #### Chapitre III quinquies : Cotisation de solidarité sur les graines oléagineuses.
 
@@ -1213,6 +1400,182 @@ commission spéciale dont la composition, l'organisation et le fonctionnement so
 
 
 ### CONTRIBUTIONS INDIRECTES
+
+#### BOISSONS
+
+##### ALCOOLS.
+
+###### Article 313
+
+Est interdite la distillation de marcs de raisins, transformés ou non en dilutions, ne renfermant pas, par 100 kilogrammes :
+
+4,60 litres d'alcool pur, dans les régions où le degré minimal des vins est fixé à 10 % vol. au moins ;
+
+3,75 litres d'alcool pur, dans les régions où le degré minimal des vins est fixé à 8,5 % vol. au moins ;
+
+3 litres d'alcool pur, dans les autres régions.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°79-200 1979-03-05 art. 4 JORF 11 mars 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°88-1001 1988-10-20
+
+	**Liens**:
+
+	  - PEREMPTION: Règlement CEE 822-87 1987-03-16 art. 35 2
+
+
+###### Article 349
+
+Les produits de parfumerie et de toilette à base d'alcool ou présentés sous une dénomination qui, d'après les usages,
+s'applique à des produits renfermant de l'alcool ne peuvent être fabriqués, importés, transportés, détenus en vue de la
+vente, mis en vente ou vendus que si leur titre alcoométrique atteint au moins 50 % volumique à la température de 20 degrés
+Celsius, et si ce titre est indiqué clairement sur les récipients, factures et tous papiers commerciaux.
+
+Des arrêtés ministériels peuvent toutefois admettre un titre alcoométrique inférieur à 50 % [*degré*] volumique pour les
+produits dont la destination justifie cet abaissement (1).
+
+(1) Annexe IV, art. 52.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 52
+
+	**Modifié par**:
+
+	  - Décret n°79-200 1979-03-05 ART. 3, ART. 4 JORF 11 MARS 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 52 (V)
+
+
+###### Article 388
+
+Peuvent être importés en France continentale et en Corse, en exemption de la soulte perçue pour le compte du service des
+alcools (1) et jusqu'à concurrence d'une quantité annuelle fixée à 204.050 hectolitres d'alcool pur jusqu'au 31 décembre 1984
+ou jusqu'à la date d'application du règlement communautaire relatif au marché des alcools si cette date est antérieure au 1er
+janvier 1985, les rhums et tafias originaires des départements et territoires français d'outre-mer et des pays de la zone
+franc ayant passé avec la France des accords à cet effet, qui présentent les caractères spécifiques définis par les décrets
+rendus en exécution de la loi du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de services et ne
+titrent pas plus de 80 % vol.
+
+Des arrêtés déterminent les modalités d'application de cette disposition et celles de la répartition des rhums et tafias
+entre les départements et territoires français d'outre-mer et les pays de la zone franc ayant passé avec la France des
+accords à cet effet (2).
+
+Les arriérés de contingent autorisés par le décret du 21 septembre 1942 et non encore réalisés sont bloqués et peuvent faire
+l'objet de mesures de déblocage et d'échelonnement dans les conditions fixées par le décret du 16 juin 1949.
+
+(1) Annexe II, art. 270.
+
+(2) Annexe IV, art. 52 bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 270
+	  - CGIAN4 52 bis
+	  - Décret n°1942-09-21
+	  - Décret n°1949-06-16
+	  - Loi n°1905-08-01
+
+	**Modifié par**:
+
+	  - Décret n°79-200 1979-03-05 ART. 3, ART. 4 JORF 11 MARS 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985 en vigueur le 1er septembre 1985 : articles devenus sans objet
+
+
+##### VINS.
+
+###### Article 416
+
+La dénomination de "vin doux naturel" [*définition*] est réservée aux vins :
+
+- provenant exclusivement de vendanges de muscat, de grenache, de maccabéo ou de malvoisie ; toutefois, sont admises les
+vendanges obtenues sur des parcelles complantées dans la limite maximale de 10 % du nombre total de pieds avec des cépages
+autres que les quatre désignés ci-dessus ;
+
+- obtenus dans la limite d'un rendement de 40 hectolitres de moût à l'hectare ; tout dépassement de ce rendement fait perdre
+à la totalité de la récolte le bénéfice de la dénomination vins doux naturels ;
+
+- possédant un titre alcoométrique total acquis ou en puissance d'au moins 14 % vol. [*degré*] ;
+
+- ayant reçu, en cours de fermentation, un apport déterminé en alcool pur, de 5 % au minimum et de 10 % au maximum du volume
+des moûts, d'alcools titrant au moins 90 % vol..
+
+La déclaration de fabrication doit indiquer le numéro du plan cadastral et la situation des parcelles dans lesquelles sont
+récoltées les vendanges [*mentions obligatoires*].
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°79-200 1979-03-05 ART. 4 JORF 11 MARS 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 417 bis (M)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 C (V)
+
+
+###### Article 440
+
+Les vins dont le titre alcoométrique acquis et en puissance excède 15 % vol. sont soumis au régime fiscal des vins de liqueur
+sans appellation d'origine, avec minimum d'imposition de 15 % vol..
+
+Toutefois, sont maintenus sous le régime fiscal des vins :
+
+1° Les vins dont le titre alcoométrique acquis n'excède pas 17 % vol., obtenus sans aucun enrichissement et ne contenant plus
+de sucre résiduel ;
+
+2° Dans la limite des quantités produites annuellement avant le 10 juillet 1970, date de publication de la loi n° 70-601 du 9
+juillet 1970, les vins à appellation d'origine contrôlée doux ou liquoreux, connus comme présentant un titre alcoométrique
+total supérieur à 15 % vol. [*degré*], à la condition que leur titre alcoométrique acquis n'excède pas 18 % vol..
+
+Des décrets pourront, en tant que de besoin, fixer dans la limite de quels volumes et dans quelles conditions le bénéfice des
+dispositions prévues à l'alinéa précédent pourra être étendu à des vins de qualité, produits dans des régions déterminées,
+originaires des pays de la Communauté économique européenne [*CEE*].
+
+Les dispositions du présent article ne sont pas applicables aux vins doux naturels, tels qu'ils sont définis aux articles 416
+et 417, à la condition que leur titre alcoométrique acquis n'excède pas 18 % vol..
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 416
+	  - CGI 417
+	  - Loi n°70-601 1970-07-09
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
 
 #### REGIME ECONOMIQUE DU SUCRE.
 
