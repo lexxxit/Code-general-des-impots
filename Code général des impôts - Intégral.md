@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1985-07-15
+Version Consolidée au 1985-07-19
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -22933,6 +22933,83 @@ collectivités publiques de terrains classés, visées à l'article L 130-2 du c
 	  - Loi n°98-1266 1998-12-30 art. 39 I 16 1° Finances pour 1999 JORF 31 décembre 1998
 
 
+###### Article 696
+
+Sous réserve des dispositions du 7° de l'article 257, ne donnent lieu à aucune perception au profit du Trésor :
+
+a. Les acquisitions d'immeubles effectuées en vue de l'aménagement de zones à urbaniser par priorité, par les collectivités
+et par les organismes concessionnaires de cet aménagement;
+
+b. Les acquisitions d'immeubles situés dans les zones d'aménagement différé, effectuées dans les conditions prévues aux
+articles L 212-2 et L 212-3 du code de l'urbanisme dans leur rédaction antérieure à la loi n° 85-729 du 18 juillet 1985 par
+les collectivités et les organismes bénéficiaires du droit de préemption;
+
+c. Les rétrocessions et restitutions consenties en application des articles L 212-7 et L 213-1 du code de l'urbanisme dans
+leur rédaction antérieure à la loi n° 85-729 du 18 juillet 1985 ;
+
+d. Les acquisitions d'immeubles ou de droits immobiliers portant sur des biens situés dans des zones d'intervention foncière,
+effectuées dans les conditions prévues aux articles L. 211-2, L. 211-3 et L. 211-7 du code de l'urbanisme, dans leur
+rédaction antérieure à la loi n° 85-729 du 18 juillet 1985 ;
+
+e. Les rétrocessions consenties en application de l'article L. 211-11 du code de l'urbanisme, dans sa rédaction antérieure à
+la loi n° 85-729 du 18 juillet 1985 ;
+
+f. Les acquisitions de biens soumis au droit de préemption urbain ou au droit de préemption institué dans les zones
+d'aménagement différé, effectuées dans les conditions prévues aux articles L. 211-4, L. 211-5, L. 212-2, L. 212-3 et L. 213-1
+à L. 213-3 du code de l'urbanisme ;
+
+g. Les rétrocessions consenties en application de l'article L. 213-11 du code de l'urbanisme ;
+
+h. les acquisitions de biens soumis au droit de préemption institué dans les zones de préemption créées en application de
+l'article L. 142-3 du code de l'urbanisme, effectuées dans les conditions prévues aux articles L. 142-3 et L. 142-4 dudit
+code par les collectivités ou établissements publics bénéficiant du droit de préemption, directement, par substitution ou par
+délégation ;
+
+i. les rétrocessions consenties en application de l'article L. 142-8 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGI 1594-0 G, B
+
+	**Cite**:
+
+	  - CGI 257 7°
+	  - Loi n°85-729 1985-07-18
+	  - Code de l'urbanisme - art. L142-3 (M)
+	  - Code de l'urbanisme - art. L142-4 (M)
+	  - Code de l'urbanisme - art. L142-8 (V)
+	  - Code de l'urbanisme - art. L211-11 (Ab)
+	  - Code de l'urbanisme - art. L211-2 (M)
+	  - Code de l'urbanisme - art. L211-3 (M)
+	  - Code de l'urbanisme - art. L211-4 (M)
+	  - Code de l'urbanisme - art. L211-5 (M)
+	  - Code de l'urbanisme - art. L211-7 (M)
+	  - Code de l'urbanisme - art. L212-2 (M)
+	  - Code de l'urbanisme - art. L212-3 (M)
+	  - Code de l'urbanisme - art. L212-7 (Ab)
+	  - Code de l'urbanisme - art. L213-11 (M)
+	  - Code de l'urbanisme L211-2, L211-3, L211-4, L211-5, L211-7, L211-11, L212-2, L212-3, L212-7, L213-1 à L213-3, L213-11, L142-3, L142-4, L142-8
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 43 () JORF 19 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Transféré par**:
+
+	  - Loi n°98-1266 1998-12-30 art. 39 I 17 2° Finances pour 1999 JORF 31 décembre 1998
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+	  - HISTO: Edition du 31 mars 1999
+
+
 ##### c : Régimes spéciaux institués en faveur du commerce et de l'industrie
 
 ###### Article 697
@@ -34632,6 +34709,152 @@ La taxe est perçue au profit de la commune. Elle a le caractère d'une recette 
 	  - Code général des impôts, CGI. - art. 1723 quater (VT)
 
 
+###### Article 1585 C
+
+I Sont exclues du champ d'application de la taxe locale d'équipement :
+
+1° Les constructions qui sont destinées à être affectées à un service public ou d'utilité publique, et dont la liste est
+fixée par un décret en Conseil d'Etat (1) ;
+
+2° Les constructions édifiées dans les zones d'aménagement concerté au sens de l'article L. 311-1, premier alinéa, du code de
+l'urbanisme (2) lorsque le coût des équipements, dont la liste est fixée par un décret en Conseil d'Etat (3), a été mis à la
+charge des constructeurs.
+
+3° Les constructions édifiées dans les secteurs du territoire de la commune où le conseil municipal a décidé de mettre à la
+charge des constructeurs tout ou partie des dépenses de réalisation des équipements publics rendus nécessaires par la mise en
+oeuvre d'un programme d'aménagement d'ensemble conformément à l'article L. 332-9 du code de l'urbanisme.
+
+I bis Lorsque le lotisseur, la personne aménageant un terrain destiné à l'accueil d'habitations légères de loisir ou
+l'association foncière urbaine de remembrement supporte la charge d'une participation forfaitaire représentative de la taxe
+locale d'équipement, les constructions édifiées sur les terrains concernés ne sont pas passibles de cette taxe.
+
+II Le conseil municipal peut renoncer à percevoir, en tout ou partie, la taxe locale d'équipement sur les locaux à usage
+d'habitation édifiés pour leur compte ou à titre de prestataire de services par les organismes mentionnés à l'article L.
+411-2 du code de la construction et de l'habitation et par les sociétés d'économie mixte définies par la loi n° 83-597 du 7
+juillet 1983 ou celles à capitaux publics majoritaires réalisant des locaux à usage d'habitation principale financés à titre
+prépondérant au moyen de prêts ouvrant droit au bénéfice de dispositions prévues au titre V du livre III du code de la
+construction et de l'habitation.
+
+Dans les départements d'outre-mer, le conseil municipal peut exonérer de la taxe :
+
+- les locaux à usage d'habitation principale à caractère social financés à l'aide de prêts aidés par l'Etat et édifiés par
+les organismes et sociétés d'économie mixte mentionnés ci-dessus, pour leur compte ou à titre de prestataires de services ;
+
+- les logements à vocation très sociale ;
+
+Le conseil municipal peut également renoncer à percevoir en tout ou partie la taxe locale d'équipement sur les constructions
+édifiées par les propriétaires d'une habitation familiale reconstituant leurs biens expropriés, sous réserve que l'immeuble
+corresponde aux normes des logements aidés par l'Etat.
+
+Le conseil municipal peut renoncer à percevoir en tout ou partie la taxe locale d'équipement sur les constructions de garage
+à usage commercial.
+
+III (Abrogé).
+
+IV  Le conseil municipal peut exempter de la taxe les bâtiment à usage agricole autres que ceux mentionnés à l'article L
+112-7 du code de l'urbanisme.
+
+1)  Annexe II, art. 317 bis. 2)  Voir Annexe II, art. 317 quinquies. 3)  Annexe II, art. 317 quater.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 317 bis
+	  - CGIAN2 317 quater
+	  - CGIAN2 317 quinquies
+	  - Loi n°83-597 1983-07-07
+	  - Code de l'urbanisme - art. L112-7 (M)
+	  - Code de l'urbanisme - art. L332-9 (M)
+	  - Code de l'urbanisme L311-1 AL. 1
+	  - Code de la construction et de l'habitation. - art. L411-2 (M)
+
+	**Modifié par**:
+
+	  - Loi n°85-729 1985-07-18 art. 22 I, II, III, art. 23 JORF 19 juillet 1985
+	  - Loi n°85-729 du 18 juillet 1985 - art. 22 () JORF 19 juillet 1985
+	  - Loi n°85-729 du 18 juillet 1985 - art. 23 () JORF 19 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L142-2 (V)
+	  - Code de l'urbanisme - art. L332-11-1 (V)
+	  - Code général des impôts, CGI. - art. 1599 B (VT)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 317 bis (VT)
+
+
+###### Article 1585 D
+
+I  L'assiette de la taxe [*locale d'équipement*] est constituée par la valeur de l'ensemble immobilier comprenant les
+terrains nécessaires à la construction et les bâtiments dont l'édification doit faire l'objet de l'autorisation de
+construire.
+
+Cette valeur est déterminée forfaitairement en appliquant à la surface de plancher développée hors oeuvre une valeur au mètre
+carré variable selon la catégorie des immeubles, dans des conditions qui sont définies et précisées par décret en Conseil
+d'Etat (1). Cette dernière valeur est modifiée au 1er novembre de chaque année, en fonction de l'évolution de l'indice du
+coût de la construction publié par l'Institut national de la statistique et des études économiques.
+
+II  Lorsqu'après la destruction d'un bâtiment par sinistre le propriétaire sinistré ou ses ayants droit à titre gratuit
+procèdent à la reconstruction sur le même terrain d'un bâtiment de même destination, la surface de plancher développée hors
+oeuvre correspondant à celle du bâtiment détruit n'est pas prise en compte pour le calcul de la taxe, à la double condition :
+
+a  Que la demande de permis de construire relative à la reconstruction soit déposée dans le délai de deux ans suivant la date
+du sinistre;
+
+b  Que le sinistré justifie que les indemnités versées en réparation des dommages occasionnés à l'immeuble ne comprennent pas
+le montant de la taxe locale d'équipement normalement exigible sur les reconstructions.
+
+1)  Annexe II, art. 317 sexies et 317 septies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 317 septies
+	  - CGIAN2 317 sexies
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 22 () JORF 19 juillet 1985
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L142-2 (M)
+	  - Code du patrimoine. - art. L524-7 (VD)
+	  - Code général des impôts, CGI. - art. 1599 B (VT)
+
+
+###### Article 1585 E
+
+I  Le taux de la taxe est fixé à 1 % de la valeur de l'ensemble immobilier dans les conditions prévues à l'article 1585 D.
+
+II  Ce taux peut être porté jusqu'à 5 % par délibération du conseil municipal.
+
+Il ne peut faire l'objet d'aucune modification avant l'expiration d'un délai de trois ans à compter de la date de son entrée
+en vigueur.
+
+Toutefois, si les éléments intervenant dans la détermination de la valeur des ensembles immobiliers, tels qu'ils sont
+indiqués à l'article 1585 D, viennent à être modifiés, soit par un décret en conseil d'Etat pris en application de cet
+article, soit par un décret pris en application de l'article 1585 H, le conseil municipal peut fixer un nouveau taux. Dans ce
+cas, pour l'application du délai de trois ans résultant des dispositions du deuxième alinéa, le nouveau taux est réputé avoir
+été fixé à la date à laquelle est entré en vigueur le taux auquel il se substitue.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1585 D
+	  - CGI 1585 H
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 22 () JORF 19 juillet 1985
+
+
 ###### Article 1585 F
 
 Pour une même catégorie de constructions, le taux est uniforme pour l'ensemble du territoire communal.
@@ -34645,6 +34868,21 @@ différent de celui qui est applicable à l'extérieur de ladite zone.
 	**Abrogé par**:
 
 	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+
+###### Article 1585 G
+
+La taxe est liquidée au tarif en vigueur à la date, selon le cas, soit de la délivrance du permis de construire ou du permis
+modificatif, soit de l'autorisation tacite de construire, soit du procès-verbal constatant les infractions.
+
+Lorsque le produit de la liquidation de la taxe n'atteint pas la somme de cinquante francs, elle n'est pas mise en
+recouvrement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 22 () JORF 19 juillet 1985
 
 
 ###### Article 1585 H
@@ -36404,6 +36642,40 @@ l'article 991. Son taux est fixé par la loi de finances et ne peut être supér
 
 ##### Section VI : Groupements de communes. Taxe locale d'équipement
 
+###### Article 1635 bis B
+
+Lorsqu'un établissement public de coopération intercommunale a dans sa compétence la réalisation d'équipements publics
+d'infrastructure, il peut exercer les pouvoirs appartenant aux conseils municipaux en vertu des articles 1585 A, et du II des
+articles 1585 C et 1585 E et percevoir la taxe à son profit. Cette faculté peut être exercée par les établissements publics
+chargés de la gestion d'agglomérations nouvelles. La décision d'exercer les pouvoirs susmentionnés est prise avec l'accord
+des conseils municipaux concernés, sauf si le produit de la taxe constitue une recette dudit établissement public en vertu du
+statut de celui-ci. L'établissement public peut décider de reverser aux communes qu'il groupe une partie des sommes perçues
+au titre de la taxe.
+
+Dans le cas prévu à l'alinéa précédent, la taxe est perçue selon un taux uniforme, par catégorie de constructions, dans
+toutes les communes qui composent l'établissement public, à moins que l'organe délibérant n'ait adopté, à la majorité des
+deux tiers, des taux différenciés. Toutefois, cette faculté ne peut être exercée dans les communes ou fractions de communes
+situées à l'intérieur d'une zone d'agglomération nouvelle.    Sauf dans le cas où les statuts de l'établissement en disposent
+autrement, les décisions prises pour l'application du premier alinéa doivent être adoptées à la majorité des deux tiers des
+voix de l'organe délibérant. Elles sont valables pour une durée de trois ans à compter de leur entrée en vigueur. Si l'organe
+délibérant a pris une délibération pour renoncer à la perception de la taxe ou si, à l'expiration du délai de trois ans
+mentionné au troisième alinéa, il n'a pas pris de nouvelle délibération prorogeant à son profit pour une nouvelle période de
+trois ans le transfert des pouvoirs mentionnés au premier alinéa, les conseils municipaux reprennent les droits qui leur
+appartiennent en application des articles 1585 A et du II de l'article 1585 E. Cette disposition n'est pas applicable dans
+les communes ou fractions de communes situées à l'intérieur d'une zone d'agglomération nouvelle.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 22 () JORF 19 juillet 1985
+
+	**Cité par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - Livre des procédures fiscales - art. L133 (V)
+
+
 ###### Article 1635 bis E
 
 Le conseil régional a la faculté d'instituer une taxe additionnelle à la taxe de publicité foncière ou au droit
@@ -36460,6 +36732,59 @@ droits, taxes, redevances ou impositions sont rattachés par arrêtés du minist
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1647 (VD)
+
+
+### Titre III bis : Impositions perçues au profit des collectivités locales et de certains établissements publics
+
+#### Enregistrement - Autres droits et taxes
+
+##### Participation en cas de dépassement du coefficient d'occupation du sol.
+
+###### Article 1635 quater
+
+Conformément à l'article L. 332-1 du code de l'urbanisme, lorsque l'application des règles mentionnées aux 2° et 3° de
+l'article L. 123-1 du même code permet la réalisation d'une construction qui dépasse la norme résultant de l'application du
+coéfficient d'occupation du sol ou impose le respect de servitudes ou obligations impliquant un dépassement de cette norme,
+le constructeur est tenu de verser une participation. Cette participation peut être mise à la charge du lotisseur ou de
+l'association foncière urbaine (1).
+
+La participation est perçue au profit de la commune ou, s'il en existe un, de l'établissement public groupant plusieurs
+communes et ayant compétence en matière d'urbanisme.
+
+Les modalités de recouvrement de la participation ainsi que les sanctions et garanties y afférentes sont précisées par des
+décrets en Conseil d'Etat (2).
+
+(1) Code de l'urbanisme, art. L332-1-1.
+
+(2) Annexe II, art. 384 bis à 384 septies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 384 bis à 384 septies
+	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Code de l'urbanisme - art. L332-1 (M)
+	  - Code de l'urbanisme - art. L332-1-1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 25 (V) JORF 19 juillet 1985
+	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+	  - Décret n°2001-435 2001-05-21
+
+	**Cité par**:
+
+	  - Loi n°89-935 du 29 décembre 1989 - art. 118 (VD)
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+	  - HISTO: Edition du 31 mars 2001
 
 
 ### Titre V : Dispositions communes aux Titres I à III bis
@@ -40115,37 +40440,42 @@ références au code de l'urbanisme sont celles dans leur rédaction antérieure
 
 ###### Article 1723 nonies
 
-Comme il est dit à l'article L 333-8 du code de l'urbanisme, lorsque la réalisation d'une zone d'aménagement concerté, d'une
-zone de rénovation urbaine ou d'une zone de résorption de l'habitat insalubre n'est pas effectuée en régie directe, le
-versement pour dépassement du plafond légal de densité prévu à l'article L 112-2 du même code est dû non par le constructeur
-mais par l'organisme chargé de l'aménagement de la zone.
+Conformément à l'article L. 333-8 du code de l'urbanisme, lorsque la réalisation d'une zone d'aménagement concerté [*ZAC*]
+n'est pas effectuée en régie directe, le versement pour dépassement du plafond légal de densité prévu à l'article L 112-2 du
+même code est dû non par le constructeur mais par l'organisme chargé de l'aménagement de la zone.
 
-Le paiement est effectué par l'aménageur à la recette des impôts de la situation des biens dans les conditions fixées par la
-convention d'aménagement ou le traité de concession.
+Le paiement de la première fraction est éxigible à l'expiration d'un délai de dix-huit mois à compter de la date de
+délivrance du permis de construire ou de la date à laquelle l'autorisation de construire est réputée avoir été tacitement
+accordée et celui de la seconde fraction à l'expiration d'un délai de trente-six mois à compter de cette date.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L112-2 (M)
 	  - Code de l'urbanisme - art. L333-8 (M)
 
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 1723 octies
 
-Comme il est dit à l'article L 333-2 du code de l'urbanisme, le montant du versement pour dépassement du plafond légal de
-densité, défini à l'article L 112-2 du même code est dû par le bénéficiaire de l'autorisation de construire. En cas de
-désaccord sur la valeur du terrain, il est provisoirement arrêté, puis mis en recouvrement sur la base de l'estimation
-administrative.
+Conformément à l'article L. 332-2 du code de l'urbanisme, le montant du versement pour dépassement du plafond légal de
+densité, défini à l'article L. 112-2 du même code, est dû par le bénéficiaire de l'autorisation de construire. Ce versement
+peut être mis à la charge du lotisseur ou de l'association foncière urbaine de remembrement (1). En cas de désaccord sur la
+valeur du terrain, il est provisoirement arrêté, puis mis en recouvrement sur la base de l'estimation administrative.
 
-Il doit être payé à la recette des impôts de la situation des biens [*lieu*] en deux fractions égales.
+Il doit être payé à la recette des impôts de la situation des biens en deux fractions égales.
 
-Le paiement de la première fraction est exigible à l'expiration d'un délai d'un an à compter de la délivrance du permis de
-construire et celui de la seconde à l'expiration d'un délai de deux ans à compter de cette même date.
+Le paiement de la première fraction est exigible à l'expiration d'un délai de dix-huit mois à compter de la date de
+délivrance du permis de construire ou de la date à laquelle l'autorisation de construire est réputée avoir été tacitement
+accordée et celui de la seconde fraction à l'expiration d'un délai de trente-six mois à compter de cette même date.
 
 Après décision définitive de la juridiction de l'expropriation, il est procédé, selon le cas, à la mise en recouvrement d'une
 somme complémentaire ou à la restitution du montant excédentaire. Le paiement du complément doit intervenir en même temps que
@@ -40158,31 +40488,28 @@ juridiction d'appel doit statuer dans les six mois de l'appel.
 Le montant donnant lieu à restitution est majoré des intérêts au taux légal courus depuis la date à laquelle la première
 fraction du versement a été acquittée.
 
+(1) Code de l'urbanisme, art. L. 333-9-1.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 199
-	  - CGIAN4 200
-	  - CGIAN4 201
-	  - CGIAN4 202
-	  - CGIAN4 203
-	  - CGIAN4 204
-	  - Code de l'urbanisme - art. L112-2 (M)
-	  - Code de l'urbanisme - art. L333-2 (M)
-
-	**Modifié par**:
-
-	  - Loi n°80-1094 1980-12-30 ART. 73 FINANCES POUR 1981 JORF 31 DECEMBRE 1980
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°86-1086 1986-10-07
 
 	**Cité par**:
 
 	  - Loi n°89-935 du 29 décembre 1989 - art. 118 (VD)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 C (P)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L112-2 (M)
+	  - Code de l'urbanisme - art. L333-2 (M)
+	  - Code de l'urbanisme - art. L333-9-1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-729 1985-07-18 art. 25 IV, VI JORF 19 juillet 1985
 
 
 ###### Article 1723 quaterdecies
@@ -44562,11 +44889,19 @@ dans les conditions prévues par le décret n° 70-813 du 11 septembre 1970 (Voi
 
 I  La taxe locale d'équipement visée à l'article 1585 A est due par le bénéficiaire de l'autorisation de construire.
 
-Elle doit être versée à la recette des impôts en trois fractions égales.
+Elle doit être versée à la recette des impôs de la situation des biens en deux fractions égales.
 
-Le premier versement est opéré dans le délai d'un an à compter soit de la délivrance du permis de construire, soit de la date
-à laquelle l'autorisation de construire est réputée avoir été tacitement accordée [*point de départ*], le deuxième dans le
-délai de deux ans et le troisième dans le délai de trois ans à compter de la même date.
+Le premier versement est exigible à l'expiration d'un délai de dix-huit mois à compter de la date de délivrance du permis de
+construire ou de la date à laquelle l'autorisation de construire est réputée avoir été tacitement accordée. Le second
+versement est exigible à l'expiration d'un délai de trente-six mois à compter de la même date.
+
+Toutefois, la taxe due pour la constrution, par tranches, de logements destinés à l'habitation principale, dans les
+conditions définies par décret en Conseil d'Etat (1), doit être versée à la recette des impôts en trois versements échelonnés
+de dix-huit mois en dix-huit mois à compter de la date de délivrance du permis de construire ou de la date à laquelle
+l'autorisation de construire est réputée avoir été tacitement accordée.
+
+Les deux premiers versements sont calculés en fonction de la surface hors oeuvre nette autorisée par le permis de construire
+au titre de la première tranche, le dernier versement en fonction de celle autorisée au titre de la seconde tranche.
 
 En cas de modification apportée au permis de construire ou à l'autorisation tacite de construire, le complément de taxe
 éventuellement exigible doit être acquitté dans le délai d'un an à compter de la modification.
@@ -44584,6 +44919,8 @@ du recouvrement de la taxe ou du complément de taxe et de l'amende fiscale dans
 
 IV  Le recouvrement de la taxe est garanti par le privilège prévu à l'article 1929-1.
 
+(1) Décret à émmettre.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -44597,14 +44934,14 @@ IV  Le recouvrement de la taxe est garanti par le privilège prévu à l'article
 	  - CGI 1918
 	  - CGI 1929 1
 
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 22 () JORF 19 juillet 1985
+
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1599 B (VT)
 	  - Code général des impôts, CGI. - art. 1723 septies (VT)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ### IMPOT SUR LES GRANDES FORTUNES *IGF*.
