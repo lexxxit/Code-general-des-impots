@@ -10,9 +10,13 @@ Toutefois les titres des sociétés immobilières pour le commerce et l'industri
 titres cotés et imposés conformément aux dispositions de l'article 92 C.
 
 En cas d'échange de titres résultant d'une fusion, d'une scission ou d'un apport, l'imposition des gains nets mentionnés au
-premier alinéa est reportée dans les mêmes conditions que celles qui sont prévues au I ter de l'article 160.
+premier alinéa est reportée dans les mêmes conditions que celles qui sont prévues au I ter de l'article 160 (2). Cette
+disposition est également applicable aux échanges avec soulte lorsque celle-ci n'excède pas 10 p. 100 de la valeur nominale
+des titres reçus. Toutefois, la partie de la plus-value correspondant à la soulte reçue est imposée immédiatement (2).
 
-1)  Voir Annexe II, art. 74 A bis.
+(1) Voir Annexe II, art. 74 A bis.
+
+(2) Voir Annexe III, art. 41 quatervicies à 41 sexvicies.
 
 **Liens relatifs à cet article**
 
@@ -24,7 +28,7 @@ premier alinéa est reportée dans les mêmes conditions que celles qui sont pr�
 
 	**Modifié par**:
 
-	  - Loi n°89-936 1989-12-29 art. 15  Finances rectificative pour 1989 JOR 30 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+	  - Loi n°91-716 du 26 juillet 1991 - art. 24 (V) JORF 27 juillet 1991
 
 	**Cité par**:
 
