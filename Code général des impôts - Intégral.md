@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 2000-12-14
+Version Consolidée au 2000-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1067,7 +1067,12 @@ du bail ne doivent pas excéder des plafonds fixés par décret et que la locati
 fiscal, un ascendant ou un descendant du contribuable, une personne occupant déjà le logement ou, si celui-ci est la
 propriété d'une société non soumise à l'impôt sur les sociétés, l'un de ses associés ou un membre du foyer fiscal, un
 ascendant ou un descendant d'un associé. Les associés des sociétés précitées s'engagent à conserver leurs parts pendant au
-moins six ans.
+moins six ans. Un contribuable ne peut, pour un même logement ou une même souscription de titres, pratiquer la réduction
+d'impôt mentionnée à l'article 199 undecies A et bénéficier de la déduction forfaitaire au taux de 25 % prévue au présent
+alinéa. Lorsque la location est suspendue à l'issue d'une période d'au moins trois ans au profit d'un ascendant ou d'un
+descendant du contribuable, la déduction forfaitaire s'applique au taux de 14 % et la période de mise à disposition du
+logement au profit d'un ascendant ou d'un descendant n'est pas prise en compte pour la durée de location minimale de six ans.
+Cette période de mise à disposition du logement ne peut excéder neuf ans.
 
 La location du logement consentie à un organisme public ou privé pour le logement à usage d'habitation principale de son
 personnel, à l'exclusion du propriétaire du logement, de son conjoint, de membres de son foyer fiscal ou de ses descendants
@@ -1140,7 +1145,7 @@ de la sécurité sociale, de licenciement ou de décès du contribuable ou de l'
 majoration ne s'applique pas.
 
 Pour un même logement, les dispositions du présent f sont exclusives de l'application des dispositions des articles 199
-nonies à 199 undecies.
+nonies à 199 undecies A.
 
 Les dispositions du présent f s'appliquent, sous les mêmes conditions, aux logements acquis neufs ou en l'état futur
 d'achèvement entre le 1er janvier 1999 et le 31 août 1999 lorsque les conditions suivantes sont réunies :
@@ -1179,7 +1184,11 @@ postérieure. Cet engagement prévoit, en outre, que le loyer et les ressources 
 du bail ne doivent pas excéder des plafonds fixés par décret. La location du logement consentie dans les conditions fixées au
 sixième alinéa du e à un organisme public ou privé pour le logement à usage d'habitation principale de son personnel, à
 l'exclusion du propriétaire du logement, de son conjoint, de membres de son foyer fiscal ou de ses descendants et ascendants,
-ne fait pas obstacle au bénéfice de la déduction.
+ne fait pas obstacle au bénéfice de la déduction. Lorsque la location est suspendue à l'issue d'une période d'au moins trois
+ans au profit d'un ascendant ou d'un descendant du contribuable, ce dernier ne bénéficie pas, pendant la période de mise à
+disposition du logement au profit d'un ascendant ou d'un descendant, de la déduction au titre de l'amortissement, et la
+déduction forfaitaire s'applique au taux de 14 %. Cette période de mise à disposition, qui ne peut excéder neuf ans, n'est
+pas prise en compte pour la durée de location minimale de neuf ans.
 
 A l'issue de la période couverte par l'engagement de location, tant que la condition de loyer prévue au troisième alinéa
 reste remplie, le propriétaire peut, par période de trois ans et pendant une durée maximale de six ans, bénéficier d'une
@@ -1239,8 +1248,8 @@ Lorsque le bénéficiaire de l'une des allocations de logement prévues aux arti
 sociale est locataire d'un logement ouvrant droit aux dispositions du huitième alinéa, cette allocation est versée au
 bailleur.
 
-Pour un même logement, les dispositions du présent g sont exclusives de l'application des dispositions de l'article 199
-undecies (3).
+Pour un même logement, les dispositions du présent g sont exclusives de l'application des dispositions des articles 199
+undecies (3) ou 199 undecies A.
 
 2° Pour les propriétés rurales :
 
@@ -1276,24 +1285,13 @@ II. (Transféré sous l'article 156 II 1° ter).
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté 1999-03-29 JORF 30 mars 1999
-	  - TXT_ASSOCIE: Décret n°99-244 1999-03-29
-	  - HISTO: Edition du 31 mars 2000
-	  - TXT_ASSOCIE: Instruction 1998-12-04 5D-2-98
-	  - TXT_ASSOCIE: Instruction 1999-08-20 5D-4-99
-	  - TXT_ASSOCIE: Instruction 1999-11-16 5D-6-99
-	  - TXT_ASSOCIE: Instruction 2000-01-31 5D-1-00
-	  - TXT_ASSOCIE: Instruction 2000-02-21 5D-2-00
-
 	**Cite**:
 
-	  - CGI 156, 231 ter, 199 nonies, 199 decies A, 257, 199 nonies à 199 undecies, 1385 II bis, 743, 156 II, 199 decies E
 	  - Loi n°70-1300 1970-12-31
 	  - Loi n°76-663 1976-07-19
 	  - Loi n°83-8 1983-01-07 art. 70
 	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+	  - CGI 156, 231 ter, 199 nonies, 199 decies A, 257, 199 nonies à 199 undecies, 1385 II bis, 743, 156 II, 199 decies E, 199 undecies A
 	  - Code de la sécurité sociale. - art. L341-4 (V)
 	  - Code de la sécurité sociale. - art. L542-1 (M)
 	  - Code de la sécurité sociale. - art. L831-1 (M)
@@ -1301,9 +1299,21 @@ II. (Transféré sous l'article 156 II 1° ter).
 	  - Code de l'urbanisme - art. R421-40 (Ab)
 	  - Code de l'urbanisme L313-1 à L313-3, R421-40, L421-1
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°99-244 1999-03-29
+	  - TXT_ASSOCIE: Arrêté 1999-03-29
+	  - TXT_ASSOCIE: Instruction 1998-12-04 5D-2-98
+	  - TXT_ASSOCIE: Instruction 1999-08-20 5D-4-99
+	  - TXT_ASSOCIE: Instruction 1999-11-16 5D-6-99
+	  - TXT_ASSOCIE: Instruction 2000-01-31 5D-1-00
+	  - TXT_ASSOCIE: Instruction 2000-02-21 5D-2-00
+	  - TXT_ASSOCIE: Instruction 2001-01-19 5D-1-01
+
 	**Modifié par**:
 
-	  - Loi - art. 95 () JORF 31 décembre 1999
+	  - Loi - art. 19 (V) JORF 31 décembre 2000
+	  - Loi - art. 75 () JORF 31 décembre 2000
 
 	**Cité par**:
 
@@ -1313,12 +1323,12 @@ II. (Transféré sous l'article 156 II 1° ter).
 	  - Loi n°2009-323 du 25 mars 2009 - art. 51 (V)
 	  - Arrêté du 1er août 2014 - art. 3 (V)
 	  - Arrêté du 1er août 2014 - art. Annexe 5 (V)
+	  - Arrêté du 5 mai 2017 (V)
+	  - Arrêté du 5 mai 2017 - art. 1
 	  - Décret n°2014-1102 du 30 septembre 2014 (V)
 	  - Décret n°2015-638 du 8 juin 2015 (V)
 	  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (V)
 	  - Loi n°2016-1918 du 29 décembre 2016 - art. 46 (V)
-	  - Arrêté du 5 mai 2017 (V)
-	  - Arrêté du 5 mai 2017 - art. 1
 	  - Décret n°2017-839 du 5 mai 2017 (V)
 	  - Décret n°2017-839 du 5 mai 2017 - art.
 	  - Décret n°2017-839 du 5 mai 2017 - art. 2
@@ -1892,10 +1902,10 @@ différence entre le prix de cession et la valeur des parts au bilan de l'entrep
 Par dérogation aux dispositions du premier alinéa, les sommes correspondant à la répartition, prévue au sixième alinéa de
 l'article 22 de la loi n° 88-1201 du 23 décembre 1988 relative aux organismes de placement collectif en valeurs mobilières et
 portant création des fonds communs de créances, d'une fraction des actifs d'un fonds commun de placement à risques qui
-remplit les conditions prévues au 1° bis du II de l'article 163 quinquies B, sont affectées en priorité au remboursement des
-apports. L'excédent des sommes réparties sur le montant des apports est compris dans le résultat imposable de l'exercice au
-cours duquel cet excédent apparaît. Il est soumis au régime fiscal des plus-values à long terme dans la proportion existant
-entre le montant des apports effectués depuis au moins deux ans à la date de la répartition et le montant total des apports
+remplit les conditions prévues au II de l'article 163 quinquies B, sont affectées en priorité au remboursement des apports.
+L'excédent des sommes réparties sur le montant des apports est compris dans le résultat imposable de l'exercice au cours
+duquel cet excédent apparaît. Il est soumis au régime fiscal des plus-values à long terme dans la proportion existant entre
+le montant des apports effectués depuis au moins deux ans à la date de la répartition et le montant total des apports
 effectués à cette même date.
 
 5 bis. Le profit ou la perte résultant de l'échange de titres consécutif à la fusion ou à la scission de sociétés
@@ -1920,7 +1930,7 @@ contrats visés au quatrième alinéa du 7, reçus dans le cadre d'une opératio
 2° Dans le cas où un contrat à terme d'instruments financiers en cours à la clôture de l'exercice a pour cause exclusive de
 compenser le risque d'une opération de l'un des deux exercices suivants, traitée sur un marché de nature différente,
 l'imposition du profit réalisé sur le contrat est reportée au dénouement de celui-ci, à condition que les opérations dont la
-compensation est envisagée figurent sur le document prévu au 3° (6);
+compensation est envisagée figurent sur le document prévu au 3°;
 
 2° bis Le profit sur un contrat à terme portant sur des devises et ayant pour seul objet la couverture du risque de change
 d'une opération future est imposé au titre du ou des mêmes exercices que l'opération couverte à la condition que cette
@@ -2082,13 +2092,13 @@ réévaluation des parts de la société civile, constatés par la société d'a
 
 	**Modifié par**:
 
-	  - Loi - art. 30 (V) JORF 31 décembre 1999
+	  - Loi - art. 8 (V) JORF 31 décembre 2000
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°99-1173 1999-12-30 art. 30 III Finances rectificative pour 1999
-	  - HISTO: Edition du 31 mars 2000
+	  - SPEC_APPLI: Loi n°2000-1352 2000-12-30 art. 8 IV, V
 	  - TXT_ASSOCIE: Instruction 1999-02-17 4A-3-99
+	  - TXT_ASSOCIE: Instruction 2000-01-26 4F-1-01
 	  - TXT_ASSOCIE: Instruction 2000-01-31 4F-1-00
 	  - TXT_ASSOCIE: Instruction 2000-04-25 4B-1-00
 	  - TXT_ASSOCIE: Instruction 2000-08-03 4I-2-00
@@ -2974,22 +2984,36 @@ loyers non déductibles prévues aux premier et deuxième alinéas sont admises 
 Lorsque le contrat de crédit-bail est cédé, les quotes-parts de loyers non déductibles sont considérées comme un élément du
 prix de revient du contrat pour le calcul de la plus-value dans les conditions de l'article 39 duodecies A.
 
+11. 1° Pour ouvrir droit à l'exonération prévue au 31° de l'article 81, les charges engagées par une entreprise à l'occasion
+de l'attribution ou de la mise à disposition gratuite à ses salariés de matériels informatiques neufs, de logiciels et de la
+fourniture gratuite de prestations de services liées directement à l'utilisation de ces biens sont rapportées au résultat
+imposable des exercices au cours desquels intervient l'attribution en cause ou l'achèvement des prestations. Ces dispositions
+s'appliquent également lorsque les salariés bénéficient de l'attribution ou de la mise à disposition de ces mêmes biens ou de
+la fourniture de ces prestations de services pour un prix inférieur à leur coût de revient ;
+
+2° Le dispositif prévu au 1° s'applique aux opérations effectuées dans le cadre d'un accord conclu, selon les modalités
+prévues aux articles L. 442-10 et L. 442-11 du code du travail, du 1er janvier 2001 au 31 décembre 2002, sur option exercée
+dans le document formalisant l'accord. L'attribution, la mise à disposition ou la fourniture effective aux bénéficiaires des
+biens ou prestations de services doit s'effectuer dans les douze mois de la conclusion de l'accord précité.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 39 A, 39 B, 273, 271, 145, 125 A, 153, 235 ter Y, 238 quater, 239 bis B, 990 G, 1717, 38, 39 quindecies, 39 octies A, 39 octies B, 39 octies D, 54 septies, 199 quater B, 231 ter, 1465, 1466 A, 39 duodecies A
+	  - CGI 39 A, 39 B, 273, 271, 145, 125 A, 153, 235 ter Y, 238 quater, 239 bis B, 990 G, 1717, 38, 39 quindecies, 39 octies A, 39 octies B, 39 octies D, 54 septies, 199 quater B, 231 ter, 1465, 1466 A, 39 duodecies A, 81
 	  - Loi n°51-675 1951-05-24 art. 4
 	  - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
 	  - Ordonnance n°67-828 du 23 septembre 1967 - art. 33 (Ab)
 	  - Loi n°72-657 1972-07-13 art. 3
 	  - Loi n°87-416 1987-06-17
 	  - Loi n°93-1444 1993-12-31
-	  - Code du travail L223-11 à L223-13
+	  - Code du travail - art. L442-10 (M)
+	  - Code du travail - art. L442-11 (M)
+	  - Code du travail L223-11 à L223-13, L442-10, L442-11
 
 	**Modifié par**:
 
-	  - Loi n°2000-595 du 30 juin 2000 - art. 7 () JORF 1 juillet 2000
+	  - Loi - art. 4 (V) JORF 31 décembre 2000
 
 	**Cité par**:
 
@@ -3110,8 +3134,11 @@ prix de revient du contrat pour le calcul de la plus-value dans les conditions d
 	  - TXT_ASSOCIE: Instruction 1999-09-21 4C-3-99
 	  - TXT_ASSOCIE: Instruction 2000-04-11 4C-1-00
 	  - TXT_ASSOCIE: Instruction 2000-07-07 4C-3-00
-	  - TXT_SOURCE: Instruction 2000-11-07 4C-4-00
+	  - TXT_ASSOCIE: Instruction 2000-11-07 4C-4-00
 	  - TXT_ASSOCIE: Instruction 2000-11-13 4D-1-00
+	  - TXT_ASSOCIE: Instruction 2001-01-10 4C-1-01
+	  - TXT_ASSOCIE: Instruction 2001-03-05 4A-3-01
+	  - TXT_ASSOCIE: Instruction 2001-04-25 4C-2-01
 
 
 ###### Article 39 A
@@ -3119,45 +3146,49 @@ prix de revient du contrat pour le calcul de la plus-value dans les conditions d
 1. L'amortissement des biens d'équipement, autres que les immeubles d'habitation, les chantiers et les locaux servant à
 l'exercice de la profession, acquis ou fabriqués à compter du 1er janvier 1960 par les entreprises industrielles, peut être
 calculé suivant un système d'amortissement dégressif, compte tenu de la durée d'amortissement en usage dans chaque nature
-d'industrie. Un décret en conseil d'Etat (1) fixe les modalités et les plafonds de l'amortissement dégressif par référence au
-taux de l'amortissement linéaire tel qu'il résulte de la législation existante.
+d'industrie. Un décret en Conseil d'Etat fixe les modalités de l'amortissement dégressif.
 
-L'amortissement dégressif s'applique annuellement [*périodicité*], dans la limite des plafonds, à la valeur résiduelle du
-bien à amortir.
+Les taux d'amortissement dégressif sont obtenus en multipliant les taux d'amortissement linéaire par un coefficient fixé à
+(1):
 
-Ces modalités d'amortissement correspondent à une utilisation quotidienne traditionnelle quant à la durée; dans le cas
+1,25 lorsque la durée normale d'utilisation est de trois ou quatre ans ;
+
+1,75 lorsque cette durée normale est de cinq ou six ans ;
+
+2,25 lorsque cette durée normale est supérieure à six ans.
+
+L'amortissement dégressif s'applique annuellement, dans la limite des plafonds, à la valeur résiduelle du bien à amortir.
+
+Ces modalités d'amortissement correspondent à une utilisation quotidienne traditionnelle quant à la durée ; dans le cas
 d'utilisation continue des matériels considérés, les taux d'amortissement sont majorés.
 
 2. Les dispositions du 1 sont applicables dans les mêmes conditions :
 
-1° Aux investissements hôteliers, meubles et immeubles;
+1° Aux investissements hôteliers, meubles et immeubles ;
 
 2° Aux bâtiments industriels dont la durée normale d'utilisation n'excède pas quinze années et dont la construction est
 achevée postérieurement à la date de la publication de la loi n° 62-873 du 31 juillet 1962, à l'exclusion cependant des
-immeubles ayant fait l'objet de l'amortissement exceptionnel prévu à l'article 39 quinquies A 1.
+immeubles ayant fait l'objet de l'amortissement exceptionnel prévu au 1 de l'article 39 quinquies A.
 
-3. (Disposition périmée).
+3. (périmé).
 
-4. (Transféré sous l'article 39 AA).
+4. (Transféré).
 
-(1) Annexe II, art. 22 à 25, et loi n° 74-644 du 16 juillet 1974, art. 2 (J.O. du 17).
+**Nota:**
+
+(1) Loi n° 2000-1352 du 30 décembre 2000, article 9 V 2. : Ces dispositions s'appliquent aux biens acquis ou fabriqués à
+compter du 1er janvier 2001.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 39 quinquies A 1, 39 AA
-	  - CGIAN2 22 à 25
+	  - CGI 39 quinquies A
 	  - Loi n°62-873 1962-07-31
-	  - Loi n°74-644 du 16 juillet 1974 - art. 2, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°90-798 1990-09-10
 
 	**Modifié par**:
 
-	  - Décret n°90-798 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
+	  - Loi - art. 9 () JORF 31 décembre 2000
 
 	**Cité par**:
 
@@ -3190,54 +3221,45 @@ concerne :
 
 1° (Périmé) ;
 
-2° a  Les matériels destinés à économiser l'énergie acquis ou fabriqués par les entreprises à compter du 1er janvier 1977 qui
-figurent sur une liste établie par arrêté conjoint du ministre du budget et du ministre chargé de l'industrie (1);
+2° a. Les matériels destinés à économiser l'énergie et les équipements de production d'énergies renouvelables acquis ou
+fabriqués par les entreprises à compter du 1er janvier 1977 qui figurent sur une liste établie par arrêté conjoint du
+ministre du budget et du ministre chargé de l'industrie ;
 
-b  Les matériels utilisés dans des opérations permettant des économies d'énergie et faisant l'objet d'un agrément délivré
+b. Les matériels utilisés dans des opérations permettant des économies d'énergie et faisant l'objet d'un agrément délivré
 dans les conditions prévues au I de l'article 1649 nonies. Cet agrément ne peut être accordé qu'à des opérations qui ont
 bénéficié d'un concours financier de l'Etat attribué dans le cadre des procédures spécifiques d'aide publique au financement
-des investissements économisant l'énergie;
+des investissements économisant l'énergie ;
 
 3° Les matériels destinés à réaliser des économies de matières premières, acquis ou fabriqués par les entreprises à partir du
 1er janvier 1978. La liste des matières et des matériels concernés est établie par arrêté conjoint du ministre du budget et
-du ministre chargé de l'industrie (2). Le bénéfice de cette disposition est réservé aux matériels utilisés dans des
-opérations qui permettent des économies de matières premières contribuant notamment à l'équilibre de la balance des paiements
-et font l'objet d'un agrément délivré dans les conditions prévues au I de l'article 1649 nonies.
+du ministre chargé de l'industrie. Le bénéfice de cette disposition est réservé aux matériels utilisés dans des opérations
+qui permettent des économies de matières premières contribuant notamment à l'équilibre de la balance des paiements et font
+l'objet d'un agrément délivré dans les conditions prévues au I de l'article 1649 nonies.
 
-Les dispositions prévues au a du 2°  et au 3° ne s'appliquent pas aux biens dont la commande a donné lieu au bénéfice de
-l'aide fiscale instituée par les lois n° 75-408 du 29 mai 1975 et n° 75-853 du 13 septembre 1975.    Les dispositions prévues
-au 2° et au 3° ne s'appliquent pas pour les matériels acquis ou fabriqués à compter du 1er janvier 1991.
+Les dispositions prévues au a du 2° et au 3° ne s'appliquent pas aux biens dont la commande a donné lieu au bénéfice de
+l'aide fiscale instituée par les lois n° 75-408 du 29 mai 1975 et n° 75-853 du 13 septembre 1975.
 
-(1) Annexe IV, art. 02.
+Les dispositions prévues au 2° et au 3° ne s'appliquent pas pour les matériels acquis ou fabriqués à compter du 1er janvier
+1991.
 
-(2) Annexe IV, art. 03.
+Par dérogation aux dispositions du précédent alinéa, les dispositions de cet article s'appliquent aux matériels mentionnés au
+a du 2° acquis ou fabriqués entre le 1er janvier 2001 et le 1er janvier 2003.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1649 nonies I
-	  - CGIAN4 02
-	  - CGIAN4 03
 	  - Loi n°75-408 1975-05-29
 	  - Loi n°75-853 1975-09-13
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Loi - art. 20 () JORF 31 décembre 2000
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 02 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
-
-	**Modifié par**:
-
-	  - Loi - art. 29 (V) JORF 30 décembre 1990
-	  - Loi - art. 90 (V) JORF 30 décembre 1990
 
 
 ###### Article 39 AA bis
@@ -8032,24 +8054,24 @@ ouverts à compter du 1er janvier 1998 et à 20 p. 100 pour les exercices ouvert
 p. 100 est porté à 20 p. 100 pour les exercices ouverts à compter du 1er janvier 1997 pour les exploitants qui remplissent
 les conditions d'obtention des aides prévues pour la réalisation de travaux d'amélioration et de construction, qui
 s'incorporent aux bâtiments d'exploitation rurale, destinés à satisfaire aux obligations prévues par les textes d'application
-de la loi n° 76-663 du 19 juillet 1976 modifiée relative aux installations classées pour la protection de l'environnement
-(1) ;
+de la loi n° 76-663 du 19 juillet 1976 modifiée relative aux installations classées pour la protection de l'environnement.
 
 Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté pour le régime fiscal des sociétés de capitaux,
 la limite de la déduction visée au premier alinéa est multipliée par le nombre des associés exploitants sans pouvoir excéder
-trois fois les limites visées au premier alinéa (2).
+trois fois les limites visées au premier alinéa.
 
 Cette déduction doit être utilisée dans les cinq années qui suivent celle de sa réalisation pour l'acquisition et la création
 d'immobilisations amortissables strictement nécessaires à l'activité ou pour l'acquisition et pour la production de stocks de
-produits ou animaux dont le cycle de rotation est supérieur à un an ((ou pour la souscription de parts sociales de sociétés
-coopératives agricoles visées à l'article L521-1 du code rural, dans la limite des investissements nouveaux réalisés par
-elles, et dont elles peuvent justifier à la clôture de l'exercice et au prorata du capital souscrit par les coopérateurs dans
-le financement de cet investissement)) (M).
+produits ou animaux dont le cycle de rotation est supérieur à un an ou pour l'acquisition de parts sociales de sociétés
+coopératives agricoles visées à l'article L521-1 du code rural.
 
 La déduction est pratiquée après application de l'abattement prévu à l'article 73 B.
 
 Lorsque la déduction est utilisée à l'acquisition ou à la création d'immobilisations amortissables, la base d'amortissement
-de celles-ci est réduite à due concurrence.
+de celles-ci est réduite à due concurrence. Lorsqu'elle est utilisée pour l'acquisition de parts sociales de coopératives
+agricoles, elle est rapportée, par parts égales, au résultat de l'exercice qui suit celui de l'acquisition et des neuf
+exercices suivants. Toutefois, le retrait de l'adhérent ou la cession de parts sociales entraîne la réintégration immédiate
+dans le résultat imposable de la fraction de la déduction qui n'a pas encore été rapportée.
 
 Les exploitants agricoles qui pratiquent cette déduction renoncent définitivement aux dispositions prévues à l'article 72 B
 pour les stocks qui auraient pu y ouvrir droit.
@@ -8057,24 +8079,16 @@ pour les stocks qui auraient pu y ouvrir droit.
 Lorsqu'elle n'est pas utilisée conformément à son objet, la déduction est rapportée aux résultats de la cinquième année
 suivant sa réalisation. Sur demande de l'exploitant, elle peut être rapportée en tout ou partie au résultat d'un exercice
 antérieur lorsque ce résultat est inférieur d'au moins 20 p. 100 à la moyenne des résultats des trois exercices précédents.
-Pour le calcul de cette moyenne, il n'est pas tenu compte des reports déficitaires (1).
+Pour le calcul de cette moyenne, il n'est pas tenu compte des reports déficitaires.
 
 II. L'apport d'une exploitation individuelle, dans les conditions visées au sixième alinéa du I de l'article 151 octies à une
 société civile agricole par un exploitant agricole qui a pratiqué la déduction au titre d'un exercice précédant celui de
 l'apport n'est pas considéré pour l'application du I comme une cessation d'activité si la société bénéficiaire de l'apport en
 remplit les conditions et s'engage à utiliser la déduction conformément à son objet dans les cinq années qui suivent celle au
-cours de laquelle elle a été pratiquée (3).
+cours de laquelle elle a été pratiquée.
 
 Lorsqu'elle n'est pas utilisée conformément à son objet, la déduction est rapportée aux résultats de l'exercice clos à
 l'occasion de l'apport en société.
-
-(1) Ces dispositions sont applicables pour l'imposition des résultats des exercices ouverts à compter du 1er janvier 1997.
-
-(2) Disposition applicable aux exercices clos à compter du 2 janvier 1989.
-
-(M) Modification.
-
-(3) Disposition applicable à l'imposition des résultats des exercices ouverts à compter du 1er janvier 1995.
 
 **Liens relatifs à cet article**
 
@@ -8084,16 +8098,9 @@ l'occasion de l'apport en société.
 	  - Loi n°76-663 1976-07-19
 	  - Code rural L521-1
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-574 1999-07-09 art. 61 II
-	  - HISTO: Edition du 31 mars 2000
-	  - TXT_ASSOCIE: Instruction 1997-05-21 5E-1-97
-	  - TXT_ASSOCIE: Instruction 1998-01-06 5E-1-98
-
 	**Modifié par**:
 
-	  - Loi n°99-574 du 9 juillet 1999 - art. 61 (V) JORF 10 juillet 1999
+	  - Loi - art. 14 (V) JORF 31 décembre 2000
 
 	**Cité par**:
 
@@ -8104,6 +8111,11 @@ l'occasion de l'apport en société.
 	  - Code général des impôts, CGI. - art. 72 D ter (V)
 	  - Code général des impôts, CGI. - art. 73 E (V)
 	  - Code rural et de la pêche maritime - art. L731-15 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1998-01-06 5E-1-98
+	  - TXT_ASSOCIE: Instruction 2001-03-30 5E-6-01
 
 
 ###### Article 72 E
@@ -8277,18 +8289,13 @@ Le bénéfice imposable des exploitants placés sous le régime simplifié d'imp
 conformément aux dispositions des articles 72 à 73 C sous réserve des simplifications suivantes :
 
 a. La comptabilité de l'exploitation n'enregistre journellement que les encaissements et les paiements ; les créances et les
-dettes sont constatées à la clôture de l'exercice, sauf en ce qui concerne les dépenses relatives aux frais généraux, qui
-sont payées à échéances régulières et dont la périodicité n'excède pas un an. 
+dettes sont constatées à la clôture de l'exercice, sauf, sur option de l'exploitant, en ce qui concerne les dépenses
+relatives aux frais généraux, qui sont payées à échéances régulières et dont la périodicité n'excède pas un an. 
 
-b. Les stocks, y compris les animaux, mais non compris les matières premières achetées et les avances aux cultures visées à
-l'article 72 A, sont évalués selon une méthode forfaitaire, à partir du cours du jour à la clôture de l'exercice. Le décret
-prévu à l'article 74 B peut définir des méthodes particulières d'évaluation pour les matières premières achetées.
-
-Il n'est pas constitué de provision.
-
-Toutefois, les stocks de spiritueux peuvent être évalués, sur option, au prix de revient ou au cours du jour à la clôture de
-l'exercice si ce cours est inférieur au prix de revient. Lorsqu'ils sont évalués au prix de revient, ils peuvent donner lieu
-à la constitution de provisions.
+b. Les stocks sont évalués au prix de revient ou au cours du jour à la clôture de l'exercice si ce cours est inférieur au
+prix de revient. Toutefois, ils peuvent être évalués, sur option et à l'exception des matières premières achetées et des
+avances aux cultures visées à l'article 72 A, selon une méthode forfaitaire, à partir du cours du jour à la clôture de
+l'exercice ;
 
 c. les frais relatifs aux carburants consommés lors des déplacements professionnels de l'exploitant peuvent être enregistrés
 forfaitairement d'après un barème qui est publié chaque année ;
@@ -8303,11 +8310,11 @@ comptabilisation en vue d'éviter qu'une même charge ne puisse être déduite d
 
 	**Cite**:
 
-	  - CGI 72 à 73 C, 72 A, 74 B
+	  - CGI 72 à 73 C, 72 A
 
 	**Modifié par**:
 
-	  - Loi - art. 45 () JORF 31 décembre 1999
+	  - Loi - art. 14 (V) JORF 31 décembre 2000
 
 	**Cité par**:
 
@@ -8319,7 +8326,6 @@ comptabilisation en vue d'éviter qu'une même charge ne puisse être déduite d
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
 	  - TXT_ASSOCIE: Instruction 2000-07-04 5E-3-00
 
 
@@ -8391,6 +8397,33 @@ l'annexe III.
 	**Codifié par**:
 
 	  - Décret n°84-875 1984-10-01
+
+
+##### 4 : Dispositions communes au régime transitoire d'imposition et aux régimes d'imposition d'après le bénéfice réel.
+
+###### Article 75-0 D
+
+Sur option des contribuables titulaires de bénéfices agricoles soumis à un régime réel d'imposition, le montant correspondant
+à la différence entre l'indemnité attribuée en compensation de l'abattage d'un troupeau réalisé dans le cadre de la lutte
+contre l'encéphalopathie spongiforme bovine et la valeur en stock ou en compte d'achats des animaux abattus peut être
+rattaché, par fractions égales, aux résultats de l'exercice de sa réalisation et des six exercices suivants.
+
+Les dispositions de l'article 163-0 A sont applicables au titre de chacun de ces exercices quel que soit le montant de la
+fraction mentionnée à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163-0 A
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 2001-03-30 5E-7-01
+
+	**Créé par**:
+
+	  - Loi - art. 15 () JORF 31 décembre 2000
 
 
 ##### 4 : Dispositifs de lissage ou d'étalement
@@ -9248,7 +9281,7 @@ Les dispositions du premier alinéa bénéficient également, dans les mêmes co
 travail attribuées aux salariés des sociétés anonymes à participation ouvrière régies par la loi du 26 avril 1917, à compter
 du 1er janvier 1991 ;
 
-19° Dans la limite de 28 F par titre, le complément de rémunération résultant de la contribution de l'employeur à
+19° Dans la limite de 30 F par titre, le complément de rémunération résultant de la contribution de l'employeur à
 l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du titre III de l'ordonnance n° 67-830
 du 27 septembre 1967, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre de
 l'économie et des finances.
@@ -9306,6 +9339,9 @@ volontariat dans les corps de sapeurs-pompiers ;
 30° Le pécule versé en application de la loi n° 96-1111 du 19 décembre 1996 relative aux mesures en faveur du personnel
 militaire dans le cadre de la professionnalisation des armées (1).
 
+31° Les avantages résultant des opérations définies au 1° du 11 de l'article 39, dans la limite globale de 10 000 F par
+salarié, apprécié sur l'ensemble de la période couverte par l'accord mentionné au 2° du même article.
+
 (1) Disposition applicable du 1er janvier 1997 au 31 décembre 2002.
 
 **Liens relatifs à cet article**
@@ -9321,13 +9357,13 @@ militaire dans le cadre de la professionnalisation des armées (1).
 	  - Loi n°78-763 du 19 juillet 1978 - art. 40 (V)
 	  - Loi n°80-545 1980-07-17
 	  - Ordonnance 82-283 1982-03-26
-	  - CGI 80 ter b, 220 bis, 81 ter
-	  - Code rural L321-13, L255 à L257, L325-1, L325-2, 1031-3
 	  - Loi n°94-488 1994-06-11
 	  - Loi n°94-679 du 8 août 1994 - art. 17 (M)
 	  - Loi n°96-370 1996-05-03
 	  - Loi n°96-1111 1996-12-19
 	  - Loi n°98-546 du 2 juillet 1998 - art. 51 (M)
+	  - CGI 39, 80 ter b, 220 bis, 81 ter
+	  - Code rural L321-13, L255 à L257, L325-1, L325-2, 1031-3
 	  - Code du service national - art. L104 (M)
 	  - Code du service national L104, L 122-12
 	  - Code du travail - art. L122-14-13 (M)
@@ -9384,20 +9420,17 @@ militaire dans le cadre de la professionnalisation des armées (1).
 
 	**Modifié par**:
 
-	  - Loi n°2000-242 du 14 mars 2000 - art. 12 () JORF 15 mars 2000
-
-	**Codifié par**:
-
-	  - Décret n°2000-477 2000-06-02
+	  - Loi - art. 22 () JORF 31 décembre 2000
+	  - Loi - art. 4 (V) JORF 31 décembre 2000
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
-	  - TXT_ASSOCIE: Instruction 1999-06-14 5F-14-99 (81 1°)
-	  - TXT_ASSOCIE: Instruction 1999-08-30 5F-16-99 (81 23°)
+	  - TXT_ASSOCIE: Instruction 1999-06-14 5F-14-99
 	  - TXT_ASSOCIE: Instruction 2000-01-21 5F-5-00
-	  - TXT_ASSOCIE: Instruction 2000-01-6 5F-2-00
 	  - TXT_ASSOCIE: Instruction 2000-05-31 5F-8-00
+	  - TXT_ASSOCIE: Instruction 1999-08-30 5F-16-99
+	  - TXT_ASSOCIE: Instruction 2000-01-6 5F-2-00
+	  - TXT_ASSOCIE: Instruction 2001-01-04 5F-1-01
 
 
 ###### Article 81 bis
@@ -13880,7 +13913,7 @@ application de l'alinéa précédent deviennent immédiatement exigibles dans le
 	  - Ordonnance 59-248 1959-02-04
 
 
-##### 18° : Sociétés mères (Voir Annexe II, les articles 54 à 56).
+##### 18° : Sociétés mères
 
 ###### Article 145
 
@@ -13891,22 +13924,21 @@ après :
 a. Les titres de participations doivent revêtir la forme nominative ou être déposés dans un établissement désigné par
 l'administration ;
 
-b. Lorsque le prix de revient de la participation détenue dans la société émettrice est inférieur à 150 millions de francs,
-les titres de participation doivent représenter au moins 10 p. 100 du capital de la société émettrice ; ce prix de revient et
-ce pourcentage s'apprécient à la date de mise en paiement des produits de la participation.
+b. les titres de participation doivent représenter au moins 5 p. 100 du capital de la société émettrice ; ce pourcentage
+s'apprécie à la date de mise en paiement des produits de la participation.
 
-Si, à la date mentionnée au premier alinéa, la participation dans le capital de la société émettrice est réduite à moins de
-10 p. 100 du fait de l'exercice d'options de souscription d'actions dans les conditions prévues à l'article 208 7 de la loi
-n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, le régime des sociétés mères lui reste applicable si ce
-pourcentage est à nouveau atteint à la suite de la première augmentation de capital suivant cette date et au plus tard dans
-un délai de trois ans.
+Si, à la date mentionnée au premier alinéa, la participation dans le capital de la société émettrice est réduite à moins de 5
+p. 100 du fait de l'exercice d'options de souscription d'actions dans les conditions prévues à l'article 208 7 de la loi n°
+66-537 du 24 juillet 1966 sur les sociétés commerciales, le régime des sociétés mères lui reste applicable si ce pourcentage
+est à nouveau atteint à la suite de la première augmentation de capital suivant cette date et au plus tard dans un délai de
+trois ans.
 
 c. Les titres de participation doivent avoir été souscrits à l'émission. A défaut, la personne morale participante doit avoir
 pris l'engagement de les conserver pendant un délai de deux ans.
 
 Lorsque les titres de participation sont apportés sous le bénéfice du régime prévu par l'article 210 A, la société
-cessionnaire peut, par déclaration expresse, se substituer à la société apporteuse dans l'engagement mentionné à l'alinéa
-précédent.
+cessionnaire peut, par déclaration expresse, se substituer à la société apporteuse dans l'engagement mentionné au premier
+alinéa.
 
 Les titres échangés dans le cadre de l'une des opérations visées aux 7 et 7 bis de l'article 38 et 2 de l'article 115 sont
 réputés détenus jusqu'à la cession des titres reçus en échange.
@@ -13946,7 +13978,7 @@ e. Aux dividendes distribués aux actionnaires des sociétés agréées pour le 
 l'article 1er de la loi n° 69-1160 du 24 décembre 1969 et des sociétés qui redistribuent les dividendes d'une société
 immobilière pour le commerce et l'industrie en application du quatrième alinéa de l'article 208 3° quinquies.
 
-f. (supprimé)
+f. (abrogé)
 
 g. Aux produits et plus-values nets distribués par les sociétés de capital-risque exonérés en application du 3° septies de
 l'article 208.
@@ -13964,10 +13996,16 @@ sociétés participantes avant le 1er janvier 1966 ;
 promulgation de la loi n° 63-254 du 15 mars 1963, dans le capital de sociétés immobilières conventionnées admises à
 bénéficier des dispositions de l'ordonnance n° 58-876 du 24 septembre 1958.
 
-En ce qui concerne les actions visées aux 1° et 2°, aucun pourcentage minimal de participation n'est exigé pour l'application
-du régime défini au présent article.
+En ce qui concerne les actions visées aux 1°, aucun pourcentage minimal de participation n'est exigé pour l'application du
+régime défini au présent article.
 
-8. (Transféré sous le paragraphe 6 d du ci-dessus).
+8. (Transféré).
+
+9. Une participation détenue en application de l'article 6 de la loi n° 88-50 du 18 janvier 1988 relative à la mutualisation
+de la Caisse nationale de crédit agricole ou des articles L. 512-2, L. 512-3, L. 512-55 et L. 512-94 du code monétaire et
+financier qui remplit les conditions ouvrant droit au régime fiscal des sociétés mères autres que celle relative au taux de
+participation au capital de la société émettrice peut ouvrir droit à ce régime lorsque son prix de revient est au moins égal
+à 150 millions de francs.
 
 **Nota:**
 
@@ -13980,13 +14018,13 @@ compter de la publication de la présente décision dans les conditions fixées 
 
 	**Cite**:
 
-	  - CGI 146, 216, 210 A, 115, 208, 208 quinquies, 210 ter
+	  - CGI 146, 216, 210 A, 115, 38, 208
 	  - Ordonnance 58-876 1958-09-24
 	  - Loi n°63-254 du 15 mars 1963 - art. 33, v. init.
 	  - Décret n°63-683 1963-07-13 art. 1
-	  - Loi n°66-537 1966-07-24 art. 208 7
-	  - Loi n°69-1160 1969-12-24 art. 1 Finances rectificative pour 1969
-	  - Loi n°87-416 1987-06-17
+	  - Loi n°66-537 1966-07-24 art. 208-7 Loi 87-416 1987-06-17
+	  - Loi n°69-1160 1969-12-24 art. 1
+	  - Loi n°88-50 du 18 janvier 1988 - art. 6, v. init.
 	  - Loi n°93-1444 1993-12-31
 
 	**Cité par**:
@@ -14009,13 +14047,16 @@ compter de la publication de la présente décision dans les conditions fixées 
 
 	**Modifié par**:
 
-	  - Loi - art. 29 (V) JORF 31 décembre 1999
+	  - Loi - art. 9 () JORF 31 décembre 2000
+	  - Loi n°2000-1352 2000-12-30 art. 9 III, 1 Finances pour 2001 JORF 31 décembre 2000
+	  - Loi - art. 58 () JORF 31 décembre 2000
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
 	  - TXT_ASSOCIE: Instruction 2000-07-05 4A-6-00
 
+
+##### 18° : Sociétés mères (Voir Annexe II, les articles 54 à 56).
 
 ###### Article 146
 
@@ -14502,7 +14543,13 @@ III. - Les dispositions du I ne s'appliquent pas :
 1. Aux cessions et aux rachats de parts de fonds communs de placement à risques mentionnées à l'article 163 quinquies B,
 réalisés par les porteurs de parts, remplissant les conditions fixées aux I et II de l'article précité, après l'expiration de
 la période mentionnée au I du même article. Cette disposition n'est pas applicable si, à la date de la cession ou du rachat,
-le fonds a cessé de remplir les conditions énumérées au 1° et au 1° bis du II de l'article 163 quinquies B ;
+le fonds a cessé de remplir les conditions énumérées au II de l'article 163 quinquies B ;
+
+1 bis. Aux cessions d'actions de sociétés de capital-risque mentionnées au II de l'article 163 quinquies C souscrites ou
+acquises à compter du 1er janvier 2001, réalisées par des actionnaires remplissant les conditions fixées au II de l'article
+précité, après l'expiration de la période de cinq ans mentionnée au 2° du même II. Cette disposition n'est pas applicable si,
+à la date de la cession, la société a cessé de remplir les conditions énumérées à l'article 1er-1 de la loi n° 85-695 du 11
+juillet 1985 précitée ;
 
 2. Aux titres cédés dans le cadre de leur gestion par les autres fonds communs de placement sous réserve qu'aucune personne
 physique agissant directement ou par personne interposée ne possède plus de 10 % des parts du fonds ;
@@ -14524,17 +14571,18 @@ l'article 163 bis A sont respectées ;
 
 	**Cite**:
 
-	  - CGI 150 A bis, 118, 120, 163 quinquies D, 163 quinquies B, 163 bis A
+	  - CGI 150 A bis, 118, 120, 163 quinquies D, 163 quinquies B, 163 bis A, 163 quinquies C
 	  - Loi n°66-537 1966-07-24 art. 208-1 à 208-8-2
+	  - Loi n°85-695 du 11 juillet 1985 - art. 1-1 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 94 (V) JORF 31 décembre 1999 en vigueur le 1er janvier 2000
+	  - Loi - art. 8 (V) JORF 31 décembre 2000
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°99-1172 1999-12-30 art. 94 VI, VII Finances pour 2000
-	  - HISTO: Edition du 31 mars 2000
+	  - SPEC_APPLI: Loi n°2000-1352 2000-12-30 art. 8 IV, V
+	  - TXT_ASSOCIE: Instruction 2000-12-27 5I-1-01
 
 	**Cité par**:
 
@@ -16716,7 +16764,7 @@ années suivantes jusqu'à la cinquième année inclusivement.
 
 Toutefois, n'est pas autorisée l'imputation :
 
-1° Des déficits provenant d'exploitations agricoles lorsque le total des revenus nets d'autres sources excède 200.000 F ; ces
+1° Des déficits provenant d'exploitations agricoles lorsque le total des revenus nets d'autres sources excède 350 000 F ; ces
 déficits peuvent cependant être admis en déduction des bénéfices de même nature des années suivantes jusqu'à la cinquième
 inclusivement.
 
@@ -16727,7 +16775,7 @@ confiée en droit ou en fait à une personne qui n'est pas un membre du foyer fi
 travail ou de toute autre convention. Les déficits non déductibles pour ces motifs peuvent cependant être imputés sur les
 bénéfices tirés d'activités de même nature exercées dans les mêmes conditions, durant la même année ou les cinq années
 suivantes. Ces modalités d'imputation sont applicables aux déficits réalisés par des personnes autres que les loueurs
-professionnels au sens du sixième alinéa de l'article 151 septies, louant directement ou indirectement des locaux
+professionnels au sens du huitième alinéa de l'article 151 septies, louant directement ou indirectement des locaux
 d'habitation meublés ou destinés à être meublés.
 
 Toutefois, lorsque l'un des membres du foyer fiscal fait l'objet d'une procédure de liquidation judiciaire prévue par la loi
@@ -16834,8 +16882,8 @@ alinéa du présent 3°. Cette disposition ne s'applique pas en cas d'invalidit�
 la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, de licenciement ou de décès du
 contribuable ou de l'un des époux soumis à une imposition commune.
 
-Un contribuable ne peut pour un même logement ou une même souscription de titres pratiquer la réduction d'impôt mentionnée à
-l'article 199 undecies et imputer un déficit foncier sur le revenu global.
+Un contribuable ne peut pour un même logement ou une même souscription de titres pratiquer les réductions d'impôt mentionnées
+aux articles 199 undecies ou 199 undecies A et imputer un déficit foncier sur le revenu global.
 
 4° (abrogé).
 
@@ -16934,39 +16982,13 @@ travail et les maladies professionnelles dans l'agriculture.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 6, 151 septies, 8 quinquies, 53 A, 92, 1733, 31, 199 undecies, 150 ter, 150 octies, 150 nonies, 150 decies, 35, 199 sexdecies, 196 B, 83 bis
-	  - Loi n°65-557 1965-07-10
-	  - Loi n°83-8 1983-01-07 art. 70
-	  - Loi n°85-98 1985-01-25
-	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
-	  - Loi n°96-590 du 2 juillet 1996 - art. 2 (Ab)
-	  - Code civil - art. 214 (V)
-	  - Code civil - art. 275-1 (M)
-	  - Code civil - art. 276 (M)
-	  - Code civil - art. 294 (M)
-	  - Code civil - art. 367 (M)
-	  - Code civil - art. 605 (V)
-	  - Code civil 605, 205 à 211, 367, 275-1, 276, 214, 294
-	  - Code de la sécurité sociale. - art. L341-4 (V)
-	  - Code de la sécurité sociale. - art. L612-13 (M)
-	  - Code de la sécurité sociale. - art. L612-2 (M)
-	  - Code de la sécurité sociale. - art. L815-3 (M)
-	  - Code de la mutualité - art. L321-9 (M)
-	  - Code de l'urbanisme - art. L313-1 (M)
-	  - Code de l'urbanisme - art. L313-4-1 (M)
-	  - Code de l'urbanisme - art. R421-40 (Ab)
-	  - Code de l'urbanisme R421-40, L313-1 à L313-3, L313-4-1, L313-1
-	  - Code rural 1234-1 à 1234-18
-
 	**Cité par**:
 
-	  - Loi n°76-1234 du 29 décembre 1976 - art. 4 (V)
 	  - Décret n°2008-1024 du 7 octobre 2008 - art. 1 (M)
+	  - Arrêté du 4 mai 2009 - art. Annexe (V)
+	  - Loi n°76-1234 du 29 décembre 1976 - art. 4 (V)
 	  - Loi n°2008-1425 du 27 décembre 2008 - art. 84 (V)
 	  - Loi n°2009-431 du 20 avril 2009 - art. 1 (V)
-	  - Arrêté du 4 mai 2009 - art. Annexe (V)
 	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
 	  - Loi n°2016-1917 du 29 décembre 2016 - art. 32 (V)
 	  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (V)
@@ -17023,19 +17045,48 @@ travail et les maladies professionnelles dans l'agriculture.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46-0 B (V)
 	  - Livre des procédures fiscales - art. L16 (V)
 
+	**Cite**:
+
+	  - CGI 6, 151 septies, 8 quinquies, 53 A, 92, 1733, 31, 199 undecies, 150 ter, 150 octies, 150 nonies, 150 decies, 35, 199 sexdecies, 196 B, 83 bis
+	  - Loi n°65-557 1965-07-10
+	  - Loi n°83-8 1983-01-07 art. 70
+	  - Loi n°85-98 1985-01-25
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+	  - Loi n°96-590 du 2 juillet 1996 - art. 2 (Ab)
+	  - Code civil - art. 214 (V)
+	  - Code civil - art. 275-1 (M)
+	  - Code civil - art. 276 (M)
+	  - Code civil - art. 294 (M)
+	  - Code civil - art. 367 (M)
+	  - Code civil - art. 605 (V)
+	  - Code civil 605, 205 à 211, 367, 275-1, 276, 214, 294
+	  - Code de la sécurité sociale. - art. L341-4 (V)
+	  - Code de la sécurité sociale. - art. L612-13 (M)
+	  - Code de la sécurité sociale. - art. L612-2 (M)
+	  - Code de la sécurité sociale. - art. L815-3 (M)
+	  - Code de la mutualité - art. L321-9 (M)
+	  - Code de l'urbanisme - art. L313-1 (M)
+	  - Code de l'urbanisme - art. L313-4-1 (M)
+	  - Code de l'urbanisme - art. R421-40 (Ab)
+	  - Code de l'urbanisme R421-40, L313-1 à L313-3, L313-4-1, L313-1
+	  - Code rural 1234-1 à 1234-18
+
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°2000-596 2000-06-30 art. 17 III
-	  - TXT_ASSOCIE: Instruction 1999-06-02 5B-12-99
 	  - TXT_ASSOCIE: Instruction 1999-11-26 5D-7-99
 	  - TXT_ASSOCIE: Instruction 2000-01-07 5B-2-00
+	  - TXT_ASSOCIE: Instruction 2001-01-16 5B-7-01
+	  - TXT_ASSOCIE: Instruction 2001-01-22 5E-2-01
+	  - TXT_ASSOCIE: Instruction 1999-06-02 5B-12-99
 	  - TXT_ASSOCIE: Instruction 2000-01-07 5B-4-00
-	  - TXT_ASSOCIE: Instruction 2000-11-23 5G-4-00
+	  - TXT_ASSOCIE: Instruction 2001-01-17 5B-5-01
+	  - TXT_ASSOCIE: Instruction 2001-01-19 5B-3-01
 	  - TXT_ASSOCIE: Réponse ministérielle 1999-06-23 5B-13-99
 
 	**Modifié par**:
 
-	  - Loi n°2000-596 du 30 juin 2000 - art. 17 (V) JORF 1er juillet 2000
+	  - Loi - art. 14 (V) JORF 31 décembre 2000
+	  - Loi n°2000-1352 2000-12-30 art. 14 III, V 2 °, 19 I D 2 ° Finances pour 2001 JORF 31 décembre 2000
 
 
 ###### Article 157
@@ -18800,7 +18851,7 @@ Un décret fixe les modalités d'application du présent article, notamment les 
 
 ###### Article 163 octodecies A
 
-I. Lorsqu'une société constituée à compter du 1er janvier 1994 se trouve en cessation de paiement dans les huit ans (1) qui
+I.  Lorsqu'une société constituée à compter du 1er janvier 1994 se trouve en cessation de paiement dans les huit ans (1) qui
 suivent sa constitution, les personnes physiques qui ont souscrit en numéraire à son capital peuvent déduire de leur revenu
 net global une somme égale au montant de leur souscription, après déduction éventuelle des sommes récupérées.
 
@@ -18815,19 +18866,20 @@ La limite annuelle de 100 000 F est doublée pour les personnes mariées soumise
 II. Les souscriptions en numéraire doivent avoir été effectuées directement au profit de sociétés soumises à l'impôt sur les
 sociétés qui remplissent les conditions mentionnées à l'article 44 sexies.
 
-((Toutefois, pour l'application du premier alinéa du II de l'article 44 sexies, les participations des sociétés de capital-
+Toutefois, pour l'application du premier alinéa du II de l'article 44 sexies, les participations des sociétés de capital-
 risque, des sociétés de développement régional et des sociétés financières d'innovation ne sont pas prises en compte à la
 condition qu'il n'existe pas de lien de dépendance au sens du 1 bis de l'article 39 terdecies entre la société bénéficiaire
 de l'apport et ces dernières sociétés. De même, ce pourcentage ne tient pas compte des participations des fonds communs de
-placement à risques ou des fonds communs de placement dans l'innovation)) ((M) 2)
+placement à risques ou des fonds communs de placement dans l'innovation (2)
 
-((La condition mentionnée au III de l'article 44 sexies n'est pas exigée lorsque la société a été créée dans le cadre de la
-reprise d'activités préexistantes répondant aux conditions prévues par le I de l'article 39 quinquies H)) (M) (1).
+La condition mentionnée au III de l'article 44 sexies n'est pas exigée lorsque la société a été créée dans le cadre de la
+reprise d'activités préexistantes répondant aux conditions prévues par le I de l'article 39 quinquies H (1).
 
 Ne peuvent ouvrir droit à déduction :
 
 1° Les souscriptions qui ont donné droit à l'une des déductions prévues au 2° quater de l'article 83 et aux articles 83 bis,
-83 ter, 163 septdecies, ou à l'une des réductions d'impôt prévues aux articles 199 undecies et 199 terdecies A ;
+83 ter, 163 septdecies, ou à l'une des réductions d'impôt prévues aux articles 199 undecies, 199 undecies A et 199 terdecies
+A ;
 
 2° Les souscriptions effectuées par les personnes appartenant à un foyer fiscal qui bénéficie ou a bénéficié de la déduction
 du revenu imposable des sommes versées au titre de l'exécution d'un engagement de caution souscrit au profit de la société
@@ -18843,7 +18895,7 @@ redressement organisant la continuation de l'entreprise et arrêté conformémen
 loi n° 85-98 du 25 janvier 1985 précitée.
 
 Sous réserve des exclusions visées aux 1°, 2° et 3° du II, la déduction intervient si la société se trouve en cessation de
-paiement dans les huit ans (2) suivant la date du plan de redressement visé au premier alinéa.
+paiement dans les huit ans suivant la date du plan de redressement visé au premier alinéa.
 
 La société en difficulté doit être soumise à l'impôt sur les sociétés et exercer une activité industrielle, commerciale ou
 artisanale au sens du I de l'article 44 sexies ou une activité agricole.
@@ -18853,9 +18905,6 @@ charge des sociétés ou de leurs représentants légaux et des souscripteurs.
 
 (1) Cette modification s'applique aux souscriptions effectuées à compter du 1er septembre 1998 : Loi 98-1266 1998-12-30 art.
 95 III 2 Finances pour 1999.
-
-(2) Cette modification s'applique aux souscriptions effectuées à compter du 1er janvier 1994 : Loi 98-1266 1998-12-30 art. 95
-III 1 Finances pour 1999.
 
 **Liens relatifs à cet article**
 
@@ -18874,18 +18923,12 @@ III 1 Finances pour 1999.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
 	  - TXT_ASSOCIE: Instruction 1999-05-14 5B-10-99
 
 	**Modifié par**:
 
-	  - Loi - art. 95 (V) JORF 31 décembre 1998
-	  - Loi n°98-1266 1998-12-30 art. 95 I, II, III Finances pour 1999 JORF 31 décembre 1998
-	  - Décret n°99-382 du 18 mai 1999 - art. 1 () JORF 20 mai 1999
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
+	  - Loi - art. 19 (V) JORF 31 décembre 2000
+	  - Loi n°2000-1352 2000-12-30 art. 19 I, D, 4 Finances pour 2001 JORF 31 décembre 2000
 
 
 ##### f : Copropriétés de navires
@@ -22052,7 +22095,7 @@ La location doit prendre effet dans le délai prévu par l'article 199 decies E 
 
 1. Il est institué une réduction d'impôt sur le revenu pour les contribuables qui investissent dans les départements de la
 Guadeloupe, de la Guyane, de la Martinique et de la Réunion, dans les territoires d'outre-mer et les collectivités
-territoriales de Mayotte et Saint-Pierre-et-Miquelon jusqu'au 31 décembre 2002.
+territoriales de Mayotte et Saint-Pierre-et-Miquelon jusqu'au 31 décembre 2000.
 
 Elle s'applique :
 
@@ -22105,7 +22148,7 @@ Les souscripteurs de parts ou actions des sociétés mentionnées au présent 1 
 ans à compter de la date de la souscription.
 
 2. Pour ouvrir droit à la réduction d'impôt, la constitution ou l'augmentation du capital des sociétés mentionnées au 1 et
-dont le montant est supérieur à 30.000.000 F doit avoir été portée, préalablement à sa réalisation, à la connaissance du
+dont le montant est supérieur à 30 000 000 F doit avoir été portée, préalablement à sa réalisation, à la connaissance du
 ministre chargé du budget, et n'avoir pas appelé d'objection motivée de sa part dans un délai de trois mois. Il en est de
 même de la construction d'un ou plusieurs immeubles ayant fait l'objet d'un seul permis de construire dont le prix de revient
 est supérieur à 30 000 000 F ou de l'acquisition de logements situés dans de tels immeubles.
@@ -22116,7 +22159,7 @@ la base de la réduction est égale à 20 p. 100 des sommes effectivement payée
 né.
 
 Pour la détermination de l'impôt dû au titre des années 1986 à 1989, la réduction d'impôt est égale à 50 p. 100 de la base
-définie au premier alinéa. Pour les revenus des années 1990 à 2006, elle est égale à 25 p. 100.
+définie au premier alinéa. Pour les revenus des années 1990 à 2004, elle est égale à 25 p. 100.
 
 Toutefois, pour les acquisitions ou constructions de logements neufs à usage locatif ou à usage d'habitation principale ou
 les souscriptions au capital de sociétés ayant pour objet de construire ou d'acquérir de tels logements, qui sont visées au
@@ -22171,11 +22214,8 @@ collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon.
 
 	**Modifié par**:
 
-	  - Loi n°93-1352 du 30 décembre 1993 - art. 20 (V) JORF 31 décembre 1993
-
-	**Codifié par**:
-
-	  - Décret n°2000-477 2000-06-02
+	  - Loi - art. 19 (V) JORF 31 décembre 2000
+	  - Loi n°2000-1352 2000-12-30 art. 19 I, D, 5 Finances pour 2001 JORF 31 décembre 2000
 
 	**Cité par**:
 
@@ -22192,13 +22232,14 @@ collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
 	  - TXT_ASSOCIE: Instruction 1999-01-25 5B-5-99
 	  - TXT_ASSOCIE: Instruction 1999-01-29 4A-1-99
 	  - TXT_ASSOCIE: Instruction 1999-06-17 5B-14-99
 	  - TXT_ASSOCIE: Instruction 2000-02-21 5B-11-00
 	  - TXT_ASSOCIE: Instruction 2000-03-06 4A-3-00
 	  - TXT_ASSOCIE: Instruction 2000-03-06 5B-13-00
+	  - TXT_ASSOCIE: Instruction 2001-02-16 4A-2-01
+	  - TXT_ASSOCIE: Instruction 2001-02-16 5B-8-01
 
 
 ##### 14° : Réduction d'impôt accordée au titre des souscriptions en numéraire au capital des sociétés ainsi qu'au titre des souscriptions de parts de fonds communs de placement dans l'innovation
@@ -22740,6 +22781,61 @@ ou retenues non libératoires.
 
 ##### 21° : Crédit d'impôt accordé au titre des dépenses d'entretien afférentes à l'habitation principale.
 
+###### Article 200 ter
+
+I. Les contribuables qui, entre le 1er janvier 1998 et le 31 décembre 2000, payent, au titre de leur habitation principale,
+située en France et achevée depuis plus de deux ans, des dépenses d'entretien ou de revêtement des surfaces, autres que
+celles qui ont le caractère de réparations locatives au sens de la législation relative aux rapports locatifs, peuvent
+bénéficier à ce titre d'un crédit d'impôt.
+
+Pour une même habitation, le montant des dépenses ouvrant droit à crédit d'impôt ne peut excéder au titre d'une année la
+somme de 5 000 F pour une personne célibataire, veuve ou divorcée et de 10 000 F pour un couple marié soumis à imposition
+commune. Cette somme est majorée de 500 F par personne à charge au sens des articles 196 à 196 B. Cette majoration est fixée
+à 750 F pour le second enfant et à 1 000 F par enfant à partir du troisième.
+
+Le crédit d'impôt est égal à 15 % du montant de ces dépenses.
+
+Pour les dépenses payées à compter du 15 octobre 1998, les montants mentionnés au deuxième alinéa sont doublés et le
+pourcentage mentionné au troisième alinéa est porté à 20 %. Toutefois, le montant des dépenses ouvrant droit à crédit d'impôt
+en 1998 ne pourra excéder les montants prévus au présent alinéa.
+
+Pour les dépenses payées à compter du 15 septembre 1999, le pourcentage mentionné au quatrième alinéa est ramené à 5 %.
+Toutefois, le taux de 20 % reste applicable aux dépenses correspondant à des factures, autres que des factures d'acompte,
+émises jusqu'au 14 septembre 1999 et payées entre cette date et le 31 décembre 1999.
+
+Il est accordé sur présentation des factures des entreprises ayant réalisé les travaux et mentionnant l'adresse de
+réalisation des travaux, leur nature et leur montant.
+
+Le crédit d'impôt est imputé sur l'impôt sur le revenu dû au titre de l'année au cours de laquelle les dépenses ont été
+payées, après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200, de l'avoir fiscal, des crédits
+d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
+
+II. Pour les mêmes travaux, les dispositions du I sont exclusives de l'application des dispositions des articles 199 sexies
+et 199 sexies D.
+
+III. Les équipements qui ont bénéficié du crédit d'impôt prévu à l'article 200 quater sont exclus du bénéfice des
+dispositions des I et II.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 196 à 196 B, 199 quater B à 200, 199 sexies, 199 sexies D, 200 quater
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - TXT_ASSOCIE: Instruction 1998-06-08 5B-12-98
+	  - TXT_ASSOCIE: Instruction 1999-01-14 5B-2-99
+	  - TXT_ASSOCIE: Instruction 2000-02-10 5B-10-00
+
+	**Modifié par**:
+
+	  - Loi - art. 5 (P) JORF 31 décembre 1999
+
+
+##### 22° : Crédit d'impôt pour l'acquisition de certains gros équipements.
+
 ###### Article 200 quater
 
 1. Les dépenses payées entre le 15 septembre 1999 et le 31 décembre 2002 pour l'acquisition de gros équipements fournis dans
@@ -22747,19 +22843,34 @@ le cadre de travaux d'installation ou de remplacement du système de chauffage, 
 ouvrent droit à un crédit d'impôt sur le revenu lorsque ces travaux sont afférents à la résidence principale du contribuable
 située en France et sont éligibles au taux réduit de la taxe sur la valeur ajoutée en application de l'article 279-0 bis.
 
+Ouvre également droit au crédit d'impôt le coût des équipements de production d'énergie utilisant une source d'énergie
+renouvelable intégrés à un logement situé en France acquis neuf ou en l'état futur d'achèvement entre le 1er janvier 2001 et
+le 31 décembre 2002 et que le contribuable affecte, dès son achèvement ou son acquisition si elle est postérieure, à son
+habitation principale. Cet avantage est également applicable, dans les mêmes conditions, au coût des mêmes équipements
+intégrés dans un logement que le contribuable fait construire et qui a fait l'objet, entre les mêmes dates, de la déclaration
+d'ouverture de chantier prévue à l'article R. 421-40 du code de l'urbanisme. Il en est de même des dépenses payées entre le
+1er janvier 2001 et le 31 décembre 2002 au titre de l'acquisition des mêmes équipements fournis dans le cadre de travaux
+d'installation réalisés dans l'habitation principale du contribuable.
+
 Un arrêté du ministre chargé du budget fixe la liste des équipements ouvrant droit au crédit d'impôt.
 
-2. Pour une même résidence, le montant des dépenses ouvrant droit au crédit d'impôt ne peut excéder au cours de la période
-définie au premier alinéa du 1 la somme de 20 000 F pour une personne célibataire, veuve ou divorcée et de 40 000 F pour un
-couple marié soumis à imposition commune. Cette somme est majorée de 2 000 F par personne à charge au sens des articles 196 à
-196 B. Cette majoration est fixée à 2 500 F pour le second enfant et à 3 000 F par enfant à partir du troisième.
+2. Pour une même résidence, le montant des dépenses ouvrant droit au crédit d'impôt ne peut excéder au cours des périodes
+définies aux premier et deuxième alinéas du 1 la somme de 20 000 F pour une personne célibataire, veuve ou divorcée et de 40
+000 F pour un couple marié soumis à imposition commune. Cette somme est majorée de 2 000 F par personne à charge au sens des
+articles 196 à 196 B. Cette majoration est fixée à 2 500 F pour le second enfant et à 3 000 F par enfant à partir du
+troisième.
+
+Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année d'achèvement du logement auquel s'intègrent les
+équipements ou de son acquisition si elle est postérieure, ou du paiement de la dépense par le contribuable dans les cas
+prévus au premier alinéa et à la dernière phrase du deuxième alinéa du 1. ;
 
 Le crédit d'impôt est égal à 15 % du montant des équipements figurant sur la facture de l'entreprise ayant réalisé les
-travaux.
+travaux ou, le cas échéant, pour les équipements de production d'énergie utilisant une source d'énergie renouvelable, du coût
+de ces équipements figurant sur une attestation fournie par le vendeur du logement.
 
-Il est accordé sur présentation des factures, autres que les factures d'acompte, des entreprises ayant réalisé les travaux et
-comportant, outre les mentions prévues à l'article 289, l'adresse de réalisation des travaux, leur nature ainsi que la
-désignation et le montant des équipements.
+Il est accordé sur présentation de l'attestation mentionnée à l'alinéa précédent ou des factures, autres que les factures
+d'acompte, des entreprises ayant réalisé les travaux et comportant, outre les mentions prévues à l'article 289, l'adresse de
+réalisation des travaux, leur nature ainsi que la désignation et le montant des équipements.
 
 Le crédit d'impôt est imputé sur l'impôt sur le revenu dû au titre de l'année au cours de laquelle les dépenses ont été
 payées, après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200, de l'avoir fiscal, des crédits
@@ -22774,9 +22885,9 @@ dépenses ont été payées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 5 (P) JORF 31 décembre 1999
+	  - Loi - art. 67 () JORF 31 décembre 2000
 
 	**Cité par**:
 
@@ -22841,61 +22952,7 @@ dépenses ont été payées.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
 	  - TXT_ASSOCIE: Instruction 2000-05-03 5B-15-00
-
-
-###### Article 200 ter
-
-I. Les contribuables qui, entre le 1er janvier 1998 et le 31 décembre 2000, payent, au titre de leur habitation principale,
-située en France et achevée depuis plus de deux ans, des dépenses d'entretien ou de revêtement des surfaces, autres que
-celles qui ont le caractère de réparations locatives au sens de la législation relative aux rapports locatifs, peuvent
-bénéficier à ce titre d'un crédit d'impôt.
-
-Pour une même habitation, le montant des dépenses ouvrant droit à crédit d'impôt ne peut excéder au titre d'une année la
-somme de 5 000 F pour une personne célibataire, veuve ou divorcée et de 10 000 F pour un couple marié soumis à imposition
-commune. Cette somme est majorée de 500 F par personne à charge au sens des articles 196 à 196 B. Cette majoration est fixée
-à 750 F pour le second enfant et à 1 000 F par enfant à partir du troisième.
-
-Le crédit d'impôt est égal à 15 % du montant de ces dépenses.
-
-Pour les dépenses payées à compter du 15 octobre 1998, les montants mentionnés au deuxième alinéa sont doublés et le
-pourcentage mentionné au troisième alinéa est porté à 20 %. Toutefois, le montant des dépenses ouvrant droit à crédit d'impôt
-en 1998 ne pourra excéder les montants prévus au présent alinéa.
-
-Pour les dépenses payées à compter du 15 septembre 1999, le pourcentage mentionné au quatrième alinéa est ramené à 5 %.
-Toutefois, le taux de 20 % reste applicable aux dépenses correspondant à des factures, autres que des factures d'acompte,
-émises jusqu'au 14 septembre 1999 et payées entre cette date et le 31 décembre 1999.
-
-Il est accordé sur présentation des factures des entreprises ayant réalisé les travaux et mentionnant l'adresse de
-réalisation des travaux, leur nature et leur montant.
-
-Le crédit d'impôt est imputé sur l'impôt sur le revenu dû au titre de l'année au cours de laquelle les dépenses ont été
-payées, après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200, de l'avoir fiscal, des crédits
-d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
-
-II. Pour les mêmes travaux, les dispositions du I sont exclusives de l'application des dispositions des articles 199 sexies
-et 199 sexies D.
-
-III. Les équipements qui ont bénéficié du crédit d'impôt prévu à l'article 200 quater sont exclus du bénéfice des
-dispositions des I et II.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 196 à 196 B, 199 quater B à 200, 199 sexies, 199 sexies D, 200 quater
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-	  - TXT_ASSOCIE: Instruction 1998-06-08 5B-12-98
-	  - TXT_ASSOCIE: Instruction 1999-01-14 5B-2-99
-	  - TXT_ASSOCIE: Instruction 2000-02-10 5B-10-00
-
-	**Modifié par**:
-
-	  - Loi - art. 5 (P) JORF 31 décembre 1999
 
 
 ##### IV : Imposition des gains nets réalisés à l'occasion de cessions de valeurs mobilières et de droits sociaux
@@ -23275,6 +23332,51 @@ désignés aux 1 et 3 de l'article 6 au cours de l'année de la cession, de la c
 	  - Code général des impôts, CGI. - art. 201 (V)
 	  - Code général des impôts, CGI. - art. 202 (V)
 	  - Code général des impôts, CGI. - art. 6 (V)
+
+
+###### Article 203 bis
+
+En cas de transmission ou de rachat des droits d'un associé, personne physique, dans une société mentionnée à l'article 8,
+qui exerce une activité agricole au sens de l'article 63 et qui est soumise obligatoirement au régime d'imposition d'après le
+bénéfice réel, l'impôt sur le revenu peut être immédiatement établi au nom de cet associé pour sa quote-part dans les
+résultats réalisés depuis la fin de la dernière période d'imposition jusqu'à la date de cet événement. Cette mesure
+s'applique sur demande conjointe de l'associé dont les titres sont transmis ou rachetés ou de ses ayants cause et du
+bénéficiaire de la transmission ou, en cas de rachat, des associés présents dans la société à la date du rachat.
+
+Le bénéficiaire de la transmission des titres ou, en cas de rachat, les associés présents dans la société à la clôture de
+l'exercice sont alors imposables à raison des quotes-parts correspondant à leurs droits dans le bénéfice réalisé par la
+société au cours de l'exercice, diminuées de la part du résultat imposée dans les conditions prévues au premier alinéa au nom
+de l'associé dont les titres ont été transmis ou rachetés.
+
+Un décret fixe les modalités d'application du présent article, notamment les obligations déclaratives des contribuables.
+
+Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 2001.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGI 73 D
+
+	**Cite**:
+
+	  - CGI 8, 63
+
+	**Créé par**:
+
+	  - Loi - art. 14 (V) JORF 31 décembre 2000
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+
+	**Transféré par**:
+
+	  - Décret n°2001-435 du 21 mai 2001 - art. 1 () JORF 23 mai 2001
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 204
@@ -26273,19 +26375,22 @@ I. Les entreprises soumises à l'impôt sur les sociétés peuvent déduire de l
 montant des investissements productifs, diminué de la fraction de leur prix de revient financée par une subvention publique,
 qu'elles réalisent dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion à l'occasion de la
 création ou l'extension d'exploitations appartenant aux secteurs d'activité de l'industrie, de la pêche, de l'hôtellerie, du
-tourisme, des énergies nouvelles, de l'agriculture, du bâtiment et des travaux publics, des transports et de l'artisanat. La
-déduction est opérée sur le résultat de l'exercice au cours duquel l'investissement est réalisé, le déficit éventuel de
-l'exercice étant reporté dans les conditions prévues au I de l'article 156. Elle s'applique également aux investissements
-réalisés par une société soumise au régime d'imposition prévu à l'article 8 ou un groupement mentionné aux articles 239
-quater ou 239 quater C. Dans ce cas, la déduction est pratiquée par les associés ou membres dans une proportion correspondant
-à leurs droits dans la société ou le groupement.
+tourisme, à l'exclusion de la navigation de croisière, des énergies nouvelles, des services informatiques, de l'agriculture,
+du bâtiment et des travaux publics, des transports et de l'artisanat. La déduction est opérée sur le résultat de l'exercice
+au cours duquel l'investissement est réalisé, le déficit éventuel de l'exercice étant reporté dans les conditions prévues au
+I de l'article 209. Elle s'applique également aux investissements réalisés par une société soumise au régime d'imposition
+prévu à l'article 8 ou un groupement mentionné aux articles 239 quater ou 239 quater C. Dans ce cas, la déduction est
+pratiquée par les associés ou membres dans une proportion correspondant à leurs droits dans la société ou le groupement.
 
 La déduction prévue au premier alinéa ne s'applique qu'à la fraction du prix de revient des investissements réalisés par les
 entreprises qui excède le montant des apports en capital ouvrant droit au profit de leurs associés aux déductions prévues au
-II du présent article et à l'article 199 undecies.
+II du présent article et aux articles 199 undecies ou 199 undecies A.
 
 La déduction prévue au premier alinéa s'applique aux investissements productifs réalisés dans le secteur de la maintenance au
-profit d'activités industrielles et dans celui de la production et de la diffusion audiovisuelles et cinématographiques.
+profit d'activités exercées dans l'un des secteurs mentionnés au premier et au quatrième alinéa et dans celui de la
+production et de la diffusion audiovisuelles et cinématographiques ainsi qu'aux travaux de rénovation d'hôtel et aux
+logiciels nécessaires à l'utilisation des investissements éligibles, lorsque ces travaux et logiciels constituent des
+éléments de l'actif immobilisé.
 
 La déduction prévue au premier alinéa s'applique à la réalisation d'investissements nécessaires à l'exploitation d'une
 concession de service public local à caractère industriel et commercial.
@@ -26322,26 +26427,50 @@ associés ou membres doivent, en outre, conserver les parts de cette société o
 cession le montant des déductions qu'ils ont pratiquées, diminué, le cas échéant, dans la proportion de leurs droits dans la
 société ou le groupement, des sommes déjà réintégrées en application des dispositions du sixième alinéa.
 
+La déduction prévue au premier alinéa s'applique aux investissements productifs mis à la disposition d'une entreprise dans le
+cadre d'un contrat de location si les conditions suivantes sont réunies :
+
+1° Le contrat de location est conclu pour une durée au moins égale à cinq ans ou pour la durée normale d'utilisation du bien
+loué si elle est inférieure ;
+
+2° Le contrat de location revêt un caractère commercial ;
+
+3° L'entreprise locataire aurait pu bénéficier de la déduction prévue au premier alinéa si, imposable en France, elle avait
+acquis directement le bien ;
+
+4° L'entreprise propriétaire de l'investissement a son siège en France métropolitaine ou dans un département d'outre-mer ;
+
+5° Les trois quarts de l'avantage en impôt procuré par la déduction pratiquée au titre de l'investissement et par
+l'imputation du déficit provenant de la location du bien acquis et de la moins-value réalisée lors de la cession de ce bien
+ou des titres de la société bailleresse sont rétrocédés à l'entreprise locataire sous forme de diminution du loyer et, le cas
+échéant, du prix de cession du bien à l'exploitant.
+
+Si l'une des conditions énumérées aux treizième à dix-huitième alinéas cesse d'être respectée dans le délai mentionné au
+quatorzième alinéa, les sommes déduites sont rapportées au résultat imposable de l'entreprise propriétaire de
+l'investissement au titre de l'exercice au cours duquel cet événement se réalise.
+
 II. Les entreprises mentionnées au I peuvent, d'autre part, déduire de leur revenu imposable une somme égale au montant total
 des souscriptions au capital des sociétés de développement régional des départements d'outre-mer ou des sociétés effectuant
 dans les douze mois de la clôture de la souscription dans les mêmes départements des investissements productifs dans les
-secteurs d'activité de l'industrie, de la pêche, de l'hôtellerie, du tourisme, des énergies nouvelles, de l'agriculture, du
-bâtiment et des travaux publics, des transports et de l'artisanat. Lorsque la société affecte tout ou partie de la
-souscription à la construction d'immeubles destinés à l'exercice d'une des activités visées ci-dessus, elle doit s'engager à
-en achever les fondations dans les deux ans qui suivent la clôture de la souscription. La société doit s'engager à maintenir
-l'affectation des biens à l'activité dans les secteurs mentionnés ci-avant pendant les cinq ans qui suivent leur acquisition
-ou pendant leur durée normale d'utilisation si elle est inférieure. En cas de non-respect de cet engagement, les sommes
-déduites sont rapportées aux résultats imposables de l'entreprise ayant opéré la déduction au titre de l'exercice au cours
-duquel le non-respect de l'engagement est constaté ; ces dispositions ne sont pas applicables si les immobilisations en cause
-sont comprises dans un apport partiel d'actif réalisé sous le bénéfice de l'article 210 B ou si la société qui en est
-propriétaire fait l'objet d'une fusion placée sous le régime de l'article 210 A, à la condition que la société bénéficiaire
-de l'apport, ou la société absorbante selon le cas, réponde aux conditions d'activité prévues au présent alinéa et reprenne,
-sous les mêmes conditions et sanctions, l'engagement mentionné à la phrase qui précède pour la fraction du délai restant à
-courir.
+secteurs d'activité de l'industrie, de la pêche, de l'hôtellerie, du tourisme, à l'exclusion de la navigation de croisière,
+des énergies nouvelles, des services informatiques, de l'agriculture, du bâtiment et des travaux publics, des transports et
+de l'artisanat. Lorsque la société affecte tout ou partie de la souscription à la construction d'immeubles destinés à
+l'exercice d'une des activités visées ci-dessus, elle doit s'engager à en achever les fondations dans les deux ans qui
+suivent la clôture de la souscription. La société doit s'engager à maintenir l'affectation des biens à l'activité dans les
+secteurs mentionnés ci-avant pendant les cinq ans qui suivent leur acquisition ou pendant leur durée normale d'utilisation si
+elle est inférieure. En cas de non-respect de cet engagement, les sommes déduites sont rapportées aux résultats imposables de
+l'entreprise ayant opéré la déduction au titre de l'exercice au cours duquel le non-respect de l'engagement est constaté ;
+ces dispositions ne sont pas applicables si les immobilisations en cause sont comprises dans un apport partiel d'actif
+réalisé sous le bénéfice de l'article 210 B ou si la société qui en est propriétaire fait l'objet d'une fusion placée sous le
+régime de l'article 210 A, à la condition que la société bénéficiaire de l'apport, ou la société absorbante selon le cas,
+réponde aux conditions d'activité prévues au présent alinéa et reprenne, sous les mêmes conditions et sanctions, l'engagement
+mentionné à la phrase qui précède pour la fraction du délai restant à courir.
 
 La déduction prévue au premier alinéa s'applique aux souscriptions au capital de sociétés effectuant dans les départements
-d'outre-mer des investissements productifs dans le secteur de la maintenance au profit d'activités industrielles et dans
-celui de la production et de la diffusion audiovisuelles et cinématographiques.
+d'outre-mer des investissements productifs dans le secteur de la maintenance au profit d'activités exercées dans l'un des
+secteurs mentionnés au premier et au quatrième alinéa et dans celui de la production et de la diffusion audiovisuelles et
+cinématographiques ainsi qu'aux travaux de rénovation d'hôtel et aux logiciels nécessaires à l'utilisation des
+investissements éligibles, lorsque ces travaux et logiciels constituent des éléments de l'actif immobilisé.
 
 La déduction prévue au premier alinéa s'applique aux souscriptions au capital de sociétés concessionnaires effectuant dans
 les départements d'outre-mer des investissements productifs nécessaires à l'exploitation d'une concession de service public
@@ -26361,19 +26490,16 @@ globalement plus de 50 p. 100 de ses droits de vote et de ses droits à dividend
 réalisée, directement ou indirectement, par des personnes qui ont été associées, directement ou indirectement, de la société
 en difficulté au cours de l'une des cinq années précédant l'acquisition ;
 
-b) les souscriptions doivent être affectées à des investissements productifs dans les conditions prévues au II. Ces
-investissements sont conservés selon les modalités prévues au même paragraphe ; à défaut les sanctions y afférentes sont
-applicables ;
+b) (abrogé)
 
-c) la société en difficulté atteste qu'elle n'a pas déjà bénéficié de la déduction prévue au I ni ouvert droit aux régimes
-mentionnés au II et à l'article 199 undecies ;
+c) (abrogé)
 
 d)- l'opération a reçu l'agrément préalable du ministre du budget dans les conditions prévues au III.
 
 II ter. La déduction prévue au premier alinéa du II s'applique aux souscriptions au capital de sociétés soumises à l'impôt
 sur les sociétés et qui sont affectées exclusivement à l'acquisition ou à la construction de logements neufs dans les
 départements d'outre-mer lorsque ces sociétés ont pour activité exclusive la location de tels logements dans les conditions
-mentionnées au ((cinquième alinéa)) (M) du I du présent article.
+mentionnées au cinquième alinéa du I du présent article.
 
 Cette déduction s'applique sous les conditions et sanctions prévues au II, à l'exception de celle mentionnée à la troisième
 phrase du premier alinéa du même II.
@@ -26387,26 +26513,29 @@ par programme et par exercice est supérieur à 2 000 000 F, lorsqu'ils sont ré
 mentionnés à l'avant-dernière phrase du premier alinéa de ce même I.
 
 III. Pour ouvrir droit à déduction, les investissements mentionnés au I réalisés dans les secteurs des transports, de la
-navigation de plaisance, de la production et de la diffusion audiovisuelles et cinématographiques ainsi que les
-investissements portant sur la construction d'hôtels ou de résidences à vocation touristique ou para-hôtelière, les
-investissements nécessaires à l'exploitation d'une concession de service public local à caractère industriel et commercial et
-les souscriptions au capital des sociétés concessionnaires mentionnées au troisième alinéa du II doivent avoir reçu
-l'agrément préalable du ministre du budget. Il en est de même des investissements mentionnés au I réalisés à compter du 1er
-janvier 1998 dans le secteur de la pêche maritime.
+navigation de plaisance, de la production et de la diffusion audiovisuelles et cinématographiques, des services informatiques
+ainsi que les investissements portant sur la construction d'hôtels ou de résidences à vocation touristique ou parahôtelière
+ou la rénovation d'hôtel les investissements nécessaires à l'exploitation d'une concession de service public local à
+caractère industriel et commercial et les souscriptions au capital des sociétés concessionnaires mentionnées au troisième
+alinéa du II doivent avoir reçu l'agrément préalable du ministre du budget. Il en est de même des investissements mentionnés
+au I réalisés à compter du 1er janvier 1998 dans le secteur de la pêche maritime.
 
 L'agrément est accordé, après qu'a été demandé l'avis du ministre des départements et territoires d'outre-mer, si
-l'investissement présente un intérêt économique pour le département dans lequel il est réalisé, s'il favorise le maintien ou
-la création d'emplois dans ce département, s'il s'intègre dans la politique d'aménagement du territoire et de l'environnement
-et s'il garantit la protection des investisseurs et des tiers. L'octroi de l'agrément est tacite à défaut de réponse de
+l'investissement présente un intérêt économique pour le département dans lequel il est réalisé, si l'un de ses buts
+principaux est la création ou le maintien d'emplois dans ce département, s'il s'intègre dans la politique d'aménagement du
+territoire et de l'environnement et s'il garantit la protection des investisseurs et des tiers. La demande d'agrément doit
+être accompagnée de données chiffrées en matière d'emploi. L'octroi de l'agrément est tacite à défaut de réponse de
 l'administration dans un délai de trois mois à compter de la réception de la demande d'agrément.
 
-Toutefois, les investissements mentionnés au I, dont le montant total n'excède pas un million de francs par programme et par
-exercice, sont dispensés de la procédure d'agrément préalable, lorsqu'ils sont réalisés par une entreprise qui exerce son
-activité dans les départements visés au I depuis au moins deux ans, dans l'un des secteurs mentionnés au premier alinéa du
-présent III ter. Dans ce cas, l'entreprise joint à sa déclaration de résultat un état récapitulatif des investissements
-réalisés au cours de l'exercice et au titre desquels la déduction fiscale est pratiquée.
+Toutefois, les investissements mentionnés au I, dont le montant total n'excède pas 1 000 000 F par programme et par exercice,
+sont dispensés de la procédure d'agrément préalable, lorsqu'ils sont réalisés par une entreprise qui exerce son activité dans
+les départements visés au I depuis au moins deux ans, dans l'un des secteurs mentionnés au premier alinéa du présent III ter.
+Dans ce cas, l'entreprise joint à sa déclaration de résultat un état récapitulatif des investissements réalisés au cours de
+l'exercice et au titre desquels la déduction fiscale est pratiquée.
 
 III bis. (Abrogé).
+
+III ter. (transféré).
 
 III quater. (abrogé).
 
@@ -26428,15 +26557,24 @@ cas où les titres souscrits avec le bénéfice de la déduction prévue aux II,
 le cadre d'opérations soumises aux dispositions des articles 210 A ou 210 B, si l'entreprise conserve, sous les mêmes
 conditions et sanctions, les titres nouveaux qui se sont substitués aux titres d'origine.
 
-((IV bis. L'abattement prévu à l'article 217 bis n'est applicable ni pour le calcul de la déduction prévue par le présent
+IV bis. L'abattement prévu à l'article 217 bis n'est applicable ni pour le calcul de la déduction prévue par le présent
 article ni aux résultats provenant de l'exploitation des investissements ayant donné lieu à cette déduction et qui sont
-acquis pendant la durée normale d'utilisation de ces mêmes investissements.
+acquis pendant le délai de cinq ans suivant leur réalisation ou leur durée normale d'utilisation si elle est inférieure.
 
-Si, avant l'expiration de sa durée normale d'utilisation, l'un de ces investissements est cédé ou cesse d'être affecté à
+Si, avant l'expiration du délai visé à l'alinéa précédent l'un de ces investissements est cédé ou cesse d'être affecté à
 l'exploitation de l'entreprise utilisatrice ou si l'acquéreur cesse son activité, l'avantage résultant de l'application du
 premier alinéa est rapporté au résultat imposable de l'exercice au cours duquel cet événement se réalise, majoré d'un montant
 égal au produit de cet avantage par le taux de l'intérêt de retard prévu au troisième alinéa de l'article 1727 et appliqué
-dans les conditions mentionnées à l'article 1727 A)) (M).
+dans les conditions mentionnées à l'article 1727 A.
+
+Toutefois, la reprise de l'avantage n'est pas effectuée lorsque les biens ayant ouvert droit à déduction sont transmis dans
+le cadre d'opérations soumises aux dispositions des articles 210 A ou 210 B, si le bénéficiaire de la transmission s'engage à
+maintenir l'exploitation des biens outre-mer dans le cadre d'une activité mentionnée au I pendant la fraction du délai de
+conservation restant à courir. L'engagement est pris dans l'acte constatant la transmission ou, à défaut, dans un acte sous
+seing privé ayant date certaine, établi à cette occasion. En cas de non-respect de cet engagement, le bénéficiaire de la
+transmission doit rapporter à son résultat imposable, au titre de l'exercice au cours duquel l'engagement de conservation
+cesse d'être respecté, l'avantage et la majoration correspondante mentionnés au deuxième alinéa qui, à défaut d'engagement,
+auraient dû être rapportés au résultat imposable de l'entreprise apporteuse.
 
 V. Les dispositions du présent article sont applicables aux investissements réalisés ou aux souscriptions versées à compter
 du 15 septembre 1997, à l'exception :
@@ -26449,32 +26587,39 @@ l'administration avant cette date ;
 3° Des biens meubles corporels commandés, mais non encore livrés au 15 septembre 1997, si la commande a été accompagnée du
 versement d'acomptes égaux à 50 % au moins de leur prix.
 
-Les dispositions du présent article sont applicables aux seuls investissements neufs réalisés ou aux souscriptions versées
-jusqu'au 31 décembre 2002.
+Les dispositions du présent article sont applicables aux seuls investissements neufs et travaux de rénovation d'hôtel
+réalisés ou aux souscriptions versées jusqu'au 31 décembre 2006.
 
-Un décret en conseil d'Etat précise, en tant que de besoin, les modalités de leur application.
+Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités de leur application.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 156, 8, 239 quater, 239 quater C, 199 undecies, 199 undecies A, 210 A, 210 B, 44 septies, 217 bis, 1727, 1727 A
+
 	**Cité par**:
 
-	  - Arrêté du 29 juin 2015 (Ab)
-	  - Arrêté du 16 décembre 2016 (V)
+	  - Décret n°2010-89 du 22 janvier 2010 - art. 3 (Ab)
+	  - Décret n°2010-89 du 22 janvier 2010 - art. 6 (Ab)
 	  - Loi n°2009-594 du 27 mai 2009 - art. 26 (Ab)
 	  - Loi n°2009-594 du 27 mai 2009 - art. 15 (V)
 	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-	  - Décret n°2010-89 du 22 janvier 2010 - art. 3 (Ab)
-	  - Décret n°2010-89 du 22 janvier 2010 - art. 6 (Ab)
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 101 (V)
 	  - Loi n°2010-1657 du 29 décembre 2010 - art. 170 (V)
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 36
+	  - Loi organique n°2011-416 du 19 avril 2011 - art. Annexe 1 (Saint-Martin) (V)
 	  - Loi organique n°2011-416 du 19 avril 2011 - art. Annexe 2 (Polynésie) (V)
 	  - Loi organique n°2011-416 du 19 avril 2011 - art. Annexe 3 (Saint-Barthélemy) (V)
 	  - Décret n°2011-566         du 24 mai 2011 - art. 4 (V)
 	  - Loi n°2013-1278 du 29 décembre 2013 - art. 21 (V)
 	  - Arrêté du 13 octobre 2014 (V)
+	  - Arrêté du 29 juin 2015 (Ab)
 	  - Décret n°2015-765 du 29 juin 2015 (Ab)
 	  - Décret n°2015-919 du 27 juillet 2015 (V)
 	  - Arrêté du 25 août 2015 (V)
 	  - Décret n°2015-1059 du 25 août 2015 (V)
+	  - Arrêté du 16 décembre 2016 (V)
 	  - Code de la construction et de l'habitation. - art. L423-14 (Ab)
 	  - Code du cinéma et de l'image animée - art. L333-2 (V)
 	  - Code général des impôts, CGI. - art. 1051 (V)
@@ -26514,41 +26659,21 @@ Un décret en conseil d'Etat précise, en tant que de besoin, les modalités de 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 decies (M)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 L quater (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 L ter (Ab)
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 101 (V)
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 36
-	  - Loi organique n°2011-416 du 19 avril 2011 - art. Annexe 1 (Saint-Martin) (V)
 	  - Livre des procédures fiscales - art. L45 F (VD)
-
-	**Cite**:
-
-	  - CGI 156, 8, 239 quater, 239 quater C, 199 undecies, 210 A, 210 B, 44 septies, 217 bis, 1727, 1727 A
-
-	**Modifié par**:
-
-	  - Loi - art. 89 (V) JORF 31 décembre 1998
-	  - Loi - art. 90 (V) JORF 31 décembre 1998
-	  - Loi n°98-1266 1998-12-30 art. 90 I, art. 89 I 2°, 3°, 4°, art. 88 4° Finances pour 1999 JORF 31 décembre 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
-	  - TXT_ASSOCIE: Instruction 1997-02-07 4A-2-97
-	  - TXT_ASSOCIE: Instruction 1997-02-07 5B-6-97
-	  - TXT_ASSOCIE: Instruction 1997-02-17 4A-4-97
-	  - TXT_ASSOCIE: Instruction 1997-03-07 4A-6-97
-	  - TXT_ASSOCIE: Instruction 1997-03-07 5B-11-97
-	  - TXT_ASSOCIE: Instruction 1998-02-11 5B-9-98
-	  - TXT_ASSOCIE: Instruction 1998-02-12 4A-3-98
+	  - TXT_ASSOCIE: Instruction 2000-03-06 4A-3-00
 	  - TXT_ASSOCIE: Instruction 1999-01-25 5B-5-99
 	  - TXT_ASSOCIE: Instruction 1999-01-29 4A-1-99
 	  - TXT_ASSOCIE: Instruction 1999-07-20 4A-7-99
-	  - TXT_ASSOCIE: Instruction 2000-03-06 4A-3-00
 	  - TXT_ASSOCIE: Instruction 2000-03-06 5B-13-00
-	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 89 II, art. 90 III Finances pour 1999
+	  - TXT_ASSOCIE: Instruction 2001-02-16 4A-2-01
+	  - TXT_ASSOCIE: Instruction 2001-02-16 5B-8-01
+
+	**Modifié par**:
+
+	  - Loi - art. 19 (V) JORF 31 décembre 2000
 
 
 ##### Section IV : Personnes imposables - Lieu d'imposition
@@ -26692,8 +26817,8 @@ entreprise à raison des 19/33,33e de son montant.
 a ter. Le régime des plus-values et moins-values à long terme cesse de s'appliquer au résultat de la cession de titres du
 portefeuille réalisée au cours d'un exercice ouvert à compter du 1er janvier 1994 à l'exclusion des parts ou actions de
 sociétés revêtant le caractère de titres de participation et des parts de fonds commun de placement à risques ou de société
-de capital risque qui remplissent les conditions prévues au 1° bis du II de l'article 163 quinquies B ou à l'article 1er
-modifié de la loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier et qui sont
+de capital risque qui remplissent les conditions prévues au II de l'article 163 quinquies B ou aux articles 1er modifié ou
+1er-1 de la loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier et qui sont
 détenues par l'entreprise depuis au moins cinq ans.
 
 Pour les exercices ouverts à compter de la même date, le régime des plus ou moins-values à long terme cesse également de
@@ -26702,9 +26827,11 @@ régime ou dont l'activité consiste de manière prépondérante en la gestion d
 
 Pour l'application des premier et deuxième alinéas, constituent des titres de participation les parts ou actions de sociétés
 revêtant ce caractère sur le plan comptable. Il en va de même des actions acquises en exécution d'une offre publique d'achat
-ou d'échange par l'entreprise qui en est l'initiatrice ainsi que des titres ouvrant droit au régime des sociétés mères si ces
-actions ou titres sont inscrits en comptabilité au compte de titres de participation ou à une subdivision spéciale d'un autre
-compte du bilan correspondant à leur qualification comptable.
+ou d'échange par l'entreprise qui en est l'initiatrice ainsi que des titres ouvrant droit au régime des sociétés mères ou,
+lorsque leur prix de revient est au moins égal à 150 millions de francs, qui remplissent les conditions ouvrant droit à ce
+régime autres que la détention de 5 % au moins du capital de la société émettrice, si ces actions ou titres sont inscrits en
+comptabilité au compte de titres de participation ou à une subdivision spéciale d'un autre compte du bilan correspondant à
+leur qualification comptable.
 
 Les provisions pour dépréciation afférentes aux titres exclus du régime des plus ou moins-values en application des premier
 et deuxième alinéas cessent d'être soumises à ce même régime.
@@ -26764,7 +26891,21 @@ d'exploitation continuant à bénéficier de ce régime, s'imputer à raison des
 imposables. Cette imputation n'est possible que dans la limite des gains nets retirés de la cession des éléments d'actifs
 exclus du régime des plus et moins-values à long terme en application du premier alinéa ;
 
-b. (périmé).
+b. Par exception aux deuxième et quatrième alinéas, pour les redevables ayant réalisé un chiffre d'affaires de moins de 50
+millions de francs au cours de l'exercice ou de la période d'imposition, ramené s'il y a lieu à douze mois, le taux de
+l'impôt applicable au bénéfice imposable est fixé, dans la limite de 250 000 F de bénéfice imposable par période de douze
+mois, à 25 % pour les exercices ouverts en 2001 et à 15 % pour les exercices ouverts à compter du 1er janvier 2002.
+Toutefois, pour les exercices ouverts en 2001, les résultats relevant du régime des plus values à long terme sont imposés au
+taux prévu au a et ne sont pas pris en compte pour l'appréciation de la limite de 250 000 F.
+
+Pour la société mère d'un groupe mentionné à l'article 223 A, le chiffre d'affaires est apprécié en faisant la somme des
+chiffres d'affaires de chacune des sociétés membres de ce groupe. Le capital des sociétés mentionnées au premier alinéa doit
+être entièrement libéré et détenu de manière continue pour 75 % au moins par des personnes physiques ou par une société
+répondant aux mêmes conditions dont le capital est détenu, pour 75 % au moins, par des personnes physiques. Pour la
+détermination de ce pourcentage, les participations des sociétés de capital-risque, des fonds communs de placement à risques,
+des sociétés de développement régional et des sociétés financières d'innovation ne sont pas prises en compte à la condition
+qu'il n'existe pas de lien de dépendance au sens du 1 bis de l'article 39 terdecies entre la société en cause et ces
+dernières sociétés ou ces fonds.
 
 c. (abrogé).
 
@@ -26775,7 +26916,12 @@ commun, autres que les sociétés à capital variable et celles mentionnées à 
 série comprenant un exercice bénéficiaire et les deux premiers exercices bénéficiaires suivant celui-ci, du taux fixé au a
 bis, à hauteur de la fraction de leurs résultats comptables qu'elles incorporent à leur capital au cours de l'exercice
 suivant celui de leur réalisation. Cette fraction doit représenter, pour chacun des trois exercices et dans la limite du
-résultat fiscal, le quart au plus du résultat comptable sans excéder la somme de 200 000 F.
+résultat fiscal, le quart au plus du résultat comptable sans excéder la somme de 200 000 F. L'option ne peut plus être
+exercée pour l'imposition des résultats des exercices ouverts à compter du 1er janvier 2001. Lorsque, à cette date, la série
+de trois exercices bénéficiaires est en cours, le taux d'imposition prévu par le dispositif ne s'applique pas aux résultats
+des exercices restants, sauf, sur option de l'entreprise, pour les exercices ouverts en 2001. Dans ce dernier cas, le taux de
+25 % prévu au b s'applique à la fraction des résultats imposables comprise entre la part des résultats imposables selon les
+modalités prévues au présent alinéa et 250 000 F, lorsque les conditions prévues au b sont réunis.
 
 Les dispositions du premier alinéa s'appliquent si les conditions suivantes sont remplies :
 
@@ -26811,7 +26957,9 @@ au premier alinéa portent à une réserve spéciale la fraction du bénéfice m
 
 Cette réserve doit être incorporée au capital au plus tard au cours de l'exercice suivant le troisième exercice ayant
 bénéficié des dispositions du premier alinéa du présent f. En cas de prélèvement sur cette réserve ou d'absence
-d'incorporation au capital dans ce délai, les dispositions du quatrième alinéa du présent f sont applicables.
+d'incorporation au capital dans ce délai, les dispositions du quatrième alinéa du présent f sont applicables. Lorsque les
+incorporations de capital afférentes à l'imposition de résultats d'exercices ouverts avant le 1er janvier 2001 ont été
+différées, elles doivent être effectuées au plus tard à la clôture du second exercice ouvert à compter de cette date.
 
 Les conditions d'application du f ainsi que les obligations déclaratives qui en découlent sont fixées par décret.
 
@@ -26839,17 +26987,16 @@ présentent un caractère accessoire pour la société intéressée.
 
 	**Cite**:
 
-	  - CGI 39 quindecies, 209 quater, 163 quinquies B, 39 duodecies, 38 bis A, 1734 quater, 206, 238 bis HE, 223 A, 37, 1727, 221, 210 A, 39 terdecies, 238 octies
+	  - CGI 39 quindecies, 209 quater, 163 quinquies B, 39 duodecies, 38 bis A, 1734 quater, 223 A, 39 terdecies, 206, 238 bis HE, 37, 1727, 221, 210 A, 238 octies
 	  - Loi n°85-695 du 11 juillet 1985 - art. 1, v. init.
 	  - Code de l'urbanisme - art. L430-3 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2000-477 2000-06-02
-
 	**Modifié par**:
 
-	  - Décret n°2000-477 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
+	  - Loi - art. 7 (V) JORF 31 décembre 2000
+	  - Loi - art. 8 (V) JORF 31 décembre 2000
+	  - Loi - art. 9 () JORF 31 décembre 2000
+	  - Loi n°2000-1352 2000-12-30 art. 7 I, II, art. 8 II 8°, art. 9 III 2 Finances pour 2001 JORF 31 décembre 2000
 
 	**Cité par**:
 
@@ -26908,7 +27055,6 @@ présentent un caractère accessoire pour la société intéressée.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
 	  - TXT_ASSOCIE: Instruction 2000-04-14 4H-2-00
 
 
@@ -30259,6 +30405,13 @@ lieu où il a été conclu.
 Les sommes versées par l'entreprise en application d'un plan d'épargne d'entreprise établi conformément aux dispositions du
 chapitre III du titre IV du livre IV du code du travail sont exonérées de la taxe sur les salaires prévue à l'article 231.
 
+**Nota:**
+
+NOTA : Loi 2000-1352 art. 10 II : Article abrogé.
+
+Loi 2000-1352 art. 10 V : L'abrogation s'applique à la taxe sur les salaires due à raison des rémunérations versées à compter
+du 1er janvier 2002.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -30267,15 +30420,11 @@ chapitre III du titre IV du livre IV du code du travail sont exonérées de la t
 
 	**Modifié par**:
 
-	  - Loi n°94-640 du 25 juillet 1994 - art. 33 () JORF 27 juillet 1994
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Loi - art. 10 (V) JORF 31 décembre 2000
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - SPEC_APPLI: Loi n°2000-1352 2000-12-30 art. 10 V
 
 
 ###### Article 231 bis F
@@ -61420,7 +61569,8 @@ code de la consommation ;
 13° Les contrats de prêt sur gage consentis par les caisses de crédit municipal ;
 
 14° Les minutes, originaux et expéditions ainsi que leurs annexes des actes constatant la formation de sociétés en nom
-collectif, en commandite simple, à responsabilité limitée et par actions ainsi que des sociétés civiles à objet agricole ;
+collectif, en commandite simple, à responsabilité limitée et par actions ainsi que des sociétés civiles à objet agricole et
+coopératives agricoles ;
 
 15° Les prêts de titres effectués dans les conditions du chapitre V de la loi n° 87-416 du 17 juin 1987 sur l'épargne et les
 remises en garantie de valeurs, titres, effets ou sommes d'argent prévues à l'article 52 de la loi n° 96-597 du 2 juillet
@@ -61433,14 +61583,18 @@ remises en garantie de valeurs, titres, effets ou sommes d'argent prévues à l'
 	**Cite**:
 
 	  - CGI 671, 1594 F quinquies, 1594-0 G, 635, 867, 868, 1002
+	  - Ordonnance 67-830 1967-09-27
+	  - Ordonnance 82-283 1982-03-26
 	  - Décret n°83-872 du 30 septembre 1983 - art. 4 (Ab)
+	  - Loi n°87-416 1987-06-17
+	  - Loi n°96-597 du 2 juillet 1996 - art. 52 (M)
 	  - Code de commerce 162
 	  - Code général des collectivités territoriales - art. L1611-6 (M)
 	  - Décret-loi 1935-10-30
-	  - Ordonnance 67-830 1967-09-27
-	  - Ordonnance 82-283 1982-03-26
-	  - Loi n°87-416 1987-06-17
-	  - Loi n°96-597 du 2 juillet 1996 - art. 52 (M)
+
+	**Modifié par**:
+
+	  - Loi - art. 44 () JORF 31 décembre 2000
 
 	**Cité par**:
 
@@ -61449,11 +61603,8 @@ remises en garantie de valeurs, titres, effets ou sommes d'argent prévues à l'
 	**Liens**:
 
 	  - TXT_ASSOCIE: Instruction 2000-01-31 7M-1-00
-	  - SPEC_APPLI: Loi n°2000-656 2000-07-13 art. 10 III Finances rectificative pour 2000
-
-	**Modifié par**:
-
-	  - Loi n°2000-656 du 13 juillet 2000 - art. 10 (V) JORF 14 juillet 2000
+	  - TXT_ASSOCIE: Instruction 2000-12-05 7M-10-00
+	  - TXT_ASSOCIE: Instruction 2001-02-12 7M-1-01
 
 
 ###### Article 903
@@ -61867,8 +62018,29 @@ conditions prescrites par décret (1) ou sur lesquelles aurait été apposé un 
 
 ###### Article 953
 
-I. La durée de validité des passeports ordinaires délivrés en France est fixée à cinq ans. Le prix en est de 400 F, y compris
-les frais de papier et de timbre et tous frais d'expédition.
+I. La durée de validité des passeports ordinaires délivrés en France est fixée à dix ans (1). Leur délivrance est soumise à
+un droit de timbre dont le tarif est fixé à (1) 400 F, y compris les frais de papier et de timbre et tous frais d'expédition.
+
+Par dérogation aux dispositions du premier alinéa, la durée de validité des passeports délivrés à un mineur ou portant
+inscription d'un mineur de moins de quinze ans est de cinq ans. Le tarif applicable est fixé à 200 F pour les passeports
+délivrés à un mineur.
+
+Par dérogation aux dispositions du premier alinéa, la durée de validité des passeports délivrés à titre exceptionnel et pour
+un motif d'urgence dûment justifié ou délivrés par une autorité qui n'est pas celle du lieu de résidence ou de domicile du
+demandeur est de six mois. Le tarif applicable est fixé à 200 F.
+
+Le renouvellement du passeport jusqu'à concurrence de la durée de validité fixée au premier alinéa est effectué à titre
+gratuit dans les cas suivants :
+
+- modification d'état civil ;
+
+- changement d'adresse ;
+
+- inscription ou radiation d'enfants ;
+
+- erreur imputable à l'administration ;
+
+- pages du passeport réservées au visa entièrement utilisées (1)
 
 II. Sont dispensés du paiement du prix fixé au I les passeports délivrés aux fonctionnaires se rendant en mission à
 l'étranger.
@@ -61878,26 +62050,21 @@ III. (Abrogé).
 IV. Les titres de voyage délivrés aux réfugiés ou apatrides sont valables deux ans et sont soumis à une taxe de 55 F.
 
 V. Les sauf-conduits délivrés pour une durée de validité maximum de trois mois aux étrangers titulaires d'un titre de séjour
-sont assujettis à une taxe de 50 F (1).
+sont assujettis à une taxe de 50 F.
 
-(1) Cette disposition s'applique à compter du 15 janvier 1992.
+(1) Ces dispositions s'appliqueront aux passeports délivrés à compter du 1er mars 2001.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 313 BA
-
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
 	  - TXT_ASSOCIE: Instruction 1998-01-15 7M-3-98
 	  - TXT_ASSOCIE: Instruction 2000-02-21 7M-5-00
-	  - SPEC_APPLI: Loi n°97-1269 1997-12-30 art. 33 V
+	  - SPEC_APPLI: Loi n°2000-1353 2000-12-30 art. 24 II
 
 	**Modifié par**:
 
-	  - Loi - art. 33 (V) JORF 31 décembre 1997 en vigueur le 15 janvier 1998
+	  - Loi - art. 24 (V) JORF 31 décembre 2000
 
 	**Cité par**:
 
@@ -74078,43 +74245,6 @@ dispositions transitoires que l'application de ces articles peut comporter (1).
 
 #### Chapitre IV : Autres droits et taxes
 
-##### Taxe perçue au profit de la commune de Saint-Martin
-
-###### Article 1585 I
-
-Il est institué au profit de la commune de Saint-Martin (Guadeloupe) une taxe additionnelle à la taxe sur les certificats
-d'immatriculation des véhicules visée à l'article 1599 quindecies, pour financer l'amélioration de son réseau routier.
-
-La taxe additionnelle est due sur les certificats d'immatriculation délivrés aux résidents de la commune de Saint-Martin. Son
-taux est fixé chaque année par délibération du conseil municipal de la commune de Saint-Martin dans les conditions prévues
-aux articles 1599 sexdecies à 1599 novodecies. Le taux de la taxe additionnelle ne peut pas excéder celui de la taxe
-principale.
-
-La taxe additionnelle est assise et recouvrée comme un droit de timbre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1599 sexdecies à 1599 novodecies
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1988
-
-	**Créé par**:
-
-	  - Loi n°87-1061 du 30 décembre 1987 - art. 21 () JORF 31 décembre 1987
-
-	**Modifié par**:
-
-	  - Loi n°2000-1207 du 13 décembre 2000 - art. 57
-
-
 ### Titre II : Impositions départementales
 
 #### Chapitre premier : Impôts directs et taxes assimilées
@@ -78355,21 +78485,23 @@ communautés de villes sont substitués aux communes membres pour l'application 
 professionnelle, à l'exception des I et II des articles 1648 A et 1648 AA ainsi que du 3° du II de l'article 1648 B, et
 perçoivent le produit de cette taxe.
 
-II. Les établissements publics de coopération intercommunale visés au I peuvent décider, par délibération du conseil de
+II. 1° Les établissements publics de coopération intercommunale visés au I peuvent décider, par délibération du conseil de
 l'établissement public de coopération intercommunale statuant à la majorité simple de ses membres, de percevoir la taxe
 d'habitation et les taxes foncières. Cette délibération est applicable à compter du 1er janvier de l'année suivant celle au
 cours de laquelle elle est intervenue.
 
-La première année d'application de ces dispositions, les rapports entre les taux de taxe d'habitation et des taxes foncières
-établis par l'établissement public de coopération intercommunale sont égaux aux rapports constatés l'année précédente entre
-les taux moyens pondérés de chaque taxe dans l'ensemble des communes membres.
-
-Les années suivantes, le taux de la taxe foncière sur les propriétés non bâties ne peut augmenter plus ou diminuer moins que
-le taux de la taxe d'habitation jusqu'à la date de la prochaine révision.
-
 L'année où intervient le renouvellement général des conseils municipaux, cette délibération doit être renouvelée par le
 nouveau conseil pour être applicable à compter du 1er janvier de l'année suivante. Dans ce cas, ils perçoivent le produit de
 la taxe professionnelle et celui de la taxe d'habitation et des taxes foncières.
+
+2° La première année de perception du produit de la taxe d'habitation et des taxes foncières en application des dispositions
+du 1°, ainsi que l'année qui suit celle au titre de laquelle l'établissement public de coopération intercommunale a voté un
+taux égal à zéro pour ces trois taxes, les rapports entre les taux de taxe d'habitation et des taxes foncières établis par
+l'établissement public de coopération intercommunale sont égaux aux rapports constatés l'année précédente entre les taux
+moyens pondérés de chaque taxe dans l'ensemble des communes membres.
+
+Les années suivantes, le taux de la taxe foncière sur les propriétés non bâties ne peut augmenter plus ou diminuer moins que
+le taux de la taxe d'habitation jusqu'à la date de la prochaine révision.
 
 III. 1° a. La première année d'application des dispositions du I, le taux de taxe professionnelle voté par le conseil de
 l'établissement public de coopération intercommunale ne peut excéder le taux moyen de la taxe professionnelle des communes
@@ -78691,7 +78823,11 @@ pour le régime fiscal prévu au présent article ou dont la communauté de comm
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 57 () JORF 14 décembre 2000
+	  - Loi - art. 80 () JORF 31 décembre 2000
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 2001-03-27 6IDL Numéro spécial
 
 
 ###### Article 1609 nonies D
@@ -83487,7 +83623,8 @@ service, doit être opéré soit par chèque répondant aux caractéristiques de
 voie d'endossement mentionné à l'article L. 96 du livre des procédures fiscales, soit par tout autre moyen inscrivant le
 montant réglé au débit d'un compte tenu chez un établissement de crédit, une entreprise d'investissement ou une institution
 mentionnée à l'article 8 modifié de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
-établissements de crédit. 
+établissements de crédit. Toutefois, les dispositions du présent alinéa ne font pas obstacle au paiement d'un acompte, réglé
+par tout moyen, dans la limite de 3 000 F.
 
 Toutefois, les particuliers non commerçants n'ayant pas leur domicile fiscal en France peuvent continuer d'effectuer le
 règlement de tout bien ou service d'un montant supérieur à 20 000 F en chèque de voyage ou en espèces, après relevé, par le
@@ -83501,6 +83638,11 @@ Tout versement d'une prime ou d'une cotisation d'assurance au titre d'un contrat
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1999-06-03 13K-7-99
+	  - TXT_ASSOCIE: Instruction 2000-02-8 13K-3-00
+
 	**Cite**:
 
 	  - Loi n°84-46 1984-01-24 art. 8
@@ -83508,19 +83650,12 @@ Tout versement d'une prime ou d'une cotisation d'assurance au titre d'un contrat
 
 	**Modifié par**:
 
-	  - Loi - art. 101 () JORF 31 décembre 1999
-	  - Loi - art. 102 () JORF 31 décembre 1999
+	  - Loi - art. 84 () JORF 31 décembre 2000
 
 	**Cité par**:
 
 	  - Loi n°2016-1918 du 29 décembre 2016 - art. 15 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 quater C (VD)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-	  - TXT_ASSOCIE: Instruction 1999-06-03 13K-7-99
-	  - TXT_ASSOCIE: Instruction 2000-02-08 13K-3-00
 
 
 #### Chapitre 00I ter : Transmission des déclarations par voie électronique
