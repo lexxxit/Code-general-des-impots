@@ -1,9 +1,49 @@
 # Code général des impôts  
-Version Consolidée au 1974-12-31
+Version Consolidée au 1976-01-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
 ## Première Partie : Impôts d'État
+
+### Titre premier : Impôts directs et taxes assimilées
+
+#### Chapitre premier : Impôt sur le revenu
+
+##### Section II : Revenus imposables
+
+##### 1re Sous-section : Détermination des bénéfices ou revenus nets des diverses catégories de revenus
+
+##### VII : Revenus des capitaux mobiliers
+
+##### 1 bis : Jetons de présence et autres rémunérations alloués aux membres du conseil d'administration ou du conseil de surveillance des sociétés anonymes
+
+###### Article 117 bis
+
+Les jetons de présence et toutes autres rémunérations alloués aux membres du conseil d'administration ou du conseil de
+surveillance des sociétés anonymes, à quelque titre que ce soit, à l'exclusion des salaires et des redevances de propriété
+industrielle, donnent lieu à la retenue à la source visée à l'article 119 bis. 
+
+Toutefois, demeurent assujettis au régime d'imposition des salaires, les émoluments qui sont attribués aux administrateurs ou
+aux membres du conseil de surveillance exerçant un emploi salarié pour les rétribuer de cet emploi.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°75-1347 du 31 décembre 1975 - art. 1 () JORF 4 janvier 1976
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 15 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 119 bis (V)
+
 
 ### Titre III : Contributions indirectes et monopoles fiscaux - taxes diverses
 
@@ -362,6 +402,42 @@ complément de salaire pour le bénéficiaire.
 
 
 ### IMPOTS DIRECTS ET TAXES ASSIMILEES
+
+#### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES
+
+##### DETERMINATION DU BENEFICE IMPOSABLE.
+
+###### Article 209 sexies
+
+Une société française dont 95 % [*pourcentage*] au moins du capital est détenu directement ou indirectement par une autre
+société française peut, sur agrément du ministre de l'économie et des finances, être assimilée à un établissement de la
+société mère pour l'assiette de l'impôt sur les sociétés et du précompte [*bénéfice intégré*]. Les actions à dividende
+prioritaire sans droit de vote prévues par l'article 177-1 de la loi n° 66-537 du 24 juillet 1966 (1) ne sont pas prises en
+considération pour apprécier si cette condition de pourcentage est remplie.
+
+Le bénéfice de ce régime est réservé aux filiales constituées à l'occasion d'une concentration d'entreprises ou de la
+restructuration interne d'un groupe d'entreprises. Il est subordonné à l'engagement pris par la filiale de ne pas distribuer
+de jetons de présence [*conditions*].
+
+(1)  Voir Loi n° 78-741 du 13 juillet 1978, art. 16 et suivants.
+
+(2) [*Toutefois les agréments délivrés en application de cet article  demeurent valables jusqu'à leur terme.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 ART. 177 1
+	  - Loi n°78-741 1978-07-13 ART. 16 ET S.
+
+	**Modifié par**:
+
+	  - Loi n°75-1347 du 31 décembre 1975 - art. 1 () JORF 4 janvier 1976
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
 
 #### TAXES DIVERSES
 
