@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1983-10-09
+Version Consolidée au 1983-12-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -23837,6 +23837,35 @@ la loi du 9 avril 1898 sur les accidents du travail, sont dispensés de l'enregi
 
 	  - Code rural 1144 à 1234-26
 	  - Loi n°1898-04-09
+
+
+##### 2° Agriculteurs non salariés - Assurances contre les accidents et les maladies professionnelles
+
+###### Article 1034
+
+Les pièces relatives à l'application des dispositions des chapitres III et V du titre III du livre VII du code rural sont
+exonérées du timbre et des droits d'enregistrement.
+
+Les pièces ou actes visés au premier alinéa doivent porter une mention expresse se référant à l'article 1234-11 du code
+rural.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1234-11
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°83-1071 1983-12-14 art. 1 JORF 15 décembre 1983
 
 
 ##### 3° : Prêts d'installation aux jeunes agriculteurs
