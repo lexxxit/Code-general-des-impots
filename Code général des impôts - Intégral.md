@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1983-01-01
+Version Consolidée au 1983-01-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2982,6 +2982,87 @@ aux membres du conseil de surveillance exerçant un emploi salarié pour les ré
 	  - Code général des impôts, CGI. - art. 119 bis (V)
 
 
+##### 2 : Revenus des obligations
+
+###### Article 118
+
+Sont considérés comme revenus au sens des présentes dispositions :
+
+1° Les intérêts, arrérages et tous autres produits des obligations, titres participatifs, effets publics et tous autres
+titres d'emprunt négociables émis par l'Etat, les départements, communes et établissements publics français, les associations
+de toute nature et les sociétés, compagnies et entreprises quelconques, financières, industrielles, commerciales ou civiles
+françaises;
+
+2° Les lots et primes de remboursement payés aux porteurs des mêmes titres.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-1 du 3 janvier 1983 - art. 22 (V) JORF 4 JANVIER 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 119 bis (V)
+	  - Code général des impôts, CGI. - art. 124 (V)
+	  - Code général des impôts, CGI. - art. 131 sexies (V)
+	  - Code général des impôts, CGI. - art. 150-0 A (V)
+	  - Code général des impôts, CGI. - art. 1672 bis (V)
+	  - Code général des impôts, CGI. - art. 1673 (VD)
+	  - Code général des impôts, CGI. - art. 187 (V)
+	  - Code général des impôts, CGI. - art. 219 bis (V)
+	  - Code général des impôts, CGI. - art. 238 septies A (V)
+	  - Code général des impôts, CGI. - art. 238 septies E (V)
+	  - Code général des impôts, CGI. - art. 238 septies F (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 K (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 octies (V)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+
+
+###### Article 119
+
+Le revenu est déterminé :
+
+1° Pour les obligations, titres participatifs, effets publics et emprunts, par l'intérêt ou le revenu distribué dans l'année;
+
+2° Pour les lots, par le montant même du lot;
+
+3° Pour les primes de remboursement, par la différence entre la somme remboursée et le taux d'émission des emprunts. Un
+décret (1) détermine le taux d'émission à retenir pour la liquidation de l'impôt sur ces primes.
+
+(1) Annexe III, art. 41 octies à 41 duodecies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 41 octies A CGIAN3 41 duodecies
+
+	**Modifié par**:
+
+	  - Loi n°83-1 du 3 janvier 1983 - art. 22 (V) JORF 4 JANVIER 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 122 (V)
+	  - Code monétaire et financier - art. L211-22 (V)
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+
+
 ##### 3 : Revenus des valeurs mobilières émises hors de France et revenus assimilés
 
 ###### Article 122
@@ -4119,6 +4200,46 @@ l'article L 82 du livre des procédures fiscales.
 
 ##### 5 : Exonérations et régimes spéciaux
 
+##### Fonds commun de placement.
+
+###### Article 137 bis
+
+I. Les sommes ou valeurs réparties au titre de chaque année par un fonds commun de placement (1) constituent des revenus de
+capitaux mobiliers perçus par les porteurs de parts à la date de cette répartition.
+
+II. Les gérants des fonds communs de placement sont tenus, sous les sanctions prévues à l'article 1765 bis, de prélever à la
+date de répartition et de reverser au Trésor la retenue à la source ou le prélèvement prévus aux articles 119 bis-2 et 125 A-
+III, qui sont dus à raison de leur quote-part respective par les porteurs de parts dont le domicile fiscal ou le siège social
+est situé hors de France métropolitaine et des départements d'outre-mer [*DOM*].
+
+III. Un décret fixe les obligations fiscales des gérants des fonds communs de placement en ce qui concerne notamment la
+déclaration des sommes ou valeurs attribuées à chaque porteur de parts (2).
+
+(1) Loi n° 79-594 du 13 juillet 1979 complétée par la loi n° 83-1 du 3 janvier 1983, art. 23 (JO des 2, 3 et 4), loi n°
+84-576 du 9 juillet 1984, art. 8-II (JO du 11).
+
+(2) Annexe III, art. 41 sexdecies A à 41 sexdecies G.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 119 bis 2
+	  - CGI 125 A III
+	  - CGI 1765 bis
+	  - CGIAN3 41 sexdecies A à CGIAN3 41 sexdecies F
+	  - Loi n°79-594 1979-07-13
+	  - Loi n°83-1 1983-01-03 ART. 23
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°83-1 du 3 janvier 1983 - art. 23 () JORF 4 JANVIER 1983
+
+
 ##### Sociétés mères.
 
 ###### Article 146
@@ -4535,6 +4656,76 @@ achats et des ventes que lui adresse chacun de ces intermédiaires.
 
 	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 1 () JORF 24 mai 1998
 	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 163 octies
+
+Les valeurs dont l'achat ouvre droit à déduction sont les suivantes :
+
+1° Les actions de sociétés françaises inscrites à la cote officielle ou au second marché des bourses françaises de valeurs
+(1) ou qui, inscrites au hors cote, font l'objet de transactions d'une importance et d'une fréquence qui seront fixées par
+décret (2). Sont toutefois exclues les actions de sociétés d'investissement dont les actifs ne sont pas composés pour 75 %
+d'actions de sociétés françaises ;
+
+2° Les actions de sociétés françaises, autres que celles des sociétés d'investissement, ne répondant pas aux conditions
+prévues au 1° lorsqu'elles sont émises à l'occasion d'une opération de constitution ou d'augmentation de capital en numéraire
+réalisée après le 1er juin 1978, sous réserve qu'elles soient matériellement créées ;
+
+3° Les parts de sociétés à responsabilité limitée souscrites à l'occasion d'une opération de constitution ou d'augmentation
+de capital en numéraire réalisée après le 1er juin 1978 ;
+
+4° Les droits ou bons de souscriptions ou d'attribution attachés à ces actions ;
+
+5° Les actions de sociétés d'investissement à capital variable, sous réserve que ces sociétés emploient plus de 60 % de leurs
+actifs en valeurs et droits mentionnés aux 1°, 2° et 4° ;
+
+6° Les parts de fonds communs de placements sous réserve que ces fonds emploient plus de 75 % de leurs actifs en valeurs et
+droits mentionnés aux 1° à 5°.
+
+Les capitaux recueillis par une SICAV au cours du dernier mois de l'année civile peuvent être intégralement placés en valeurs
+à court terme émises ou garanties par l'Etat sous condition d'être investis conformément aux normes précisées au premier
+alinéa avant la fin du premier trimestre de l'année suivante.
+
+Les conditions dans lesquelles les SICAV font apparaître ces placements dans leurs situations comptables sont précisées par
+décret (3).
+
+(1) Le second marché s'est substitué au compartiment spécial du  hors cote (Loi n° 83-1 du 3 janvier 1983, art. 47).
+
+(2) Cf. Annexe II, art. 75-0 H.
+
+(3) Décret n° 79-58 du 18 janvier 1979 (J.O. du 23) modifié par le décret n° 83-64 du 28 janvier 1983 (J.O. du 30).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 248 C
+	  - CGIAN2 75-0 H
+	  - Décret n°79-58 1979-01-18
+	  - Loi n°83-1 du 3 janvier 1983 - art. 47, v. init.
+	  - Décret n°83-64 1983-01-28
+
+	**Anciens textes**:
+
+	  - Loi n°78-741 du 13 juillet 1978 - art. 3 (P)
+	  - Loi n°79-12 du 3 janvier 1979 - art. 27, v. init.
+	  - Loi n°79-12 du 3 janvier 1979 - art. 28 ()
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+	  - HISTO: Edition du 22 avril 1998
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 1 () JORF 24 mai 1998
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 1982-12-29 art. 66-9 Finances pour 1983 JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+	  - Loi n°83-1 1983-01-03 art. 47 JORF 4 janvier 1983
 
 
 ###### Article 163 sexies
@@ -5178,6 +5369,49 @@ revenu dû en raison des sommes qui ont supporté cette retenue.
 	**Cite**:
 
 	  - CGI 119 bis 2
+
+
+###### Article 199 ter A
+
+Les porteurs de parts d'un fonds commun de placement (1) peuvent effectuer l'imputation de tout ou partie des crédits
+d'impôts et avoirs fiscaux attachés aux produits des actifs compris dans ce fonds.
+
+Pour chaque année, le gérant du fonds calcule la somme totale à l'imputation de laquelle les produits encaissés par le fonds
+donnent droit.
+
+Le droit à imputation par chaque porteur est déterminé en proportion de sa quote-part dans la répartition faite au titre de
+l'année considérée et en tenant compte de la nature et de l'origine française ou étrangère des produits compris dans cette
+répartition. Ce droit à imputation ne peut excéder celui auquel l'intéressé aurait pu prétendre s'il avait perçu directement
+sa quote-part des mêmes produits.
+
+Le montant à imputer est ajouté pour l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés au revenu net perçu
+par les porteurs de parts.
+
+Un décret adapte les dispositions du présent code relatives à la restitution des sommes correspondant aux crédits d'impôt et
+aux avoirs fiscaux qui n'ont pu être imputés (2).
+
+(1) Loi n° 79-594 du 13 juillet 1979.
+
+(2) Annexe III, art. 41 sexdecies C à 41 sexdecies F.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 41 sexdecies C à 41 sexdecies F
+	  - Loi n°79-594 1979-07-13
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+
+	**Modifié par**:
+
+	  - Loi n°83-1 du 3 janvier 1983 - art. 23 () JORF 4 janvier 1983
 
 
 ##### Réduction d'impôt accordée aux contribuables titulaires d'un compte d'épargne en actions.
@@ -18498,6 +18732,33 @@ ou alliés jusqu'au quatrième degré inclus (1).
 	  - PILOTE_SUIVEUR: Code rural - art. L322-14 (V)
 
 
+##### 3 : Exonérations
+
+###### Article 749
+
+Sont exonérés du droit d'enregistrement ou de la taxe de publicité foncière prévus à l'article 746 les rachats de parts de
+fonds communs de placement effectués dans les conditions prévues à l'article 7 de la loi n° 79-594 du 13 juillet 1979
+relative aux fonds communs de placement (1) ainsi que la répartition des actifs de ces fonds entre les porteurs.
+
+(1) Modifiée par la loi n° 83-1 du 3 janvier 1983, art. 23 (J.O. des 2, 3 et 4)
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 746
+	  - Loi n°79-594 du 13 juillet 1979 - art. 7 (Ab)
+	  - Loi n°83-1 1983-01-03 ART. 23
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°83-1 du 3 janvier 1983 - art. 23 () JORF 4 JANVIER 1983
+
+
 ##### B : Licitations et cessions de droits successifs
 
 ###### Article 750
@@ -19961,6 +20222,31 @@ sociétés centrales d'assurances instituées par l'article L 322-12 du code des
 	**Modifié par**:
 
 	  - Modification directe incorporée dans l'édition du 4 juillet 1992
+
+
+##### 6 : Sociétés d'investissement et fonds communs de placement
+
+###### Article 832
+
+Les souscriptions de parts de fonds communs de placement effectuées dans les conditions prévues à l'article 7 de la loi n°
+79-594 du 13 juillet 1979 relative aux fonds communs de placement (1), sont dispensées de tout droit d'enregistrement.
+
+(1) Modifiée par la loi n° 83-1 du 3 janvier 1983, art. 23 (J.O. des 2, 3 et 4).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Cite**:
+
+	  - Loi n°79-594 du 13 juillet 1979 - art. 7 (Ab)
+	  - Loi n°83-1 1983-01-03 ART. 23
+
+	**Modifié par**:
+
+	  - Loi n°83-1 du 3 janvier 1983 - art. 23 () JORF 4 JANVIER 1983
 
 
 ##### IX : Actes des huissiers de justice
