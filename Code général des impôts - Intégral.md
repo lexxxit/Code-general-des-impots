@@ -1,5 +1,5 @@
 # Code général des impôts  
-Version Consolidée au 1977-12-30
+Version Consolidée au 1977-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12,6 +12,78 @@ Version Consolidée au 1977-12-30
 ##### Section II : Revenus imposables
 
 ##### 1re Sous-section : Détermination des bénéfices ou revenus nets des diverses catégories de revenus
+
+##### II : Bénéfices industriels et commerciaux
+
+##### 2 : Détermination des bénéfices imposables
+
+###### Article 40
+
+I. Sous réserve de ce qui est dit à l'article 238 octies, et par dérogation aux dispositions du 1 de l'article 38, les plus-
+values provenant de la cession en cours d'exploitation des éléments de l'actif immobilisé et réalisées avant l'entrée en
+vigueur, dans les conditions fixées par décret en Conseil d'Etat (1), des dispositions des articles 39 duodecies à 39
+quindecies A, ne sont pas comprises dans le bénéfice imposable de l'exercice au cours duquel elles ont été réalisées, si le
+contribuable prend l'engagement de réinvestir en immobilisations dans son entreprise, avant l'expiration d'un délai de trois
+ans à partir de la clôture de cet exercice, une somme égale au montant de ces plus-values ajoutées au prix de revient des
+éléments cédés. Toutefois, le remploi ainsi prévu ne peut pas être effectué en l'achat de lingots de métaux précieux et de
+pièces d'or, en l'acquisition de biens meubles ou immeubles présentant un caractère somptuaire et dont la liste est fixée par
+décret (2), ni en l'achat ou la souscription d'actions de sociétés d'investissement régies par l'ordonnance n° 45-2710 du 2
+novembre 1945. 
+
+Cet engagement de réinvestir doit être annexé à la déclaration des résultats de l'exercice au cours duquel les plus-values
+ont été réalisées. 
+
+Les profits réalisés par les entreprises à l'occasion de la concession exclusive de licences d'exploitation de brevets
+peuvent bénéficier des dispositions ci-dessus lorsque cette concession a pour objet un brevet présentant le caractère d'un
+élément de l'actif immobilisé au sens de ces dispositions et qu'elle est consentie jusqu'à l'expiration de la durée de
+validité de ce brevet. 
+
+2. et 3. (Abrogés). 
+
+4. Si le remploi est effectué dans le délai prévu au 1, les plus-values distraites du bénéfice imposable sont considérées
+comme affectées à l'amortissement des nouvelles immobilisations et viennent en déduction du prix de revient pour le calcul
+des amortissements et des plus-values réalisées ultérieurement. 
+
+Dans le cas contraire, elles sont rapportées au bénéfice imposable de l'exercice au cours duquel a expiré le délai ci-
+dessus. 
+
+5. et 6. (Abrogés) (3).
+
+**Nota:**
+
+(1) Voir l'article 27 de l'annexe II. 
+
+(2) Voir l'article 10 H de l'annexe III. 
+
+(3) L'article 40 du code général des impôts a été abrogé par l'article 45 de la loi n° 65-566 du 12 juillet 1965. Les
+dispositions conservées sont utiles à l'application de l'article 238 octies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-2710 du 2 novembre 1945 (V)
+	  - Code général des impôts, CGI. - art. 39 duodecies (V)
+
+	**Modifié par**:
+
+	  - Loi n°77-1467 du 30 décembre 1977 - art. 70 (P) JORF 31 décembre 1977
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts annexe 1, CGIAN1. - art. 41 (V)
+	  - Code général des impôts, CGI. - art. 238 octies (V)
+	  - Code général des impôts, CGI. - art. 38 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 H (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er juillet 1981
+
 
 ##### IV : Bénéfices de l'exploitation agricole
 
@@ -125,6 +197,86 @@ exercé son activité à titre principal pendant au moins cinq ans [*délai*].
 
 	  - Loi n°76-660 1976-07-19 art. 11 II, III JORF 20 juillet 1976
 	  - Loi n°76-660 du 19 juillet 1976 - art. 11 (V) JORF 20 juillet 1976
+
+
+#### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales
+
+##### Section III : Détermination du bénéfice imposable
+
+###### Article 210
+
+Les dispositions du présent article s'appliquent aux plus-values, autres que celles visées au deuxième alinéa du II de
+l'article 238 octies, réalisées avant l'entrée en vigueur, dans les conditions fixées par décret en Conseil d'Etat, des
+articles 39 duodecies à 39 quindecies A.
+
+1. Les plus-values, autres que celles réalisées sur les marchandises, résultant de l'attribution gratuite d'actions ou de
+parts sociales (parts de capital), à la suite de fusions de sociétés anonymes, en commandite par actions ou à responsabilité
+limitée sont exonérées de l'impôt sur les sociétés.
+
+2. Le même régime est applicable lorsqu'une société anonyme, en commandite par actions ou à responsabilité limitée apporte :
+
+1° L'intégralité de son actif à deux ou plusieurs sociétés constituées à cette fin sous l'une de ces formes, à condition :
+
+a. Que les sociétés bénéficiaires des apports soient toutes de nationalité française ; toutefois, pour l'application de ces
+dispositions, sont assimilées aux sociétés de nationalité française les sociétés constituées dans les termes de la loi
+française et ayant leur siège social dans les Etats, départements et territoires d'outre-mer de la Communauté ;
+
+b. Que les apports résultent de conventions prenant effet à la même date pour les différentes sociétés qui en sont
+bénéficiaires et entraînent, dès leur réalisation, la dissolution immédiate de la société apporteuse.
+
+2° Une partie de ses éléments d'actif à une autre société constituée sous l'une de ces formes, à condition que :
+
+a. La société bénéficiaire de l'apport soit de nationalité française au sens du a du 1° ;
+
+b. L'apport ait été préalablement agréé par le ministre de l'économie et des finances.
+
+3. L'application des dispositions du présent article est subordonnée à l'obligation, constatée dans l'acte de fusion ou
+d'apport :
+
+a. De calculer, en ce qui concerne les éléments autres que les marchandises comprises dans l'apport, les amortissements
+annuels à prélever sur les bénéfices ainsi que les plus-values ultérieures résultant de la réalisation de ces éléments
+d'après le prix de revient qu'ils comportaient pour les sociétés fusionnées ou pour la société apporteuse, déduction faite
+des amortissements déjà réalisés par elles ;
+
+b. D'inscrire immédiatement au passif, en contre-partie des éléments d'actif pris en charge, des provisions pour
+renouvellement de l'outillage et du matériel égales à celles figurant au moment de la fusion ou de l'apport dans les
+écritures des sociétés fusionnées ou de la société apporteuse et qui étaient afférentes aux éléments apportés.
+
+Cette obligation incombe, dans le cas visé au 1, à la société absorbante ou nouvelle et, dans les cas visés au 2, soit
+respectivement aux sociétés bénéficiaires des apports proportionnellement à la valeur des éléments d'actif qui leur sont
+attribués, soit à la société bénéficiaire de l'apport partiel.
+
+L'obligation prévue au a n'est pas applicable aux fusions ou apports visés au 1 et au 2° du 2 qui ont été réalisés avant le
+1er janvier 1950, sous réserve qu'ils aient reçu l'agrément du ministère des finances après avis du commissariat général du
+plan d'équipement et de la productivité.
+
+4. Les dispositions du présent article sont applicables aux plus-values visées au I de l'article 238 octies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 octies, 39 duodecies à 39 quindecies
+
+	**Modifié par**:
+
+	  - Loi n°77-1467 du 30 décembre 1977 - art. 70 (P) JORF 31 décembre 1977
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Décret n°2014-44 du 20 janvier 2014 (V)
+	  - Décret n°2015-1763 du 24 décembre 2015 (V)
+	  - Code général des impôts, CGI. - art. 238 octies (V)
+	  - Code général des impôts, CGI. - art. 39 quindecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 duodecies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er juillet 1981
 
 
 ### Titre III : Contributions indirectes et monopoles fiscaux - taxes diverses
@@ -482,6 +634,63 @@ révision quinquennale 1970-1974.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 310 ter (VT)
 
 
+### Titre III : Impositions perçues au profit de certains établissements publics et d'organismes divers
+
+#### Chapitre II : Contributions indirectes
+
+##### Section IV : Prélèvements et perceptions destinés au budget annexe des prestations sociales agricoles
+
+##### J : Farines.
+
+###### Article 1618 septies
+
+La taxe portant sur les blés tendres prévue par l'article 34 de la loi n° 62-873 du 31 juillet 1962 destinée au budget annexe
+des prestations sociales agricoles est perçue auprès des meuniers sur les farines, semoules et gruaux livrés ou mis en oeuvre
+en vue de la consommation humaine et auprès des importateurs sur les mêmes produits importés (1).
+
+Pour la liquidation de la taxe, les quantités de blé tendre correspondant aux farines, semoules et gruaux sont déterminées à
+partir de coefficients forfaitaires de transformation fixés par décret.
+
+Le taux de la taxe est fixé par décret (2).
+
+La taxe est recouvrée et les infractions sont poursuivies selon les mêmes procédures et sous les mêmes garanties que celles
+applicables en matière de contributions indirectes.
+
+(1) Voir annexe III art. 333 H.
+
+(2) Pour la campagne 1981 1982, taux fixé à 73,60 F par tonne (décr. n° 81-874 du 25 septembre 1981, J.O. du 26).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 333 H
+	  - Loi n°62-873 du 31 juillet 1962 - art. 34, v. init.
+	  - Décret n°81-874 1981-09-25
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Loi n°62-873 1962-07-31 ART. 34 JORF 1 AOUT 1962
+
+	**Modifié par**:
+
+	  - Loi n°66-935 1966-12-17 ART. 14 III JORF 18 DECEMBRE 1966
+	  - Loi n°77-1466 du 30 décembre 1977 - art. 7 (P) JORF 31 DECEMBRE 1977
+
+	**Cité par**:
+
+	  - Arrêté du 12 juin 2009 - art. 1 (V)
+	  - Code général des impôts, CGI. - art. 1647 (VD)
+	  - Code général des impôts, CGI. - art. 1698 D (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 333 H bis (V)
+	  - Code rural - art. L731-3 (V)
+	  - Code rural et de la pêche maritime - art. L731-2 (VD)
+
+
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
 ## IMPOTS D'ETAT
@@ -532,6 +741,126 @@ complément de salaire pour le bénéficiaire.
 	**Codifié par**:
 
 	  - Décret n°84-875 1984-10-01
+
+
+#### IMPOT SUR LES BENEFICES DES SOCIETES *IS* ET AUTRES PERSONNES MORALES
+
+##### CALCUL DE L'IMPOT.
+
+###### Article 219
+
+I. Pour le calcul de l'impôt, toute fraction du bénéfice imposable inférieure à 10 F est négligée.
+
+Le taux de l'impôt est fixé à 50 %.
+
+Toutefois :
+
+a. Le montant net des plus-values à long terme autres que celles visées à l'article 39 quindecies-II fait l'objet d'une
+imposition séparée au taux de 15 %, dans les conditions prévues aux articles 39 quindecies-I et 209 quater ;
+
+Le montant net des plus-values à long terme visées à l'article 39 quindecies-II fait l'objet d'une imposition séparée au taux
+de 25 % dans les conditions prévues par ce texte et par l'article 209 quater.
+
+b. (Disposition périmée).
+
+II. Les plus-values visées à l'article 238 octies-I sont soumises à l'impôt au taux de 15 % lorsque la société n'a pas
+demandé à bénéficier de l'exonération sous condition de remploi prévue audit article. L'application de la présente
+disposition est toutefois subordonnée à la double condition que :
+
+a. Les opérations génératrices des plus-values présentent un caractère accessoire ou occasionnel pour la société intéressée ;
+
+b. Les immeubles cédés aient fait l'objet d'un permis de construire délivré avant le 1er janvier 1966 [*date limite*].
+
+III. Les dispositions du II sont étendues, sous les mêmes conditions, aux profits réalisés à l'occasion de la cession
+d'immeubles ayant fait l'objet d'un permis de construire délivré entre le 1er janvier 1966 et le 1er janvier 1972 [*période*]
+ou pour lesquels aura été déposée, avant le 1er janvier 1972, la déclaration de construction visée à l'article L 430-3 du
+code de l'urbanisme (1).
+
+Toutefois, en ce qui concerne ces profits :
+
+a. Le taux réduit de l'impôt sur les sociétés est fixé à 25 % ;
+
+b. L'application de ce taux réduit est subordonnée à la condition que les opérations de construction correspondantes
+présentent un caractère accessoire pour la société intéressée.
+
+(1) Dans sa rédaction antérieure à la loi n° 76-1285 du 31 décembre 1976 (J.O. du 1er janvier 1977).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 quater
+	  - CGI 238 octies I
+	  - CGI 39 quindecies I, II
+	  - Loi n°76-1285 1976-12-31
+	  - Code de l'urbanisme - art. L430-3 (Ab)
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 223 V (T)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 223 VB (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 223 VG (T)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater B (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater K (V)
+	  - Décret n°2011-1664 du 28 novembre 2011 (V)
+	  - Décret n°2012-359 du 14 mars 2012 (V)
+	  - Code du travail - art. L3324-1 (V)
+	  - Code général des impôts, CGI. - art. 1586 quater (VD)
+	  - Code général des impôts, CGI. - art. 1663 (VD)
+	  - Code général des impôts, CGI. - art. 1668 (VD)
+	  - Code général des impôts, CGI. - art. 1668 D (V)
+	  - Code général des impôts, CGI. - art. 1731 A (V)
+	  - Code général des impôts, CGI. - art. 1763 (V)
+	  - Code général des impôts, CGI. - art. 1763 B (V)
+	  - Code général des impôts, CGI. - art. 1763 C (V)
+	  - Code général des impôts, CGI. - art. 207 (VD)
+	  - Code général des impôts, CGI. - art. 208 C (V)
+	  - Code général des impôts, CGI. - art. 209 (V)
+	  - Code général des impôts, CGI. - art. 210 E (V)
+	  - Code général des impôts, CGI. - art. 210 F (V)
+	  - Code général des impôts, CGI. - art. 217 octies (V)
+	  - Code général des impôts, CGI. - art. 218 (V)
+	  - Code général des impôts, CGI. - art. 219 bis (V)
+	  - Code général des impôts, CGI. - art. 220 quinquies (V)
+	  - Code général des impôts, CGI. - art. 221 (V)
+	  - Code général des impôts, CGI. - art. 221 bis (V)
+	  - Code général des impôts, CGI. - art. 223 B (V)
+	  - Code général des impôts, CGI. - art. 223 C (V)
+	  - Code général des impôts, CGI. - art. 223 D (V)
+	  - Code général des impôts, CGI. - art. 223 F (V)
+	  - Code général des impôts, CGI. - art. 223 R (V)
+	  - Code général des impôts, CGI. - art. 235 ter ZAA (V)
+	  - Code général des impôts, CGI. - art. 235 ter ZC (V)
+	  - Code général des impôts, CGI. - art. 235 ter ZF (V)
+	  - Code général des impôts, CGI. - art. 238 bis JA (V)
+	  - Code général des impôts, CGI. - art. 238 bis-0 A (VD)
+	  - Code général des impôts, CGI. - art. 242 quinquies (V)
+	  - Code général des impôts, CGI. - art. 244 bis A (M)
+	  - Code général des impôts, CGI. - art. 38 (VT)
+	  - Code général des impôts, CGI. - art. 39 (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 165 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 167 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 359 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 366 L (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 RH (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 S (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZZ (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZZ bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZZ bis A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZZ bis B (V)
+	  - Livre des procédures fiscales - art. L252 B (VD)
+
+	**Liens**:
+
+	  - SPEC_APPLI: CONSEQUENCE DE LA LOI 1467 DU 30 DECEMBRE 1977 FINANCES POUR 1978 : LA REFERENCE A L'ARTICLE 39 SEXDECIES A ETE SUPPRIMEE
+
+	**Modifié par**:
+
+	  - Loi n°77-1467 du 30 décembre 1977 - art. 70 (P) JORF 31 DECEMBRE 1977
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 ### IMPOTS DIRECTS ET TAXES ASSIMILEES
@@ -996,6 +1325,33 @@ testaments et autres actes de libéralité à cause de mort.
 
 
 ## Chapitre II : Pénalités
+
+### Section I : Dispositions communes
+
+#### B : Sanctions pénales.
+
+###### Article 1753 bis A
+
+Toute personne qui, à l'occasion des actions tendant à obtenir une condamnation pécuniaire mentionnées à l'article L 143 du
+livre des procédures fiscales aura, en dehors de la procédure relative à l'action considérée, de quelque manière que ce soit,
+publié ou divulgué tout ou partie des renseignements figurant dans des documents d'ordre fiscal versés aux débats, ou fait
+usage desdits renseignements sans y être légalement autorisée, sera punie d'un emprisonnement d'un mois à six mois et d'une
+amende de 300 F à 40.000 F ou de l'une de ces deux peines seulement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L143
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+
 
 ### Section II : Dispositions particulières
 
