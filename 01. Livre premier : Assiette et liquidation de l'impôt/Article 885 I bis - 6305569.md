@@ -1,8 +1,8 @@
 # Article 885 I bis
 
 Les parts ou les actions d'une société ayant une activité industrielle, commerciale, artisanale, agricole ou libérale ne sont
-pas comprises dans les bases d'imposition à l'impôt de solidarité sur la fortune, à concurrence de la moitié de leur valeur
-si les conditions suivantes sont réunies :
+pas comprises dans les bases d'imposition à l'impôt de solidarité sur la fortune, à concurrence des trois quarts de leur
+valeur si les conditions suivantes sont réunies :
 
 a. Les parts ou les actions mentionnées ci-dessus doivent faire l'objet d'un engagement collectif de conservation pris par le
 propriétaire, pour lui et ses ayants cause à titre gratuit avec d'autres associés ;
@@ -68,6 +68,12 @@ l'une des conditions prévues au a ou au b est seule remise en cause.
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article, notamment les obligations déclaratives
 incombant aux redevables et aux sociétés.
 
+**Nota:**
+
+NOTA : Loi 2005-1719 2005-12-30 art. 26 III Finances pour 2006 :
+
+dispositions d'application.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -75,13 +81,9 @@ incombant aux redevables et aux sociétés.
 	  - CGI 8, 8 ter, 885 O bis, 885 W, 817 A
 	  - Code de commerce. - art. L233-11 (M)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 31 août 2003
-
-	**Créé par**:
-
-	  - Loi n°2003-721 du 1 août 2003 - art. 47 () JORF 5 août 2003
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 26 (V) JORF 31 décembre 2005
 
 	**Cité par**:
 

@@ -29,10 +29,8 @@ acquisition si elle est postérieure.
 4. Pour une même résidence, le montant des dépenses ouvrant droit au crédit d'impôt ne peut excéder, pour la période du 1er
 janvier 2005 au 31 décembre 2009, la somme de 5 000 euros pour une personne célibataire, veuve ou divorcée et de 10 000 euros
 pour un couple marié soumis à imposition commune. Cette somme est majorée de 400 euros par personne à charge au sens des
-articles 196 à 196 B. Cette majoration est fixée à 500 euros pour le second enfant et à 600 euros par enfant à partir du
-troisième. Les sommes de 400 euros, 500 euros et 600 euros sont divisées par deux lorsqu'il s'agit d'un enfant réputé à
-charge égale de l'un et l'autre de ses parents. Pour l'application de ces dispositions, les enfants réputés à charge égale de
-chacun des parents sont décomptés en premier.
+articles 196 à 196 B. La somme de 400 Euros est divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un
+et l'autre de ses parents.
 
 5. Le crédit d'impôt est égal à :
 
@@ -59,10 +57,6 @@ crédit d'impôt obtenu, d'une reprise égale à 15 % ou 25 % de la somme rembou
 appliqué. Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les
 dépenses ont été payées.
 
-**Nota:**
-
-NOTA : Ces dispositions s'appliquent à compter de l'imposition des revenus de l'année 2005.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -70,13 +64,13 @@ NOTA : Ces dispositions s'appliquent à compter de l'imposition des revenus de l
 	  - CGI 196 à 196 B, 289, 199 quater B à 200 bis
 	  - Code de l'environnement - art. L515-16 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 83 (V) JORF 31 décembre 2005
+
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
-
-	**Créé par**:
-
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 91 (V) JORF 31 décembre 2004
+	  - HISTO: Edition du 1er janvier 2006
 
 	**Cité par**:
 

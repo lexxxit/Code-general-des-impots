@@ -4,7 +4,8 @@ Les distributions effectuées par les sociétés unipersonnelles d'investissemen
 exonérées d'impôt sur le revenu et de la retenue à la source mentionnée au 2 de l'article 119 bis lorsque les conditions
 suivantes sont réunies :
 
-1° Elles sont prélevées sur des bénéfices exonérés d'impôt sur les sociétés ;
+1° Elles sont prélevées sur des bénéfices exonérés d'impôt sur les sociétés en application des dispositions de l'article 208
+D ;
 
 2° L'associé a son domicile fiscal en France ou dans un pays ou territoire ayant conclu avec la France une convention
 d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales ;
@@ -18,6 +19,10 @@ titre gratuit à la suite du décès de cet associé.
 
 	  - CGI 208 D, 119 bis
 
+	**Modifié par**:
+
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 81 (V) JORF 31 décembre 2005
+
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. L136-7 (V)
@@ -26,8 +31,4 @@ titre gratuit à la suite du décès de cet associé.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
-
-	**Créé par**:
-
-	  - Loi - art. 91 (V) JORF 31 décembre 2003
+	  - HISTO: Edition du 1er janvier 2006
