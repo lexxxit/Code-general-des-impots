@@ -1,156 +1,79 @@
 # Article 220 sexies
 
-I. - 1. Les entreprises de production cinématographique et les entreprises de production audiovisuelle soumises à l'impôt sur
+I. - Les entreprises de production cinématographique et les entreprises de production audiovisuelle soumises à l'impôt sur
 les sociétés qui assument les fonctions d'entreprises de production déléguées peuvent bénéficier d'un crédit d'impôt au titre
-des dépenses de production mentionnées au III correspondant à des opérations effectuées en France en vue de la réalisation
-d'oeuvres cinématographiques de longue durée ou d'oeuvres audiovisuelles. Ces oeuvres doivent être agréées et bénéficier du
-soutien financier de l'industrie cinématographique et de l'industrie audiovisuelle prévu à l'article 57 de la loi de finances
-pour 1996 (n° 95-1346 du 30 décembre 1995).
+des dépenses de production mentionnées au III correspondant à des opérations effectuées en vue de la réalisation d'oeuvres
+cinématographiques de longue durée ou d'oeuvres audiovisuelles agréées.
 
-2. N'ouvrent pas droit au crédit d'impôt mentionné au 1 :
-
-a. - les oeuvres figurant sur la liste prévue à l'article 12 de la loi de finances pour 1976 (n° 75-1278 du 30 décembre
-1975) ;
-
-b. - les oeuvres cinématographiques ou audiovisuelles utilisables à des fins de publicité ;
-
-c. - les programmes d'information, les débats d'actualité et les émissions sportives, de variétés ou de jeux ;
-
-d. - tout document ou programme audiovisuel ne comportant qu'accessoirement des éléments de création originale.
-
-3. Le bénéfice du crédit d'impôt est subordonné au respect, par les entreprises de production déléguées, de la législation
+Le bénéfice du crédit d'impôt est subordonné au respect, par les entreprises de production déléguées, de la législation
 sociale. Il ne peut notamment être accordé aux entreprises de production déléguées qui ont recours à des contrats de travail
 visés au 3° de l'article L. 122-1-1 du code du travail afin de pourvoir à des emplois qui ne sont pas directement liés à la
 production d'une oeuvre déterminée.
 
-II. - 1. Les oeuvres cinématographiques mentionnées au I appartiennent aux genres de la fiction, du documentaire et de
-l'animation. Ces oeuvres doivent être réalisées dans les conditions suivantes :
+II. - 1. Les oeuvres cinématographiques ou audiovisuelles mentionnées au I appartiennent aux genres de la fiction, du
+documentaire et de l'animation. Ces oeuvres doivent répondre aux conditions suivantes :
 
-1° Les oeuvres cinématographiques de fiction ainsi que les oe uvres cinématographiques documentaires doivent être réalisées
-essentiellement avec le concours :
+a) Etre réalisées intégralement ou principalement en langue française ou dans une langue régionale en usage en France ;
 
-a) De techniciens collaborateurs de création autres que le réalisateur ainsi que d'ouvriers de la production qui sont soit de
-nationalité française, soit ressortissants d'un Etat membre de la Communauté européenne, d'un Etat partie à la convention
-européenne sur la télévision transfrontière du Conseil de l'Europe, d'un Etat partie à la convention européenne sur la
-coproduction cinématographique du Conseil de l'Europe ou d'un Etat tiers européen avec lequel la Communauté européenne a
-conclu des accords ayant trait au secteur audiovisuel, et pour lesquels les cotisations sociales sont acquittées auprès des
-organismes régis par le code de la sécurité sociale. Les étrangers, autres que les ressortissants européens précités, ayant
-la qualité de résidents français sont assimilés aux citoyens français ;
+b) Etre admises au bénéfice du soutien financier à la production cinématographique ou audiovisuelle ;
 
-b) D'industries techniques de la cinématographie qui sont établies en France et qui y effectuent personnellement les
-prestations liées au tournage ainsi que les prestations de post-production. Ces industries techniques doivent être titulaires
-de l'autorisation prévue à l'article 14 du code de l'industrie cinématographique lorsque celle-ci est obligatoire ;
+c) Etre réalisées principalement sur le territoire français. Un décret détermine les modalités selon lesquelles le respect de
+cette condition est vérifié ainsi que les conditions et limites dans lesquelles il peut y être dérogé pour des raisons
+artistiques justifiées ;
 
-2° Les oeuvres cinématographiques d'animation doivent être réalisées principalement avec le concours :
+d) Contribuer au développement de la création cinématographique et audiovisuelle française et européenne ainsi qu'à sa
+diversité.
 
-a) De techniciens collaborateurs de création autres que le réalisateur ainsi que de collaborateurs chargés de la préparation
-et de la fabrication de l'animation qui sont soit de nationalité française, soit ressortissants d'un Etat membre de la
-Communauté européenne, d'un Etat partie à la convention européenne sur la télévision transfrontière du Conseil de l'Europe,
-d'un Etat partie à la convention européenne sur la coproduction cinématographique du Conseil de l'Europe ou d'un Etat tiers
-européen avec lequel la Communauté européenne a conclu des accords ayant trait au secteur audiovisuel, et pour lesquels les
-cotisations sociales sont acquittées auprès des organismes régis par le code de la sécurité sociale. Les étrangers, autres
-que les ressortissants européens précités, ayant la qualité de résidents français sont assimilés aux citoyens français ;
+2. N'ouvrent pas droit au crédit d'impôt mentionné au I :
 
-b) De prestataires spécialisés dans les travaux de préparation et de fabrication de l'animation qui sont établis en France et
-qui y effectuent personnellement ces travaux ;
+a) Les oeuvres cinématographiques ou audiovisuelles à caractère pornographique ou d'incitation à la violence ;
 
-c) D'industries techniques de la cinématographie qui sont établies en France et qui y effectuent personnellement les
-prestations de post-production. Ces industries techniques doivent être titulaires de l'autorisation prévue à l'article 14 du
-code de l'industrie cinématographique lorsque celle-ci est obligatoire ;
+b) Les oeuvres cinématographiques ou audiovisuelles utilisables à des fins de publicité ;
 
-3° Le respect des conditions prévues au 1° et au 2° est apprécié au moyen d'un barème de points attribués aux personnels et
-aux prestations mentionnés aux a et  b du 1° et aux  a, b et c  du 2° répartis en groupes de professions et d'activités. Ce
-barème est fixé par décret.
+c) Les programmes d'information, les débats d'actualité et les émissions sportives, de variétés ou de jeux ;
 
-2. Les oeuvres audiovisuelles mentionnées au I appartiennent aux genres de la fiction, du documentaire et de l'animation et
-répondent à des conditions de durée et de coût de production en fonction du genre auquel elles appartiennent fixées par
-décret. Ces oeuvres doivent être réalisées dans les conditions suivantes :
-
-1° Les oeuvres audiovisuelles de fiction ainsi que les oeuvres audiovisuelles documentaires doivent être réalisées
-essentiellement avec le concours :
-
-a) De techniciens collaborateurs de création autres que le réalisateur ainsi que d'ouvriers de la production qui sont soit de
-nationalité française, soit ressortissants d'un Etat membre de la Communauté européenne, d'un Etat partie à la convention
-européenne sur la télévision transfrontière du Conseil de l'Europe ou d'un Etat tiers européen avec lequel la Communauté
-européenne a conclu des accords ayant trait au secteur audiovisuel, et pour lesquels les cotisations sociales sont acquittées
-auprès des organismes régis par le code de la sécurité sociale. Les étrangers, autres que les ressortissants européens
-précités, ayant la qualité de résidents français sont assimilés aux citoyens français ;
-
-b) D'industries techniques de l'audiovisuel qui sont établies en France et qui y effectuent personnellement les prestations
-liées au tournage ainsi que les prestations de postproduction ;
-
-2° Les oeuvres audiovisuelles d'animation doivent être réalisées principalement avec le concours :
-
-a) De techniciens collaborateurs de création autres que le réalisateur, ainsi que de collaborateurs chargés de la préparation
-et de la fabrication de l'animation qui sont soit de nationalité française, soit ressortissants d'un Etat membre de la
-Communauté européenne, d'un Etat partie à la convention européenne sur la télévision transfrontière du Conseil de l'Europe ou
-d'un Etat tiers européen avec lequel la Communauté européenne a conclu des accords ayant trait au secteur audiovisuel, et
-pour lesquels les cotisations sociales sont acquittées auprès des organismes régis par le code de la sécurité sociale. Les
-étrangers, autres que les ressortissants européens précités, ayant la qualité de résidents français sont assimilés aux
-citoyens français ;
-
-b) De prestataires spécialisés dans les travaux de préparation et de fabrication de l'animation qui sont établis en France et
-qui y effectuent personnellement ces travaux ;
-
-c) D'industries techniques de l'audiovisuel qui sont établies en France et qui y effectuent personnellement les prestations
-de postproduction ;
-
-3° Le respect des conditions prévues aux 1° et 2° est apprécié au moyen d'un barème de points attribués aux personnels et aux
-prestations mentionnés aux a et b du 1° et aux a, b et c du 2° répartis en groupes de professions et d'activités. Ce barème
-est fixé par décret.
+d) Tout document ou programme audiovisuel ne comportant qu'accessoirement des éléments de création originale.
 
 3. Les oeuvres audiovisuelles documentaires peuvent bénéficier du crédit d'impôt lorsque le montant des dépenses éligibles
-engagées pour la production d'une oeuvre est supérieur ou égal à 2 333 Euros par minute produite.
+mentionnées au III est supérieur ou égal à 2 333  par minute produite.
 
-III. - 1. - Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 20 % du montant total des dépenses suivantes
-correspondant à des opérations effectuées en France :
+III. - 1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 20 % du montant total des dépenses suivantes
+effectuées en France :
 
-1° Pour les oeuvres cinématographiques de fiction, les oeuvres cinématographiques documentaires, les oeuvres audiovisuelles
-de fiction et les oeuvres audiovisuelles documentaires :
+a) Les rémunérations versées aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle sous forme
+d'avances à valoir sur les recettes d'exploitation des oeuvres, ainsi que les charges sociales afférentes ;
 
-a) Les salaires et charges sociales afférents aux techniciens et ouvriers de la production engagés par l'entreprise de
-production et pour lesquels les cotisations sociales sont acquittées auprès des organismes régis par le code de la sécurité
-sociale ;
+b) Les rémunérations versées aux artistes-interprètes visés à l'article L. 212-4 même code, par référence pour chacun d'eux,
+à la rémunération minimale prévue par les conventions et accords collectifs conclus entre les organisations de salariés et
+d'employeurs de la profession, ainsi que les charges sociales afférentes ;
 
-b) Les dépenses liées à l'utilisation de studios de prises de vues, y compris la construction de décors, d'effets spéciaux de
-tournage, ainsi que les dépenses de costumes, de coiffure et de maquillage ;
+c) Les salaires versés aux personnels de la réalisation et de la production, ainsi que les charges sociales afférentes ;
 
-c) Les dépenses de matériels techniques nécessaires au tournage ;
+d) Les dépenses liées au recours aux industries techniques et autres prestataires de la création cinématographique et
+audiovisuelle.
 
-d) Les dépenses de post-production, y compris les effets spéciaux ;
+2. Les auteurs, artistes-interprètes et personnels de la réalisation et de la production mentionnés au 1 doivent être, soit
+de nationalité française, soit ressortissants d'un Etat membre de la Communauté européenne, d'un Etat partie à l'accord sur
+l'Espace économique européen, d'un Etat partie à la convention européenne sur la télévision transfrontière du Conseil de
+l'Europe, d'un Etat partie à la convention européenne sur la coproduction cinématographique du Conseil de l'Europe ou d'un
+Etat tiers européen avec lequel la Communauté européenne a conclu des accords ayant trait au secteur audiovisuel. Les
+étrangers, autres que les ressortissants européens précités, ayant la qualité de résidents français sont assimilés aux
+citoyens français.
 
-e) Les dépenses de pellicules et autres supports d'images et les dépenses de laboratoires ;
+3. Pour le calcul du crédit d'impôt, l'assiette des dépenses éligibles est plafonnée à 80 % du budget de production de
+l'oeuvre et, en cas de coproduction internationale, à 80 % de la part gérée par le coproducteur français.
 
-2° Pour les oeuvres cinématographiques d'animation et les oeuvres audiovisuelles d'animation :
+IV. - Les dépenses mentionnées au III ouvrent droit au crédit d'impôt à compter de la date de réception, par le directeur
+général du Centre national de la cinématographie, d'une demande d'agrément à titre provisoire.
 
-a) Les salaires et charges sociales afférents aux techniciens de la production et aux collaborateurs chargés de la
-préparation et de la fabrication de l'animation engagés par l'entreprise de production et pour lesquels les cotisations
-sociales sont acquittées auprès des organismes régis par le code de la sécurité sociale ;
+L'agrément à titre provisoire est délivré par le directeur général du Centre national de la cinématographie après sélection
+des oeuvres par un comité d'experts. Cet agrément atteste que les oeuvres remplissent les conditions prévues au II.
 
-b) Les dépenses liées au recours à des prestataires spécialisés dans les travaux de préparation et de fabrication de
-l'animation ;
-
-c) Les dépenses de matériels techniques nécessaires à la mise en images ;
-
-d) Les dépenses de post-production, y compris les effets spéciaux ;
-
-e) Les dépenses de pellicules et autres supports d'images et les dépenses de laboratoires.
-
-2. - Pour les dépenses correspondant aux prestations mentionnées au 1, les prestataires auxquels fait appel l'entreprise de
-production doivent être établis en France et y effectuer personnellement ces prestations.
-
-3. - Les dépenses ouvrent droit au crédit d'impôt à compter de la délivrance par le directeur général du Centre national de
-la cinématographie d'un agrément à titre provisoire attestant que l'oeuvre cinématographique ou l'oeuvre audiovisuelle
-remplira les conditions prévues au 3 du I et aux 1 et 2 du II. Cet agrément est délivré sur la base de pièces justificatives,
-comprenant notamment un devis détaillé des dépenses de production individualisant les dépenses prévues en France ainsi que la
-liste nominative des salariés, industries techniques et prestataires spécialisés, précisant leur nationalité. Pour les
-salariés mentionnés aux a des 1° et 2° des 1 et 2 du II, l'entreprise de production doit également fournir copie de la
-déclaration prévue à l'article L. 320 du code du travail et du document en accusant réception par l'organisme destinataire.
-
-IV. - Les subventions publiques non remboursables reçues par les entreprises et directement affectées aux dépenses visées au
+V. - Les subventions publiques non remboursables reçues par les entreprises et directement affectées aux dépenses visées au
 III sont déduites des bases de calcul du crédit d'impôt.
 
-V. - 1. La somme des crédits d'impôt calculés au titre d'une même oeuvre cinématographique ne peut excéder 1 million d'euros.
+VI. - 1. La somme des crédits d'impôt calculés au titre d'une même oeuvre cinématographique ne peut excéder 1 million
+d'euros.
 
 2. La somme des crédits d'impôt calculés au titre d'une même oeuvre audiovisuelle ne peut excéder 1 150 Euros par minute
 produite et livrée pour une oeuvre de fiction ou documentaire et 1 200 Euros par minute produite et livrée pour une oeuvre
@@ -164,23 +87,18 @@ artistiques et techniques communs, les dépenses mentionnées au III communes à
 être éligibles qu'au titre d'un seul crédit d'impôt. Les dépenses mentionnées au III qui ne sont pas communes à la production
 de ces deux oeuvres ouvrent droit à un crédit d'impôt dans les conditions prévues au présent article.
 
+VII. - Les crédits d'impôt obtenus pour la production d'une même oeuvre cinématographique ou audiovisuelle ne peuvent avoir
+pour effet de porter à plus de 50 % du budget de production le montant total des aides publiques accordées. Ce seuil est
+porté à 60 % pour les oeuvres cinématographiques ou audiovisuelles difficiles et à petit budget définies par décret.
+
+VIII. - Un décret fixe les conditions d'application du présent article.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°75-1278 1975-12-30 art. 12 Finances pour 1976
-	  - Loi n°95-1346 1995-12-30 art. 57 Finances pour 1996
-	  - Code de l'industrie cinématographique - art. 14 (V)
-	  - Code du travail - art. L122-1-1 (M)
-	  - Code du travail - art. L320 (M)
 
 	**Modifié par**:
 
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 48 (V) JORF 31 décembre 2004
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 24 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 109 (V) JORF 31 décembre 2005
 
 	**Cité par**:
 
@@ -206,7 +124,3 @@ de ces deux oeuvres ouvrent droit à un crédit d'impôt dans les conditions pr�
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YM (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YN (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YP (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005

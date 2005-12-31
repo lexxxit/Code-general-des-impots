@@ -6,8 +6,7 @@ des sommes effectivement versées pour la souscription au capital des sociétés
 
 En cas de cession de tout ou partie des titres souscrits dans les cinq ans de leur acquisition, le montant de l'amortissement
 exceptionnel est réintégré au bénéfice imposable de l'exercice au cours duquel intervient la cession et majoré d'une somme
-égale au produit de ce montant par le taux de l'intérêt de retard prévu au troisième alinéa de l'article 1727 et appliqué
-dans les conditions mentionnées à l'article 1727 A.
+égale au produit de ce montant par le taux de l'intérêt de retard prévu à l'article 1727.
 
 Un décret fixe les modalités d'application, notamment les obligations déclaratives.
 
@@ -15,15 +14,7 @@ Un décret fixe les modalités d'application, notamment les obligations déclara
 
 	**Cite**:
 
-	  - CGI 238 bis HO, 1727, 1727 A
-
-	**Créé par**:
-
-	  - Loi n°97-1051 du 18 novembre 1997 - art. 27 (V) JORF 19 novembre 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
+	  - CGI 238 bis HO, 1727
 
 	**Cité par**:
 
@@ -33,5 +24,8 @@ Un décret fixe les modalités d'application, notamment les obligations déclara
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
-	  - TXT_ASSOCIE: Instruction 1999-05-14 4D-2-99
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006

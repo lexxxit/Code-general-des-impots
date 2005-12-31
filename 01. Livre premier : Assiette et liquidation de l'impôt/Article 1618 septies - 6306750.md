@@ -1,7 +1,7 @@
 # Article 1618 septies
 
 Il est institué au profit du Fonds de financement des prestations sociales des non-salariés agricoles mentionné à l'article
-L. 731 du code rural une taxe portant sur les quantités de farines, semoules et gruaux de blé tendre livrées ou mises en
+L. 731-1 du code rural une taxe portant sur les quantités de farines, semoules et gruaux de blé tendre livrées ou mises en
 oeuvre en vue de la consommation humaine, ainsi que sur les mêmes produits introduits en provenance d'autres Etats membres de
 la Communauté européenne ou importés de pays tiers.
 
@@ -26,14 +26,6 @@ matière de douane.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi - art. 40 (V) JORF 31 décembre 2003
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
 	**Cité par**:
 
 	  - Arrêté du 12 juin 2009 - art. 1 (V)
@@ -45,8 +37,16 @@ matière de douane.
 
 	**Cite**:
 
-	  - Code rural L731
+	  - Code rural L731-1
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Loi n°2003-1311 2003-12-31 art. 40 III B Finances pour 2004 JORF 31 décembre 2004
