@@ -6,20 +6,15 @@ d'oeuvres classiques faisant l'objet d'une nouvelle mise en scène, ainsi que de
 exclusivement des créations originales conçues et produites par l'entreprise et faisant appel aux services réguliers d'un
 groupe de musiciens.
 
-Un décret définit la nature des oeuvres et fixe le nombre de représentations auxquelles ces dispositions sont applicables
-(1).
+Un décret définit la nature des oeuvres et fixe le nombre de représentations auxquelles ces dispositions sont applicables.
 
 Ces dispositions ne s'appliquent pas aux recettes provenant :
 
-a. Des représentations théâtrales à caractère pornographique ;<rl (disposition="" <br="" devenue="" objet).="" b.="" sans="">
+a. Des représentations théâtrales à caractère pornographique ;<rl sans="" objet).="" (disposition="" <br="" devenue="" b.="">
 
-c. de la vente de billets imposée au taux réduit dans les conditions prévues au b bis a de l'article 279.
+c. (abrogé)
 
 </rl>
-
-**Nota:**
-
-(1) Voir l'article 89 ter de l'annexe III.
 
 **Liens relatifs à cet article**
 
@@ -31,7 +26,7 @@ c. de la vente de billets imposée au taux réduit dans les conditions prévues 
 
 	**Modifié par**:
 
-	  - Loi n°96-1182 1996-12-30 art. 42 II, III Finances rectificative pour 1996 JORF 31 décembre 1996
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 97 (V) JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -40,6 +35,4 @@ c. de la vente de billets imposée au taux réduit dans les conditions prévues 
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
-	  - TXT_ASSOCIE: Instruction 2001-09-27 3C-3-01
-	  - TXT_ASSOCIE: Instruction 2002-04-22 3C-2-02
+	  - HISTO: Edition du 1er janvier 2007
