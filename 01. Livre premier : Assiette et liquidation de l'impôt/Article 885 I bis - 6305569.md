@@ -39,6 +39,11 @@ participation indirecte ayant fait l'objet d'un engagement de conservation.
 Le bénéfice de l'exonération partielle est subordonné à la condition que les participations soient conservées inchangées à
 chaque niveau d'interposition pendant toute la durée de l'engagement collectif ;
 
+En cas de non-respect des dispositions du huitième alinéa par suite d'une fusion entre sociétés interposées, l'exonération
+partielle accordée au titre de l'année en cours et de celles précédant cette opération n'est pas remise en cause si les
+signataires respectent l'engagement prévu au a jusqu'à son terme. Les titres reçus en contrepartie de la fusion doivent être
+conservés jusqu'au même terme.
+
 c. L'un des associés mentionnés au a exerce effectivement dans la société dont les parts ou actions font l'objet de
 l'engagement collectif de conservation son activité professionnelle principale si celle-ci est une société de personnes visée
 aux articles 8 et 8 ter, ou l'une des fonctions énumérées au 1° de l'article 885 O bis lorsque celle-ci est soumise à l'impôt
@@ -68,12 +73,6 @@ l'une des conditions prévues au a ou au b est seule remise en cause.
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article, notamment les obligations déclaratives
 incombant aux redevables et aux sociétés.
 
-**Nota:**
-
-NOTA : Loi 2005-1719 2005-12-30 art. 26 III Finances pour 2006 :
-
-dispositions d'application.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -83,7 +82,12 @@ dispositions d'application.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 26 (V) JORF 31 décembre 2005
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 57 (V) JORF 31 décembre 2006
+	  - Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
 
 	**Cité par**:
 
@@ -93,3 +97,7 @@ dispositions d'application.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 K (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 L (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 301 M (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007

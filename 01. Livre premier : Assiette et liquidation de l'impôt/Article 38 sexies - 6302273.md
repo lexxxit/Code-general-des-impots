@@ -6,9 +6,17 @@ comptabilisé au titre de ces ristournes par cet associé peut, sur option, fair
 date de cession, de transmission ou d'apport des parts ainsi attribuées ou jusqu'à la date de cessation d'activité si celle-
 ci est antérieure.
 
-Un décret précise les obligations déclaratives nécessaires à l'application de l'alinéa précédent.
+Un décret précise les obligations déclaratives nécessaires à l'application du premier alinéa.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2007-484 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
 
 	**Cité par**:
 
@@ -21,8 +29,4 @@ Un décret précise les obligations déclaratives nécessaires à l'application 
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2006
-
-	**Créé par**:
-
-	  - Loi n°2006-11 du 5 janvier 2006 - art. 58 () JORF 6 janvier 2006
+	  - HISTO: Edition du 1er janvier 2007
