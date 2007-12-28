@@ -37,9 +37,7 @@ de salariés employés depuis au moins un an au 1er janvier de l'année suivant 
 1er janvier de l'année suivant celle de la création de l'établissement. Pour les redevables non tenus à ces déclarations, les
 indications sont portées sur papier libre dans les mêmes délais.
 
-IV. - Le crédit d'impôt s'applique après les dégrèvements prévus aux articles 1647 C à 1647 C quinquies et dans les limites
-prévues par le règlement (CE) n° 69/2001 de la Commission du 12 janvier 2001 concernant l'application des articles 87 et 88
-du traité CE aux aides de minimis.
+IV. - Le crédit d'impôt s'applique après les dégrèvements prévus aux articles 1647 C à 1647 C quinquies (1). 
 
 N'ouvrent pas droit au crédit d'impôt les emplois situés dans les établissements où est exercée à titre principal une
 activité relevant de l'un des secteurs suivants, définis selon la nomenclature d'activités française de l'Institut national
@@ -53,15 +51,17 @@ V. - Si, pendant une période d'application du crédit d'impôt, ou dans les cin
 redevable transfère hors de l'Espace économique européen les emplois ayant ouvert droit au crédit d'impôt, il est tenu de
 reverser les sommes dont il a bénéficié à ce titre.
 
+VI. - Le bénéfice du crédit d'impôt est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15
+décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis (1).
+
 **Nota:**
 
-NOTA : Ces dispositions s'appliquent aux impositions établies au titre des années 2005 à 2011.
+Ces dispositions s'appliquent aux impositions établies au titre des années 2005 à 2011.
+
+(1) La loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 L : Dispositions applicables aux
+avantages octroyés à compter du 1er janvier 2007.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 28 (V) JORF 31 décembre 2004
 
 	**Cité par**:
 
@@ -70,12 +70,6 @@ NOTA : Ces dispositions s'appliquent aux impositions établies au titre des ann�
 	  - Arrêté du 24 juin 2009 - art. 1 (V)
 	  - Arrêté du 14 janvier 2010 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 1464 B à 1464 G, 1465 à 1466 E, 1465, 1477, 1647 C à 1647 C quinquies
-	  - Règlement CE 69-2001 2001-01-12
-	  - Traité de Rome 1957-03-25 art. 87, art. 88
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)

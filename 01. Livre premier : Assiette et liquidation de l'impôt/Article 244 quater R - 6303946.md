@@ -20,27 +20,28 @@ des bases de calcul de ce crédit.
 III. - Quelle que soit la date de clôture des exercices et quelle que soit leur durée, le crédit d'impôt mentionné au I est
 calculé par année civile.
 
-IV. - Le crédit d'impôt mentionné au I s'applique dans les limites prévues par le règlement (CE) n° 69/2001 de la Commission,
-du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
+IV. - Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du règlement (CE) n° 1998 / 2006 de la
+Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis. 
 
-Ce plafond s'apprécie en prenant en compte la fraction du crédit d'impôt correspondant aux parts des associés de sociétés de
-personnes mentionnées aux articles 8 et 238 bis L. Lorsque ces sociétés ne sont pas soumises à l'impôt sur les sociétés, le
-crédit d'impôt peut être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou groupements, à
-condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au
-sens du 1° bis du I de l'article 156.
+Pour l'application du précédent alinéa, les sociétés de personnes mentionnées aux articles 8 et 238 bis L qui ne sont pas
+soumises à l'impôt sur les sociétés doivent également respecter le règlement (CE) n° 1998 / 2006 de la Commission du 15
+décembre 2006 précité. Le crédit d'impôt peut être utilisé par les associés de ces sociétés proportionnellement à leurs
+droits dans ces sociétés s'ils satisfont aux conditions d'application de ce même règlement et sous réserve qu'il s'agisse de
+redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de
+l'article 156.
 
 V. - Les I à III s'appliquent aux dépenses éligibles engagées entre le 15 décembre 2006 et le 31 décembre 2009.
 
+**Nota:**
+
+Loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 L : Dispositions applicables aux avantages
+octroyés à compter du 1er janvier 2007.
+
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 44 sexies, 44 septies, 44 octies, 44 decies, 8, 238 bis L, 156
-	  - Règlement CE 69/2001 2001-01-12
-
-	**Créé par**:
-
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 92 () JORF 31 décembre 2006
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 45 (V)
 
 	**Cité par**:
 
@@ -48,7 +49,3 @@ V. - Les I à III s'appliquent aux dépenses éligibles engagées entre le 15 d�
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZV (P)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZW (P)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZX (P)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
