@@ -22,12 +22,22 @@ Elle est constatée, liquidée, recouvrée et contrôlée selon les mêmes proc�
 sûretés et privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les
 règles applicables à cette même taxe.
 
+Le produit de  la taxe est affecté au Centre national de la cinématographie. Ce dernier peut  recevoir communication de
+l'administration des impôts, pour chaque redevable, de  tous renseignements relatifs au montant de la taxe.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 166 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2007
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 26 () JORF 31 décembre 2006
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 55 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-389 du 7 avril 2009 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code général des impôts, CGI. - art. 1609 sexdecies B (V)
 
 	**Cité par**:
 
