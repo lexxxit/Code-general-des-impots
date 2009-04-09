@@ -3,12 +3,12 @@
 I. Lorsqu'un contribuable exerce son activité professionnelle dans le cadre d'une société dont les bénéfices sont, en
 application des articles 8 et 8 ter, soumis en son nom à l'impôt sur le revenu dans la catégorie des bénéfices agricoles
 réels, des bénéfices industriels ou commerciaux ou des bénéfices non commerciaux, ses droits ou parts dans la société sont
-considérés notamment pour l'application des articles 38, 72 et 93, comme des éléments d'actif affectés à l'exercice de la
+considérés notamment pour l'application des articles 38,72 et 93, comme des éléments d'actif affectés à l'exercice de la
 profession. 
 
 II.-1. En cas de transmission à titre gratuit à une personne physique de droits sociaux considérés, en application du I,
 comme des éléments d'actif affectés à l'exercice de la profession, l'imposition de la plus-value constatée peut faire l'objet
-d'un report jusqu'à la date de cession, de rachat, d'annulation ou de transmission ultérieure de ces droits.
+d'un report jusqu'à la date de cession, de rachat, d'annulation ou de transmission ultérieure de ces droits. 
 
 L'imposition de cette plus-value est effectuée à la date à laquelle il est mis fin au report au nom du ou des bénéficiaires
 de la transmission des droits sociaux. 
@@ -18,7 +18,7 @@ est effectuée au nom du bénéficiaire de la transmission.
 
 En cas de nouvelle transmission à titre gratuit par l'un des bénéficiaires de la transmission visée au premier alinéa, le
 report est maintenu si le bénéficiaire de la nouvelle transmission prend l'engagement d'acquitter l'impôt sur la plus-value à
-la date où l'un des événements cités au premier alinéa survient.A défaut, l'imposition de la plus-value afférente aux droits
+la date où l'un des événements cités au premier alinéa survient. A défaut, l'imposition de la plus-value afférente aux droits
 transmis est effectuée au nom du donateur ou du défunt. 
 
 Lorsque l'activité est poursuivie pendant au moins cinq ans à compter de la date de la transmission à titre gratuit visée au
@@ -32,11 +32,11 @@ premier alinéa se réalise.
 par ces derniers. 
 
 Le ou les bénéficiaires ayant opté pour le régime défini au 1 communiquent à l'administration un état faisant apparaître le
-montant des plus-values réalisées lors de la transmission et dont l'imposition est reportée conformément au 1. 
+montant des plus-values réalisées lors de la transmission et dont l'imposition est reportée conformément au 1.
 
 3. Un décret précise le contenu des obligations déclaratives mentionnées au 2.
 
-4.L'article 151 septies ne s'applique pas en cas d'exercice de l'option prévue au 2. 
+4. L'article 151 septies ne s'applique pas en cas d'exercice de l'option prévue au 2. 
 
 III. En cas d'assujettissement à l'impôt sur les sociétés d'une société visée au paragraphe I ou de sa transformation en
 société passible de cet impôt, l'imposition de la plus-value constatée est reportée à la date de cession, de rachat ou
@@ -54,7 +54,7 @@ suivantes sont respectées :
 conditions prévues au même 1° dans la société dont les parts ou actions ont été transmises ; 
 
 2° La société dont les parts ou actions ont été transmises poursuit son activité commerciale, industrielle, artisanale,
-libérale ou agricole.
+libérale ou agricole. 
 
 L'exonération prévue au deuxième alinéa s'applique à la plus-value en report sur les droits ou actions détenus par le ou les
 bénéficiaires de la transmission au terme de la période mentionnée au même alinéa. 
@@ -65,9 +65,9 @@ d'annulation de ces parts.
 
 Ce report est maintenu en cas de transmission, à titre gratuit, des parts ou actions de l'associé à une personne physique si
 celle-ci prend l'engagement de déclarer en son nom cette plus-value lors de la cession, du rachat ou de l'annulation de ces
-parts ou actions.
+parts ou actions. 
 
-En cas de transmission à titre gratuit réalisée dans les conditions prévues à l'alinéa précédent, la plus-value en report
+En cas de transmission à titre gratuit réalisée dans les conditions prévues au deuxième alinéa, la plus-value en report
 détenue par le bénéficiaire de la transmission est définitivement exonérée lorsque, de manière continue pendant les cinq
 années suivant la transmission, ce bénéficiaire de la transmission exerce son activité professionnelle au sein de la société,
 dans les conditions prévues au I ou au 1° du III, et que celle-ci poursuit son activité commerciale, industrielle,
@@ -97,7 +97,7 @@ titres apportés par la société bénéficiaire lorsqu'elle est antérieure ;
 
 b) En cas d'échange de droits ou parts, résultant d'une fusion ou d'une scission de la société dont les droits ou parts ont
 été apportés ou de la société bénéficiaire de l'apport jusqu'à la date de cession, de rachat ou d'annulation des droits reçus
-lors de l'échange.
+lors de l'échange. 
 
 V.-Les reports d'impositions mentionnés aux II, III et IV sont maintenus en cas d'échange de droits sociaux résultant d'une
 fusion ou d'une scission jusqu'à la date de cession, de rachat ou d'annulation des droits reçus lors de l'échange. 
@@ -126,7 +126,7 @@ reportée. Un décret précise le contenu de cet état.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 44
+	  - Décret n°2009-389 du 7 avril 2009 - art. 1
 
 	**Cite**:
 
@@ -135,8 +135,7 @@ reportée. Un décret précise le contenu de cet état.
 	  - Code général des impôts, CGI. - art. 170
 	  - Code général des impôts, CGI. - art. 38
 	  - Code général des impôts, CGI. - art. 72
-	  - Code général des impôts, CGI. - art. 8
-	  - Code général des impôts, CGI. - art. 8 ter
+	  - Code général des impôts, CGI. - art. 8 (V)
 	  - Code général des impôts, CGI. - art. 885 O bis
 	  - Code général des impôts, CGI. - art. 93
 	  - Code monétaire et financier - art. L313-7
