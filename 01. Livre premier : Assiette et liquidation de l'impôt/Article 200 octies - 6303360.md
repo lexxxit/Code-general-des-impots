@@ -1,10 +1,10 @@
 # Article 200 octies
 
 1. Les contribuables fiscalement domiciliés en France au sens de l'article 4 B bénéficient d'une réduction d'impôt au titre
-de l'aide bénévole qu'ils apportent à des personnes inscrites comme demandeurs d'emploi ou titulaires du revenu minimum
-d'insertion, de l'allocation de parent isolé ou de l'allocation aux adultes handicapés, qui créent ou reprennent une
-entreprise industrielle, commerciale, artisanale, agricole ou libérale, soit à titre individuel, soit sous la forme d'une
-société dont ils détiennent la majorité des parts ou actions. 
+de l'aide bénévole qu'ils apportent à des personnes inscrites comme demandeurs d'emploi ou titulaires du revenu de solidarité
+active mentionné à l'article L. 262-1 du code de l'action sociale et des familles ou de l'allocation aux adultes handicapés,
+qui créent ou reprennent une entreprise industrielle, commerciale, artisanale, agricole ou libérale, soit à titre individuel,
+soit sous la forme d'une société dont ils détiennent la majorité des parts ou actions. 
 
 La réduction d'impôt s'applique lorsque les conditions suivantes sont remplies : 
 
@@ -76,10 +76,10 @@ l'année 2009.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 69 (V)
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 12
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 4 B (V)
-	  - Code du travail - art. L5313-1 (V)
-	  - Code de l'action sociale et des familles - art. L114 (V)
+	  - Code général des impôts, CGI. - art. 4 B
+	  - Code du travail - art. L5313-1
+	  - Code de l'action sociale et des familles - art. L262-1
