@@ -33,22 +33,11 @@ VI. - Un décret en Conseil d'Etat fixe les conditions d'application du présent
 	  - CGIAN2 267 quater G
 	  - CGIAN4 50 quaterdecies-0 A
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2010-421  du 27 avril 2010 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 267 quater F (V)
 	  - Livre des procédures fiscales - art. R102 AA-1 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 2000-07-11 3P-7-00
-
-	**Modifié par**:
-
-	  - Règlement CE 1103-97 1997-06-17 art. 5 JOCE 19 juin 1997 en vigueur le 1er janvier 2002
-	  - Règlement CE 2866-98 1998-12-31 art. 1, art. 2 JOCE 31 décembre 1998 en vigueur le 1er janvier 2002
-	  - Règlement CE 974-98 1998-05-03 art. 14 JOCE 11 mai 1998 en vigueur le 1er janvier 2002

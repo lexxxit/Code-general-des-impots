@@ -12,12 +12,10 @@ Un arrêté conjoint du ministre chargé du budget et du ministre chargé de l'a
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 302 bis S à 302 bis V
-	  - CGIAN3 111 quater L à 111 quater R
-	  - CGIAN4 50 quaterdecies
-
 	**Modifié par**:
 
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 90
+	  - Décret n°2010-421  du 27 avril 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 bis S (V)

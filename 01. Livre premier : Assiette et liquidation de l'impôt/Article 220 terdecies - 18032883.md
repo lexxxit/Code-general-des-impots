@@ -74,6 +74,10 @@ durée de l'exercice.
 VII.-Les conditions d'application du présent article, notamment celles relatives à la délivrance de l'agrément provisoire et
 aux obligations déclaratives incombant aux entreprises, sont fixées par décret.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 3, 2e alinéa de l'ordonnance n° 2009-901 du 24 juillet 2009.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -112,11 +116,7 @@ aux obligations déclaratives incombant aux entreprises, sont fixées par décre
 	  - Code général des impôts, CGI. - art. 223 O (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YZH (V)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 3 (V)
-
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L113-1 (V)
-	  - Code général des impôts, CGI. - art. 44 sexies (V)
+	  - Code de la propriété intellectuelle - art. L113-1
+	  - Code général des impôts, CGI. - art. 44 sexies

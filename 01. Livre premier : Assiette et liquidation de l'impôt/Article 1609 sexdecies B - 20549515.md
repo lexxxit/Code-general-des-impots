@@ -26,13 +26,9 @@ Le produit de la taxe est affecté au Centre national du cinéma et de l'image a
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 55-IV de la loi n° 2008-1425 du 27 décembre 2008.
+Modifications effectuées en conséquence de l'article 3, 1er alinéa de l'ordonnance n° 2009-901 du 24 juillet 2009.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 3 (V)
 
 	**Cité par**:
 
@@ -50,3 +46,7 @@ Modifications effectuées en conséquence de l'article 55-IV de la loi n° 2008-
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 331 M bis (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 331 M ter (V)
 	  - Livre des procédures fiscales - art. L163 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2010-421  du 27 avril 2010 - art. 1
