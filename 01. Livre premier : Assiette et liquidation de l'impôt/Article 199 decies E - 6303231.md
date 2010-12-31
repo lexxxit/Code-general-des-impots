@@ -1,18 +1,17 @@
 # Article 199 decies E
 
-Tout contribuable qui, entre le 1er janvier 1999 et le 31 décembre 2012, acquiert un logement neuf ou en l'état futur
+Tout contribuable qui, entre le 1er janvier 1999 et le 31 décembre 2010, acquiert un logement neuf ou en l'état futur
 d'achèvement faisant partie d'une résidence de tourisme classée dans une zone de revitalisation rurale et qui le destine à
 une location dont le produit est imposé dans la catégorie des revenus fonciers bénéficie d'une réduction d'impôt sur le
 revenu. L'indexation d'une part minoritaire du loyer sur le chiffre d'affaires ne fait pas obstacle à l'imposition dans la
 catégorie des revenus fonciers. 
 
-Cette réduction d'impôt est calculée sur le prix de revient de ces logements dans la limite de 50 000 euros pour une personne
-célibataire, veuve ou divorcée et de 100 000 euros pour un couple marié. Son taux est de 25 %. Il ne peut être opéré qu'une
-seule réduction d'impôt à la fois et elle est répartie sur six années au maximum. Elle est accordée au titre de l'année
+Cette réduction d'impôt est calculée sur le prix de revient de ces logements dans la limite de 50 000 € pour une personne
+célibataire, veuve ou divorcée et de 100 000 € pour un couple marié. Son taux est de 25 %. Il ne peut être opéré qu'une seule
+réduction d'impôt à la fois et elle est répartie sur six années au maximum. Elle est accordée au titre de l'année
 d'achèvement du logement ou de son acquisition si elle est postérieure et imputée sur l'impôt dû au titre de cette même année
-à raison du sixième des limites de 12 500 euros ou 25 000 euros puis, le cas échéant, pour le solde les cinq années suivantes
-dans les mêmes conditions.A la demande du contribuable, ce solde peut être imputé par sixième durant les six années
-suivantes. 
+à raison du sixième des limites de 12 500 € ou 25 000 € puis, le cas échéant, pour le solde les cinq années suivantes dans
+les mêmes conditions.A la demande du contribuable, ce solde peut être imputé par sixième durant les six années suivantes. 
 
 Ouvrent également droit à la réduction d'impôt, dans les mêmes conditions, les logements faisant partie d'une résidence de
 tourisme classée dans une zone, autre qu'une zone de revitalisation rurale précitée, inscrite sur la liste pour la France des
@@ -55,8 +54,9 @@ restant à courir à la date du décès.
 
 **Nota:**
 
-Loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 article 23 III : Les I et II de l'article 23 s'appliquent à
-compter de l'imposition des revenus de 2009.
+Loi n°2010-1657 du 29 décembre 2010 art. 92 II : Pour l'application de l'article 199 decies E du code général des impôts,
+l'acquisition d'un logement avant le 31 décembre 2010 s'entend de l'acquisition d'un logement pour lequel une promesse
+d'achat ou une promesse synallagmatique a été souscrite par l'acquéreur avant la même date.
 
 **Liens relatifs à cet article**
 
@@ -64,12 +64,6 @@ compter de l'imposition des revenus de 2009.
 
 	  - Loi n°70-610 du 10 juillet 1970
 	  - Code général des impôts, CGI. - art. 197
-
-	**Modifié par**:
-
-	  - Loi n°2009-1673 du 30 décembre 2009 - art. 23 (V)
-	  - Loi n°2009-1673 du 30 décembre 2009 - art. 86
-	  - Loi n°2009-1673 du 30 décembre 2009 - art. 87
 
 	**Cité par**:
 
@@ -88,3 +82,7 @@ compter de l'imposition des revenus de 2009.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGD (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGF (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGG bis (V)
+
+	**Modifié par**:
+
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 92 (V)

@@ -15,9 +15,9 @@ construire ou de construction d'immeuble, la déduction est opérée sur le rés
 fondations sont achevées. Si l'immeuble n'est pas achevé dans les deux ans suivant la date de l'achèvement des fondations, la
 somme déduite est rapportée au résultat imposable au titre de l'exercice au cours duquel intervient le terme de ce délai. La
 déduction s'applique également aux investissements réalisés par une société soumise au régime d'imposition prévu à l'article
-8 ou un groupement mentionné aux articles 239 quater ou 239 quater C, dont les parts sont détenues directement par des
-entreprises soumises à l'impôt sur les sociétés. Dans ce cas, la déduction est pratiquée par les associés ou membres dans une
-proportion correspondant à leurs droits dans la société ou le groupement. 
+8, à l'exclusion des sociétés en participation, ou un groupement mentionné aux articles 239 quater ou 239 quater C, dont les
+parts sont détenues directement par des entreprises soumises à l'impôt sur les sociétés. Dans ce cas, la déduction est
+pratiquée par les associés ou membres dans une proportion correspondant à leurs droits dans la société ou le groupement. 
 
 La déduction prévue au premier alinéa ne s'applique qu'à la fraction du prix de revient des investissements réalisés par les
 entreprises qui excède le montant des apports en capital ouvrant droit au profit de leurs associés aux déductions prévues au
@@ -30,7 +30,9 @@ lorsque ces travaux et logiciels constituent des éléments de l'actif immobilis
 
 La déduction prévue au premier alinéa s'applique à la réalisation d'investissements nécessaires à l'exploitation d'une
 concession de service public local à caractère industriel et commercial et réalisés dans des secteurs éligibles définis par
-ce même alinéa, quelles que soient la nature des biens et leur affectation finale. 
+ce même alinéa, quelles que soient la nature des biens et leur affectation finale. La déduction prévue au premier alinéa ne
+s'applique pas aux investissements portant sur des installations de production d'électricité utilisant l'énergie radiative du
+soleil. 
 
 La déduction prévue au premier alinéa s'applique aux investissements mentionnés au premier alinéa du I ter de l'article 199
 undecies B à hauteur de la moitié de leur coût de revient, hors taxes et hors frais de toute nature, notamment les
@@ -114,9 +116,7 @@ du code de la construction et de l'habitation ;
 
 3° Les trois quarts de l'avantage en impôt procuré par la déduction pratiquée au titre de l'acquisition ou la construction de
 l'immeuble sont rétrocédés à la personne physique signataire du contrat mentionné au 1° sous forme de diminution de la
-redevance prévue à l'
-article 5 de la loi n° 84-595 du 12 juillet 1984 précitée 
-et du prix de cession de l'immeuble. 
+redevance prévue à l'article 5 de la loi n° 84-595 du 12 juillet 1984 précitée et du prix de cession de l'immeuble. 
 
 II. Les entreprises mentionnées au I peuvent, d'autre part, déduire de leurs résultats imposables une somme égale au montant
 total des souscriptions au capital des sociétés de développement régional des départements d'outre-mer ou des sociétés
@@ -295,28 +295,43 @@ déclaratives.
 
 **Nota:**
 
-(1) Les dispositions introduites par les B et C du I de l'article 17 de la loi n° 2009-594 du 27 mai 2009 entrent en
-application à compter du 29 novembre 2009 (six mois suivant la date d'entrée en vigueur de ladite loi).
+Loi n° 2010-1657 du 29 décembre 2010 article 36 VI : Les présentes dispositions s'appliquent à compter du 29 septembre 2010 .
+Toutefois, la réduction ou la déduction d'impôt restent applicables, dans les conditions prévues par les dispositions
+antérieures à la présente loi :
 
-Conformément à l'article 17-II de la loi n° 2009-594 du 27 mai 2009, l'article 17 est applicable aux investissements réalisés
-entre la date de publication de la présente loi et le 31 décembre 2017.
+a) Lorsque le bénéfice de la réduction ou de la déduction d'impôt n'est pas subordonné à l'agrément préalable du ministre
+chargé du budget prévu aux II de l'article 199 undecies B et II quater de l'article 217 undecies du code général des impôts,
+d'une part, aux investissements pour l'acquisition desquels le bénéficiaire de la réduction ou de la déduction a accepté un
+devis et versé un acompte avant le 29 septembre 2010 et, d'autre part, à ceux réalisés par les sociétés et groupements
+mentionnés aux dix-neuvième et vingt-septième alinéas du I de l'article 199 undecies B et à l'avant-dernière phrase du
+premier alinéa du I et au II de l'article 217 undecies, lorsque la réduction d'impôt ou la déduction à laquelle ils auraient
+ouvert droit en application de ces mêmes articles a été obtenue à raison d'acquisitions ou de souscriptions de parts faites
+avant le 29 septembre 2010 ;
 
-Restent soumis à l'article 217 undecies du code général des impôts, dans sa rédaction antérieure à la publication de la
-présente loi, les investissements pour l'agrément desquels une demande est parvenue à l'administration avant la date de cette
-publication.
+b) Lorsque le bénéfice de la réduction ou de la déduction d'impôt est subordonné à l'agrément préalable du ministre chargé du
+budget prévu aux  II de l'article 199 undecies B et II quater de l'article 217 undecies du code général des impôts, d'une
+part, aux investissements agréés avant le 29 septembre 2010, sous réserve du respect de la date de mise en production des
+installations prévue dans l'agrément, et, d'autre part, à ceux pour l'acquisition desquels l'exploitant a accepté un devis et
+versé un acompte, sous réserve qu'ils produisent de l'électricité au plus tard le 31 mars 2011.
 
-Modifications effectuées en conséquence de l'article 17-I A [2°] de la loi n° 2009-594 du 27 mai 2009.
+Loi n° 2010-1657 du 29 décembre 2010 art. 98 II : Ces dispositions sont applicables à compter de l'imposition des revenus de
+l'année 2011.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°84-595 du 12 juillet 1984 - art. 5 (M)
-	  - Loi n°2009-594 du 27 mai 2009 (V)
-	  - Code général des impôts, CGI. - art. 210 A (V)
-	  - Code général des impôts, CGI. - art. 210 B (V)
-	  - Code général des impôts, CGI. - art. 239 quater (V)
-	  - Code général des impôts, CGI. - art. 239 quater C (V)
+	  - Loi n°2009-594 du 27 mai 2009
+	  - Code de commerce - art. L232-21 (V)
+	  - Code général des impôts, CGI. - art. 1727 (V)
+	  - Code général des impôts, CGI. - art. 199 undecies (P)
+	  - Code général des impôts, CGI. - art. 209 (V)
+	  - Code général des impôts, CGI. - art. 210 A
+	  - Code général des impôts, CGI. - art. 210 B
+	  - Code général des impôts, CGI. - art. 217 bis (V)
+	  - Code général des impôts, CGI. - art. 239 quater
+	  - Code général des impôts, CGI. - art. 239 quater C
+	  - Code général des impôts, CGI. - art. 44 quaterdecies (V)
 
 	**Cité par**:
 
@@ -383,5 +398,5 @@ Modifications effectuées en conséquence de l'article 17-I A [2°] de la loi n�
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 8 (V)
-	  - Décret n°2010-421  du 27 avril 2010 - art. 1
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 36
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 98 (V)
