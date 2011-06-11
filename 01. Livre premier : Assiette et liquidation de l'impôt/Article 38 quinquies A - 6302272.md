@@ -6,9 +6,9 @@ visée à l'article L. 141-2 du même code.
 
 Le résultat imposable de la Banque de France est établi : 
 
-1° Après déduction des montants mentionnés au quatrième alinéa de l'article L. 612-18 du code monétaire et financier ; 
+1° Après déduction des montants mentionnés au quatrième alinéa de l'article L. 612-18 du même code  ; 
 
-2° Après intégration des montants mentionnés au cinquième alinéa de l'article L. 612-18 du code monétaire et financier.
+2° Après intégration des montants mentionnés au cinquième alinéa de l'article L. 612-18 du code précité.
 
 II. - Pour l'application des dispositions du 2 de l'article 38, les éléments suivants ne sont pas retenus dans la définition
 de l'actif net de la Banque de France : 
@@ -23,15 +23,15 @@ centrale européenne.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 14
-
 	**Cité par**:
 
 	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 22 (V)
 	  - Code général des impôts, CGI. - art. 1654 (V)
 	  - Code monétaire et financier - art. L612-18 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-645 du 9 juin 2011 - art. 1
 
 	**Cite**:
 
