@@ -13,7 +13,7 @@ soulte excède la plus-value réalisée.
 II. ― L'application du I est subordonnée aux conditions suivantes : 
 
 1° L'apporteur est une personne physique qui exerce une activité commerciale, industrielle, artisanale, libérale ou agricole
-à titre professionnel au sens du I de l'article 151 septies ; 
+à titre professionnel au sens du IV de l'article 155 ; 
 
 2° L'apport porte sur l'intégralité des droits ou parts nécessaires à l'exercice de l'activité, détenus par le contribuable
 et inscrits à l'actif de son bilan ou dans le tableau des immobilisations. 
@@ -32,7 +32,7 @@ des droits de vote ou du capital de la société dont les droits et parts sont a
 III. ― Le report d'imposition prend fin lorsque : 
 
 1° L'apporteur cesse d'exercer une activité commerciale, industrielle, artisanale, libérale ou agricole à titre professionnel
-au sens du I de l'article 151 septies ; 
+au sens du IV de l'article 155 ; 
 
 2° Les droits ou parts reçus en rémunération de l'apport ou les droits ou parts apportés sont cédés, rachetés ou annulés ; 
 
@@ -48,24 +48,20 @@ parts reçus lors de l'échange ;
 2° En cas de transmission, dans les conditions prévues à l'article 41, à une ou plusieurs personnes physiques des droits ou
 parts reçus en rémunération de l'apport ou des droits ou parts reçus en échange d'une opération mentionnée au 1° si le ou les
 bénéficiaires de la transmission prennent l'engagement d'acquitter l'impôt sur la plus-value d'apport à la date où l'un des
-événements mentionnés au III, appréciés le cas échéant au niveau du ou des bénéficiaires, se réalise.
+événements mentionnés au III, appréciés le cas échéant au niveau du ou des bénéficiaires, se réalise. 
 
 V. ― L'apporteur doit joindre à la déclaration prévue à l'article 170 au titre de l'année en cours à la date de l'apport et
 des années suivantes un état conforme au modèle fourni par l'administration faisant apparaître les renseignements nécessaires
-au suivi des plus-values dont l'imposition est reportée. Un décret précise le contenu de cet état.
+au suivi des plus-values dont l'imposition est reportée. Un décret précise le contenu de cet état. 
 
 L'option pour le bénéfice du régime défini au présent article est exclusive de celui des régimes prévus au II de l'article 93
-quater et aux articles 151 septies, 151 septies A ,151 octies, 151 octies A et 238 quindecies.
+quater et aux articles 151 septies, 151 septies A, 151 octies, 151 octies A et 238 quindecies.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 19 (V)
-
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 1
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 13 (V)
 
 	**Cité par**:
 
@@ -80,8 +76,10 @@ quater et aux articles 151 septies, 151 septies A ,151 octies, 151 octies A et 2
 
 	  - Code général des impôts, CGI. - art. 151 octies
 	  - Code général des impôts, CGI. - art. 151 octies A
-	  - Code général des impôts, CGI. - art. 151 septies
+	  - Code général des impôts, CGI. - art. 155 (V)
+	  - Code général des impôts, CGI. - art. 170 (V)
 	  - Code général des impôts, CGI. - art. 238 quindecies
-	  - Code général des impôts, CGI. - art. 39 duodecies
+	  - Code général des impôts, CGI. - art. 39 duodecies (V)
+	  - Code général des impôts, CGI. - art. 41 (V)
 	  - Code général des impôts, CGI. - art. 93 quater
 	  - Code monétaire et financier - art. L313-7

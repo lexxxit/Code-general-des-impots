@@ -10,29 +10,24 @@ Un décret définit la nature des oeuvres et fixe le nombre de représentations 
 
 Ces dispositions ne s'appliquent pas aux recettes provenant :
 
-a. Des représentations théâtrales à caractère pornographique ;<rl sans="" objet).="" (disposition="" <br="" devenue="" b.="">
+a. Des représentations théâtrales à caractère pornographique ;
 
-c. (abrogé)
+b. (Disposition devenue sans objet).
 
-</rl>
+c. De la vente de billets imposée au taux réduit de 7 % dans les conditions prévues au b bis a de l'article 279.
+
+**Nota:**
+
+LOI n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 art 13 III : les dispositions du présent article
+s'appliquent aux opérations pour lesquelles la taxe sur la valeur ajoutée est exigible à compter du 1er janvier 2012.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 279
-	  - CGIAN3 89 ter
-	  - Loi n°96-1182 1997-01-01
-
 	**Modifié par**:
 
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 97 (V) JORF 31 décembre 2006
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 13 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 296 bis (V)
 	  - Code général des impôts, CGI. - art. 297 (VD)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
