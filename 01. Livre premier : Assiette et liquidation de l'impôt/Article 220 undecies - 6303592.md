@@ -1,7 +1,7 @@
 # Article 220 undecies
 
 I.-Les entreprises soumises à l'impôt sur les sociétés peuvent bénéficier d'une réduction d'impôt égale à 25 % du montant des
-sommes versées au titre des souscriptions en numéraire réalisées entre le 1er janvier 2007 et le 31 décembre 2012 au capital
+sommes versées au titre des souscriptions en numéraire réalisées entre le 1er janvier 2007 et le 31 décembre 2013 au capital
 de sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun et exploitant soit un journal quotidien,
 soit une publication de périodicité au maximum mensuelle consacrée à l'information politique et générale telle que définie à
 l'article 39 bis A. 
@@ -31,14 +31,14 @@ entreprises.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 39
-	  - Code général des impôts, CGI. - art. 39 (V)
-
 	**Modifié par**:
 
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 14
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 29
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 39
+	  - Code général des impôts, CGI. - art. 39 bis A (V)
 
 	**Cité par**:
 
