@@ -8,24 +8,18 @@ En cas de cession de tout ou partie des parts souscrites dans les huit ans de le
 exceptionnel est réintégré au bénéfice imposable de l'exercice au cours duquel intervient la cession et majoré d'une somme
 égale au produit de ce montant par le taux de l'intérêt de retard prévu à l'article 1727. Il en est de même en cas de
 dissolution des sociétés concernées ou lorsque ces dernières ne respectent pas les dispositions prévues par les articles L.
-214-85 et L. 214-87 du code monétaire et financier.
+214-121 et L. 214-123 à L. 214-125  du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1727
-	  - Code monétaire et financier - art. L214-85 (M)
-	  - Code monétaire et financier - art. L214-87 (M)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZZ quater (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code monétaire et financier - art. L214-121
