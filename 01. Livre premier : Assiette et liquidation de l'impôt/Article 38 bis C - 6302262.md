@@ -1,11 +1,11 @@
 # Article 38 bis C
 
 Par exception aux dispositions de l'article 38, les contrats d'échange de taux d'intérêt ou de devises conclus par les
-établissements de crédit ou les entreprises d'investissement mentionnés à l'article 38 bis A et qui sont affectés à la
-couverture d'instruments financiers évalués à leur valeur de marché ou à la gestion spécialisée d'une activité de
-transaction, sont évalués à leur valeur de marché à la clôture de chaque exercice ou à la date à laquelle ils cessent de
-remplir les conditions pour être soumis à cette règle d'évaluation.L'écart résultant de cette évaluation constitue un élément
-du résultat imposable au taux normal. 
+établissements de crédit , les sociétés de financement ou les entreprises d'investissement mentionnés à l'article 38 bis A et
+qui sont affectés à la couverture d'instruments financiers évalués à leur valeur de marché ou à la gestion spécialisée d'une
+activité de transaction, sont évalués à leur valeur de marché à la clôture de chaque exercice ou à la date à laquelle ils
+cessent de remplir les conditions pour être soumis à cette règle d'évaluation. L'écart résultant de cette évaluation
+constitue un élément du résultat imposable au taux normal. 
 
 Si les conditions prévues par le premier alinéa ne sont plus remplies, l'évaluation des contrats à leur valeur de marché
 cesse de s'appliquer ; dans ce cas, les flux de trésorerie relatifs à ces contrats sont rattachés aux résultats selon la
@@ -44,7 +44,7 @@ Un décret fixe les modalités d'application du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 85 (V)
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 8
 
 	**Cite**:
 

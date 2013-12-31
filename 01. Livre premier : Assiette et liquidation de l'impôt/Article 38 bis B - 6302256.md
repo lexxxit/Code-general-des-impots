@@ -1,9 +1,9 @@
 # Article 38 bis B
 
-I.-Lorsque des établissements de crédit ou des entreprises d'investissement mentionnés à l'article 38 bis A achètent ou
-souscrivent des titres à revenu fixe pour un prix différent de leur prix de remboursement, le profit ou la perte
-correspondant à cette différence augmentée ou diminuée, selon le cas, du coupon couru à l'achat est réparti sur la durée
-restant à courir jusqu'au remboursement. 
+I.-Lorsque des établissements de crédit, des sociétés de financement ou des entreprises d'investissement mentionnés à
+l'article 38 bis A achètent ou souscrivent des titres à revenu fixe pour un prix différent de leur prix de remboursement, le
+profit ou la perte correspondant à cette différence augmentée ou diminuée, selon le cas, du coupon couru à l'achat est
+réparti sur la durée restant à courir jusqu'au remboursement. 
 
 Cette répartition est effectuée de manière actuarielle en rattachant au résultat de chaque exercice une somme égale à la
 différence entre : 
@@ -42,7 +42,7 @@ fraction est comprise dans le résultat imposable au cours duquel le titre est c
 
 	**Modifié par**:
 
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 84 (V) JORF 31 décembre 2006
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 8
 
 	**Cité par**:
 
@@ -50,8 +50,4 @@ fraction est comprise dans le résultat imposable au cours duquel le titre est c
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 38 bis A (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 38 bis A

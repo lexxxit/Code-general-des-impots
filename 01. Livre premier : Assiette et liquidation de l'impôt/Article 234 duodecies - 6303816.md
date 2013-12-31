@@ -12,26 +12,32 @@ III.-La contribution est payée spontanément au comptable public compétent, au
 1668. 
 
 Elle donne lieu au préalable, à la date prévue pour le paiement du dernier acompte d'impôt sur les sociétés de l'exercice ou
-de la période d'imposition, à un acompte égal à 2, 5 % des recettes nettes définies à l'article 29 qui ont été perçues au
+de la période d'imposition, à un acompte égal à 2,5 % des recettes nettes définies à l'article 29 qui ont été perçues au
 cours de l'exercice précédent. 
 
 Lorsque la somme due au titre d'un exercice ou d'une période d'imposition en application du deuxième alinéa est supérieure à
 la contribution dont l'entreprise prévoit qu'elle sera finalement redevable au titre de ce même exercice ou de cette même
 période, l'entreprise peut réduire ce versement à concurrence de l'excédent estimé. 
 
-IV.-Les crédits d'impôt de toute nature ainsi que la créance mentionnée à l'article 220 quinquies et l'imposition forfaitaire
-annuelle mentionnée à l'article 223 septies ne sont pas imputables sur cette contribution.
+IV.-Les crédits d'impôt de toute nature ainsi que la créance mentionnée à l'article 220 quinquies ne sont pas imputables sur
+cette contribution.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 12
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 14 (V)
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 20
 
 	**Cite**:
 
+	  - Code général des impôts, CGI. - art. 1668
 	  - Code général des impôts, CGI. - art. 219 bis (V)
-	  - Code général des impôts, CGI. - art. 223 (V)
+	  - Code général des impôts, CGI. - art. 220 quinquies
+	  - Code général des impôts, CGI. - art. 223
+	  - Code général des impôts, CGI. - art. 223 septies
+	  - Code général des impôts, CGI. - art. 29
+	  - Code général des impôts, CGI. - art. 37
 
 	**Cité par**:
 

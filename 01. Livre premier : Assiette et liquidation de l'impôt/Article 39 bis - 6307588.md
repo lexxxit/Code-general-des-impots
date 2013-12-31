@@ -85,7 +85,7 @@ publications qu'elles impriment hors d'un état membre de la Communauté europé
 1 ter. Les éléments d'actif acquis au moyen des bénéfices ou des provisions mentionnés au présent article sont amortis pour
 un montant égal à la fraction du prix d'achat ou de revient qui a été prélevée sur lesdits bénéfices ou provisions. 
 
-Sans préjudice de l'application des dispositions du seizième alinéa du 5° du 1 de l'article 39, les provisions non utilisées
+Sans préjudice de l'application des dispositions du quinzième alinéa du 5° du 1 de l'article 39, les provisions non utilisées
 conformément à leur objet avant la fin de la cinquième année suivant celle de leur constitution sont rapportées aux bénéfices
 soumis à l'impôt au titre de ladite année. 
 
@@ -106,7 +106,7 @@ entreprise, qu'elles doivent verser en cas de licenciement de ces derniers.
 
 	**Cite**:
 
-	  - Loi n°54-782 du 2 août 1954 (V)
+	  - Loi n°54-782 du 2 août 1954
 
 	**Cité par**:
 
@@ -123,12 +123,8 @@ entreprise, qu'elles doivent verser en cas de licenciement de ces derniers.
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2002-923 du 6 juin 2002
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 26
