@@ -69,11 +69,11 @@ peut excéder la somme des limites calculées pour chacune des zones éligibles.
 5. Ces dispositions s'appliquent aux entreprises créées à compter du 1er janvier 2007 et jusqu'au 31 décembre 2014 dans les
 zones d'aide à finalité régionale. 
 
-Le bénéfice de cette exonération est subordonné au respect du règlement (CE) n° 1628/2006 de la Commission du 24 octobre 2006
-concernant l'application des articles 87 et 88 du traité aux aides nationales à l'investissement à finalité régionale. 
+Le bénéfice de cette exonération est subordonné au respect du règlement (CE) n° 1628/2006  de la Commission du 24 octobre
+2006 concernant l'application des articles 87 et 88 du traité aux aides nationales à l'investissement à finalité régionale. 
 
 III.-1. Le bénéfice de l'exonération est subordonné à l'agrément du ministre chargé du budget et au respect du règlement (CE)
-n° 70/2001 de la Commission du 12 janvier 2001 concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat
+n° 70/2001  de la Commission du 12 janvier 2001 concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat
 en faveur des petites et moyennes entreprises. 
 
 2. Lorsque les entreprises visées au 1 sont situées en dehors des zones d'aide à finalité régionale, l'exonération est
@@ -84,7 +84,7 @@ est portée à 43 % du montant des coûts éligibles pour les petites entreprise
 d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1628/2006 de la
 Commission du 24 octobre 2006 précité. 
 
-4. Le bénéfice exonéré des entreprises en application des 1, 2 et 3 ne peut dépasser 42 000 000 €. 
+4. Le bénéfice exonéré des entreprises en application des 1,2 et 3 ne peut dépasser 42 000 000 €. 
 
 Par ailleurs, lorsque les coûts éligibles sont égaux ou supérieurs à 25 000 000 €, le bénéfice exonéré ne peut dépasser 50 %
 des limites déterminées en application des 2 et 3. 
@@ -100,7 +100,7 @@ b. Son capital ou ses droits de vote ne sont pas détenus à hauteur de 25 % ou 
 entreprises ne répondant pas aux conditions du a, de manière continue au cours de l'exercice. Pour la détermination de ce
 pourcentage, les participations de sociétés de capital-risque, des fonds communs de placement à risques, des fonds
 professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à
-l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs des fonds professionnels de
+l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des fonds professionnels de
 capital investissement, des sociétés de développement régional, des sociétés financières d'innovation et des sociétés
 unipersonnelles d'investissement à risque ne sont pas prises en compte à la condition qu'il n'existe pas de lien de
 dépendance au sens du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds. Cette condition
@@ -125,18 +125,18 @@ s'apprécie de manière continue au cours de l'exercice.
 
 VI.-1. Lorsque les entreprises créées pour reprendre une entreprise en difficulté mentionnées au I sont situées dans des
 zones d'aide à finalité régionale, le bénéfice de l'exonération prévue au I est subordonné au respect de l'article 13 du
-règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aide compatibles avec le marché
+règlement (CE) n° 800/2008  de la Commission du 6 août 2008 déclarant certaines catégories d'aide compatibles avec le marché
 commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie). 
 
 2. Lorsque les entreprises créées pour reprendre une entreprise en difficulté mentionnées au I ne sont pas situées dans une
 zone d'aide à finalité régionale mais satisfont à la définition des petites et moyennes entreprises qui figure à l'annexe I
-au règlement (CE) n° 800/2008 de la Commission du 6 août 2008 précité, le bénéfice de l'exonération prévue au I est
+au règlement (CE) n° 800/2008  de la Commission du 6 août 2008 précité, le bénéfice de l'exonération prévue au I est
 subordonné au respect de l'article 15 du même règlement. 
 
 3. Lorsque les entreprises créées pour reprendre une entreprise en difficulté mentionnées au I ne sont pas situées dans une
 zone d'aide à finalité régionale et ne satisfont pas à la définition des petites et moyennes entreprises qui figure à
-l'annexe I au règlement (CE) n° 800/2008 de la Commission du 6 août 2008 précité, le bénéfice de l'exonération prévue au I
-est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant l'application des
+l'annexe I au règlement (CE) n° 800/2008  de la Commission du 6 août 2008 précité, le bénéfice de l'exonération prévue au I
+est subordonné au respect du règlement (CE) n° 1998/2006  de la Commission du 15 décembre 2006 concernant l'application des
 articles 87 et 88 du traité aux aides de minimis. 
 
 VII. 2.-Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions du régime prévu à l'article 44 octies A
@@ -170,12 +170,13 @@ exigible sans préjudice de l'intérêt de retard prévu à l'article 1727 et d�
 	  - Ordonnance n°2013-676 du 25 juillet 2013
 	  - Code de commerce - art. L626-1
 	  - Code de commerce - art. L631-22
+	  - Code de commerce - art. L642-1 (V)
 	  - Code général des impôts, CGI. - art. 53 A
 	  - Code monétaire et financier - art. L214-37
 
 	**Modifié par**:
 
-	  - Loi n°2013-1279 du 29 décembre 2013 - art. 29 (V)
+	  - Loi n°2014-1 du 2 janvier 2014 - art. 25 (V)
 
 	**Cité par**:
 
