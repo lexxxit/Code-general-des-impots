@@ -20,16 +20,35 @@ transports, de l'économie et du budget.
 
 IV.-Lorsqu'une entreprise non établie en France est redevable de la taxe mentionnée au I, elle est tenue de désigner un
 représentant fiscal établi en France qui s'engage à remplir les formalités incombant à cette entreprise et à acquitter la
-taxe à sa place ainsi que, le cas échéant, les pénalités qui s'y rapportent.
+taxe à sa place ainsi que, le cas échéant, les pénalités qui s'y rapportent. 
 
-V.-La taxe est déclarée et liquidée dans les   six mois de son exigibilité sur une déclaration dont le modèle est fixé par
-l'administration. Elle est acquittée lors du dépôt de cette déclaration. 
+V.-La taxe est déclarée et liquidée : 
+
+1° Pour les redevables de la taxe sur la valeur ajoutée, sur l'annexe à la déclaration mentionnée au 1 de l'article 287
+relative au mois ou au trimestre au cours duquel a été publié l'arrêté mentionné au III du présent article ; 
+
+2° Pour les personnes non redevables de la taxe sur la valeur ajoutée, sur l'annexe à la déclaration prévue au 1 du même
+article 287 déposée auprès du service chargé du recouvrement dont relève leur siège ou principal établissement au plus tard
+le 25 du mois suivant celui au cours duquel a été publié l'arrêté mentionné au III du présent article. 
+
+La taxe est acquittée lors du dépôt de la déclaration. 
 
 VI.-La taxe est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties et privilèges que la
 taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même
 taxe.
 
+**Nota:**
+
+Conformément à l'article 20 XXIII de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les
+dispositions de l'article 302 bis ZC, dans leur rédaction issue de la présente loi, s'appliquent aux déclarations souscrites
+à compter du 1er février 2014.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 65 (V)
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 20 (V)
 
 	**Cité par**:
 
@@ -38,13 +57,9 @@ taxe.
 	  - Code général des impôts, CGI. - art. 235 ter ZF (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 quaterdecies B (V)
 
-	**Modifié par**:
-
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 65 (VD)
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 50
-
 	**Cite**:
 
+	  - Code général des impôts, CGI. - art. 287 (VD)
 	  - Code des transports - art. L1241-1
 	  - Code des transports - art. L2121-12
 	  - Code des transports - art. L2121-3
