@@ -63,16 +63,24 @@ versement ou en cas de versement insuffisant à la date précitée, le montant d
 compétent selon les modalités définies au III de l'article 1678 quinquies, majoré de l'insuffisance constatée. 
 
 Le produit de la contribution supplémentaire à l'apprentissage est affecté aux centres de formation d'apprentis et aux
-sections d'apprentissage, selon les modalités définies en application du II de l'article L. 6241-2 du code du travail. 
+sections d'apprentissage, selon les modalités définies en application du II de l'article L. 6241-2 et de l'article L. 6241-3
+du code du travail. 
 
 Les organismes mentionnés au premier alinéa reversent les sommes perçues en application du même premier alinéa au plus tard
-le 31 mai de la même année.
+le 15 juillet de la même année.
 
 **Nota:**
 
 Dans sa décision n° 2013-371 QPC du 7 mars 2014 (NOR CSCX1405774S), le Conseil constitutionnel a déclaré le premier alinéa du
 paragraphe V de l'article 230 H du code général des impôts conforme à la Constitution, sous la réserve énoncée au considérant
 9.
+
+Loi n° 2014-891 du 8 août 2014, art. 8 VI, ces dispositions s'appliquent aux impositions dues au titre des rémunérations
+versées à compter du 1er janvier 2014. 
+
+Toutefois, les exonérations attachées aux dépenses libératoires engagées, au titre de ces mêmes impositions, du 1er janvier
+2014 jusqu'à la publication de la présente loi sont maintenues sur le fondement des dispositions en vigueur à la date du
+versement effectif de ces dépenses.
 
 **Liens relatifs à cet article**
 
@@ -82,23 +90,20 @@ paragraphe V de l'article 230 H du code général des impôts conforme à la Con
 	  - Arrêté du 8 décembre 2015 - art. 4 (V)
 	  - Code du travail - art. L6242-3-1 (V)
 	  - Code du travail - art. L6243-1-2 (V)
+	  - Code du travail - art. L6252-4-1 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 1
+	  - Loi n°2014-891 du 8 août 2014 - art. 8
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1599 ter A (V)
-	  - Code général des impôts, CGI. - art. 1599 ter B (V)
-	  - Code général des impôts, CGI. - art. 1599 ter E (V)
-	  - Code général des impôts, CGI. - art. 1599 ter K (V)
-	  - Code général des impôts, CGI. - art. 1678 quinquies (V)
-	  - Code du travail - art. L1111-2 (V)
-	  - Code du travail - art. L1251-1 (V)
-	  - Code du travail - art. L1251-2 (V)
-	  - Code du travail - art. L6242-1 (V)
-
-	**Anciens textes**:
-
-	  - Code général des impôts, CGI. - art. 230 H (T)
+	  - Code général des impôts, CGI. - art. 1599 ter A
+	  - Code général des impôts, CGI. - art. 1599 ter B
+	  - Code général des impôts, CGI. - art. 1599 ter E
+	  - Code général des impôts, CGI. - art. 1599 ter K
+	  - Code général des impôts, CGI. - art. 1678 quinquies
+	  - Code du travail - art. L1111-2
+	  - Code du travail - art. L1251-1
+	  - Code du travail - art. L1251-2
+	  - Code du travail - art. L6242-1
