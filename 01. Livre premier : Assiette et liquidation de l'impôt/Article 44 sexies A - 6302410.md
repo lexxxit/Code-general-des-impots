@@ -37,8 +37,9 @@ suivant celui de son début d'activité, ou dans les neuf premiers mois de l'exe
 laquelle l'option est exercée. L'option est irrévocable dès lors qu'à la clôture de l'exercice ou de la période au titre
 duquel ou de laquelle elle a été exercée les conditions fixées à l'article 44 sexies-0 A sont remplies. 
 
-IV.-Le bénéfice de l'exonération prévue au I est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission du 15
-décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+IV.-Le bénéfice de l'exonération prévue au I est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18
+décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux
+aides de minimis.
 
 **Nota:**
 
@@ -48,7 +49,7 @@ Décret n° 2014-549 du 26 mai 2014 article 1 : A la première phrase du III, la
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 1
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 53
 
 	**Cité par**:
 
@@ -68,9 +69,9 @@ Décret n° 2014-549 du 26 mai 2014 article 1 : A la première phrase du III, la
 
 	  - Code général des impôts, CGI. - art. 102 ter
 	  - Code général des impôts, CGI. - art. 103
-	  - Code général des impôts, CGI. - art. 44 septies (V)
+	  - Code général des impôts, CGI. - art. 44 septies
 	  - Code général des impôts, CGI. - art. 44 sexies
-	  - Code général des impôts, CGI. - art. 44 sexies-0 A (M)
+	  - Code général des impôts, CGI. - art. 44 sexies-0 A
 	  - Code général des impôts, CGI. - art. 50-0
 	  - Code général des impôts, CGI. - art. 53 A
 	  - Code général des impôts, CGI. - art. 8
