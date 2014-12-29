@@ -27,8 +27,7 @@ e) Comme échantillons pour des analyses ou des tests de production nécessaires
 
 f) A des fins de recherche ou d'analyse scientifique ; 
 
-g) A des fins médicales ou pharmaceutiques dans les hôpitaux et établissements similaires ainsi que dans les pharmacieset,
-dans la limite d'un contingent annuel fixé par l'administration, l'alcool pur acquis par les pharmaciens d'officine ; 
+g) A des fins médicales ou pharmaceutiques dans les hôpitaux et établissements similaires ainsi que dans les pharmacies ; 
 
 h) Dans des procédés de fabrication pour autant que le produit fini ne contienne pas d'alcool ; 
 
@@ -69,6 +68,7 @@ visés aux articles 575 et 575 A du code général des impôts.
 	**Modifié par**:
 
 	  - Loi n°2012-354 du 14 mars 2012 - art. 27 (Ab)
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 56
 
 	**Cité par**:
 
@@ -89,7 +89,7 @@ visés aux articles 575 et 575 A du code général des impôts.
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 302 B (V)
-	  - Code général des impôts, CGI. - art. 575 (V)
+	  - Code général des impôts, CGI. - art. 302 B
+	  - Code général des impôts, CGI. - art. 575 (M)
 	  - Code général des impôts, CGI. - art. 575 E bis (V)
 	  - Code de la santé publique - art. L5111-1

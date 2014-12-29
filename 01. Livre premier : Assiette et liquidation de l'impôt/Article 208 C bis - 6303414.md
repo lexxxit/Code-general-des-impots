@@ -13,25 +13,22 @@ l'actif net réel apporté apprécié à la date d'effet de l'opération.
 
 II. - En cas d'absorption d'une société ayant opté pour le régime prévu au II de l'article 208 C par une société qui a
 également opté pour ce régime, la plus-value mentionnée au deuxième alinéa du 1 de l'article 210 A est exonérée sous
-condition de distribution de 50 % de son montant avant la fin du deuxième exercice qui suit celle de sa réalisation.
+condition de distribution de 60 % de son montant avant la fin du deuxième exercice qui suit celui de sa réalisation.
 
 Lorsque la société bénéficiaire des apports est soumise au régime prévu au II de l'article 208 C, la réintégration, prescrite
 au d du 3 de l'article 210 A, afférente aux immeubles visés au I de l'article 208 C constitue un élément du résultat soumis
 aux obligations de distribution mentionnées au deuxième alinéa du II de cet article.
 
+**Nota:**
+
+Conformément au II de l'article 73 de loi n° 2014-1655 du 29 décembre 2014 de finances rectificative pour 2014, ces
+dispositions s'appliquent aux exercices clos à compter du 31 décembre 2014.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 210 A, 210 B, 210 B bis, 208 C
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
 
 	**Modifié par**:
 
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 128 (V) JORF 31 décembre 2006
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 73
 
 	**Cité par**:
 

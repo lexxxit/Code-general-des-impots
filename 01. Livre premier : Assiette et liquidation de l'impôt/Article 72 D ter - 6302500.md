@@ -1,7 +1,9 @@
 # Article 72 D ter
 
 I.-Dans la limite du bénéfice, les déductions prévues aux articles 72 D et 72 D bis sont plafonnées à un montant global fixé,
-par exercice de douze mois, à 27 000 €. 
+par exercice de douze mois, à 27 000 €. Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté pour le
+régime fiscal des sociétés de capitaux, ce montant est multiplié par le nombre des associés exploitants, dans la limite de
+quatre.
 
 Lorsque le résultat de l'exercice est supérieur d'au moins 20 % à la moyenne des résultats des trois exercices précédents,
 l'exploitant peut pratiquer un complément de déduction pour aléas, dans les conditions prévues à l'article 72 D bis et dans
@@ -13,22 +15,30 @@ civile, la conversion en équivalent temps plein résulte, pour chaque salarié,
 pour lesquelles une dépense a été engagée au cours de l'exercice et 1 607 heures. Cette conversion n'est pas effectuée si ce
 rapport est supérieur à un. Le total obtenu est arrondi à l'unité supérieure. 
 
-Les déductions prévues aux articles 72 D et 72 D bis, majorées, le cas échéant, du complément de déduction pour aléas, sont
-plafonnées à la différence positive entre la somme de 150 000 € et le montant des déductions pratiquées et non encore
-rapportées au résultat, majoré, le cas échéant, des intérêts capitalisés en application du deuxième alinéa du 1 du I de
-l'article 72 D bis. 
+Pour les exploitants individuels, les déductions prévues aux articles 72 D et 72 D bis, majorées, le cas échéant, du
+complément de déduction pour aléas, sont plafonnées à la différence positive entre la somme de 150 000 € et le montant des
+déductions pratiquées et non encore rapportées au résultat, majoré, le cas échéant, des intérêts capitalisés en application
+du deuxième alinéa du 1 du I de l'article 72 D bis. 
 
 Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté pour le régime fiscal des sociétés de capitaux,
-les plafonds sont multipliés par le nombre des associés exploitants dans la limite de trois. 
+les déductions prévues aux articles 72 D et 72 D bis, majorées, le cas échéant, du complément de déduction pour aléas, sont
+plafonnées à la différence positive entre la somme de 150 000 €, multipliée par le nombre des associés exploitants, dans la
+limite de quatre, et le montant des déductions pratiquées et non encore rapportées au résultat, majoré, le cas échéant, des
+intérêts capitalisés en application du deuxième alinéa du 1 du I du même article 72 D bis. 
 
 II.-Les déductions mentionnées au premier alinéa du I sont pratiquées après application des abattements prévus aux articles
 44 quaterdecies et 73 B.
+
+**Nota:**
+
+Conformément au II l'article 70 de la loi n° 2014-1655 du 29 décembre 2014 de finance rectificative pour 2014, ces
+dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 1
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 70
 
 	**Cite**:
 

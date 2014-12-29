@@ -3,7 +3,7 @@
 I.-En cas de rattachement volontaire d'une commune à un établissement public de coopération intercommunale soumis à l'article
 1609 nonies C ou à la suite d'une transformation dans les conditions prévues à l'article L. 5211-41-1 du code général des
 collectivités territoriales, le taux de la cotisation foncière des entreprises de la commune rattachée est rapproché du taux
-de cotisation foncière des entreprises de l'établissement public dans les conditions fixées aux a et b ci-après : 
+de cotisation foncière des entreprises de l'établissement public dans les conditions suivantes : 
 
 a) L'écart constaté, l'année au cours de laquelle le rattachement est décidé, entre ces deux taux est réduit chaque année par
 parts égales, jusqu'à application d'un taux unique, dans les proportions définies au second alinéa du b du 1° du III de
@@ -11,11 +11,7 @@ l'article 1609 nonies C et dépendant du rapport entre le moins élevé de ces d
 
 Le c du 1° du III de l'article 1609 nonies C est applicable ; 
 
-b) Lorsque, en application du 1° du III de l'article 1609 nonies C, des taux différents du taux de l'établissement public de
-coopération intercommunale sont appliqués dans les communes déjà membres de cet établissement, l'écart de taux visé au a peut
-être réduit chaque année par parts égales, en proportion du nombre d'années restant à courir jusqu'à l'application d'un taux
-unique dans les communes déjà membres ; l'application de cette disposition ne peut toutefois avoir pour effet de supprimer
-cet écart dans un délai plus court que celui résultant des dispositions du a. 
+b) (Abrogé). 
 
 II. Pour l'application des dispositions du I, le taux de cotisation foncière des entreprises de la commune doit, lorsque
 celle-ci appartient également à une communauté urbaine, ou à une communauté de communes, être majoré du taux de cotisation
@@ -104,11 +100,11 @@ applicable en 2010 dans la commune.
 	  - Loi n°2002-1575 du 30 décembre 2002 - art. 29 (V)
 	  - Code général des impôts, CGI. - art. 1609 nonies C (V)
 	  - Code général des impôts, CGI. - art. 1609 quinquies C (V)
-	  - Code général des impôts, CGI. - art. 1640 C (M)
+	  - Code général des impôts, CGI. - art. 1640 C (V)
 
 	**Modifié par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 41
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 34 (V)
 
 	**Cite**:
 

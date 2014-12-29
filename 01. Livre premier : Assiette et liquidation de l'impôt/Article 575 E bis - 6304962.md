@@ -4,11 +4,10 @@ I.-Les tabacs manufacturés vendus au détail ou importés dans les département
 consommation. 
 
 Ce droit de consommation, par dérogation aux taux mentionnés à l'article 575 A et dans la limite d'un contingent de 1 200
-tonnes par an pour les cigarettes, est déterminé conformément aux deuxième à sixième alinéas de l'article 575. La classe de
-prix de référence est calculée sur la base des mises à la consommation réalisées en Corse. 
+tonnes par an pour les cigarettes, est déterminé conformément aux deuxième à sixième alinéas de l'article 575. 
 
-Pour les différents groupes de produits, le taux normal et le taux spécifique applicables dans les départements de Corse sont
-fixés conformément au tableau ci-après : 
+Pour les différents groupes de produits, la part spécifique pour mille unités ou mille grammes ainsi que le taux
+proportionnel applicables dans les départements de Corse sont fixés conformément au tableau ci-après : 
 
 (En pourcentage) 
 
@@ -22,12 +21,16 @@ GROUPE DE PRODUITS
 </td>
       <td>
 
-TAUX NORMAL 
+TAUX PROPORTIONNEL
+
+(en %)
 
 </td>
       <td>
 
-TAUX SPÉCIFIQUE 
+PART SPÉCIFIQUE 
+
+(en euros)
 
 </td>
     </tr>
@@ -39,10 +42,10 @@ Cigarettes
 </td>
       <td align="center">
 
-50 </td>
+40 </td>
       <td align="center">
 
-10 </td>
+25</td>
     </tr>
     <tr>
       <td align="center">
@@ -52,10 +55,10 @@ Cigares et cigarillos
 </td>
       <td align="center">
 
-15 </td>
+10 </td>
       <td align="center">
 
-5 </td>
+18,5</td>
     </tr>
     <tr>
       <td align="center">
@@ -65,10 +68,10 @@ Tabacs fine coupe destinés à rouler les cigarettes
 </td>
       <td align="center">
 
-30 </td>
+15 </td>
       <td align="center">
 
-15 </td>
+22,5 </td>
     </tr>
     <tr>
       <td align="center">
@@ -170,10 +173,10 @@ Loi n° 2012-1510 du 29 décembre 2012, article 54 III : Ces dispositions entren
 
 	**Modifié par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 54 (V)
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 97
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 302 D
-	  - Code général des impôts, CGI. - art. 575 A (V)
+	  - Code général des impôts, CGI. - art. 575 A
 	  - Code général des impôts, CGI. - art. 575 C
