@@ -5,9 +5,8 @@ calculée, si le bien cédé a figuré pendant une partie du temps écoulé depu
 contribuable, suivant les règles des articles 150 U à 150 VH, pour la partie correspondant à cette période. Cette partie est
 exonérée s'il s'agit d'une terre agricole qui n'entre pas dans le champ d'application du A de l'article 1594-0 G et qui est
 exploitée par un agriculteur ayant exercé son activité à titre principal pendant au moins cinq ans. Les terrains expropriés
-qui ne remplissent pas les conditions mentionnées aux a et b du 1° du II de l'article L. 13-15 du code de l'expropriation
-pour cause d'utilité publique ne sont pas considérés comme des biens entrant dans le champ d'application du A de l'article
-1594-0 G. 
+qui ne remplissent pas les conditions mentionnées à l'article L. 322-3 du code de l'expropriation pour cause d'utilité
+publique ne sont pas considérés comme des biens entrant dans le champ d'application du A de l'article 1594-0 G. 
 
 II.-La plus-value réalisée lors de la cession d'actions ou de parts sociales louées dans les conditions des articles L. 239-1
 à L. 239-5 du code de commerce, ou celle réalisée dans le cadre d'une activité agricole, artisanale, commerciale,
@@ -36,7 +35,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent II.
 
 	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 1
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 3 (VD)
 
 	**Cite**:
 
@@ -45,4 +44,4 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent II.
 	  - Code général des impôts, CGI. - art. 150-0 A
 	  - Code général des impôts, CGI. - art. 151 nonies (V)
 	  - Code général des impôts, CGI. - art. 1594-0 G
-	  - Code de l'expropriation pour cause d'utilité publique - art. L13-15
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L322-3 (VD)

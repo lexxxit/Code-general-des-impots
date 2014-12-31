@@ -1,7 +1,7 @@
 # Article 199 unvicies
 
 1. Les contribuables domiciliés en France au sens de l'article 4 B bénéficient d'une réduction d'impôt au titre des
-souscriptions en numéraire, réalisées entre le 1er janvier 2006 et le 31 décembre 2014, au capital initial ou aux
+souscriptions en numéraire, réalisées entre le 1er janvier 2006 et le 31 décembre 2017, au capital initial ou aux
 augmentations de capital des sociétés définies à l'article 238 bis HE. 
 
 Le bénéfice de la réduction d'impôt est subordonné à l'agrément du capital de la société par le ministre chargé du budget. 
@@ -22,10 +22,6 @@ solidarité soumis à imposition commune.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2012-547 du 23 avril 2012 - art. 1
-
 	**Cité par**:
 
 	  - Loi n°2014-1654 du 29 décembre 2014 - art. 72
@@ -38,6 +34,10 @@ solidarité soumis à imposition commune.
 	  - Code général des impôts, CGI. - art. 885-0 V bis (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies E (V)
 	  - Code monétaire et financier - art. L221-31 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2014-1654 du 29 décembre 2014 - art. 72
 
 	**Cite**:
 

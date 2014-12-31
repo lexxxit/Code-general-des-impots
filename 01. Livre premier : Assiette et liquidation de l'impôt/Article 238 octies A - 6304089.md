@@ -2,7 +2,7 @@
 
 I.-Les plus-values réalisées par les entreprises relevant de l'impôt sur le revenu au titre des bénéfices industriels et
 commerciaux, des bénéfices non commerciaux, des bénéfices agricoles ou de l'impôt sur les sociétés à l'occasion de la cession
-d'un droit de surélévation effectuée au plus tard le 31 décembre 2014 en vue de la réalisation de locaux destinés à
+d'un droit de surélévation effectuée au plus tard le 31 décembre 2017 en vue de la réalisation de locaux destinés à
 l'habitation sont exonérées. 
 
 II.-L'application du I est subordonnée à la condition que la personne cessionnaire s'engage à achever les locaux destinés à
@@ -24,19 +24,14 @@ entraîne l'application de l'amende prévue pour le cessionnaire.
 
 **Nota:**
 
-Loi n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 article 42 II : le présent article s'applique aux
-cessions à titre onéreux réalisées du 1er janvier 2012 au 31 décembre 2014.
+Aux termes du II de l'article 10 de la loi n° 2014-1654 du 29 décembre 2014, ces dispositions s'appliquent aux cessions à
+titre onéreux réalisées entre le 1er janvier 2012 et le 31 décembre 2017.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°92-836 du 27 août 1992
-	  - Décret n°97-661 du 28 mai 1997
-
 	**Modifié par**:
 
-	  - Décret n°2012-653 du 4 mai 2012 - art. 1
+	  - Loi n°2014-1654 du 29 décembre 2014 - art. 10 (V)
 
 	**Cité par**:
 

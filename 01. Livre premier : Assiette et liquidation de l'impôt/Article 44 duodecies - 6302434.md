@@ -1,6 +1,6 @@
 # Article 44 duodecies
 
-I.-Les contribuables qui créent des activités entre le 1er janvier 2007 et le 31 décembre 2014 dans les bassins d'emploi à
+I.-Les contribuables qui créent des activités entre le 1er janvier 2007 et le 31 décembre 2017 dans les bassins d'emploi à
 redynamiser définis au 3 bis de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
 développement du territoire sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices provenant
 des activités implantées dans le bassin d'emploi et réalisés jusqu'au terme du quatre-vingt-troisième mois suivant le début
@@ -61,19 +61,19 @@ Par exception au sixième alinéa, le contribuable exerçant une activité de lo
 bénéfices provenant des seuls immeubles situés dans un bassin d'emploi à redynamiser. Cette disposition s'applique quel que
 soit le lieu d'établissement du bailleur. 
 
-Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006
-concernant l'application des articles 87 et 88 du traité aux aides de minimis. Toutefois, sur option des entreprises qui
-procèdent aux opérations mentionnées au I dans une zone d'aide à finalité régionale, le bénéfice de l'exonération est
-subordonné au respect de l'article 13 du règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines
-catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général
-d'exemption par catégorie). 
+Le bénéfice de l'exonération est subordonné au respect du règlement UE) n° 1407/2013 de la Commission, du 18 décembre 2013,
+relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+Toutefois, sur option des entreprises qui procèdent aux opérations mentionnées au I dans une zone d'aide à finalité
+régionale, le bénéfice de l'exonération est subordonné au respect de l'article 14 du règlement (UE) n° 651/2014 de la
+Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des
+articles 107 et 108 du traité. 
 
 L'option mentionnée au huitième alinéa est irrévocable pour la durée de l'exonération. Elle doit être exercée dans les six
 mois suivant les opérations mentionnées au I. 
 
-III.-Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal visé à l'article 223 A, le bénéfice
-exonéré est celui de cette société déterminé dans les conditions prévues au II, dans la limite du résultat d'ensemble du
-groupe. 
+III.-Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal visé à l'article 223 A ou à l'article
+223 A bis, le bénéfice exonéré est celui de cette société déterminé dans les conditions prévues au II, dans la limite du
+résultat d'ensemble du groupe. 
 
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies,
 44 octies A ou 44 quindecies et du régime prévu au présent article, le contribuable peut opter pour ce dernier régime dans
@@ -93,15 +93,13 @@ V.-(disjoint)
 	  - Code général des impôts, CGI. - art. 1467
 	  - Code général des impôts, CGI. - art. 223 A
 	  - Code général des impôts, CGI. - art. 34
-	  - Code général des impôts, CGI. - art. 44 octies (VT)
 	  - Code général des impôts, CGI. - art. 44 octies A
-	  - Code général des impôts, CGI. - art. 44 septies (V)
-	  - Code général des impôts, CGI. - art. 44 sexies (V)
+	  - Code général des impôts, CGI. - art. 44 sexies
 	  - Code général des impôts, CGI. - art. 50-0
 	  - Code général des impôts, CGI. - art. 53 A
 	  - Code général des impôts, CGI. - art. 63
 	  - Code général des impôts, CGI. - art. 92
-	  - Code général des impôts, CGI. - art. 96 (M)
+	  - Code général des impôts, CGI. - art. 96
 	  - Code monétaire et financier - art. L511-1
 
 	**Cité par**:
@@ -123,4 +121,5 @@ V.-(disjoint)
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 1
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 66

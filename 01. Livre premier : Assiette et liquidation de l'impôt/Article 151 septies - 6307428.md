@@ -1,7 +1,7 @@
 # Article 151 septies
 
 I.-Les dispositions du présent article s'appliquent aux activités commerciales, industrielles, artisanales, libérales ou
-agricoles, exercées à titre professionnel.
+agricoles, exercées à titre professionnel. 
 
 II.-Les plus-values de cession soumises au régime des articles 39 duodecies à 39 quindecies, à l'exception de celles
 afférentes aux biens entrant dans le champ d'application du A de l'article 1594-0 G, et réalisées dans le cadre d'une des
@@ -58,14 +58,14 @@ sociétés et groupements.
 Pour l'application des troisième et quatrième alinéas, la globalisation des recettes est effectuée par catégorie de revenus. 
 
 Lorsque les plus-values sont réalisées par une société ou un groupement mentionnés au quatrième alinéa, le montant des
-recettes annuelles s'apprécie au niveau de la société ou du groupement.
+recettes annuelles s'apprécie au niveau de la société ou du groupement. 
 
 V.-Pour les plus-values réalisées à la suite d'une expropriation ou de la perception d'indemnités d'assurance, la condition
 d'exercice de l'activité pendant au moins cinq ans n'est pas requise. 
 
-Les terrains expropriés qui ne remplissent pas les conditions mentionnées aux a et b du 1° du II de l'article L. 13-15 du
-code de l'expropriation pour cause d'utilité publique ne sont pas considérés comme des biens entrant dans le champ
-d'application du I du A de l'article 1594-0 G du présent code. 
+Les terrains expropriés qui ne remplissent pas les conditions mentionnées à l'article L. 322-3 du code de l'expropriation
+pour cause d'utilité publique ne sont pas considérés comme des biens entrant dans le champ d'application du I du A de
+l'article 1594-0 G du présent code. 
 
 VI.-Les plus-values mentionnées aux II et III s'entendent des plus-values nettes déterminées après compensation avec les
 moins-values de même nature. 
@@ -81,7 +81,7 @@ fiduciaire effectués dans le cadre d'une opération de fiducie définie à l'ar
 
 	**Modifié par**:
 
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 21
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 3 (VD)
 
 	**Cité par**:
 
@@ -103,7 +103,8 @@ fiduciaire effectués dans le cadre d'une opération de fiducie définie à l'ar
 
 	**Cite**:
 
+	  - Code général des impôts, CGI. - art. 150 U (V)
 	  - Code général des impôts, CGI. - art. 1594-0 G
 	  - Code général des impôts, CGI. - art. 39 duodecies
 	  - Code civil - art. 2011
-	  - Code de l'expropriation pour cause d'utilité publique - art. L13-15
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L322-3 (VD)

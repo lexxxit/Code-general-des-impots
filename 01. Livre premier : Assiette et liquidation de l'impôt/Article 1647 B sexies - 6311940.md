@@ -30,11 +30,6 @@ l'année d'imposition. La cotisation de chaque établissement est majorée du mo
 additionnelles à la cotisation foncière des entreprises prévues aux articles 1607 bis, 
 1607 ter et 1609 B à 1609 D, calculées dans les mêmes conditions. 
 
-En cas de transmission universelle du patrimoine mentionnée à l'article 1844-5 du code civil, de cession ou de cessation
-d'entreprise au cours de l'année d'imposition, le montant de la cotisation foncière des entreprises de l'entreprise dissoute
-est ajusté en fonction du rapport entre la durée de la période de référence mentionnée à l'article 1586 quinquies du présent
-code et l'année civile. 
-
 III. ― Le dégrèvement s'impute sur la cotisation foncière des entreprises. 
 
 IV. ― Le dégrèvement ne peut avoir pour effet de ramener la contribution économique territoriale à un montant inférieur à
@@ -46,6 +41,12 @@ les règles de procédure applicables en matière de cotisation foncière des en
 
 VI. ― Les dégrèvements résultant de l'application du présent article sont ordonnancés dans les six mois suivant celui du
 dépôt de la demande.
+
+**Nota:**
+
+Dans sa décision n° 2014-413 QPC du 19 septembre 2014 (NOR : CSCX1422266S), le Conseil constitutionnel  a déclaré le dernier
+alinéa du paragraphe II de l'article 1647 B sexies du code général des impôts contraire à la Constitution. La déclaration
+d'inconstitutionnalité prend effet dans les conditions prévues au considérant 8.
 
 **Liens relatifs à cet article**
 
@@ -70,7 +71,8 @@ dépôt de la demande.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 145
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+	  - DÉCISION n°2014-413 QPC du 19 septembre 2014 - art. 1, v. init.
 
 	**Cite**:
 
@@ -84,4 +86,3 @@ dépôt de la demande.
 	  - Code général des impôts, CGI. - art. 1647 C septies
 	  - Code général des impôts, CGI. - art. 1647 D
 	  - Code général des impôts, CGI. - art. 50-0
-	  - Code civil - art. 1844-5
