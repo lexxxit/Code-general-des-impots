@@ -44,22 +44,16 @@ l'exploitant est identique pour les deux aérodromes, une partie du produit de l
 aérodromes concernés peut chaque année être affectée par l'exploitant au financement des aides aux riverains de l'autre
 aérodrome. 
 
-Le tarif de la taxe applicable sur chaque aérodrome est compris entre les valeurs inférieure et supérieure du groupe dont il
-relève, en fonction du besoin de financement sur chaque aérodrome, tel qu'il résulte notamment des aides à accorder en
-application de la réglementation en vigueur, de l'évolution prévisible des plans de gêne sonore et de celle des coûts
-d'insonorisation. 
+Le tarif de la taxe applicable sur chaque aérodrome est compris entre la valeur inférieure et la valeur supérieure du groupe
+dont il relève. Il est fonction du besoin de financement sur chaque aérodrome, tel qu'il résulte notamment des aides à
+accorder en application de la réglementation en vigueur, de l'évolution prévisible des plans de gêne sonore et de celle des
+coûts d'insonorisation.
 
-1er groupe : aérodromes de Paris-Orly, Toulouse-Blagnac : de 30 € à 68 € ; 
+1er groupe : aérodromes de Paris-Charles-de-Gaulle, Paris-Orly et Paris-Le Bourget : de 20 à 40 € ;
 
-2e groupe : aérodromes de Paris-Charles-de-Gaulle, Paris-Le Bourget et de Nantes-Atlantique : de 10 € à 22 € ; 
+2e groupe : aérodromes de Nantes-Atlantique et Toulouse-Blagnac : de 10 à 20 € ;
 
-3e groupe : aérodromes de Beauvais-Tillé, Bordeaux-Mérignac, Lyon-Saint-Exupéry, Marseille-Provence, Nice-Côte d'Azur : de 4
-€ à 8 €. 
-
-4e groupe : les autres aérodromes qui dépassent le seuil fixé au I : de 0,5 € à 3 €. 
-
-Un arrêté, pris par les ministres chargés du budget, de l'aviation civile et de l'environnement, fixe le tarif de la taxe
-applicable pour chaque aérodrome. 
+3e groupe : les autres aérodromes qui dépassent le seuil fixé au I : de 0 à 10 €.
 
 V.-Les redevables déclarent par mois, ou par trimestre civil si le montant des sommes dues pour le premier mois du trimestre
 est inférieur à 1 000 €, les éléments nécessaires à l'établissement de la taxe, sur un imprimé fourni par l'administration de
@@ -150,13 +144,12 @@ jugées comme en matière de taxes sur le chiffre d'affaires.
 
 	**Modifié par**:
 
-	  - Loi n°2013-1279 du 29 décembre 2013 - art. 65
-	  - Loi n°2013-1278 du 29 décembre 2013 - art. 47
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 16
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1727
 	  - Code général des impôts, CGI. - art. 1728
 	  - Code général des impôts, CGI. - art. 302 bis K
-	  - Livre des procédures fiscales - art. L176 (V)
+	  - Livre des procédures fiscales - art. L176
 	  - Code de l'environnement - art. L571-16
