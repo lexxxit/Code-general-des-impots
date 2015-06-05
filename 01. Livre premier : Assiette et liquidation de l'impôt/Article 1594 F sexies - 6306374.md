@@ -23,7 +23,7 @@ Les dispositions de l'article 1594 E sont applicables.
 
 **Nota:**
 
-
+Modifications effectuées en conséquence des articles 1er-2° et 51 de la loi n° 2013-403 du 17 mai 2013.
 
 **Liens relatifs à cet article**
 
@@ -37,4 +37,4 @@ Les dispositions de l'article 1594 E sont applicables.
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - Décret n°2015-608 du 3 juin 2015 - art. 1
