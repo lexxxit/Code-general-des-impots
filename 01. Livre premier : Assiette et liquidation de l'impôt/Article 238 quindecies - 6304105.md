@@ -41,10 +41,10 @@ entreprises ne répondant pas aux conditions du précédent alinéa de manière 
 détermination de ce pourcentage, les participations de sociétés de capital-risque, des fonds communs de placement à risques,
 des fonds professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction
 antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des fonds
-professionnels de capital investissement, des sociétés de développement régional, des sociétés financières d'innovation et
-des sociétés unipersonnelles d'investissement à risque ne sont pas prises en compte à la condition qu'il n'existe pas de lien
-de dépendance au sens du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds. Cette condition
-s'apprécie de manière continue au cours de l'exercice ; 
+professionnels de capital investissement, des sociétés de libre partenariat, des sociétés de développement régional, des
+sociétés financières d'innovation et des sociétés unipersonnelles d'investissement à risque ne sont pas prises en compte à la
+condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la société en cause et ces dernières
+sociétés ou ces fonds. Cette condition s'apprécie de manière continue au cours de l'exercice ; 
 
 3 En cas de transmission à titre onéreux, le cédant ou, s'il s'agit d'une société, l'un de ses associés qui détient
 directement ou indirectement au moins 50 % des droits de vote ou des droits dans les bénéfices sociaux ou y exerce la
@@ -111,7 +111,7 @@ donnée en location servant d'assiette aux droits d'enregistrement mentionnés a
 
 VIII.-L'option pour le bénéfice du régime défini au présent article est exclusive de celui des régimes prévus au I de
 l'article 41, au I ter de l'article 93 quater, aux articles 151 septies, 151 octies et 151 octies A, au II de l'article 151
-nonies et aux articles 210 A à 210 C et 210 E.
+nonies et aux articles 210 A à 210 C et 210 E. 
 
 IX.-Les dispositions du présent article s'appliquent aux transmissions réalisées à compter du 1er janvier 2006.
 
@@ -125,19 +125,20 @@ IX.-Les dispositions du présent article s'appliquent aux transmissions réalis�
 
 	  - Ordonnance n°2013-676 du 25 juillet 2013
 	  - Code général des impôts, CGI. - art. 151 nonies (V)
-	  - Code général des impôts, CGI. - art. 151 septies (V)
-	  - Code général des impôts, CGI. - art. 1594-0 G (V)
-	  - Code général des impôts, CGI. - art. 210 A (V)
-	  - Code général des impôts, CGI. - art. 210 E (V)
+	  - Code général des impôts, CGI. - art. 151 septies
+	  - Code général des impôts, CGI. - art. 1594-0 G
+	  - Code général des impôts, CGI. - art. 210 A
+	  - Code général des impôts, CGI. - art. 210 E
+	  - Code général des impôts, CGI. - art. 39 duodecies (V)
 	  - Code général des impôts, CGI. - art. 719 (V)
-	  - Code général des impôts, CGI. - art. 724 (V)
-	  - Code général des impôts, CGI. - art. 93 quater (V)
+	  - Code général des impôts, CGI. - art. 724
+	  - Code général des impôts, CGI. - art. 93 quater
 	  - Code monétaire et financier - art. L214-37
 	  - Code monétaire et financier - art. L313-7
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
+	  - Loi n°2015-990 du 6 août 2015 - art. 145
 
 	**Cité par**:
 

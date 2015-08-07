@@ -16,9 +16,9 @@ conditions dont le capital est détenu, pour 75 % au moins, par des personnes ph
 pourcentage, les participations des sociétés de capital-risque, des fonds communs de placement à risques, des fonds
 professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à
 l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des fonds professionnels de
-capital investissement, des sociétés de développement régional et des sociétés financières d'innovation ne sont pas prises en
-compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la société en cause et ces
-dernières sociétés ou ces fonds. 
+capital investissement, des sociétés de libre partenariat, des sociétés de développement régional et des sociétés financières
+d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article
+39 entre la société en cause et ces dernières sociétés ou ces fonds. 
 
 II.-Pour les entreprises placées sous le régime prévu à l'article 223 A ou à l'article 223 A bis, la contribution est due par
 la société mère. Elle est assise sur l'impôt sur les sociétés afférent au résultat d'ensemble et à la plus-value nette
@@ -51,12 +51,13 @@ VI.-Les modalités d'application du présent article sont fixées par décret.
 
 	**Modifié par**:
 
-	  - Loi n°2014-891 du 8 août 2014 - art. 20
+	  - Loi n°2015-990 du 6 août 2015 - art. 145
 
 	**Cite**:
 
+	  - Code général des impôts, CGI. - art. 208 (V)
 	  - Code général des impôts, CGI. - art. 208 C
-	  - Code général des impôts, CGI. - art. 219
+	  - Code général des impôts, CGI. - art. 219 (V)
 	  - Code général des impôts, CGI. - art. 220 quinquies
 	  - Code général des impôts, CGI. - art. 223 A
 	  - Code général des impôts, CGI. - art. 223 B

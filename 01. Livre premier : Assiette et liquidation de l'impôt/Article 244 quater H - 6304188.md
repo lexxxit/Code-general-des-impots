@@ -12,13 +12,13 @@ entièrement libéré et être détenu de manière continue, pour 75 % au moins,
 répondant aux mêmes conditions. Pour la détermination du pourcentage de 75 %, les participations des sociétés de capital-
 risque, des fonds communs de placement à risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du
 code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre
-juridique de la gestion d'actifs, des fonds professionnels de capital investissement, des sociétés de développement régional
-et des sociétés financières d'innovation ou des sociétés unipersonnelles d'investissement à risque ne sont pas prises en
-compte à la condition qu'il n'existe pas de lien de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39
-entre la société en cause et ces dernières sociétés ou ces fonds. Pour les sociétés membres d'un groupe au sens de l'article
-223 A ou de l'article 223 A bis, le chiffre d'affaires et l'effectif à prendre en compte s'entendent respectivement de la
-somme des chiffres d'affaires et de la somme des effectifs de chacune des sociétés membres de ce groupe. La condition tenant
-à la composition du capital doit être remplie par la société mère du groupe. 
+juridique de la gestion d'actifs, des fonds professionnels de capital investissement, des sociétés de libre partenariat, des
+sociétés de développement régional et des sociétés financières d'innovation ou des sociétés unipersonnelles d'investissement
+à risque ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens des deuxième à
+quatrième alinéas du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds. Pour les sociétés
+membres d'un groupe au sens de l'article 223 A ou de l'article 223 A bis, le chiffre d'affaires et l'effectif à prendre en
+compte s'entendent respectivement de la somme des chiffres d'affaires et de la somme des effectifs de chacune des sociétés
+membres de ce groupe. La condition tenant à la composition du capital doit être remplie par la société mère du groupe. 
 
 Le crédit d'impôt bénéficie également aux sociétés des professions libérales soumises à un statut législatif ou réglementaire
 ou dont le titre est protégé et aux sociétés de participations financières de professions libérales visées par la loi n°
@@ -96,7 +96,7 @@ Le crédit d'impôt ne peut être obtenu qu'une fois par l'entreprise.
 
 	**Modifié par**:
 
-	  - Loi n°2014-891 du 8 août 2014 - art. 20
+	  - Loi n°2015-990 du 6 août 2015 - art. 145
 
 	**Cité par**:
 
