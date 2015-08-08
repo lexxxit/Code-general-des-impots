@@ -3,8 +3,8 @@
 I. ― Dans les agglomérations de plus de 300 000 habitants dotées d'un plan de déplacements urbains approuvé prévoyant la
 réalisation d'un transport collectif en site propre, une tarification des déplacements effectués au moyen de véhicules
 terrestres à moteur, dénommée "péage urbain”, peut être instituée, à titre expérimental et à la demande de l'autorité
-organisatrice des transports urbains, pour limiter la circulation automobile et lutter contre la pollution et les nuisances
-environnementales.
+organisatrice de la mobilité au sens du titre III du livre II de la première partie du code des transports, pour limiter la
+circulation automobile et lutter contre la pollution et les nuisances environnementales.
 
 Le péage urbain peut être institué pour une durée de trois ans.
 
@@ -12,8 +12,8 @@ Il est applicable aux véhicules terrestres à moteur qui franchissent les limit
 des voies routières déterminées relevant de la compétence de la collectivité ou du groupement de collectivités concerné ou,
 le cas échéant, des autres autorités compétentes en matière de voirie et avec leur accord.
 
-Son montant est fixé par l'autorité organisatrice des transports urbains dans la limite d'un seuil défini par décret en
-Conseil d'Etat.
+Son montant est fixé par l'autorité organisatrice de la mobilité au sens du titre III du livre II de la première partie du
+code des transports  dans la limite d'un seuil défini par décret en Conseil d'Etat.
 
 Son produit est affecté à cette même autorité organisatrice des transports et sert à financer les actions mentionnées au plan
 de déplacements urbains.
@@ -33,6 +33,6 @@ son évaluation et le transmettent au ministre chargé des collectivités territ
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 65
+	  - Loi n°2015-991 du 7 août 2015 - art. 18 (V)
