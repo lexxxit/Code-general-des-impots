@@ -20,9 +20,9 @@ Ces dispositions s'appliquent aux transferts de biens réalisés à compter du 1
 II. ― Les opérations de transferts de biens, droits et obligations réalisées, à la valeur nette comptable, par un syndicat
 agricole reconnu par l'autorité administrative comme organisation de producteurs ou comité économique agricole au profit d'un
 organisme qui peut être reconnu par l'autorité administrative comme organisation de producteurs ou association
-d'organisations de producteurs conformément à l'article L. 551-1 du code rural et de la pêche maritime, et rendues
-nécessaires par la mise en œuvre de l'article 53 de la loi n° 2006-11 du 5 janvier 2006 précitée, ne donnent lieu à aucune
-imposition à l'impôt sur les sociétés. 
+d'organisations de producteurs conformément aux articles L. 551-1, L. 552-1 et L. 552-4 du code rural et de la pêche
+maritime, et rendues nécessaires par la mise en œuvre de l'article 53 de la loi n° 2006-11 du 5 janvier 2006 précitée, ne
+donnent lieu à aucune imposition à l'impôt sur les sociétés. 
 
 Pour la détermination de leurs résultats imposables, les bénéficiaires des transferts doivent se conformer aux dispositions
 prévues aux a, b, c et e du 3 de l'article 210 A à raison des biens, droits et obligations qui leur ont été transmis. Pour
@@ -40,14 +40,13 @@ Ces dispositions s'appliquent aux transferts de biens réalisés à compter du 7
 	  - Loi n°2006-11 du 5 janvier 2006 - art. 53
 	  - Loi n°2006-11 du 5 janvier 2006 - art. 73
 	  - Ordonnance n°2006-1547 du 7 décembre 2006
-	  - Code général des impôts, CGI. - art. 210 A (V)
-	  - Code rural - art. L551-1 (V)
-	  - Code rural - art. L642-17 (V)
+	  - Code général des impôts, CGI. - art. 210 A
+	  - Code rural - art. L551-1
+	  - Code rural - art. L642-17
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
-	  - Décret n°2011-645 du 9 juin 2011 - art. 1 (V)
+	  - ORDONNANCE n°2015-1248 du 7 octobre 2015 - art. 1
 
 	**Cité par**:
 
