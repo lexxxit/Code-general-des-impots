@@ -1,7 +1,7 @@
 # Article 44 quindecies
 
 I. ― Dans les zones de revitalisation rurale mentionnées à l'article 1465 A, les entreprises qui sont créées ou reprises
-entre le 1er janvier 2011 et le 31 décembre 2015, soumises de plein droit ou sur option à un régime réel d'imposition de
+entre le 1er janvier 2011 et le 31 décembre 2020, soumises de plein droit ou sur option à un régime réel d'imposition de
 leurs résultats et qui exercent une activité industrielle, commerciale, artisanale au sens de l'article 34 ou professionnelle
 au sens du 1 de l'article 92, sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices
 réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments d'actif, jusqu'au terme du cinquante-
@@ -20,10 +20,15 @@ en dehors de ces zones. Au-delà de 25 %, les bénéfices réalisés sont soumis
 sociétés dans les conditions de droit commun en proportion du chiffre d'affaires réalisé en dehors des zones déjà citées.
 Cette condition de chiffre d'affaires s'apprécie exercice par exercice ; 
 
-b) L'entreprise emploie moins de dix salariés bénéficiant d'un contrat de travail à durée indéterminée ou d'une durée d'au
+b) L'entreprise emploie moins de onze salariés bénéficiant d'un contrat de travail à durée indéterminée ou d'une durée d'au
 moins six mois à la date de clôture du premier exercice et au cours de chaque exercice de la période d'application du présent
 article ; si l'effectif varie en cours d'exercice, il est calculé compte tenu de la durée de présence des salariés en cause
-pendant l'exercice ; 
+pendant l'exercice.
+
+Toutefois, au titre des exercices clos entre le 31 décembre 2015 et le 31 décembre 2018, lorsqu'une entreprise bénéficiant
+déjà de l'exonération mentionnée au I constate, à la date de clôture de l'exercice, un dépassement du seuil d'effectif
+mentionné au premier alinéa du présent b, cette circonstance ne lui fait pas perdre le bénéfice de cette exonération pour
+l'exercice au cours duquel ce dépassement est constaté ainsi que pour les deux exercices suivants ; 
 
 c) L'entreprise n'exerce pas une activité bancaire, financière, d'assurances, de gestion ou de location d'immeubles, de pêche
 maritime ; 
@@ -42,6 +47,11 @@ III. L'exonération ne s'applique pas aux créations et aux reprises d'activité
 mentionnées au I consécutives au transfert d'une activité précédemment exercée par un contribuable ayant bénéficié, au titre
 d'une ou plusieurs des cinq années précédant celle du transfert, des dispositions des articles 44 sexies, 44 sexies A, 44
 septies, 44 octies, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies ou d'une prime d'aménagement du territoire. 
+
+L'exonération ne s'applique pas aux créations et aux reprises d'activités dans les zones de revitalisation rurale mentionnées
+au I consécutives au transfert, à la concentration ou à la restructuration d'activités précédemment exercées dans ces zones,
+sauf pour la durée restant à courir si l'activité reprise ou transférée bénéficie ou a bénéficié de l'exonération prévue au
+présent article.
 
 L'exonération ne s'applique pas non plus dans les situations suivantes : 
 
@@ -89,7 +99,8 @@ Au premier alinéa du III, les références : ", 44 decies, 44 undecies " sont p
 	  - Code général des impôts, CGI. - art. 204 G (VD)
 	  - Code général des impôts, CGI. - art. 220 terdecies (V)
 	  - Code général des impôts, CGI. - art. 244 quater E (V)
-	  - Code général des impôts, CGI. - art. 244 quater T (VT)
+	  - Code général des impôts, CGI. - art. 244 quater T (V)
+	  - Code général des impôts, CGI. - art. 44 duodecies (V)
 	  - Code général des impôts, CGI. - art. 44 octies (V)
 	  - Code général des impôts, CGI. - art. 44 octies A (V)
 	  - Code général des impôts, CGI. - art. 44 sexies A (V)
@@ -97,14 +108,14 @@ Au premier alinéa du III, les références : ", 44 decies, 44 undecies " sont p
 
 	**Modifié par**:
 
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 47
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 45 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 15 (V)
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1465 A
-	  - Code général des impôts, CGI. - art. 44 duodecies (V)
 	  - Code général des impôts, CGI. - art. 44 quaterdecies
-	  - Code général des impôts, CGI. - art. 44 septies (V)
+	  - Code général des impôts, CGI. - art. 44 septies
 	  - Code général des impôts, CGI. - art. 44 sexies
 	  - Code général des impôts, CGI. - art. 44 terdecies
 	  - Code général des impôts, CGI. - art. 53 A

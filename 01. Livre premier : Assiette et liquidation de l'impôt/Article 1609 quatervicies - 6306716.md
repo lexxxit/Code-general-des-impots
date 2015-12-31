@@ -120,7 +120,7 @@ De 3,5 à 9,5 €.
 </td>
       <td width="151">
 
-De 2,6 à 13 € 
+De 2,6 à 14 € 
 
 </td>
     </tr>
@@ -149,12 +149,23 @@ proportion de prise en charge des coûts qui ne sont pas directement ou totaleme
 IV. 
 
 Ces données peuvent faire l'objet de contrôles sur l'année en cours et les deux années antérieures, diligentés par les
-services de la direction générale de l'aviation civile. Les exploitants d'aérodromes ou de groupements d'aérodromes sont
-tenus de présenter les pièces justificatives et toutes les informations relatives aux données mentionnées au huitième alinéa.
-En cas de contrôle sur place, la direction générale de l'aviation civile en informe préalablement l'exploitant par l'envoi
-d'un avis qui précise l'identité des personnes qui en sont chargées et la période visée par le contrôle. L'exploitant peut se
-faire assister par un conseil de son choix. A l'issue du contrôle, un rapport est adressé à l'exploitant concerné qui dispose
-d'un délai de deux mois pour faire part de ses observations. 
+services de la direction générale de l'aviation civile. Ces contrôles peuvent également porter sur l'adéquation des moyens
+mis en œuvre par l'exploitant de l'aérodrome ou du groupement d'aérodromes concerné avec la réglementation en matière de
+sécurité et de sûreté aéroportuaires ainsi qu'au regard des bonnes pratiques et des usages communément admis par la
+profession. Les exploitants d'aérodromes ou de groupements d'aérodromes sont tenus de présenter les pièces justificatives et
+toutes les informations relatives aux données mentionnées au huitième alinéa. En cas de contrôle sur place, la direction
+générale de l'aviation civile en informe préalablement l'exploitant par l'envoi d'un avis qui précise l'identité des
+personnes qui en sont chargées et la période visée par le contrôle. L'exploitant peut se faire assister par un conseil de son
+choix. A l'issue du contrôle, un rapport est adressé à l'exploitant concerné qui dispose d'un délai de deux mois pour faire
+part de ses observations. Lorsque le contrôle met en évidence, dans le rapport précité, des économies de gestion de nature à
+diminuer le coût des missions de sécurité et de sûreté, l'exploitant d'aérodrome est tenu de soumettre au ministre chargé de
+l'aviation civile un plan d'actions correctrices dans un délai de trois mois. En l'absence de mesures ou en cas
+d'insuffisance avérée de celles-ci, la déclaration des coûts éligibles, pour l'année en cours, est retenue à hauteur des
+montants correspondant aux bonnes pratiques précitées. Pour les années antérieures soumises au contrôle, les déclarations de
+coûts éligibles sont rectifiées à hauteur des montants correspondant aux bonnes pratiques précitées. Elles donnent lieu à
+l'émission d'un titre exécutoire, à concurrence du surcoût, dans les conditions prévues par l'arrêté conjoint pris par les
+ministres chargés du budget et de l'aviation civile sur les tarifs pour chaque aérodrome, prévu au huitième alinéa du présent
+IV.
 
 Le tarif défini pour le fret et le courrier s'applique au tonnage total déclaré par chaque entreprise le mois considéré,
 arrondi à la tonne inférieure. 
@@ -250,9 +261,8 @@ VIII. ― Pour l'application du présent article, la notion de correspondance es
 
 	**Modifié par**:
 
-	  - Décret n°2015-608 du 3 juin 2015 - art. 1
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 103
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 302 bis K
 	  - Code des transports - art. L6323-2

@@ -73,8 +73,9 @@ Lorsque la plus-value est exonérée en application du 6° du II de l'article 15
 au I de l'article 150 VC, aucune déclaration ne doit être déposée, sauf dans le cas où le prélèvement afférent à la plus-
 value en report est dû ; 
 
-3° A l'article 150 UC lorsque les plus-values sont réalisées, directement ou indirectement, par un fonds de placement
-immobilier ou par ses porteurs de parts assujettis à l'impôt sur le revenu. 
+3° A l'article 150 UC , au 6 ter de l'article 39 duodecies ou au f du 1° du II de l'article 239 nonies lorsque les plus-
+values sont réalisées, directement ou indirectement, par un fonds de placement immobilier ou par ses porteurs de parts
+assujettis à l'impôt sur le revenu. 
 
 III.-Lorsque le prélèvement mentionné au I est dû par une personne morale assujettie à l'impôt sur les sociétés, les plus-
 values sont déterminées par différence entre, d'une part, le prix de cession du bien et, d'autre part, son prix
@@ -130,8 +131,8 @@ et n'étant pas non coopératif au sens de l'article 238-0 A.
 
 **Nota:**
 
-Loi n° 2014-1655 du 29 décembre 2014 de finances rectificative article 62 II C : ces dispositions s'appliquent aux plus-
-values réalisées au titre des cessions intervenues à compter du 1er janvier 2015.
+Loi n° 2015-1786 du 29 décembre 2016, article 28 II : Ces dispositions s'appliquent à l'impôt sur le revenu dû à compter des
+revenus perçus en 2015 et à l'impôt sur les sociétés dû au titre des exercices clos à compter du 31 décembre 2015.
 
 **Liens relatifs à cet article**
 
@@ -142,7 +143,7 @@ values réalisées au titre des cessions intervenues à compter du 1er janvier 2
 	  - Code de la sécurité sociale. - art. L136-7 (V)
 	  - Code général des impôts, CGI. - art. 13 (V)
 	  - Code général des impôts, CGI. - art. 150 VF (V)
-	  - Code général des impôts, CGI. - art. 1529 (V)
+	  - Code général des impôts, CGI. - art. 1529 (VD)
 	  - Code général des impôts, CGI. - art. 1531 (T)
 	  - Code général des impôts, CGI. - art. 1605 nonies (VD)
 	  - Code général des impôts, CGI. - art. 1609 nonies F (Ab)
@@ -157,18 +158,17 @@ values réalisées au titre des cessions intervenues à compter du 1er janvier 2
 
 	**Modifié par**:
 
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 60
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 62
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 28
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 131 sexies
 	  - Code général des impôts, CGI. - art. 150 U
 	  - Code général des impôts, CGI. - art. 150 UB
-	  - Code général des impôts, CGI. - art. 150 UC
+	  - Code général des impôts, CGI. - art. 150 UC (V)
 	  - Code général des impôts, CGI. - art. 150 V
 	  - Code général des impôts, CGI. - art. 150 VC
-	  - Code général des impôts, CGI. - art. 164 B
+	  - Code général des impôts, CGI. - art. 164 B (V)
 	  - Code général des impôts, CGI. - art. 208
 	  - Code général des impôts, CGI. - art. 208 C
 	  - Code général des impôts, CGI. - art. 4 B

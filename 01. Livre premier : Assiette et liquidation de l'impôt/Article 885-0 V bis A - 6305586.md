@@ -5,7 +5,8 @@ en numéraire et dons en pleine propriété de titres de sociétés admis aux n�
 étranger effectués au profit : 
 
 1° Des établissements de recherche ou d'enseignement supérieur ou d'enseignement artistique publics ou privés, d'intérêt
-général, à but non lucratif ; 
+général, à but non lucratif et des établissements d'enseignement supérieur consulaire mentionnés à l'article L. 711-17 du
+code de commerce ; 
 
 2° Des fondations reconnues d'utilité publique répondant aux conditions fixées au a du 1 de l'article 200 ; 
 
@@ -94,13 +95,14 @@ Modifications effectuées en conséquence de l'article 40 de la loi n° 2010-165
 
 	**Modifié par**:
 
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 53
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 38
 
 	**Cite**:
 
+	  - Code de commerce - art. L711-17 (V)
 	  - Code général des impôts, CGI. - art. 1649 nonies
-	  - Code général des impôts, CGI. - art. 200
-	  - Code général des impôts, CGI. - art. 885-0 V bis (M)
+	  - Code général des impôts, CGI. - art. 200 (M)
+	  - Code général des impôts, CGI. - art. 885-0 V bis
 	  - Code de l'éducation - art. L719-12
 	  - Code du travail - art. L5132-15
 	  - Code du travail - art. L5132-5

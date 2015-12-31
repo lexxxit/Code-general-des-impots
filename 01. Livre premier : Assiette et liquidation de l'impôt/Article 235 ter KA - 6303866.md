@@ -1,18 +1,14 @@
 # Article 235 ter KA
 
-Conformément aux dispositions de l'article L. 6331-2 du code du travail, les employeurs de moins de dix salariés consacrent
+Conformément aux dispositions de l'article L. 6331-2 du code du travail, les employeurs de moins de onze salariés consacrent
 au financement des actions de formation professionnelle continue un pourcentage au moins égal à 0,55 % du montant des
 rémunérations versées.
-
-**Nota:**
-
-Modification effectuée en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 1
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 15 (V)
 
 	**Cité par**:
 
@@ -22,4 +18,4 @@ Modification effectuée en conséquence des articles 1er, 3 et 12-I de l'ordonna
 
 	**Cite**:
 
-	  - Code du travail - art. L6331-2
+	  - Code du travail - art. L6331-2 (V)

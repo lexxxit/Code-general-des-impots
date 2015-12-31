@@ -7,6 +7,10 @@ moins de cinquante salariés et ayant conclu un accord d'intéressement en appli
 troisième partie du même code peuvent bénéficier d'un crédit d'impôt au titre des primes d'intéressement dues en application
 de cet accord. 
 
+Au titre des exercices clos entre le 1er janvier 2015 et le 31 décembre 2017, lorsqu'une entreprise, à la date de clôture de
+l'exercice, constate un dépassement du seuil d'effectif fixé au premier alinéa, cette circonstance ne lui fait pas perdre le
+bénéfice du crédit d'impôt au titre de cet exercice et des deux exercices suivants. 
+
 I bis. ― Pour les entreprises employant habituellement, au sens de l'article L. 1111-2 du code du travail, moins de deux cent
 cinquante salariés, le I s'applique aux crédits d'impôt relatifs aux primes d'intéressement dues en application d'accords
 d'intéressement conclus ou renouvelés à compter du 1er janvier 2011. Pour les entreprises membres d'un groupe mentionné à
@@ -50,26 +54,25 @@ Décret n° 2014-549 du 26 mai 2014 article 1 : Au I, les références : , 44 de
 	  - Loi n°2008-1258 du 3 décembre 2008 - art. 2 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 ter R (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 220 Y (V)
-	  - Code général des impôts, CGI. - art. 223 O (VT)
+	  - Code général des impôts, CGI. - art. 223 O (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZY (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZZ (V)
 
 	**Modifié par**:
 
-	  - Loi n°2014-891 du 8 août 2014 - art. 20
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 53 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 15 (V)
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 156
 	  - Code général des impôts, CGI. - art. 223 A
 	  - Code général des impôts, CGI. - art. 238 bis L
-	  - Code général des impôts, CGI. - art. 44 duodecies (VD)
-	  - Code général des impôts, CGI. - art. 44 octies (VD)
-	  - Code général des impôts, CGI. - art. 44 quindecies
+	  - Code général des impôts, CGI. - art. 44 duodecies
+	  - Code général des impôts, CGI. - art. 44 octies
+	  - Code général des impôts, CGI. - art. 44 quindecies (V)
 	  - Code général des impôts, CGI. - art. 44 septies
 	  - Code général des impôts, CGI. - art. 44 sexies
 	  - Code général des impôts, CGI. - art. 44 sexies A
-	  - Code général des impôts, CGI. - art. 44 terdecies (VD)
+	  - Code général des impôts, CGI. - art. 44 terdecies
 	  - Code général des impôts, CGI. - art. 8
 	  - Code du travail - art. L1111-2

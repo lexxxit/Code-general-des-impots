@@ -6,9 +6,8 @@ l'article 244 bis A par les contribuables non domiciliés fiscalement en France 
 
 La taxe ne s'applique pas aux plus-values réalisées lors de la cession de terrains à bâtir ou de droits s'y rapportant. 
 
-Le produit de la taxe est affecté, pour les cessions intervenues jusqu'au 31 décembre 2015, au fonds mentionné à l'article L.
-452-1-1 du code de la construction et de l'habitation, dans la limite du plafond prévu au I de l'article 46 de la loi n°
-2011-1977 du 28 décembre 2011 de finances pour 2012. 
+Le produit de la taxe est affecté au fonds mentionné à l'article L. 351-6 du code de la construction et de l'habitation, dans
+la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012. 
 
 II.-La taxe est assise sur le montant imposable des plus-values déterminé dans les conditions prévues, selon le cas, aux
 articles 150 V à 150 VD ou au II de l'article 244 bis A. 
@@ -184,21 +183,22 @@ date certaine avant le 7 décembre 2012.
 
 	**Cite**:
 
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
 	  - Code général des impôts, CGI. - art. 150 U
 	  - Code général des impôts, CGI. - art. 150 UB
-	  - Code général des impôts, CGI. - art. 150 V (V)
+	  - Code général des impôts, CGI. - art. 150 V
 	  - Code général des impôts, CGI. - art. 150 VF
 	  - Code général des impôts, CGI. - art. 150 VG
 	  - Code général des impôts, CGI. - art. 244 bis A
 	  - Code général des impôts, CGI. - art. 8
-
-	**Modifié par**:
-
-	  - Décret n°2013-463 du 3 juin 2013 - art. 1
+	  - Code de la construction et de l'habitation. - art. L351-6 (V)
 
 	**Cité par**:
 
 	  - Loi n°2013-1278 du 29 décembre 2013 - art. 27 (V)
 	  - Code de la construction et de l'habitation. - art. L351-7 (V)
 	  - Code de la construction et de l'habitation. - art. L452-1-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 139

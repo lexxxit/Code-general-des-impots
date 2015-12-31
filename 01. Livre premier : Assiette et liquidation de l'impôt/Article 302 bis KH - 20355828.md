@@ -30,7 +30,7 @@ télévision, le 2° n'est pas applicable et les sommes versées au titre de la 
 III. - L'exigibilité de la taxe est constituée par l'encaissement du produit des abonnements et autres sommes mentionnées au
 II. 
 
-IV. - La taxe est calculée en appliquant un taux de 0, 9 % à la fraction de l'assiette visée au II qui excède 5 millions
+IV. - La taxe est calculée en appliquant un taux de 1,3 % à la fraction de l'assiette visée au II qui excède 5 millions
 d'euros.
 
 V. - Les redevables procèdent à la liquidation de la taxe due au titre de l'année civile précédente lors du dépôt de la
@@ -59,4 +59,4 @@ applicables à cette même taxe.
 
 	**Modifié par**:
 
-	  - Loi n°2013-1279 du 29 décembre 2013 - art. 20 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 48 (V)

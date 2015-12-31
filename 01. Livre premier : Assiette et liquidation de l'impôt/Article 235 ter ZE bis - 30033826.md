@@ -32,7 +32,7 @@ sociale n'est versée par les personnes mentionnées au I du présent article qu
 lorsqu'il s'agit de l'organe central ou des entreprises affiliées à un réseau ou d'entreprises sur lesquelles l'entreprise
 mère exerce, directement ou indirectement, un contrôle exclusif.
 
-III. - Le taux de la taxe est fixé à 0,026 %.
+III. - Le taux de la taxe est fixé à 0,0642 % pour les années 2016 à 2025 et à 0,05 05 % pour les années 2026 à 2028.
 
 IV. - La taxe est exigible le 30 avril.
 
@@ -88,16 +88,12 @@ bis sont abrogées à compter du 1er janvier 2029.
 
 	**Cite**:
 
-	  - Loi n°2013-1278 du 29 décembre 2013 - art. 92
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 92 (V)
 	  - Code monétaire et financier - art. L522-14
 	  - Code monétaire et financier - art. L533-2
 	  - Code monétaire et financier - art. L612-2
 	  - Code monétaire et financier - art. L612-20
 
-	**Abrogé par**:
-
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 26 (V)
-
 	**Modifié par**:
 
-	  - Décret n°2015-608 du 3 juin 2015 - art. 1
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 31 (V)

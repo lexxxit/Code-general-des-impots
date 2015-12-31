@@ -1,8 +1,8 @@
 # Article 1609 nonies C
 
-I. - Les établissements publics de coopération intercommunale mentionnés aux I et I bis de l'article 1379-0 bis sont
-substitués aux communes membres pour l'application des dispositions relatives à la cotisation foncière des entreprises et la
-cotisation sur la valeur ajoutée des entreprises et pour la perception du produit de ces taxes. 
+I. - Les établissements publics de coopération intercommunale mentionnés au I de l'article 1379-0 bis sont substitués aux
+communes membres pour l'application des dispositions relatives à la cotisation foncière des entreprises et la cotisation sur
+la valeur ajoutée des entreprises et pour la perception du produit de ces taxes. 
 
 I bis.-Ils sont également substitués aux communes membres pour la perception : 
 
@@ -41,9 +41,8 @@ intercommunale, le prélèvement sur les ressources calculé selon les condition
 de la loi n° 2009-1673 du 30 décembre 2009 précitée peut être mis à la charge de cet établissement public, à l'exclusion de
 la part calculée selon les conditions prévues aux 1° et 2° du a du D du IV du même 2.1. 
 
-II. - Le conseil des établissements publics de coopération intercommunale mentionnés au I, à l'exclusion de l'établissement
-public de coopération intercommunale mentionné au I bis de l'article 1379-0 bis, vote les taux de la taxe d'habitation, de la
-taxe foncière sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties. 
+II. - Le conseil des établissements publics de coopération intercommunale mentionnés au I vote les taux de la taxe
+d'habitation, de la taxe foncière sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties. 
 
 La première année d'application du présent article, ainsi que l'année qui suit celle au titre de laquelle l'établissement
 public de coopération intercommunale a voté un taux égal à zéro pour ces trois taxes, les rapports entre les taux de taxe
@@ -94,7 +93,11 @@ La délibération doit intervenir dans les conditions prévues à l'article 1639
 du I. 
 
 Cette délibération ne peut être modifiée ultérieurement, sauf en cas de retrait d'une ou plusieurs communes en application
-des articles L. 5211-41-1, L. 5215-40-1 et L. 5216-10 du code général des collectivités territoriales. 
+des articles L. 5211-41-1, L. 5215-40-1 et L. 5216-10 du code général des collectivités territoriales, du neuvième alinéa du
+III, du dernier alinéa du IV et du dixième alinéa du V de l'article 11 de la loi n° 2014-58 du 27 janvier 2014 de
+modernisation de l'action publique territoriale et d'affirmation des métropoles et du huitième alinéa du I et de l'avant-
+dernier alinéa des II et III de l'article 35 de la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale
+de la République. 
 
 Pour l'application du présent c, la réduction des écarts de taux s'opère, chaque année, par parts égales ; dans le cas où le
 dispositif de réduction des écarts de taux est déjà en cours, l'écart est réduit chaque année, par parts égales en proportion
@@ -109,10 +112,7 @@ dispositif est applicable dans les mêmes conditions lorsque l'établissement pu
 application du II de l'article 1609 quinquies C. 
 
 2° En cas de rattachement d'une commune à un établissement public de coopération intercommunale faisant application du
-présent article, les I, II, II bis et VI de l'article 1638 quater sont applicables ;
-
-3° Le taux de la cotisation foncière des entreprises voté par le conseil de la métropole du Grand Paris mentionnée au I bis
-de l'article 1379-0 bis est fixé dans les limites fixées au VII de l'article 1636 B decies. 
+présent article, les I, II, II bis et VI de l'article 1638 quater sont applicables.
 
 IV. - Il est créé entre l'établissement public de coopération intercommunale soumis aux dispositions fiscales du présent
 article, à l'exclusion de ceux mentionnés au 5° du I de l'article 1379-0 bis, et les communes membres une commission locale
@@ -167,7 +167,7 @@ les attributions de compensation ;
 
 1° bis Le montant de l'attribution de compensation et les conditions de sa révision peuvent être fixés librement par
 délibérations concordantes du conseil communautaire, statuant à la majorité des deux tiers, et des conseils municipaux des
-communes membres, en tenant compte du rapport de la commission locale d'évaluation des transferts de charges. 
+communes membres intéressées, en tenant compte du rapport de la commission locale d'évaluation des transferts de charges. 
 
 A défaut d'accord, le montant de l'attribution est fixé dans les conditions figurant aux 2°, 4° et 5° ; 
 
@@ -294,7 +294,7 @@ A défaut de révision dérogatoire, l'attribution de compensation versée ou pe
 produit pour la première fois ses effets au plan fiscal est égale à celle que versait ou percevait l'établissement public de
 coopération intercommunale préexistant l'année précédente. 
 
-Un protocole financier général établi au plus tard au 31 décembre 2016  définit les modalités de détermination des
+Un protocole financier général établi au plus tard au 31 décembre 2016 définit les modalités de détermination des
 attributions de compensation entre la métropole de Lyon et les communes situées sur son territoire ; 
 
 6° Les attributions de compensation fixées conformément aux 2°, 4°, 5° ou, le cas échéant, au 1° bis du présent V sont
@@ -322,13 +322,14 @@ VI. - L'établissement public de coopération intercommunale, autre qu'une commu
 métropole de Lyon ou qu'un établissement public de coopération intercommunale mentionné au 5° du I de l'article 1379-0 bis,
 soumis aux dispositions du I peut instituer au bénéfice de ses communes membres et, le cas échéant, d'établissements publics
 de coopération intercommunale à fiscalité propre limitrophes une dotation de solidarité communautaire, dont le principe et
-les critères de répartition sont fixés par le conseil communautaire statuant à la majorité des deux tiers. Le montant de
-cette dotation est fixé librement par le conseil de l'établissement public de coopération intercommunale. Elle est répartie
-en tenant compte prioritairement de l'importance de la population et du potentiel fiscal ou financier par habitant, les
-autres critères étant fixés librement par le conseil. Lorsqu'une zone d'activités économiques d'intérêt départemental est
-située en tout ou partie sur le territoire de l'établissement public de coopération intercommunale, celui-ci peut étendre le
-versement de la dotation de solidarité communautaire aux établissements publics de coopération intercommunale à fiscalité
-propre constituant un ensemble sans discontinuité territoriale et limitrophe de son territoire. 
+les critères de répartition sont fixés par le conseil communautaire statuant à la majorité des deux tiers des suffrages
+exprimés. Le montant de cette dotation est fixé librement par le conseil de l'établissement public de coopération
+intercommunale. Elle est répartie en tenant compte prioritairement de l'importance de la population et du potentiel fiscal ou
+financier par habitant, les autres critères étant fixés librement par le conseil. Lorsqu'une zone d'activités économiques
+d'intérêt départemental est située en tout ou partie sur le territoire de l'établissement public de coopération
+intercommunale, celui-ci peut étendre le versement de la dotation de solidarité communautaire aux établissements publics de
+coopération intercommunale à fiscalité propre constituant un ensemble sans discontinuité territoriale et limitrophe de son
+territoire. 
 
 Lorsqu'il s'agit d'une communauté urbaine, d'une métropole ou de la métropole de Lyon ou lorsque l'établissement public de
 coopération intercommunale est signataire d'un contrat de ville tel que défini à l'article 6 de la loi n° 2014-173 du 21
@@ -415,7 +416,7 @@ dispositions législatives applicables à la métropole de Lyon.
 	**Cite**:
 
 	  - Loi n°72-657 du 13 juillet 1972 - art. 3
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 6
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 6 (M)
 	  - Loi n°96-987 du 14 novembre 1996 - art. 4
 	  - Loi n°2002-1575 du 30 décembre 2002 - art. 26
 	  - Code général des impôts, CGI. - art. 1519 D
@@ -524,6 +525,6 @@ dispositions législatives applicables à la métropole de Lyon.
 
 	**Modifié par**:
 
-	  - Loi n°2015-991 du 7 août 2015 - art. 133 (M)
-	  - Loi n°2015-991 du 7 août 2015 - art. 57
-	  - Loi n°2015-991 du 7 août 2015 - art. 59 (VD)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 53 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 163
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 164

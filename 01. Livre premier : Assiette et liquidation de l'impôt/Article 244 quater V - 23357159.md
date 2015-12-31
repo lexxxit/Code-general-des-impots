@@ -10,7 +10,7 @@ construction et de l'habitation.
 Les conditions d'attribution et les modalités des prêts ne portant pas intérêt mentionnés au premier alinéa sont fixées
 chaque année par décret dans les conditions prévues aux articles L. 31-10-1 et suivants du code de la construction et de
 l'habitation. Une étude d'impact jointe au décret fait apparaître les mesures prises pour que le montant des crédits d'impôt
-afférents aux prêts ne portant pas intérêt émis sur une même période de douze mois ne dépasse pas un milliard d'euros. Ce
+afférents aux prêts ne portant pas intérêt émis sur une même période de douze mois ne dépasse pas 2,1 milliards d'euros. Ce
 montant s'entend du montant brut des crédits d'impôt accordés, diminué de l'impôt sur les bénéfices correspondant. (1)
 
 II. ― Le montant du crédit d'impôt est égal à l'écart entre la somme actualisée des mensualités dues au titre du prêt ne
@@ -45,14 +45,11 @@ bis du I de l'article 156.
 
 **Nota:**
 
-Conformément au IV de l'article 59 de la loi n° 2014-1654 du 29 décembre 2014, ces dispositions s'appliquent aux offres de
-prêts émises à compter du 1er janvier 2015.
+Conformément à l'article 107 III B de la loi n° 2015-1785 du 29 décembre 2015, les présentes dispositions s'appliquent aux
+offres de prêt émises à compter du 1er janvier 2016, ainsi que, en cas d'accord de l'emprunteur et de l'établissement de
+crédit ou de la société de financement, aux prêts versés depuis le 1er janvier 2011.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 90 (V)
 
 	**Cité par**:
 
@@ -94,7 +91,7 @@ prêts émises à compter du 1er janvier 2015.
 
 	**Modifié par**:
 
-	  - Loi n°2014-1654 du 29 décembre 2014 - art. 59
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 107 (V)
 
 	**Cite**:
 

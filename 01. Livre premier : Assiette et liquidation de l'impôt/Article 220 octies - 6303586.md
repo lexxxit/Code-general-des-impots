@@ -79,9 +79,8 @@ l'environnement numérique.
 
 La rémunération d'un dirigeant mentionnée au a ter du 1° et au a du 2° ne peut excéder un montant fixé par décret, dans la
 limite d'un plafond de 50 000 € par an. Cette rémunération n'est éligible au crédit d'impôt que pour les petites entreprises,
-au sens de l'article 2 de l'annexe I au règlement (CE) n° 800/2008 de la Commission, du 6 août 2008, déclarant certaines
-catégories d'aide compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général
-d'exemption par catégorie).
+au sens de l'article 2 de l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines
+catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 
 Le montant des dépenses dites de développement éligibles au crédit d'impôt est limité à 350 000 € par enregistrement
 phonographique ou vidéographique musical. Ces dépenses devront être engagées dans les dix-huit mois suivant la fixation de
@@ -92,7 +91,7 @@ Le montant des dépenses définies aux 1° et 2°, lorsqu'elles sont confiées �
 plafonné à 2 300 000 € par entreprise et par exercice. 
 
 III bis.-Le taux mentionné au premier alinéa du III est porté à 30 % pour les entreprises qui satisfont à la définition des
-micro, petites et moyennes entreprises donnée à l'annexe I au règlement (CE) n° 800/2008 de la Commission du 6 août 2008
+micro, petites et moyennes entreprises donnée à l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014
 précité (1). 
 
 IV.-Les dépenses ouvrent droit au crédit d'impôt à compter de la délivrance, par le ministre chargé de la culture, d'un
@@ -117,6 +116,10 @@ entreprise et par exercice.
 
 2° En cas de coproduction, le crédit d'impôt est accordé à chacune des entreprises, proportionnellement à sa part dans les
 dépenses exposées.
+
+VII.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect de l'article 53 du règlement (UE) n° 651/2014 de
+la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des
+articles 107 et 108 du traité.
 
 **Nota:**
 
@@ -153,7 +156,8 @@ l'Union européenne en matière d'aides d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 50
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 77
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 78
 
 	**Cite**:
 

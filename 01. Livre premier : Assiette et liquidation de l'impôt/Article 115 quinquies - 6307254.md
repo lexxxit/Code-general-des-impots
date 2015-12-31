@@ -19,7 +19,8 @@ siège en France, et qu'elle leur a transféré les sommes correspondant à la r
 
 3 Les dispositions du 1 ne s'appliquent pas lorsque la société étrangère remplit les conditions suivantes :
 
-a) Avoir son siège de direction effective dans un Etat membre de l'Union européenne ;
+a) Avoir son siège de direction effective dans un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace
+économique européen ;
 
 b) Y être passible de l'impôt sur les sociétés, sans possibilité d'option et sans en être exonérée et sans bénéficier d'une
 exonération spécifique sur les bénéfices mentionnés au 1.
@@ -35,7 +36,7 @@ aux exercices clos à compter du 31 décembre 2013.
 
 	**Modifié par**:
 
-	  - Loi n°2013-1279 du 29 décembre 2013 - art. 33 (V)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 29 (V)
 
 	**Cité par**:
 

@@ -92,10 +92,9 @@ VII.-Le crédit d'impôt mentionné au I est imputé sur l'impôt sur le revenu 
 mentionnées aux articles 199 quater B à 200 bis, 200 octies et 200 decies A, des crédits d'impôt et des prélèvements ou
 retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué. 
 
-VIII.-Le I s'applique aux intérêts des prêts souscrits dans un Etat membre de
-l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une
-convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, et qui satisfont à une
-réglementation équivalente. 
+VIII.-Le I s'applique aux intérêts des prêts souscrits dans un Etat membre de l'Union européenne ou dans un autre Etat partie
+à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de
+lutter contre la fraude et l'évasion fiscales, et qui satisfont à une réglementation équivalente. 
 
 IX.-Les dispositions du présent article sont exclusives de celles mentionnées au a du 2 de l'article 199 undecies A. 
 
@@ -115,4 +114,17 @@ que la déclaration d'ouverture de chantier intervienne au plus tard à la même
 
 	**Modifié par**:
 
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 90 (V)
+	  - Loi n°2014-1654 du 29 décembre 2014 - art. 70
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 37 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L312-2
+	  - Code général des impôts, CGI. - art. 1729
+	  - Code général des impôts, CGI. - art. 196
+	  - Code général des impôts, CGI. - art. 199 quater B
+	  - Code général des impôts, CGI. - art. 199 undecies A
+	  - Code général des impôts, CGI. - art. 244 quater J
+	  - Code général des impôts, CGI. - art. 4 B
+	  - Code de la construction et de l'habitation. - art. L111-9

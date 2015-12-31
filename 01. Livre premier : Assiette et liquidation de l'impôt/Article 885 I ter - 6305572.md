@@ -2,10 +2,10 @@
 
 I.-1. Sont exonérés les titres reçus par le redevable en contrepartie de sa souscription au capital initial ou aux
 augmentations de capital, en numéraire ou en nature par apport de biens nécessaires à l'exercice de l'activité, à l'exception
-des actifs immobiliers et des valeurs mobilières, d'une petite et moyenne entreprise au sens de l'annexe I au règlement (CE)
-n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en
-application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie), si les conditions suivantes sont
-réunies au 1er janvier de l'année d'imposition : 
+des actifs immobiliers et des valeurs mobilières, d'une petite et moyenne entreprise au sens de l'annexe I au règlement (UE)
+n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en
+application des articles 107 et 108 du traité, si les conditions suivantes sont réunies au 1er janvier de l'année
+d'imposition : 
 
 a. La société exerce exclusivement une activité industrielle, commerciale, artisanale, agricole ou libérale, à l'exclusion
 des activités de gestion de patrimoine mobilier définie à l'article 885 O quater, et notamment celles des organismes de
@@ -48,19 +48,20 @@ au I.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 38 (V)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 78
+
 	**Cité par**:
 
 	  - Décret n°2010-915 du 3 août 2010 (V)
 	  - Code général des impôts, CGI. - art. 81 C (T)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 299 bis (V)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 42
-
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 885-0 V bis
 	  - Code monétaire et financier - art. L214-160
-	  - Code monétaire et financier - art. L214-28 (V)
+	  - Code monétaire et financier - art. L214-28
 	  - Code monétaire et financier - art. L214-30

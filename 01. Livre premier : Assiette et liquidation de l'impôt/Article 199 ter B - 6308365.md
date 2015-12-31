@@ -43,9 +43,9 @@ de la décision ou du jugement qui a ouvert ces procédures ;
 
 3° Les jeunes entreprises innovantes mentionnées à l'article 44 sexies-0 A ; 
 
-4° Les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement
-(CE) n° 800/2008 de la Commission, du 6 août 2008, déclarant certaines catégories d'aide compatibles avec le marché commun en
-application des articles 87 et 88 du traité (règlement général d'exemption par catégorie). 
+4° Les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l' annexe I au règlement
+(UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur
+en application des articles 107 et 108 du traité.
 
 Les entreprises créées depuis moins de deux ans qui sollicitent le remboursement immédiat de la créance de crédit d'impôt
 pour dépenses de recherche doivent présenter à l'appui de leur demande les pièces justificatives attestant de la réalité des
@@ -82,4 +82,4 @@ IV. - (Abrogé).
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 145
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 78

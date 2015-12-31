@@ -9,10 +9,10 @@ titre de laquelle la taxe est due. Le tarif par kilogramme d'or extrait est fix�
 chargés des mines, de l'intérieur et de l'économie dans les limites suivantes :
 
 1° Pour la taxe due par les entreprises entrant dans la catégorie des petites et moyennes entreprises telles que définies par
-l' annexe 1 au règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aide compatibles
-avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie), le tarif
-ne peut être supérieur à 1 % du cours moyen annuel de l'or constaté sur le marché de l'or de Londres (London Bullion Market)
-l'année précédant celle au titre de laquelle la taxe est due sans toutefois être inférieur à 40 € ;
+l'annexe 1 au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles
+avec le marché intérieur en application des articles 107 et 108 du traité le tarif ne peut être supérieur à 1 % du cours
+moyen annuel de l'or constaté sur le marché de l'or de Londres (London Bullion Market) l'année précédant celle au titre de
+laquelle la taxe est due sans toutefois être inférieur à 40 € ;
 
 2° Pour la taxe due par les autres entreprises, le tarif ne peut être supérieur à 2 % du cours moyen annuel de l'or constaté
 sur le marché de l'or de Londres (London Bullion Market) l'année précédant celle au titre de laquelle la taxe est due sans
@@ -51,10 +51,6 @@ s'appliquent aux extractions d'or réalisées à compter du 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 99 (V)
-
 	**Cité par**:
 
 	  - Arrêté du 29 juillet 2010 (V)
@@ -66,3 +62,7 @@ s'appliquent aux extractions d'or réalisées à compter du 1er janvier 2009.
 	  - Arrêté du 15 novembre 2016 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 318 B (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 318 C (V)
+
+	**Modifié par**:
+
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 78
