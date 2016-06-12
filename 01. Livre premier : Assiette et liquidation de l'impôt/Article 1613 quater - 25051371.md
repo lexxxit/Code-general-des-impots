@@ -15,7 +15,7 @@ professionnel ;
 Sont exclus du périmètre de cette taxe les denrées destinées à des fins médicales spéciales ainsi que les aliments
 hyperprotéinés destinés aux personnes dénutries. 
 
-II. ― Le montant de la contribution est fixé à 7,50 € par hectolitre. Ce montant est relevé au 1er janvier de chaque année à
+II. ― Le montant de la contribution est fixé à 7,53 € par hectolitre. Ce montant est relevé au 1er janvier de chaque année à
 compter du 1er janvier 2013, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors
 tabac de l'avant-dernière année. Ce montant est exprimé avec deux chiffres après la virgule, le deuxième chiffre étant
 augmenté d'une unité si le chiffre suivant est égal ou supérieur à cinq. Il est constaté par arrêté du ministre chargé du
@@ -57,7 +57,7 @@ rural et de la pêche maritime.
 
 **Nota:**
 
-Modifications effectuées en conséquence des articles 3 et 5 de l'arrêté du 19 décembre 2014.
+Modifications effectuées en conséquence des articles 3 et 5 de l'arrêté du 18 décembre 2015.
 
 **Liens relatifs à cet article**
 
@@ -69,8 +69,8 @@ Modifications effectuées en conséquence des articles 3 et 5 de l'arrêté du 1
 
 	**Modifié par**:
 
-	  - Décret n°2015-608 du 3 juin 2015 - art. 1
+	  - Décret n°2016-775 du 10 juin 2016 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 520 A
+	  - Code général des impôts, CGI. - art. 520 A (V)

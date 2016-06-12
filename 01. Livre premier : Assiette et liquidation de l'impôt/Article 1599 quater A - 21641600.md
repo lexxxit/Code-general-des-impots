@@ -11,153 +11,151 @@ III. - Le montant de l'imposition forfaitaire est établi pour chaque matériel 
 utilisation selon le barème suivant : 
 
 <table>
-  <tbody>
-    <tr>
-      <th>CATÉGORIE        
-
-de matériels roulants
+    <tbody>
+      <tr>
+        <th>CATÉGORIE DE MATÉRIELS ROULANTS 
 
 </th>
-      <th>
+        <th>
 
-TARIFS        
+TARIFS 
 
-(en euros)
+(en euros) 
 
 </th>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
 
-Engins à moteur thermique
-
-</td>
-      <td align="center"> </td>
-    </tr>
-    <tr>
-      <td align="left">
-
-Automoteur
+Engins à moteur thermique 
 
 </td>
-      <td align="center">
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
 
-31 200
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-Locomotive Diesel
+Automoteur 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-31 200
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Engins à moteur électrique
+31 512 
 
 </td>
-      <td align="center"> </td>
-    </tr>
-    <tr>
-      <td align="left">
+      </tr>
+      <tr>
+        <td align="left">
 
-Automotrice
-
-</td>
-      <td align="center">
-
-23 920
+Locomotive Diesel 
 
 </td>
-    </tr>
-    <tr>
-      <td align="left">
+        <td align="center">
 
-Locomotive électrique
+31 512 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
 
-20 801
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-Motrice de matériel à grande vitesse
+Engins à moteur électrique 
 
 </td>
-      <td align="center">
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
 
-36 401
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-Automotrice tram-train
+Automotrice 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-11 960
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Engins remorqués
+24 159 
 
 </td>
-      <td align="center"> </td>
-    </tr>
-    <tr>
-      <td align="left">
+      </tr>
+      <tr>
+        <td align="left">
 
-Remorque pour le transport de passagers
-
-</td>
-      <td align="center">
-
-4 992
+Locomotive électrique 
 
 </td>
-    </tr>
-    <tr>
-      <td align="left">
+        <td align="center">
 
-Remorque pour le transport de passagers à grande vitesse
+21 009 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
 
-10 400
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-Remorque tram-train
+Motrice de matériel à grande vitesse 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-2 496</td>
-    </tr>
-  </tbody>
-</table>
+36 765 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Automotrice tram-train 
+
+</td>
+        <td align="center">
+
+12 080 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Engins remorqués 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+Remorque pour le transport de passagers 
+
+</td>
+        <td align="center">
+
+5 042 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Remorque pour le transport de passagers à grande vitesse 
+
+</td>
+        <td align="center">
+
+10 504 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Remorque tram-train 
+
+</td>
+        <td align="center">
+
+2 521 </td>
+      </tr>
+    </tbody>
+  </table>
 
 Les catégories de matériels roulants sont précisées par arrêté conjoint des ministres chargés du transport et du budget en
 fonction de leur capacité de traction, de captation de l'électricité, d'accueil de voyageurs et de leur performance. 
@@ -207,7 +205,7 @@ Modifications effectuées en conséquence de l'article 37-VI B [4°] de la loi n
 
 	**Créé par**:
 
-	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 	**Cité par**:
 
@@ -218,12 +216,12 @@ Modifications effectuées en conséquence de l'article 37-VI B [4°] de la loi n
 	  - Code général des impôts, CGI. - art. 1599 bis (VD)
 	  - Code général des impôts, CGI. - art. 1635-0 quinquies (V)
 	  - Code général des impôts, CGI. - art. 1641 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 M (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 M (M)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 155-0 bis (V)
 
 	**Modifié par**:
 
-	  - Décret n°2015-608 du 3 juin 2015 - art. 1
+	  - Décret n°2016-775 du 10 juin 2016 - art. 1
 
 	**Cite**:
 

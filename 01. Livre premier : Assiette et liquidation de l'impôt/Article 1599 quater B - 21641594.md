@@ -20,54 +20,38 @@ par ligne en service est établi selon le barème suivant :
 <table>
     <tbody>
       <tr>
-        <td>
+        <th>NATURE DE L'ÉQUIPEMENT 
 
-NATURE DE L'ÉQUIPEMENT
+</th>
+        <th>
 
-</td>
-        <td align="center">TARIF 
+TARIF 
 
-(en euros) 
+(en euros) 2016 
 
-2015
+</th>
+        <th>
 
-</td>
-        <td align="center">TARIF 
+TARIF (EN EUROS) 
 
-(en euros) 
+à compter de 2017 
 
-2016
-
-</td>
-        <td align="center">TARIF 
-
-(en euros) 
-
-à compter de 2017
-
-</td>
+</th>
       </tr>
       <tr>
-        <td align="center">
+        <td valign="middle" align="left">
 
-Ligne en service d'un répartiteur principal
-
-</td>
-        <td align="center">
-
-7,62
+Ligne en service d'un répartiteur principal 
 
 </td>
-        <td align="center">
+        <td valign="middle" align="center">
 
-10,12
-
-</td>
-        <td align="center">
-
-12,65
+10,13 
 
 </td>
+        <td align="center" valign="middle">
+
+12,65</td>
       </tr>
     </tbody>
   </table>
@@ -76,58 +60,41 @@ b) Pour les unités de raccordement d'abonnés et les cartes d'abonnés du rése
 l'imposition est établi en fonction de la nature de l'équipement selon le barème suivant : 
 
 <table>
-  <tbody>
-    <tr>
-      <td>
+      <tbody>
+        <tr>
+          <th>NATURE DE L'ÉQUIPEMENT 
 
-NATURE DE L'ÉQUIPEMENT 
+</th>
+          <th>
 
-</td>
-      <td align="center">
+TARIF (EN EUROS) 2016 
 
-TARIF 
-
-(en euros) 
-
-2015
-
-</td>
-      <td align="center">TARIF 
-
-(en euros) 
-
-2016
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+</th>
+        </tr>
+        <tr>
+          <td align="left" valign="middle">
 
 Unité de raccordement d'abonnés 
 
 </td>
-      <td align="center">
+          <td align="center" valign="middle">
 
-3 361
-
-</td>
-      <td align="center">1 673
+1 675 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        </tr>
+        <tr>
+          <td valign="middle" align="left">
 
 Carte d'abonné 
 
 </td>
-      <td align="center">36,66
+          <td valign="middle" align="center">
 
-</td>
-      <td align="center">18,25</td>
-    </tr>
-  </tbody>
-</table>
+18,28 </td>
+        </tr>
+      </tbody>
+    </table>
 
 IV. ― Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année d'imposition, par
 région, département et commune : 
@@ -160,7 +127,7 @@ Modifications effectuées en conséquence de l'article 112-III de la loi n° 201
 
 	**Modifié par**:
 
-	  - Décret n°2015-608 du 3 juin 2015 - art. 1
+	  - Décret n°2016-775 du 10 juin 2016 - art. 1
 
 	**Cite**:
 
