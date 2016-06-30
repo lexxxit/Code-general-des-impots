@@ -69,8 +69,8 @@ d'un an à compter de la date du transfert de propriété, que le bien acquis a 
 
 Ce taux s'applique aux acquisitions effectuées par l'acquéreur à hauteur d'une valeur globale n'excédant pas 99 000 €. 
 
-F. Les ventes résultant de l'application des articles L. 181-5 à L. 181-8 du code rural et de la pêche maritime relatifs à la
-mise en valeur agricole des terres incultes, des terres laissées à l'abandon et des terres insuffisamment exploitées de la
+F. Les ventes résultant de l'application des articles L. 181-18 à L. 181-24 du code rural et de la pêche maritime relatifs à
+la mise en valeur agricole des terres incultes, des terres laissées à l'abandon et des terres insuffisamment exploitées de la
 Guadeloupe, de la Martinique, de la Réunion et de la Guyane. 
 
 G. (Abrogé). 
@@ -101,8 +101,8 @@ coopératives de production d'habitations à loyers modérés ainsi que par des 
 	  - Code général des impôts, CGI. - art. 268
 	  - Code rural - art. D343-13
 	  - Code rural - art. D343-9
-	  - Code rural - art. L181-5
-	  - Code de l'urbanisme - art. L113-3 (VT)
+	  - Code rural - art. L181-18 (V)
+	  - Code de l'urbanisme - art. L113-3
 	  - Code de la construction et de l'habitation. - art. L615-1
 
 	**Cité par**:
@@ -114,4 +114,4 @@ coopératives de production d'habitations à loyers modérés ainsi que par des 
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
+	  - Ordonnance n°2016-391 du 31 mars 2016 - art. 14
