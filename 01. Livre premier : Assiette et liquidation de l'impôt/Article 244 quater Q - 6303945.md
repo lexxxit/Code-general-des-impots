@@ -23,8 +23,8 @@ actions.
 Le salarié titulaire du titre de maître-restaurateur doit, au 31 décembre de l'année civile au titre de laquelle le crédit
 d'impôt est calculé, être employé depuis au moins un mois, le cas échéant après une période d'essai, par l'entreprise et
 avoir conclu avec celle-ci un contrat de travail à durée indéterminée ou à durée déterminée pour une période minimale de
-douze mois, pour un temps de travail qui ne peut être inférieur à la durée minimale de travail définie à l'article L.
-3123-14-1 du code du travail. 
+douze mois, pour un temps de travail qui ne peut être inférieur à la durée minimale de travail définie au premier alinéa de
+l'article L. 3123-7 et aux articles L. 3123-19 et L. 3123-27 du code du travail. 
 
 II.-1. Les dépenses qui permettent de satisfaire aux normes d'aménagement et de fonctionnement prévues par le cahier des
 charges relatif au titre de maître-restaurateur et ouvrant droit au crédit d'impôt mentionné au 1 du I sont : 
@@ -111,10 +111,6 @@ ou aux salariés et le cahier des charges est établi sont définies par décret
 Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux
 entreprises.
 
-**Nota:**
-
-Décret n° 2014-549 du 26 mai 2014 article 1 : Au 1 du I, la référence : , 44 decies  est périmée.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -130,7 +126,7 @@ Décret n° 2014-549 du 26 mai 2014 article 1 : Au 1 du I, la référence : , 44
 
 	**Modifié par**:
 
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 19 (V)
+	  - Loi n°2016-1088 du 8 août 2016 - art. 8 (V)
 
 	**Cite**:
 
@@ -138,4 +134,6 @@ Décret n° 2014-549 du 26 mai 2014 article 1 : Au 1 du I, la référence : , 44
 	  - Code général des impôts, CGI. - art. 238 bis L
 	  - Code général des impôts, CGI. - art. 44 sexies
 	  - Code général des impôts, CGI. - art. 8
-	  - Code du travail - art. L3123-14-1 (V)
+	  - Code du travail - art. L3123-19 (V)
+	  - Code du travail - art. L3123-27 (V)
+	  - Code du travail - art. L3123-7 (V)
