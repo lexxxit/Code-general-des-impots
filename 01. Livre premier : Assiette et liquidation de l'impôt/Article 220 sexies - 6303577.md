@@ -13,7 +13,10 @@ la production d'une oeuvre déterminée.
 II.-1. Les oeuvres cinématographiques ou audiovisuelles mentionnées au I appartiennent aux genres de la fiction, du
 documentaire et de l'animation. Ces oeuvres doivent répondre aux conditions suivantes : 
 
-a) Etre réalisées intégralement ou principalement en langue française ou dans une langue régionale en usage en France ; 
+a) Etre réalisées intégralement ou principalement en langue française ou dans une langue régionale en usage en France à
+l'exception des œuvres cinématographiques d'animation mentionnées à l'avant-dernier alinéa du 1 du III et des œuvres
+cinématographiques de fiction mentionnées au dernier alinéa du même 1 du III, ainsi que des œuvres cinématographiques pour
+lesquelles l'emploi d'une langue étrangère est justifié pour des raisons artistiques tenant au scénario ; 
 
 b) Etre admises au bénéfice du soutien financier à la production cinématographique ou audiovisuelle ; 
 
@@ -60,17 +63,23 @@ d'archives pour une durée minimale de quatre ans effectuées auprès d'une pers
 n'existe pas de lien de dépendance, au sens du 12 de l'article 39, entre cette personne et l'entreprise de production
 bénéficiaire du crédit d'impôt. 
 
-Le taux mentionné au premier alinéa du présent 1 est porté à 25 % en ce qui concerne les œuvres cinématographiques et
-audiovisuelles d'animation. Il est porté à 30 % pour les œuvres cinématographiques dont le budget de production est inférieur
-à 7 millions d'euros. 
+Le taux mentionné au premier alinéa du présent 1 est porté à 25 % en ce qui concerne les œuvres audiovisuelles de fiction et
+d'animation. Il est porté à 30 % pour les œuvres cinématographiques d'animation et pour les œuvres cinématographiques autres
+que d'animation réalisées intégralement ou principalement en langue française ou dans une langue régionale en usage en
+France. 
+
+Sont assimilées à des œuvres cinématographiques d'animation les œuvres cinématographiques de fiction dans lesquelles au moins
+15 % des plans, soit en moyenne un plan et demi par minute, font l'objet d'un traitement numérique permettant d'ajouter des
+personnages, des éléments de décor ou des objets participant à l'action ou de modifier le rendu de la scène ou le point de
+vue de la caméra. 
 
 2. Les auteurs, artistes-interprètes et personnels de la réalisation et de la production mentionnés au 1 doivent être, soit
-de nationalité française, soit ressortissants d'un Etat membre de la Communauté européenne, d'un Etat partie à l'accord sur
+de nationalité française, soit ressortissants d'un Etat membre de l'Union européenne, d'un Etat partie à l'accord sur
 l'Espace économique européen, d'un Etat partie à la convention européenne sur la télévision transfrontière du Conseil de
 l'Europe, d'un Etat partie à la convention européenne sur la coproduction cinématographique du Conseil de l'Europe ou d'un
-Etat tiers européen avec lequel la Communauté européenne a conclu des accords ayant trait au secteur audiovisuel. Les
-étrangers, autres que les ressortissants européens précités, ayant la qualité de résidents français sont assimilés aux
-citoyens français. 
+Etat tiers européen avec lequel l'Union européenne a conclu des accords ayant trait au secteur audiovisuel. Les étrangers,
+autres que les ressortissants européens précités, ayant la qualité de résidents français sont assimilés aux citoyens
+français. 
 
 3. Pour le calcul du crédit d'impôt, l'assiette des dépenses éligibles est plafonnée à 80 % du budget de production de
 l'oeuvre et, en cas de coproduction internationale, à 80 % de la part gérée par le coproducteur français. 
@@ -84,23 +93,43 @@ des oeuvres par un comité d'experts. Cet agrément atteste que les oeuvres remp
 V.-Les subventions publiques non remboursables reçues par les entreprises et directement affectées aux dépenses visées au III
 sont déduites des bases de calcul du crédit d'impôt. 
 
-VI.-1. La somme des crédits d'impôt calculés au titre d'une même oeuvre cinématographique ne peut excéder 4 millions
+VI.-1. La somme des crédits d'impôt calculés au titre d'une même oeuvre cinématographique ne peut excéder 30 millions
 d'euros. 
 
-2. La somme des crédits d'impôt calculés au titre d'une même œuvre audiovisuelle ne peut excéder 1 250 € par minute produite
-et livrée pour une œuvre de fiction, 1 150 € par minute produite et livrée pour une œuvre documentaire et 3 000 € par minute
-produite et livrée pour une œuvre d'animation. 
+2. La somme des crédits d'impôt calculés au titre d'une même œuvre audiovisuelle ne peut excéder : 
 
-La somme des crédits d'impôt est portée à 5 000 € maximum par minute produite et livrée pour les œuvres audiovisuelles de
-fiction qui répondent aux conditions suivantes : 
+a) Pour une œuvre de fiction : 
 
-a) Etre produites dans le cadre d'une coproduction internationale dont le coût de production est couvert au moins à hauteur
-de 30 % par des financements étrangers ; 
+1 250 € par minute produite et livrée lorsque le coût de production est inférieur à 10 000 € par minute produite ; 
 
-b) Avoir un coût de production supérieur ou égal à 35 000 € par minute produite. 
+1 500 € par minute produite et livrée lorsque le coût de production est supérieur ou égal à 10 000 € et inférieur à 15 000 €
+par minute produite ; 
 
-Par dérogation au a du 1 du II, ces œuvres peuvent être réalisées en langue étrangère. Dans ce cas, elles doivent faire
-l'objet d'une version livrée en langue française. 
+2 000 € par minute produite et livrée lorsque le coût de production est supérieur ou égal à 15 000 € et inférieur à 20 000 €
+par minute produite ; 
+
+3 000 € par minute produite et livrée lorsque le coût de production est supérieur ou égal à 20 000 € et inférieur à 25 000 €
+par minute produite ; 
+
+4 000 € par minute produite et livrée lorsque le coût de production est supérieur ou égal à 25 000 € et inférieur à 30 000 €
+par minute produite ; 
+
+5 000 € par minute produite et livrée lorsque le coût de production est supérieur ou égal à 30 000 € et inférieur à 35 000 €
+par minute produite ; 
+
+7 500 € par minute produite et livrée lorsque le coût de production est supérieur ou égal à 35 000 € et inférieur à 40 000 €
+par minute produite ; 
+
+10 000 € par minute produite et livrée lorsque le coût de production est supérieur ou égal à 40 000 € par minute produite ; 
+
+b) Pour une œuvre documentaire : 1 150 € par minute produite et livrée ; 
+
+c) Pour une œuvre d'animation : 3 000 € par minute produite et livrée. 
+
+Les œuvres audiovisuelles de fiction produites dans le cadre d'une coproduction internationale dont le coût de production est
+couvert au moins à hauteur de 30 % par des financements étrangers et dont le coût de production est supérieur ou égal à 35
+000 € par minute produite peuvent être réalisées en langue étrangère. Dans ce cas, elles doivent faire l'objet d'une version
+livrée en langue française.  
 
 3. En cas de coproduction déléguée, le crédit d'impôt est accordé à chacune des entreprises de production proportionnellement
 à sa part dans les dépenses exposées. 
@@ -118,11 +147,11 @@ VIII.-Un décret fixe les conditions d'application du présent article.
 
 **Nota:**
 
-Conformément à l'article 77 II et III de la loi n° 2014-1655 du 29 décembre 2014, les présentes dispositions s'appliquent aux
-crédits d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2016 et entrent en vigueur à une date fixée
-par un décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de
-la Commission européenne permettant de considérer le dispositif législatif lui ayant été notifié comme conforme au droit de
-l'Union européenne en matière d'aides d'Etat.
+Ces dispositions s'appliquent aux crédits d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2016 et
+entrent en vigueur à une date fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par
+le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif législatif lui ayant été
+notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat. Le décret n° 2016-1191 du 31 août 2016 a
+fixé cette date au lendemain de sa publication, soit au 3 septembre 2016.
 
 **Liens relatifs à cet article**
 
@@ -153,8 +182,9 @@ l'Union européenne en matière d'aides d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 77
-	  - Décret n°2016-52 du 27 janvier 2016 - art. 1
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 77 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 111
+	  - Décret n°2016-1191 du 31 août 2016 - art. 2
 
 	**Cite**:
 
