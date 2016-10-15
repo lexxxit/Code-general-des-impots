@@ -110,8 +110,8 @@ a) Le contrat dont la cessation est indemnisée doit avoir été conclu depuis a
 
 b) L'agent général d'assurances fait valoir ses droits à la retraite à la suite de la cessation du contrat ; 
 
-c) L'activité est intégralement poursuivie dans les mêmes locaux par un nouvel agent général d'assurances exerçant à titre
-individuel et dans le délai d'un an. 
+c) L'activité est intégralement poursuivie par un nouvel agent général d'assurances exerçant à titre individuel et dans le
+délai d'un an. 
 
 2. Lorsque le régime de faveur prévu au 1 s'applique, l'agent général d'assurances qui cesse son activité est assujetti, sur
 le montant de l'indemnité compensatrice, à une taxe exceptionnelle établie selon le tarif prévu à l'article 719. Cette taxe
@@ -121,6 +121,14 @@ d'assurances.
 
 VI.-L'option pour le bénéfice du régime défini au présent article est exclusive de celui des régimes prévus au I ter de
 l'article 93 quater et aux articles 151 octies et 151 octies A.
+
+**Nota:**
+
+Dans sa décision n° 2016-587 QPC du 14 octobre 2016 (NOR: CSCX1629594S), le Conseil constitutionnel a déclaré contraires à la
+Constitution les mots : " dans les mêmes locaux " figurant au c du 1 du paragraphe V de l'article 151 septies A du code
+général des impôts dans sa rédaction résultant de la loi n° 2011-1978 du 28 décembre 2011 de finances rectificative pour. La
+déclaration d'inconstitutionnalité prend effet à compter de la publication de ladite décision dans les conditions prévues à
+son paragraphe 9.
 
 **Liens relatifs à cet article**
 
@@ -152,4 +160,4 @@ l'article 93 quater et aux articles 151 octies et 151 octies A.
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 145
+	  - Décision n°2016-587 QPC du 14 octobre 2016 - art. 1, v. init.
