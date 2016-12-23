@@ -60,7 +60,7 @@ directement au spectacle : graphiste, créateur de costumes, maquilleur, habille
 créateur de décors, créateur de lumières, créateur d'effets ou d'ambiances sonores, créateur de vidéo ou d'effets spéciaux,
 metteur en scène, chorégraphe ; 
 
-c) Les redevances versées aux sociétés de perception et de répartition des droits d'auteur au titre des représentations de
+c) Les redevances versées aux     organismes de gestion collective des droits d'auteur au titre des représentations de
 spectacle ; 
 
 d) Les frais de location de salles de répétition et de salles de spectacles ; 
@@ -132,10 +132,6 @@ Ces dispositions s'appliquent aux crédits d'impôts calculés au titre des exer
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 113 (V)
-
 	**Cité par**:
 
 	  - Décret n°2016-1209 du 7 septembre 2016 (V)
@@ -154,6 +150,10 @@ Ces dispositions s'appliquent aux crédits d'impôts calculés au titre des exer
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZY octies (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZY undecies (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 4
+
 	**Cite**:
 
-	  - Code du travail - art. L7122-2 (V)
+	  - Code du travail - art. L7122-2
