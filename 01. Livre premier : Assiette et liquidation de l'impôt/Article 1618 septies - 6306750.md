@@ -1,9 +1,8 @@
 # Article 1618 septies
 
-Il est institué au profit de l'organisme mentionné à l'article L. 731-1 du code rural et de la pêche maritime une taxe
-portant sur les quantités de farines, semoules et gruaux de blé tendre livrées ou mises en oeuvre en vue de la consommation
-humaine, ainsi que sur les mêmes produits introduits en provenance d'autres Etats membres de la Communauté européenne ou
-importés de pays tiers. 
+Il est institué une taxe portant sur les quantités de farines, semoules et gruaux de blé tendre livrées ou mises en oeuvre en
+vue de la consommation humaine, ainsi que sur les mêmes produits introduits en provenance d'autres Etats membres de la
+Communauté européenne ou importés de pays tiers. 
 
 Les farines, semoules et gruaux de blé tendre expédiés vers d'autres Etats membres de la Communauté européenne ou vers les
 départements de Corse, exportés ou destinés à être exportés vers des pays tiers ou vers les départements d'outre-mer, par
@@ -33,13 +32,8 @@ matière de douane.
 	  - Code général des impôts, CGI. - art. 1698 D (M)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 333 H bis (V)
 	  - Code rural - art. L731-3 (V)
-	  - Code rural et de la pêche maritime - art. L731-2 (VD)
+	  - Code rural et de la pêche maritime - art. L731-2 (V)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
-	  - Décret n°2011-645 du 9 juin 2011 - art. 1 (V)
-
-	**Cite**:
-
-	  - Code rural - art. L731-1 (V)
+	  - Loi n°2016-1827 du 23 décembre 2016 - art. 34 (V)
