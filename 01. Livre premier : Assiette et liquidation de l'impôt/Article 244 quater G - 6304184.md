@@ -16,8 +16,8 @@ Ce montant est porté à 2 200 € dans les cas suivants, quel que soit le dipl�
 1° lorsque la qualité de travailleur handicapé est reconnue à l'apprenti en application des articles L. 5213-1 et L. 5213-2
 du code du travail ; 
 
-2° lorsque l'apprenti bénéficie de l'accompagnement personnalisé et renforcé prévu par décret en application du 1° de
-l'article L. 5131-7 du code du travail ; 
+2° lorsque l'apprenti bénéficie du parcours contractualisé d'accompagnement  prévu par décret en Conseil d'Etat  en
+application du 1° de l'article L. 5131-7 du code du travail ; 
 
 3° lorsque l'apprenti est employé par une entreprise portant le label " Entreprise du patrimoine vivant " au sens de
 l'article 23 de la loi n° 2005-882 du 2 août 2005 en faveur des petites et moyennes entreprises. 
@@ -44,27 +44,31 @@ IV.-(Abrogé).
 
 **Nota:**
 
-Décret n° 2014-549 du 26 mai 2014 article 1 : Au premier alinéa du I, la référence : , 44 decies  est périmée.
+Décret n° 2014-549 du 26 mai 2014 article 1 : Au premier alinéa du I, la référence : , 44 decies est périmée. 
+
+Aux termes du IV de l'article 46 de la loi n° 2016-1088 du 8 août 2016, les contrats d'insertion dans la vie sociale conclus
+avant le 1er janvier 2017 continuent à produire leurs effets dans les conditions applicables avant cette date, jusqu'à leur
+terme.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°2005-882 du 2 août 2005 - art. 23
-	  - Code général des impôts, CGI. - art. 156 (V)
-	  - Code général des impôts, CGI. - art. 238 bis L (V)
-	  - Code général des impôts, CGI. - art. 238 ter (V)
-	  - Code général des impôts, CGI. - art. 239 quater (V)
-	  - Code général des impôts, CGI. - art. 239 quater A (V)
-	  - Code général des impôts, CGI. - art. 239 quater B (V)
-	  - Code général des impôts, CGI. - art. 239 quinquies (V)
-	  - Code général des impôts, CGI. - art. 239 ter (V)
-	  - Code général des impôts, CGI. - art. 44 octies (V)
-	  - Code général des impôts, CGI. - art. 44 sexies (V)
-	  - Code général des impôts, CGI. - art. 44 terdecies (V)
-	  - Code général des impôts, CGI. - art. 8 (V)
+	  - Code général des impôts, CGI. - art. 156
+	  - Code général des impôts, CGI. - art. 238 bis L
+	  - Code général des impôts, CGI. - art. 238 ter
+	  - Code général des impôts, CGI. - art. 239 quater
+	  - Code général des impôts, CGI. - art. 239 quater A
+	  - Code général des impôts, CGI. - art. 239 quater B
+	  - Code général des impôts, CGI. - art. 239 quinquies
+	  - Code général des impôts, CGI. - art. 239 ter
+	  - Code général des impôts, CGI. - art. 44 octies
+	  - Code général des impôts, CGI. - art. 44 sexies
+	  - Code général des impôts, CGI. - art. 44 terdecies
+	  - Code général des impôts, CGI. - art. 8
 	  - Code du service national - art. L130-1
-	  - Code du travail - art. L5131-7
+	  - Code du travail - art. L5131-7 (VD)
 	  - Code du travail - art. L5213-1
 
 	**Cité par**:
@@ -78,4 +82,4 @@ Décret n° 2014-549 du 26 mai 2014 article 1 : Au premier alinéa du I, la réf
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 1
+	  - Loi n°2016-1088 du 8 août 2016 - art. 46 (V)

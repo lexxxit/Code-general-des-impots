@@ -33,7 +33,7 @@ une zone mentionnée au I, le 1 du II est applicable.
 
 b) Des taux d'imposition différents du taux communautaire fixé en application du a peuvent être appliqués pour
 l'établissement des douze premiers budgets de la communauté. Les écarts entre les taux applicables dans chaque commune membre
-et le taux communautaire sont réduits dans les conditions prévues au b du 1° du III de l'article 1609 nonies C. 
+et le taux communautaire sont réduits dans les conditions prévues aux b et c du 1° du III de l'article 1609 nonies C. 
 
 2. Le III de l'article 1638 quater est applicable en cas d'incorporation d'une commune ou partie de commune dans une zone
 d'activités économiques ou en cas de rattachement d'une commune sur le territoire de laquelle sont implantées des
@@ -95,15 +95,19 @@ modalités prévues aux a et b du D du IV du même 1.1.
 Le cas échéant, sur délibérations concordantes de l'établissement public de coopération intercommunale et des communes
 membres, le prélèvement sur les ressources calculé selon les modalités prévues aux II et III du 2.1 dudit article 78 peut
 être mis à la charge de cet établissement public, à l'exclusion de la part calculée selon les modalités prévues aux 1° et 2°
-du a du D du IV du même 2.1. ;
+du a du D du IV du même 2.1.
+
+Par exception au I de l'article 1639 A bis, l'établissement public de coopération intercommunale soumis au présent article et
+issu d'une fusion ou ayant connu une modification de périmètre et ses communes membres ont jusqu'au 15 janvier pour prendre
+les délibérations prévues au présent 5.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 6 (V)
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 6
 	  - Loi n°2005-781 du 13 juillet 2005
-	  - Code général des impôts, CGI. - art. 1478 (V)
+	  - Code général des impôts, CGI. - art. 1478
 	  - Code général des impôts, CGI. - art. 1519 D
 	  - Code général des impôts, CGI. - art. 1638 quater
 
@@ -136,7 +140,7 @@ du a du D du IV du même 2.1. ;
 	  - Code général des impôts, CGI. - art. 1379-0 bis (VD)
 	  - Code général des impôts, CGI. - art. 1609 nonies C (V)
 	  - Code général des impôts, CGI. - art. 1636 B decies (V)
-	  - Code général des impôts, CGI. - art. 1638-0 bis (M)
+	  - Code général des impôts, CGI. - art. 1638-0 bis (V)
 	  - Code général des impôts, CGI. - art. 1639 A ter (V)
 	  - Code général des impôts, CGI. - art. 1640 B (V)
 	  - Code général des impôts, CGI. - art. 1647 D (V)
@@ -145,4 +149,5 @@ du a du D du IV du même 2.1. ;
 
 	**Modifié par**:
 
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 34 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 75 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 80

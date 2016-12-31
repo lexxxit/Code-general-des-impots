@@ -8,23 +8,32 @@ précédente, après déduction des seuls déficits catégoriels dont l'imputati
 revenus exonérés d'impôt sur le revenu et des produits soumis à un prélèvement libératoire réalisés au cours de la même année
 en France ou hors de France. 
 
+Les revenus distribués à une société passible de l'impôt sur les sociétés contrôlée par le redevable sont réintégrés dans le
+calcul prévu au premier alinéa du présent I, si l'existence de cette société et le choix d'y recourir ont pour objet
+principal d'éluder tout ou partie de l'impôt de solidarité sur la fortune, en bénéficiant d'un avantage fiscal allant à
+l'encontre de l'objet ou de la finalité du même premier alinéa. Seule est réintégrée la part des revenus distribués
+correspondant à une diminution artificielle des revenus pris en compte pour le calcul prévu audit premier alinéa. 
+
+En cas de désaccord sur les rectifications notifiées sur le fondement du deuxième alinéa du présent I, le litige est soumis
+aux dispositions des trois derniers alinéas de l'article L. 64 du livre des procédures fiscales. 
+
 II.-Les plus-values ainsi que tous les revenus sont déterminés sans considération des exonérations, seuils, réductions et
 abattements prévus au présent code, à l'exception de ceux représentatifs de frais professionnels. 
 
 Lorsque l'impôt sur le revenu a frappé des revenus de personnes dont les biens n'entrent pas dans l'assiette de l'impôt de
 solidarité sur la fortune, il est réduit suivant le pourcentage du revenu de ces personnes par rapport au revenu total.
 
-**Nota:**
-
-Loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013, article 13 IV : Ces dispositions s'appliquent à l'impôt de
-solidarité sur la fortune dû à compter de l'année 2013.
-
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2012-1509 du 29 décembre 2012 - art. 13 (VD)
 
 	**Cité par**:
 
 	  - Loi n°2016-1917 du 29 décembre 2016 - art. 7
+
+	**Modifié par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 7
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 156 (VD)
+	  - Livre des procédures fiscales - art. L64 (V)

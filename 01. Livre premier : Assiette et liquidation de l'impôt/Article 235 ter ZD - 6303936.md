@@ -74,7 +74,7 @@ partie à l'échange est taxée sur la valeur des titres dont elle fait l'acquis
 
 IV.-La taxe est exigible le premier jour du mois suivant celui au cours duquel s'est produite l'acquisition du titre. 
 
-V.-Le taux de la taxe est fixé à 0,2 %. 
+V.-Le taux de la taxe est fixé à 0,3 %. 
 
 VI.-La taxe est liquidée et due par l'opérateur fournissant des services d'investissement, au sens de l'article L. 321-1 du
 code monétaire et financier, ayant exécuté l'ordre d'achat du titre ou ayant négocié pour son compte propre, quel que soit
@@ -156,6 +156,9 @@ XII.-La taxe est recouvrée et contrôlée selon les procédures et sous les mê
 taxes sur le chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ces
 mêmes taxes.
 
+XIII.-La taxe est affectée à l'Agence française de développement dans la limite du plafond prévu au I de l'article 46 de la
+loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -178,7 +181,8 @@ mêmes taxes.
 
 	**Modifié par**:
 
-	  - Loi n°2016-1691 du 9 décembre 2016 - art. 42
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 25
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 36 (V)
 
 	**Cite**:
 

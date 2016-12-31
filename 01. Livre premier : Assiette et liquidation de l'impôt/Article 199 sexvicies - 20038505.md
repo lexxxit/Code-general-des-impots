@@ -1,7 +1,7 @@
 # Article 199 sexvicies
 
 I.-Les contribuables domiciliés en France au sens de l'article 4 B peuvent bénéficier d'une réduction d'impôt sur le revenu
-au titre de l'acquisition, à compter du 1er janvier 2009 et jusqu'au 31 décembre 2016, d'un logement neuf ou en l'état futur
+au titre de l'acquisition, à compter du 1er janvier 2009 et jusqu'au 31 décembre 2017, d'un logement neuf ou en l'état futur
 d'achèvement ou d'un logement achevé depuis au moins quinze ans ayant fait l'objet d'une réhabilitation ou d'une rénovation
 ou qui fait l'objet de travaux de réhabilitation ou de rénovation si les travaux de réhabilitation ou de rénovation
 permettent, après leur réalisation, de satisfaire à l'ensemble des performances techniques mentionnées au II de l'article 2
@@ -16,7 +16,7 @@ ou médico-sociale ;
 
 2° Une résidence avec services pour étudiants ; 
 
-3° Une résidence de tourisme classée ; 
+3° (abrogé) ; (1)
 
 4° Un établissement délivrant des soins de longue durée, mentionné au dixième alinéa du 3° de l'article L. 6143-5 du code de
 la santé publique, et comportant un hébergement, à des personnes n'ayant pas leur autonomie de vie dont l'état nécessite une
@@ -27,7 +27,7 @@ Lorsqu'elle est acquise au titre d'un logement achevé depuis au moins quinze an
 réhabilitation, elle est calculée sur le prix d'acquisition majoré du montant de ces travaux. 
 
 Le taux de la réduction d'impôt est de 25 % pour les logements acquis en 2009 et en 2010, de 18 % pour les logements acquis
-en 2011 et de 11 % pour ceux acquis à compter de 2012.  
+en 2011 et de 11 % pour ceux acquis à compter de 2012. 
 
 Toutefois, pour les logements acquis en 2012, le taux de la réduction d'impôt reste fixé à 18 % au titre des acquisitions
 pour lesquelles le contribuable justifie qu'il a pris, au plus tard le 31 décembre 2011, l'engagement de réaliser un
@@ -80,11 +80,20 @@ restant à courir à la date du décès.
 IV.-Un contribuable ne peut, pour un même logement, bénéficier à la fois des réductions d'impôt mentionnées aux articles 199
 undecies A et 199 undecies B et des dispositions du présent article.
 
+**Nota:**
+
+(1) Loi n° 2016-1917 du 29 décembre 2016, art. 69-II : ces dispositions s'appliquent aux investissements réalisés à compter
+du 1er janvier 2017, à l'exception de ceux réalisés au plus tard le 31 mars 2017 pour lesquels le contribuable peut
+justifier : 
+
+1° S'agissant de l'acquisition d'un logement en l'Etat futur d'achèvement, d'un contrat préliminaire de réservation mentionné
+à l'article L. 261-15 du code de la construction et de l'habitation, signé et déposé au rang des minutes d'un notaire ou
+enregistré au service des impôts au plus tard le 31 décembre 2016 ; 
+
+2° Dans les autres cas, d'une promesse d'achat ou d'une promesse synallagmatique de vente signée au plus tard le 31 décembre
+2016.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2012-1509 du 29 décembre 2012 - art. 77
 
 	**Cité par**:
 
@@ -95,6 +104,10 @@ undecies A et 199 undecies B et des dispositions du présent article.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZN (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA nonies (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZD (T)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 69
 
 	**Cite**:
 

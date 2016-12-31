@@ -98,11 +98,23 @@ déposées au lieu de dépôt de la déclaration de résultat.
 Pour l'application du présent III, la valeur locative des immobilisations imposables à la cotisation foncière des entreprises
 s'entend avant application éventuelle de l'abattement prévu à l'avant-dernier alinéa de l'article 1467.
 
+Pour le versement par l'Etat du produit de la cotisation sur la valeur ajoutée des entreprises aux collectivités
+territoriales et aux établissements publics de coopération intercommunale, la valeur ajoutée produite par les entreprises
+membres d'un groupe au sens de l'article 223 A est répartie entre chacune des communes où les entreprises membres du groupe
+disposent de locaux ou emploient des salariés exerçant leur activité plus de trois mois, dans les conditions prévues au
+présent III.
+
+**Nota:**
+
+Conformément au II de l'article 51 de la loi n° 2016-1918 du 29 décembre 2016, les présentes dispositions s'appliquent à la
+cotisation sur la valeur ajoutée des entreprises due par les redevables au titre de 2017 et des années suivantes et versée
+par l'Etat aux collectivités territoriales et aux établissements publics de coopération intercommunale à compter de 2018. 
+
+III.-Chaque année, le Gouvernement remet au Parlement avant le 30 septembre un rapport ayant pour objet l'analyse de la
+variation tant du produit de cotisation sur la valeur ajoutée des entreprises que de sa répartition entre régions et
+départements.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
 
 	**Cité par**:
 
@@ -144,7 +156,7 @@ s'entend avant application éventuelle de l'abattement prévu à l'avant-dernier
 
 	**Modifié par**:
 
-	  - Ordonnance n°2014-326 du 12 mars 2014 - art. 101
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 51 (V)
 
 	**Cite**:
 

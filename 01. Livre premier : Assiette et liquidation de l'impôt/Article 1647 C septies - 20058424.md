@@ -1,7 +1,7 @@
 # Article 1647 C septies
 
 I. ― Les redevables de la cotisation foncière des entreprises et les entreprises temporairement exonérées de cet impôt au
-titre de l'un ou plusieurs de leurs établissements en application des articles 1464 B à 1464 D, 1464 I, 1464 L, 1466 A, 1466
+titre de l'un ou plusieurs de leurs établissements en application des articles 1464 B à 1464 D, 1464 I, 1464 M, 1466 A , 1466
 C et 1466 D peuvent bénéficier d'un crédit d'impôt, pris en charge par l'Etat et égal à 750 € par salarié employé depuis au
 moins un an au 1er janvier de l'année d'imposition dans l'établissement au titre duquel le crédit d'impôt est demandé,
 lorsque les conditions suivantes sont réunies : 
@@ -47,6 +47,11 @@ VII. ― Le bénéfice du crédit d'impôt est subordonné au respect du règlem
 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux
 aides de minimis.
 
+**Nota:**
+
+Conformément au II de l'article 43 de la loi n° 2016-1918 du 29 décembre 2016, les présentes dispositions s'appliquent à
+compter des impositions établies au titre de 2017.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -57,17 +62,23 @@ aides de minimis.
 	  - Code général des impôts, CGI. - art. 1464 L
 	  - Code général des impôts, CGI. - art. 1466 A (M)
 	  - Code général des impôts, CGI. - art. 1466 C
-	  - Code général des impôts, CGI. - art. 1467 A (V)
+	  - Code général des impôts, CGI. - art. 1467 A
 	  - Code général des impôts, CGI. - art. 1477
-	  - Code général des impôts, CGI. - art. 1478 (V)
-	  - Code général des impôts, CGI. - art. 223 A (V)
-	  - Code général des impôts, CGI. - art. 223 A bis (V)
-	  - Code général des impôts, CGI. - art. 34 (V)
+	  - Code général des impôts, CGI. - art. 1478
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 223 A bis
+	  - Code général des impôts, CGI. - art. 34
+
+	**Créé par**:
+
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 34 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 15
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 15 (V)
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 67 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 43 (V)
 
 	**Cité par**:
 

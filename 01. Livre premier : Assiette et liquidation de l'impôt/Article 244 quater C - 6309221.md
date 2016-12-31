@@ -27,7 +27,7 @@ Pour être éligibles au crédit d'impôt, les rémunérations versées aux sala
 résultat imposable à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun et avoir été
 régulièrement déclarées aux organismes de sécurité sociale. 
 
-III.-Le taux du crédit d'impôt est fixé à 6 %. 
+III.-Le taux du crédit d'impôt est fixé à 7 %. 
 
 Par dérogation au premier alinéa du présent III, lorsque l'assiette du crédit d'impôt est constituée par des rémunérations
 versées à des salariés affectés à des exploitations situées dans les départements d'outre-mer, son taux est fixé à : 
@@ -35,6 +35,11 @@ versées à des salariés affectés à des exploitations situées dans les dépa
 1° 7,5 % pour les rémunérations versées en 2015 ; 
 
 2° 9 % pour les rémunérations versées à compter du 1er janvier 2016. 
+
+Le bénéfice du taux majoré du crédit d'impôt pour des exploitations situées dans les départements d'outre-mer est subordonné
+au respect de l'article 15 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories
+d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité, y compris pour les secteurs
+mentionnés au 3 de l'article 1er et au a de l'article 13 du même règlement.
 
 IV.-Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux articles 8,238 bis 
 L, 239 ter et 239 quater A ou les groupements mentionnés aux articles 238 ter, 239 quater, 239 quater B, 239 quater C et 239
@@ -52,16 +57,7 @@ entreprises et aux organismes chargés du recouvrement des cotisations de sécur
 
 **Nota:**
 
-Conformément au II de l'article 65 de la loi n° 2014-1654 du 29 décembre 2014 de finances, ces dispositions entrent en
-vigueur à compter du 1er janvier 2015 pour les entreprises qui satisfont aux conditions fixées au chapitre Ier et à la
-section 1 du chapitre III du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories
-d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité et, pour les autres
-entreprises, à une date fixée par décret (1), qui ne peut être postérieure de plus de six mois à la date de réception par le
-Gouvernement de la réponse de la Commission européenne permettant de regarder le dispositif législatif lui ayant été notifié
-comme conforme au droit de l'Union européenne en matière d'aides d'Etat.
 
-(1) Conformément à l'article 1 du décret n° 2015-1315 du 20 octobre 2015, ces dispositions entrent en vigueur le 24 octobre
-2015.
 
 **Liens relatifs à cet article**
 
@@ -87,9 +83,8 @@ comme conforme au droit de l'Union européenne en matière d'aides d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 66 (V)
-	  - Loi n°2014-1654 du 29 décembre 2014 - art. 65
-	  - Loi n°2014-1654 du 29 décembre 2014 - art. 76
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 111
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 72 (V)
 
 	**Cite**:
 
@@ -102,7 +97,7 @@ comme conforme au droit de l'Union européenne en matière d'aides d'Etat.
 	  - Code général des impôts, CGI. - art. 239 quater B
 	  - Code général des impôts, CGI. - art. 239 quinquies
 	  - Code général des impôts, CGI. - art. 239 ter
-	  - Code général des impôts, CGI. - art. 44 duodecies (V)
-	  - Code général des impôts, CGI. - art. 44 sexies (V)
+	  - Code général des impôts, CGI. - art. 44 duodecies
+	  - Code général des impôts, CGI. - art. 44 sexies
 	  - Code général des impôts, CGI. - art. 8
-	  - Code de la sécurité sociale. - art. L242-1 (V)
+	  - Code de la sécurité sociale. - art. L242-1

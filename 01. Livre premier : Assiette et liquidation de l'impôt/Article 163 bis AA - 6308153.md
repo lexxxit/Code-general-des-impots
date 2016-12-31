@@ -25,18 +25,20 @@ Cette exonération est maintenue dans les mêmes conditions dans le cas où les 
 mêmes organismes de placement les sommes initialement investies dans l'entreprise conformément aux dispositions du 2° de
 l'article L. 3323-2 précité. 
 
-Cette exonération est également maintenue dans les mêmes conditions lorsque ces mêmes sommes sont retirées par les salariés
-pour être affectées à la constitution du capital d'une société ayant pour objet exclusif de racheter tout ou partie du
-capital de leur entreprise dans les conditions prévues à l'article 83 bis. 
-
 Pour ouvrir droit aux exonérations prévues au présent article, les accords de participation doivent avoir été déposés à la
 direction départementale du travail et de l'emploi du lieu où ils ont été conclus.
+
+**Nota:**
+
+Conformément à l'article 26 XI 5 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, les dispositions de
+l'article 163 bis AA, dans leur rédaction issue de la présente loi, s'appliquent aux emprunts contractés à compter du 1er
+janvier 2017.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-1258 du 3 décembre 2008 - art. 4 (V)
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 26
 
 	**Cité par**:
 

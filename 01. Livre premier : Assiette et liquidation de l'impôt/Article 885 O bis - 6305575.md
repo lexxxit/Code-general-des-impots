@@ -7,10 +7,13 @@ considérées comme des biens professionnels si leur propriétaire remplit les c
 associé en nom d'une société de personnes, soit président, directeur général, président du conseil de surveillance ou membre
 du directoire d'une société par actions. 
 
-Les fonctions énumérées ci-dessus doivent être effectivement exercées et donner lieu à une rémunération normale. Celle-ci
-doit représenter plus de la moitié des revenus à raison desquels l'intéressé est soumis à l'impôt sur le revenu dans les
-catégories des traitements et salaires, bénéfices industriels et commerciaux, bénéfices agricoles, bénéfices non commerciaux,
-revenus des gérants et associés mentionnés à l'article 62. 
+Les fonctions mentionnées au premier alinéa du présent 1° doivent être effectivement exercées et donner lieu à une
+rémunération normale, dans les catégories imposables à l'impôt sur le revenu des traitements et salaires, bénéfices
+industriels et commerciaux, bénéfices agricoles, bénéfices non commerciaux et revenus des gérants et associés mentionnés à
+l'article 62, au regard des rémunérations du même type versées au titre de fonctions analogues dans l'entreprise ou dans des
+entreprises similaires établies en France. Cette rémunération doit représenter plus de la moitié des revenus à raison
+desquels l'intéressé est soumis à l'impôt sur le revenu dans les mêmes catégories, à l'exclusion des revenus non
+professionnels ;
 
 2° Posséder 25 % au moins des droits de vote attachés aux titres émis par la société, directement ou par l'intermédiaire de
 son conjoint ou de leurs ascendants ou descendants ou de leurs frères et soeurs. Les titres détenus dans les mêmes conditions
@@ -57,14 +60,13 @@ principale dans la société rachetée et que la société créée bénéficie d
 
 **Nota:**
 
-Loi n° 2011-900 du 29 juillet 2011 de finances rectificative pour 2011 article 39 IV : Le présent article s'applique à
-l'impôt sur la fortune dû à compter de l'année 2012.
+
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-653 du 4 mai 2012 - art. 1
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 29
 
 	**Cité par**:
 

@@ -48,7 +48,19 @@ investissements mentionnés aux a et b ;
 d. Des travaux de rénovation d'hôtel. 
 
 Pour le calcul du crédit d'impôt, le prix de revient des investissements est diminué du montant des subventions publiques
-attribuées en vue de financer ces investissements. 
+attribuées en vue de financer ces investissements.
+
+3° bis Le taux mentionné au premier alinéa du 3° est porté à 30 % pour les entreprises qui ont employé moins de onze salariés
+et ont réalisé soit un chiffre d'affaires n'excédant pas 2 millions d'euros au cours de l'exercice ou de la période
+d'imposition, ramené le cas échéant à douze mois en cours lors de la réalisation des investissements éligibles, soit un total
+de bilan n'excédant pas 2 millions d'euros. L'effectif de l'entreprise est apprécié par référence au nombre moyen de salariés
+employés au cours de cet exercice ou de cette période d'imposition. Le capital des sociétés bénéficiaires doit être
+entièrement libéré et être détenu de manière continue, pour 75 % au moins, par des personnes physiques ou par une société
+répondant aux mêmes conditions. Le pourcentage de 75 % est déterminé dans les conditions prévues au dernier alinéa du 1°. 
+
+Au titre des exercices clos entre le 31 décembre 2017 et le 31 décembre 2018, lorsqu'une entreprise constate, à la date de la
+clôture de son exercice, un dépassement du seuil d'effectif prévu au premier alinéa du présent 3° bis, cette circonstance ne
+lui fait pas perdre le bénéfice du crédit d'impôt au titre de cet exercice et des deux exercices suivants. (1) 
 
 4° Les investissements réalisés par les petites et moyennes entreprises en difficulté peuvent ouvrir droit au crédit d'impôt
 prévu au 1° si elles ont reçu un agrément préalable délivré dans les conditions prévues à l'article 1649 nonies. Une
@@ -91,6 +103,11 @@ V.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect 
 Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des
 articles 107 et 108 du traité.
 
+**Nota:**
+
+(1) Loi n° 2016-1917 du 29 décembre 2016, art. 74 : ces dispositions s'appliquent aux exercices clos à compter du 31 décembre
+2017.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -108,13 +125,13 @@ articles 107 et 108 du traité.
 	  - Code général des impôts, CGI. - art. 41
 	  - Code général des impôts, CGI. - art. 44 quindecies
 	  - Code général des impôts, CGI. - art. 44 septies
-	  - Code général des impôts, CGI. - art. 44 sexies (V)
+	  - Code général des impôts, CGI. - art. 44 sexies
 	  - Code général des impôts, CGI. - art. 8
 	  - Code monétaire et financier - art. L214-37
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 78
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 74
 
 	**Cité par**:
 

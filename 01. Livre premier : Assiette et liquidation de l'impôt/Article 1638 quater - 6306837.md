@@ -68,10 +68,7 @@ IV bis. - Dans les cas prévus aux I et IV, par délibérations concordantes de 
 coopération intercommunale et du conseil municipal de la commune concernée, les taux de taxe d'habitation, de taxe foncière
 sur les propriétés bâties, de taxe foncière sur les propriétés non bâties et, le cas échéant, de cotisation foncière des
 entreprises votés par l'organe délibérant de l'établissement public de coopération intercommunale peuvent être appliqués de
-manière progressive, par fractions égales, sur une période maximale de douze années. Le présent IV bis n'est pas applicable
-aux taxes pour lesquelles le rapport entre ces taux et les taux votés par le conseil municipal l'année du rattachement de
-cette commune est inférieur à 10 %. Le cas échéant, sont pris en compte pour le calcul de ce rapport les taux des impositions
-perçues l'année du rattachement au profit des établissements publics auxquels la commune appartenait. 
+manière progressive, par fractions égales, sur une période maximale de douze années. 
 
 Lorsque, l'année du rattachement, la commune était membre d'un établissement public de coopération intercommunale à fiscalité
 propre, la procédure d'intégration fiscale progressive prévue au premier alinéa du présent IV bis ne concerne que la
@@ -91,7 +88,9 @@ VII.-En cas de rattachement dans les conditions mentionnées au I à un établis
 faisait application en 2011 de l'article 1609 nonies C d'une commune qui n'était pas membre en 2011 d'un tel établissement,
 le taux communal de taxe d'habitation est réduit de la différence entre, d'une part, le taux de référence de taxe
 d'habitation calculé pour la commune conformément à l'article 1640 C, d'autre part, le taux communal de taxe d'habitation
-applicable en 2010 dans la commune.
+applicable en 2010 dans la commune. Ces dispositions sont applicables en cas de rattachement à un établissement public de
+coopération intercommunale issu d'une ou plusieurs fusions d'établissements publics de coopération intercommunale dont l'un
+au moins faisait application en 2011 de l'article 1609 nonies C.
 
 **Liens relatifs à cet article**
 
@@ -100,11 +99,12 @@ applicable en 2010 dans la commune.
 	  - Loi n°2002-1575 du 30 décembre 2002 - art. 29 (V)
 	  - Code général des impôts, CGI. - art. 1609 nonies C (V)
 	  - Code général des impôts, CGI. - art. 1609 quinquies C (V)
-	  - Code général des impôts, CGI. - art. 1640 C (V)
+	  - Code général des impôts, CGI. - art. 1640 C (M)
 
 	**Modifié par**:
 
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 34 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 75 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 82
 
 	**Cite**:
 

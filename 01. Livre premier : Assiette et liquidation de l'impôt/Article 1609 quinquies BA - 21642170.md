@@ -65,19 +65,19 @@ modalités prévues aux a et b du D du IV du même 1.1.
 Le cas échéant, sur délibérations concordantes de l'établissement public de coopération intercommunale et des communes
 membres, le prélèvement sur les ressources calculé selon les modalités prévues aux II et III du 2.1 dudit article 78 peut
 être mis à la charge de cet établissement public, à l'exclusion de la fraction calculée selon les modalités prévues aux 1° et
-2° du a du D du IV du même 2.1.
+2° du a du D du IV du même 2.1. 
+
+Par exception au I de l'article 1639 A bis, l'établissement public de coopération intercommunale soumis au présent article et
+issu d'une fusion ou ayant connu une modification de périmètre et ses communes membres ont jusqu'au 15 janvier pour prendre
+les délibérations prévues au présent 4.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°72-657 du 13 juillet 1972 - art. 3 (V)
+	  - Loi n°72-657 du 13 juillet 1972 - art. 3
 	  - Code général des impôts, CGI. - art. 1379
 	  - Code général des collectivités territoriales - art. L5211-5
-
-	**Modifié par**:
-
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 34 (V)
 
 	**Cité par**:
 
@@ -85,3 +85,7 @@ membres, le prélèvement sur les ressources calculé selon les modalités prév
 	  - Code général des collectivités territoriales - art. L2332-2 (V)
 	  - Code général des impôts, CGI. - art. 1379-0 bis (VD)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 quaterdecies (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 80

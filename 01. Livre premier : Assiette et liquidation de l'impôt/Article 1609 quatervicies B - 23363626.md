@@ -8,7 +8,6 @@ Une partie de cette contribution, fixée à un taux de 0,124 % du chiffre d'affa
 régionales de métiers et de l'artisanat, les chambres de métiers et de l'artisanat de région et la chambre de métiers et de
 l'artisanat de Mayotte, au financement d'actions de formation, au sens des mêmes articles L. 6313-1 à L. 6313-11 et L.
 6353-1, des chefs d'entreprises artisanales dans la gestion et le développement de celles-ci et gérée sur un compte annexe.
-Cette partie de la contribution n'est pas appelée pour les ressortissants du Bas-Rhin et du Haut-Rhin.
 
 L'autre partie de cette contribution, fixée à un taux de 0,176 % du chiffre d'affaires annuel, correspond à la contribution
 visée au quatrième alinéa du 1° du II de l'article 8 de l'ordonnance n° 2003-1213 du 18 décembre 2003 relative aux mesures de
@@ -42,13 +41,13 @@ organismes chargés du recouvrement de la contribution.
 	  - Arrêté du 17 mars 2008 - art. 3 (VT)
 	  - Arrêté du 17 mars 2008 - art. 4 (VD)
 	  - Arrêté du 17 mars 2008 - art. 5 (VT)
-	  - Code du travail - art. L6331-54 (VT)
+	  - Code du travail - art. L6331-54 (V)
 	  - Code du travail - art. R6331-60 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2014-626 du 18 juin 2014 - art. 24
 
 	**Abrogé par**:
 
-	  - Loi n°2016-1088 du 8 août 2016 - art. 41 (M)
+	  - Loi n°2016-1088 du 8 août 2016 - art. 41 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 103 (V)

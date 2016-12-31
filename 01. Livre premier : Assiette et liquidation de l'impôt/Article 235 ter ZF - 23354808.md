@@ -20,7 +20,7 @@ de l'exercice, hors amortissements dérogatoires, déterminés avant application
 mentionnées au troisième alinéa du I de l'article 209 et à l'article 220 quinquies. 
 
 III.-Le taux de la taxe, compris entre 5 % et 25 %, est fixé par arrêté conjoint des ministres chargés respectivement des
-transports, de l'économie et du budget. Le montant de la taxe est plafonné à 200 millions d'euros. 
+transports, de l'économie et du budget. Le montant de la taxe est plafonné à 226 millions d'euros. 
 
 IV.-La taxe est déclarée et liquidée : 
 
@@ -36,12 +36,6 @@ La taxe est acquittée lors du dépôt de la déclaration.
 V.-La taxe est recouvrée et contrôlée selon les procédures et sous les mêmes sanctions, garanties et privilèges que la taxe
 sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
 
-**Nota:**
-
-Conformément à l'article 20 XXIII de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les
-dispositions de l'article 235 ter ZF, dans leur rédaction issue de la présente loi, s'appliquent aux déclarations souscrites
-à compter du 1er février 2014.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -52,14 +46,14 @@ dispositions de l'article 235 ter ZF, dans leur rédaction issue de la présente
 
 	**Modifié par**:
 
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 4
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 5 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 209 (M)
+	  - Code général des impôts, CGI. - art. 209
 	  - Code général des impôts, CGI. - art. 219
 	  - Code général des impôts, CGI. - art. 220 quinquies
 	  - Code général des impôts, CGI. - art. 223 A
-	  - Code général des impôts, CGI. - art. 287 (M)
+	  - Code général des impôts, CGI. - art. 287 (V)
 	  - Code général des impôts, CGI. - art. 302 bis ZC
 	  - Code des transports - art. L2122-9

@@ -48,8 +48,8 @@ code du travail, ni la fraction des versements effectués au titre de souscripti
 prévue aux I à IV de l'article 199 terdecies-0 A ou à la réduction d'impôt de solidarité sur la fortune prévue à l'article
 885-0 V bis. 
 
-Les intérêts ouvrant droit à la réduction d'impôt mentionnée au I ne peuvent ouvrir droit aux déductions prévues au 2°
-quinquies et, au titre des frais réels et justifiés, au 3° de l'article 83. 
+Les intérêts ouvrant droit à la réduction d'impôt mentionnée au I ne peuvent ouvrir droit aux déductions prévues, au titre
+des frais réels et justifiés, au 3° de l'article 83. 
 
 IV.-Les dispositions du 5 du I de l'article 197 sont applicables aux réductions d'impôt prévues au présent article. 
 
@@ -76,11 +76,25 @@ VII.-Un décret fixe les obligations déclaratives incombant aux contribuables e
 
 VIII.-Ces dispositions s'appliquent aux emprunts contractés jusqu'au 31 décembre 2011.
 
+**Nota:**
+
+Conformément à l'article 26 XI 5 de la loi n° 2013-1278 du 29 décembre  2013 de finances pour 2014, les dispositions de
+l'article 199 terdecies-0 B,  dans leur rédaction issue de la présente loi, s'appliquent aux emprunts  contractés à compter
+du 1er janvier 2017.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2003-721 du 1 août 2003
+	  - Code général des impôts, CGI. - art. 197
+	  - Code général des impôts, CGI. - art. 4 B
+	  - Code général des impôts, CGI. - art. 885 O bis
+	  - Code de la sécurité sociale. - art. L341-4
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 78
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 26
 
 	**Cité par**:
 

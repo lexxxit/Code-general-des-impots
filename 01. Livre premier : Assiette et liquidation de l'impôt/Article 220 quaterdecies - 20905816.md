@@ -18,9 +18,9 @@ a) Ne pas être admises au bénéfice des aides financières à la production du
 b) Comporter, dans leur contenu dramatique, des éléments rattachés à la culture, au patrimoine ou au territoire français. Le
 respect de cette condition est vérifié au moyen d'un barème de points dont le contenu est fixé par décret ; 
 
-c) Faire l'objet de dépenses éligibles mentionnées au III, d'un montant supérieur ou égal à un million d'euros ou, lorsque le
-budget de production de l'œuvre est inférieur à 2 millions d'euros, d'un montant correspondant au moins à 50 % de ce budget
-et, pour les œuvres appartenant au genre de la fiction, d'un minimum de cinq jours de tournage en France. 
+c) Faire l'objet de dépenses éligibles mentionnées au III, d'un montant supérieur ou égal à un 250 000 € ou, lorsque le
+budget de production de l'œuvre est inférieur à 500 000 €, d'un montant correspondant au moins à 50 % de ce budget et, pour
+les œuvres appartenant au genre de la fiction, d'un minimum de cinq jours de tournage en France. 
 
 2. N'ouvrent pas droit au crédit d'impôt mentionné au I : 
 
@@ -74,15 +74,11 @@ pour effet de porter à plus de 50 % du budget de production de l'œuvre le mont
 
 VIII. ― Un décret précise les conditions d'application du présent article.
 
-**Nota:**
-
-Ces dispositions s'appliquent aux crédits d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2016.
-
-Ces dispositions entrent en vigueur à une date fixée par un décret, qui ne peut être postérieure de plus de six mois à la
-date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif
-législatif lui ayant été notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat.
-
 **Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 131 (V)
 
 	**Cité par**:
 
@@ -124,8 +120,7 @@ législatif lui ayant été notifié comme conforme au droit de l'Union europée
 
 	**Modifié par**:
 
-	  - Loi n°2013-1278 du 29 décembre 2013 - art. 23 (V)
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 77 (M)
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 81 (V)
 
 	**Cite**:
 

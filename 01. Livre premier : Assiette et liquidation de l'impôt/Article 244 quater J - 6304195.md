@@ -18,11 +18,12 @@ précédant l'offre de ladite avance.
 Toutefois, cette condition n'est pas exigée dans les cas suivants : 
 
 a) Lorsque le bénéficiaire de l'avance remboursable ou l'un des occupants du logement à titre principal est titulaire de la
-carte d'invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4
-du code de la sécurité sociale ; 
+carte “ mobilité inclusion ” portant la mention “ invalidité ” mentionnée à l'article L. 241-3 du code de l'action sociale et
+des familles ; 
 
 b) Lorsque le bénéficiaire de l'avance remboursable ou l'un des occupants de la résidence à titre principal bénéficie d'une
-allocation attribuée en vertu des dispositions des articles L. 821-1 à L. 821-8 ou L. 541-1 à L. 541-3 du même code ; 
+allocation attribuée en vertu des dispositions des articles L. 821-1 à L. 821-8 ou L. 541-1 à L. 541-3 du code de la sécurité
+sociale  ; 
 
 c) Lorsque le bénéficiaire de l'avance remboursable ou l'un des occupants de la résidence à titre principal est victime d'une
 catastrophe ayant conduit à rendre inhabitable de manière définitive sa résidence principale. 
@@ -50,7 +51,7 @@ Le montant total des ressources à prendre en compte ne doit pas excéder 64 875
 Le montant de l'avance remboursable sans intérêt est plafonné à 32 500 €. 
 
 Ce dernier montant est majoré de 50 % dans les quartiers prioritaires de la politique de la ville et dans les zones franches
-urbaines - territoires entrepreneurs mentionnées à l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
+urbaines-territoires entrepreneurs mentionnées à l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
 l'aménagement et le développement du territoire. 
 
 Jusqu'au 31 décembre 2010, le montant plafond de l'avance remboursable sans intérêt est majoré d'un montant de 15 000 € pour
@@ -119,9 +120,9 @@ Modifications effectuées en conséquence de l'article 48-III de la loi n° 2014
 	  - Code général des impôts, CGI. - art. 238 bis
 	  - Code général des impôts, CGI. - art. 239 quater
 	  - Code monétaire et financier - art. L511-1
-	  - Code de la sécurité sociale. - art. L341-4
 	  - Code de la sécurité sociale. - art. L541-1
 	  - Code de la sécurité sociale. - art. L821-1
+	  - Code de l'action sociale et des familles - art. L241-3
 	  - Code de la construction et de l'habitation. - art. L312-1
 	  - Code de la construction et de l'habitation. - art. L312-2-1
 	  - Code de la construction et de l'habitation. - art. R331-1
@@ -169,4 +170,4 @@ Modifications effectuées en conséquence de l'article 48-III de la loi n° 2014
 
 	**Modifié par**:
 
-	  - Décret n°2015-608 du 3 juin 2015 - art. 1
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 107 (V)
