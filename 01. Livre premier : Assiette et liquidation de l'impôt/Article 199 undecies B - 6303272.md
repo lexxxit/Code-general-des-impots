@@ -15,10 +15,7 @@ aux vingt-sixième et vingt-septième alinéas, le chiffre d'affaires s'appréci
 preneuse. Celle-ci en communique le montant à la société réalisant l'investissement. Lorsque l'entreprise mentionnée aux
 deuxième et sixième phrases du présent alinéa est liée, directement ou indirectement, à une ou plusieurs autres entreprises
 au sens du 12 de l'article 39, le chiffre d'affaires à retenir s'entend de la somme de son chiffre d'affaires et de celui de
-l'ensemble des entreprises qui lui sont liées. Lorsque l'activité est exercée dans un département d'outre-mer ou à Saint-
-Martin, l'investissement doit être un investissement initial, au sens de l'article 2 du règlement (UE) n° 651/2014 de la
-Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des
-articles 107 et 108 du traité, et il ne doit pas être exploité par une entreprise en difficulté, au sens du même règlement. 
+l'ensemble des entreprises qui lui sont liées. 
 
 Toutefois, n'ouvrent pas droit à la réduction d'impôt les investissements réalisés, dans les secteurs d'activité suivants : 
 
@@ -275,7 +272,8 @@ IV.-Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités
 notamment les obligations déclaratives.
 
 V. - Le bénéfice de la réduction d'impôt prévue au I est subordonné, pour les investissements réalisés dans les départements
-d'outre-mer et à Saint-Martin, au respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, précité. 
+d'outre-mer et à Saint-Martin, au respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014 déclarant certaines
+catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité. 
 
 VI.-Le présent article est applicable aux investissements mis en service jusqu'au 31 décembre 2020 en Guadeloupe, en Guyane,
 en Martinique, à Mayotte, à La Réunion et à Saint-Martin, et jusqu'au 31 décembre 2025 à Saint-Pierre-et-Miquelon, en
@@ -291,12 +289,6 @@ productifs mentionnés au présent article sans recourir à un emprunt bancaire 
 d'abattement équivalent aux taux prévus au III du même article 244 quater W.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2009-594 du 27 mai 2009 - art. 16 (V)
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 110 (V)
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 19 (V)
 
 	**Cité par**:
 
@@ -337,7 +329,7 @@ d'abattement équivalent aux taux prévus au III du même article 244 quater W.
 	  - Code général des impôts, CGI. - art. 199 undecies E (V)
 	  - Code général des impôts, CGI. - art. 199 undecies F (M)
 	  - Code général des impôts, CGI. - art. 200-0 A (VD)
-	  - Code général des impôts, CGI. - art. 217 duodecies (M)
+	  - Code général des impôts, CGI. - art. 217 duodecies (V)
 	  - Code général des impôts, CGI. - art. 217 undecies (V)
 	  - Code général des impôts, CGI. - art. 242 septies (VT)
 	  - Code général des impôts, CGI. - art. 242 sexies (VD)
@@ -367,10 +359,10 @@ d'abattement équivalent aux taux prévus au III du même article 244 quater W.
 
 	  - Loi n°2009-888 du 22 juillet 2009
 	  - Code de commerce - art. L232-21
-	  - Code général des impôts, CGI. - art. 1010 (V)
+	  - Code général des impôts, CGI. - art. 1010
 	  - Code général des impôts, CGI. - art. 150-0 D
 	  - Code général des impôts, CGI. - art. 151 octies
-	  - Code général des impôts, CGI. - art. 199 terdecies-0 A
+	  - Code général des impôts, CGI. - art. 199 terdecies-0 A (V)
 	  - Code général des impôts, CGI. - art. 239 quater
 	  - Code général des impôts, CGI. - art. 244 quater Q
 	  - Code général des impôts, CGI. - art. 34
@@ -378,3 +370,7 @@ d'abattement équivalent aux taux prévus au III du même article 244 quater W.
 	  - Code général des impôts, CGI. - art. 41
 	  - Code des postes et des communications électroniques - art. L36-8
 	  - Code monétaire et financier - art. L313-23
+
+	**Modifié par**:
+
+	  - Loi n°2017-256 du 28 février 2017 - art. 127

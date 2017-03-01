@@ -4,9 +4,7 @@ I. ― 1. Les entreprises imposées d'après leur bénéfice réel ou exonérée
 44 septies, 44 octies, 44 octies A et 44 duodecies à 44 quindecies, exerçant une activité agricole ou une activité
 industrielle, commerciale ou artisanale relevant de l'article 34, peuvent bénéficier d'un crédit d'impôt à raison des
 investissements productifs neufs qu'elles réalisent dans un département d'outre-mer pour l'exercice d'une activité ne
-relevant pas de l'un des secteurs énumérés aux a à l du I de l'article 199 undecies B. L'investissement doit être un
-investissement initial, au sens de l'article 2 du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant
-certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité. 
+relevant pas de l'un des secteurs énumérés aux a à l du I de l'article 199 undecies B. 
 
 Le crédit d'impôt prévu au premier alinéa s'applique également aux travaux de rénovation et de réhabilitation d'hôtel, de
 résidence de tourisme et de village de vacances classés lorsque ces travaux constituent des éléments de l'actif immobilisé. 
@@ -34,9 +32,8 @@ b) Le contrat de location ou de crédit-bail revêt un caractère commercial ;
 c) L'entreprise locataire ou crédit-preneuse aurait pu bénéficier du crédit d'impôt prévu au 1 si elle avait acquis
 directement le bien. 
 
-4. Pour les entreprises soumises à l'impôt sur les sociétés dont l'activité principale relève de l'un des secteurs d'activité
-éligibles à la réduction d'impôt prévue à l'article 199 undecies B ou pour les organismes mentionnés au 1 du I de l'article
-244 quater X, le crédit d'impôt s'applique également : 
+4. Pour les entreprises soumises à l'impôt sur les sociétés ou pour les organismes mentionnés au 1 du I de l'article 244
+quater X, le crédit d'impôt s'applique également : 
 
 1° Aux acquisitions ou constructions de logements neufs à usage locatif situés dans les départements d'outre-mer, à
 l'exception des logements neufs répondant aux critères mentionnés aux b et c du 1 du I de l'article 244 quater X, si les
@@ -145,7 +142,9 @@ d'entreprises ou d'organismes mentionnés au premier alinéa du même 4.
 
 VII. ― Lorsque le montant total par programme d'investissements est supérieur aux seuils mentionnés au II quater et au III de
 l'article 217 undecies, le bénéfice du crédit d'impôt est conditionné à l'obtention d'un agrément préalable délivré par le
-ministre chargé du budget dans les conditions prévues au III du même article. 
+ministre chargé du budget dans les conditions prévues au III du même article, sauf dans le cas où il s'agit d'un programme
+d'investissements mentionné au 3° du 4 du I du présent article réalisé par un organisme mentionné au 1 du I de l'article 244
+quater X. 
 
 VIII. ― 1. L'investissement ayant ouvert droit au crédit d'impôt doit être affecté, par l'entreprise qui en bénéficie, à sa
 propre exploitation pendant un délai de cinq ans, décompté à partir de la date de l'acquisition ou de la création du bien. Ce
@@ -209,8 +208,9 @@ prévus au III, a été créé à la date de ces échéances.
 entreprises et organismes mentionnés au 4 du I.
 
 X. - Le bénéfice du crédit d'impôt prévu au I est subordonné au respect du règlement (UE) n° 651/2014 de la Commission, du 17
-juin 2014, précité et le crédit d'impôt ne s'applique pas aux investissements exploités par des entreprises en difficulté, au
-sens du même règlement.
+juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108
+du traité et le crédit d'impôt ne s'applique pas aux investissements exploités par des entreprises en difficulté, au sens du
+même règlement.
 
 **Nota:**
 
@@ -238,7 +238,7 @@ aux investissements réalisés au titre des exercices ouverts à compter du 1er 
 	  - Code général des impôts, CGI. - art. 239 quater C
 	  - Code général des impôts, CGI. - art. 239 quinquies
 	  - Code général des impôts, CGI. - art. 239 ter
-	  - Code général des impôts, CGI. - art. 244 quater X
+	  - Code général des impôts, CGI. - art. 244 quater X (V)
 	  - Code général des impôts, CGI. - art. 34
 	  - Code général des impôts, CGI. - art. 41
 	  - Code général des impôts, CGI. - art. 44 duodecies
@@ -279,4 +279,6 @@ aux investissements réalisés au titre des exercices ouverts à compter du 1er 
 
 	**Modifié par**:
 
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 110 (V)
+	  - Loi n°2017-256 du 28 février 2017 - art. 127
+	  - Loi n°2017-256 du 28 février 2017 - art. 132
+	  - Loi n°2017-256 du 28 février 2017 - art. 133

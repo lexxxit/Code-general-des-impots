@@ -18,9 +18,8 @@ ne sont plus rattachés à un établissement réunissant les conditions requises
 l'article 1466 F et au plus tard à compter des impositions établies au titre de 2019. 
 
 II.-Le taux de l'abattement est fixé à 50 % de la base d'imposition à la taxe foncière sur les propriétés bâties due au titre
-de chacune des années 2009 à 2015, à 40 % de la base d'imposition à la taxe foncière sur les propriétés bâties pour les
-impositions établies au titre des années 2016 et 2017, et à 30 % de la base d'imposition à la taxe foncière sur les
-propriétés bâties pour les impositions établies au titre de l'année 2018. 
+de chacune des années 2009 à 2015 et à 40 % de la base d'imposition à la taxe foncière sur les propriétés bâties pour les
+impositions établies au titre des années 2016 à 2020. 
 
 III.-Le montant de l'abattement mentionné au II est majoré : 
 
@@ -49,9 +48,8 @@ habitants en 2008 ;
 mentionnée au 4° du III de l'article 44 quaterdecies. 
 
 Le taux de cet abattement est fixé à 80 % de la base d'imposition à la taxe foncière sur les propriétés bâties pour les
-impositions dues au titre de chacune des années 2009 à 2015, à 70 % de la base d'imposition à la taxe foncière sur les
-propriétés bâties pour les impositions dues au titre des années 2016 et 2017, et à 50 % de la base d'imposition à la taxe
-foncière sur les propriétés bâties pour les impositions dues au titre de l'année 2018. 
+impositions dues au titre de chacune des années 2009 à 2015 et à 70 % de la base d'imposition à la taxe foncière sur les
+propriétés bâties pour les impositions dues au titre des années 2016 à 2020.
 
 IV.-Par dérogation au III, pour les immeubles situés dans les îles des Saintes, à Marie-Galante et à La Désirade, le taux de
 l'abattement mentionné au dernier alinéa du III est porté à 100 % pour les années 2009 à 2011. 
@@ -95,8 +93,8 @@ VIII.-Le bénéfice de l'abattement mentionné au I est subordonné au respect d
 	  - Code général des impôts, CGI. - art. 1383 B
 	  - Code général des impôts, CGI. - art. 1383 C
 	  - Code général des impôts, CGI. - art. 1383 C bis
-	  - Code général des impôts, CGI. - art. 1383 C ter (V)
-	  - Code général des impôts, CGI. - art. 1383 D (V)
+	  - Code général des impôts, CGI. - art. 1383 C ter
+	  - Code général des impôts, CGI. - art. 1383 D
 	  - Code général des impôts, CGI. - art. 1383 E bis
 	  - Code général des impôts, CGI. - art. 1383 I
 	  - Code général des impôts, CGI. - art. 1466 F
@@ -115,4 +113,4 @@ VIII.-Le bénéfice de l'abattement mentionné au I est subordonné au respect d
 
 	**Modifié par**:
 
-	  - Loi n°2016-1917 du 29 décembre 2016 - art. 28
+	  - Loi n°2017-256 du 28 février 2017 - art. 124 (V)

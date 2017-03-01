@@ -78,9 +78,9 @@ subventions publiques reçues. La limite mentionnée au 1 est applicable.
 
 3. Dans le cas mentionné au 4 du I, le crédit d'impôt est assis sur le prix de revient des travaux de réhabilitation minoré,
 d'une part, des taxes versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite d'un
-plafond de 20 000 € par logement. 
+plafond de 50 000 € par logement. 
 
-III. ― Le taux du crédit d'impôt est fixé à 40 %. Toutefois, ce taux est fixé à 20 % pour les travaux mentionnés au 4 du I. 
+III. ― Le taux du crédit d'impôt est fixé à 40 %. 
 
 IV. ― 1. Le crédit d'impôt prévu au I est accordé au titre de l'année d'acquisition de l'immeuble. 
 
@@ -172,7 +172,7 @@ mai 2016 et qui, à cette date, n'ont pas obtenu l'agrément prévu au VI de l'a
 	  - Code général des impôts, CGI. - art. 1740-0 A (V)
 	  - Code général des impôts, CGI. - art. 1740-00 AB (V)
 	  - Code général des impôts, CGI. - art. 220 Z quinquies (VD)
-	  - Code général des impôts, CGI. - art. 244 quater W (M)
+	  - Code général des impôts, CGI. - art. 244 quater W (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quaterdecies Y (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZZN (MMN)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZZT (V)
@@ -186,6 +186,4 @@ mai 2016 et qui, à cette date, n'ont pas obtenu l'agrément prévu au VI de l'a
 
 	**Modifié par**:
 
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 104
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 105
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 106 (V)
+	  - Loi n°2017-256 du 28 février 2017 - art. 134

@@ -20,13 +20,13 @@ Les conditions prévues aux 1° et 2° s'apprécient à la clôture de chaque ex
 premier alinéa est pratiqué. La condition prévue au 3° doit être satisfaite pour chaque exercice au titre duquel cet
 abattement est pratiqué. 
 
-II.-Les bénéfices mentionnés au I, réalisés et déclarés selon les modalités prévues aux articles 50-0,53 A, 72,74 à 74 B, 96
-à 100,102 ter et 103 par les entreprises répondant aux conditions prévues au I, à l'exception des plus-values constatées lors
-de la réévaluation des éléments d'actifs, font l'objet, dans la limite de 150 000 €, d'un abattement au titre de chaque
+II.-Les bénéfices mentionnés au I, réalisés et déclarés selon les modalités prévues aux articles 50-0, 53 A, 72, 74 à 74 B,
+96 à 100, 102 ter et 103 par les entreprises répondant aux conditions prévues au I, à l'exception des plus-values constatées
+lors de la réévaluation des éléments d'actifs, font l'objet, dans la limite de 150 000 €, d'un abattement au titre de chaque
 exercice ouvert à compter du 1er janvier 2008. 
 
 Le taux de l'abattement est fixé à 50 % au titre des exercices ouverts entre le 1er janvier 2008 et le 31 décembre 2014, à 40
-% pour les exercices ouverts en 2015 et à 35 % pour les exercices ouverts en 2016 et 2017. 
+% pour l'exercice ouvert en 2015 et à 35 % pour les exercices ouverts en 2016, 2017, 2018 et 2019. 
 
 III.-La limite et le taux de l'abattement mentionné au II sont majorés dans les cas suivants : 
 
@@ -61,6 +61,8 @@ e) Environnement ;
 
 f) Energies renouvelables ; 
 
+g) Bâtiments et travaux publics.
+
 4° Pour les bénéfices des entreprises provenant d'exploitations situées en Guadeloupe, en Martinique ou à La Réunion lorsque
 ces entreprises : 
 
@@ -76,8 +78,8 @@ d'affaires de l'exploitation, au titre de l'exercice au cours duquel l'abattemen
 en œuvre des marchandises ayant bénéficié de ce régime. 
 
 La limite de l'abattement est fixée à 300 000 €. Le taux de l'abattement est fixé à 80 % au titre des exercices ouverts entre
-le 1er janvier 2008 et le 31 décembre 2014, à 70 % pour les exercices ouverts en 2015 et à 60 % pour les exercices ouverts en
-2016 et 2017. 
+le 1er janvier 2008 et le 31 décembre 2014, à 70 % pour l'exercice ouvert en 2015 et à 60 % pour les exercices ouverts en
+2016, 2017, 2018 et 2019. 
 
 IV.-Par dérogation au III, pour les bénéfices provenant des exploitations situées dans les îles des Saintes, à Marie-Galante
 et à La Désirade, le taux de l'abattement mentionné au dernier alinéa du III est porté à 100 % pour les exercices ouverts
@@ -149,7 +151,7 @@ IX.-Le bénéfice de l'abattement mentionné au I est subordonné au respect du 
 	  - Loi n°2008-1249 du 1er décembre 2008
 	  - Loi n°2009-594 du 27 mai 2009
 	  - Code général des impôts, CGI. - art. 102 ter
-	  - Code général des impôts, CGI. - art. 199 undecies B (V)
+	  - Code général des impôts, CGI. - art. 199 undecies B
 	  - Code général des impôts, CGI. - art. 223 A
 	  - Code général des impôts, CGI. - art. 223 I
 	  - Code général des impôts, CGI. - art. 235 ter D
@@ -165,7 +167,7 @@ IX.-Le bénéfice de l'abattement mentionné au I est subordonné au respect du 
 
 	**Cité par**:
 
-	  - Loi n°2009-594 du 27 mai 2009 - art. 74 (M)
+	  - Loi n°2009-594 du 27 mai 2009 - art. 74 (V)
 	  - Décret n°2011-1603 du 21 novembre 2011 - art. 6 (V)
 	  - Décret n°2011-1927 du 22 décembre 2011 - art. 1 (V)
 	  - Code général des impôts, CGI. - art. 1388 quinquies (V)
@@ -184,4 +186,5 @@ IX.-Le bénéfice de l'abattement mentionné au I est subordonné au respect du 
 
 	**Modifié par**:
 
-	  - Loi n°2016-1917 du 29 décembre 2016 - art. 28
+	  - Loi n°2017-256 du 28 février 2017 - art. 124 (V)
+	  - Loi n°2017-256 du 28 février 2017 - art. 125 (V)

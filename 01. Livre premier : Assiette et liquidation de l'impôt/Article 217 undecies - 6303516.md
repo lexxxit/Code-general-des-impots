@@ -15,23 +15,21 @@ chiffre d'affaires défini au présent alinéa s'apprécie au niveau de l'entrep
 communique le montant à la société qui réalise l'investissement. Lorsque l'entreprise mentionnée aux première et avant-
 dernière phrases du présent alinéa est liée, directement ou indirectement, à une ou plusieurs autres entreprises au sens du
 12 de l'article 39, le chiffre d'affaires à retenir s'entend de la somme de son chiffre d'affaires et de celui de l'ensemble
-des entreprises qui lui sont liées. L'investissement doit être un investissement initial, au sens de l'article 2 du règlement
-(UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché
-intérieur en application des articles 107 et 108 du traité. Pour les projets d'investissement comportant l'acquisition,
-l'installation ou l'exploitation d'équipements de production d'énergie renouvelable, le montant déductible mentionné à la
-première phrase du présent alinéa est pris en compte dans la limite d'un montant par watt installé fixé par arrêté conjoint
-des ministres chargés du budget, de l'énergie, de l'outre-mer et de l'industrie pour chaque type d'équipement. Ce montant
-prend en compte les coûts d'acquisition et d'installation directement liés à ces équipements. La déduction est opérée sur le
-résultat de l'exercice au cours duquel l'investissement est mis en service, le déficit éventuel de l'exercice étant reporté
-dans les conditions prévues au I de l'article 209. Toutefois, en cas d'acquisition d'un immeuble à construire ou de
-construction d'immeuble, la déduction est opérée sur le résultat de l'exercice au cours duquel les fondations sont achevées.
-Si l'immeuble n'est pas achevé dans les deux ans suivant la date de l'achèvement des fondations, la somme déduite est
-rapportée au résultat imposable au titre de l'exercice au cours duquel intervient le terme de ce délai. En cas de
-réhabilitation hôtelière, la déduction est accordée au titre de l'année d'achèvement des travaux. La déduction s'applique
-également aux investissements réalisés par une société soumise au régime d'imposition prévu à l'article 8, à l'exclusion des
-sociétés en participation, ou un groupement mentionné aux articles 239 quater ou 239 quater C, dont les parts sont détenues
-directement par des entreprises soumises à l'impôt sur les sociétés. Dans ce cas, la déduction est pratiquée par les associés
-ou membres dans une proportion correspondant à leurs droits dans la société ou le groupement. 
+des entreprises qui lui sont liées. Pour les projets d'investissement comportant l'acquisition, l'installation ou
+l'exploitation d'équipements de production d'énergie renouvelable, le montant déductible mentionné à la première phrase du
+présent alinéa est pris en compte dans la limite d'un montant par watt installé fixé par arrêté conjoint des ministres
+chargés du budget, de l'énergie, de l'outre-mer et de l'industrie pour chaque type d'équipement. Ce montant prend en compte
+les coûts d'acquisition et d'installation directement liés à ces équipements. La déduction est opérée sur le résultat de
+l'exercice au cours duquel l'investissement est mis en service, le déficit éventuel de l'exercice étant reporté dans les
+conditions prévues au I de l'article 209. Toutefois, en cas d'acquisition d'un immeuble à construire ou de construction
+d'immeuble, la déduction est opérée sur le résultat de l'exercice au cours duquel les fondations sont achevées. Si l'immeuble
+n'est pas achevé dans les deux ans suivant la date de l'achèvement des fondations, la somme déduite est rapportée au résultat
+imposable au titre de l'exercice au cours duquel intervient le terme de ce délai. En cas de réhabilitation hôtelière, la
+déduction est accordée au titre de l'année d'achèvement des travaux. La déduction s'applique également aux investissements
+réalisés par une société soumise au régime d'imposition prévu à l'article 8, à l'exclusion des sociétés en participation, ou
+un groupement mentionné aux articles 239 quater ou 239 quater C, dont les parts sont détenues directement par des entreprises
+soumises à l'impôt sur les sociétés. Dans ce cas, la déduction est pratiquée par les associés ou membres dans une proportion
+correspondant à leurs droits dans la société ou le groupement. 
 
 La déduction prévue au premier alinéa ne s'applique qu'à la fraction du prix de revient des investissements réalisés par les
 entreprises qui excède le montant des apports en capital ouvrant droit au profit de leurs associés aux déductions prévues au
@@ -308,8 +306,9 @@ Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités de 
 déclaratives.
 
 VI. - Le bénéfice de la déduction prévue aux I, I bis, II et II ter est subordonné au respect du règlement (UE) n° 651/2014
-de la Commission, du 17 juin 2014, précité et la déduction ne s'applique pas aux investissements exploités par des
-entreprises en difficulté, au sens du même règlement.
+de la Commission, du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application
+des articles 107 et 108 du traité et la déduction ne s'applique pas aux investissements exploités par des entreprises en
+difficulté, au sens du même règlement.
 
 **Nota:**
 
@@ -369,7 +368,7 @@ aux investissements réalisés au titre des exercices ouverts à compter du 1er 
 	  - Code général des impôts, CGI. - art. 199 undecies C (V)
 	  - Code général des impôts, CGI. - art. 199 undecies E (V)
 	  - Code général des impôts, CGI. - art. 199 undecies F (V)
-	  - Code général des impôts, CGI. - art. 217 duodecies (M)
+	  - Code général des impôts, CGI. - art. 217 duodecies (V)
 	  - Code général des impôts, CGI. - art. 223 L (VT)
 	  - Code général des impôts, CGI. - art. 238 bis HP (V)
 	  - Code général des impôts, CGI. - art. 242 septies (VT)
@@ -397,4 +396,4 @@ aux investissements réalisés au titre des exercices ouverts à compter du 1er 
 
 	**Modifié par**:
 
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 110 (V)
+	  - Loi n°2017-256 du 28 février 2017 - art. 127
