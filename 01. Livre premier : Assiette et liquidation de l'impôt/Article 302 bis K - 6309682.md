@@ -42,16 +42,16 @@ Pour l'application du a, un décret précise les aéroports faisant partie d'un 
 4. Par dérogation au 1, les entreprises de transport aérien public qui effectuent des vols au départ de la France non soumis,
 en vertu d'un accord international conclu avec un Etat dont le territoire est contigu au territoire national, à
 l'autorisation préalable prévue à l'article L. 6412-3 du code des transports sont exonérées, à raison de ces vols, de la taxe
-de l'aviation civile (1).
+de l'aviation civile.
 
 II.-1. Le tarif de la taxe, perçue en fonction de la destination finale du passager est le suivant :
 
-4,44 € par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre Etat
+4,48 € par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre Etat
 partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ;
 
-8 € par passager embarqué vers d'autres destinations ;
+8,06 € par passager embarqué vers d'autres destinations ;
 
-Le tarif de la taxe est de 1,32 € par tonne de courrier ou de fret embarquée.
+Le tarif de la taxe est de 1,33 € par tonne de courrier ou de fret embarquée.
 
 A compter de l'année 2011, ces tarifs sont revalorisés chaque année dans une proportion égale au taux prévisionnel de
 croissance de l'indice des prix à la consommation hors tabac associé au projet de loi de finances de l'année.
@@ -206,17 +206,11 @@ tarif de la contribution ainsi que les règles de leur actualisation.
 5. Le produit de la contribution est recouvré par le comptable public territorialement compétent qui le reverse aux
 comptables publics du budget annexe " Contrôle et exploitation aériens ". La contribution est établie, recouvrée et contrôlée
 selon les procédures et sous les mêmes sanctions, garanties et privilèges que les taxes sur le chiffre d'affaires. Les
-réclamations sont présentées, instruites et jugées selon les règles applicables à ces mêmes taxes (1).
+réclamations sont présentées, instruites et jugées selon les règles applicables à ces mêmes taxes.
 
 **Nota:**
 
-(1) Conformément à l'article 49 II de la loi n° 2015-1785 du 29 décembre 2015, les dispositions de l'article 302 bis K
-résultant du I du même article (I. 4, VII), entrent en vigueur à une date fixée par décret qui ne peut être postérieure de
-plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de
-considérer le dispositif législatif comme conforme au droit de l'Union européenne en matière d'aides d'Etat. Le décret n°
-2017-640 du 26 avril 2017 fixe la date d'entrée en vigueur au 29 avril 2017.
-
-Modifications effectuées en conséquence de l'article 110 de la loi n° 2009-1673 du 30 décembre 2009.
+Modifications effectuées en conséquence de l’article 110 de la loi n° 2009-1673 du 30 décembre 2009.
 
 **Liens relatifs à cet article**
 
@@ -242,10 +236,8 @@ Modifications effectuées en conséquence de l'article 110 de la loi n° 2009-16
 	  - Code général des impôts, CGI. - art. 1729
 	  - Code général des impôts, CGI. - art. 1729 A
 	  - Livre des procédures fiscales - art. L176
-	  - Code des transports - art. L6412-3 (V)
+	  - Code des transports - art. L6412-3
 
 	**Modifié par**:
 
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 49 (V)
-	  - Décret n°2016-775 du 10 juin 2016 - art. 1
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 65 I
+	  - Décret n°2017-698 du 2 mai 2017 - art. 1

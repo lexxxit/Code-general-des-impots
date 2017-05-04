@@ -1,71 +1,53 @@
 # Article 1599 quater B
 
-I. ― L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'applique : 
+I. ― L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'applique :
 
 a) Aux répartiteurs principaux de la boucle locale cuivre au sens du 3° ter de l'article L. 32 du code des postes et des
-communications électroniques ; 
+communications électroniques ;
 
 b) Aux unités de raccordement d'abonnés et aux cartes d'abonnés du réseau téléphonique commuté. Ces équipements sont définis
-par décret. 
+par décret.
 
 II. ― L'imposition forfaitaire est due chaque année par le propriétaire du répartiteur principal, de l'unité de raccordement
-d'abonnés ou de la carte d'abonné au 1er janvier de l'année d'imposition. 
+d'abonnés ou de la carte d'abonné au 1er janvier de l'année d'imposition.
 
-III. ― Le montant de l'imposition est établi de la manière suivante : 
+III. ― Le montant de l'imposition est établi de la manière suivante :
 
 a) Pour les répartiteurs principaux de la boucle locale cuivre, le montant de l'imposition de chaque répartiteur principal
 est fonction du nombre de lignes en service qu'il comporte au 1er janvier de l'année d'imposition. Le tarif de l'imposition
-par ligne en service est établi selon le barème suivant : 
-
-(En euros) 
+par ligne en service est établi selon le barème suivant :
 
 <table>
-    <tbody>
-      <tr>
-        <th>NATURE DE L'ÉQUIPEMENT 
+  <tbody>
+    <tr>
+      <th>
 
-</th>
-        <th>
+NATURE DE L'ÉQUIPEMENT</th>
+      <th>
 
-TARIF 
+TARIF
 
-(en euros) 2016 
+(en euros) à compter de 2017</th>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</th>
-        <th>
+Ligne en service d'un répartiteur principal</td>
+      <td align="center">
 
-TARIF (EN EUROS) 
+12,73</td>
+    </tr>
+  </tbody>
+</table>
 
-à compter de 2017 
-
-</th>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
-
-Ligne en service d'un répartiteur principal 
-
-</td>
-        <td valign="middle" align="center">
-
-10,13 
-
-</td>
-        <td align="center" valign="middle">
-
-12,65</td>
-      </tr>
-    </tbody>
-  </table>
-
-b) Abrogé 
+b) Abrogé
 
 IV. ― Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année d'imposition, par
-région, département et commune : 
+région, département et commune :
 
-a) Le nombre de répartiteurs principaux et de lignes en service que chacun comportait au 1er janvier ; 
+a) Le nombre de répartiteurs principaux et de lignes en service que chacun comportait au 1er janvier ;
 
-b) Le nombre d'unités de raccordement d'abonnés et de cartes d'abonnés au 1er janvier. 
+b) Le nombre d'unités de raccordement d'abonnés et de cartes d'abonnés au 1er janvier.
 
 Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privilèges sont régis comme en matière de cotisation
 foncière des entreprises.
@@ -75,11 +57,12 @@ foncière des entreprises.
 Conformément à l'article 71-III de la loi n° 2013-1279 du 29 décembre 2013, le b du III de l'article 1599 quater b est abrogé
 au 1er janvier 2017.
 
+<font color="#000000" size="1">Modifications effectuées en conséquence de l’article 112-III</font>
+  <font color="#000000" size="1">de l</font>
+  <font color="#000000" size="1">a loi n°</font> 2010-1657 du 29 décembre 2010
+  <font size="1" color="#000000">.</font>
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 	**Cité par**:
 
@@ -92,8 +75,7 @@ au 1er janvier 2017.
 
 	**Modifié par**:
 
-	  - Loi n°2013-1279 du 29 décembre 2013 - art. 71 (V)
-	  - Décret n°2016-775 du 10 juin 2016 - art. 1
+	  - Décret n°2017-698 du 2 mai 2017 - art. 1
 
 	**Cite**:
 
