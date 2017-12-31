@@ -35,7 +35,10 @@ i) Dans la fabrication d'un composant qui n'est pas soumis à l'impôt en applic
 
 III.-Les opérateurs qui veulent bénéficier des exonérations prévues au I et au II ou qui veulent se livrer au commerce des
 alcools totalement dénaturés mentionnés au a du I doivent en faire préalablement déclaration à l'administration selon des
-modalités fixées par décret. 
+modalités fixées par décret. Cette déclaration est effectuée par voie électronique. Toutefois, les opérateurs qui ne
+disposent pas, en raison de l'absence de couverture du lieu où ils sont établis par un ou plusieurs réseaux offrant un accès
+aux communications électroniques, d'un système d'information permettant d'accéder à internet, établissent leur déclaration
+sur papier. 
 
 IV.-Sont exonérés des droits mentionnés aux articles 575 et 575 E bis les tabacs manufacturés : 
 
@@ -50,25 +53,10 @@ du directeur régional des douanes et droits indirects territorialement compéte
 
 **Nota:**
 
-Loi n° 2012-354 du 14 mars 2012 de finances rectificative pour 2012 article 27 : Les présentes dispositions s'appliquent :
-
-Sous réserve des décisions de justice passées en force de chose jugée, le g du II de l'article 302 D bis du code général des
-impôts, dans sa rédaction résultant de la présente loi, est applicable à partir du 12 mai 2011.
-
-Sous réserve des décisions de justice passées en force de chose jugée, l'alcool pur acquis par les pharmaciens d'officine
-entre le 31 mars 2002 et le 12 mai 2011, dans la limite d'un contingent annuel fixé par l'administration au titre du g du II
-de l'article 302 D bis du code général des impôts, est exonéré des droits mentionnés aux articles 302 B et suivants du même
-code.
-
-La perte de recettes pour les organismes de sécurité sociale est compensée à due concurrence par la majoration des droits
-visés aux articles 575 et 575 A du code général des impôts.
+Conformément à l'article 72 II de la loi n° 2015-1786 du 29 décembre 2015, les présentes dispositions  s'appliquent à compter
+d'une date fixée par décret, comprise entre le 1er janvier 2018 et le 31 décembre 2019.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2012-354 du 14 mars 2012 - art. 27 (Ab)
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 56
 
 	**Cité par**:
 
@@ -87,9 +75,13 @@ visés aux articles 575 et 575 A du code général des impôts.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 H (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 I (V)
 
+	**Modifié par**:
+
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 72 (V)
+
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 302 B
-	  - Code général des impôts, CGI. - art. 575 (M)
-	  - Code général des impôts, CGI. - art. 575 E bis (V)
+	  - Code général des impôts, CGI. - art. 575
+	  - Code général des impôts, CGI. - art. 575 E bis
 	  - Code de la santé publique - art. L5111-1

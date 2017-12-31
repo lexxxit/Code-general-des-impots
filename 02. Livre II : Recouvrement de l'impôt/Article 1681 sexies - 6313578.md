@@ -5,17 +5,16 @@ l'article 1663 sont acquittés, au choix du contribuable, par virement directeme
 les écritures de la Banque de France ou par prélèvements opérés à l'initiative de l'administration fiscale sur un compte visé
 à l'article 1680 A. 
 
-2. Lorsque leur montant excède 2 000 € (1), les acomptes mentionnés à l'article 1664, l'impôt sur le revenu, la taxe
-d'habitation et la contribution à l'audiovisuel public, les taxes foncières ainsi que les impositions recouvrées selon les
-mêmes règles que ces impositions sont acquittés par prélèvements opérés à l'initiative du Trésor public sur un compte visé
-aux 1° ou 2° de l'article 1681 D. 
+2. Lorsque leur montant excède 1 000 € (1), l'impôt sur le revenu, la taxe d'habitation et la contribution à l'audiovisuel
+public, les taxes foncières ainsi que les impositions recouvrées selon les mêmes règles que ces impositions sont acquittés
+par prélèvements opérés à l'initiative du Trésor public sur un compte mentionné à l'article 1680 A. 
 
 Par exception au premier alinéa du présent 2, l'impôt de solidarité sur la fortune peut être acquitté par dation dans les
 conditions prévues à l'article 1716 bis.
 
 3. La cotisation foncière des entreprises, ses taxes additionnelles, l'imposition forfaitaire sur les entreprises de réseaux
 et sa contribution additionnelle, les frais mentionnés sur le rôle ainsi que leur acompte sont acquittés par prélèvements
-opérés à l'initiative du Trésor public sur un compte mentionné aux 1° ou 2° de l'article 1681 D. 
+opérés à l'initiative du Trésor public sur un compte mentionné aux 1° ou 2° de l'article 1680 A. 
 
 4. Quel que soit leur montant, la cotisation foncière des entreprises et l'imposition forfaitaire sur les entreprises de
 réseaux, recouvrées par voie de rôles, ne peuvent pas être acquittées par virement. Cette interdiction s'applique également
@@ -24,14 +23,13 @@ la contribution additionnelle à l'imposition forfaitaire sur les entreprises de
 
 **Nota:**
 
-(1) Ces dispositions s'appliquent aux paiements effectués à compter du 1er janvier 2017.
+(1) Ces dispositions s'appliquent aux paiements effectués à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
 	  - Loi n°2015-1785 du 29 décembre 2015 - art. 76 (V)
-	  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (V)
 
 	**Cite**:
 

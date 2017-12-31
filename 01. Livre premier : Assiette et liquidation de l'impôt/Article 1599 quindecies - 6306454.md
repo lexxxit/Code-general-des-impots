@@ -1,7 +1,6 @@
 # Article 1599 quindecies
 
-Il est institué au profit des régions et de la collectivité territoriale de Corse une taxe sur les certificats
-d'immatriculation des véhicules. 
+Il est institué au profit des régions une taxe sur les certificats d'immatriculation des véhicules. 
 
 Cette taxe est proportionnelle ou fixe, selon les distinctions établies par les articles 1599 sexdecies à 1599 novodecies. 
 
@@ -39,8 +38,8 @@ La taxe sur les certificats d'immatriculation des véhicules est assise et recou
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 72 (V)
+	  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 1
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1599 sexdecies (V)
+	  - Code général des impôts, CGI. - art. 1599 sexdecies

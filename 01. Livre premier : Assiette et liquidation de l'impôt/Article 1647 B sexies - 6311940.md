@@ -22,7 +22,7 @@ des entreprises diminuées, le cas échéant, de l'ensemble des réductions et d
 l'objet, à l'exception du crédit d'impôt prévu à l'article 1647 C septies et des dégrèvements prévus aux articles 1647 C
 quinquies B et 1647 C quinquies C. 
 
-Il ne s'applique pas aux taxes visées aux articles 1600 à 1601 B ni aux prélèvements opérés par l'Etat sur ces taxes en
+Il ne s'applique pas aux taxes visées aux articles 1600 à 1601 A ni aux prélèvements opérés par l'Etat sur ces taxes en
 application de l'article 1641. Il ne s'applique pas non plus à la cotisation minimum prévue à l'article 1647 D. 
 
 La cotisation foncière des entreprises s'entend de la somme des cotisations de chaque établissement établies au titre de
@@ -71,8 +71,7 @@ d'inconstitutionnalité prend effet dans les conditions prévues au considérant
 
 	**Modifié par**:
 
-	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
-	  - DÉCISION n°2014-413 QPC du 19 septembre 2014 - art. 1, v. init.
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 103 (V)
 
 	**Cite**:
 

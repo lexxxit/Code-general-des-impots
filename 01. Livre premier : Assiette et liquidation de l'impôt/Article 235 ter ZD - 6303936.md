@@ -3,13 +3,12 @@
 I.-Une taxe s'applique à toute acquisition à titre onéreux d'un titre de capital, au sens de l'article L. 212-1 A du code
 monétaire et financier, ou d'un titre de capital assimilé, au sens de l'article L. 211-41 du même code, dès lors que ce titre
 est admis aux négociations sur un marché réglementé français, européen ou étranger, au sens des articles L. 421-4, L. 422-1
-ou L. 423-1 dudit code, que son acquisition donne lieu à un transfert de propriété, au sens de l'article L. 211-17 du même
-code, et que ce titre est émis par une société dont le siège social est situé en France et dont la capitalisation boursière
-dépasse un milliard d'euros au 1er décembre de l'année précédant celle d'imposition.
+ou L. 423-1 dudit code, et que ce titre est émis par une société dont le siège social est situé en France et dont la
+capitalisation boursière dépasse un milliard d'euros au 1er décembre de l'année précédant celle d'imposition. 
 
-L'acquisition, au sens du premier alinéa, s'entend de l'achat, y compris dans le cadre de l'exercice d'une option ou dans le
-cadre d'un achat à terme ayant fait préalablement l'objet d'un contrat, de l'échange ou de l'attribution, en contrepartie
-d'apports, de titres de capital mentionnés au même premier alinéa. 
+L'acquisition, au sens du premier alinéa, s'entend de l'exécution d'un ordre d'achat ou, à défaut, de l'achat, y compris dans
+le cadre de l'exercice d'une option ou dans le cadre d'un achat à terme ayant fait préalablement l'objet d'un contrat, de
+l'échange ou de l'attribution, en contrepartie d'apports, de titres de capital mentionnés au même premier alinéa. 
 
 Les titres représentant ceux mentionnés audit premier alinéa émis par une société, quel que soit le lieu d'établissement de
 son siège social, sont soumis à la taxe. 
@@ -41,7 +40,7 @@ c) Soit à la couverture des positions associées à la réalisation des opérat
 pratiques de marché admises acceptées par l'Autorité des marchés financiers en application du règlement (UE) n° 596/2014 du
 Parlement européen et du Conseil du 16 avril 2014 sur les abus de marché (règlement relatif aux abus de marché) et abrogeant
 la directive 2003/6/ CE du Parlement européen et du Conseil et les directives 2003/124/ CE, 2003/125/ CE et 2004/72/ CE de la
-Commission ;
+Commission ; 
 
 5° Aux acquisitions de titres entre sociétés membres du même groupe, au sens de l'article L. 233-3 du code de commerce, au
 moment de l'acquisition de titres concernée, aux acquisitions de titres entre sociétés du même groupe, au sens de l'article
@@ -89,9 +88,9 @@ code, quel que soit son lieu d'établissement. L'acquéreur lui transmet les inf
 article. 
 
 VII.-Si le dépositaire central teneur du compte d'émission du titre de capital est soumis au 3° du II de l'article L. 621-9
-du code monétaire et financier et effectue la livraison du titre, le redevable mentionné au VI du présent article fournit au
-dépositaire central les informations mentionnées au VIII avant le 5 du mois suivant les acquisitions mentionnées au I et
-désigne l'adhérent sur le compte duquel la taxe peut être prélevée. 
+du code monétaire et financier et effectue la livraison du titre, ou s'il n'y a pas de livraison du titre, le redevable
+mentionné au VI du présent article fournit au dépositaire central les informations mentionnées au VIII avant le 5 du mois
+suivant les acquisitions mentionnées au I et désigne l'adhérent sur le compte duquel la taxe peut être prélevée. 
 
 Si le dépositaire central teneur du compte d'émission du titre de capital est soumis au 3° du II de l'article L. 621-9 du
 code monétaire et financier et n'effectue pas la livraison du titre, laquelle est effectuée dans les livres d'un de ses
@@ -122,9 +121,10 @@ disposition de l'administration les informations mentionnées au VIII.
 VIII.-Si le dépositaire central teneur du compte d'émission du titre de capital est soumis au 3° du II de l'article L. 621-9
 du code monétaire et financier, il recueille de la part de ses adhérents ou des redevables, dans les conditions prévues au
 VII du présent article, des informations relatives aux opérations entrant dans le champ d'application de la taxe. Un décret
-précise la nature de ces informations, qui incluent le montant de la taxe due au titre de la période d'imposition, les
-numéros d'ordre des opérations concernées, la date de leur réalisation, la désignation, le nombre et la valeur des titres
-dont l'acquisition est taxable et les opérations exonérées, réparties selon les catégories d'exonération mentionnées au II. 
+précise, que l'acquisition donne lieu ou non à un transfert de propriété au sens de l'article L. 211-17 dudit code, la nature
+de ces informations, qui incluent le montant de la taxe due au titre de la période d'imposition, les numéros d'ordre quand
+ils existent des opérations concernées, la date de leur réalisation, la désignation, le nombre et la valeur des titres dont
+l'acquisition est taxable et les opérations exonérées, réparties selon les catégories d'exonération mentionnées au II. 
 
 IX.-Le dépositaire central teneur du compte d'émission du titre soumis au 3° du II de l'article L. 621-9 du code monétaire et
 financier déclare à l'administration fiscale, selon le modèle qu'elle a fixé, centralise et reverse au Trésor la taxe avant
@@ -154,10 +154,15 @@ l'amende prévue à l'article 1788 C.
 
 XII.-La taxe est recouvrée et contrôlée selon les procédures et sous les mêmes sanctions, garanties et privilèges que les
 taxes sur le chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ces
-mêmes taxes.
+mêmes taxes. 
 
 XIII.-La taxe est affectée à l'Agence française de développement dans la limite du plafond prévu au I de l'article 46 de la
 loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
+
+**Nota:**
+
+Loi n° 2016-1917 du 29 décembre 2016, article 62 II : Ces dispositions s'appliquent aux acquisitions réalisées à compter du
+1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -179,27 +184,30 @@ loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 58 Q (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 58 R (V)
 
-	**Modifié par**:
-
-	  - Loi n°2016-1917 du 29 décembre 2016 - art. 25
-	  - Loi n°2016-1917 du 29 décembre 2016 - art. 36 (V)
-
 	**Cite**:
 
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VT)
 	  - Code de commerce - art. L233-3
 	  - Code général des impôts, CGI. - art. 1727
 	  - Code général des impôts, CGI. - art. 210 A
 	  - Code général des impôts, CGI. - art. 220 quater
 	  - Code général des impôts, CGI. - art. 223 A
 	  - Code monétaire et financier - art. L211-1
-	  - Code monétaire et financier - art. L211-17
+	  - Code monétaire et financier - art. L211-17 (V)
 	  - Code monétaire et financier - art. L211-41
 	  - Code monétaire et financier - art. L212-1 A
+	  - Code monétaire et financier - art. L214-164 (V)
+	  - Code monétaire et financier - art. L214-166 (V)
 	  - Code monétaire et financier - art. L321-1
+	  - Code monétaire et financier - art. L321-2 (VT)
 	  - Code monétaire et financier - art. L421-4
 	  - Code monétaire et financier - art. L422-1
 	  - Code monétaire et financier - art. L423-1
 	  - Code monétaire et financier - art. L440-1
-	  - Code monétaire et financier - art. L621-9 (M)
+	  - Code monétaire et financier - art. L621-9
 	  - Code du travail - art. L3332-15
 	  - Code du travail - art. L3344-1
+
+	**Modifié par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 62 (V)
