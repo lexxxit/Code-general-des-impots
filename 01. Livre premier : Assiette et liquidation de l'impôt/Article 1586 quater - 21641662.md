@@ -27,8 +27,9 @@ Pour l'application du présent article, le chiffre d'affaires s'entend de celui 
 I bis.-Lorsqu'une société est membre d'un groupe mentionné à l'article 223 A ou à l'article 223 A bis, le chiffre d'affaires
 à retenir pour l'application du I s'entend de la somme des chiffres d'affaires de chacune des sociétés membres du groupe. 
 
-Le présent I bis n'est pas applicable aux sociétés membres d'un groupe dont la société mère au sens de l'article 223 A ou de
-l'article 223 A bis bénéficie des dispositions du b du I de l'article 219. 
+Le premier alinéa n'est pas applicable aux sociétés membres d'un groupe dont la société mère, au sens des articles 223 A ou
+223 A bis, bénéficie des dispositions du b du I de l'article 219 et dont la somme des chiffres d'affaires de chacune des
+sociétés membres, au sens de ces dispositions, est inférieure à 7 630 000 €. 
 
 II.-Le montant du dégrèvement est majoré de 1 000 € pour les entreprises dont le chiffre d'affaires est inférieur à 2 000 000
 €. 
@@ -58,21 +59,11 @@ au cours des six mois qui précèdent la date de réalisation de l'opération me
 Le présent III ne s'applique plus à compter de la huitième année suivant l'opération d'apport, de cession d'activité, de
 scission d'entreprise ou de transmission universelle du patrimoine mentionnée à l'article 1844-5 du code civil en cause.
 
-**Nota:**
-
-Conformément à la décision n° 2017-629 QPC du 19 mai 2017 (NOR: CSCX1714790S), Art. 1 : Le premier alinéa du paragraphe I bis
-de l'article 1586 quater du code général des impôts, dans sa rédaction résultant de la loi n° 2010-1657 du 29 décembre 2010
-de finances pour 2011, est contraire à la Constitution. Conformément à l'article 2 de ladite décision, la déclaration
-d'inconstitutionnalité prend effet dans les conditions fixées au paragraphe 13 de cette décision (En l'espèce, aucun motif ne
-justifie de reporter les effets de la déclaration d'inconstitutionnalité. Celle-ci intervient donc à compter de la date de
-publication de la présente décision. Elle est applicable à toutes les affaires non jugées définitivement à cette date, sous
-réserve du respect des délais et conditions prévus par le livre des procédures fiscales.).
-
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 	**Cité par**:
 
@@ -84,11 +75,11 @@ réserve du respect des délais et conditions prévus par le livre des procédur
 
 	**Modifié par**:
 
-	  - Loi n°2014-891 du 8 août 2014 - art. 20
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 11 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1586 ter
-	  - Code général des impôts, CGI. - art. 219
+	  - Code général des impôts, CGI. - art. 1586 ter (V)
+	  - Code général des impôts, CGI. - art. 219 (M)
 	  - Code général des impôts, CGI. - art. 223 A
 	  - Code civil - art. 1844-5

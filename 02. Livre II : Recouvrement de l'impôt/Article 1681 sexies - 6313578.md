@@ -5,7 +5,7 @@ l'article 1663 sont acquittés, au choix du contribuable, par virement directeme
 les écritures de la Banque de France ou par prélèvements opérés à l'initiative de l'administration fiscale sur un compte visé
 à l'article 1680 A. 
 
-2. Lorsque leur montant excède 1 000 € (1), l'impôt sur le revenu, la taxe d'habitation et la contribution à l'audiovisuel
+2. Lorsque leur montant excède 300 € (1),  l'impôt sur le revenu, la taxe d'habitation et la contribution à l'audiovisuel
 public, les taxes foncières ainsi que les impositions recouvrées selon les mêmes règles que ces impositions sont acquittés
 par prélèvements opérés à l'initiative du Trésor public sur un compte mentionné à l'article 1680 A. 
 
@@ -23,7 +23,7 @@ la contribution additionnelle à l'imposition forfaitaire sur les entreprises de
 
 **Nota:**
 
-(1) Ces dispositions s'appliquent aux paiements effectués à compter du 1er janvier 2018.
+(1) Ces dispositions s'appliquent aux paiements effectués à compter du 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
